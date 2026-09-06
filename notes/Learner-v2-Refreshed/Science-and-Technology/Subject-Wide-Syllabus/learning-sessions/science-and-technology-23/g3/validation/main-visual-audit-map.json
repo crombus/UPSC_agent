@@ -1,0 +1,2005 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-23\\g3\\science-and-technology-23_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-23\\g3\\science-and-technology-23_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "General Science: Biology and Physiology - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 40,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 417.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 68,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-23\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 470.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 163.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 82,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Cell types organelles biomolecules and enzymes as a sequence: identify Cell organisation and organelle boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 104,
+      "heading": "VISUAL FIRST",
+      "preview": "CELL TYPES ORGANELLES BIOMOLECULES AND ENZYMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 158,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CELL TYPES ORGANELLES BIOMOLECULES AND ENZYMES",
+      "preview": "START / CONCEPT: FOUNDATION — Cell types organelles biomolecules and enzymes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 158.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Diffusion moves particles down a concentration gradient, osmosis is net water movement across a selectively permeable membrane, and active transport uses cellular energy to move substances against a gradient.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 188,
+      "heading": "VISUAL FIRST",
+      "preview": "MEMBRANES DIFFUSION OSMOSIS ACTIVE TRANSPORT AND TONICITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 241,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MEMBRANES DIFFUSION OSMOSIS ACTIVE TRANSPORT AND TONICITY",
+      "preview": "START / CONCEPT: FOUNDATION — Membranes diffusion osmosis active transport and tonicity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 614.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 373.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Mitosis meiosis chromosomes and biological variation as a sequence: identify Mitosis meiosis and variation, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 204.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 124.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 271,
+      "heading": "VISUAL FIRST",
+      "preview": "MITOSIS MEIOSIS CHROMOSOMES AND BIOLOGICAL VARIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 324,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MITOSIS MEIOSIS CHROMOSOMES AND BIOLOGICAL VARIATION",
+      "preview": "START / CONCEPT: FOUNDATION — Mitosis meiosis chromosomes and biological variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 335,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: DNA RNA gene expression and microRNA Qualified use: Trace information from DNA through RNA to protein while preserving regulatory RNA roles.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 354,
+      "heading": "VISUAL FIRST",
+      "preview": "DNA RNA REPLICATION TRANSCRIPTION TRANSLATION AND MICRORNA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 407,
+      "heading": "CLOSING RECALL FLOW - CORE - DNA RNA REPLICATION TRANSCRIPTION TRANSLATION AND MICRORNA",
+      "preview": "START / CONCEPT: CORE — DNA RNA replication transcription translation and microRNA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 418,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mutations may be point, frameshift or chromosomal changes and supply variation without guaranteeing benefit; human XX-XY sex determination and X-linked recessive inheritance explain why haemophilia or red-green colour blindness can show sex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 437,
+      "heading": "VISUAL FIRST",
+      "preview": "MENDELIAN INHERITANCE MUTATION SEX DETERMINATION AND SEX LINKAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 473,
+      "markdown_body_line_end": 490,
+      "heading": "CLOSING RECALL FLOW - CORE - MENDELIAN INHERITANCE MUTATION SEX DETERMINATION AND SEX LINKAGE",
+      "preview": "START / CONCEPT: CORE — Mendelian inheritance mutation sex determination and sex linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 501,
+      "markdown_body_line_end": 501,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Digestion absorption nutrients vitamins and deficiency logic as a sequence: identify Digestion absorption and nutrition, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 523,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGESTION ABSORPTION NUTRIENTS VITAMINS AND DEFICIENCY LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 577,
+      "heading": "CLOSING RECALL FLOW - CORE - DIGESTION ABSORPTION NUTRIENTS VITAMINS AND DEFICIENCY LOGIC",
+      "preview": "START / CONCEPT: CORE — Digestion absorption nutrients vitamins and deficiency logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 588,
+      "markdown_body_line_end": 588,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Blood circulation heart gas transport and clotting as a sequence: identify Respiration gas exchange and cellular energy, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 607,
+      "heading": "VISUAL FIRST",
+      "preview": "BLOOD CIRCULATION HEART GAS TRANSPORT AND CLOTTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 660,
+      "heading": "CLOSING RECALL FLOW - CORE - BLOOD CIRCULATION HEART GAS TRANSPORT AND CLOTTING",
+      "preview": "START / CONCEPT: CORE — Blood circulation heart gas transport and clotting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Respiration excretion nephron and homeostasis as a sequence: identify Kidney nephron and homeostasis, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL FIRST",
+      "preview": "RESPIRATION EXCRETION NEPHRON AND HOMEOSTASIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 743,
+      "heading": "CLOSING RECALL FLOW - CORE - RESPIRATION EXCRETION NEPHRON AND HOMEOSTASIS",
+      "preview": "START / CONCEPT: CORE — Respiration excretion nephron and homeostasis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 305.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 84.691
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Nervous control reflex arcs endocrine glands and feedback as a sequence: identify Nervous endocrine and feedback control, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the n",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 773,
+      "heading": "VISUAL FIRST",
+      "preview": "NERVOUS CONTROL REFLEX ARCS ENDOCRINE GLANDS AND FEEDBACK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 319.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 826,
+      "heading": "CLOSING RECALL FLOW - CORE - NERVOUS CONTROL REFLEX ARCS ENDOCRINE GLANDS AND FEEDBACK",
+      "preview": "START / CONCEPT: CORE — Nervous control reflex arcs endocrine glands and feedback",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 294.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 837,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Innate adaptive humoral cellular and tolerance pathways as a sequence: identify Hormones metabolism and internal stability, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 140.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 59.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "INNATE ADAPTIVE HUMORAL CELLULAR AND TOLERANCE PATHWAYS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 909,
+      "heading": "CLOSING RECALL FLOW - CORE - INNATE ADAPTIVE HUMORAL CELLULAR AND TOLERANCE PATHWAYS",
+      "preview": "START / CONCEPT: CORE — Innate adaptive humoral cellular and tolerance pathways",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 920,
+      "markdown_body_line_end": 920,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transmission may be respiratory, faeco-oral, blood-borne, sexual, vector-borne, fomite-linked or zoonotic; a vector such as Aedes, Anopheles, Culex or sandfly carries a pathogen but is not the disease itself.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 375.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "PATHOGENS TRANSMISSION VECTORS ZOONOSES AND DISEASE CLASSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 996,
+      "heading": "CLOSING RECALL FLOW - CORE - PATHOGENS TRANSMISSION VECTORS ZOONOSES AND DISEASE CLASSES",
+      "preview": "START / CONCEPT: CORE — Pathogens transmission vectors zoonoses and disease classes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1007,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Antibiotics antivirals antimicrobial resistance and biofilms as a sequence: identify Antibiotic antiviral and AMR boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 264.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1026,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTIBIOTICS ANTIVIRALS ANTIMICROBIAL RESISTANCE AND BIOFILMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1079,
+      "heading": "CLOSING RECALL FLOW - CORE - ANTIBIOTICS ANTIVIRALS ANTIMICROBIAL RESISTANCE AND BIOFILMS",
+      "preview": "START / CONCEPT: CORE — Antibiotics antivirals antimicrobial resistance and biofilms",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1090,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A biofilm is a surface-associated microbial community embedded in a matrix that can alter persistence and treatment response; the human microbiome contributes to digestion, vitamin production, immune development and pathogen exclusion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 284.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1109,
+      "heading": "VISUAL FIRST",
+      "preview": "MICROBIOME PROBIOTICS EXTREMOPHILES AND MICROBIAL CONTEXT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1145,
+      "markdown_body_line_end": 1162,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MICROBIOME PROBIOTICS EXTREMOPHILES AND MICROBIAL CONTEXT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Microbiome probiotics extremophiles and microbial context",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1173,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Plant physiology photosynthesis transport hormones and adaptation as a sequence: identify Plant physiology transport and stress response, follow the named mechanism to its user or output, and stop at the last verified status rather tha",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 264.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1195,
+      "heading": "VISUAL FIRST",
+      "preview": "PLANT PHYSIOLOGY PHOTOSYNTHESIS TRANSPORT HORMONES AND ADAPTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1249,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PLANT PHYSIOLOGY PHOTOSYNTHESIS TRANSPORT HORMONES AND ADAPTATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Plant physiology photosynthesis transport hormones and adaptation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 295
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1260,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Routed organisms cellulose institutions PYQs and evidence status as a sequence: identify Cellulose decomposition route, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the nex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 355.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 274.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1282,
+      "heading": "VISUAL FIRST",
+      "preview": "ROUTED ORGANISMS CELLULOSE INSTITUTIONS PYQS AND EVIDENCE STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 140
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1322,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims *(primarily Prelims-heavy general science)*. **Core area:** Cell biology, human physiology, genetics, immunity, microbiology and plant physi",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 614.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1333,
+      "heading": "1. Visual foundation",
+      "preview": "System / unit | Core function | UPSC cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "System / unit",
+          "Core function",
+          "UPSC cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 592.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 407.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1342,
+      "heading": "1. Visual foundation",
+      "preview": "DNA -> RNA -> protein",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 407.422
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 336.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1361,
+      "heading": "2. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 407.49
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1379,
+      "heading": "2. Essential definitions",
+      "preview": "Area | What must be known",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Area",
+          "What must be known"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 388.29
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 690.29
+        }
+      },
+      "pdf_pages": [
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1449,
+      "markdown_body_line_end": 1449,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** General biology and physiology matter in GS-III because they connect molecular and organ-level science to public health, disease control, nutrition, biotechnology and agricultural productivity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1488,
+      "markdown_body_line_end": 1505,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ROUTED ORGANISMS CELLULOSE INSTITUTIONS PYQS AND EVIDENCE STATUS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Routed organisms cellulose institutions PYQs and evidence status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 617
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1520,
+      "heading": "Why this supplement is necessary",
+      "preview": "Missing bridge | Evidence-led reconstruction | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Missing bridge",
+          "Evidence-led reconstruction",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 382.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 151.49
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1536,
+      "heading": "Why this supplement is necessary",
+      "preview": "court and military core",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1540,
+      "markdown_body_line_end": 1545,
+      "heading": "State-formation debate",
+      "preview": "Model | What it illuminates | Why it is insufficient alone",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Model",
+          "What it illuminates",
+          "Why it is insufficient alone"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 478.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1569,
+      "markdown_body_line_end": 1574,
+      "heading": "Language and script matrix",
+      "preview": "Context | Exam-safe formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Context",
+          "Exam-safe formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 175.29
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 43.488
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2721,
+      "markdown_body_line_end": 2725,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims *(life-science fundamentals upgraded into public-health, biotechnology and governance analysis)*. **Core area:** Gene regulation, human physiological sy",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 523.091
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 336.424
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2740,
+      "heading": "2. Visual foundation",
+      "preview": "Biological layer | Core process | Public-system implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Biological layer",
+          "Core process",
+          "Public-system implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 249.824
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 98.022
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2744,
+      "heading": "2. Visual foundation",
+      "preview": "DNA -> transcription -> RNA -> translation / regulation -> protein -> cell function -> tissue/organ function -> health outcome",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 776.291
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2748,
+      "markdown_body_line_end": 2759,
+      "heading": "3. Essential definitions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 754.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 472.89
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2824,
+      "heading": "10. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 633.09
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2835,
+      "heading": "12. Mains framework / angles",
+      "preview": "**Answer thesis:** Biology and physiology become GS-III material when molecular regulation, organ-system coordination and immunity are used to explain public health, biotechnology, disease surveillance and food-system resilience.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 513.89
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 455.022
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2898,
+      "markdown_body_line_end": 2911,
+      "heading": "General Science: Biology and Physiology: DISEASE, MICROBE, PLANT AND ROUTED-PYQ FIREWALLS",
+      "preview": "IDENTIFY CELL TYPE ORGANELLE BIOMOLECULE MEMBRANE AND GRADIENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 343.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2921,
+      "markdown_body_line_end": 2927,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Cell and organelle map",
+      "preview": "PROKARYOTE -> no membrane-bound nucleus or organelles",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2931,
+      "markdown_body_line_end": 2937,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Membrane transport decision tree",
+      "preview": "SOLUTE DOWN GRADIENT -> diffusion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2941,
+      "markdown_body_line_end": 2947,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Cell division comparison",
+      "preview": "MITOSIS -> one division -> two similar cells",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2951,
+      "markdown_body_line_end": 2957,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Gene-expression rail",
+      "preview": "DNA --replication--> DNA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2961,
+      "markdown_body_line_end": 2967,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Nutrition and digestion route",
+      "preview": "MOUTH -> amylase",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2971,
+      "markdown_body_line_end": 2977,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Transport respiration excretion loop",
+      "preview": "LUNGS -> alveolar gas exchange",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2981,
+      "markdown_body_line_end": 2987,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Control and feedback ladder",
+      "preview": "RECEPTOR -> change detected",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2991,
+      "markdown_body_line_end": 2997,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Immunity architecture",
+      "preview": "BARRIERS + PHAGOCYTES + COMPLEMENT -> innate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3001,
+      "markdown_body_line_end": 3007,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Disease transmission grid",
+      "preview": "BACTERIUM | VIRUS | FUNGUS | PROTOZOAN | HELMINTH",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3011,
+      "markdown_body_line_end": 3019,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Microbial ecology and resistance",
+      "preview": "ANTIMICROBIAL PRESSURE -> selection",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3023,
+      "markdown_body_line_end": 3031,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Plant function flow",
+      "preview": "ROOT -> water + mineral uptake",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3035,
+      "markdown_body_line_end": 3043,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and evidence-status rail",
+      "preview": "TAXON / PLANT FORM / SPECIES PROPERTY -> exact classification",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    }
+  ]
+}

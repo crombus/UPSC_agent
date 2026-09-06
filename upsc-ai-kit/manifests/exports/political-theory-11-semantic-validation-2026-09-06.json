@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-11",
+  "record_id": "political-theory-11:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 10,
+    "questions": [
+      {
+        "title": "Solved PYQ 1 - 2022 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 258,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 2 - 2023 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 235,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 3 - 2024 Q4(b), 15 marks",
+        "marks": 15,
+        "model_words": 205,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 4 - 2025 Q2(c), 15 marks",
+        "marks": 15,
+        "model_words": 274,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 150,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 156,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 248,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 229,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 233,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 233,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 49,
+    "workbook_pages": 32,
+    "main_layout": {
+      "page_count": 49,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 32,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Complete-Learning-Session_2026-09-06.md": "6aaafa91dbe52276dff38fe678a446877d63039d1b7d43619f85fc9e6efb7470",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Solved-Practice-Workbook_2026-09-06.md": "81037ed748823e7d7471e29021d920c7efccde869f7a59b0c8a8085f4349dd91",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Complete-Learning-Session_2026-09-06.pdf": "0def99903095f645d92f11224b3a668835dd75eaa1676a48e1841f1d6cc95117",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Solved-Practice-Workbook_2026-09-06.pdf": "7c394daa4e5da3a10d139d4ce722c25eef7d669786b7e5b97a61c141dc6e55aa",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\master.png": "a152d6f38d77b39280d04c68f012672681cf09042fc27ef31941f7c1f746cb79",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\poster.pdf": "59d7a3751747a9f64c68bbe177cfb63f3db5122baf76b2f8163b92f95bfe20e3",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\tiled.pdf": "7e95a473d2107a4bfac0a91d34ad8f4258b6eba8ea3b173941da3c91eb540348",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\ascii-master.pdf": "3b5f3de0856351e94650e8c631939e13c0a205bca3bf5bc6ac2016c3dad19347",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\ascii-master.txt": "89c8d3f5b163b8884d0eacb0cc416cadc83ca8d84a44144417355d540c30802c"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-11",
+    "title": "Sovereignty and Pluralism",
+    "old_record_id": "political-theory-11:learner-v2:g3",
+    "new_record_id": "political-theory-11:learner-v2:g4",
+    "old_generation": 3,
+    "new_generation": 4,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-11-learner-v2-g4-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T11:47:32.999616+00:00",
+    "identities": {
+      "export": "political-theory-11:learner-v2:g4",
+      "master": "political-theory-11:learner-v2:g4",
+      "review": "political-theory-11:learner-v2:g4"
+    },
+    "generations": {
+      "export": 4,
+      "master": 4,
+      "review": 4
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-12"
+}

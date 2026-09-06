@@ -1,0 +1,1347 @@
+{
+  "schema_version": 1,
+  "subject": "Disaster Management",
+  "access_date": "2026-09-06",
+  "generated_at": "2026-09-06T09:22:35.543704+00:00",
+  "topic_count": 18,
+  "result": "passed",
+  "policy": {
+    "authoritative_domains_only": true,
+    "minimum_attempts_per_topic": 3,
+    "minimum_substantive_retrievals_per_topic": 1,
+    "failed_intermediates_preserved": true,
+    "facts_and_inference_separated": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-01",
+      "access_date": "2026-09-06",
+      "verification_scope": "risk terminology, resilience, Sendai priorities and targets",
+      "attempted": 5,
+      "substantive_retrievals": 1,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ndma.gov.in/Resources/Guidelines",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://wmo.int/all-activities/build-resilience/early-warnings-all",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://wmo.int/all-activities/build-resilience/early-warnings-all",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 122471,
+          "sample_sha256": "50ccfadbf178f8188f9a3e172c5640b025c313f706cc5f31520e3f820e8b13d7",
+          "title": "Early Warnings for All",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/sendai-framework-action",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-02",
+      "access_date": "2026-09-06",
+      "verification_scope": "Disaster Management Act, institutions, plans, rules and funds",
+      "attempted": 5,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ndrf.gov.in/en/about-us",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ndrf.gov.in/en/about-us",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 45670,
+          "sample_sha256": "a1de4900c998fa922c94521c0daf4b1ceae125a128153285a3f4d38f3894a488",
+          "title": "About Us | NDRF - National Disaster Response Force",
+          "substantive": true
+        },
+        {
+          "url": "https://nidm.gov.in/about.asp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nidm.gov.in/about.asp",
+          "content_type": "text/html",
+          "bytes_sampled": 20412,
+          "sample_sha256": "10f35d27c0e97ef21c2b88eae864093a5e2b102370101ef0915fbf273c6ce01e",
+          "title": "NIDM - Home",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/2045/1/A200553.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/2045/1/A200553.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "cb3cebbd63c6dc64dbfa41edf48c8f214ff24a6b3e9e407e51b0f0d42a372f4a",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2025-pdfs/LS22072025/284.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2025-pdfs/LS22072025/284.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 56720,
+          "sample_sha256": "96ed299bde533c3522711732ed0d8d21c1576661ce73230e854219852ce09866",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/disaster-management-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/disaster-management-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 72909,
+          "sample_sha256": "e407361b500426e29477e8be8bd63604775358303ceb8c8349a74e385f8ef703",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-03",
+      "access_date": "2026-09-06",
+      "verification_scope": "community-based DRR, inclusion, volunteers and local capacity",
+      "attempted": 7,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ndma.gov.in/Resources/Guidelines",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://nidm.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nidm.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 48007,
+          "sample_sha256": "f6adec0edf8018995627c51a456cd5134f7b63842b5f5e83e3fd58169d9fd3e0",
+          "title": "NIDM - Home",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2069426",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2069426&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 80312,
+          "sample_sha256": "2bd159e0d9f2dd9b6080ec47bafce0a437b685ca9e9095468d02bdba0e228ea1",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2082745",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2082745&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 159596,
+          "sample_sha256": "b7fd5cfc46e6f5d5f3bd2c606f40f68071c08189b5f46528b2e5cce07f09f2ca",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2155/?locale=en",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-04",
+      "access_date": "2026-09-06",
+      "verification_scope": "multi-hazard warning chain, competent agencies and technology",
+      "attempted": 8,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cwc.gov.in/flood-forecasting-hydrological-observation",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cwc.gov.in/flood-forecasting-hydrological-observation",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 164710,
+          "sample_sha256": "d8b953d59539e27f5f7abe9bfdc6d597f1e76c42d798e2b200bd8af7e4659d10",
+          "title": "Flood Forecasting/ Hydrological Observation | Central Water Commission, Ministry of jal shakti, Department of Water Resources, River Development and Ganga Rejuvenation, GoI",
+          "substantive": true
+        },
+        {
+          "url": "https://mausam.imd.gov.in/index_en.php",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://mausam.imd.gov.in/index_en.php",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 219732,
+          "sample_sha256": "3af605fcbab07200af6404e2c7a654b6900e57e16be1c9603a1cdc8f9bdb0e7e",
+          "title": "IMD Mausam - India Meteorological Department",
+          "substantive": true
+        },
+        {
+          "url": "https://sachet.ndma.gov.in/About",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://sachet.ndma.gov.in/About",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 50049,
+          "sample_sha256": "d8e5648d2c18fad43000eb3a92132e76cd93205c91f37c8627229396cf5eab63",
+          "title": "SACHET - National Disaster Alert Portal",
+          "substantive": true
+        },
+        {
+          "url": "https://tsunami.incois.gov.in/TEWS/dsssop.jsp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://tsunami.incois.gov.in/TEWS/dsssop.jsp",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 30547,
+          "sample_sha256": "b5673e9cf6bee3420f9b4374ce4baef0b02be4b0b110ad826af8380d0b6bd252",
+          "title": "ESSO | Govt. of India",
+          "substantive": true
+        },
+        {
+          "url": "https://wmo.int/all-activities/build-resilience/early-warnings-all",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://wmo.int/all-activities/build-resilience/early-warnings-all",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 122471,
+          "sample_sha256": "50ccfadbf178f8188f9a3e172c5640b025c313f706cc5f31520e3f820e8b13d7",
+          "title": "Early Warnings for All",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/DisasterManagementSupport.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/DisasterManagementSupport.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 3906,
+          "sample_sha256": "8272234e5070a130cc40714cc063ab6f28c407a5e42b4ebaf39a4eddda4569b7",
+          "title": "Disaster Management Support",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-05",
+      "access_date": "2026-09-06",
+      "verification_scope": "seismic hazard, zonation, building standards and resilient construction",
+      "attempted": 8,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://bhusanket.gsi.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://bhusanket.gsi.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 40350,
+          "sample_sha256": "90dce5d20864004e4471e6ce7d25c1d1b5cb39b07a5e8438f8d6a16c5d06da4e",
+          "title": "GSI Public Portal",
+          "substantive": true
+        },
+        {
+          "url": "https://ndma.gov.in/Natural-Hazards/Earthquakes",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2247533",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247533&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "f4e802ce0985ebe8aa3f1035a45b6aaf1452baf51bdee40e6ba3f833a034a751",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://services.bis.gov.in/tmp/SR4326.pdf",
+          "outcome": "http_error",
+          "http_status": 503,
+          "error": "HTTP Error 503: Service Unavailable",
+          "substantive": false
+        },
+        {
+          "url": "https://www.bis.gov.in/other/PRESS_NOTE.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.bis.gov.in/other/PRESS_NOTE.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 6136,
+          "sample_sha256": "6ba8bc53450d8170c725dfeeb46a02fd2808e5d03f1bca483958165c9e254656",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.bis.gov.in/standards/national-building-code/?lang=en",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.bis.gov.in/standards/national-building-code/?lang=en",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 424355,
+          "sample_sha256": "4da9a4093e6452c03f3061eadfed81b92186789702d79a0ea85121104ad6a6fe",
+          "title": "National Building Code - Bureau of Indian Standards",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-06",
+      "access_date": "2026-09-06",
+      "verification_scope": "tsunami detection, warning, evacuation and coastal preparedness",
+      "attempted": 6,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ndma.gov.in/Natural-Hazards/Tsunami",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ndma.gov.in/Natural-Hazards/Tsunami",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 73568,
+          "sample_sha256": "0593126901672e2d2dc970681551b7915b37716e79899b715f69825ff3133786",
+          "title": "Tsunami | NDMA",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2226879&reg=3&lang=1",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226879&reg=3&lang=1",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 96299,
+          "sample_sha256": "f3a93d25e396b75f300e893b724e5e370fb794a05157eae2c7399955e6d93a0a",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://tsunami.incois.gov.in/TEWS/dsssop.jsp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://tsunami.incois.gov.in/TEWS/dsssop.jsp",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 30547,
+          "sample_sha256": "b5673e9cf6bee3420f9b4374ce4baef0b02be4b0b110ad826af8380d0b6bd252",
+          "title": "ESSO | Govt. of India",
+          "substantive": true
+        },
+        {
+          "url": "https://tsunami.incois.gov.in/TEWS/tsunamiready.jsp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://tsunami.incois.gov.in/TEWS/tsunamiready.jsp",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 48501,
+          "sample_sha256": "df90e0b5406ab58ffae1bea8e5ea3a22d29fce67c45a818bf44be5afbac109b7",
+          "title": "ESSO | Govt. of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-07",
+      "access_date": "2026-09-06",
+      "verification_scope": "cyclone forecasting, storm surge, shelters and coastal preparedness",
+      "attempted": 7,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://mausam.imd.gov.in/imd_latest/contents/pdf/cyclone_sop.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://mausam.imd.gov.in/imd_latest/contents/pdf/cyclone_sop.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "ad5a68366b866be5d5da57f49c66dc46e08d1ab310dc0a8b16be0a5b0d70dded",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://mausam.imd.gov.in/responsive/cycloneinformation.php",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://mausam.imd.gov.in/responsive/cycloneinformation.php",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 36926,
+          "sample_sha256": "149ab704423b61541ddb754ff1dd78c5debfa50ed8bfb4703b490407e61666b4",
+          "title": "Cyclone Information | India Meteorological Department",
+          "substantive": true
+        },
+        {
+          "url": "https://mitigation.ndma.gov.in/ncrmp/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://mitigation.ndma.gov.in/ncrmp/",
+          "content_type": "text/html",
+          "bytes_sampled": 38658,
+          "sample_sha256": "e838aef08e9367b146514452c0122dd2ec0df520543d6b1bd35f8fb92ac81305",
+          "title": "NCRMP | National Cyclone Risk Mitigation Project",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2021706",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2021706&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 99820,
+          "sample_sha256": "0fc663c1e54204b4715be3fdc133db1f286b94d825c1ebd189a7ccbc317699e9",
+          "title": "Press Release:Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://sachet.ndma.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://sachet.ndma.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 66681,
+          "sample_sha256": "e64b50e19fdcf166d422e3cb8332ae407804d445157c9d903503d011b0ceb044",
+          "title": "SACHET - National Disaster Alert Portal",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-08",
+      "access_date": "2026-09-06",
+      "verification_scope": "riverine/urban flooding, forecasts, drainage and floodplain governance",
+      "attempted": 7,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cwc.gov.in/flood-forecasting-hydrological-observation",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cwc.gov.in/flood-forecasting-hydrological-observation",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 164710,
+          "sample_sha256": "66100c005d2496a7c8e292f58a0b4c242b95429e474c089c9bf989758793d760",
+          "title": "Flood Forecasting/ Hydrological Observation | Central Water Commission, Ministry of jal shakti, Department of Water Resources, River Development and Ganga Rejuvenation, GoI",
+          "substantive": true
+        },
+        {
+          "url": "https://ndma.gov.in/Natural-Hazards/Floods",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2226438&reg=3&lang=1",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226438&reg=3&lang=1",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 90848,
+          "sample_sha256": "a5d5b317f1c95f57b06c6c4147054399eab817e8075cf50b3826d85ceb3bc9d8",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/17002?sam_handle=123456789/1362",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.isro.gov.in/DisasterManagementSupport.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/DisasterManagementSupport.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 3906,
+          "sample_sha256": "8272234e5070a130cc40714cc063ab6f28c407a5e42b4ebaf39a4eddda4569b7",
+          "title": "Disaster Management Support",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-09",
+      "access_date": "2026-09-06",
+      "verification_scope": "drought, heat-wave criteria, health/agriculture risk and action plans",
+      "attempted": 7,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://agriwelfare.gov.in/Documents/Updated%20Drought%20Manual_0.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://agriwelfare.gov.in/Documents/Updated%20Drought%20Manual_0.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "aa36e682eac4fa1d91ec59be388283042a65539b61754d4f167ae4c7e41e6406",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://cgwb.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cgwb.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 118422,
+          "sample_sha256": "dbe5c032c45375382942922e5a4bf8970c9b0785d3a6c936c2c192693db7ecf7",
+          "title": "Home | CGWB",
+          "substantive": true
+        },
+        {
+          "url": "https://icar-crida.res.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://icar-crida.res.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 206068,
+          "sample_sha256": "c1187ede6330e4b147017d6797d24e20c1552045b4a75ff1596fd61f8bc274db",
+          "title": "ICAR-CRIDA-Home Page",
+          "substantive": true
+        },
+        {
+          "url": "https://mausam.imd.gov.in/responsive/heatwave_guidance.php",
+          "outcome": "http_error",
+          "http_status": 500,
+          "error": "HTTP Error 500: Internal Server Error",
+          "substantive": false
+        },
+        {
+          "url": "https://nidm.gov.in/pdf/trgReports/2026/March/Trg_25-27March2026ms.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://nidm.gov.in/pdf/trgReports/2026/March/Trg_25-27March2026ms.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "83ebe89ae87c18dcab3e6cf603b537e9e61657e8be8e8e816bc9fff5a97eca29",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-10",
+      "access_date": "2026-09-06",
+      "verification_scope": "landslides, avalanches, GLOFs, susceptibility and monitoring",
+      "attempted": 7,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://bhusanket.gsi.gov.in/rolesAndResponsibility.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://bhusanket.gsi.gov.in/rolesAndResponsibility.html",
+          "content_type": "text/html",
+          "bytes_sampled": 5585,
+          "sample_sha256": "38fef84066aaa249f746f4cf947cffd74c1e6268a8eb35fcc7fde53a2d5f0b32",
+          "title": "Roles and Responsibilities",
+          "substantive": true
+        },
+        {
+          "url": "https://nidm.gov.in/modules.asp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nidm.gov.in/modules.asp",
+          "content_type": "text/html",
+          "bytes_sampled": 57714,
+          "sample_sha256": "b16a14fd1b388885983cc59ec7dd34423569936b65063978e08aeb85fb907421",
+          "title": "NIDM - Modules",
+          "substantive": true
+        },
+        {
+          "url": "https://www.drdo.gov.in/drdo/sites/default/files/avalanche_warning_bulletin/DGRE_AWB_30-Apr-2026.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.drdo.gov.in/drdo/sites/default/files/avalanche_warning_bulletin/DGRE_AWB_30-Apr-2026.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "fe2b58bd4e9cf91cc58a11b8c53a4e9fcbe25b51bc2658c6ce6d5b6905170136",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Landslide_Atlas_India.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Landslide_Atlas_India.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 4770,
+          "sample_sha256": "5cb6793d34a63c143260453f26917fe354165984e97a574beeaad8a96afb909f",
+          "title": "Landslide Atlas of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nrsc.gov.in/nrscnew/resources_atlas_landslide.php",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nrsc.gov.in/nrscnew/resources_atlas_landslide.php",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 63693,
+          "sample_sha256": "c7e53e07f9240d29768ea52d4fd0ac15dd20d8bd97fbfc77429faad1f21395e5",
+          "title": "Landslide Atlas",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-11",
+      "access_date": "2026-09-06",
+      "verification_scope": "forest-fire alerts, field verification, suppression and recovery",
+      "attempted": 6,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://fsi.nic.in/focus-areas?pgID=focus-areas",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://fsi.nic.in/focus-areas?pgID=focus-areas",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 70050,
+          "sample_sha256": "df9d45a6a8f7e74ad51675629249610ad7e5ea3150db7366ac385dcfc1ba29f4",
+          "title": "Welcome To Forest Survey of India | Forest Survey of India",
+          "substantive": true
+        },
+        {
+          "url": "https://fsiforestfire.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://fsiforestfire.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 37282,
+          "sample_sha256": "24b5b2b3f97fb8cc604d80a29b8d3fbc4e087d17f452ff16cc8f154917e5482b",
+          "title": "Forest Fire Alerts Dashboard",
+          "substantive": true
+        },
+        {
+          "url": "https://moef.gov.in/forest-protection-forest-fire",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://nidm.gov.in/iec.asp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nidm.gov.in/iec.asp",
+          "content_type": "text/html",
+          "bytes_sampled": 39373,
+          "sample_sha256": "e73a82a30bdfa5427b2da47df5455261b889fba3f2b7b1759db920013a761bb9",
+          "title": "NIDM - Awareness Materials",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-12",
+      "access_date": "2026-09-06",
+      "verification_scope": "industrial, chemical, nuclear and CBRN law, plans and response",
+      "attempted": 7,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cpcb.nic.in/chemical-emergency/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cpcb.gov.in/chemical-emergency/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 313721,
+          "sample_sha256": "fdc1d13e17d39d6aeab4c693ada40c791cf4232f7c4a478ecc03a2b7a25fa475",
+          "title": "CPCB | Central Pollution Control Board",
+          "substantive": true
+        },
+        {
+          "url": "https://ndma.gov.in/sites/default/files/PDF/Guidelines/chemical-disaster.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://nidm.gov.in/PDF/pubs/CHEMICAL%20DISASTER%20MANAGEMENT.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://nidm.gov.in/PDF/pubs/CHEMICAL%20DISASTER%20MANAGEMENT.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "c8fed5e0577a66cc476ffd289245d90e865e130e3d9af8a7f6fb57d869778d1b",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://peso.gov.in/web/en/rti/rules-regulations-instructions-manuals-and-records-held-it-or-under-its-control-or-used-its",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://peso.gov.in/web/en/rti/rules-regulations-instructions-manuals-and-records-held-it-or-under-its-control-or-used-its",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 103847,
+          "sample_sha256": "c3949b7f3e5b619f3993c9348d8cd1e5c7e2cae21285367044ef90b4ca3c0656",
+          "title": "Rules, regulations, instructions, manuals and records, held by it or under its control or used by its employees for discharging its Functions | Petroleum &amp; Explosive Safety Organisation",
+          "substantive": true
+        },
+        {
+          "url": "https://www.aerb.gov.in/english/regulatory-facilities/nuclear-power-plants/emergency-preparedness",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.aerb.gov.in/hindi/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 134466,
+          "sample_sha256": "44873b36493d4051065093115d7cae8b3bcc6529d3f8433d5d2112a39297ea9b",
+          "title": "होम | एईआरबी",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-13",
+      "access_date": "2026-09-06",
+      "verification_scope": "surveillance, outbreak terminology and public-health emergency systems",
+      "attempted": 8,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ncdc.mohfw.gov.in/includes/About/CentresAndDivision/IDSP.php",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ncdc.mohfw.gov.in/includes/About/CentresAndDivision/IDSP.php",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 52167,
+          "sample_sha256": "f936b955864044720f59c67c8a18a4d455831a21529baca502d77a04523191f7",
+          "title": "NCDC | MOHFW",
+          "substantive": true
+        },
+        {
+          "url": "https://nidm.gov.in/documentations.asp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nidm.gov.in/documentations.asp",
+          "content_type": "text/html",
+          "bytes_sampled": 36995,
+          "sample_sha256": "9ea10f0137a744db9fe875caf14be1807769c6a4f5591a3e51c02e1b363064aa",
+          "title": "NIDM - Documentations",
+          "substantive": true
+        },
+        {
+          "url": "https://www.icmr.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.icmr.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 177338,
+          "sample_sha256": "d3452af7c97a4865307d00c613519afd90cc02a38a2ca1aaad4087ded282c666",
+          "title": "Home | Indian Council of Medical Research | Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.who.int/health-topics/emergencies",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/health-topics/emergencies",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 86322,
+          "sample_sha256": "d576cd94800ce8b088a18aba5d5184437585155b28a27218eb574545f2bb70f6",
+          "title": "Emergencies",
+          "substantive": true
+        },
+        {
+          "url": "https://www.who.int/news/item/19-09-2025-amended-international-health-regulations-enter-into-force",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/news/item/19-09-2025-amended-international-health-regulations-enter-into-force",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 103002,
+          "sample_sha256": "5793243da946c7a291ecabe414ac7cf703acef487e0e67f8dd5ebb12cf7abad2",
+          "title": "Amended International Health Regulations enter into force",
+          "substantive": true
+        },
+        {
+          "url": "https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 103667,
+          "sample_sha256": "b86ac2e99d4f70394cc148655724e9cd48dbefe65b36d2092c9732011c92e597",
+          "title": "WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-14",
+      "access_date": "2026-09-06",
+      "verification_scope": "urban systems, critical infrastructure, continuity and resilience",
+      "attempted": 8,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://amrut.mohua.gov.in/uploads/saasci/B1-Innovative-Method.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://amrut.mohua.gov.in/uploads/saasci/B1-Innovative-Method.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 350266,
+          "sample_sha256": "7e186b804fcccb3a7659f5a49ccac29f25d43d7dfd64fbc116d38e68fd7907db",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://cdri.world/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cdri.world/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "f19641d8f7a103d6984ea736b9328dcbc9444a7692d7cc6cba9103e0d7625b57",
+          "title": "CDRI",
+          "substantive": true
+        },
+        {
+          "url": "https://cea.nic.in/?lang=en",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cea.nic.in/?lang=en",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 220350,
+          "sample_sha256": "d488b13dfb0c82735c325defba85d09bb15ac4016cc01ee13ca6da47befa976c",
+          "title": "Home page - Central Electricity Authority",
+          "substantive": true
+        },
+        {
+          "url": "https://cea.nic.in/ps___lf/97719/?lang=en",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cea.nic.in/ps___lf/97719/?lang=en",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 117820,
+          "sample_sha256": "5904efc8e31279e60ebd1b7503370c34ef4c69baaeb159d40741aa2c2b2db90d",
+          "title": "Disaster Management Plan 2024 for Power Sector - Central Electricity Authority",
+          "substantive": true
+        },
+        {
+          "url": "https://ndma.gov.in/Resources/awareness/Urban-Flooding",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.bis.gov.in/standards/national-building-code/?lang=en",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.bis.gov.in/standards/national-building-code/?lang=en",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 424355,
+          "sample_sha256": "04fc4c6c2a605d20c49b1f806b60bf5c40d268aeca3e61ce27d508e658584045",
+          "title": "National Building Code - Bureau of Indian Standards",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-15",
+      "access_date": "2026-09-06",
+      "verification_scope": "climate-risk links, adaptation, loss and damage and framework status",
+      "attempted": 7,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://unfccc.int/loss-and-damage-fund-joint-interim-secretariat",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://unfccc.int/loss-and-damage-fund-joint-interim-secretariat",
+          "content_type": "text/html",
+          "bytes_sampled": 212,
+          "sample_sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://unfccc.int/process-and-meetings/bodies/constituted-bodies/wim-excom/chronology",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://unfccc.int/process-and-meetings/bodies/constituted-bodies/wim-excom/chronology",
+          "content_type": "text/html",
+          "bytes_sampled": 212,
+          "sample_sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://unfccc.int/wim-excom",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://unfccc.int/wim-excom",
+          "content_type": "text/html",
+          "bytes_sampled": 212,
+          "sample_sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://wmo.int/activities/climate-services",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://wmo.int/activities/climate-services",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 101856,
+          "sample_sha256": "5a56c1b0a2abf4253c96de233287c0e393228140f74797997c69ec524e92c868",
+          "title": "Climate Services",
+          "substantive": true
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/wg2/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.ipcc.ch/report/ar6/wg2/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 399529,
+          "sample_sha256": "bcf5f389f44cd00241953c7ed0eeeeb2cb91cd31ec274b9a9030867bc44d3fb6",
+          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-16",
+      "access_date": "2026-09-06",
+      "verification_scope": "disaster funds, finance tiers, risk transfer and Build Back Better",
+      "attempted": 5,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://fincomindia.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://fincomindia.nic.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 144685,
+          "sample_sha256": "0d33d77cfdca005db0c62be973c252c5a437e9e3eb2f7f4ec37c6c85c91d1f93",
+          "title": ":: Finance Commission, India ::",
+          "substantive": true
+        },
+        {
+          "url": "https://irdai.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://irdai.gov.in/",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 363049,
+          "sample_sha256": "a293ce5f922739c86f98115f83b84ec7f10e82e8bc150f785b478b9ce8d0ec12",
+          "title": "Home - IRDAI",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/disaster-management-division/response-fund",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-17",
+      "access_date": "2026-09-06",
+      "verification_scope": "relief, logistics, rehabilitation, recovery and protection standards",
+      "attempted": 7,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ndrf.gov.in/en/about-us",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ndrf.gov.in/en/about-us",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 45670,
+          "sample_sha256": "cf0954c0f00cd569f8af96ec108ff83b976c102afbc8c3c8ae165176b8fed749",
+          "title": "About Us | NDRF - National Disaster Response Force",
+          "substantive": true
+        },
+        {
+          "url": "https://www.ifrc.org/document/sphere-handbook-humanitarian-charter-and-minimum-standards-humanitarian-response",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.ifrc.org/our-work/disasters-climate-and-crises",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.unocha.org/we-coordinate",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.unocha.org/we-coordinate",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 164717,
+          "sample_sha256": "2b490207f6dffbecd7ee30f32976b6f879734ac9b0bdd9c83facea22202e6350",
+          "title": "We coordinate | OCHA",
+          "substantive": true
+        },
+        {
+          "url": "https://www.who.int/health-topics/emergencies",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/health-topics/emergencies",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 86322,
+          "sample_sha256": "d576cd94800ce8b088a18aba5d5184437585155b28a27218eb574545f2bb70f6",
+          "title": "Emergencies",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    },
+    {
+      "topic_key": "disaster-management-18",
+      "access_date": "2026-09-06",
+      "verification_scope": "capacity, plans, exercises, cooperation, Sendai and institutional learning",
+      "attempted": 6,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://bimstec.org/sector/disaster-management",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://nidm.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nidm.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 48007,
+          "sample_sha256": "f6adec0edf8018995627c51a456cd5134f7b63842b5f5e83e3fd58169d9fd3e0",
+          "title": "NIDM - Home",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.undrr.org/our-work",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.undrr.org/our-work",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 157802,
+          "sample_sha256": "6d0d786b4bc38a5adf2af3c86829b47520559f87c3423dd610a35346a676f6cf",
+          "title": "Our work",
+          "substantive": true
+        },
+        {
+          "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.unocha.org/we-coordinate",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.unocha.org/we-coordinate",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 164717,
+          "sample_sha256": "2b490207f6dffbecd7ee30f32976b6f879734ac9b0bdd9c83facea22202e6350",
+          "title": "We coordinate | OCHA",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled."
+    }
+  ],
+  "failures": []
+}

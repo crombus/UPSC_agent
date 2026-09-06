@@ -1,0 +1,1219 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-05",
+  "subject": "Ethics",
+  "title": "EMOTIONAL INTELLIGENCE IN ADMINISTRATION",
+  "short_route": "THREE EI MODELS: ABILITY → FOUR-BRANCH ABILITY MODEL: ASCENDING → GOLEMAN'S FIVE COMPONENTS MAPPED → EI'S DARK SIDE: ETHICAL → IQ VERSUS EQ: JOINT → DC VIJAY CASE STUDY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-05-deep-review-2026-09-06-g5.json",
+  "ascii_spec_sha256": "4128edf45996eec70d83bd2ce7120f102ebe158f7722b0ce50a240e669798ee3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE EI MODELS: ABILITY, MIXED AND TRAIT",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE EI MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "ABILITY, MIXED AND TRAIT",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. THREE EI MODELS",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] ABILITY MODEL (MAYER-SALOVEY 1997)",
+          "role": "primary"
+        },
+        {
+          "text": "EI AS COGNITIVE ABILITY TESTED BY PERFORMANCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] MIXED MODEL (GOLEMAN 1995/1998)",
+          "role": "comparison"
+        },
+        {
+          "text": "EI AS FIVE WORKPLACE COMPETENCIES BLENDING ABILITY AND PERSONALITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Three EI models: ability, mixed and trait",
+        "[1] Ability model (Mayer-Salovey 1997): EI as cognitive ability tested by performance.",
+        "[2] Mixed model (Goleman 1995/1998): EI as five workplace competencies blending ability and personality.",
+        "[3] Trait model (Bar-On EQ-i 1997): EI as self-perceived competencies measured by self-report."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[4] Later performance tests such as MSCEIT operationalise the ability-model approach.",
+          "VERDICT → Name the specific model you are using before applying it to a scenario."
+        ],
+        [
+          "1. Three EI models: ability, mixed and trait",
+          "[5] The three models differ in theory, method and predictive validity.",
+          "ANSWER USE → Open any EI definition or comparison answer by distinguishing the three models."
+        ],
+        [
+          "[1] Ability model (Mayer-Salovey 1997): EI as cognitive ability tested by performance.",
+          "[6] UPSC GS-IV primarily tests Goleman's five components in applied scenarios.",
+          "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named administrative settings such as..."
+        ],
+        [
+          "[2] Mixed model (Goleman 1995/1998): EI as five workplace competencies blending ability and personality.",
+          "[7] Advanced answers distinguish models to show conceptual precision.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Three EI models: ability, mixed and trait",
+            "[1] Ability model (Mayer-Salovey 1997): EI as cognitive ability tested by performance.",
+            "[2] Mixed model (Goleman 1995/1998): EI as five workplace competencies blending ability and personality.",
+            "[3] Trait model (Bar-On EQ-i 1997): EI as self-perceived competencies measured by self-report."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Later performance tests such as MSCEIT operationalise the ability-model approach.",
+            "[5] The three models differ in theory, method and predictive validity.",
+            "[6] UPSC GS-IV primarily tests Goleman's five components in applied scenarios.",
+            "[7] Advanced answers distinguish models to show conceptual precision.",
+            "[8] Confusing models or claiming they measure the same construct is a common exam trap."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Name the specific model you are using before applying it to a scenario.",
+            "ANSWER USE → Open any EI definition or comparison answer by distinguishing the three models.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named administrative settings such as..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Name the specific model you are using before applying it to a scenario.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR-BRANCH ABILITY MODEL: ASCENDING HIERARCHY",
+      "structural_type": "ascending-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR-BRANCH ABILITY MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "ASCENDING HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "2. FOUR-BRANCH ABILITY MODEL",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] BRANCH 1",
+          "role": "primary"
+        },
+        {
+          "text": "PERCEIVING EMOTION - RECOGNISING EMOTIONAL CUES IN SELF AND",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] BRANCH 2",
+          "role": "comparison"
+        },
+        {
+          "text": "USING EMOTION - CHANNELLING EMOTION TO FACILITATE THOUGHT AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Four-branch ability model: ascending hierarchy",
+        "[1] Branch 1: Perceiving emotion - recognising emotional cues in self and others.",
+        "[2] Branch 2: Using emotion - channelling emotion to facilitate thought and creativity.",
+        "[3] Branch 3: Understanding emotion - grasping emotional complexity and transitions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Four-branch ability model: ascending hierarchy",
+            "[1] Branch 1: Perceiving emotion - recognising emotional cues in self and others.",
+            "[2] Branch 2: Using emotion - channelling emotion to facilitate thought and creativity.",
+            "[3] Branch 3: Understanding emotion - grasping emotional complexity and transitions."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Branch 4: Managing emotion - regulating emotion in self and others toward goals.",
+            "[5] The four branches form an ascending hierarchy of cognitive complexity.",
+            "[6] Perceiving is the foundational skill; managing is the most advanced.",
+            "[7] The DC Vijay case tests all four branches in a single scenario.",
+            "[8] Ability-model decomposition earns advanced marks in case-study answers."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Use the four-branch decomposition to structure any advanced EI case-study analysis.",
+            "ANSWER USE → Apply to disaster-leadership and crisis-of-conscience case studies.",
+            "MUST REMEMBER: Emotional intelligence involves perceiving, using, understanding and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use the four-branch decomposition to structure any advanced EI case-study analysis.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GOLEMAN'S FIVE COMPONENTS MAPPED TO ADMINISTRATION",
+      "structural_type": "horizontal-mapping",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GOLEMAN'S FIVE COMPONENTS MAPPED TO ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. GOLEMAN'S FIVE COMPONENTS MAPPED TO ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SELF-AWARENESS",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOGNISING OWN BIAS, STRESS OR FATIGUE BEFORE DECIDING.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] SELF-REGULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPOSURE UNDER PROVOCATION, CRISIS OR MEDIA SCRUTINY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] MOTIVATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Goleman's five components mapped to administration",
+        "[1] Self-awareness: recognising own bias, stress or fatigue before deciding.",
+        "[2] Self-regulation: composure under provocation, crisis or media scrutiny.",
+        "[3] Motivation: sustained public-service drive beyond external incentive."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Goleman's five components mapped to administration",
+            "[1] Self-awareness: recognising own bias, stress or fatigue before deciding.",
+            "[2] Self-regulation: composure under provocation, crisis or media scrutiny."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Motivation: sustained public-service drive beyond external incentive.",
+            "[4] Empathy: reading citizens' or colleagues' unstated needs.",
+            "[5] Social skill: managing teams, stakeholders and conflict resolution.",
+            "[6] Each component maps to a specific administrative behaviour."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] GS-IV questions test components in combination, not isolation.",
+            "[8] The five components are the default framework for most EI answers.",
+            "VERDICT → Name the specific component engaged at each decision point in your answer.",
+            "ANSWER USE → Structure any Goleman-based EI answer by naming components before describing behaviour."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Name the specific component engaged at each decision point in your answer.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EI'S DARK SIDE: ETHICAL NEUTRALITY AND MANIPULATION RISK",
+      "structural_type": "decision-fork",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "EI'S DARK SIDE",
+          "role": "primary"
+        },
+        {
+          "text": "ETHICAL NEUTRALITY AND MANIPULATION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "4. EI'S DARK SIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] EI IS A CAPACITY, NOT A MORAL COMPASS",
+          "role": "caution"
+        },
+        {
+          "text": "[2] HIGH SOCIAL SKILL PLUS INTEGRITY PRODUCES EFFECTIVE CITIZEN",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] HIGH SOCIAL SKILL MINUS INTEGRITY PRODUCES SOPHISTICATED MANIPULATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] EXAMPLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. EI's dark side: ethical neutrality and manipulation risk",
+        "[1] EI is a capacity, not a moral compass - it is ethically neutral.",
+        "[2] High social skill plus integrity produces effective citizen service.",
+        "[3] High social skill minus integrity produces sophisticated manipulation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. EI's dark side: ethical neutrality and manipulation risk",
+            "[1] EI is a capacity, not a moral compass - it is ethically neutral.",
+            "[2] High social skill plus integrity produces effective citizen service."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] High social skill minus integrity produces sophisticated manipulation.",
+            "[4] Example: empathic reading used to extract a bribe by exploiting urgency.",
+            "[5] EI training without ethics framework can enable more effective misconduct.",
+            "[6] Integrity, probity and audit must be independently assessed."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] The dark side is not hypothetical - it is a genuine administrative risk.",
+            "[8] Joint necessity: EI and ethics are both required; neither alone suffices.",
+            "VERDICT → Always flag EI's ethical boundary when discussing its benefits.",
+            "ANSWER USE → Include the dark-side qualification in any answer that claims EI improves governance."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → Always flag EI's ethical boundary when discussing its benefits.",
+      "answer_line": "ANSWER USE → Include the dark-side qualification in any answer that claims EI improves governance.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "IQ VERSUS EQ: JOINT NECESSITY, NOT SUBSTITUTION",
+      "structural_type": "two-column-contrast",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "IQ VERSUS EQ",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINT NECESSITY, NOT SUBSTITUTION",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "5. IQ VERSUS EQ",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IQ PREDICTS TASK-COMPETENCE AND TECHNICAL PROBLEM-SOLVING ABILITY.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] EQ PREDICTS HOW WELL COMPETENCE IS DEPLOYED UNDER",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] TWO OFFICERS WITH IDENTICAL IQ CAN PRODUCE DIVERGENT",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE DIVERGENCE IS EXPLAINED BY EQ",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. IQ versus EQ: joint necessity, not substitution",
+        "[1] IQ predicts task-competence and technical problem-solving ability.",
+        "[2] EQ predicts how well competence is deployed under interpersonal pressure.",
+        "[3] Two officers with identical IQ can produce divergent crisis outcomes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. IQ versus EQ: joint necessity, not substitution",
+            "[1] IQ predicts task-competence and technical problem-solving ability.",
+            "[2] EQ predicts how well competence is deployed under interpersonal pressure.",
+            "[3] Two officers with identical IQ can produce divergent crisis outcomes."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] The divergence is explained by EQ: regulation, empathy and social skill.",
+            "[5] EQ matters disproportionately at the point of execution under stress.",
+            "[6] EQ cannot substitute for technical or legal competence.",
+            "[7] An empathetic but legally uninformed officer can still err.",
+            "[8] The defensible position: IQ and EQ are jointly necessary."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → EQ amplifies competence under stress; it does not replace technical knowledge.",
+            "ANSWER USE → Use to resolve any IQ-vs-EQ or cognitive-vs-emotional ability question.",
+            "CLOSE DISTINCTION: EI can support de-escalation, leadership and citizen sensitivity but..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → EQ amplifies competence under stress; it does not replace technical knowledge.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DC VIJAY CASE STUDY: STRUCTURED EI DECOMPOSITION",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DC VIJAY CASE STUDY",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURED EI DECOMPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. DC VIJAY CASE STUDY",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] SCENARIO",
+          "role": "primary"
+        },
+        {
+          "text": "DC LEADS DISASTER RELIEF; MOTHER DIES; FAMILY DEMANDS PRESENCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] PERCEIVING",
+          "role": "comparison"
+        },
+        {
+          "text": "ACKNOWLEDGE GRIEF WITHOUT DENIAL - A LEGITIMATE EMOTIONAL REALITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. DC Vijay case study: structured EI decomposition",
+        "[1] Scenario: DC leads disaster relief; mother dies; family demands presence.",
+        "[2] Perceiving: acknowledge grief without denial - a legitimate emotional reality.",
+        "[3] Using: channel urgency of grief productively into sustained relief effort."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. DC Vijay case study: structured EI decomposition",
+            "[1] Scenario: DC leads disaster relief; mother dies; family demands presence.",
+            "[2] Perceiving: acknowledge grief without denial - a legitimate emotional reality."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Using: channel urgency of grief productively into sustained relief effort.",
+            "[4] Understanding: grasp competing claims of family, victims and subordinates.",
+            "[5] Managing: structured decision - designate deputy, communicate, document.",
+            "[6] The correct answer is structured transparent balancing, not single heroism."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Institutional complement: pre-designated succession and family-emergency SOP.",
+            "[8] The case tests EI through institutional process, not raw willpower alone.",
+            "VERDICT → Decompose the dilemma using named EI branches; propose a structured, documented resolution.",
+            "ANSWER USE → Apply to any disaster-leadership or duty-versus-family case study."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Decompose the dilemma using named EI branches; propose a structured, documented resolution.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EMOTIONAL LABOUR: COST, RECOGNITION AND INSTITUTIONAL RESPONSE",
+      "structural_type": "cause-effect-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EMOTIONAL LABOUR",
+          "role": "primary"
+        },
+        {
+          "text": "COST, RECOGNITION AND INSTITUTIONAL RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. EMOTIONAL LABOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] EMOTIONAL LABOUR (HOCHSCHILD 1983)",
+          "role": "primary"
+        },
+        {
+          "text": "MANAGED DISPLAY OF ROLE-APPROPRIATE EMOTION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] CITIZEN-FACING ROLES REQUIRE SUSTAINED COURTESY DESPITE PROVOCATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] EMOTIONAL LABOUR IS INVISIBLE IN TRADITIONAL WORKLOAD ASSESSMENTS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Emotional labour: cost, recognition and institutional response",
+        "[1] Emotional labour (Hochschild 1983): managed display of role-appropriate emotion.",
+        "[2] Citizen-facing roles require sustained courtesy despite provocation.",
+        "[3] Emotional labour is invisible in traditional workload assessments."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Emotional labour: cost, recognition and institutional response",
+            "[1] Emotional labour (Hochschild 1983): managed display of role-appropriate emotion.",
+            "[2] Citizen-facing roles require sustained courtesy despite provocation."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Emotional labour is invisible in traditional workload assessments.",
+            "[4] Sustained emotional labour carries burnout risk regardless of natural empathy.",
+            "[5] Institutional responses: rotation, debrief, staff grievance channels, team distribution.",
+            "[6] Staff-welfare support sustains capacity; it does not reduce service obligations."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Overemphasis on staff welfare must not become excuse for poor service.",
+            "[8] Emotional labour is a hidden cost of citizen-centric governance.",
+            "VERDICT → Acknowledge emotional labour as real cost and prescribe institutional support alongside duty.",
+            "ANSWER USE → Use in any question about frontline service quality, officer welfare or burnout."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Acknowledge emotional labour as real cost and prescribe institutional support alongside duty.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MORAL INTUITION VERSUS MORAL REASONING: EI AS BRIDGE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MORAL INTUITION VERSUS MORAL REASONING",
+          "role": "comparison"
+        },
+        {
+          "text": "EI AS BRIDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "8. MORAL INTUITION VERSUS MORAL REASONING",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MORAL INTUITION",
+          "role": "primary"
+        },
+        {
+          "text": "FAST, AFFECT-DRIVEN SENSE THAT SOMETHING FEELS WRONG.",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] DRAWS ON EI'S EMPATHY (SENSING OTHERS' DISTRESS) AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] MORAL REASONING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Moral intuition versus moral reasoning: EI as bridge",
+        "[1] Moral intuition: fast, affect-driven sense that something feels wrong.",
+        "[2] Draws on EI's empathy (sensing others' distress) and self-awareness.",
+        "[3] Moral reasoning: slow, deliberate application of ethical theory or rule."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Moral intuition versus moral reasoning: EI as bridge",
+            "[1] Moral intuition: fast, affect-driven sense that something feels wrong.",
+            "[2] Draws on EI's empathy (sensing others' distress) and self-awareness."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Moral reasoning: slow, deliberate application of ethical theory or rule.",
+            "[4] Self-awareness detects when intuitive reaction may be bias, not signal.",
+            "[5] The regulatory bridge: intuition triggers reasoning; reasoning tests intuition.",
+            "[6] Neither alone is sufficient: intuition without reasoning can be prejudice."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Reasoning without intuition can miss human impact of technically correct decisions.",
+            "[8] EI mediates between the two by providing the self-awareness check.",
+            "VERDICT → Intuition is the trigger; reasoning is the test; self-awareness is the bridge.",
+            "ANSWER USE → Use to answer any moral intuition vs moral reasoning or EQ-linked ethical-judgment question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Intuition is the trigger; reasoning is the test; self-awareness is the bridge.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EMPATHY AND WISDOM: PREVENTING TRAVESTY OF JUSTICE",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EMPATHY AND WISDOM",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENTING TRAVESTY OF JUSTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "9. EMPATHY AND WISDOM",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] WISDOM (PHRONESIS)",
+          "role": "primary"
+        },
+        {
+          "text": "PRACTICAL JUDGMENT APPLYING RULES WITH CONTEXTUAL SENSITIVITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] TRAVESTY OF JUSTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "LITERAL COMPLIANCE DEFEATING THE RULE'S PURPOSE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Empathy and wisdom: preventing travesty of justice",
+        "[1] Wisdom (phronesis): practical judgment applying rules with contextual sensitivity.",
+        "[2] Travesty of justice: literal compliance defeating the rule's purpose.",
+        "[3] Empathy triggers wisdom by alerting the officer to human cost of mechanical application."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Empathy and wisdom: preventing travesty of justice",
+            "[1] Wisdom (phronesis): practical judgment applying rules with contextual sensitivity.",
+            "[2] Travesty of justice: literal compliance defeating the rule's purpose."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Empathy triggers wisdom by alerting the officer to human cost of mechanical application.",
+            "[4] Example: denying welfare on a minor technicality despite clear substantive eligibility.",
+            "[5] Without empathy, wisdom has no trigger to activate.",
+            "[6] Empathy without rule-awareness risks arbitrary favouritism."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] The safeguard is transparent reasoning and appeal mechanisms.",
+            "[8] Wisdom requires both legal competence and empathetic perception.",
+            "VERDICT → Empathy activates wisdom; rule-based transparency prevents it from degenerating into favouritism.",
+            "ANSWER USE → Use to answer any wisdom-in-administration or travesty-of-justice question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Empathy activates wisdom; rule-based transparency prevents it from degenerating into favouritism.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CRISIS OF CONSCIENCE: EI NAVIGATION MECHANISM",
+      "structural_type": "resolution-pathway",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CRISIS OF CONSCIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "EI NAVIGATION MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "10. CRISIS OF CONSCIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] CRISIS OF CONSCIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "PERSONAL VALUES, DUTY AND PRESSURE CONFLICT IRRECONCILABLY.",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] SELF-AWARENESS NAMES THE CONFLICT PRECISELY RATHER THAN DIFFUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] SELF-REGULATION PREVENTS IMPULSIVE ACTION OR PARALYSIS UNDER EMOTIONAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Crisis of conscience: EI navigation mechanism",
+        "[1] Crisis of conscience: personal values, duty and pressure conflict irreconcilably.",
+        "[2] Self-awareness names the conflict precisely rather than diffuse anguish.",
+        "[3] Self-regulation prevents impulsive action or paralysis under emotional turmoil."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Crisis of conscience: EI navigation mechanism",
+            "[1] Crisis of conscience: personal values, duty and pressure conflict irreconcilably.",
+            "[2] Self-awareness names the conflict precisely rather than diffuse anguish."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Self-regulation prevents impulsive action or paralysis under emotional turmoil.",
+            "[4] Social skill enables transparent communication of the chosen course.",
+            "[5] The officer converts private moral burden into documented accountable decision.",
+            "[6] EI provides psychological infrastructure but not the ethical standard."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Moral framework (deontological, consequentialist, virtue-based) supplies direction.",
+            "[8] EI without ethical grounding can produce composed capitulation, not principled resolution.",
+            "VERDICT → EI navigates the crisis of conscience; the ethical stand must come from moral reasoning.",
+            "ANSWER USE → Use to structure any crisis-of-conscience or ethical-dilemma answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → EI navigates the crisis of conscience; the ethical stand must come from moral reasoning.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MISSION KARMAYOGI AND INSTITUTIONAL EI ARCHITECTURE",
+      "structural_type": "institutional-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MISSION KARMAYOGI AND INSTITUTIONAL EI ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. MISSION KARMAYOGI AND INSTITUTIONAL EI ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MISSION KARMAYOGI PROVIDES THE INSTITUTIONAL SETTING FOR ROLE-BASED",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] KCM ALIGNS ROLES WITH COMPETENCIES AND EMBEDS COMPETENCIES",
+          "role": "primary"
+        },
+        {
+          "text": "[3] AI SARTHI AND AI TUTOR SHOWCASED AT INDIAAI",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] IGOT-KARMAYOGI DELIVERS ROLE-BASED PERSONALISED MULTILINGUAL LEARNING.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] A NAMED EI MODULE IS NOT VERIFIED BY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Mission Karmayogi and institutional EI architecture",
+        "[1] Mission Karmayogi provides the institutional setting for role-based learning.",
+        "[2] KCM aligns roles with competencies and embeds competencies in training (CBC).",
+        "[3] AI Sarthi and AI Tutor showcased at IndiaAI Impact Summit (16-20 Feb 2026)."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Mission Karmayogi and institutional EI architecture",
+            "[1] Mission Karmayogi provides the institutional setting for role-based learning.",
+            "[2] KCM aligns roles with competencies and embeds competencies in training (CBC)."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] AI Sarthi and AI Tutor showcased at IndiaAI Impact Summit (16-20 Feb 2026).",
+            "[4] iGOT-Karmayogi delivers role-based personalised multilingual learning.",
+            "[5] A named EI module is not verified by the cited official CBC pages.",
+            "[6] Learning architecture demonstrates institutional design, not ethical internalisation."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Do not claim a general APAR linkage without a service-specific DoPT order.",
+            "[8] Training must be supplemented by delegation protocols, rotation and citizen feedback.",
+            "VERDICT → Use Mission Karmayogi as a competency-architecture example, not proof of EI training or conduct.",
+            "ANSWER USE → Clearly label any EI linkage as an analytical application unless a named module is verified."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use Mission Karmayogi as a competency-architecture example, not proof of EI training or conduct.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ DEMAND MAP AND ANSWER SYNTHESIS",
+      "structural_type": "exam-synthesis-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ DEMAND MAP AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. PYQ DEMAND MAP AND ANSWER SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] 2013 Q4",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFINE EI, DEVELOPMENT, ROLE IN ETHICAL DECISIONS - USE",
+          "role": "primary"
+        },
+        {
+          "text": "[2] 2019 Q5(B)",
+          "role": "outcome"
+        },
+        {
+          "text": "EI AS MAKING EMOTIONS WORK FOR YOU - USE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] 2020 Q2(B)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. PYQ demand map and answer synthesis",
+        "[1] 2013 Q4: define EI, development, role in ethical decisions - use definition plus mechanism.",
+        "[2] 2019 Q5(b): EI as making emotions work for you - use five-component administrative mapping.",
+        "[3] 2020 Q2(b): components and learnability - use ability/competency distinction."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. PYQ demand map and answer synthesis",
+            "[1] 2013 Q4: define EI, development, role in ethical decisions - use definition plus mechanism.",
+            "[2] 2019 Q5(b): EI as making emotions work for you - use five-component administrative mapping."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] 2020 Q2(b): components and learnability - use ability/competency distinction.",
+            "[4] 2021 Q4(b): EI and crisis of conscience - use self-awareness plus ethical framework.",
+            "[5] 2022 Q1: wisdom/travesty plus empathy/compassion - use phronesis plus empathy-as-trigger.",
+            "[6] 2023 Q4: EQ vs IQ plus moral intuition vs reasoning - use joint-necessity plus bridge model."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] 2025 Q7: DC Vijay case study - use four-branch decomposition plus institutional protocol.",
+            "[8] Name the EI component precisely; show institutional mechanism; close with a qualified verdict.",
+            "VERDICT → The highest-scoring answer moves from named model to specific component to example to institutional limit.",
+            "ANSWER USE → Use as the revision checklist before any EI PYQ attempt."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The highest-scoring answer moves from named model to specific component to example to institutional limit.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g4\\ethics-05_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND POLICY APPLICATION",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and policy application"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T11:43:22+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "54fd5d98d9f56168929e922c23d744a0cedea2f3d2d162a3c977e179919135e0",
+    "sha256_after": "54fd5d98d9f56168929e922c23d744a0cedea2f3d2d162a3c977e179919135e0",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Political Theory": 1
+  },
+  "sections": {
+    "Political Theory — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11901,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2036,
+    "json_count": 5640,
+    "total_bytes": 4259407599,
+    "by_extension": {
+      ".json": 5640,
+      ".md": 2036,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-08",
+      "topic_title": "Approaches, Behaviouralism and Post-Behaviouralism",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 8,
+      "source_record_id": "political-theory-08:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g4\\topic-08_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "8319e65d14c8ffbda54f87ef4951df97b87c692699d6a8c3d46e48df430b1f8f",
+          "output_sha256": "8319e65d14c8ffbda54f87ef4951df97b87c692699d6a8c3d46e48df430b1f8f",
+          "source_output_equal": true,
+          "bytes": 334260
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g4\\topic-08_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "76710c68c3aba9de0c9de0cffb6013c541d73e290298cccc0eb6c5af8bae7aad",
+          "output_sha256": "76710c68c3aba9de0c9de0cffb6013c541d73e290298cccc0eb6c5af8bae7aad",
+          "source_output_equal": true,
+          "bytes": 268000
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-08\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "813bc9e302b1dc8e119ae5abef106dbd57372c1a61f85de00e7c25c7fb44136d",
+          "output_sha256": "813bc9e302b1dc8e119ae5abef106dbd57372c1a61f85de00e7c25c7fb44136d",
+          "source_output_equal": true,
+          "bytes": 3448266
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-08\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f51bd7244ec8361a4053d29295cffc817a30c8718eaae8efecac4fc911e26736",
+          "output_sha256": "f51bd7244ec8361a4053d29295cffc817a30c8718eaae8efecac4fc911e26736",
+          "source_output_equal": true,
+          "bytes": 4254080
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-08\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "3d21b9109d8de39fe7fb999b2ceef47de1078bd3f81740e1e53a839bdc4caa0f",
+          "output_sha256": "3d21b9109d8de39fe7fb999b2ceef47de1078bd3f81740e1e53a839bdc4caa0f",
+          "source_output_equal": true,
+          "bytes": 3058401
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-08\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "4a024089875ebdc2ed6677efcb7fed7b4c361b47944f51e2ea49d57e15cd8508",
+          "output_sha256": "4a024089875ebdc2ed6677efcb7fed7b4c361b47944f51e2ea49d57e15cd8508",
+          "source_output_equal": true,
+          "bytes": 17430
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-08\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "7e60ccaf9b8eeb48c45fe8de6b6eaf65d8351575ba1b30ab4b94a591e4f54acf",
+          "output_sha256": "7e60ccaf9b8eeb48c45fe8de6b6eaf65d8351575ba1b30ab4b94a591e4f54acf",
+          "source_output_equal": true,
+          "source_text_sha256": "4a024089875ebdc2ed6677efcb7fed7b4c361b47944f51e2ea49d57e15cd8508",
+          "normalized_text_equal": true,
+          "bytes": 64097
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 31,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 31,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 29,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 27,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 29,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 29,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 27,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 31,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 31,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 31,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 23,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 27,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 42,
+        "solved_practice_workbook": 26,
+        "graphical_poster": 1,
+        "graphical_tiled": 6,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 42,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 26,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 6,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          15390
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

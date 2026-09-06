@@ -1,0 +1,1169 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "ethics-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 44,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 461.49
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 73,
+      "heading": "SESSION 1 - What emotional intelligence is: definitions and the three models",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Emotional intelligence (EI/EQ) — concepts, utility and application in administration and governance (official UPSC GS-IV syllabus item). **Grounded i",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 627.424
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 89,
+      "heading": "1. Visual foundation",
+      "preview": "GOLEMAN'S FIVE EI COMPONENTS           ADMINISTRATIVE TRANSLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 602.924
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 491.924
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 102,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 413.124
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 202.922
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 194,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** Emotional intelligence is the psychological infrastructure connecting personal composure to ethical, empathetic and effective public administration, especially under acute stress, grief or provocation.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 410.591
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 365.924
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 213,
+      "heading": "10. Historical demand: EQ vs cognitive ability, and moral intuition's EQ dimension",
+      "preview": "⚠️ 2023 GS-IV Q4(a) (historical demand, routed here): \"discuss\" the claim that emotional intelligence (EQ) is key to success, over and above cognitive abilities alone.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 141.924
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 75.256
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 250,
+      "heading": "11. Wisdom in administration and empathy/compassion as vital attributes (historical demand)",
+      "preview": "⚠️ 2022 GS-IV Q1(a)-(b) (historical demand, routed here jointly with `09`): critically evaluate \"wisdom in administration\" against a \"travesty of justice in service delivery,\" and explain empathy and compassion as vital attributes for civil",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 384.591
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 303.724
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 266,
+      "heading": "12. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 123.524
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 71.056
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 293,
+      "heading": "13. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 515.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 394.09
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 313,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 198.89
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 132.222
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 319,
+      "markdown_body_line_end": 325,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 414.39
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 334,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 235.39
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 190.722
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1674,
+      "markdown_body_line_end": 1680,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Emotional intelligence — theoretical models, institutional application and limits. **Grounded in:** Salovey-Mayer ability model (1990 definition, 1997 four-branc",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 400.691
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 299.224
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1697,
+      "heading": "1. Architecture",
+      "preview": "ABILITY MODEL (Salovey-Mayer)        MIXED/COMPETENCY MODEL (Goleman)     TRAIT MODEL (Bar-On)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 271.724
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 150.724
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1705,
+      "markdown_body_line_end": 1711,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 453.09
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1786,
+      "markdown_body_line_end": 1788,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 717.09
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1834,
+      "markdown_body_line_end": 1835,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1841,
+      "markdown_body_line_end": 1847,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 689.024
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 300.122
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1856,
+      "markdown_body_line_end": 1856,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 121.122
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 76.454
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1865,
+      "markdown_body_line_end": 1896,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: 1. Three EI models: ability, mixed and trait",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 416.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1900,
+      "markdown_body_line_end": 1930,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: 2. Four-branch ability model: ascending hierarchy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 394.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 87.491
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1934,
+      "markdown_body_line_end": 1964,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 3. Goleman's five components mapped to administration",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1968,
+      "markdown_body_line_end": 1998,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: 4. EI's dark side: ethical neutrality and manipulation risk",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2002,
+      "markdown_body_line_end": 2032,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: 5. IQ versus EQ: joint necessity, not substitution",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2036,
+      "markdown_body_line_end": 2066,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 6. DC Vijay case study: structured EI decomposition",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2070,
+      "markdown_body_line_end": 2100,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 7. Emotional labour: cost, recognition and institutional response",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2104,
+      "markdown_body_line_end": 2134,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 8. Moral intuition versus moral reasoning: EI as bridge",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2138,
+      "markdown_body_line_end": 2168,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 9. Empathy and wisdom: preventing travesty of justice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2172,
+      "markdown_body_line_end": 2202,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: 10. Crisis of conscience: EI navigation mechanism",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2206,
+      "markdown_body_line_end": 2237,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 11. Mission Karmayogi and institutional EI architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2241,
+      "markdown_body_line_end": 2271,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 12. PYQ demand map and answer synthesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 141.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2278,
+      "markdown_body_line_end": 2308,
+      "heading": "ASCII PANEL 1/12 - 1. Three EI models: ability, mixed and trait",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 744.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 443.091
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2312,
+      "markdown_body_line_end": 2341,
+      "heading": "ASCII PANEL 2/12 - 2. Four-branch ability model: ascending hierarchy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 421.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 130.091
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2375,
+      "heading": "ASCII PANEL 3/12 - 3. Goleman's five components mapped to administration",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2379,
+      "markdown_body_line_end": 2409,
+      "heading": "ASCII PANEL 4/12 - 4. EI's dark side: ethical neutrality and manipulation risk",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2442,
+      "heading": "ASCII PANEL 5/12 - 5. IQ versus EQ: joint necessity, not substitution",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2446,
+      "markdown_body_line_end": 2476,
+      "heading": "ASCII PANEL 6/12 - 6. DC Vijay case study: structured EI decomposition",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2480,
+      "markdown_body_line_end": 2510,
+      "heading": "ASCII PANEL 7/12 - 7. Emotional labour: cost, recognition and institutional response",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2544,
+      "heading": "ASCII PANEL 8/12 - 8. Moral intuition versus moral reasoning: EI as bridge",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2548,
+      "markdown_body_line_end": 2578,
+      "heading": "ASCII PANEL 9/12 - 9. Empathy and wisdom: preventing travesty of justice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2582,
+      "markdown_body_line_end": 2612,
+      "heading": "ASCII PANEL 10/12 - 10. Crisis of conscience: EI navigation mechanism",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2616,
+      "markdown_body_line_end": 2647,
+      "heading": "ASCII PANEL 11/12 - 11. Mission Karmayogi and institutional EI architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2651,
+      "markdown_body_line_end": 2681,
+      "heading": "ASCII PANEL 12/12 - 12. PYQ demand map and answer synthesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 153.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2685,
+      "markdown_body_line_end": 2698,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 646.69
+        }
+      },
+      "pdf_pages": [
+        67,
+        68
+      ]
+    }
+  ]
+}

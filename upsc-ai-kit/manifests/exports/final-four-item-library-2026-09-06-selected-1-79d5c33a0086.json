@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T11:54:17+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b47fb37b79bf3fd08fdf1d6b81c30fa67c90b6d1fc87a71027b131c2ae80e198",
+    "sha256_after": "b47fb37b79bf3fd08fdf1d6b81c30fa67c90b6d1fc87a71027b131c2ae80e198",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Political Theory": 1
+  },
+  "sections": {
+    "Political Theory — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11937,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2042,
+    "json_count": 5670,
+    "total_bytes": 4258905960,
+    "by_extension": {
+      ".json": 5670,
+      ".md": 2042,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-14",
+      "topic_title": "Political Obligation, Resistance and Law",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 14,
+      "source_record_id": "political-theory-14:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "228d4fcbeeb166621ca02e24eb74163f605f72943eaef8a797192d7bdd480113",
+          "output_sha256": "228d4fcbeeb166621ca02e24eb74163f605f72943eaef8a797192d7bdd480113",
+          "source_output_equal": true,
+          "bytes": 410976
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "04a6c2b3c8c04d9c4066ce1647bf0e7481ce4dfb28f893baf07d4de8581c2d3c",
+          "output_sha256": "04a6c2b3c8c04d9c4066ce1647bf0e7481ce4dfb28f893baf07d4de8581c2d3c",
+          "source_output_equal": true,
+          "bytes": 288708
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-14\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "51877e7fbc3ace69b1c5613000524417cf32456be836737effc9593f17f23eba",
+          "output_sha256": "51877e7fbc3ace69b1c5613000524417cf32456be836737effc9593f17f23eba",
+          "source_output_equal": true,
+          "bytes": 2404548
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-14\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "eb360e9067c1d6ee3b5060f3a4f7b7261c9b99d7676fb7156be1b2a13a9045fc",
+          "output_sha256": "eb360e9067c1d6ee3b5060f3a4f7b7261c9b99d7676fb7156be1b2a13a9045fc",
+          "source_output_equal": true,
+          "bytes": 2742606
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-14\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "8744a2cbfc60d70b1832d74e50fa2a1a981258c132d3d6fa01b89f3812588980",
+          "output_sha256": "8744a2cbfc60d70b1832d74e50fa2a1a981258c132d3d6fa01b89f3812588980",
+          "source_output_equal": true,
+          "bytes": 2124800
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-14\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "96d10561ec077dc366460003fc49f022c5422611a15a8c8cef696b30d2846319",
+          "output_sha256": "96d10561ec077dc366460003fc49f022c5422611a15a8c8cef696b30d2846319",
+          "source_output_equal": true,
+          "bytes": 8568
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-14\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "55794f729527012cd25ca995502065c0a312d544d8f0d9684dad3492c715716a",
+          "output_sha256": "55794f729527012cd25ca995502065c0a312d544d8f0d9684dad3492c715716a",
+          "source_output_equal": true,
+          "source_text_sha256": "96d10561ec077dc366460003fc49f022c5422611a15a8c8cef696b30d2846319",
+          "normalized_text_equal": true,
+          "bytes": 58585
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 17,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 17,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 17,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 17,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 17,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 19,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 17,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 18,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 18,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 17,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 17,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 17,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 56,
+        "solved_practice_workbook": 29,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 56,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 29,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11366
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

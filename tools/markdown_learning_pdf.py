@@ -86,7 +86,7 @@ FONT_ITALIC = "Helvetica-Oblique"
 MONO_FONT = "Courier"
 
 RENDERER_NAME = "tools/markdown_learning_pdf.py"
-RENDERER_VERSION = "2.5"
+RENDERER_VERSION = "2.6"
 LEGACY_VARIANT = "legacy-v1"
 
 for regular, bold, italic in (
@@ -256,6 +256,54 @@ DENSE_INDEX_LEVEL_STYLES = [
 ]
 
 
+def configure_script_fonts(text: str) -> None:
+    """Switch to an embedded Devanagari-capable family when Hindi is present."""
+    global FONT, FONT_BOLD, FONT_ITALIC, MONO_FONT
+    if not re.search(r"[\u0900-\u097f]", text):
+        return
+    collection = Path(r"C:\Windows\Fonts\Nirmala.ttc")
+    if not collection.is_file():
+        raise FileNotFoundError(
+            "Devanagari content requires C:\\Windows\\Fonts\\Nirmala.ttc."
+        )
+    pdfmetrics.registerFont(
+        TTFont("LearningDevanagari", str(collection), subfontIndex=0)
+    )
+    pdfmetrics.registerFont(
+        TTFont("LearningDevanagari-Bold", str(collection), subfontIndex=1)
+    )
+    pdfmetrics.registerFontFamily(
+        "LearningDevanagari",
+        normal="LearningDevanagari",
+        bold="LearningDevanagari-Bold",
+        italic="LearningDevanagari",
+        boldItalic="LearningDevanagari-Bold",
+    )
+    old_regular, old_bold, old_italic, old_mono = (
+        FONT,
+        FONT_BOLD,
+        FONT_ITALIC,
+        MONO_FONT,
+    )
+    FONT = "LearningDevanagari"
+    FONT_BOLD = "LearningDevanagari-Bold"
+    FONT_ITALIC = "LearningDevanagari"
+    MONO_FONT = "LearningDevanagari"
+    mapping = {
+        old_regular: FONT,
+        old_bold: FONT_BOLD,
+        old_italic: FONT_ITALIC,
+        old_mono: MONO_FONT,
+    }
+    for paragraph_style in (
+        *STYLES.values(),
+        *INDEX_LEVEL_STYLES,
+        *DENSE_INDEX_LEVEL_STYLES,
+    ):
+        if paragraph_style.fontName in mapping:
+            paragraph_style.fontName = mapping[paragraph_style.fontName]
+
+
 NON_INDEX_SUBTOPIC = re.compile(
     r"^(?:"
     r"answer|answer key|explanation|solution|model answer|model solution|"
@@ -399,7 +447,11 @@ def inline(text: str) -> str:
     # entity after escaping preserves the intended line-break opportunity
     # without printing the entity itself.
     text = text.replace("\u200b", "&#8203;")
-    text = re.sub(r"`([^`]+)`", r'<font name="Courier">\1</font>', text)
+    text = re.sub(
+        r"`([^`]+)`",
+        lambda match: f'<font name="{MONO_FONT}">{match.group(1)}</font>',
+        text,
+    )
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<i>\1</i>", text)
     return text
@@ -1468,6 +1520,7 @@ def build_pdf(
         )
 
     metadata, body = split_frontmatter(source.read_text(encoding="utf-8"))
+    configure_script_fonts(body)
     resolved_topic_key = topic_key or metadata.get("topic_key")
     root = (
         Path(repository_root).resolve()

@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T09:23:47+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\disaster-management-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "ab484a7c3ed72709bcd20da467c54f66e6370b10826d0409afdad4449f87027b",
+    "sha256_after": "ab484a7c3ed72709bcd20da467c54f66e6370b10826d0409afdad4449f87027b",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Disaster Management": 1
+  },
+  "sections": {
+    "Disaster Management — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11605,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1984,
+    "json_count": 5396,
+    "total_bytes": 4273495058,
+    "by_extension": {
+      ".json": 5396,
+      ".md": 1984,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-01",
+      "topic_title": "Concepts, Risk, Resilience and Sendai",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 1,
+      "source_record_id": "disaster-management-01:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "3fb8e2fde60656a544117bc5c8a4abffec0a58c1c5fb7e7fc43373cbf531654f",
+          "output_sha256": "3fb8e2fde60656a544117bc5c8a4abffec0a58c1c5fb7e7fc43373cbf531654f",
+          "source_output_equal": true,
+          "bytes": 618136
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "c7d14612ffa5acd68778fbefd4406190743a62625cd49579caaa91b28fdaa2f2",
+          "output_sha256": "c7d14612ffa5acd68778fbefd4406190743a62625cd49579caaa91b28fdaa2f2",
+          "source_output_equal": true,
+          "bytes": 473762
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "13419d43f69bb011166bb289556bc5e7147d1c9cb77a426faf19fdaa2f724799",
+          "output_sha256": "13419d43f69bb011166bb289556bc5e7147d1c9cb77a426faf19fdaa2f724799",
+          "source_output_equal": true,
+          "bytes": 1855511
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "49ed7afa929e1bf0df64b11f72b7de529efe107ea4a04f4dcba0a2c41444e9ec",
+          "output_sha256": "49ed7afa929e1bf0df64b11f72b7de529efe107ea4a04f4dcba0a2c41444e9ec",
+          "source_output_equal": true,
+          "bytes": 2247438
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "c7c9a53ec71245e31ef03968d8508ec1382c0090af97406fadf54a90a196769a",
+          "output_sha256": "c7c9a53ec71245e31ef03968d8508ec1382c0090af97406fadf54a90a196769a",
+          "source_output_equal": true,
+          "bytes": 1650178
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "92e5fbb8d4327e1aa2f66085678544104f22ebf99706f4a78eadc1b34f7e9464",
+          "output_sha256": "92e5fbb8d4327e1aa2f66085678544104f22ebf99706f4a78eadc1b34f7e9464",
+          "source_output_equal": true,
+          "bytes": 3032
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-01\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "3509f3deb9f8064287a37ec7a2734361e53b051f571db2db0f8da50889eed505",
+          "output_sha256": "3509f3deb9f8064287a37ec7a2734361e53b051f571db2db0f8da50889eed505",
+          "source_output_equal": true,
+          "source_text_sha256": "92e5fbb8d4327e1aa2f66085678544104f22ebf99706f4a78eadc1b34f7e9464",
+          "normalized_text_equal": true,
+          "bytes": 55706
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 45,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 84,
+        "solved_practice_workbook": 44,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 84,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 44,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10584
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

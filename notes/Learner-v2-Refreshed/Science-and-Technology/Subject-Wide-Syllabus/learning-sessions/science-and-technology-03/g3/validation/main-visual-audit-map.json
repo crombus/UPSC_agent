@@ -1,0 +1,1882 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Human Spaceflight: Gaganyaan and Planetary Missions - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 721.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 413.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Human rating is a system-level qualification of launcher margins, redundancy, health monitoring, failure response and abort capability; an ordinary launch record does not establish crew safety.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 226.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 159.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "HUMAN RATING AND CREW-RISK STANDARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 154,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - HUMAN RATING AND CREW-RISK STANDARD",
+      "preview": "START / CONCEPT: FOUNDATION — Human rating and crew-risk standard",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Crew Escape System is designed to pull the Crew Module away from a failing launcher during relevant ascent phases; an abort demonstration validates escape logic, not a full orbital mission.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 184,
+      "heading": "VISUAL FIRST",
+      "preview": "CREW MODULE SERVICE MODULE AND ORBITAL MODULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 237,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CREW MODULE SERVICE MODULE AND ORBITAL MODULE",
+      "preview": "START / CONCEPT: FOUNDATION — Crew Module Service Module and Orbital Module",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Crew Escape System and abort phases as a sequence: identify Life-support boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 267,
+      "heading": "VISUAL FIRST",
+      "preview": "CREW ESCAPE SYSTEM AND ABORT PHASES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 320,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CREW ESCAPE SYSTEM AND ABORT PHASES",
+      "preview": "START / CONCEPT: FOUNDATION — Crew Escape System and abort phases",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Life support habitability and crew survival as a sequence: identify Qualification-ladder boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 380.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 313.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "LIFE SUPPORT HABITABILITY AND CREW SURVIVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 403,
+      "heading": "CLOSING RECALL FLOW - CORE - LIFE SUPPORT HABITABILITY AND CREW SURVIVAL",
+      "preview": "START / CONCEPT: CORE — Life support habitability and crew survival",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Qualification ladder from components to crewed flight as a sequence: identify Air-drop-test boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 433,
+      "heading": "VISUAL FIRST",
+      "preview": "QUALIFICATION LADDER FROM COMPONENTS TO CREWED FLIGHT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 486,
+      "heading": "CLOSING RECALL FLOW - CORE - QUALIFICATION LADDER FROM COMPONENTS TO CREWED FLIGHT",
+      "preview": "START / CONCEPT: CORE — Qualification ladder from components to crewed flight",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 497,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Air-drop recovery tests versus rocket tests as a sequence: identify Uncrewed-crewed boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 303.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 519,
+      "heading": "VISUAL FIRST",
+      "preview": "AIR-DROP RECOVERY TESTS VERSUS ROCKET TESTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 573,
+      "heading": "CLOSING RECALL FLOW - CORE - AIR-DROP RECOVERY TESTS VERSUS ROCKET TESTS",
+      "preview": "START / CONCEPT: CORE — Air-drop recovery tests versus rocket tests",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 47.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 584,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Axiom-4 gave an Indian astronaut experience on an international ISS mission using foreign launch and spacecraft systems; it did not demonstrate India's indigenous crewed launch, orbital module or recovery capability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 603,
+      "heading": "VISUAL FIRST",
+      "preview": "UNCREWED ORBITAL PRECURSOR AND CREWED MISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 656,
+      "heading": "CLOSING RECALL FLOW - CORE - UNCREWED ORBITAL PRECURSOR AND CREWED MISSION",
+      "preview": "START / CONCEPT: CORE — Uncrewed orbital precursor and crewed mission",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Re-entry parachute splashdown and recovery as a sequence: identify Mission-status boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 686,
+      "heading": "VISUAL FIRST",
+      "preview": "RE-ENTRY PARACHUTE SPLASHDOWN AND RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - RE-ENTRY PARACHUTE SPLASHDOWN AND RECOVERY",
+      "preview": "START / CONCEPT: CORE — Re-entry parachute splashdown and recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 137.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Axiom-4 experience versus indigenous capability as a sequence: identify Chandrayaan-1 boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "AXIOM-4 EXPERIENCE VERSUS INDIGENOUS CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 822,
+      "heading": "CLOSING RECALL FLOW - CORE - AXIOM-4 EXPERIENCE VERSUS INDIGENOUS CAPABILITY",
+      "preview": "START / CONCEPT: CORE — Axiom-4 experience versus indigenous capability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 833,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Mission-status vocabulary as a sequence: identify Chandrayaan-2 boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 332.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 852,
+      "heading": "VISUAL FIRST",
+      "preview": "MISSION-STATUS VOCABULARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 905,
+      "heading": "CLOSING RECALL FLOW - CORE - MISSION-STATUS VOCABULARY",
+      "preview": "START / CONCEPT: CORE — Mission-status vocabulary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 916,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chandrayaan-4 is an approved lunar sample-return technology mission in the repository owner; approval and intended completion are not launch, landing or returned material.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 938,
+      "heading": "VISUAL FIRST",
+      "preview": "CHANDRAYAAN-1 AND ORBITAL LUNAR SCIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 992,
+      "heading": "CLOSING RECALL FLOW - CORE - CHANDRAYAAN-1 AND ORBITAL LUNAR SCIENCE",
+      "preview": "START / CONCEPT: CORE — Chandrayaan-1 and orbital lunar science",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not call Chandrayaan-2 a total failure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 292.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 240.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1022,
+      "heading": "VISUAL FIRST",
+      "preview": "CHANDRAYAAN-2 PARTIAL-SUCCESS CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1075,
+      "heading": "CLOSING RECALL FLOW - CORE - CHANDRAYAAN-2 PARTIAL-SUCCESS CLASSIFICATION",
+      "preview": "START / CONCEPT: CORE — Chandrayaan-2 partial-success classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 137.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1086,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Chandrayaan-3 landing versus sample-return capability as a sequence: identify Lagrange-station-keeping boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1105,
+      "heading": "VISUAL FIRST",
+      "preview": "CHANDRAYAAN-3 LANDING VERSUS SAMPLE-RETURN CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1158,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CHANDRAYAAN-3 LANDING VERSUS SAMPLE-RETURN CAPABILITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Chandrayaan-3 landing versus sample-return capability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 697.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 466.691
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Aditya-L1 Mars Venus and parallel mission ladders as a sequence: identify Mars-Venus boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 298.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 231.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1191,
+      "heading": "VISUAL FIRST",
+      "preview": "ADITYA-L1 MARS VENUS AND PARALLEL MISSION LADDERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1245,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ADITYA-L1 MARS VENUS AND PARALLEL MISSION LADDERS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Aditya-L1 Mars Venus and parallel mission ladders",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Planetary defence and dated mission audit as a sequence: identify Planetary-defence boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 350.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 284.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1278,
+      "heading": "VISUAL FIRST",
+      "preview": "PLANETARY DEFENCE AND DATED MISSION AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1314,
+      "markdown_body_line_end": 1318,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II (international cooperation) + Prelims. **Core area:** Human-spaceflight architecture, astronaut training and India’s lunar/solar/planetary mis",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 487.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1331,
+      "heading": "1. Visual foundation",
+      "preview": "GAGANYAAN STACK",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 465.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1343,
+      "heading": "1. Visual foundation",
+      "preview": "Mission / programme | What UPSC should remember | Current broad status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Mission / programme",
+          "What UPSC should remember",
+          "Current broad status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 464.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1345,
+      "markdown_body_line_end": 1345,
+      "heading": "1. Visual foundation",
+      "preview": "🔑 **The four ladders — never mix them.** (a) *Human spaceflight*: test → uncrewed orbital → crewed → station. (b) *Lunar*: orbit → soft land → rove → sample return. (c) *Solar/deep-space observation*: Lagrange-point station-keeping, no land",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 464.69
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 391.622
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1364,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 14,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 118.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1441,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s human-spaceflight and planetary programme is a staged capability-building project in which crew safety, orbital systems, landing technologies, deep-space operations and international mission exposure reinforce one",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 518.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 445.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1481,
+      "markdown_body_line_end": 1498,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PLANETARY DEFENCE AND DATED MISSION AUDIT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Planetary defence and dated mission audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 387
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 101.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2721,
+      "markdown_body_line_end": 2725,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II (international cooperation/governance) + Prelims. **Core area:** Human-spaceflight strategy, mission-status discipline, planetary roadmap and science-poli",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 52.424
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2740,
+      "heading": "2. Visual foundation",
+      "preview": "CAPABILITY ESCALATOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 632.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 561.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2748,
+      "heading": "2. Visual foundation",
+      "preview": "Mission class | Advanced analytical cue",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Mission class",
+          "Advanced analytical cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 561.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 430.89
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2752,
+      "markdown_body_line_end": 2763,
+      "heading": "3. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 281.89
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2831,
+      "markdown_body_line_end": 2837,
+      "heading": "9. CURRENT: Current anchor",
+      "preview": "Verified current anchor | Analytical use in answers",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Verified current anchor",
+          "Analytical use in answers"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 422.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 146.69
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2848,
+      "markdown_body_line_end": 2848,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s contemporary space programme should be read as a sequenced capability architecture in which human-spaceflight, orbital science, soft-landing success, future sample-return plans and international mission exposure t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 681.624
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2916,
+      "markdown_body_line_end": 2924,
+      "heading": "Human Spaceflight: Gaganyaan and Planetary Missions: ANSWER-WRITING SPINE",
+      "preview": "CLASSIFY THE MISSION AND ITS CAPABILITY LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 692.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 611.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2934,
+      "markdown_body_line_end": 2940,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Human-rating pyramid",
+      "preview": "LAUNCH RELIABILITY -> necessary starting condition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 491.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 429.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2944,
+      "markdown_body_line_end": 2950,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Gaganyaan module map",
+      "preview": "CREW MODULE -> habitable and re-entry capable",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 407.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 345.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2954,
+      "markdown_body_line_end": 2960,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Crew-survival chain",
+      "preview": "ECLSS -> breathable and thermally controlled cabin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 323.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 261.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2964,
+      "markdown_body_line_end": 2970,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Qualification ladder",
+      "preview": "COMPONENT / GROUND TEST -> verify subsystem behaviour",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2974,
+      "markdown_body_line_end": 2980,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: International-exposure firewall",
+      "preview": "AXIOM-4 -> international ISS mission experience",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2984,
+      "markdown_body_line_end": 2990,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Mission-status ladder",
+      "preview": "ANNOUNCED / PROPOSED -> intent",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2994,
+      "markdown_body_line_end": 3000,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Lunar capability ladder",
+      "preview": "CHANDRAYAAN-1 -> orbital science and lunar-water evidence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3010,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Solar-observatory geometry",
+      "preview": "SUN-EARTH SYSTEM -> defines Lagrange-point geometry",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3014,
+      "markdown_body_line_end": 3020,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Planetary-status matrix",
+      "preview": "MARS ORBITER MISSION -> historic mission, now concluded",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3024,
+      "markdown_body_line_end": 3032,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Parallel capability ladders",
+      "preview": "HUMAN -> abort, life support, uncrewed, crewed, station",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3036,
+      "markdown_body_line_end": 3044,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Planetary-defence rail",
+      "preview": "DETECTION -> discover potentially hazardous objects",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3048,
+      "markdown_body_line_end": 3056,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Mission answer spine",
+      "preview": "CLASSIFY -> human lunar solar planetary or defence mission",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    }
+  ]
+}

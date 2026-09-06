@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-07",
+  "record_id": "political-theory-07:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 6,
+    "questions": [
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 186,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 183,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 197,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 200,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 306,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 310,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 40,
+    "workbook_pages": 25,
+    "main_layout": {
+      "page_count": 40,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 25,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Complete-Learning-Session_2026-09-06.md": "0f27745f92be2bded049c22cc4cfbd7c7bd24094dbb99fe6e5a0f39e64dda336",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Solved-Practice-Workbook_2026-09-06.md": "f360d587e2737ae852631ec0b398cd61ecdf7286bb6a60952052fcf2bb6b2b1e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Complete-Learning-Session_2026-09-06.pdf": "15a6c0669e60551f9fef348ed2e9baa688aec0db4e633666e9bedcc11e74e33e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Solved-Practice-Workbook_2026-09-06.pdf": "38b8a87f991deef939024c7df22d85a1ca1cc863868b465cd6b5ee8b6f488b67",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g4\\master.png": "fce240674fdd7ca0fb4536d19f107d5f30b7c50d32579aa474b907ed844a057e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g4\\poster.pdf": "647db66f10eb85ee70fc8273cfe64e78ae5197a7584e42992b1962dbd15a24d8",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g4\\tiled.pdf": "d096e297487106bc95a5603d3e1e02b47c986a9662dd5c136f79427a9e901a3b",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g4\\ascii-master.pdf": "03f68db60e25d7f08bf0ed8037ef58d560a1c8e4fc270b7976b72b2e8d3963ff",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g4\\ascii-master.txt": "80995fc69a6fa73656c5cef97719b95ff4bcb202395fb4001f0a24a5b95e1754"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-07",
+    "title": "Nature of Politics and Communitarianism",
+    "old_record_id": "political-theory-07:learner-v2:g3",
+    "new_record_id": "political-theory-07:learner-v2:g4",
+    "old_generation": 3,
+    "new_generation": 4,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-07-learner-v2-g4-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T11:40:43.116823+00:00",
+    "identities": {
+      "export": "political-theory-07:learner-v2:g4",
+      "master": "political-theory-07:learner-v2:g4",
+      "review": "political-theory-07:learner-v2:g4"
+    },
+    "generations": {
+      "export": 4,
+      "master": 4,
+      "review": 4
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-08"
+}

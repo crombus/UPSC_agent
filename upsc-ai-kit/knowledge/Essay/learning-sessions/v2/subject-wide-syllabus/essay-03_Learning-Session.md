@@ -1,1155 +1,1155 @@
 # Issue-Based Prompt Scoping — Learner-v2 Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.
+> **Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.
 
 ### SOURCE, PROGRESSION AND OFFICIAL-RULE AUDIT
 
-- **Generation date:** 2026-09-04.
+- **Generation date:** 2026-09-06.
 - **Source order:** canonical Basic owner first; Advanced owner second; Essay master framework, README, official-syllabus map, answer-worthiness audit and revision chart next; PYQ corpus and official OCR papers after that; live official UPSC pages only as a final check.
 - **Basic/Advanced boundary:** complete Basic teaching remains first and Advanced material remains optional and last.
 - **OCR boundary:** Repository Markdown was primary. OCR-searchable official UPSC Essay papers were supplementary only for printed instructions and V1 prompt wording. No author, official model answer, current marks split, phase allocation, paragraph count or scoring rubric was inferred.
 - **Qdrant:** not used; repository Markdown and local official papers were sufficient.
-- **PYQ integrity:** The cards preserve exact V1 issue or issue-adjacent prompts from 2018, 2019 and 2024. The solutions demonstrate scope control and do not claim official model essays.
-- **Live-source boundary:** The 2026-09-04 official-site attempts supplied no new content. Prompt wording and metadata remain bounded by local V1 papers and the audited Essay corpus; issue analysis is explicitly repository-authored method.
+- **PYQ integrity:** Three application cards use the repository's explicit V1/V2 status. No unavailable official model answer, marking rubric or attribution is invented.
+- **Live-source boundary:** Live source check dated 2026-09-06: official UPSC routes were attempted and access-blocked; blocked pages support no new claim. UN, WHO and IPCC primary pages were separately checked for cross-theme factual boundaries.
 - **No-formula rule:** strategy, heuristics and practice weights are never presented as official UPSC instructions or marking criteria.
 
 ### LIVE OFFICIAL-SOURCE ATTEMPT LOG
 
-The checks below were made on 2026-09-04. Substantive official text is used only for the proposition it supports; title-only, blocked or thin pages are recorded and supply no factual claim.
+The checks below were made on 2026-09-06. Substantive official text is used only for the proposition it supports; title-only, blocked or thin pages are recorded and supply no factual claim.
 
-- https://upsc.gov.in/examinations/previous-question-papers — attempted 2026-09-04; the official index was access-blocked, so the module uses only locally audited V1 wording for issue-prompt cards.
-- https://upsc.gov.in/examinations/active-examinations — attempted 2026-09-04; the official page was access-blocked and supplied no current issue-prompt taxonomy or model-answer claim.
-- https://upsc.gov.in/sites/default/files/Notif-CSP-2024-Engl-140224.pdf — searched 2026-09-04; the official notification route was logged only for scheme provenance, not for coaching-style scoping rules.
+- https://upsc.gov.in/examinations/previous-question-papers — attempted 2026-09-06; official page returned HTTP 403 to the live fetch, so it supports no new wording.
+- https://upsc.gov.in/examinations/active-examinations — attempted 2026-09-06; official page returned HTTP 403 to the live fetch, so it supports no current-paper inference.
+- https://upsc.gov.in/sites/default/files/Notif-CSP-2024-Engl-140224.pdf — searched 2026-09-06; retained only as an official scheme cross-check route, not as an Essay rubric.
 
 ## BASIC LEARNING SESSION
 
-### SESSION 1 — FOUNDATION — Issue-prompt classification
+### SESSION 1 — FOUNDATION — Purpose, ownership and prompt fidelity
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Issue-prompt classification explains how Issue-statement prompt and Classification gate combine into one usable Essay-planning move.
+**Plain-language definition:** Purpose, ownership and prompt fidelity explains how Purpose and scope and Core terms in plain language combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Issue-prompt classification should be applied through Issue-statement prompt and Classification gate, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Purpose, ownership and prompt fidelity should be applied through Purpose and scope and Core terms in plain language, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Issue-prompt**
-- **classification**
-- **Issue-statement**
+- **Purpose**
+- **ownership**
 - **prompt**
-- **gate**
+- **fidelity**
+- **scope**
+- **Core**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
+
+#### VISUAL FIRST
+
+```text
+PURPOSE, OWNERSHIP AND PROMPT FIDELITY
+01. Purpose and scope
+    |
+    v
+02. Core terms in plain language
+STATUS / CATEGORY FIREWALL -> Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Purpose, ownership and prompt fidelity as a sequence: identify Purpose and scope, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue. This keeps Purpose and scope and Core terms in plain language in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
+- phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
+
+#### EXAMINER CAUTION
+
+- Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Purpose, ownership and prompt fidelity by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** State the exact demand and the bounded writing decision.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Purpose and scope -> Core terms in plain language
+- **Qualified use:** State the exact demand and the bounded writing decision.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Purpose, ownership and prompt fidelity
+EXACT TERMS: Purpose | ownership | prompt | fidelity | scope | Core
+MECHANISM / ARGUMENT: connect Purpose and scope and Core terms in plain language without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: State the exact demand and the bounded writing decision.
+UPSC TRAP / ANSWER-USE: Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 2 — FOUNDATION — Purpose and scope
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Purpose and scope explains how Core terms in plain language — 2 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Purpose and scope should be applied through Core terms in plain language — 2, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Purpose**
+- **scope**
+- **Core**
+- **terms**
+- **plain**
+- **language**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
+
+#### VISUAL FIRST
+
+```text
+PURPOSE AND SCOPE
+01. Core terms in plain language — 2
+STATUS / CATEGORY FIREWALL -> Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Purpose and scope as a sequence: identify Core terms in plain language — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not cross the ownership boundary: abstract metaphor decoding belongs to 02. This keeps Core terms in plain language — 2 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
+
+#### EXAMINER CAUTION
+
+- Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Purpose and scope by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Define operative terms before expanding dimensions.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Core terms in plain language — 2
+- **Qualified use:** Define operative terms before expanding dimensions.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Purpose and scope
+EXACT TERMS: Purpose | scope | Core | terms | plain | language
+MECHANISM / ARGUMENT: connect Core terms in plain language — 2 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Define operative terms before expanding dimensions.
+UPSC TRAP / ANSWER-USE: Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 3 — FOUNDATION — Core terms in plain language
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Core terms in plain language explains how Exam facts / source basis combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Core terms in plain language should be applied through Exam facts / source basis, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Core**
+- **terms**
+- **plain**
+- **language**
+- **Exam**
+- **facts**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an example without explaining its argumentative function.
+
+#### VISUAL FIRST
+
+```text
+CORE TERMS IN PLAIN LANGUAGE
+01. Exam facts / source basis
+STATUS / CATEGORY FIREWALL -> Do not use an example without explaining its argumentative function.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Core terms in plain language as a sequence: identify Exam facts / source basis, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not use an example without explaining its argumentative function. This keeps Exam facts / source basis in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
+
+#### EXAMINER CAUTION
+
+- Do not use an example without explaining its argumentative function.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Core terms in plain language by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Build one qualified thesis and keep it visible.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Exam facts / source basis
+- **Qualified use:** Build one qualified thesis and keep it visible.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Core terms in plain language
+EXACT TERMS: Core | terms | plain | language | Exam | facts
+MECHANISM / ARGUMENT: connect Exam facts / source basis without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Build one qualified thesis and keep it visible.
+UPSC TRAP / ANSWER-USE: Do not use an example without explaining its argumentative function.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 4 — CORE — Core terms in plain language — 2
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Core terms in plain language — 2 explains how Exam facts / source basis — 2 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Core terms in plain language — 2 should be applied through Exam facts / source basis — 2, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Core**
+- **terms**
+- **plain**
+- **language**
+- **Exam**
+- **facts**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### VISUAL FIRST
+
+```text
+CORE TERMS IN PLAIN LANGUAGE — 2
+01. Exam facts / source basis — 2
+STATUS / CATEGORY FIREWALL -> Do not treat a pedagogical scaffold as an official UPSC marking rule.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+"precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Core terms in plain language — 2 as a sequence: identify Exam facts / source basis — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not treat a pedagogical scaffold as an official UPSC marking rule. This keeps Exam facts / source basis — 2 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+
+#### EXAMINER CAUTION
+
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Core terms in plain language — 2 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Give every paragraph one argumentative job.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Exam facts / source basis — 2
+- **Qualified use:** Give every paragraph one argumentative job.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Core terms in plain language — 2
+EXACT TERMS: Core | terms | plain | language | Exam | facts
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 2 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Give every paragraph one argumentative job.
+UPSC TRAP / ANSWER-USE: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 5 — CORE — Exam facts / source basis
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Exam facts / source basis explains how Exam facts / source basis — 3 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Exam facts / source basis should be applied through Exam facts / source basis — 3, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Exam**
+- **facts**
+- **basis**
+- **unmetaphorical**
+- **issue-statement**
+- **remaining**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not let a counter-view replace the thesis; use it to qualify the thesis.
+
+#### VISUAL FIRST
+
+```text
+EXAM FACTS / SOURCE BASIS
+01. Exam facts / source basis — 3
+STATUS / CATEGORY FIREWALL -> Do not let a counter-view replace the thesis; use it to qualify the thesis.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Exam facts / source basis as a sequence: identify Exam facts / source basis — 3, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not let a counter-view replace the thesis; use it to qualify the thesis. This keeps Exam facts / source basis — 3 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
+
+#### EXAMINER CAUTION
+
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Exam facts / source basis by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Join a named illustration to its mechanism.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Exam facts / source basis — 3
+- **Qualified use:** Join a named illustration to its mechanism.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Exam facts / source basis
+EXACT TERMS: Exam | facts | basis | unmetaphorical | issue-statement | remaining
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 3 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Join a named illustration to its mechanism.
+UPSC TRAP / ANSWER-USE: Do not let a counter-view replace the thesis; use it to qualify the thesis.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 6 — CORE — Exam facts / source basis — 2
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Exam facts / source basis — 2 explains how Is this actually an issue prompt? — a three-question test and Is this actually an issue prompt? — a three-question test — 2 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Exam facts / source basis — 2 should be applied through Is this actually an issue prompt? — a three-question test and Is this actually an issue prompt? — a three-question test — 2, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Exam**
+- **facts**
+- **basis**
+- **this**
+- **actually**
 - **issue**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an unverified quotation, statistic, attribution or anecdote.
 
 #### VISUAL FIRST
 
 ```text
-ISSUE-PROMPT CLASSIFICATION
-01. Issue-statement prompt
+EXAM FACTS / SOURCE BASIS — 2
+01. Is this actually an issue prompt? — a three-question test
     |
     v
-02. Classification gate
-STATUS / CATEGORY FIREWALL -> Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+02. Is this actually an issue prompt? — a three-question test — 2
+STATUS / CATEGORY FIREWALL -> Do not use an unverified quotation, statistic, attribution or anecdote.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor. A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
+basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure. Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Issue-prompt classification as a sequence: identify Issue-statement prompt, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis — 2 as a sequence: identify Is this actually an issue prompt? — a three-question test, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it. This keeps Issue-statement prompt and Classification gate in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not use an unverified quotation, statistic, attribution or anecdote. This keeps Is this actually an issue prompt? — a three-question test and Is this actually an issue prompt? — a three-question test — 2 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor.
-- A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
+- basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure.
+- Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
 
 #### EXAMINER CAUTION
 
-- Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+- Do not use an unverified quotation, statistic, attribution or anecdote.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Issue-prompt classification by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Classify before deciding whether to decode or scope first.
+- **Objective practice:** Apply Exam facts / source basis — 2 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use a counter-case to refine, not derail, the thesis.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Issue-statement prompt -> Classification gate
-- **Qualified use:** Classify before deciding whether to decode or scope first.
+- **Mechanism chain:** Is this actually an issue prompt? — a three-question test -> Is this actually an issue prompt? — a three-question test — 2
+- **Qualified use:** Use a counter-case to refine, not derail, the thesis.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Issue-prompt classification
-EXACT TERMS: Issue-prompt | classification | Issue-statement | prompt | gate | issue
-MECHANISM / ARGUMENT: connect Issue-statement prompt and Classification gate without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Classify before deciding whether to decode or scope first.
-UPSC TRAP / ANSWER-USE: Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+START / CONCEPT: Exam facts / source basis — 2
+EXACT TERMS: Exam | facts | basis | this | actually | issue
+MECHANISM / ARGUMENT: connect Is this actually an issue prompt? — a three-question test and Is this actually an issue prompt? — a three-question test — 2 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use a counter-case to refine, not derail, the thesis.
+UPSC TRAP / ANSWER-USE: Do not use an unverified quotation, statistic, attribution or anecdote.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 2 — FOUNDATION — Directive and demand
+### SESSION 7 — CORE — Exam facts / source basis — 3
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Directive and demand explains how Directive or demand combine into one usable Essay-planning move.
+**Plain-language definition:** Exam facts / source basis — 3 explains how Is this actually an issue prompt? — a three-question test — 3 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Directive and demand should be applied through Directive or demand, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Exam facts / source basis — 3 should be applied through Is this actually an issue prompt? — a three-question test — 3, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Directive**
-- **demand**
-- **Identify**
-- **whether**
-- **wording**
-- **asks**
+- **Exam**
+- **facts**
+- **basis**
+- **this**
+- **actually**
+- **issue**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not ignore interrogative, causal, comparative or evaluative wording.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not multiply dimensions that repeat the same claim in new vocabulary.
 
 #### VISUAL FIRST
 
 ```text
-DIRECTIVE AND DEMAND
-01. Directive or demand
-STATUS / CATEGORY FIREWALL -> Do not ignore interrogative, causal, comparative or evaluative wording.
+EXAM FACTS / SOURCE BASIS — 3
+01. Is this actually an issue prompt? — a three-question test — 3
+STATUS / CATEGORY FIREWALL -> Do not multiply dimensions that repeat the same claim in new vocabulary.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
+Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Directive and demand as a sequence: identify Directive or demand, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis — 3 as a sequence: identify Is this actually an issue prompt? — a three-question test — 3, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not ignore interrogative, causal, comparative or evaluative wording. This keeps Directive or demand in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not multiply dimensions that repeat the same claim in new vocabulary. This keeps Is this actually an issue prompt? — a three-question test — 3 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
+- Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
 
 #### EXAMINER CAUTION
 
-- Do not ignore interrogative, causal, comparative or evaluative wording.
+- Do not multiply dimensions that repeat the same claim in new vocabulary.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Directive and demand by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Turn the wording into the exact burden the essay must discharge.
+- **Objective practice:** Apply Exam facts / source basis — 3 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Sequence paragraphs through explicit logical bridges.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Directive or demand
-- **Qualified use:** Turn the wording into the exact burden the essay must discharge.
+- **Mechanism chain:** Is this actually an issue prompt? — a three-question test — 3
+- **Qualified use:** Sequence paragraphs through explicit logical bridges.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Directive and demand
-EXACT TERMS: Directive | demand | Identify | whether | wording | asks
-MECHANISM / ARGUMENT: connect Directive or demand without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Turn the wording into the exact burden the essay must discharge.
-UPSC TRAP / ANSWER-USE: Do not ignore interrogative, causal, comparative or evaluative wording.
+START / CONCEPT: Exam facts / source basis — 3
+EXACT TERMS: Exam | facts | basis | this | actually | issue
+MECHANISM / ARGUMENT: connect Is this actually an issue prompt? — a three-question test — 3 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Sequence paragraphs through explicit logical bridges.
+UPSC TRAP / ANSWER-USE: Do not multiply dimensions that repeat the same claim in new vocabulary.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 3 — FOUNDATION — Object boundary
+### SESSION 8 — CORE — Is this actually an issue prompt? — a three-question test
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Object boundary explains how Object combine into one usable Essay-planning move.
+**Plain-language definition:** Is this actually an issue prompt? — a three-question test explains how The central idea and common misreading combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Object boundary should be applied through Object, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Is this actually an issue prompt? — a three-question test should be applied through The central idea and common misreading, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Object**
-- **boundary**
-- **precise**
-- **phenomenon**
-- **relationship**
-- **being**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not drop qualifiers such as India, youth, majority or long run.
-
-#### VISUAL FIRST
-
-```text
-OBJECT BOUNDARY
-01. Object
-STATUS / CATEGORY FIREWALL -> Do not drop qualifiers such as India, youth, majority or long run.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Object boundary as a sequence: identify Object, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not drop qualifiers such as India, youth, majority or long run. This keeps Object in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-
-#### EXAMINER CAUTION
-
-- Do not drop qualifiers such as India, youth, majority or long run.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Object boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Carry the object and every important qualifier into the thesis.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Object
-- **Qualified use:** Carry the object and every important qualifier into the thesis.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Object boundary
-EXACT TERMS: Object | boundary | precise | phenomenon | relationship | being
-MECHANISM / ARGUMENT: connect Object without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Carry the object and every important qualifier into the thesis.
-UPSC TRAP / ANSWER-USE: Do not drop qualifiers such as India, youth, majority or long run.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 4 — CORE — Qualifier boundary
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Qualifier boundary explains how Qualifier combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Qualifier boundary should be applied through Qualifier, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Qualifier**
-- **boundary**
-- **Words**
-- **such**
-- **majority**
-- **youth**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not shift geography, actor, time or scale without explaining the move.
-
-#### VISUAL FIRST
-
-```text
-QUALIFIER BOUNDARY
-01. Qualifier
-STATUS / CATEGORY FIREWALL -> Do not shift geography, actor, time or scale without explaining the move.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Qualifier boundary as a sequence: identify Qualifier, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not shift geography, actor, time or scale without explaining the move. This keeps Qualifier in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-
-#### EXAMINER CAUTION
-
-- Do not shift geography, actor, time or scale without explaining the move.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Qualifier boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Fix where and when the claim applies.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Qualifier
-- **Qualified use:** Fix where and when the claim applies.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Qualifier boundary
-EXACT TERMS: Qualifier | boundary | Words | such | majority | youth
-MECHANISM / ARGUMENT: connect Qualifier without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Fix where and when the claim applies.
-UPSC TRAP / ANSWER-USE: Do not shift geography, actor, time or scale without explaining the move.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 5 — CORE — Geography boundary
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Geography boundary explains how Geography combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Geography boundary should be applied through Geography, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Geography**
-- **boundary**
-- **State**
-- **whether**
+- **this**
+- **actually**
+- **issue**
 - **prompt**
-- **bounded**
+- **three-question**
+- **test**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not present association as causation without a mechanism and mediator.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not end with aspiration unsupported by the preceding argument.
 
 #### VISUAL FIRST
 
 ```text
-GEOGRAPHY BOUNDARY
-01. Geography
-STATUS / CATEGORY FIREWALL -> Do not present association as causation without a mechanism and mediator.
+IS THIS ACTUALLY AN ISSUE PROMPT? — A THREE-QUESTION TEST
+01. The central idea and common misreading
+STATUS / CATEGORY FIREWALL -> Do not end with aspiration unsupported by the preceding argument.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
+Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Geography boundary as a sequence: identify Geography, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Is this actually an issue prompt? — a three-question test as a sequence: identify The central idea and common misreading, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not present association as causation without a mechanism and mediator. This keeps Geography in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not end with aspiration unsupported by the preceding argument. This keeps The central idea and common misreading in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
+- Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
 
 #### EXAMINER CAUTION
 
-- Do not present association as causation without a mechanism and mediator.
+- Do not end with aspiration unsupported by the preceding argument.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Geography boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Disaggregate actors and match evidence to scale.
+- **Objective practice:** Apply Is this actually an issue prompt? — a three-question test by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Move across actor, scale and time only when the claim changes.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Geography
-- **Qualified use:** Disaggregate actors and match evidence to scale.
+- **Mechanism chain:** The central idea and common misreading
+- **Qualified use:** Move across actor, scale and time only when the claim changes.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Geography boundary
-EXACT TERMS: Geography | boundary | State | whether | prompt | bounded
-MECHANISM / ARGUMENT: connect Geography without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Disaggregate actors and match evidence to scale.
-UPSC TRAP / ANSWER-USE: Do not present association as causation without a mechanism and mediator.
+START / CONCEPT: Is this actually an issue prompt? — a three-question test
+EXACT TERMS: this | actually | issue | prompt | three-question | test
+MECHANISM / ARGUMENT: connect The central idea and common misreading without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Move across actor, scale and time only when the claim changes.
+UPSC TRAP / ANSWER-USE: Do not end with aspiration unsupported by the preceding argument.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 6 — CORE — Time and actor boundary
+### SESSION 9 — CORE — Is this actually an issue prompt? — a three-question test — 2
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Time and actor boundary explains how Time and Actor combine into one usable Essay-planning move.
+**Plain-language definition:** Is this actually an issue prompt? — a three-question test — 2 explains how Basic decomposition questions combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Time and actor boundary should be applied through Time and Actor, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Is this actually an issue prompt? — a three-question test — 2 should be applied through Basic decomposition questions, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Time**
-- **actor**
-- **boundary**
-- **Distinguish**
-- **present**
-- **condition**
+- **this**
+- **actually**
+- **issue**
+- **prompt**
+- **three-question**
+- **test**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not define the whole subject when only one relationship is contested.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not sacrifice the second essay's time budget to perfect the first.
 
 #### VISUAL FIRST
 
 ```text
-TIME AND ACTOR BOUNDARY
-01. Time
+IS THIS ACTUALLY AN ISSUE PROMPT? — A THREE-QUESTION TEST — 2
+01. Basic decomposition questions
+STATUS / CATEGORY FIREWALL -> Do not sacrifice the second essay's time budget to perfect the first.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Is this actually an issue prompt? — a three-question test — 2 as a sequence: identify Basic decomposition questions, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not sacrifice the second essay's time budget to perfect the first. This keeps Basic decomposition questions in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
+
+#### EXAMINER CAUTION
+
+- Do not sacrifice the second essay's time budget to perfect the first.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Is this actually an issue prompt? — a three-question test — 2 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use ethical nuance without moralising.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Basic decomposition questions
+- **Qualified use:** Use ethical nuance without moralising.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Is this actually an issue prompt? — a three-question test — 2
+EXACT TERMS: this | actually | issue | prompt | three-question | test
+MECHANISM / ARGUMENT: connect Basic decomposition questions without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use ethical nuance without moralising.
+UPSC TRAP / ANSWER-USE: Do not sacrifice the second essay's time budget to perfect the first.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 10 — CORE — Is this actually an issue prompt? — a three-question test — 3
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Is this actually an issue prompt? — a three-question test — 3 explains how Causal-evidence-limit chain combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Is this actually an issue prompt? — a three-question test — 3 should be applied through Causal-evidence-limit chain, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **this**
+- **actually**
+- **issue**
+- **prompt**
+- **three-question**
+- **test**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not mistake novelty of phrasing for originality of thought.
+
+#### VISUAL FIRST
+
+```text
+IS THIS ACTUALLY AN ISSUE PROMPT? — A THREE-QUESTION TEST — 3
+01. Causal-evidence-limit chain
+STATUS / CATEGORY FIREWALL -> Do not mistake novelty of phrasing for originality of thought.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Is this actually an issue prompt? — a three-question test — 3 as a sequence: identify Causal-evidence-limit chain, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not mistake novelty of phrasing for originality of thought. This keeps Causal-evidence-limit chain in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
+
+#### EXAMINER CAUTION
+
+- Do not mistake novelty of phrasing for originality of thought.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Is this actually an issue prompt? — a three-question test — 3 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Preserve factual and quotation integrity.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Causal-evidence-limit chain
+- **Qualified use:** Preserve factual and quotation integrity.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Is this actually an issue prompt? — a three-question test — 3
+EXACT TERMS: this | actually | issue | prompt | three-question | test
+MECHANISM / ARGUMENT: connect Causal-evidence-limit chain without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Preserve factual and quotation integrity.
+UPSC TRAP / ANSWER-USE: Do not mistake novelty of phrasing for originality of thought.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 11 — CORE — The central idea and common misreading
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** The central idea and common misreading explains how Causal-evidence-limit chain — 2 and India-first illustration starters combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> The central idea and common misreading should be applied through Causal-evidence-limit chain — 2 and India-first illustration starters, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **central**
+- **idea**
+- **common**
+- **misreading**
+- **Causal-evidence-limit**
+- **chain**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
+
+#### VISUAL FIRST
+
+```text
+THE CENTRAL IDEA AND COMMON MISREADING
+01. Causal-evidence-limit chain — 2
     |
     v
-02. Actor
-STATUS / CATEGORY FIREWALL -> Do not define the whole subject when only one relationship is contested.
+02. India-first illustration starters
+STATUS / CATEGORY FIREWALL -> Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
+An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Time and actor boundary as a sequence: identify Time, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read The central idea and common misreading as a sequence: identify Causal-evidence-limit chain — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not define the whole subject when only one relationship is contested. This keeps Time and Actor in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue. This keeps Causal-evidence-limit chain — 2 and India-first illustration starters in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
-- Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
+- An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
+- Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
 
 #### EXAMINER CAUTION
 
-- Do not define the whole subject when only one relationship is contested.
+- Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Time and actor boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Test every causal link through mechanism and limit.
+- **Objective practice:** Apply The central idea and common misreading by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Import GS knowledge selectively and analytically.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Time -> Actor
-- **Qualified use:** Test every causal link through mechanism and limit.
+- **Mechanism chain:** Causal-evidence-limit chain — 2 -> India-first illustration starters
+- **Qualified use:** Import GS knowledge selectively and analytically.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Time and actor boundary
-EXACT TERMS: Time | actor | boundary | Distinguish | present | condition
-MECHANISM / ARGUMENT: connect Time and Actor without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Test every causal link through mechanism and limit.
-UPSC TRAP / ANSWER-USE: Do not define the whole subject when only one relationship is contested.
+START / CONCEPT: The central idea and common misreading
+EXACT TERMS: central | idea | common | misreading | Causal-evidence-limit | chain
+MECHANISM / ARGUMENT: connect Causal-evidence-limit chain — 2 and India-first illustration starters without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Import GS knowledge selectively and analytically.
+UPSC TRAP / ANSWER-USE: Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 7 — CORE — Scale boundary
+### SESSION 12 — CORE — GS knowledge without a GS answer
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Scale boundary explains how Scale combine into one usable Essay-planning move.
+**Plain-language definition:** GS knowledge without a GS answer explains how Advanced proposition and boundary combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Scale boundary should be applied through Scale, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> GS knowledge without a GS answer should be applied through Advanced proposition and boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Scale**
+- **knowledge**
+- **Advanced**
+- **proposition**
 - **boundary**
-- **Locate**
-- **demand**
-- **individual**
-- **community**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not convert the essay into a scheme or policy catalogue.
-
-#### VISUAL FIRST
-
-```text
-SCALE BOUNDARY
-01. Scale
-STATUS / CATEGORY FIREWALL -> Do not convert the essay into a scheme or policy catalogue.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Scale boundary as a sequence: identify Scale, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not convert the essay into a scheme or policy catalogue. This keeps Scale in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
-
-#### EXAMINER CAUTION
-
-- Do not convert the essay into a scheme or policy catalogue.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Scale boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** State the criterion behind evaluative words.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Scale
-- **Qualified use:** State the criterion behind evaluative words.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Scale boundary
-EXACT TERMS: Scale | boundary | Locate | demand | individual | community
-MECHANISM / ARGUMENT: connect Scale without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: State the criterion behind evaluative words.
-UPSC TRAP / ANSWER-USE: Do not convert the essay into a scheme or policy catalogue.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 8 — CORE — Causal demand
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Causal demand explains how Causal demand combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Causal demand should be applied through Causal demand, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Causal**
-- **demand**
-- **Where**
+- **issue-based**
 - **prompt**
-- **asserts**
-- **causation**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat a broad social group as internally uniform.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
 
 #### VISUAL FIRST
 
 ```text
-CAUSAL DEMAND
-01. Causal demand
-STATUS / CATEGORY FIREWALL -> Do not treat a broad social group as internally uniform.
+GS KNOWLEDGE WITHOUT A GS ANSWER
+01. Advanced proposition and boundary
+STATUS / CATEGORY FIREWALL -> Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
+Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Causal demand as a sequence: identify Causal demand, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read GS knowledge without a GS answer as a sequence: identify Advanced proposition and boundary, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not treat a broad social group as internally uniform. This keeps Causal demand in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not cross the ownership boundary: abstract metaphor decoding belongs to 02. This keeps Advanced proposition and boundary in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
+- Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
 
 #### EXAMINER CAUTION
 
-- Do not treat a broad social group as internally uniform.
+- Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Causal demand by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Name the trade-off the proposition compresses.
+- **Objective practice:** Apply GS knowledge without a GS answer by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use narrative or analogy only when it advances the proposition.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Causal demand
-- **Qualified use:** Name the trade-off the proposition compresses.
+- **Mechanism chain:** Advanced proposition and boundary
+- **Qualified use:** Use narrative or analogy only when it advances the proposition.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Causal demand
-EXACT TERMS: Causal | demand | Where | prompt | asserts | causation
-MECHANISM / ARGUMENT: connect Causal demand without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Name the trade-off the proposition compresses.
-UPSC TRAP / ANSWER-USE: Do not treat a broad social group as internally uniform.
+START / CONCEPT: GS knowledge without a GS answer
+EXACT TERMS: knowledge | Advanced | proposition | boundary | issue-based | prompt
+MECHANISM / ARGUMENT: connect Advanced proposition and boundary without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use narrative or analogy only when it advances the proposition.
+UPSC TRAP / ANSWER-USE: Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 9 — CORE — Evaluative demand
+### SESSION 13 — CORE SYNTHESIS — Narrative and reflective control
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Evaluative demand explains how Evaluative demand combine into one usable Essay-planning move.
+**Plain-language definition:** Narrative and reflective control explains how Concept definition and taxonomy combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Evaluative demand should be applied through Evaluative demand, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Narrative and reflective control should be applied through Concept definition and taxonomy, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Evaluative**
-- **demand**
-- **Where**
-- **prompt**
-- **uses**
-- **judgment**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not add a token counterpoint after a one-sided essay.
-
-#### VISUAL FIRST
-
-```text
-EVALUATIVE DEMAND
-01. Evaluative demand
-STATUS / CATEGORY FIREWALL -> Do not add a token counterpoint after a one-sided essay.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Evaluative demand as a sequence: identify Evaluative demand, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not add a token counterpoint after a one-sided essay. This keeps Evaluative demand in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
-
-#### EXAMINER CAUTION
-
-- Do not add a token counterpoint after a one-sided essay.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Evaluative demand by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Exclude adjacent GS content before it creates drift.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Evaluative demand
-- **Qualified use:** Exclude adjacent GS content before it creates drift.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Evaluative demand
-EXACT TERMS: Evaluative | demand | Where | prompt | uses | judgment
-MECHANISM / ARGUMENT: connect Evaluative demand without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Exclude adjacent GS content before it creates drift.
-UPSC TRAP / ANSWER-USE: Do not add a token counterpoint after a one-sided essay.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 10 — CORE — Hidden tension
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Hidden tension explains how Hidden tension combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Hidden tension should be applied through Hidden tension, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Hidden**
-- **tension**
-- **Issue**
-- **prompts**
-- **normally**
-- **contain**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not end with generic balance; state the conditions of synthesis.
-
-#### VISUAL FIRST
-
-```text
-HIDDEN TENSION
-01. Hidden tension
-STATUS / CATEGORY FIREWALL -> Do not end with generic balance; state the conditions of synthesis.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Hidden tension as a sequence: identify Hidden tension, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not end with generic balance; state the conditions of synthesis. This keeps Hidden tension in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
-
-#### EXAMINER CAUTION
-
-- Do not end with generic balance; state the conditions of synthesis.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Hidden tension by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Define only what the argument needs.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Hidden tension
-- **Qualified use:** Define only what the argument needs.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Hidden tension
-EXACT TERMS: Hidden | tension | Issue | prompts | normally | contain
-MECHANISM / ARGUMENT: connect Hidden tension without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Define only what the argument needs.
-UPSC TRAP / ANSWER-USE: Do not end with generic balance; state the conditions of synthesis.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 11 — CORE — Excluded material and definition boundary
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Excluded material and definition boundary explains how Excluded material and Definition boundary combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Excluded material and definition boundary should be applied through Excluded material and Definition boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Excluded**
-- **material**
+- **Narrative**
+- **reflective**
+- **control**
 - **definition**
-- **boundary**
-- **Write**
-- **negative**
+- **taxonomy**
+- **FOMO**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an example without explaining its argumentative function.
 
 #### VISUAL FIRST
 
 ```text
-EXCLUDED MATERIAL AND DEFINITION BOUNDARY
-01. Excluded material
+NARRATIVE AND REFLECTIVE CONTROL
+01. Concept definition and taxonomy
+STATUS / CATEGORY FIREWALL -> Do not use an example without explaining its argumentative function.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Narrative and reflective control as a sequence: identify Concept definition and taxonomy, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not use an example without explaining its argumentative function. This keeps Concept definition and taxonomy in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- ("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
+
+#### EXAMINER CAUTION
+
+- Do not use an example without explaining its argumentative function.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Narrative and reflective control by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Protect balance, originality and coherence together.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Concept definition and taxonomy
+- **Qualified use:** Protect balance, originality and coherence together.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Narrative and reflective control
+EXACT TERMS: Narrative | reflective | control | definition | taxonomy | FOMO
+MECHANISM / ARGUMENT: connect Concept definition and taxonomy without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Protect balance, originality and coherence together.
+UPSC TRAP / ANSWER-USE: Do not use an example without explaining its argumentative function.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 14 — CORE SYNTHESIS — Timed execution and word management
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Timed execution and word management explains how Concept definition and taxonomy — 2 and Tension pairs and hidden assumptions combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Timed execution and word management should be applied through Concept definition and taxonomy — 2 and Tension pairs and hidden assumptions, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Timed**
+- **execution**
+- **word**
+- **management**
+- **definition**
+- **taxonomy**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### VISUAL FIRST
+
+```text
+TIMED EXECUTION AND WORD MANAGEMENT
+01. Concept definition and taxonomy — 2
     |
     v
-02. Definition boundary
-STATUS / CATEGORY FIREWALL -> Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+02. Tension pairs and hidden assumptions
+STATUS / CATEGORY FIREWALL -> Do not treat a pedagogical scaffold as an official UPSC marking rule.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
+prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Excluded material and definition boundary as a sequence: identify Excluded material, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Timed execution and word management as a sequence: identify Concept definition and taxonomy — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it. This keeps Excluded material and Definition boundary in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not treat a pedagogical scaffold as an official UPSC marking rule. This keeps Concept definition and taxonomy — 2 and Tension pairs and hidden assumptions in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt.
-- Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
+- prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
+- mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
 
 #### EXAMINER CAUTION
 
-- Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Excluded material and definition boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Answer the exact claim with conditions.
+- **Objective practice:** Apply Timed execution and word management by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Fit planning, drafting and revision inside the paper budget.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Excluded material -> Definition boundary
-- **Qualified use:** Answer the exact claim with conditions.
+- **Mechanism chain:** Concept definition and taxonomy — 2 -> Tension pairs and hidden assumptions
+- **Qualified use:** Fit planning, drafting and revision inside the paper budget.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Excluded material and definition boundary
-EXACT TERMS: Excluded | material | definition | boundary | Write | negative
-MECHANISM / ARGUMENT: connect Excluded material and Definition boundary without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Answer the exact claim with conditions.
-UPSC TRAP / ANSWER-USE: Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
+START / CONCEPT: Timed execution and word management
+EXACT TERMS: Timed | execution | word | management | definition | taxonomy
+MECHANISM / ARGUMENT: connect Concept definition and taxonomy — 2 and Tension pairs and hidden assumptions without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Fit planning, drafting and revision inside the paper budget.
+UPSC TRAP / ANSWER-USE: Do not treat a pedagogical scaffold as an official UPSC marking rule.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 12 — CORE — Thesis boundary
+### SESSION 15 — CORE SYNTHESIS — Sustained central-argument execution
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Thesis boundary explains how Thesis boundary combine into one usable Essay-planning move.
+**Plain-language definition:** Sustained central-argument execution explains how Tension pairs and hidden assumptions — 2 and Tension pairs and hidden assumptions — 3 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Thesis boundary should be applied through Thesis boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Sustained central-argument execution should be applied through Tension pairs and hidden assumptions — 2 and Tension pairs and hidden assumptions — 3, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Thesis**
-- **boundary**
-- **must**
-- **prompt's**
-- **causal**
-- **evaluative**
+- **Sustained**
+- **central-argument**
+- **execution**
+- **Tension**
+- **pairs**
+- **hidden**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not ignore interrogative, causal, comparative or evaluative wording.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not let a counter-view replace the thesis; use it to qualify the thesis.
 
 #### VISUAL FIRST
 
 ```text
-THESIS BOUNDARY
-01. Thesis boundary
-STATUS / CATEGORY FIREWALL -> Do not ignore interrogative, causal, comparative or evaluative wording.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Thesis boundary as a sequence: identify Thesis boundary, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not ignore interrogative, causal, comparative or evaluative wording. This keeps Thesis boundary in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-
-#### EXAMINER CAUTION
-
-- Do not ignore interrogative, causal, comparative or evaluative wording.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Thesis boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Run a relevance sweep against the printed proposition.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Thesis boundary
-- **Qualified use:** Run a relevance sweep against the printed proposition.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Thesis boundary
-EXACT TERMS: Thesis | boundary | must | prompt's | causal | evaluative
-MECHANISM / ARGUMENT: connect Thesis boundary without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Run a relevance sweep against the printed proposition.
-UPSC TRAP / ANSWER-USE: Do not ignore interrogative, causal, comparative or evaluative wording.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 13 — CORE SYNTHESIS — Scope-creep diagnosis
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Scope-creep diagnosis explains how Scope creep combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Scope-creep diagnosis should be applied through Scope creep, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Scope-creep**
-- **diagnosis**
-- **Scope**
-- **creep**
-- **occurs**
-- **when**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not drop qualifiers such as India, youth, majority or long run.
-
-#### VISUAL FIRST
-
-```text
-SCOPE-CREEP DIAGNOSIS
-01. Scope creep
-STATUS / CATEGORY FIREWALL -> Do not drop qualifiers such as India, youth, majority or long run.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Scope-creep diagnosis as a sequence: identify Scope creep, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not drop qualifiers such as India, youth, majority or long run. This keeps Scope creep in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
-
-#### EXAMINER CAUTION
-
-- Do not drop qualifiers such as India, youth, majority or long run.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Scope-creep diagnosis by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Use policies as functional evidence, never as a list.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Scope creep
-- **Qualified use:** Use policies as functional evidence, never as a list.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Scope-creep diagnosis
-EXACT TERMS: Scope-creep | diagnosis | Scope | creep | occurs | when
-MECHANISM / ARGUMENT: connect Scope creep without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Use policies as functional evidence, never as a list.
-UPSC TRAP / ANSWER-USE: Do not drop qualifiers such as India, youth, majority or long run.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 14 — CORE SYNTHESIS — GS-answer and policy-catalogue avoidance
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** GS-answer and policy-catalogue avoidance explains how GS-answer collapse and Policy-catalogue avoidance combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> GS-answer and policy-catalogue avoidance should be applied through GS-answer collapse and Policy-catalogue avoidance, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **GS-answer**
-- **policy-catalogue**
-- **avoidance**
-- **collapse**
-- **causes-effects-measures**
-- **scheme**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not shift geography, actor, time or scale without explaining the move.
-
-#### VISUAL FIRST
-
-```text
-GS-ANSWER AND POLICY-CATALOGUE AVOIDANCE
-01. GS-answer collapse
+SUSTAINED CENTRAL-ARGUMENT EXECUTION
+01. Tension pairs and hidden assumptions — 2
     |
     v
-02. Policy-catalogue avoidance
-STATUS / CATEGORY FIREWALL -> Do not shift geography, actor, time or scale without explaining the move.
+02. Tension pairs and hidden assumptions — 3
+STATUS / CATEGORY FIREWALL -> Do not let a counter-view replace the thesis; use it to qualify the thesis.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate. Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
+homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently. observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read GS-answer and policy-catalogue avoidance as a sequence: identify GS-answer collapse, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Sustained central-argument execution as a sequence: identify Tension pairs and hidden assumptions — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not shift geography, actor, time or scale without explaining the move. This keeps GS-answer collapse and Policy-catalogue avoidance in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not let a counter-view replace the thesis; use it to qualify the thesis. This keeps Tension pairs and hidden assumptions — 2 and Tension pairs and hidden assumptions — 3 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate.
-- Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
+- homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently.
+- observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
 
 #### EXAMINER CAUTION
 
-- Do not shift geography, actor, time or scale without explaining the move.
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply GS-answer and policy-catalogue avoidance by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Give the strongest rival case full argumentative force.
+- **Objective practice:** Apply Sustained central-argument execution by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Return to a transformed thesis in the conclusion.
 
 #### MINI RECAP
 
-- **Mechanism chain:** GS-answer collapse -> Policy-catalogue avoidance
-- **Qualified use:** Give the strongest rival case full argumentative force.
+- **Mechanism chain:** Tension pairs and hidden assumptions — 2 -> Tension pairs and hidden assumptions — 3
+- **Qualified use:** Return to a transformed thesis in the conclusion.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: GS-answer and policy-catalogue avoidance
-EXACT TERMS: GS-answer | policy-catalogue | avoidance | collapse | causes-effects-measures | scheme
-MECHANISM / ARGUMENT: connect GS-answer collapse and Policy-catalogue avoidance without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Give the strongest rival case full argumentative force.
-UPSC TRAP / ANSWER-USE: Do not shift geography, actor, time or scale without explaining the move.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 15 — CORE SYNTHESIS — Counter-case and condition-based synthesis
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Counter-case and condition-based synthesis explains how Counter-case and Synthesis combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Counter-case and condition-based synthesis should be applied through Counter-case and Synthesis, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Counter-case**
-- **condition-based**
-- **synthesis**
-- **strongest**
-- **rival**
-- **beneficial**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not present association as causation without a mechanism and mediator.
-
-#### VISUAL FIRST
-
-```text
-COUNTER-CASE AND CONDITION-BASED SYNTHESIS
-01. Counter-case
-    |
-    v
-02. Synthesis
-STATUS / CATEGORY FIREWALL -> Do not present association as causation without a mechanism and mediator.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Counter-case and condition-based synthesis as a sequence: identify Counter-case, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not present association as causation without a mechanism and mediator. This keeps Counter-case and Synthesis in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
-- A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
-
-#### EXAMINER CAUTION
-
-- Do not present association as causation without a mechanism and mediator.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Counter-case and condition-based synthesis by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Resolve through responsibilities, conditions and feasible action.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Counter-case -> Synthesis
-- **Qualified use:** Resolve through responsibilities, conditions and feasible action.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Counter-case and condition-based synthesis
-EXACT TERMS: Counter-case | condition-based | synthesis | strongest | rival | beneficial
-MECHANISM / ARGUMENT: connect Counter-case and Synthesis without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Resolve through responsibilities, conditions and feasible action.
-UPSC TRAP / ANSWER-USE: Do not present association as causation without a mechanism and mediator.
+START / CONCEPT: Sustained central-argument execution
+EXACT TERMS: Sustained | central-argument | execution | Tension | pairs | hidden
+MECHANISM / ARGUMENT: connect Tension pairs and hidden assumptions — 2 and Tension pairs and hidden assumptions — 3 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Return to a transformed thesis in the conclusion.
+UPSC TRAP / ANSWER-USE: Do not let a counter-view replace the thesis; use it to qualify the thesis.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
@@ -1369,937 +1369,1005 @@ connected prose.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+#### Semantic-completeness repair — 6 September 2026
+
+##### Hostile coverage verdict and ownership
+
+This owner is responsible for **bounded scoping of issue and hybrid prompts**. Its irreducible coverage is:
+operator; object; scale; causal claim; stakeholder; time horizon. The canonical boundary is explicit:
+abstract metaphor decoding belongs to 02. Cross-topic material may supply evidence, but it must not displace
+this topic's writing skill or convert the essay into a GS answer.
+
+##### Prompt-fidelity and central-argument gate
+
+Before drafting, restate the exact prompt, identify its keywords, relation,
+scope and hidden assumption, then write one qualified thesis. Every paragraph
+must perform a distinct argumentative job for that thesis through
+**claim → named evidence/example → analysis → qualification → link**.
+Narrative, analogy and reflection are admissible only when they advance that
+argument. A list of sectors, schemes or facts is not an essay.
+
+##### Theme-transfer and originality gate
+
+Transfer GS knowledge selectively across these recurring Essay domains:
+philosophical/abstract; society and social justice; polity, democracy and governance; economy and development; science and technology; environment; education and health; women and youth; culture and history; international relations and peace; ethics and values. For each chosen lens, explain the mechanism and distribution of
+effects, test a counter-case and return to the proposition. Originality means
+a faithful but non-obvious connection, distinction or synthesis; it does not
+mean eccentric interpretation, ornamental quotation or invented anecdote.
+
+##### Model-answer and execution gate
+
+A complete 1000–1200-word practice essay should normally establish the problem,
+define operative terms, state the central thesis, develop three to five linked
+argument clusters, steelman the strongest objection, synthesize rather than
+split the difference, and conclude by deepening the opening claim. Planning,
+drafting and revision must fit the shared three-hour, two-essay budget. Exact
+time splits remain strategy, not an official UPSC rule.
+
+##### Verification and source-status gate
+
+Facts, constitutional or legal references, schemes, events, data, scientific
+claims, thinker attributions and quotations require a traceable source and
+access date. If exact wording or attribution is not verified, paraphrase it and
+label it as interpretation. The locally audited 2018–2025 Essay papers remain
+V1; 2013–2017 prompts remain V2 until checked against official papers. Failed
+or blocked live retrievals support no claim.
+
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which option applies Issue-statement prompt as an Essay-method distinction?
+### Q1. Which option applies Purpose and scope as an Essay-method distinction?
 
-A. An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor.
-B. Treat Issue-statement prompt as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Issue-statement prompt with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Issue-statement prompt to add more headings or dimensions without testing coherence.
-
-**Answer: A.**
-**Explanation:** An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q2. Which use of Issue-statement prompt stays closest to the printed prompt?
-
-A. Apply Issue-statement prompt only after drafting, when topic drift can no longer be prevented.
-B. An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor.
-C. Use Issue-statement prompt while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Issue-statement prompt regardless of thesis fit.
-
-**Answer: B.**
-**Explanation:** An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q3. Which statement preserves the strategy-versus-official-rule boundary for Issue-statement prompt?
-
-A. Present Issue-statement prompt as an official marking rule rather than a pedagogical scaffold.
-B. Use Issue-statement prompt to avoid stating a serious counter-case or qualification.
-C. An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor.
-D. Support Issue-statement prompt with an unverified statistic, attribution or current claim.
-
-**Answer: C.**
-**Explanation:** An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q4. Which option avoids the standard Essay-method trap about Issue-statement prompt?
-
-A. Maximise the number of outputs produced by Issue-statement prompt, even if they repeat one claim.
-B. Allow an exception discovered through Issue-statement prompt to replace the central proposition.
-C. Silently tidy the printed prompt before applying Issue-statement prompt to make it easier to answer.
-D. An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor.
-
-**Answer: D.**
-**Explanation:** An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q5. Which option applies Classification gate as an Essay-method distinction?
-
-A. A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
-B. Treat Classification gate as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Classification gate with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Classification gate to add more headings or dimensions without testing coherence.
+A. A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
+B. Treat Purpose and scope as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Purpose and scope with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Purpose and scope to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q6. Which use of Classification gate stays closest to the printed prompt?
+### Q2. Which use of Purpose and scope stays closest to the printed prompt?
 
-A. Apply Classification gate only after drafting, when topic drift can no longer be prevented.
-B. A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
-C. Use Classification gate while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Classification gate regardless of thesis fit.
+A. Apply Purpose and scope only after drafting, when topic drift can no longer be prevented.
+B. A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
+C. Use Purpose and scope while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Purpose and scope regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q7. Which statement preserves the strategy-versus-official-rule boundary for Classification gate?
+### Q3. Which statement preserves the strategy-versus-official-rule boundary for Purpose and scope?
 
-A. Present Classification gate as an official marking rule rather than a pedagogical scaffold.
-B. Use Classification gate to avoid stating a serious counter-case or qualification.
-C. A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
-D. Support Classification gate with an unverified statistic, attribution or current claim.
+A. Present Purpose and scope as an official marking rule rather than a pedagogical scaffold.
+B. Use Purpose and scope to avoid stating a serious counter-case or qualification.
+C. A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
+D. Support Purpose and scope with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q8. Which option avoids the standard Essay-method trap about Classification gate?
+### Q4. Which option avoids the standard Essay-method trap about Purpose and scope?
 
-A. Maximise the number of outputs produced by Classification gate, even if they repeat one claim.
-B. Allow an exception discovered through Classification gate to replace the central proposition.
-C. Silently tidy the printed prompt before applying Classification gate to make it easier to answer.
-D. A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
+A. Maximise the number of outputs produced by Purpose and scope, even if they repeat one claim.
+B. Allow an exception discovered through Purpose and scope to replace the central proposition.
+C. Silently tidy the printed prompt before applying Purpose and scope to make it easier to answer.
+D. A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
 
 **Answer: D.**
-**Explanation:** A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q9. Which option applies Directive or demand as an Essay-method distinction?
+### Q5. Which option applies Core terms in plain language as an Essay-method distinction?
 
-A. Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
-B. Treat Directive or demand as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Directive or demand with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Directive or demand to add more headings or dimensions without testing coherence.
+A. phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
+B. Treat Core terms in plain language as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Core terms in plain language with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Core terms in plain language to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q10. Which use of Directive or demand stays closest to the printed prompt?
+### Q6. Which use of Core terms in plain language stays closest to the printed prompt?
 
-A. Apply Directive or demand only after drafting, when topic drift can no longer be prevented.
-B. Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
-C. Use Directive or demand while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Directive or demand regardless of thesis fit.
+A. Apply Core terms in plain language only after drafting, when topic drift can no longer be prevented.
+B. phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
+C. Use Core terms in plain language while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Core terms in plain language regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q11. Which statement preserves the strategy-versus-official-rule boundary for Directive or demand?
+### Q7. Which statement preserves the strategy-versus-official-rule boundary for Core terms in plain language?
 
-A. Present Directive or demand as an official marking rule rather than a pedagogical scaffold.
-B. Use Directive or demand to avoid stating a serious counter-case or qualification.
-C. Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
-D. Support Directive or demand with an unverified statistic, attribution or current claim.
+A. Present Core terms in plain language as an official marking rule rather than a pedagogical scaffold.
+B. Use Core terms in plain language to avoid stating a serious counter-case or qualification.
+C. phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
+D. Support Core terms in plain language with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q12. Which option avoids the standard Essay-method trap about Directive or demand?
+### Q8. Which option avoids the standard Essay-method trap about Core terms in plain language?
 
-A. Maximise the number of outputs produced by Directive or demand, even if they repeat one claim.
-B. Allow an exception discovered through Directive or demand to replace the central proposition.
-C. Silently tidy the printed prompt before applying Directive or demand to make it easier to answer.
-D. Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
+A. Maximise the number of outputs produced by Core terms in plain language, even if they repeat one claim.
+B. Allow an exception discovered through Core terms in plain language to replace the central proposition.
+C. Silently tidy the printed prompt before applying Core terms in plain language to make it easier to answer.
+D. phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
 
 **Answer: D.**
-**Explanation:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q13. Which option applies Object as an Essay-method distinction?
+### Q9. Which option applies Core terms in plain language — 2 as an Essay-method distinction?
 
-A. The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-B. Treat Object as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Object with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Object to add more headings or dimensions without testing coherence.
+A. answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
+B. Treat Core terms in plain language — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Core terms in plain language — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Core terms in plain language — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q14. Which use of Object stays closest to the printed prompt?
+### Q10. Which use of Core terms in plain language — 2 stays closest to the printed prompt?
 
-A. Apply Object only after drafting, when topic drift can no longer be prevented.
-B. The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-C. Use Object while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Object regardless of thesis fit.
+A. Apply Core terms in plain language — 2 only after drafting, when topic drift can no longer be prevented.
+B. answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
+C. Use Core terms in plain language — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Core terms in plain language — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q15. Which statement preserves the strategy-versus-official-rule boundary for Object?
+### Q11. Which statement preserves the strategy-versus-official-rule boundary for Core terms in plain language — 2?
 
-A. Present Object as an official marking rule rather than a pedagogical scaffold.
-B. Use Object to avoid stating a serious counter-case or qualification.
-C. The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-D. Support Object with an unverified statistic, attribution or current claim.
+A. Present Core terms in plain language — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Core terms in plain language — 2 to avoid stating a serious counter-case or qualification.
+C. answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
+D. Support Core terms in plain language — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q16. Which option avoids the standard Essay-method trap about Object?
+### Q12. Which option avoids the standard Essay-method trap about Core terms in plain language — 2?
 
-A. Maximise the number of outputs produced by Object, even if they repeat one claim.
-B. Allow an exception discovered through Object to replace the central proposition.
-C. Silently tidy the printed prompt before applying Object to make it easier to answer.
-D. The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
+A. Maximise the number of outputs produced by Core terms in plain language — 2, even if they repeat one claim.
+B. Allow an exception discovered through Core terms in plain language — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Core terms in plain language — 2 to make it easier to answer.
+D. answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
 
 **Answer: D.**
-**Explanation:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q17. Which option applies Qualifier as an Essay-method distinction?
+### Q13. Which option applies Exam facts / source basis as an Essay-method distinction?
 
-A. Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-B. Treat Qualifier as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Qualifier with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Qualifier to add more headings or dimensions without testing coherence.
+A. Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
+B. Treat Exam facts / source basis as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q18. Which use of Qualifier stays closest to the printed prompt?
+### Q14. Which use of Exam facts / source basis stays closest to the printed prompt?
 
-A. Apply Qualifier only after drafting, when topic drift can no longer be prevented.
-B. Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-C. Use Qualifier while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Qualifier regardless of thesis fit.
+A. Apply Exam facts / source basis only after drafting, when topic drift can no longer be prevented.
+B. Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
+C. Use Exam facts / source basis while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q19. Which statement preserves the strategy-versus-official-rule boundary for Qualifier?
+### Q15. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis?
 
-A. Present Qualifier as an official marking rule rather than a pedagogical scaffold.
-B. Use Qualifier to avoid stating a serious counter-case or qualification.
-C. Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-D. Support Qualifier with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis to avoid stating a serious counter-case or qualification.
+C. Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
+D. Support Exam facts / source basis with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q20. Which option avoids the standard Essay-method trap about Qualifier?
+### Q16. Which option avoids the standard Essay-method trap about Exam facts / source basis?
 
-A. Maximise the number of outputs produced by Qualifier, even if they repeat one claim.
-B. Allow an exception discovered through Qualifier to replace the central proposition.
-C. Silently tidy the printed prompt before applying Qualifier to make it easier to answer.
-D. Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
+A. Maximise the number of outputs produced by Exam facts / source basis, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis to make it easier to answer.
+D. Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
 
 **Answer: D.**
-**Explanation:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q21. Which option applies Geography as an Essay-method distinction?
+### Q17. Which option applies Exam facts / source basis — 2 as an Essay-method distinction?
 
-A. State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
-B. Treat Geography as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Geography with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Geography to add more headings or dimensions without testing coherence.
+A. "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+B. Treat Exam facts / source basis — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q22. Which use of Geography stays closest to the printed prompt?
+### Q18. Which use of Exam facts / source basis — 2 stays closest to the printed prompt?
 
-A. Apply Geography only after drafting, when topic drift can no longer be prevented.
-B. State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
-C. Use Geography while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Geography regardless of thesis fit.
+A. Apply Exam facts / source basis — 2 only after drafting, when topic drift can no longer be prevented.
+B. "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+C. Use Exam facts / source basis — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q23. Which statement preserves the strategy-versus-official-rule boundary for Geography?
+### Q19. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 2?
 
-A. Present Geography as an official marking rule rather than a pedagogical scaffold.
-B. Use Geography to avoid stating a serious counter-case or qualification.
-C. State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
-D. Support Geography with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 2 to avoid stating a serious counter-case or qualification.
+C. "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+D. Support Exam facts / source basis — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q24. Which option avoids the standard Essay-method trap about Geography?
+### Q20. Which option avoids the standard Essay-method trap about Exam facts / source basis — 2?
 
-A. Maximise the number of outputs produced by Geography, even if they repeat one claim.
-B. Allow an exception discovered through Geography to replace the central proposition.
-C. Silently tidy the printed prompt before applying Geography to make it easier to answer.
-D. State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
+A. Maximise the number of outputs produced by Exam facts / source basis — 2, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 2 to make it easier to answer.
+D. "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
 
 **Answer: D.**
-**Explanation:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q25. Which option applies Time as an Essay-method distinction?
+### Q21. Which option applies Exam facts / source basis — 3 as an Essay-method distinction?
 
-A. Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
-B. Treat Time as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Time with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Time to add more headings or dimensions without testing coherence.
+A. unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
+B. Treat Exam facts / source basis — 3 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 3 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 3 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q26. Which use of Time stays closest to the printed prompt?
+### Q22. Which use of Exam facts / source basis — 3 stays closest to the printed prompt?
 
-A. Apply Time only after drafting, when topic drift can no longer be prevented.
-B. Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
-C. Use Time while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Time regardless of thesis fit.
+A. Apply Exam facts / source basis — 3 only after drafting, when topic drift can no longer be prevented.
+B. unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
+C. Use Exam facts / source basis — 3 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 3 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q27. Which statement preserves the strategy-versus-official-rule boundary for Time?
+### Q23. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 3?
 
-A. Present Time as an official marking rule rather than a pedagogical scaffold.
-B. Use Time to avoid stating a serious counter-case or qualification.
-C. Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
-D. Support Time with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 3 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 3 to avoid stating a serious counter-case or qualification.
+C. unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
+D. Support Exam facts / source basis — 3 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q28. Which option avoids the standard Essay-method trap about Time?
+### Q24. Which option avoids the standard Essay-method trap about Exam facts / source basis — 3?
 
-A. Maximise the number of outputs produced by Time, even if they repeat one claim.
-B. Allow an exception discovered through Time to replace the central proposition.
-C. Silently tidy the printed prompt before applying Time to make it easier to answer.
-D. Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
+A. Maximise the number of outputs produced by Exam facts / source basis — 3, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 3 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 3 to make it easier to answer.
+D. unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
 
 **Answer: D.**
-**Explanation:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q29. Which option applies Actor as an Essay-method distinction?
+### Q25. Which option applies Is this actually an issue prompt? — a three-question test as an Essay-method distinction?
 
-A. Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
-B. Treat Actor as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Actor with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Actor to add more headings or dimensions without testing coherence.
+A. basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure.
+B. Treat Is this actually an issue prompt? — a three-question test as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Is this actually an issue prompt? — a three-question test with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Is this actually an issue prompt? — a three-question test to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q30. Which use of Actor stays closest to the printed prompt?
+### Q26. Which use of Is this actually an issue prompt? — a three-question test stays closest to the printed prompt?
 
-A. Apply Actor only after drafting, when topic drift can no longer be prevented.
-B. Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
-C. Use Actor while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Actor regardless of thesis fit.
+A. Apply Is this actually an issue prompt? — a three-question test only after drafting, when topic drift can no longer be prevented.
+B. basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure.
+C. Use Is this actually an issue prompt? — a three-question test while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Is this actually an issue prompt? — a three-question test regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q31. Which statement preserves the strategy-versus-official-rule boundary for Actor?
+### Q27. Which statement preserves the strategy-versus-official-rule boundary for Is this actually an issue prompt? — a three-question test?
 
-A. Present Actor as an official marking rule rather than a pedagogical scaffold.
-B. Use Actor to avoid stating a serious counter-case or qualification.
-C. Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
-D. Support Actor with an unverified statistic, attribution or current claim.
+A. Present Is this actually an issue prompt? — a three-question test as an official marking rule rather than a pedagogical scaffold.
+B. Use Is this actually an issue prompt? — a three-question test to avoid stating a serious counter-case or qualification.
+C. basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure.
+D. Support Is this actually an issue prompt? — a three-question test with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q32. Which option avoids the standard Essay-method trap about Actor?
+### Q28. Which option avoids the standard Essay-method trap about Is this actually an issue prompt? — a three-question test?
 
-A. Maximise the number of outputs produced by Actor, even if they repeat one claim.
-B. Allow an exception discovered through Actor to replace the central proposition.
-C. Silently tidy the printed prompt before applying Actor to make it easier to answer.
-D. Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
+A. Maximise the number of outputs produced by Is this actually an issue prompt? — a three-question test, even if they repeat one claim.
+B. Allow an exception discovered through Is this actually an issue prompt? — a three-question test to replace the central proposition.
+C. Silently tidy the printed prompt before applying Is this actually an issue prompt? — a three-question test to make it easier to answer.
+D. basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure.
 
 **Answer: D.**
-**Explanation:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q33. Which option applies Scale as an Essay-method distinction?
+### Q29. Which option applies Is this actually an issue prompt? — a three-question test — 2 as an Essay-method distinction?
 
-A. Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
-B. Treat Scale as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Scale with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Scale to add more headings or dimensions without testing coherence.
+A. Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
+B. Treat Is this actually an issue prompt? — a three-question test — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Is this actually an issue prompt? — a three-question test — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Is this actually an issue prompt? — a three-question test — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02) The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q34. Which use of Scale stays closest to the printed prompt?
+### Q30. Which use of Is this actually an issue prompt? — a three-question test — 2 stays closest to the printed prompt?
 
-A. Apply Scale only after drafting, when topic drift can no longer be prevented.
-B. Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
-C. Use Scale while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Scale regardless of thesis fit.
+A. Apply Is this actually an issue prompt? — a three-question test — 2 only after drafting, when topic drift can no longer be prevented.
+B. Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
+C. Use Is this actually an issue prompt? — a three-question test — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Is this actually an issue prompt? — a three-question test — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02) The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q35. Which statement preserves the strategy-versus-official-rule boundary for Scale?
+### Q31. Which statement preserves the strategy-versus-official-rule boundary for Is this actually an issue prompt? — a three-question test — 2?
 
-A. Present Scale as an official marking rule rather than a pedagogical scaffold.
-B. Use Scale to avoid stating a serious counter-case or qualification.
-C. Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
-D. Support Scale with an unverified statistic, attribution or current claim.
+A. Present Is this actually an issue prompt? — a three-question test — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Is this actually an issue prompt? — a three-question test — 2 to avoid stating a serious counter-case or qualification.
+C. Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
+D. Support Is this actually an issue prompt? — a three-question test — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02) The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q36. Which option avoids the standard Essay-method trap about Scale?
+### Q32. Which option avoids the standard Essay-method trap about Is this actually an issue prompt? — a three-question test — 2?
 
-A. Maximise the number of outputs produced by Scale, even if they repeat one claim.
-B. Allow an exception discovered through Scale to replace the central proposition.
-C. Silently tidy the printed prompt before applying Scale to make it easier to answer.
-D. Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
+A. Maximise the number of outputs produced by Is this actually an issue prompt? — a three-question test — 2, even if they repeat one claim.
+B. Allow an exception discovered through Is this actually an issue prompt? — a three-question test — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Is this actually an issue prompt? — a three-question test — 2 to make it easier to answer.
+D. Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
 
 **Answer: D.**
-**Explanation:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02) The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q37. Which option applies Causal demand as an Essay-method distinction?
+### Q33. Which option applies Is this actually an issue prompt? — a three-question test — 3 as an Essay-method distinction?
 
-A. Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
-B. Treat Causal demand as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Causal demand with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Causal demand to add more headings or dimensions without testing coherence.
+A. Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
+B. Treat Is this actually an issue prompt? — a three-question test — 3 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Is this actually an issue prompt? — a three-question test — 3 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Is this actually an issue prompt? — a three-question test — 3 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q38. Which use of Causal demand stays closest to the printed prompt?
+### Q34. Which use of Is this actually an issue prompt? — a three-question test — 3 stays closest to the printed prompt?
 
-A. Apply Causal demand only after drafting, when topic drift can no longer be prevented.
-B. Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
-C. Use Causal demand while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Causal demand regardless of thesis fit.
+A. Apply Is this actually an issue prompt? — a three-question test — 3 only after drafting, when topic drift can no longer be prevented.
+B. Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
+C. Use Is this actually an issue prompt? — a three-question test — 3 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Is this actually an issue prompt? — a three-question test — 3 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q39. Which statement preserves the strategy-versus-official-rule boundary for Causal demand?
+### Q35. Which statement preserves the strategy-versus-official-rule boundary for Is this actually an issue prompt? — a three-question test — 3?
 
-A. Present Causal demand as an official marking rule rather than a pedagogical scaffold.
-B. Use Causal demand to avoid stating a serious counter-case or qualification.
-C. Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
-D. Support Causal demand with an unverified statistic, attribution or current claim.
+A. Present Is this actually an issue prompt? — a three-question test — 3 as an official marking rule rather than a pedagogical scaffold.
+B. Use Is this actually an issue prompt? — a three-question test — 3 to avoid stating a serious counter-case or qualification.
+C. Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
+D. Support Is this actually an issue prompt? — a three-question test — 3 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q40. Which option avoids the standard Essay-method trap about Causal demand?
+### Q36. Which option avoids the standard Essay-method trap about Is this actually an issue prompt? — a three-question test — 3?
 
-A. Maximise the number of outputs produced by Causal demand, even if they repeat one claim.
-B. Allow an exception discovered through Causal demand to replace the central proposition.
-C. Silently tidy the printed prompt before applying Causal demand to make it easier to answer.
-D. Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
+A. Maximise the number of outputs produced by Is this actually an issue prompt? — a three-question test — 3, even if they repeat one claim.
+B. Allow an exception discovered through Is this actually an issue prompt? — a three-question test — 3 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Is this actually an issue prompt? — a three-question test — 3 to make it easier to answer.
+D. Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
 
 **Answer: D.**
-**Explanation:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q41. Which option applies Evaluative demand as an Essay-method distinction?
+### Q37. Which option applies The central idea and common misreading as an Essay-method distinction?
 
-A. Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
-B. Treat Evaluative demand as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Evaluative demand with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Evaluative demand to add more headings or dimensions without testing coherence.
+A. Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
+B. Treat The central idea and common misreading as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace The central idea and common misreading with a familiar adjacent GS topic and maximise factual coverage.
+D. Use The central idea and common misreading to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q42. Which use of Evaluative demand stays closest to the printed prompt?
+### Q38. Which use of The central idea and common misreading stays closest to the printed prompt?
 
-A. Apply Evaluative demand only after drafting, when topic drift can no longer be prevented.
-B. Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
-C. Use Evaluative demand while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Evaluative demand regardless of thesis fit.
+A. Apply The central idea and common misreading only after drafting, when topic drift can no longer be prevented.
+B. Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
+C. Use The central idea and common misreading while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine The central idea and common misreading regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q43. Which statement preserves the strategy-versus-official-rule boundary for Evaluative demand?
+### Q39. Which statement preserves the strategy-versus-official-rule boundary for The central idea and common misreading?
 
-A. Present Evaluative demand as an official marking rule rather than a pedagogical scaffold.
-B. Use Evaluative demand to avoid stating a serious counter-case or qualification.
-C. Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
-D. Support Evaluative demand with an unverified statistic, attribution or current claim.
+A. Present The central idea and common misreading as an official marking rule rather than a pedagogical scaffold.
+B. Use The central idea and common misreading to avoid stating a serious counter-case or qualification.
+C. Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
+D. Support The central idea and common misreading with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q44. Which option avoids the standard Essay-method trap about Evaluative demand?
+### Q40. Which option avoids the standard Essay-method trap about The central idea and common misreading?
 
-A. Maximise the number of outputs produced by Evaluative demand, even if they repeat one claim.
-B. Allow an exception discovered through Evaluative demand to replace the central proposition.
-C. Silently tidy the printed prompt before applying Evaluative demand to make it easier to answer.
-D. Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
+A. Maximise the number of outputs produced by The central idea and common misreading, even if they repeat one claim.
+B. Allow an exception discovered through The central idea and common misreading to replace the central proposition.
+C. Silently tidy the printed prompt before applying The central idea and common misreading to make it easier to answer.
+D. Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
 
 **Answer: D.**
-**Explanation:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q45. Which option applies Hidden tension as an Essay-method distinction?
+### Q41. Which option applies Basic decomposition questions as an Essay-method distinction?
 
-A. Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
-B. Treat Hidden tension as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Hidden tension with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Hidden tension to add more headings or dimensions without testing coherence.
+A. 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
+B. Treat Basic decomposition questions as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Basic decomposition questions with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Basic decomposition questions to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q46. Which use of Hidden tension stays closest to the printed prompt?
+### Q42. Which use of Basic decomposition questions stays closest to the printed prompt?
 
-A. Apply Hidden tension only after drafting, when topic drift can no longer be prevented.
-B. Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
-C. Use Hidden tension while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Hidden tension regardless of thesis fit.
+A. Apply Basic decomposition questions only after drafting, when topic drift can no longer be prevented.
+B. 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
+C. Use Basic decomposition questions while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Basic decomposition questions regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q47. Which statement preserves the strategy-versus-official-rule boundary for Hidden tension?
+### Q43. Which statement preserves the strategy-versus-official-rule boundary for Basic decomposition questions?
 
-A. Present Hidden tension as an official marking rule rather than a pedagogical scaffold.
-B. Use Hidden tension to avoid stating a serious counter-case or qualification.
-C. Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
-D. Support Hidden tension with an unverified statistic, attribution or current claim.
+A. Present Basic decomposition questions as an official marking rule rather than a pedagogical scaffold.
+B. Use Basic decomposition questions to avoid stating a serious counter-case or qualification.
+C. 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
+D. Support Basic decomposition questions with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q48. Which option avoids the standard Essay-method trap about Hidden tension?
+### Q44. Which option avoids the standard Essay-method trap about Basic decomposition questions?
 
-A. Maximise the number of outputs produced by Hidden tension, even if they repeat one claim.
-B. Allow an exception discovered through Hidden tension to replace the central proposition.
-C. Silently tidy the printed prompt before applying Hidden tension to make it easier to answer.
-D. Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
+A. Maximise the number of outputs produced by Basic decomposition questions, even if they repeat one claim.
+B. Allow an exception discovered through Basic decomposition questions to replace the central proposition.
+C. Silently tidy the printed prompt before applying Basic decomposition questions to make it easier to answer.
+D. 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
 
 **Answer: D.**
-**Explanation:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q49. Which option applies Excluded material as an Essay-method distinction?
+### Q45. Which option applies Causal-evidence-limit chain as an Essay-method distinction?
 
-A. Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt.
-B. Treat Excluded material as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Excluded material with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Excluded material to add more headings or dimensions without testing coherence.
+A. PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
+B. Treat Causal-evidence-limit chain as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Causal-evidence-limit chain with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Causal-evidence-limit chain to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q50. Which use of Excluded material stays closest to the printed prompt?
+### Q46. Which use of Causal-evidence-limit chain stays closest to the printed prompt?
 
-A. Apply Excluded material only after drafting, when topic drift can no longer be prevented.
-B. Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt.
-C. Use Excluded material while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Excluded material regardless of thesis fit.
+A. Apply Causal-evidence-limit chain only after drafting, when topic drift can no longer be prevented.
+B. PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
+C. Use Causal-evidence-limit chain while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Causal-evidence-limit chain regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q51. Which statement preserves the strategy-versus-official-rule boundary for Excluded material?
+### Q47. Which statement preserves the strategy-versus-official-rule boundary for Causal-evidence-limit chain?
 
-A. Present Excluded material as an official marking rule rather than a pedagogical scaffold.
-B. Use Excluded material to avoid stating a serious counter-case or qualification.
-C. Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt.
-D. Support Excluded material with an unverified statistic, attribution or current claim.
+A. Present Causal-evidence-limit chain as an official marking rule rather than a pedagogical scaffold.
+B. Use Causal-evidence-limit chain to avoid stating a serious counter-case or qualification.
+C. PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
+D. Support Causal-evidence-limit chain with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q52. Which option avoids the standard Essay-method trap about Excluded material?
+### Q48. Which option avoids the standard Essay-method trap about Causal-evidence-limit chain?
 
-A. Maximise the number of outputs produced by Excluded material, even if they repeat one claim.
-B. Allow an exception discovered through Excluded material to replace the central proposition.
-C. Silently tidy the printed prompt before applying Excluded material to make it easier to answer.
-D. Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt.
+A. Maximise the number of outputs produced by Causal-evidence-limit chain, even if they repeat one claim.
+B. Allow an exception discovered through Causal-evidence-limit chain to replace the central proposition.
+C. Silently tidy the printed prompt before applying Causal-evidence-limit chain to make it easier to answer.
+D. PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
 
 **Answer: D.**
-**Explanation:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q53. Which option applies Definition boundary as an Essay-method distinction?
+### Q49. Which option applies Causal-evidence-limit chain — 2 as an Essay-method distinction?
 
-A. Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
-B. Treat Definition boundary as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Definition boundary with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Definition boundary to add more headings or dimensions without testing coherence.
+A. An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
+B. Treat Causal-evidence-limit chain — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Causal-evidence-limit chain — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Causal-evidence-limit chain — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q54. Which use of Definition boundary stays closest to the printed prompt?
+### Q50. Which use of Causal-evidence-limit chain — 2 stays closest to the printed prompt?
 
-A. Apply Definition boundary only after drafting, when topic drift can no longer be prevented.
-B. Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
-C. Use Definition boundary while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Definition boundary regardless of thesis fit.
+A. Apply Causal-evidence-limit chain — 2 only after drafting, when topic drift can no longer be prevented.
+B. An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
+C. Use Causal-evidence-limit chain — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Causal-evidence-limit chain — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q55. Which statement preserves the strategy-versus-official-rule boundary for Definition boundary?
+### Q51. Which statement preserves the strategy-versus-official-rule boundary for Causal-evidence-limit chain — 2?
 
-A. Present Definition boundary as an official marking rule rather than a pedagogical scaffold.
-B. Use Definition boundary to avoid stating a serious counter-case or qualification.
-C. Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
-D. Support Definition boundary with an unverified statistic, attribution or current claim.
+A. Present Causal-evidence-limit chain — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Causal-evidence-limit chain — 2 to avoid stating a serious counter-case or qualification.
+C. An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
+D. Support Causal-evidence-limit chain — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q56. Which option avoids the standard Essay-method trap about Definition boundary?
+### Q52. Which option avoids the standard Essay-method trap about Causal-evidence-limit chain — 2?
 
-A. Maximise the number of outputs produced by Definition boundary, even if they repeat one claim.
-B. Allow an exception discovered through Definition boundary to replace the central proposition.
-C. Silently tidy the printed prompt before applying Definition boundary to make it easier to answer.
-D. Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
+A. Maximise the number of outputs produced by Causal-evidence-limit chain — 2, even if they repeat one claim.
+B. Allow an exception discovered through Causal-evidence-limit chain — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Causal-evidence-limit chain — 2 to make it easier to answer.
+D. An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
 
 **Answer: D.**
-**Explanation:** Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q57. Which option applies Thesis boundary as an Essay-method distinction?
+### Q53. Which option applies India-first illustration starters as an Essay-method distinction?
 
-A. The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-B. Treat Thesis boundary as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Thesis boundary with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Thesis boundary to add more headings or dimensions without testing coherence.
+A. Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
+B. Treat India-first illustration starters as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace India-first illustration starters with a familiar adjacent GS topic and maximise factual coverage.
+D. Use India-first illustration starters to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q58. Which use of Thesis boundary stays closest to the printed prompt?
+### Q54. Which use of India-first illustration starters stays closest to the printed prompt?
 
-A. Apply Thesis boundary only after drafting, when topic drift can no longer be prevented.
-B. The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-C. Use Thesis boundary while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Thesis boundary regardless of thesis fit.
+A. Apply India-first illustration starters only after drafting, when topic drift can no longer be prevented.
+B. Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
+C. Use India-first illustration starters while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine India-first illustration starters regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q59. Which statement preserves the strategy-versus-official-rule boundary for Thesis boundary?
+### Q55. Which statement preserves the strategy-versus-official-rule boundary for India-first illustration starters?
 
-A. Present Thesis boundary as an official marking rule rather than a pedagogical scaffold.
-B. Use Thesis boundary to avoid stating a serious counter-case or qualification.
-C. The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-D. Support Thesis boundary with an unverified statistic, attribution or current claim.
+A. Present India-first illustration starters as an official marking rule rather than a pedagogical scaffold.
+B. Use India-first illustration starters to avoid stating a serious counter-case or qualification.
+C. Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
+D. Support India-first illustration starters with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q60. Which option avoids the standard Essay-method trap about Thesis boundary?
+### Q56. Which option avoids the standard Essay-method trap about India-first illustration starters?
 
-A. Maximise the number of outputs produced by Thesis boundary, even if they repeat one claim.
-B. Allow an exception discovered through Thesis boundary to replace the central proposition.
-C. Silently tidy the printed prompt before applying Thesis boundary to make it easier to answer.
-D. The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
+A. Maximise the number of outputs produced by India-first illustration starters, even if they repeat one claim.
+B. Allow an exception discovered through India-first illustration starters to replace the central proposition.
+C. Silently tidy the printed prompt before applying India-first illustration starters to make it easier to answer.
+D. Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
 
 **Answer: D.**
-**Explanation:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q61. Which option applies Scope creep as an Essay-method distinction?
+### Q57. Which option applies Advanced proposition and boundary as an Essay-method distinction?
 
-A. Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
-B. Treat Scope creep as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Scope creep with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Scope creep to add more headings or dimensions without testing coherence.
+A. Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
+B. Treat Advanced proposition and boundary as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Advanced proposition and boundary with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Advanced proposition and boundary to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q62. Which use of Scope creep stays closest to the printed prompt?
+### Q58. Which use of Advanced proposition and boundary stays closest to the printed prompt?
 
-A. Apply Scope creep only after drafting, when topic drift can no longer be prevented.
-B. Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
-C. Use Scope creep while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Scope creep regardless of thesis fit.
+A. Apply Advanced proposition and boundary only after drafting, when topic drift can no longer be prevented.
+B. Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
+C. Use Advanced proposition and boundary while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Advanced proposition and boundary regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q63. Which statement preserves the strategy-versus-official-rule boundary for Scope creep?
+### Q59. Which statement preserves the strategy-versus-official-rule boundary for Advanced proposition and boundary?
 
-A. Present Scope creep as an official marking rule rather than a pedagogical scaffold.
-B. Use Scope creep to avoid stating a serious counter-case or qualification.
-C. Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
-D. Support Scope creep with an unverified statistic, attribution or current claim.
+A. Present Advanced proposition and boundary as an official marking rule rather than a pedagogical scaffold.
+B. Use Advanced proposition and boundary to avoid stating a serious counter-case or qualification.
+C. Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
+D. Support Advanced proposition and boundary with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q64. Which option avoids the standard Essay-method trap about Scope creep?
+### Q60. Which option avoids the standard Essay-method trap about Advanced proposition and boundary?
 
-A. Maximise the number of outputs produced by Scope creep, even if they repeat one claim.
-B. Allow an exception discovered through Scope creep to replace the central proposition.
-C. Silently tidy the printed prompt before applying Scope creep to make it easier to answer.
-D. Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
+A. Maximise the number of outputs produced by Advanced proposition and boundary, even if they repeat one claim.
+B. Allow an exception discovered through Advanced proposition and boundary to replace the central proposition.
+C. Silently tidy the printed prompt before applying Advanced proposition and boundary to make it easier to answer.
+D. Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
 
 **Answer: D.**
-**Explanation:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q65. Which option applies GS-answer collapse as an Essay-method distinction?
+### Q61. Which option applies Concept definition and taxonomy as an Essay-method distinction?
 
-A. A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate.
-B. Treat GS-answer collapse as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace GS-answer collapse with a familiar adjacent GS topic and maximise factual coverage.
-D. Use GS-answer collapse to add more headings or dimensions without testing coherence.
+A. ("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
+B. Treat Concept definition and taxonomy as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Concept definition and taxonomy with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Concept definition and taxonomy to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** ("FOMO precipitating depression and loneliness") into a general survey of "social media in society." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q66. Which use of GS-answer collapse stays closest to the printed prompt?
+### Q62. Which use of Concept definition and taxonomy stays closest to the printed prompt?
 
-A. Apply GS-answer collapse only after drafting, when topic drift can no longer be prevented.
-B. A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate.
-C. Use GS-answer collapse while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine GS-answer collapse regardless of thesis fit.
+A. Apply Concept definition and taxonomy only after drafting, when topic drift can no longer be prevented.
+B. ("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
+C. Use Concept definition and taxonomy while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Concept definition and taxonomy regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** ("FOMO precipitating depression and loneliness") into a general survey of "social media in society." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q67. Which statement preserves the strategy-versus-official-rule boundary for GS-answer collapse?
+### Q63. Which statement preserves the strategy-versus-official-rule boundary for Concept definition and taxonomy?
 
-A. Present GS-answer collapse as an official marking rule rather than a pedagogical scaffold.
-B. Use GS-answer collapse to avoid stating a serious counter-case or qualification.
-C. A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate.
-D. Support GS-answer collapse with an unverified statistic, attribution or current claim.
+A. Present Concept definition and taxonomy as an official marking rule rather than a pedagogical scaffold.
+B. Use Concept definition and taxonomy to avoid stating a serious counter-case or qualification.
+C. ("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
+D. Support Concept definition and taxonomy with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** ("FOMO precipitating depression and loneliness") into a general survey of "social media in society." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q68. Which option avoids the standard Essay-method trap about GS-answer collapse?
+### Q64. Which option avoids the standard Essay-method trap about Concept definition and taxonomy?
 
-A. Maximise the number of outputs produced by GS-answer collapse, even if they repeat one claim.
-B. Allow an exception discovered through GS-answer collapse to replace the central proposition.
-C. Silently tidy the printed prompt before applying GS-answer collapse to make it easier to answer.
-D. A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate.
+A. Maximise the number of outputs produced by Concept definition and taxonomy, even if they repeat one claim.
+B. Allow an exception discovered through Concept definition and taxonomy to replace the central proposition.
+C. Silently tidy the printed prompt before applying Concept definition and taxonomy to make it easier to answer.
+D. ("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
 
 **Answer: D.**
-**Explanation:** A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** ("FOMO precipitating depression and loneliness") into a general survey of "social media in society." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q69. Which option applies Policy-catalogue avoidance as an Essay-method distinction?
+### Q65. Which option applies Concept definition and taxonomy — 2 as an Essay-method distinction?
 
-A. Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
-B. Treat Policy-catalogue avoidance as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Policy-catalogue avoidance with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Policy-catalogue avoidance to add more headings or dimensions without testing coherence.
+A. prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
+B. Treat Concept definition and taxonomy — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Concept definition and taxonomy — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Concept definition and taxonomy — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q70. Which use of Policy-catalogue avoidance stays closest to the printed prompt?
+### Q66. Which use of Concept definition and taxonomy — 2 stays closest to the printed prompt?
 
-A. Apply Policy-catalogue avoidance only after drafting, when topic drift can no longer be prevented.
-B. Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
-C. Use Policy-catalogue avoidance while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Policy-catalogue avoidance regardless of thesis fit.
+A. Apply Concept definition and taxonomy — 2 only after drafting, when topic drift can no longer be prevented.
+B. prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
+C. Use Concept definition and taxonomy — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Concept definition and taxonomy — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q71. Which statement preserves the strategy-versus-official-rule boundary for Policy-catalogue avoidance?
+### Q67. Which statement preserves the strategy-versus-official-rule boundary for Concept definition and taxonomy — 2?
 
-A. Present Policy-catalogue avoidance as an official marking rule rather than a pedagogical scaffold.
-B. Use Policy-catalogue avoidance to avoid stating a serious counter-case or qualification.
-C. Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
-D. Support Policy-catalogue avoidance with an unverified statistic, attribution or current claim.
+A. Present Concept definition and taxonomy — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Concept definition and taxonomy — 2 to avoid stating a serious counter-case or qualification.
+C. prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
+D. Support Concept definition and taxonomy — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q72. Which option avoids the standard Essay-method trap about Policy-catalogue avoidance?
+### Q68. Which option avoids the standard Essay-method trap about Concept definition and taxonomy — 2?
 
-A. Maximise the number of outputs produced by Policy-catalogue avoidance, even if they repeat one claim.
-B. Allow an exception discovered through Policy-catalogue avoidance to replace the central proposition.
-C. Silently tidy the printed prompt before applying Policy-catalogue avoidance to make it easier to answer.
-D. Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
+A. Maximise the number of outputs produced by Concept definition and taxonomy — 2, even if they repeat one claim.
+B. Allow an exception discovered through Concept definition and taxonomy — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Concept definition and taxonomy — 2 to make it easier to answer.
+D. prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
 
 **Answer: D.**
-**Explanation:** Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q73. Which option applies Counter-case as an Essay-method distinction?
+### Q69. Which option applies Tension pairs and hidden assumptions as an Essay-method distinction?
 
-A. The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
-B. Treat Counter-case as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Counter-case with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Counter-case to add more headings or dimensions without testing coherence.
+A. mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
+B. Treat Tension pairs and hidden assumptions as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Tension pairs and hidden assumptions with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Tension pairs and hidden assumptions to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q74. Which use of Counter-case stays closest to the printed prompt?
+### Q70. Which use of Tension pairs and hidden assumptions stays closest to the printed prompt?
 
-A. Apply Counter-case only after drafting, when topic drift can no longer be prevented.
-B. The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
-C. Use Counter-case while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Counter-case regardless of thesis fit.
+A. Apply Tension pairs and hidden assumptions only after drafting, when topic drift can no longer be prevented.
+B. mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
+C. Use Tension pairs and hidden assumptions while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Tension pairs and hidden assumptions regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q75. Which statement preserves the strategy-versus-official-rule boundary for Counter-case?
+### Q71. Which statement preserves the strategy-versus-official-rule boundary for Tension pairs and hidden assumptions?
 
-A. Present Counter-case as an official marking rule rather than a pedagogical scaffold.
-B. Use Counter-case to avoid stating a serious counter-case or qualification.
-C. The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
-D. Support Counter-case with an unverified statistic, attribution or current claim.
+A. Present Tension pairs and hidden assumptions as an official marking rule rather than a pedagogical scaffold.
+B. Use Tension pairs and hidden assumptions to avoid stating a serious counter-case or qualification.
+C. mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
+D. Support Tension pairs and hidden assumptions with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q76. Which option avoids the standard Essay-method trap about Counter-case?
+### Q72. Which option avoids the standard Essay-method trap about Tension pairs and hidden assumptions?
 
-A. Maximise the number of outputs produced by Counter-case, even if they repeat one claim.
-B. Allow an exception discovered through Counter-case to replace the central proposition.
-C. Silently tidy the printed prompt before applying Counter-case to make it easier to answer.
-D. The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
+A. Maximise the number of outputs produced by Tension pairs and hidden assumptions, even if they repeat one claim.
+B. Allow an exception discovered through Tension pairs and hidden assumptions to replace the central proposition.
+C. Silently tidy the printed prompt before applying Tension pairs and hidden assumptions to make it easier to answer.
+D. mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
 
 **Answer: D.**
-**Explanation:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q77. Which option applies Synthesis as an Essay-method distinction?
+### Q73. Which option applies Tension pairs and hidden assumptions — 2 as an Essay-method distinction?
 
-A. A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
-B. Treat Synthesis as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Synthesis with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Synthesis to add more headings or dimensions without testing coherence.
+A. homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently.
+B. Treat Tension pairs and hidden assumptions — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Tension pairs and hidden assumptions — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Tension pairs and hidden assumptions — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q78. Which use of Synthesis stays closest to the printed prompt?
+### Q74. Which use of Tension pairs and hidden assumptions — 2 stays closest to the printed prompt?
 
-A. Apply Synthesis only after drafting, when topic drift can no longer be prevented.
-B. A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
-C. Use Synthesis while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Synthesis regardless of thesis fit.
+A. Apply Tension pairs and hidden assumptions — 2 only after drafting, when topic drift can no longer be prevented.
+B. homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently.
+C. Use Tension pairs and hidden assumptions — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Tension pairs and hidden assumptions — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q79. Which statement preserves the strategy-versus-official-rule boundary for Synthesis?
+### Q75. Which statement preserves the strategy-versus-official-rule boundary for Tension pairs and hidden assumptions — 2?
 
-A. Present Synthesis as an official marking rule rather than a pedagogical scaffold.
-B. Use Synthesis to avoid stating a serious counter-case or qualification.
-C. A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
-D. Support Synthesis with an unverified statistic, attribution or current claim.
+A. Present Tension pairs and hidden assumptions — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Tension pairs and hidden assumptions — 2 to avoid stating a serious counter-case or qualification.
+C. homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently.
+D. Support Tension pairs and hidden assumptions — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q80. Which option avoids the standard Essay-method trap about Synthesis?
+### Q76. Which option avoids the standard Essay-method trap about Tension pairs and hidden assumptions — 2?
 
-A. Maximise the number of outputs produced by Synthesis, even if they repeat one claim.
-B. Allow an exception discovered through Synthesis to replace the central proposition.
-C. Silently tidy the printed prompt before applying Synthesis to make it easier to answer.
-D. A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
+A. Maximise the number of outputs produced by Tension pairs and hidden assumptions — 2, even if they repeat one claim.
+B. Allow an exception discovered through Tension pairs and hidden assumptions — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Tension pairs and hidden assumptions — 2 to make it easier to answer.
+D. homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently.
 
 **Answer: D.**
-**Explanation:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q77. Which option applies Tension pairs and hidden assumptions — 3 as an Essay-method distinction?
+
+A. observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
+B. Treat Tension pairs and hidden assumptions — 3 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Tension pairs and hidden assumptions — 3 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Tension pairs and hidden assumptions — 3 to add more headings or dimensions without testing coherence.
+
+**Answer: A.**
+**Explanation:** observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q78. Which use of Tension pairs and hidden assumptions — 3 stays closest to the printed prompt?
+
+A. Apply Tension pairs and hidden assumptions — 3 only after drafting, when topic drift can no longer be prevented.
+B. observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
+C. Use Tension pairs and hidden assumptions — 3 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Tension pairs and hidden assumptions — 3 regardless of thesis fit.
+
+**Answer: B.**
+**Explanation:** observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q79. Which statement preserves the strategy-versus-official-rule boundary for Tension pairs and hidden assumptions — 3?
+
+A. Present Tension pairs and hidden assumptions — 3 as an official marking rule rather than a pedagogical scaffold.
+B. Use Tension pairs and hidden assumptions — 3 to avoid stating a serious counter-case or qualification.
+C. observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
+D. Support Tension pairs and hidden assumptions — 3 with an unverified statistic, attribution or current claim.
+
+**Answer: C.**
+**Explanation:** observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q80. Which option avoids the standard Essay-method trap about Tension pairs and hidden assumptions — 3?
+
+A. Maximise the number of outputs produced by Tension pairs and hidden assumptions — 3, even if they repeat one claim.
+B. Allow an exception discovered through Tension pairs and hidden assumptions — 3 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Tension pairs and hidden assumptions — 3 to make it easier to answer.
+D. observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
+
+**Answer: D.**
+**Explanation:** observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
 
-The cards preserve exact V1 issue or issue-adjacent prompts from 2018, 2019 and 2024. The solutions demonstrate scope control and do not claim official model essays.
+Three application cards use the repository's explicit V1/V2 status. No unavailable official model answer, marking rubric or attribution is invented.
 
-### PYQ DEMAND CARD 1 — 2018-A1 Essay
-
-**Demand:** Alternative technologies for a climate change resilient India.
-
-**Status:** Exact V1 wording from the local official paper; used to scope object, qualifier and India boundary.
-
-**Model solution:** **Directive or demand:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. **Object:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. **Qualifier:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. **Geography:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. **Scale:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. **Evaluative demand:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. **Excluded material:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. **Thesis boundary:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
-
-### PYQ DEMAND CARD 2 — 2019-B7 Essay
-
-**Demand:** Biased media is a real threat to Indian democracy.
-
-**Status:** Exact V1 wording; used to expose the evaluative standards behind real threat and Indian democracy.
-
-**Model solution:** **Directive or demand:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. **Object:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. **Qualifier:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. **Geography:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. **Evaluative demand:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. **Hidden tension:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. **Thesis boundary:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Counter-case:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
-
-### PYQ DEMAND CARD 3 — 2024-B5 Essay
+### PYQ DEMAND CARD 1 — 2024-B5 Essay
 
 **Demand:** Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness.
 
-**Status:** Exact V1 wording, including the missing comma before precipitating; used for a causal-chain scoping application.
+**Status:** Exact V1 wording from a local official paper.
 
-**Model solution:** **Object:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. **Qualifier:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. **Actor:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. **Causal demand:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. **Hidden tension:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. **Thesis boundary:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Counter-case:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. **Synthesis:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
+**Model solution:** **Working thesis:** Social media can intensify FOMO by turning social comparison into a continuous, quantified and commercially amplified experience, yet youth distress arises from the interaction of platform design, social conditions and individual vulnerability rather than technology alone. **Comparison architecture:** Curated highlights make ordinary life appear deficient and convert belonging into a visible competition for attention. **Attention economy:** Notifications, streaks and algorithmic recommendation reward repeated checking and make absence feel like social loss. **Loneliness paradox:** High connectivity can coexist with weak intimacy when interaction is performative, fragmented or measured through public approval. **Unequal vulnerability:** Adolescents facing exclusion, academic pressure or weak support systems may experience the same platforms more harmfully. **Counter-view:** Blaming social media alone ignores family stress, unemployment, educational pressure and pre-existing mental-health conditions. This is a repository-authored answer route, not an official model answer.
+
+### PYQ DEMAND CARD 2 — 2023-B5 Essay
+
+**Demand:** Girls are weighed down by restrictions, boys with demands — two equally harmful disciplines.
+
+**Status:** Exact V1 wording from a local official paper.
+
+**Model solution:** **Working thesis:** Patriarchal gender norms harm girls through restricted autonomy and boys through coercive expectations of strength, success and emotional silence; the burdens differ in form and power, so equality requires removing both without falsely equating their consequences. **Restrictions on girls:** Control over mobility, education, work, clothing and marriage narrows agency and exposes women to structural dependence. **Demands on boys:** Pressure to earn, dominate, suppress vulnerability and take risks damages mental health and relationships. **Unequal power:** The two disciplines are mutually reinforcing, but restrictions on girls often carry deeper legal, economic and bodily consequences. **Family and education:** Homes and schools reproduce norms through different freedoms, chores, subjects, punishments and career expectations. **Counter-view:** Calling the disciplines equally harmful must not obscure violence, exclusion and material disadvantage disproportionately borne by girls and women. This is a repository-authored answer route, not an official model answer.
+
+### PYQ DEMAND CARD 3 — 2019-B7 Essay
+
+**Demand:** Biased media is a real threat to Indian democracy.
+
+**Status:** Exact V1 wording from a local official paper.
+
+**Model solution:** **Working thesis:** Biased media threatens Indian democracy when systematic distortion deprives citizens of reliable information, weakens scrutiny and polarises public reason, although viewpoint diversity must be protected and bias distinguished from mere disagreement. **Informed citizenship:** Elections are meaningful only when citizens can evaluate competing claims through sufficiently reliable information. **Accountability:** Selective silence or partisan framing can shield power and make public institutions less answerable. **Polarisation:** Sensational and identity-driven coverage can replace deliberation with permanent mobilisation against imagined enemies. **Ownership and incentives:** Concentrated ownership, advertising dependence and attention metrics can shape editorial priorities without explicit censorship. **Counter-view:** Government control in the name of neutrality can itself become a greater democratic threat, and complete value-neutrality is neither possible nor desirable. This is a repository-authored answer route, not an official model answer.
+
+### COMPLETE MODEL ESSAYS
+
+
+#### COMPLETE MODEL ESSAY 1 — 2024-B5
+
+**Prompt:** Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness.
+
+**Verification:** V1 — directly verified from a local official UPSC paper.
+
+**Model essay (1013 words):**
+
+“Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness.” is not a decorative slogan but a proposition about how human choices, institutions and consequences relate. Social media can intensify FOMO by turning social comparison into a continuous, quantified and commercially amplified experience, yet youth distress arises from the interaction of platform design, social conditions and individual vulnerability rather than technology alone. This reading keeps the discussion centred on the prompt while using operator, object, scale, causal claim, stakeholder, time horizon as a method rather than as visible scaffolding.
+
+At the level of the person, **comparison architecture** clarifies the proposition. Curated highlights make ordinary life appear deficient and convert belonging into a visible competition for attention. A useful illustration is India's constitutional commitment to justice, liberty, equality and fraternity; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The personal insight becomes social, **attention economy** clarifies the proposition. Notifications, streaks and algorithmic recommendation reward repeated checking and make absence feel like social loss. A useful illustration is India's self-help-group and cooperative experience, which converts association into practical capability; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+Institutions then determine, **loneliness paradox** clarifies the proposition. High connectivity can coexist with weak intimacy when interaction is performative, fragmented or measured through public approval. A useful illustration is India's educational, scientific and public-health institutions; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The argument also changes across time, **unequal vulnerability** clarifies the proposition. Adolescents facing exclusion, academic pressure or weak support systems may experience the same platforms more harmfully. A useful illustration is India's constitutional commitment to justice, liberty, equality and fraternity; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+An Indian and democratic perspective adds, **positive capability** clarifies the proposition. Online communities can also provide expression, learning and support, especially where offline opportunities are limited. A useful illustration is local-government and cooperative experience; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The widest test is ethical and intergenerational, **shared responsibility** clarifies the proposition. Digital literacy, humane platform design, family communication, counselling and accessible mental-health services must work together. A useful illustration is India's scientific institutions and public digital systems, whose benefits depend on access and accountability; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+A serious essay must now confront the strongest objection. Blaming social media alone ignores family stress, unemployment, educational pressure and pre-existing mental-health conditions. This objection deserves to be stated in its strongest form because a weak caricature produces only a ceremonial rebuttal. It changes the argument by identifying the condition under which the prompt fails, becomes incomplete or generates unequal costs. The response is therefore not to abandon the thesis, but to qualify its reach, specify safeguards and distinguish a defensible principle from its simplistic imitation.
+
+The synthesis follows from that qualification. Individual agency matters, but institutions shape the options within which agency operates. Material capacity matters, but dignity and justice determine whether capacity is worthwhile. National action matters, but ecological and international interdependence prevent self-contained solutions. This is why GS knowledge must enter the essay as analysed evidence rather than as a catalogue of constitutional articles, schemes, reports or sectors.
+
+India makes this synthesis concrete because diversity, unequal capability and democratic aspiration coexist at every scale. The Constitution's language of justice, liberty, equality and fraternity supplies a normative direction, but constitutional vocabulary earns its place only when the essay explains a mechanism: how rights restrain power, how public capability widens agency, how local participation corrects distant administration, or how scientific temper enables revision. Likewise, an example from social reform, cooperative action, public health, education, technology or ecology should illuminate one claim rather than stand as a miniature GS note. This discipline allows an India-centric essay to remain reflective and universal without becoming abstract, celebratory or scheme-heavy. It also preserves balance by connecting aspiration to capacity, rights to remedies, and public purpose to accountable implementation.
+
+The answer is neither digital abstinence nor technological fatalism, but an online environment in which connection serves human relationships instead of converting them into an endless status contest. The prompt is thus neither accepted as an absolute nor dissolved into a balanced list. Its insight survives in a more precise form: one that connects character with institutions, freedom with responsibility, innovation with justice, and present action with the future. That sustained central argument gives the essay coherence, while careful evidence, transitions and qualification give it credibility.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish issue-prompt scoping from philosophical decoding. Answer in about 150 words.
+**Question:** Define the core writing problem in Issue-Based Prompt Scoping. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Issue-statement prompt. **Named evidence/example:** An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Classification gate. **Named evidence/example:** A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Directive or demand. **Named evidence/example:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Purpose and scope. **Named evidence/example:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Core terms in plain language. **Named evidence/example:** phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor.
-- A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
-- Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
+- A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
+- phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
 
-**Qualified conclusion:** **Claim:** Issue-statement prompt. **Named evidence/example:** An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Classification gate. **Named evidence/example:** A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Directive or demand. **Named evidence/example:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Purpose and scope. **Named evidence/example:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Core terms in plain language. **Named evidence/example:** phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Build an object-qualifier-geography-time-actor-scale scope map. Answer in about 150 words.
+**Question:** Distinguish the valid method from its closest misuse in Issue-Based Prompt Scoping. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Object. **Named evidence/example:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Qualifier. **Named evidence/example:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Geography. **Named evidence/example:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Time. **Named evidence/example:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Actor. **Named evidence/example:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale. **Named evidence/example:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Core terms in plain language — 2. **Named evidence/example:** answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis. **Named evidence/example:** Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-- Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-- State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
-- Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
-- Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
-- Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
+- answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
+- Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
 
-**Qualified conclusion:** **Claim:** Object. **Named evidence/example:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Qualifier. **Named evidence/example:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Geography. **Named evidence/example:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Time. **Named evidence/example:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Actor. **Named evidence/example:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale. **Named evidence/example:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Core terms in plain language — 2. **Named evidence/example:** answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis. **Named evidence/example:** Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain how causal and evaluative demands require different argument tests. Answer in about 250 words.
+**Question:** Apply Issue-Based Prompt Scoping to one philosophical UPSC Essay prompt. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Causal demand. **Named evidence/example:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evaluative demand. **Named evidence/example:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden tension. **Named evidence/example:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Exam facts / source basis — 2. **Named evidence/example:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 3. **Named evidence/example:** unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Is this actually an issue prompt? — a three-question test. **Named evidence/example:** basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Is this actually an issue prompt? — a three-question test — 2. **Named evidence/example:** Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02) **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
-- Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
-- Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
+- "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+- unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
+- basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure.
+- Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
 
-**Qualified conclusion:** **Claim:** Causal demand. **Named evidence/example:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evaluative demand. **Named evidence/example:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden tension. **Named evidence/example:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Exam facts / source basis — 2. **Named evidence/example:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 3. **Named evidence/example:** unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Is this actually an issue prompt? — a three-question test. **Named evidence/example:** basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Is this actually an issue prompt? — a three-question test — 2. **Named evidence/example:** Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02) **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Show how excluded material and thesis boundaries prevent scope creep. Answer in about 250 words.
+**Question:** Apply Issue-Based Prompt Scoping to one issue-based or hybrid UPSC Essay prompt. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Excluded material. **Named evidence/example:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Definition boundary. **Named evidence/example:** Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis boundary. **Named evidence/example:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scope creep. **Named evidence/example:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Is this actually an issue prompt? — a three-question test — 3. **Named evidence/example:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Basic decomposition questions. **Named evidence/example:** 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Causal-evidence-limit chain. **Named evidence/example:** PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt.
-- Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
-- The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-- Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
+- Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
+- Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
+- 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
+- PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
 
-**Qualified conclusion:** **Claim:** Excluded material. **Named evidence/example:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Definition boundary. **Named evidence/example:** Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis boundary. **Named evidence/example:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scope creep. **Named evidence/example:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Is this actually an issue prompt? — a three-question test — 3. **Named evidence/example:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Basic decomposition questions. **Named evidence/example:** 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Causal-evidence-limit chain. **Named evidence/example:** PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Analyse why a policy catalogue or GS-answer structure cannot substitute for an issue essay. Answer in about 300 words.
+**Question:** Evaluate the limits, counter-cases and repair protocol for Issue-Based Prompt Scoping. Answer in about 300 words.
 
-**Model thesis:** **Claim:** Thesis boundary. **Named evidence/example:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scope creep. **Named evidence/example:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** GS-answer collapse. **Named evidence/example:** A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Policy-catalogue avoidance. **Named evidence/example:** Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counter-case. **Named evidence/example:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Synthesis. **Named evidence/example:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Causal-evidence-limit chain — 2. **Named evidence/example:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** India-first illustration starters. **Named evidence/example:** Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Advanced proposition and boundary. **Named evidence/example:** Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy. **Named evidence/example:** ("FOMO precipitating depression and loneliness") into a general survey of "social media in society." **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-- Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
-- A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate.
-- Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
-- The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
-- A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
+- An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
+- Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
+- Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
+- ("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
+- prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
 
-**Qualified conclusion:** **Claim:** Thesis boundary. **Named evidence/example:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scope creep. **Named evidence/example:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** GS-answer collapse. **Named evidence/example:** A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Policy-catalogue avoidance. **Named evidence/example:** Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counter-case. **Named evidence/example:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Synthesis. **Named evidence/example:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Causal-evidence-limit chain — 2. **Named evidence/example:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** India-first illustration starters. **Named evidence/example:** Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Advanced proposition and boundary. **Named evidence/example:** Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy. **Named evidence/example:** ("FOMO precipitating depression and loneliness") into a general survey of "social media in society." **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Apply the complete scoping method to one verified issue prompt. Answer in about 300 words.
+**Question:** Construct an examiner-ready answer architecture using Issue-Based Prompt Scoping. Answer in about 300 words.
 
-**Model thesis:** **Claim:** Directive or demand. **Named evidence/example:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Object. **Named evidence/example:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Qualifier. **Named evidence/example:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Geography. **Named evidence/example:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Time. **Named evidence/example:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Actor. **Named evidence/example:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale. **Named evidence/example:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Causal demand. **Named evidence/example:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden tension. **Named evidence/example:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis boundary. **Named evidence/example:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counter-case. **Named evidence/example:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Synthesis. **Named evidence/example:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Purpose and scope. **Named evidence/example:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 2. **Named evidence/example:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Is this actually an issue prompt? — a three-question test — 3. **Named evidence/example:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Causal-evidence-limit chain — 2. **Named evidence/example:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 2. **Named evidence/example:** homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 3. **Named evidence/example:** observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
-- The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-- Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-- State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
-- Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
-- Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
-- Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
-- Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
-- Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
-- The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-- The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
-- A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
+- A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
+- "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+- Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
+- An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
+- prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
+- mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
+- homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently.
+- observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
 
-**Qualified conclusion:** **Claim:** Directive or demand. **Named evidence/example:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Object. **Named evidence/example:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Qualifier. **Named evidence/example:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Geography. **Named evidence/example:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Time. **Named evidence/example:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Actor. **Named evidence/example:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale. **Named evidence/example:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Causal demand. **Named evidence/example:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden tension. **Named evidence/example:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis boundary. **Named evidence/example:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counter-case. **Named evidence/example:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Synthesis. **Named evidence/example:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Purpose and scope. **Named evidence/example:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 2. **Named evidence/example:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Is this actually an issue prompt? — a three-question test — 3. **Named evidence/example:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Causal-evidence-limit chain — 2. **Named evidence/example:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 2. **Named evidence/example:** homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 3. **Named evidence/example:** observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -2489,164 +2557,177 @@ method generalises beyond this one audited prompt.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Issue-Based Prompt Scoping: DEMAND, OBJECT AND QUALIFIER SCOPE MAP
+### Issue-Based Prompt Scoping: OWNED SKILL AND PROMPT-FIDELITY CONTROLS
 
-1. **Issue-statement prompt:** An issue prompt names a real phenomenon and makes a causal, comparative, interrogative or evaluative claim that can be contested without first decoding a dominant metaphor.
-2. **Classification gate:** A prompt is scoped as an issue when it names a concrete phenomenon, asserts something about it and already yields a literal contestable proposition.
-3. **Directive or demand:** Identify whether the wording asks a question, presents alternatives, asserts causation or makes a value judgment; that demand governs the essay's argumentative burden.
-4. **Object:** The object is the precise phenomenon or relationship being examined, not the entire GS subject area surrounding it.
-5. **Qualifier:** Words such as Indian, majority, youth, real, complex, alternative or better narrow the claim and must survive in the thesis.
-6. **Geography:** State whether the prompt is bounded to India, South Asia, another named region or a wider frame; do not globalise or nationalise it automatically.
-7. **Time:** Distinguish a present condition, historical change, future possibility or long-run consequence when the wording supports that temporal boundary.
-8. **Actor:** Identify who acts, experiences, decides, benefits or bears cost, and do not treat a broad group such as youth or farmers as homogeneous.
-9. **Scale:** Locate the demand at individual, community, institutional, state, regional or global scale before importing examples from another level.
-10. **Causal demand:** Where the prompt asserts causation, test each link through mechanism, evidence, mediator and limit instead of merely repeating the causal words.
-11. **Evaluative demand:** Where the prompt uses judgment terms such as threat, anomaly, myth, reality or complex, define the standard by which the judgment will be assessed.
-12. **Hidden tension:** Issue prompts normally contain a trade-off or double effect that must be made explicit, such as connection versus isolation or automation versus reskilling.
-13. **Excluded material:** Write a negative boundary naming adjacent content that will not enter unless it directly advances the exact prompt.
-14. **Definition boundary:** Define only the terms needed to fix the proposition; a long textbook background section expands the topic before the thesis is secure.
-15. **Thesis boundary:** The thesis must answer the prompt's exact causal or evaluative claim with stated conditions, not announce that the issue has both advantages and disadvantages.
-16. **Scope creep:** Scope creep occurs when the response becomes a general survey of the domain instead of testing the prompt's specified relationship.
-17. **GS-answer collapse:** A causes-effects-measures or scheme catalogue does not by itself create a sustained Essay argument, even when every listed fact is accurate.
-18. **Policy-catalogue avoidance:** Policies and institutions should appear as evidence for a claim, mechanism or synthesis, never as an isolated inventory of government action.
-19. **Counter-case:** The strongest rival or beneficial effect should be stated fairly and used to qualify the thesis rather than appended as token balance.
-20. **Synthesis:** A good issue essay resolves the tension by distributing responsibility, specifying conditions and connecting feasible institutional action with agency and values.
+1. **Purpose and scope:** A clear audited example — 2024-B5, printed as "Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness" — is an issue-statement rather than a philosophical aphorism: it names a real phenomenon, a mechanism and a consequence directly. This topic teaches how to scope such prompts as an essay argument , distinct from 02's aphorism-decoding and distinct from a GS-III/Society answer.
+2. **Core terms in plain language:** phenomenon and asserts a causal or evaluative claim about it, without requiring metaphor-decoding.
+3. **Core terms in plain language — 2:** answer — headings, "causes/effects/measures taken" lists — rather than a continuous argued essay.
+4. **Exam facts / source basis:** Missing Out' amongst the youth precipitating depression and loneliness." — no author, and no comma before "precipitating" (widely circulated versions insert one; the paper does not). No further qualifying data is attached in the source paper.
+5. **Exam facts / source basis — 2:** "precipitating depression and loneliness" reads as attached to the FOMO it triggers rather than as a separate consequence of social media. Either way the essay must engage the causal chain the sentence asserts — social media → FOMO → depression/loneliness — and not substitute a general discussion of social media's effects.
+6. **Exam facts / source basis — 3:** unmetaphorical issue-statement; the remaining 15 prompts are decoded via 02. This is not a claim about the whole V1 corpus: 2018–2025 contains further issue and hybrid prompts requiring the same method.
+7. **Is this actually an issue prompt? — a three-question test:** basic/02, Section 3a, gives the full philosophical-vs-issue contrast table. This section does not repeat it; it supplies the decision procedure for the one call you have to make under time pressure.
+8. **Is this actually an issue prompt? — a three-question test — 2:** Q1 Does the sentence name a real, nameable phenomenon (social media, urbanisation, automation) rather than an abstraction? no - philosophical prompt: decode it (02) yes - continue Q2 Does it assert a causal or evaluative claim ABOUT that phenomenon ("is triggering", "has lost the ability to", "is a threat to")? no - a bare topic label, not an issue-statement: treat as a scoping-plus-decoding hybrid, decoding first yes - continue Q3 Would a literal reading of the sentence already give you something contestable to argue? yes - issue prompt: scope it (this file) no - the sentence only looks empirical; decode first (02)
+9. **Is this actually an issue prompt? — a three-question test — 3:** Q3 is the one candidates skip. 2024-A1 ("Forests precede civilizations and deserts follow them") passes Q1 and arguably Q2, but fails Q3 — read literally it is a claim about vegetation sequence that nobody would spend 1000 words contesting. That failure is the signal that the sentence is carrying a metaphor, and that 02 owns it. Scoping a prompt that needed decoding produces a technically accurate essay about the wrong subject — the most expensive error available at this stage, because it is invisible until the essay is finished.
+10. **The central idea and common misreading:** Central idea: an issue-based prompt still needs a thesis , not just an accurate description of the phenomenon — the essay must argue something about the claim (its mechanism, its limits, what follows), not merely narrate it. Common misreading: treating 2024-B5 as an invitation to write a GS-III/Society-style answer on social media's "causes, effects and government measures" complete with scheme names and headings — this under-uses the essay's actual test of argument and synthesis.
+11. **Basic decomposition questions:** 1. What exact claim is being made — connection causes FOMO causes depression/loneliness — and is this an absolute or a tendency claim? 2. What is the mechanism linking cause to effect (e.g. social comparison, curated self-presentation, algorithmic amplification)? 3. Who is most affected, and does the prompt's "youth" framing hold uniformly or need qualification (e.g. by access, platform design, family/school context)? 4. What is the strongest counter-case (e.g. social media also enabling support communities, information access, civic mobilisation)? 5. What synthesis resolves the tension without denying either the harm or the benefit?
+12. **Causal-evidence-limit chain:** PROMPT CLAIM - plausible mechanism - named, verifiable evidence or illustration - what that evidence supports (not more) - mediator, counter-case or limit - qualified thesis
+13. **Causal-evidence-limit chain — 2:** An association is not proof of causation. If you cannot name evidence, state the mechanism and the limit qualitatively rather than inventing a statistic or presenting correlation as settled proof.
+14. **India-first illustration starters:** Recall (not invent) a named, verifiable Indian illustration relevant to youth mental health, digital literacy or student smartphone use. Use it as functional evidence for one dimension above, not as a scheme-listing exercise. Full discipline: 12.
+15. **Advanced proposition and boundary:** Proposition: an issue-based essay prompt differs from a GS answer not in subject matter but in test-of-argument — the examiner already expects the candidate to know the phenomenon; what is tested is whether the candidate can build a qualified thesis and a synthesis around it. Boundary: this topic does not supply the platform-design or mental-health mechanism content itself in GS depth (owned by Indian-Society and Science-and-Technology); it supplies the essay-specific scoping discipline that keeps that content in service of an argument.
+16. **Concept definition and taxonomy:** ("FOMO precipitating depression and loneliness") into a general survey of "social media in society."
+17. **Concept definition and taxonomy — 2:** prompt (on, say, urbanisation, automation, or misinformation) should be scoped by the same method.
+18. **Tension pairs and hidden assumptions:** mechanism (FOMO precipitating depression/loneliness); the hidden assumption in a weak essay is that any social-media-related content answers the question — it does not, unless it engages that specific causal chain.
+19. **Tension pairs and hidden assumptions — 2:** homogeneous by the prompt's phrasing; an advanced essay should interrogate this — access, platform type, family context, and pre-existing vulnerability all mediate the effect differently.
+20. **Tension pairs and hidden assumptions — 3:** observed association between usage and distress implies the causal story asserted by the prompt; an advanced essay should explicitly discuss plausible mechanism (social comparison, curated self-presentation, algorithmic amplification of engagement) rather than assert correlation as proof.
 
-### Issue-Based Prompt Scoping: GEOGRAPHY, TIME, ACTOR, SCALE AND EXCLUSION FIREWALLS
+### Issue-Based Prompt Scoping: ARGUMENT, EVIDENCE AND COHERENCE FIREWALLS
 
-- Do not scope a metaphor-heavy hybrid as a literal issue statement before decoding it.
-- Do not ignore interrogative, causal, comparative or evaluative wording.
-- Do not drop qualifiers such as India, youth, majority or long run.
-- Do not shift geography, actor, time or scale without explaining the move.
-- Do not present association as causation without a mechanism and mediator.
-- Do not define the whole subject when only one relationship is contested.
-- Do not convert the essay into a scheme or policy catalogue.
-- Do not treat a broad social group as internally uniform.
-- Do not add a token counterpoint after a one-sided essay.
-- Do not end with generic balance; state the conditions of synthesis.
+- Do not replace bounded scoping of issue and hybrid prompts with a generic GS-style catalogue.
+- Do not cross the ownership boundary: abstract metaphor decoding belongs to 02.
+- Do not use an example without explaining its argumentative function.
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
+- Do not use an unverified quotation, statistic, attribution or anecdote.
+- Do not multiply dimensions that repeat the same claim in new vocabulary.
+- Do not end with aspiration unsupported by the preceding argument.
+- Do not sacrifice the second essay's time budget to perfect the first.
+- Do not mistake novelty of phrasing for originality of thought.
 
-### Issue-Based Prompt Scoping: CAUSAL OR EVALUATIVE THESIS-TO-SYNTHESIS SPINE
+### Issue-Based Prompt Scoping: EXAM-EXECUTION AND ANSWER-WRITING SPINE
 
 ```text
-CLASSIFY THE PROMPT
--> IDENTIFY DIRECTIVE OR ASSERTED DEMAND
--> LOCK OBJECT QUALIFIER GEOGRAPHY TIME ACTOR AND SCALE
--> TEST CAUSAL LINKS OR EVALUATIVE STANDARD
--> NAME HIDDEN TENSION AND EXCLUDED MATERIAL
--> WRITE A CONDITIONAL THESIS
--> COUNTER-CASE THEN SYNTHESIS WITHOUT POLICY CATALOGUE
+READ THE EXACT PROMPT
+-> DEFINE KEYWORDS RELATION SCOPE AND ASSUMPTION
+-> FORM ONE QUALIFIED THESIS
+-> BRAINSTORM THEN CUT TO DISTINCT ARGUMENT JOBS
+-> MAP CLAIM EVIDENCE ANALYSIS QUALIFICATION AND LINK
+-> STEELMAN COUNTER-VIEW
+-> SYNTHESIZE AND RETURN TO THE CENTRAL ARGUMENT
+-> REVISE FOR FIDELITY FACTS COHERENCE AND TIME
 ```
 
-### Issue-Based Prompt Scoping: V1 ISSUE-PROMPT WORDING AND LIVE-SOURCE BOUNDARY
+### Issue-Based Prompt Scoping: SOURCE STATUS, CROSS-LINKS AND REVISION TRIGGERS
 
-The 2026-09-04 official-site attempts supplied no new content. Prompt wording and metadata remain bounded by local V1 papers and the audited Essay corpus; issue analysis is explicitly repository-authored method.
+Live source check dated 2026-09-06: official UPSC routes were attempted and access-blocked; blocked pages support no new claim. UN, WHO and IPCC primary pages were separately checked for cross-theme factual boundaries.
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Issue classification gate
+#### ASCII MASTER FLOW — PANEL 1/12: Issue-Based Prompt Scoping: Prompt and scope
 
 ```ascii-master
-CONCRETE PHENOMENON NAMED?
-CAUSAL OR EVALUATIVE CLAIM PRESENT?
-LITERAL READING ALREADY CONTESTABLE?
-YES -> SCOPE | NO -> DECODE FIRST
+PURPOSE AND SCOPE -> A clear audited example — 2024-B5, printed as "Socia
+CORE TERMS IN PLAIN LANGUAGE -> phenomenon and asserts a causal or evaluative claim 
+CORE TERMS IN PLAIN LANGUAGE — 2 -> answer — headings, "causes/effects/measures taken" l
+EXAM FACTS / SOURCE BASIS -> Missing Out' amongst the youth precipitating depress
+VERDICT 1 -> Prompt and scope must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 2/12: Demand types
+#### ASCII MASTER FLOW — PANEL 2/12: Issue-Based Prompt Scoping: Concept hierarchy
 
 ```ascii-master
-QUESTION -> judgment required
-ALTERNATIVES -> compare and qualify
-CAUSAL ASSERTION -> test links
-VALUE CLAIM -> define evaluative standard
+CORE TERMS IN PLAIN LANGUAGE — 2 -> answer — headings, "causes/effects/measures taken" l
+EXAM FACTS / SOURCE BASIS -> Missing Out' amongst the youth precipitating depress
+EXAM FACTS / SOURCE BASIS — 2 -> "precipitating depression and loneliness" reads as a
+EXAM FACTS / SOURCE BASIS — 3 -> unmetaphorical issue-statement; the remaining 15 pro
+VERDICT 2 -> Concept hierarchy must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 3/12: Object-qualifier lock
+#### ASCII MASTER FLOW — PANEL 3/12: Issue-Based Prompt Scoping: Dimension matrix
 
 ```ascii-master
-OBJECT -> exact phenomenon or relationship
-QUALIFIER -> named population, place or judgment
-THESIS -> must preserve both
-DRIFT -> adjacent subject matter without argumentative function
+EXAM FACTS / SOURCE BASIS — 2 -> "precipitating depression and loneliness" reads as a
+EXAM FACTS / SOURCE BASIS — 3 -> unmetaphorical issue-statement; the remaining 15 pro
+IS THIS ACTUALLY AN ISSUE PROMPT?  -> basic/02, Section 3a, gives the full philosophical-v
+IS THIS ACTUALLY AN ISSUE PROMPT?  -> Q1 Does the sentence name a real, nameable phenomeno
+VERDICT 3 -> Dimension matrix must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 4/12: Scope coordinates
+#### ASCII MASTER FLOW — PANEL 4/12: Issue-Based Prompt Scoping: Decision gate
 
 ```ascii-master
-WHERE -> geography
-WHEN -> time horizon
-WHO -> actor
-AT WHAT LEVEL -> scale
+IS THIS ACTUALLY AN ISSUE PROMPT?  -> basic/02, Section 3a, gives the full philosophical-v
+IS THIS ACTUALLY AN ISSUE PROMPT?  -> Q1 Does the sentence name a real, nameable phenomeno
+IS THIS ACTUALLY AN ISSUE PROMPT?  -> Q3 is the one candidates skip. 2024-A1 ("Forests pre
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: an issue-based prompt still needs a th
+VERDICT 4 -> Decision gate must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 5/12: Causal chain test
+#### ASCII MASTER FLOW — PANEL 5/12: Issue-Based Prompt Scoping: Mechanism chain
 
 ```ascii-master
-ASSERTED CAUSE
-MECHANISM -> EVIDENCE
-MEDIATOR OR FEEDBACK
-LIMIT -> QUALIFIED EFFECT
+IS THIS ACTUALLY AN ISSUE PROMPT?  -> Q3 is the one candidates skip. 2024-A1 ("Forests pre
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: an issue-based prompt still needs a th
+BASIC DECOMPOSITION QUESTIONS -> 1. What exact claim is being made — connection cause
+CAUSAL-EVIDENCE-LIMIT CHAIN -> PROMPT CLAIM - plausible mechanism - named, verifiab
+VERDICT 5 -> Mechanism chain must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 6/12: Evaluative standard
+#### ASCII MASTER FLOW — PANEL 6/12: Issue-Based Prompt Scoping: Counter-view and synthesis
 
 ```ascii-master
-PROMPT WORD -> threat, anomaly, myth or complex
-STANDARD -> what would make the judgment true
-EVIDENCE -> cases supporting or weakening it
-VERDICT -> graded rather than absolute
+BASIC DECOMPOSITION QUESTIONS -> 1. What exact claim is being made — connection cause
+CAUSAL-EVIDENCE-LIMIT CHAIN -> PROMPT CLAIM - plausible mechanism - named, verifiab
+CAUSAL-EVIDENCE-LIMIT CHAIN — 2 -> An association is not proof of causation. If you can
+INDIA-FIRST ILLUSTRATION STARTERS -> Recall (not invent) a named, verifiable Indian illus
+VERDICT 6 -> Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 7/12: Hidden-tension map
+#### ASCII MASTER FLOW — PANEL 7/12: Issue-Based Prompt Scoping: Close-option distinctions
 
 ```ascii-master
-PROMISED BENEFIT
-OBSERVED OR ASSERTED COST
-CONDITIONS ALTERING THE BALANCE
-SYNTHESIS -> responsibility across actors
+CAUSAL-EVIDENCE-LIMIT CHAIN — 2 -> An association is not proof of causation. If you can
+INDIA-FIRST ILLUSTRATION STARTERS -> Recall (not invent) a named, verifiable Indian illus
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: an issue-based essay prompt differs fro
+CONCEPT DEFINITION AND TAXONOMY -> ("FOMO precipitating depression and loneliness") int
+VERDICT 7 -> Close-option distinctions must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 8/12: Exclusion box
+#### ASCII MASTER FLOW — PANEL 8/12: Issue-Based Prompt Scoping: Evidence-status ladder
 
 ```ascii-master
-IN -> material proving the exact relationship
-OUT -> generic history of the whole domain
-OUT -> unrelated schemes and statistics
-RE-ENTRY -> only with a clear argumentative function
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: an issue-based essay prompt differs fro
+CONCEPT DEFINITION AND TAXONOMY -> ("FOMO precipitating depression and loneliness") int
+CONCEPT DEFINITION AND TAXONOMY —  -> prompt (on, say, urbanisation, automation, or misinf
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> mechanism (FOMO precipitating depression/loneliness)
+VERDICT 8 -> Evidence-status ladder must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 9/12: Definition-to-thesis bridge
+#### ASCII MASTER FLOW — PANEL 9/12: Issue-Based Prompt Scoping: Cross-scale system
 
 ```ascii-master
-DEFINE NECESSARY TERMS
-STATE OBJECT AND QUALIFIERS
-NAME CAUSAL OR EVALUATIVE BURDEN
-WRITE CONDITIONAL THESIS
+CONCEPT DEFINITION AND TAXONOMY —  -> prompt (on, say, urbanisation, automation, or misinf
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> mechanism (FOMO precipitating depression/loneliness)
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> homogeneous by the prompt's phrasing; an advanced es
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> observed association between usage and distress impl
+VERDICT 9 -> Cross-scale system must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 10/12: GS-collapse warning
+#### ASCII MASTER FLOW — PANEL 10/12: Issue-Based Prompt Scoping: Argument architecture
 
 ```ascii-master
-GS LIST -> causes, effects, schemes
-ESSAY MOVE -> claim, mechanism, counter-case
-GS LIST -> parallel headings
-ESSAY MOVE -> connected paragraph argument
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> homogeneous by the prompt's phrasing; an advanced es
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> observed association between usage and distress impl
+PURPOSE AND SCOPE -> A clear audited example — 2024-B5, printed as "Socia
+CORE TERMS IN PLAIN LANGUAGE -> phenomenon and asserts a causal or evaluative claim 
+VERDICT 10 -> Argument architecture must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 11/12: Counter-case to synthesis
+#### ASCII MASTER FLOW — PANEL 11/12: Issue-Based Prompt Scoping: Failure and repair gate
 
 ```ascii-master
-THESIS -> strongest supporting mechanism
-COUNTER-CASE -> rival effect or limit
-CONDITION -> when each side dominates
-SYNTHESIS -> distributed responsibility and feasible action
+PURPOSE AND SCOPE -> A clear audited example — 2024-B5, printed as "Socia
+CORE TERMS IN PLAIN LANGUAGE -> phenomenon and asserts a causal or evaluative claim 
+CORE TERMS IN PLAIN LANGUAGE — 2 -> answer — headings, "causes/effects/measures taken" l
+EXAM FACTS / SOURCE BASIS -> Missing Out' amongst the youth precipitating depress
+VERDICT 11 -> Failure and repair gate must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 12/12: Scoping answer spine
+#### ASCII MASTER FLOW — PANEL 12/12: Issue-Based Prompt Scoping: Complete answer spine
 
 ```ascii-master
-CLASSIFY -> DEMAND -> OBJECT -> QUALIFIER
-GEOGRAPHY -> TIME -> ACTOR -> SCALE
-MECHANISM -> TENSION -> EXCLUSIONS
-THESIS -> COUNTER-CASE -> SYNTHESIS
+CORE TERMS IN PLAIN LANGUAGE — 2 -> answer — headings, "causes/effects/measures taken" l
+EXAM FACTS / SOURCE BASIS -> Missing Out' amongst the youth precipitating depress
+EXAM FACTS / SOURCE BASIS — 2 -> "precipitating depression and loneliness" reads as a
+EXAM FACTS / SOURCE BASIS — 3 -> unmetaphorical issue-statement; the remaining 15 pro
+VERDICT 12 -> Complete answer spine must preserve prompt, thesis, evidence and qualification.
 ```

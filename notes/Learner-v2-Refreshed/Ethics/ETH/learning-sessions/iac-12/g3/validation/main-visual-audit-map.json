@@ -1,0 +1,1343 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "ethics-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 35,
+      "markdown_body_line_end": 45,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 669.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 375.49
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 73,
+      "heading": "SESSION 1 - Ethics in business, corporate governance and CSR: the three-layer foundation",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Corporate governance, business/corporate ethics, CSR, and international anti-corruption/ethics instruments. **Grounded in:** 2nd ARC, 4th Report *Eth",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 641.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 92,
+      "heading": "1. Visual foundation",
+      "preview": "\"BUSINESS ETHICS\" (pejorative, narrow)  -->  \"ETHICS IN BUSINESS\" (ARC 1.17's preferred shift)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 617.124
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 476.124
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 103,
+      "markdown_body_line_end": 108,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 354.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 54.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 208,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** Ethical business conduct must be embedded in ordinary commercial decisions (\"ethics in business,\" not \"business ethics\" as compliance theatre), with CSR as a valuable but distinct, supplementary obligation, reinforced by ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 123.591
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 50.524
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 237,
+      "heading": "10. CSR full doctrine - architecture, thresholds and limits",
+      "preview": "⚠️ 2022 GS-IV Q6(b) (historical demand, routed here): \"critically examine\" CSR in the contemporary corporate world. ✅ 2023 GS-IV Q1(a) (historical demand, routed here): illustrate moral integrity and professional efficiency in corporate gov",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 597.591
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 417.324
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 244,
+      "heading": "Business ethics vs corporate ethics vs CSR - three distinct layers",
+      "preview": "Layer | What it covers | Governing question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Layer",
+          "What it covers",
+          "Governing question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 395.324
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 195.122
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 308,
+      "heading": "11. War ethics and international aid ethics (historical demand)",
+      "preview": "⚠️ 2022 GS-IV Q5(a) (historical demand, routed here): illustrate the ethical issues in the Russia-Ukraine war. ⚠️ 2023 GS-IV Q1(b) (historical demand, routed here): comment on ethics in contemporary international aid. The Russia-Ukraine con",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 149.391
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 40.124
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 316,
+      "heading": "War ethics framework (Just War tradition, applied neutrally)",
+      "preview": "Principle | Meaning | Application to an active conflict",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Principle",
+          "Meaning",
+          "Application to an active conflict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 487.49
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 330,
+      "heading": "International aid ethics",
+      "preview": "Concept | Meaning | Ethical tension",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Meaning",
+          "Ethical tension"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 405.69
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 139.488
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 350,
+      "heading": "12. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 632.391
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 579.924
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 384,
+      "heading": "13. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 210.524
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 77.522
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 420,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 402.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 335.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 429,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 284.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 135.322
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 435,
+      "markdown_body_line_end": 435,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 442,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 691.956
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 460,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 11,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 640.356
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 424.89
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 475,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 85.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 41.222
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2005,
+      "markdown_body_line_end": 2011,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Deeper treatment of corporate governance failures, international anti-corruption architecture, and their public-administration parallels. **Grounded in:** 2nd AR",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 635.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2016,
+      "markdown_body_line_end": 2028,
+      "heading": "1. Architecture",
+      "preview": "CORPORATE GOVERNANCE FAILURE MODE          INSTITUTIONAL/LEGAL RESPONSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 607.924
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 486.924
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2036,
+      "markdown_body_line_end": 2041,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 400.124
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 89.122
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2180,
+      "markdown_body_line_end": 2183,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 316.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 193.29
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2223,
+      "markdown_body_line_end": 2224,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 317.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 273.024
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2230,
+      "markdown_body_line_end": 2242,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 11,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 221.424
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 643.89
+        }
+      },
+      "pdf_pages": [
+        66,
+        67,
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2257,
+      "markdown_body_line_end": 2257,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 304.89
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 260.222
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2266,
+      "markdown_body_line_end": 2296,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: 1. Three layers of ethical enterprise",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2300,
+      "markdown_body_line_end": 2330,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: 2. ARC integration test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2334,
+      "markdown_body_line_end": 2364,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 3. Corporate governance control chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2397,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: 4. CSR statutory architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2401,
+      "markdown_body_line_end": 2430,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: 5. Unspent and impact chronology",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2434,
+      "markdown_body_line_end": 2463,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 6. Stakeholder and shareholder test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2467,
+      "markdown_body_line_end": 2497,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 7. Serious fraud and whistleblowing",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2501,
+      "markdown_body_line_end": 2530,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 8. International anti-corruption layers",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2534,
+      "markdown_body_line_end": 2563,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 9. International aid ethics",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2567,
+      "markdown_body_line_end": 2596,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: 10. War and arms-transfer ethics",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2600,
+      "markdown_body_line_end": 2629,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 11. Private-institution dilemma route",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2662,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 12. Mains answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2669,
+      "markdown_body_line_end": 2698,
+      "heading": "ASCII PANEL 1/12 - 1. Three layers of ethical enterprise",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 744.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 453.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2702,
+      "markdown_body_line_end": 2731,
+      "heading": "ASCII PANEL 2/12 - 2. ARC integration test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 431.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 140.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2735,
+      "markdown_body_line_end": 2764,
+      "heading": "ASCII PANEL 3/12 - 3. Corporate governance control chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2797,
+      "heading": "ASCII PANEL 4/12 - 4. CSR statutory architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2801,
+      "markdown_body_line_end": 2830,
+      "heading": "ASCII PANEL 5/12 - 5. Unspent and impact chronology",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2834,
+      "markdown_body_line_end": 2863,
+      "heading": "ASCII PANEL 6/12 - 6. Stakeholder and shareholder test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2867,
+      "markdown_body_line_end": 2897,
+      "heading": "ASCII PANEL 7/12 - 7. Serious fraud and whistleblowing",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2901,
+      "markdown_body_line_end": 2930,
+      "heading": "ASCII PANEL 8/12 - 8. International anti-corruption layers",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2934,
+      "markdown_body_line_end": 2963,
+      "heading": "ASCII PANEL 9/12 - 9. International aid ethics",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2967,
+      "markdown_body_line_end": 2996,
+      "heading": "ASCII PANEL 10/12 - 10. War and arms-transfer ethics",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3000,
+      "markdown_body_line_end": 3029,
+      "heading": "ASCII PANEL 11/12 - 11. Private-institution dilemma route",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3033,
+      "markdown_body_line_end": 3062,
+      "heading": "ASCII PANEL 12/12 - 12. Mains answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3066,
+      "markdown_body_line_end": 3079,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 91.89
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    }
+  ]
+}

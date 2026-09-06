@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Qualifying-Hindi",
+    "display_name": "Qualifying Hindi"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md"
+    ],
+    "notes": "Authoritative six-topic Qualifying Hindi catalogue in canonical order."
+  },
+  "topics": [
+    {
+      "topic_key": "qualifying-hindi-01",
+      "display_title": "शब्द भेद",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 01.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\01_शब्द-भेद.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\01_शब्द-भेद.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\HINDI-COMP.pdf",
+        "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+        "books\\more_previous_papers\\HINDI_0 (1).pdf",
+        "books\\more_previous_papers\\Hindi_0.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-hindi-02",
+      "display_title": "व्याकरण वर्तनी वाक्य शुद्धि",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 02.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\02_व्याकरण-वर्तनी-वाक्य-शुद्धि.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\02_व्याकरण-वर्तनी-वाक्य-शुद्धि.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\HINDI-COMP.pdf",
+        "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+        "books\\more_previous_papers\\HINDI_0 (1).pdf",
+        "books\\more_previous_papers\\Hindi_0.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-hindi-03",
+      "display_title": "शब्दावली मुहावरे लोकोक्तियाँ",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 03.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\03_शब्दावली-मुहावरे-लोकोक्तियाँ.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\03_शब्दावली-मुहावरे-लोकोक्तियाँ.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\HINDI-COMP.pdf",
+        "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+        "books\\more_previous_papers\\HINDI_0 (1).pdf",
+        "books\\more_previous_papers\\Hindi_0.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-hindi-04",
+      "display_title": "बोध और संक्षेपण",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 04.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\04_बोध-और-संक्षेपण.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\04_बोध-और-संक्षेपण.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\HINDI-COMP.pdf",
+        "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+        "books\\more_previous_papers\\HINDI_0 (1).pdf",
+        "books\\more_previous_papers\\Hindi_0.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-hindi-05",
+      "display_title": "निबन्ध लेखन",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 05.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\05_निबन्ध-लेखन.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\05_निबन्ध-लेखन.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\HINDI-COMP.pdf",
+        "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+        "books\\more_previous_papers\\HINDI_0 (1).pdf",
+        "books\\more_previous_papers\\Hindi_0.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-hindi-06",
+      "display_title": "अनुवाद",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 06.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\HINDI-COMP.pdf",
+        "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+        "books\\more_previous_papers\\HINDI_0 (1).pdf",
+        "books\\more_previous_papers\\Hindi_0.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    }
+  ]
+}

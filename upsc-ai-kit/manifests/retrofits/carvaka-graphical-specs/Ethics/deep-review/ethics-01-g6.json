@@ -1,0 +1,1302 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-01",
+  "subject": "Ethics",
+  "title": "ETHICS AND HUMAN INTERFACE",
+  "short_route": "WHERE ETHICS ENTERS EVERYDAY → FOUR WAYS TO ASK → ETHICS, MORALITY, LAW, AND → THE HUMAN INTERFACE: POWER → WHY VALUES NEED INSTITUTIONS → HOW SYSTEMS PRODUCE OR",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-01-deep-review-2026-09-06-g6.json",
+  "ascii_spec_sha256": "3d7c3a7032c0042fd1b0b1cd424e0969a5948c5d3356e5674d856024a7837902",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHERE ETHICS ENTERS EVERYDAY PUBLIC LIFE",
+      "structural_type": "concept ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHERE ETHICS ENTERS EVERYDAY PUBLIC LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ETHICS BEGINS WHERE CONDUCT AFFECTS ANOTHER PERSON OR",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ETHICS DERIVES FROM ETHIKOS AND POINTS TO STANDARDS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] SOCIETY PLACES STANDARDS ON ITSELF TO GUIDE CHOICES",
+          "role": "primary"
+        },
+        {
+          "text": "[4] VALUES ORIENT CONDUCT BEFORE A RULE IS CONSULTED.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] PUBLIC DUTY TESTS VALUES WHEN AUTHORITY MEETS CITIZEN",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] PRIVATE INTEREST CAN DISTORT JUDGMENT AT THIS POINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Where Ethics Enters Everyday Public Life",
+        "[1] Ethics begins where conduct affects another person or public trust.",
+        "[2] Ethics derives from ethikos and points to standards practised as habits.",
+        "[3] Society places standards on itself to guide choices and actions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Where Ethics Enters Everyday Public Life",
+            "[1] Ethics begins where conduct affects another person or public trust.",
+            "[2] Ethics derives from ethikos and points to standards practised as habits.",
+            "[3] Society places standards on itself to guide choices and actions."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Values orient conduct before a rule is consulted.",
+            "[5] Public duty tests values when authority meets citizen need.",
+            "[6] Private interest can distort judgment at this point of contact.",
+            "[7] Integrity joins declared standards to actual conduct under pressure.",
+            "[8] Corruption is a major manifestation of ethical failure."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Ethics is lived standards, not merely admirable language.",
+            "ANSWER USE → Open with ethics as standards guiding conduct, then locate the public interface.",
+            "MUST REMEMBER: Ethics is reasoned evaluation of right conduct, morality is a person or community's held code, values",
+            "overlap never makes these terms synonyms.",
+            "MUST REMEMBER: Ethics is reasoned evaluation of right conduct, morality is a person or..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Ethics is lived standards, not merely admirable language.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR WAYS TO ASK AN ETHICAL QUESTION",
+      "structural_type": "four-level inquiry grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR WAYS TO ASK AN ETHICAL QUESTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DESCRIPTIVE ETHICS RECORDS WHAT A GROUP ACTUALLY BELIEVES",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] NORMATIVE ETHICS ASKS WHAT A PERSON OUGHT TO",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] META-ETHICS TESTS THE MEANING AND TRUTH-STATUS OF MORAL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] APPLIED ETHICS BRINGS NORMATIVE STANDARDS TO A SPECIFIC",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] A SURVEY ON GIFT-TAKING IS DESCRIPTIVE RATHER THAN",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] A DUTY OR CONSEQUENCE ARGUMENT IS NORMATIVE RATHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Four Ways to Ask an Ethical Question",
+        "[1] Descriptive ethics records what a group actually believes or does.",
+        "[2] Normative ethics asks what a person ought to do and why.",
+        "[3] Meta-ethics tests the meaning and truth-status of moral language."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Meta-ethics tests the meaning and truth-status of moral language.",
+          "[7] A debate over the meaning of wrong is meta-ethical rather than applied."
+        ],
+        [
+          "Four Ways to Ask an Ethical Question",
+          "[4] Applied ethics brings normative standards to a specific professional field.",
+          "[8] GS-IV primarily rewards normative and applied ethical reasoning."
+        ],
+        [
+          "[1] Descriptive ethics records what a group actually believes or does.",
+          "[5] A survey on gift-taking is descriptive rather than justificatory.",
+          "VERDICT → Do not confuse a social fact with an ethical justification."
+        ],
+        [
+          "[2] Normative ethics asks what a person ought to do and why.",
+          "[6] A duty or consequence argument is normative rather than descriptive.",
+          "ANSWER USE → Name the inquiry level before applying a standard to an administrative case."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Four Ways to Ask an Ethical Question",
+            "[1] Descriptive ethics records what a group actually believes or does.",
+            "[2] Normative ethics asks what a person ought to do and why."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Meta-ethics tests the meaning and truth-status of moral language.",
+            "[4] Applied ethics brings normative standards to a specific professional field.",
+            "[5] A survey on gift-taking is descriptive rather than justificatory.",
+            "[6] A duty or consequence argument is normative rather than descriptive."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] A debate over the meaning of wrong is meta-ethical rather than applied.",
+            "[8] GS-IV primarily rewards normative and applied ethical reasoning.",
+            "VERDICT → Do not confuse a social fact with an ethical justification.",
+            "ANSWER USE → Name the inquiry level before applying a standard to an administrative case."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Do not confuse a social fact with an ethical justification.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ETHICS, MORALITY, LAW, AND PROPRIETY",
+      "structural_type": "three-test comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ETHICS, MORALITY, LAW, AND PROPRIETY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LEGALITY ASKS WHETHER ENACTED LAW HAS BEEN FOLLOWED.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MORALITY ASKS WHETHER CONDUCT MEETS A STANDARD OF",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] PROPRIETY ASKS WHETHER CONDUCT SUITS THE OFFICE AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] LEGAL CONDUCT CAN STILL UNDERMINE IMPARTIALITY OR PUBLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] A LAVISH DINNER FROM A BIDDER CAN FAIL",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] THE LETTER OF A RULE CANNOT EXHAUST EVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Ethics, Morality, Law, and Propriety",
+        "[1] Legality asks whether enacted law has been followed.",
+        "[2] Morality asks whether conduct meets a standard of right action.",
+        "[3] Propriety asks whether conduct suits the office and occasion."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Propriety asks whether conduct suits the office and occasion.",
+          "[7] The spirit of public duty requires visible as well as actual integrity."
+        ],
+        [
+          "Ethics, Morality, Law, and Propriety",
+          "[4] Legal conduct can still undermine impartiality or public confidence.",
+          "[8] A reasoned officer records and manages appearance-based conflicts."
+        ],
+        [
+          "[1] Legality asks whether enacted law has been followed.",
+          "[5] A lavish dinner from a bidder can fail propriety without a proven bribe.",
+          "VERDICT → Legal compliance is the floor; propriety protects the credibility of office."
+        ],
+        [
+          "[2] Morality asks whether conduct meets a standard of right action.",
+          "[6] The letter of a rule cannot exhaust every conflict of interest.",
+          "ANSWER USE → Use the bidder-dinner example to explain why legality is not the whole ethical test."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Ethics, Morality, Law, and Propriety",
+            "[1] Legality asks whether enacted law has been followed.",
+            "[2] Morality asks whether conduct meets a standard of right action."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Propriety asks whether conduct suits the office and occasion.",
+            "[4] Legal conduct can still undermine impartiality or public confidence.",
+            "[5] A lavish dinner from a bidder can fail propriety without a proven bribe.",
+            "[6] The letter of a rule cannot exhaust every conflict of interest."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] The spirit of public duty requires visible as well as actual integrity.",
+            "[8] A reasoned officer records and manages appearance-based conflicts.",
+            "VERDICT → Legal compliance is the floor; propriety protects the credibility of office.",
+            "ANSWER USE → Use the bidder-dinner example to explain why legality is not the whole ethical test."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Legal compliance is the floor; propriety protects the credibility of office.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE HUMAN INTERFACE: POWER MEETS CITIZEN NEED",
+      "structural_type": "interface flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE HUMAN INTERFACE",
+          "role": "primary"
+        },
+        {
+          "text": "POWER MEETS CITIZEN NEED",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] HUMAN INTERFACE IS WHERE PUBLIC DUTY MEETS A",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] THE INTERFACE BECOMES ETHICALLY CHARGED WHEN PRIVATE INTEREST",
+          "role": "primary"
+        },
+        {
+          "text": "[3] DISCRETION LETS AN OFFICIAL SHAPE ACCESS, TIMING, OR",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] VULNERABILITY MAKES DELAY AND INFORMATION ASYMMETRY MORE DAMAGING.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] A PENSION COUNTER CAN TURN ENTITLEMENT INTO DEPENDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Human Interface: Power Meets Citizen Need",
+        "[1] Human interface is where public duty meets a citizen's concrete need.",
+        "[2] The interface becomes ethically charged when private interest enters judgment.",
+        "[3] Discretion lets an official shape access, timing, or certification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Human Interface: Power Meets Citizen Need",
+            "[1] Human interface is where public duty meets a citizen's concrete need.",
+            "[2] The interface becomes ethically charged when private interest enters judgment."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Discretion lets an official shape access, timing, or certification.",
+            "[4] Vulnerability makes delay and information asymmetry more damaging.",
+            "[5] A pension counter can turn entitlement into dependence through discretion.",
+            "[6] Clear criteria reduce scope for personal preference at the interface."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Automation can reduce arbitrary contact when it retains appeal and access.",
+            "[8] Ethical service is timely, respectful, equal, and reviewable.",
+            "VERDICT → The ordinary service counter is a central site of public ethics.",
+            "ANSWER USE → Ground abstraction in an Indian service-delivery encounter."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The ordinary service counter is a central site of public ethics.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WHY VALUES NEED INSTITUTIONS",
+      "structural_type": "two-pillar synthesis",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WHY VALUES NEED INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] VALUES GIVE OFFICIALS AN INTERNAL REASON TO ACT",
+          "role": "institution"
+        },
+        {
+          "text": "[2] INSTITUTIONS GIVE VALUES PROCEDURES, SUPERVISION, AND CONSEQUENCES.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MORAL EDUCATION ALONE LEAVES TEMPTATION-PRODUCING SYSTEMS UNTOUCHED.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PUNISHMENT ALONE IGNORES CULTURE, INCENTIVES, AND ETHICAL JUDGMENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] TRANSPARENT CRITERIA MAKE FAIR CONDUCT EASIER TO VERIFY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] COMPETENT DISCIPLINARY MACHINERY GIVES VIOLATIONS CREDIBLE CONSEQUENCES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Why Values Need Institutions",
+        "[1] Values give officials an internal reason to act with integrity.",
+        "[2] Institutions give values procedures, supervision, and consequences.",
+        "[3] Moral education alone leaves temptation-producing systems untouched."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Why Values Need Institutions",
+            "[1] Values give officials an internal reason to act with integrity.",
+            "[2] Institutions give values procedures, supervision, and consequences."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Moral education alone leaves temptation-producing systems untouched.",
+            "[4] Punishment alone ignores culture, incentives, and ethical judgment.",
+            "[5] Transparent criteria make fair conduct easier to verify.",
+            "[6] Competent disciplinary machinery gives violations credible consequences."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Audit trails make discretionary acts accountable to evidence.",
+            "[8] Durable integrity requires values contained within institutions.",
+            "VERDICT → Values and institutions are complementary, not rival explanations.",
+            "ANSWER USE → Use the synthesis to answer causes and remedies together."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Use the synthesis to answer causes and remedies together.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "HOW SYSTEMS PRODUCE OR PREVENT CORRUPTION",
+      "structural_type": "causal chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW SYSTEMS PRODUCE OR PREVENT CORRUPTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] COLONIAL HABITS NORMALISED UNCHALLENGED OFFICIAL AUTHORITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ASYMMETRIC POWER WEAKENS CITIZEN PRESSURE FOR ETHICAL CONDUCT.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] OVER-REGULATION MADE CITIZENS DEPENDENT ON OFFICIAL DISCRETION.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MONOPOLY AND OPACITY INCREASE OPPORTUNITIES FOR RENT-SEEKING.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] OVER-CENTRALISATION LENGTHENS THE PATH FROM AUTHORITY TO ACCOUNTABILITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] COMPETITION AND CHOICE CAN REDUCE DISCRETION-BASED CORRUPTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "How Systems Produce or Prevent Corruption",
+        "[1] Colonial habits normalised unchallenged official authority.",
+        "[2] Asymmetric power weakens citizen pressure for ethical conduct.",
+        "[3] Over-regulation made citizens dependent on official discretion."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "How Systems Produce or Prevent Corruption",
+            "[1] Colonial habits normalised unchallenged official authority.",
+            "[2] Asymmetric power weakens citizen pressure for ethical conduct."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Over-regulation made citizens dependent on official discretion.",
+            "[4] Monopoly and opacity increase opportunities for rent-seeking.",
+            "[5] Over-centralisation lengthens the path from authority to accountability.",
+            "[6] Competition and choice can reduce discretion-based corruption."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Transparency and automation can narrow the scope for concealed bargains.",
+            "[8] Political incentives can displace corruption into protected sectors.",
+            "VERDICT → Corruption is often produced by incentives and power structures.",
+            "ANSWER USE → Explain mechanism before prescribing transparency, competition, or decentralisation."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Explain mechanism before prescribing transparency, competition, or decentralisation.",
+      "answer_line": "VERDICT → Corruption is often produced by incentives and power structures.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COERCIVE AND COLLUSIVE CORRUPTION: DO NOT CONFUSE THEM",
+      "structural_type": "contrast matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COERCIVE AND COLLUSIVE CORRUPTION",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT CONFUSE THEM",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] COERCIVE CORRUPTION EXTRACTS PAYMENT FOR AN ENTITLED PUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] THE COERCED CITIZEN IS AN UNWILLING VICTIM OF",
+          "role": "primary"
+        },
+        {
+          "text": "[3] COLLUSIVE CORRUPTION GIVES PRIVATE GAIN TO BOTH GIVER",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SOCIETY BEARS THE COST OF COLLUSION THROUGH LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] A DELAYED PENSION FOR SPEED MONEY IS COERCIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Coercive and Collusive Corruption: Do Not Confuse Them",
+        "[1] Coercive corruption extracts payment for an entitled public service.",
+        "[2] The coerced citizen is an unwilling victim of official power.",
+        "[3] Collusive corruption gives private gain to both giver and taker."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Collusive corruption gives private gain to both giver and taker.",
+          "[7] Victim-safe complaints are essential against coercive extraction."
+        ],
+        [
+          "Coercive and Collusive Corruption: Do Not Confuse Them",
+          "[4] Society bears the cost of collusion through loss, danger, or unfairness.",
+          "[8] Audit and investigation of networks are essential against collusion."
+        ],
+        [
+          "[1] Coercive corruption extracts payment for an entitled public service.",
+          "[5] A delayed pension for speed money is coercive corruption.",
+          "VERDICT → Classify the relationship before choosing an anti-corruption response."
+        ],
+        [
+          "[2] The coerced citizen is an unwilling victim of official power.",
+          "[6] False road certification by engineer and contractor is collusive corruption.",
+          "ANSWER USE → Contrast victim protection with network disruption in one compact paragraph."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Coercive and Collusive Corruption: Do Not Confuse Them",
+            "[1] Coercive corruption extracts payment for an entitled public service.",
+            "[2] The coerced citizen is an unwilling victim of official power."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Collusive corruption gives private gain to both giver and taker.",
+            "[4] Society bears the cost of collusion through loss, danger, or unfairness.",
+            "[5] A delayed pension for speed money is coercive corruption.",
+            "[6] False road certification by engineer and contractor is collusive corruption."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Victim-safe complaints are essential against coercive extraction.",
+            "[8] Audit and investigation of networks are essential against collusion.",
+            "VERDICT → Classify the relationship before choosing an anti-corruption response.",
+            "ANSWER USE → Contrast victim protection with network disruption in one compact paragraph."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Classify the relationship before choosing an anti-corruption response.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CITIZEN POWER, TRANSPARENCY, AND ETHICAL GOVERNANCE",
+      "structural_type": "empowerment loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CITIZEN POWER, TRANSPARENCY, AND ETHICAL GOVERNANCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] INFORMATION CORRECTS THE CITIZEN'S KNOWLEDGE DISADVANTAGE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] A MEANINGFUL CHARTER STATES SERVICE, FEE, TIME, OFFICER",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] STAKEHOLDER PARTICIPATION GIVES AFFECTED PERSONS VOICE BEFORE DECISIONS.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PUBLIC CONSULTATION MAKES POLICY REASONS CONTESTABLE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] SOCIAL AUDIT TESTS OFFICIAL RECORDS AGAINST COMMUNITY EXPERIENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] RTI CAN EXPOSE UNEXPLAINED DELAY AND HIDDEN DECISION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Citizen Power, Transparency, and Ethical Governance",
+        "[1] Information corrects the citizen's knowledge disadvantage.",
+        "[2] A meaningful charter states service, fee, time, officer, and remedy.",
+        "[3] Stakeholder participation gives affected persons voice before decisions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Citizen Power, Transparency, and Ethical Governance",
+            "[1] Information corrects the citizen's knowledge disadvantage.",
+            "[2] A meaningful charter states service, fee, time, officer, and remedy."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Stakeholder participation gives affected persons voice before decisions.",
+            "[4] Public consultation makes policy reasons contestable.",
+            "[5] Social audit tests official records against community experience.",
+            "[6] RTI can expose unexplained delay and hidden decision grounds."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Assisted access prevents digital systems from reproducing exclusion.",
+            "[8] Rule-of-law enforcement remains necessary after prevention fails.",
+            "VERDICT → Empowerment turns the citizen from supplicant into an accountability actor.",
+            "ANSWER USE → Link each tool to the asymmetry of power it corrects."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Empowerment turns the citizen from supplicant into an accountability actor.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONSTITUTIONAL MORALITY AND NATIONAL POWER",
+      "structural_type": "constitutional capacity bridge",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL MORALITY AND NATIONAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CONSTITUTIONAL MORALITY IS CULTIVATED RATHER THAN NATURALLY INHERITED.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] CIVIL EDUCATION DEVELOPS RESPECT FOR CONSTITUTIONAL VALUES.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] RULE-OF-LAW PRACTICE DISCIPLINES PERSONAL PREJUDICE AND ARBITRARY POWER.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] EQUALITY AND DIGNITY GUIDE TREATMENT OF UNPOPULAR MINORITIES.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] FAIR PROCEDURE MAKES ADMINISTRATIVE REASONS VISIBLE AND CONTESTABLE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] ETHICAL GOVERNANCE IMPROVES TRUST AND SOCIAL HARMONY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Constitutional Morality and National Power",
+        "[1] Constitutional morality is cultivated rather than naturally inherited.",
+        "[2] Civil education develops respect for constitutional values.",
+        "[3] Rule-of-law practice disciplines personal prejudice and arbitrary power."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Constitutional Morality and National Power",
+            "[1] Constitutional morality is cultivated rather than naturally inherited.",
+            "[2] Civil education develops respect for constitutional values."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Rule-of-law practice disciplines personal prejudice and arbitrary power.",
+            "[4] Equality and dignity guide treatment of unpopular minorities.",
+            "[5] Fair procedure makes administrative reasons visible and contestable.",
+            "[6] Ethical governance improves trust and social harmony."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Integrity strengthens economic, strategic, scientific, and diplomatic capacity.",
+            "[8] CNP needs material capacity but values make it credible and durable.",
+            "VERDICT → Constitutional morality converts public power into legitimate authority.",
+            "ANSWER USE → Connect constitutional values to good governance, accountability, and social cohesion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Constitutional morality converts public power into legitimate authority.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WRITING A BALANCED GS-IV ETHICS ANSWER",
+      "structural_type": "answer spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WRITING A BALANCED GS-IV ETHICS ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DEFINE THE ETHICAL CONCEPT WITH A CLEAR BOUNDARY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] STATE A THESIS THAT ANSWERS THE DIRECTIVE RATHER",
+          "role": "institution"
+        },
+        {
+          "text": "[3] EXPLAIN TWO OR THREE MECHANISMS THAT MAKE THE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] USE ONE NAMED INDIAN ADMINISTRATIVE ILLUSTRATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] DISTINGUISH RELATED CONCEPTS BEFORE COMPARING THEM.",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] TEST THE INSTITUTIONAL AND VALUE DIMENSIONS TOGETHER.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Writing a Balanced GS-IV Ethics Answer",
+        "[1] Define the ethical concept with a clear boundary.",
+        "[2] State a thesis that answers the directive rather than repeats it.",
+        "[3] Explain two or three mechanisms that make the thesis true."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Writing a Balanced GS-IV Ethics Answer",
+            "[1] Define the ethical concept with a clear boundary.",
+            "[2] State a thesis that answers the directive rather than repeats it.",
+            "[3] Explain two or three mechanisms that make the thesis true."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Use one named Indian administrative illustration.",
+            "[5] Distinguish related concepts before comparing them.",
+            "[6] Test the institutional and value dimensions together.",
+            "[7] Add one genuine limitation or counterpoint.",
+            "[8] Conclude with a qualified, implementable verdict."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → A GS-IV answer earns depth through mechanism and qualification.",
+            "ANSWER USE → Use this sequence for 10, 15, and 20-mark theory answers.",
+            "CLOSE DISTINCTION: Legality, morality and propriety use different tests: lawful action can remain ethically deficient, conscience cannot cancel",
+            "valid law by assertion, and constitutional morality is a public justificatory discipline rather than an official's private preference.",
+            "CLOSE DISTINCTION: Legality, morality and propriety use different tests: lawful action..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A GS-IV answer earns depth through mechanism and qualification.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ AND TRAP REPAIR",
+      "structural_type": "close-option repair grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MCQ AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ETHICS AND MORALITY ARE RELATED BUT NOT TECHNICALLY",
+          "role": "caution"
+        },
+        {
+          "text": "[2] DESCRIPTIVE EVIDENCE DOES NOT ITSELF PROVE A NORMATIVE",
+          "role": "caution"
+        },
+        {
+          "text": "[3] META-ETHICS IS NOT THE SAME AS APPLIED ETHICAL",
+          "role": "caution"
+        },
+        {
+          "text": "[4] LEGAL CONDUCT CAN FAIL PROPRIETY AT A PUBLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] COERCIVE CORRUPTION HAS AN UNWILLING VICTIM SEEKING AN",
+          "role": "comparison"
+        },
+        {
+          "text": "[6] COLLUSIVE CORRUPTION CREATES SHARED PRIVATE BENEFIT AND PUBLIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ and trap repair",
+        "[1] Ethics and morality are related but not technically identical.",
+        "[2] Descriptive evidence does not itself prove a normative conclusion.",
+        "[3] Meta-ethics is not the same as applied ethical decision-making."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[5] Coercive corruption has an unwilling victim seeking an entitlement.",
+          "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Administrative examples must identify power, affected citizen, duty, incentive and institutional safeguard"
+        ],
+        [
+          "MCQ and trap repair",
+          "[6] Collusive corruption creates shared private benefit and public loss.",
+          "ARC claims and Mission"
+        ],
+        [
+          "[1] Ethics and morality are related but not technically identical.",
+          "[7] Decentralisation needs audit and capacity to avoid local capture.",
+          "Karmayogi figures retain report or release dates and do not become timeless proof of ethical conduct."
+        ],
+        [
+          "[2] Descriptive evidence does not itself prove a normative conclusion.",
+          "[8] Technology reduces discretion only when access and appeals remain real.",
+          "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Administrative examples must identify power,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ and trap repair",
+            "[1] Ethics and morality are related but not technically identical.",
+            "[2] Descriptive evidence does not itself prove a normative conclusion.",
+            "[3] Meta-ethics is not the same as applied ethical decision-making."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[5] Coercive corruption has an unwilling victim seeking an entitlement.",
+            "[6] Collusive corruption creates shared private benefit and public loss.",
+            "[7] Decentralisation needs audit and capacity to avoid local capture.",
+            "[8] Technology reduces discretion only when access and appeals remain real.",
+            "VERDICT → Identify the decisive threshold, not the familiar word, in close options."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Administrative examples must identify power, affected citizen, duty, incentive and institutional safeguard",
+            "ARC claims and Mission",
+            "Karmayogi figures retain report or release dates and do not become timeless proof of ethical conduct.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Administrative examples must identify power,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Identify the decisive threshold, not the familiar word, in close options.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SYNTHESIS",
+      "structural_type": "exam synthesis rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE 2024 ROUTED THEME TESTS DIMENSIONS SHAPING PROFESSIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THE 2025 OFFICIAL QUESTION TESTS CONSTITUTIONAL MORALITY IN",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] CNP ANSWERS NEED ECONOMIC, STRATEGIC, SOCIAL, AND CREDIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "[4] HUMAN-INTERFACE ANSWERS NEED A CONCRETE CITIZEN-OFFICIAL ENCOUNTER.",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] CORRUPTION ANSWERS NEED VALUES-PLUS-INSTITUTIONS RATHER THAN ONE CAUSE.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[6] CITIZEN-EMPOWERMENT ANSWERS NEED INFORMATION, VOICE, REMEDY, AND ENFORCEMENT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ and answer synthesis",
+        "[1] The 2024 routed theme tests dimensions shaping professional ethical decisions.",
+        "[2] The 2025 official question tests constitutional morality in public service.",
+        "[3] CNP answers need economic, strategic, social, and credibility mechanisms."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ and answer synthesis",
+            "[1] The 2024 routed theme tests dimensions shaping professional ethical decisions.",
+            "[2] The 2025 official question tests constitutional morality in public service."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] CNP answers need economic, strategic, social, and credibility mechanisms.",
+            "[4] Human-interface answers need a concrete citizen-official encounter.",
+            "[5] Corruption answers need values-plus-institutions rather than one cause.",
+            "[6] Citizen-empowerment answers need information, voice, remedy, and enforcement."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] A limitation prevents a formulaic and one-sided conclusion.",
+            "[8] A verdict must state the safeguard that makes reform ethically durable.",
+            "VERDICT → Translate every PYQ into a thesis, mechanism, illustration, limitation, and verdict.",
+            "ANSWER USE → Use this rail as the final revision checklist before a GS-IV response."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Translate every PYQ into a thesis, mechanism, illustration, limitation, and verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g5\\ethics-01_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-01\\g6\\ethics-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED CAUSAL CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed causal chain",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current-anchor note",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

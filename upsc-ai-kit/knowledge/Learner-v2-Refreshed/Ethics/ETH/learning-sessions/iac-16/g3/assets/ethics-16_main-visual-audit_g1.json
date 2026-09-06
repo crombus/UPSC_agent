@@ -1,0 +1,1316 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-16_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-16_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 42,
+      "heading": "SESSION 1 - Why public institutions need both ethical aspiration and conduct control",
+      "preview": "**Subject:** Ethics | **GS Paper:** GS-IV | **Topic owner:** 16 **Scope:** aspirational Codes of Ethics, enforceable Codes of Conduct, values-to-rules translation, civil servants, Ministers, legislators, conflicts, implementation and fair e",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 736.891
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 578.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 47,
+      "markdown_body_line_end": 65,
+      "heading": "1. Why public institutions need both kinds of code",
+      "preview": "ENTRUSTED PUBLIC OFFICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 553.924
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 372.924
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 91,
+      "heading": "2. The controlling distinction",
+      "preview": "Dimension | Code of Ethics | Code of Conduct",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "Code of Ethics",
+          "Code of Conduct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 741.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 501.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 117,
+      "heading": "The most important qualification",
+      "preview": "**UPSC trap:** “Code of Ethics has no sanction; Code of Conduct has sanction” is a useful first contrast but an unsafe absolute. Add the incorporation-and-due-process qualification.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 218.89
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 174.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 126,
+      "markdown_body_line_end": 143,
+      "heading": "3. Translating values into rules",
+      "preview": "CONSTITUTIONAL / PUBLIC-SERVICE VALUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 741.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 570.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 229,
+      "heading": "What must not be falsely claimed",
+      "preview": "**Factual correction:** the direct “not yet put in place” question is **2024 GS-IV Q5(a)**. In the local official **2025** paper, Q5(a) concerns devotion to duty; the direct organisational code question is **2025 GS-IV Q6(a)**.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 245.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 200.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 244,
+      "heading": "CCS rule families",
+      "preview": "Rule family | Safe exam-level use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Rule family",
+          "Safe exam-level use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 562.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 289,
+      "heading": "Political neutrality",
+      "preview": "BEFORE POLICY DECISION                AFTER LAWFUL DECISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 151.39
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 60.39
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 322,
+      "heading": "Definition and types",
+      "preview": "Type | Meaning | India-centric example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Meaning",
+          "India-centric example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 478.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 379.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 340,
+      "heading": "Management ladder",
+      "preview": "IDENTIFY",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 324.09
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 203.09
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 488,
+      "markdown_body_line_end": 493,
+      "heading": "Ethics-office functions",
+      "preview": "Preventive | Monitoring | Corrective/learning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Preventive",
+          "Monitoring",
+          "Corrective/learning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 551.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 442.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 538,
+      "heading": "Balanced indicators",
+      "preview": "Leading indicators | Lagging indicators",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Leading indicators",
+          "Lagging indicators"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 727.391
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 575.59
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 579,
+      "heading": "15. Sanctions and due process",
+      "preview": "VALID APPLICABLE RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 258.99
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 117.99
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 610,
+      "heading": "16. Loopholes and ritual compliance",
+      "preview": "Loophole | Purpose-sensitive response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Loophole",
+          "Purpose-sensitive response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 590.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 417.69
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 656,
+      "heading": "18. Official PYQ routes",
+      "preview": "Year | Route | Topic demand",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Route",
+          "Topic demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 505.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 680,
+      "heading": "10 marks",
+      "preview": "Definition/distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 368.59
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 267.59
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 704,
+      "heading": "20 marks",
+      "preview": "**Answer-grabbing line:** A mature ethics regime does not choose between values and compliance; it makes values usable before misconduct and compliance legitimate after it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 672.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1882,
+      "markdown_body_line_end": 1886,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER** **Subject:** Ethics | **GS Paper:** GS-IV | **Topic owner:** 16 This companion deepens institutional design, jurisprudential limits, comparative reasoning and enforcement trade-of",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1891,
+      "markdown_body_line_end": 1905,
+      "heading": "1. Codes as an institutional system, not a document pair",
+      "preview": "ETHICS INFRASTRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 261.724
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 120.724
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1922,
+      "markdown_body_line_end": 1929,
+      "heading": "2. A spectrum rather than a watertight binary",
+      "preview": "Instrument | Typical character | Advanced qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Instrument",
+          "Typical character",
+          "Advanced qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 705.991
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 498.19
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1938,
+      "markdown_body_line_end": 1938,
+      "heading": "Minimum-compliance paradox",
+      "preview": "“Everything outside the prohibited list is ethically acceptable.”",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 414.39
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 383.922
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1975,
+      "markdown_body_line_end": 1977,
+      "heading": "Current status formulation",
+      "preview": "India has enforceable conduct rules containing ethical duties, but the Second ARC-recommended comprehensive and coherent civil-service Code of Ethics/public-service-values framework remains unimplemented as a distinct national architecture.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 768.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 709.224
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1989,
+      "markdown_body_line_end": 2013,
+      "heading": "Example: integrity",
+      "preview": "INTEGRITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 589.924
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 348.924
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2031,
+      "markdown_body_line_end": 2035,
+      "heading": "5. Political neutrality and responsive government",
+      "preview": "Relationship | Duty",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Relationship",
+          "Duty"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 144.624
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 56.422
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2061,
+      "markdown_body_line_end": 2066,
+      "heading": "Four categories",
+      "preview": "Category | Default ethical treatment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Category",
+          "Default ethical treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 533.391
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 423.99
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2091,
+      "markdown_body_line_end": 2096,
+      "heading": "Management options",
+      "preview": "LOW / REMOTE RISK ------------------------------ HIGH / DIRECT RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 712.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2131,
+      "markdown_body_line_end": 2145,
+      "heading": "Substance-over-form analysis",
+      "preview": "FORMAL RECIPIENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 284.791
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 143.791
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2198,
+      "markdown_body_line_end": 2203,
+      "heading": "10. Ministers: political accountability and procedural fairness",
+      "preview": "Civil servant | Minister",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Civil servant",
+          "Minister"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 295.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 185.89
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2261,
+      "markdown_body_line_end": 2269,
+      "heading": "Better dashboard",
+      "preview": "Dimension | Indicator | Interpretation caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "Indicator",
+          "Interpretation caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 614.29
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2301,
+      "markdown_body_line_end": 2309,
+      "heading": "14. Loopholes versus vagueness",
+      "preview": "VERY DETAILED RULES                       VERY GENERAL PRINCIPLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 252.89
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 171.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2335,
+      "heading": "Competence ladder",
+      "preview": "Level | Capability",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Level",
+          "Capability"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 708.191
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 535.19
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2426,
+      "markdown_body_line_end": 2427,
+      "heading": "Part V - enforcement boundary",
+      "preview": "This Code guides aspiration, judgment, leadership, advice and interpretation. Disciplinary consequence arises only under applicable law or conduct rules through the competent procedure.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 104.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 59.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2471,
+      "markdown_body_line_end": 2479,
+      "heading": "2018 cluster",
+      "preview": "DISTINGUISH THE CODES",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 357.591
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 276.591
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2501,
+      "markdown_body_line_end": 2507,
+      "heading": "“Distinguish”",
+      "preview": "Step | Content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Step",
+          "Content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 636.69
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2510,
+      "markdown_body_line_end": 2520,
+      "heading": "“Suggest a model”",
+      "preview": "VALUES",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 614.69
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 513.69
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2532,
+      "markdown_body_line_end": 2534,
+      "heading": "“Critically examine”",
+      "preview": "**Advanced conclusion:** Ethics codes should enlarge judgment without enlarging arbitrary punishment; conduct codes should discipline behaviour without shrinking public service into box-ticking.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 369.29
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 324.622
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2619,
+      "markdown_body_line_end": 2648,
+      "heading": "ASCII PANEL 1/12 - 1. Dual-code foundation",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 670.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2682,
+      "heading": "ASCII PANEL 2/12 - 2. Values-to-rules translation",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2686,
+      "markdown_body_line_end": 2715,
+      "heading": "ASCII PANEL 3/12 - 3. Civil-service conduct map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2749,
+      "heading": "ASCII PANEL 4/12 - 4. Neutral advice and implementation",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2753,
+      "markdown_body_line_end": 2782,
+      "heading": "ASCII PANEL 5/12 - 5. Conflict management ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2786,
+      "markdown_body_line_end": 2816,
+      "heading": "ASCII PANEL 6/12 - 6. Gift asset and outside-work controls",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2820,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII PANEL 7/12 - 7. Ministers and legislators",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2883,
+      "heading": "ASCII PANEL 8/12 - 8. Ethics-office ownership",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2887,
+      "markdown_body_line_end": 2916,
+      "heading": "ASCII PANEL 9/12 - 9. Fair enforcement route",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2920,
+      "markdown_body_line_end": 2949,
+      "heading": "ASCII PANEL 10/12 - 10. Loophole and circumvention test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2953,
+      "markdown_body_line_end": 2982,
+      "heading": "ASCII PANEL 11/12 - 11. Ethical-competence cycle",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2986,
+      "markdown_body_line_end": 3015,
+      "heading": "ASCII PANEL 12/12 - 12. Complete examiner answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3019,
+      "markdown_body_line_end": 3032,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 80.69
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    }
+  ]
+}

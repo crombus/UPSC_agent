@@ -1,0 +1,1128 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-04",
+  "subject": "Disaster-Management",
+  "title": "MULTI-HAZARD EARLY WARNING AND DISASTER TECHNOLOGY",
+  "short_route": "END-TO-END MHEWS RAIL → RISK-KNOWLEDGE STACK → OBSERVATION-TO-WARNING FIREWALL → DISSEMINATION REDUNDANCY → WARNING-TO-ACTION TEST → AGENCY OWNERSHIP MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-04-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "668d8b3c164d8d41d3f92cdaa40a044bdd43247377f16eb7c8112f55db31dd18",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "END-TO-END MHEWS RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "END-TO-END MHEWS RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 RISK KNOWLEDGE",
+          "role": "caution"
+        },
+        {
+          "text": "2 MONITOR",
+          "role": "comparison"
+        },
+        {
+          "text": "3 AUTHORITATIVE WARNING",
+          "role": "evidence"
+        },
+        {
+          "text": "4 DISSEMINATE",
+          "role": "primary"
+        },
+        {
+          "text": "5 PREPARE",
+          "role": "outcome"
+        },
+        {
+          "text": "6 FEEDBACK",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1 RISK KNOWLEDGE",
+        "2 MONITOR / OBSERVE / FORECAST",
+        "3 AUTHORITATIVE WARNING",
+        "4 DISSEMINATE → 5 PREPARE / ACT → 6 FEEDBACK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 RISK KNOWLEDGE",
+            "2 MONITOR / OBSERVE / FORECAST"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 AUTHORITATIVE WARNING",
+            "4 DISSEMINATE → 5 PREPARE / ACT → 6 FEEDBACK"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 RISK KNOWLEDGE",
+            "2 MONITOR / OBSERVE / FORECAST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4 DISSEMINATE → 5 PREPARE / ACT → 6 FEEDBACK.",
+      "source_references": [
+        "End-to-end MHEWS",
+        "Last-mile feedback",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RISK-KNOWLEDGE STACK",
+      "structural_type": "layered-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RISK-KNOWLEDGE STACK",
+          "role": "caution"
+        },
+        {
+          "text": "HAZARD + EXPOSURE + VULNERABILITY + CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SPATIAL LAYERS + HISTORICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "REAL-TIME DATA",
+          "role": "evidence"
+        },
+        {
+          "text": "WHO WHERE WHEN WHAT ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY AND EVENT FEEDBACK",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HAZARD + EXPOSURE + VULNERABILITY + CAPACITY",
+        "SPATIAL LAYERS + HISTORICAL / REAL-TIME DATA",
+        "DECISION → WHO WHERE WHEN WHAT ACTION",
+        "UPDATE → COMMUNITY AND EVENT FEEDBACK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "HAZARD + EXPOSURE + VULNERABILITY + CAPACITY",
+            "SPATIAL LAYERS + HISTORICAL / REAL-TIME DATA"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DECISION → WHO WHERE WHEN WHAT ACTION",
+            "UPDATE → COMMUNITY AND EVENT FEEDBACK"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "HAZARD + EXPOSURE + VULNERABILITY + CAPACITY",
+            "SPATIAL LAYERS + HISTORICAL / REAL-TIME DATA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DECISION → WHO WHERE WHEN WHAT ACTION; UPDATE → COMMUNITY AND EVENT FEEDBACK.",
+      "source_references": [
+        "Risk knowledge",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "OBSERVATION-TO-WARNING FIREWALL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "OBSERVATION-TO-WARNING FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "QUALITY CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "MODEL + EXPERT ANALYSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPETENT AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "NOT RAW DATA",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SENSOR / REPORT → QUALITY CONTROL",
+        "MODEL + EXPERT ANALYSIS → FORECAST / ASSESSMENT",
+        "COMPETENT AUTHORITY → WARNING",
+        "PUBLIC ACTION → NOT RAW DATA"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SENSOR / REPORT → QUALITY CONTROL",
+            "MODEL + EXPERT ANALYSIS → FORECAST / ASSESSMENT"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMPETENT AUTHORITY → WARNING",
+            "PUBLIC ACTION → NOT RAW DATA"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SENSOR / REPORT → QUALITY CONTROL",
+            "MODEL + EXPERT ANALYSIS → FORECAST / ASSESSMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MODEL + EXPERT ANALYSIS → FORECAST / ASSESSMENT.",
+      "source_references": [
+        "Monitoring and forecasting",
+        "Authoritative warning",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DISSEMINATION REDUNDANCY",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DISSEMINATION REDUNDANCY",
+          "role": "primary"
+        },
+        {
+          "text": "CAP MESSAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL RELAY",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC ADDRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "POWER + NETWORK + MANUAL PATH",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CAP MESSAGE → SMS / CELL / APP / WEB",
+        "CAP MESSAGE → RADIO / TV / SIREN",
+        "LOCAL RELAY → VOLUNTEER / PUBLIC ADDRESS",
+        "BACKUP → POWER + NETWORK + MANUAL PATH"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CAP MESSAGE → SMS / CELL / APP / WEB",
+            "CAP MESSAGE → RADIO / TV / SIREN"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "LOCAL RELAY → VOLUNTEER / PUBLIC ADDRESS",
+            "BACKUP → POWER + NETWORK + MANUAL PATH"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CAP MESSAGE → SMS / CELL / APP / WEB",
+            "CAP MESSAGE → RADIO / TV / SIREN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BACKUP → POWER + NETWORK + MANUAL PATH.",
+      "source_references": [
+        "Dissemination",
+        "Interoperability and redundancy",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WARNING-TO-ACTION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WARNING-TO-ACTION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "ACTION FEASIBLE?",
+          "role": "outcome"
+        },
+        {
+          "text": "SHELTER AVAILABLE?",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY ACTION OR LAST-MILE FAILURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RECEIVED? → UNDERSTOOD?",
+        "TRUSTED? → ACTION FEASIBLE?",
+        "ROUTE / TRANSPORT / SHELTER AVAILABLE?",
+        "RESULT → EARLY ACTION OR LAST-MILE FAILURE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "RECEIVED? → UNDERSTOOD?",
+            "TRUSTED? → ACTION FEASIBLE?"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ROUTE / TRANSPORT / SHELTER AVAILABLE?",
+            "RESULT → EARLY ACTION OR LAST-MILE FAILURE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RECEIVED? → UNDERSTOOD?",
+            "TRUSTED? → ACTION FEASIBLE?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROUTE / TRANSPORT / SHELTER AVAILABLE?; RESULT → EARLY ACTION OR LAST-MILE FAILURE.",
+      "source_references": [
+        "Preparedness and action",
+        "Last-mile feedback",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AGENCY OWNERSHIP MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGENCY OWNERSHIP MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "RIVER FLOOD FORECAST",
+          "role": "outcome"
+        },
+        {
+          "text": "EARTH OBSERVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NDMA + STATE",
+          "role": "institution"
+        },
+        {
+          "text": "INTEGRATION AND ACTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "IMD → WEATHER / CYCLONE",
+        "CWC → RIVER FLOOD FORECAST",
+        "INCOIS → TSUNAMI",
+        "ISRO / NRSC → EARTH OBSERVATION / GIS",
+        "NDMA + STATE / LOCAL → INTEGRATION AND ACTION"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "IMD → WEATHER / CYCLONE",
+          "INCOIS → TSUNAMI",
+          "NDMA + STATE / LOCAL → INTEGRATION AND ACTION"
+        ],
+        [
+          "CWC → RIVER FLOOD FORECAST",
+          "ISRO / NRSC → EARTH OBSERVATION / GIS",
+          "IMD → WEATHER / CYCLONE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "IMD → WEATHER / CYCLONE",
+            "CWC → RIVER FLOOD FORECAST"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INCOIS → TSUNAMI",
+            "ISRO / NRSC → EARTH OBSERVATION / GIS"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "NDMA + STATE / LOCAL → INTEGRATION AND ACTION",
+            "IMD → WEATHER / CYCLONE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NDMA + STATE / LOCAL → INTEGRATION AND ACTION.",
+      "source_references": [
+        "IMD role",
+        "CWC role",
+        "INCOIS role",
+        "ISRO and NRSC role",
+        "NDMA and local roles",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CAP AND SACHET BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CAP AND SACHET BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURED MESSAGE FORMAT",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL ALERT PORTAL",
+          "role": "comparison"
+        },
+        {
+          "text": "DISSEMINATION LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANNEL-FORMAT INTEROPERABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "DOES NOT SOLVE",
+          "role": "caution"
+        },
+        {
+          "text": "HAZARD OWNERSHIP OR LOCAL READINESS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CAP → structured message format",
+        "SACHET → national alert portal / dissemination layer",
+        "SOLVES → channel-format interoperability",
+        "DOES NOT SOLVE → hazard ownership or local readiness"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "CAP → structured message format",
+          "SOLVES → channel-format interoperability",
+          "CAP → structured message format"
+        ],
+        [
+          "SACHET → national alert portal / dissemination layer",
+          "DOES NOT SOLVE → hazard ownership or local readiness",
+          "SACHET → national alert portal / dissemination layer"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "CAP → structured message format",
+            "SACHET → national alert portal / dissemination layer"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SOLVES → channel-format interoperability",
+            "DOES NOT SOLVE → hazard ownership or local readiness"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAP → structured message format",
+            "SACHET → national alert portal / dissemination layer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DOES NOT SOLVE → hazard ownership or local readiness.",
+      "source_references": [
+        "CAP and SACHET",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GEOSPATIAL DECISION CYCLE",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GEOSPATIAL DECISION CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "FIELD DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "GIS LAYERS",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK MAP",
+          "role": "caution"
+        },
+        {
+          "text": "EVENT IMAGE",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOVERY MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFER SITING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SATELLITE / AERIAL / FIELD DATA",
+        "GIS LAYERS → RISK MAP / ROUTE / SHELTER",
+        "EVENT IMAGE → DAMAGE / ACCESS ASSESSMENT",
+        "RECOVERY MAP → SAFER SITING"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SATELLITE / AERIAL / FIELD DATA",
+            "GIS LAYERS → RISK MAP / ROUTE / SHELTER"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVENT IMAGE → DAMAGE / ACCESS ASSESSMENT",
+            "RECOVERY MAP → SAFER SITING"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SATELLITE / AERIAL / FIELD DATA",
+            "GIS LAYERS → RISK MAP / ROUTE / SHELTER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GIS LAYERS → RISK MAP / ROUTE / SHELTER.",
+      "source_references": [
+        "GIS and remote sensing",
+        "ISRO and NRSC role",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SENSOR-HAZARD MATCHING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SENSOR-HAZARD MATCHING",
+          "role": "primary"
+        },
+        {
+          "text": "DOPPLER RADAR",
+          "role": "outcome"
+        },
+        {
+          "text": "WEATHER STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEA LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "OCEAN RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "SEISMIC NETWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "EARTHQUAKE PARAMETERS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DOPPLER RADAR → WEATHER STRUCTURE",
+        "GAUGE → RAIN / RIVER / SEA LEVEL",
+        "BUOY / BPR → OCEAN RESPONSE",
+        "SEISMIC NETWORK → EARTHQUAKE PARAMETERS"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "DOPPLER RADAR → WEATHER STRUCTURE",
+          "BUOY / BPR → OCEAN RESPONSE",
+          "DOPPLER RADAR → WEATHER STRUCTURE"
+        ],
+        [
+          "GAUGE → RAIN / RIVER / SEA LEVEL",
+          "SEISMIC NETWORK → EARTHQUAKE PARAMETERS",
+          "GAUGE → RAIN / RIVER / SEA LEVEL"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DOPPLER RADAR → WEATHER STRUCTURE",
+            "GAUGE → RAIN / RIVER / SEA LEVEL"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BUOY / BPR → OCEAN RESPONSE",
+            "SEISMIC NETWORK → EARTHQUAKE PARAMETERS"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DOPPLER RADAR → WEATHER STRUCTURE",
+            "GAUGE → RAIN / RIVER / SEA LEVEL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAUGE → RAIN / RIVER / SEA LEVEL.",
+      "source_references": [
+        "Radar sensors and lead time",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EMERGING-TECHNOLOGY SAFEGUARDS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EMERGING-TECHNOLOGY SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL IMAGERY",
+          "role": "outcome"
+        },
+        {
+          "text": "AIRSPACE + SAFETY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNCERTAINTY + OVERSIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "CROWD REPORT",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL SIGNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFICATION + PROVENANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVACY + MINIMISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DRONE → local imagery",
+        "airspace + safety",
+        "AI → pattern / prioritisation",
+        "uncertainty + oversight",
+        "CROWD REPORT → local signal"
+      ],
+      "matrix": [
+        [
+          "DRONE → local imagery",
+          "airspace + safety"
+        ],
+        [
+          "AI → pattern / prioritisation",
+          "uncertainty + oversight"
+        ],
+        [
+          "CROWD REPORT → local signal",
+          "verification + provenance"
+        ],
+        [
+          "DATA → utility",
+          "privacy + minimisation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DRONE → local imagery",
+            "airspace + safety",
+            "AI → pattern / prioritisation"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "uncertainty + oversight",
+            "CROWD REPORT → local signal",
+            "verification + provenance"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DATA → utility",
+            "privacy + minimisation",
+            "MUST REMEMBER: An end-to-end early-warning chain runs observation → detection →..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: An end-to-end early-warning chain runs observation → detection →.",
+      "source_references": [
+        "Drones and crowdsourcing",
+        "AI and models",
+        "Privacy and equity",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-04_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FAILURE AND REDUNDANCY MAP",
+      "structural_type": "failure-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FAILURE AND REDUNDANCY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SENSOR FAIL",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER FAIL",
+          "role": "mechanism"
+        },
+        {
+          "text": "NETWORK FAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORITY DELAY",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAT MISMATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS BARRIER",
+          "role": "comparison"
+        },
+        {
+          "text": "NO TRANSPORT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SENSOR FAIL",
+        "POWER FAIL",
+        "NETWORK FAIL",
+        "AUTHORITY DELAY",
+        "FORMAT MISMATCH"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SENSOR FAIL",
+            "POWER FAIL",
+            "NETWORK FAIL"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "AUTHORITY DELAY",
+            "FORMAT MISMATCH",
+            "LANGUAGE / ACCESS BARRIER"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO TRANSPORT",
+            "CONTROL → REDUNDANT TECHNICAL AND HUMAN PATHS",
+            "CLOSE DISTINCTION: Observation is not forecast; forecast is not watch; watch is not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Observation is not forecast; forecast is not watch; watch is not.",
+      "source_references": [
+        "Interoperability and redundancy",
+        "Privacy and equity",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-04_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TECHNOLOGY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TECHNOLOGY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MAP HAZARD + LEAD TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME COMPETENT AGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACE DATA",
+          "role": "evidence"
+        },
+        {
+          "text": "ADD ACCESSIBLE ACTION + FEEDBACK",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFY UNCERTAINTY PRIVACY AND OUTCOME EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ATTRIBUTE THE COMPETENT AGENCY AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MAP HAZARD + LEAD TIME → NAME COMPETENT AGENCY",
+        "TRACE DATA → FORECAST → WARNING → DISSEMINATION",
+        "ADD ACCESSIBLE ACTION + FEEDBACK",
+        "QUALIFY UNCERTAINTY PRIVACY AND OUTCOME EVIDENCE",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute the competent agency and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "MAP HAZARD + LEAD TIME → NAME COMPETENT AGENCY",
+            "TRACE DATA → FORECAST → WARNING → DISSEMINATION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ADD ACCESSIBLE ACTION + FEEDBACK",
+            "QUALIFY UNCERTAINTY PRIVACY AND OUTCOME EVIDENCE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute the competent agency and...",
+            "MAP HAZARD + LEAD TIME → NAME COMPETENT AGENCY"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute the competent agency and...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute the competent agency and.",
+      "source_references": [
+        "Technology-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g2\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-04_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRIBUTED BUT CENTRALLY VALIDATED ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INDIAN",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITY-CENTRALISATION TRADE-OFF",
+          "role": "evidence"
+        },
+        {
+          "text": "THE REQUIREMENT THAT ONLY",
+          "role": "primary"
+        },
+        {
+          "text": "GIS'S THREE-PHASE INDIAN TRACK RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "VULNERABILITY MAPPING IN",
+          "role": "comparison"
+        },
+        {
+          "text": "PHAILIN'S \"EXACT PREDICTION\" CLAIM REQUIRES CAREFUL FRAMING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Distributed but centrally validated architecture : the Indian",
+            "CAUTION: Authority-centralisation trade-off : the requirement that only",
+            "GIS's three-phase Indian track record : vulnerability mapping in",
+            "CAUTION: Phailin's \"exact prediction\" claim requires careful framing :"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Impact-based forecasting is a genuine, only partially realised,",
+            "CAUTION: Data redundancy and system vulnerability : VisionIAS notes",
+            "CAUTION: Last-mile failure is not evenly distributed: households without",
+            "CAUTION: Speed versus accuracy in dissemination is a structural trade-off"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"technology deployed, therefore warning succeeded\" fallacy.",
+            "CAUTION: Interoperability across agencies (IMD, INCOIS, GSI, CWC, ISRO)",
+            "CAUTION: VisionIAS does not detail the financing of India's warning",
+            "Monitoring warning-system performance (lead time achieved, false"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

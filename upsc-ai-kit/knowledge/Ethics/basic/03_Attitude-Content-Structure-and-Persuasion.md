@@ -67,6 +67,18 @@ model) — and is distinct from **value** (broad, enduring, cross-situational) a
    altering his attitudes") captures the *malleability* of attitude — it is not fixed temperament
    but a chosen, revisable stance.
 
+### Ethical boundary: persuasion, manipulation and coercion
+
+| Mode | What happens to agency? | Administrative test |
+|---|---|---|
+| **Persuasion** | Reasons and relevant evidence are offered while the audience retains meaningful choice. | Disclose the public purpose, use accurate claims, permit questions and preserve review or exit. |
+| **Manipulation** | Choice formally remains, but information, emotion or defaults are covertly arranged to bypass reflective judgment. | Reject deception, hidden sponsorship, fabricated urgency and exploitation of cognitive vulnerability. |
+| **Coercion** | A threat, penalty or control over an essential benefit removes meaningful choice. | Use only under lawful authority, necessity and proportionality, with recorded reasons and safeguards. |
+
+⚠️ A public campaign does not become ethical merely because its objective is desirable. The officer
+must separately test truthfulness, autonomy, distributional effects, accessibility and whether a
+vulnerable audience can understand and contest the message.
+
 ## 4. Indian administrative applications and examples
 
 - ⚠️ A field officer's negative attitude toward a beneficiary community (formed through biased

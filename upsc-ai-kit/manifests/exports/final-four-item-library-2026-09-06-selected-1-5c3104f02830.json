@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T12:10:08+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "3df638a6fe4941eefc424b512f2f4754920358d403d35918e347324261ddf7ff",
+    "sha256_after": "3df638a6fe4941eefc424b512f2f4754920358d403d35918e347324261ddf7ff",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Political Theory": 1
+  },
+  "sections": {
+    "Political Theory — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11985,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2050,
+    "json_count": 5710,
+    "total_bytes": 4258355541,
+    "by_extension": {
+      ".json": 5710,
+      ".md": 2050,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-22",
+      "topic_title": "Democracy, Representation and Liberal Democracy",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 22,
+      "source_record_id": "political-theory-22:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a0bab894d187bfd1886d4d1af0ca5c24497bbe216020eb8200b823d4fd5c4648",
+          "output_sha256": "a0bab894d187bfd1886d4d1af0ca5c24497bbe216020eb8200b823d4fd5c4648",
+          "source_output_equal": true,
+          "bytes": 429103
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "46d7d45172a13c1f7391d4ef24b8d20f66cd04edebb02072704054d3542c04d7",
+          "output_sha256": "46d7d45172a13c1f7391d4ef24b8d20f66cd04edebb02072704054d3542c04d7",
+          "source_output_equal": true,
+          "bytes": 309319
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "2a21179993ee97c10a062e0dca752a3eb929b1bcdbda6262e82b8913ddeb0a3d",
+          "output_sha256": "2a21179993ee97c10a062e0dca752a3eb929b1bcdbda6262e82b8913ddeb0a3d",
+          "source_output_equal": true,
+          "bytes": 2371482
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "dc0b9be1c7a7c8ad1ecb543a79a12d78695465b87ea67582cad911656618bf11",
+          "output_sha256": "dc0b9be1c7a7c8ad1ecb543a79a12d78695465b87ea67582cad911656618bf11",
+          "source_output_equal": true,
+          "bytes": 2638219
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "e44806dd137efeab74fc7507a561e42efecb2d08b9c61a859eb7259301f2f4c6",
+          "output_sha256": "e44806dd137efeab74fc7507a561e42efecb2d08b9c61a859eb7259301f2f4c6",
+          "source_output_equal": true,
+          "bytes": 2098699
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "a155ef2f888132d8784b6ab0110178242e170ed29326bdb0203a3f6beb2b3389",
+          "output_sha256": "a155ef2f888132d8784b6ab0110178242e170ed29326bdb0203a3f6beb2b3389",
+          "source_output_equal": true,
+          "bytes": 8205
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "15b35ab002e8fca1a692bd0440d5bc921acea2124c9b9b2182037af4d39312cf",
+          "output_sha256": "15b35ab002e8fca1a692bd0440d5bc921acea2124c9b9b2182037af4d39312cf",
+          "source_output_equal": true,
+          "source_text_sha256": "a155ef2f888132d8784b6ab0110178242e170ed29326bdb0203a3f6beb2b3389",
+          "normalized_text_equal": true,
+          "bytes": 58300
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 17,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 17,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 17,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 17,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 17,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 17,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 17,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 17,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 17,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 17,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 17,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 19,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 64,
+        "solved_practice_workbook": 40,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 40,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11706
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

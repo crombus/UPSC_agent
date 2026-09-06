@@ -5,8 +5,8 @@ Topic: Genetic Engineering: GM Crops and CRISPR
 Subject: Science and Technology
 Section: Subject-wide Syllabus
 Catalogue number: 14
-Source record ID: science-and-technology-14:learner-v2:g2
-Source generation: 2
+Source record ID: science-and-technology-14:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

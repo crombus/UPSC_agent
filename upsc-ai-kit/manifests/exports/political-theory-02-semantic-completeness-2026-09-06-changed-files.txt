@@ -1,0 +1,83 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\political-theory-02-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\political-theory-02-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\political-theory-02-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\political-theory-02-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\political-theory-02-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\political-theory-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Political Theory\INDEX.md
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\02-Ideology-and-End-of-Ideology\README.txt
+notes\Final-Learning-Packages\Political Theory\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\previews\page-005.png
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\flowcharts\topic-02\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\learning-sessions\topic-02\g5\topic-02_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\learning-sessions\topic-02\g5\topic-02_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\learning-sessions\topic-02\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\learning-sessions\topic-02\g5\validation\workbook-visual-audit-map.json
+notes\Political-Theory\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Political-Theory\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Political-Theory\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\finalize_political_theory_semantic_review.py
+tools\generate_political_theory_topic_v2.py
+tools\political_theory_semantic_runtime.py
+tools\regenerate_political_theory_deep_review.py
+tools\run_political_theory_semantic_topic.py
+tools\test_run_political_theory_semantic_topic.py
+tools\verify_political_theory_sources.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\learning-sessions\topic-02\g5\assets\political-theory-02_concept-map_g5.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\learning-sessions\topic-02\g5\topic-02_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Political-Theory\Subject-Wide-Syllabus\learning-sessions\topic-02\g5\topic-02_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Political-Theory\basic\02_Ideology-and-End-of-Ideology.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-70a4f5386468-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-70a4f5386468.json
+upsc-ai-kit\manifests\exports\political-theory-02-learner-v2-g5-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\political-theory-02-learner-v2-g5-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\political-theory-02-learner-v2-g5-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\political-theory-02-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\political-theory-02-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\political-theory-authoritative-source-audit-2026-09-06.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\political-theory--subject-wide-syllabus-02-ascii-2026-09-06-g5.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\political-theory\02-ideology-and-end-of-ideology-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\v2\political-theory--subject-wide-syllabus-content-specs\political-theory-02-g5.json
+upsc-ai-kit\manifests\v2\political-theory--subject-wide-syllabus-graphical-specs\political-theory-02-g5.json
+upsc-ai-kit\manifests\v2\political-theory--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

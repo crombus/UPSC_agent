@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T08:10:34+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\science-and-technology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "a79f7629f5181483a071541afd0d46b57e75f679b215c102f9effcf566a697e1",
+    "sha256_after": "a79f7629f5181483a071541afd0d46b57e75f679b215c102f9effcf566a697e1",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11473,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1962,
+    "json_count": 5286,
+    "total_bytes": 4273051423,
+    "by_extension": {
+      ".json": 5286,
+      ".md": 1962,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-17",
+      "topic_title": "Intellectual Property Rights and Patents",
+      "subject": "Science and Technology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 17,
+      "source_record_id": "science-and-technology-17:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "0996a3da3036afbc4165020ef292281afaebf0c7582e065610824bc847925692",
+          "output_sha256": "0996a3da3036afbc4165020ef292281afaebf0c7582e065610824bc847925692",
+          "source_output_equal": true,
+          "bytes": 692940
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "7d80cac23ec69b39c95e57f9a0c9bb29a6687c0245155c84409ec0f2a1c23f69",
+          "output_sha256": "7d80cac23ec69b39c95e57f9a0c9bb29a6687c0245155c84409ec0f2a1c23f69",
+          "source_output_equal": true,
+          "bytes": 528044
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-17\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "3032ec1686e1a16de1d2945b64b65101b097a546783f6954921ef09daff627ad",
+          "output_sha256": "3032ec1686e1a16de1d2945b64b65101b097a546783f6954921ef09daff627ad",
+          "source_output_equal": true,
+          "bytes": 2054257
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-17\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f4397d81dc42200b4a852a25d35033bc0c6e37be574f23f3a80c6855b3bf17e2",
+          "output_sha256": "f4397d81dc42200b4a852a25d35033bc0c6e37be574f23f3a80c6855b3bf17e2",
+          "source_output_equal": true,
+          "bytes": 2447603
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-17\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "9a360b175e8a9a73ca9b6ebde0e0cfa88c55bc281bb95797b414f602e3fa487a",
+          "output_sha256": "9a360b175e8a9a73ca9b6ebde0e0cfa88c55bc281bb95797b414f602e3fa487a",
+          "source_output_equal": true,
+          "bytes": 1823744
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-17\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "fe015e0e396fc49336957100ac2fb29e0c765fd4b69c90020d62447c0872e4d5",
+          "output_sha256": "fe015e0e396fc49336957100ac2fb29e0c765fd4b69c90020d62447c0872e4d5",
+          "source_output_equal": true,
+          "bytes": 4359
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-17\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "6cd728d75954b784320725f6eaab24342012fac5939bbe7c9b0743dce9796ede",
+          "output_sha256": "6cd728d75954b784320725f6eaab24342012fac5939bbe7c9b0743dce9796ede",
+          "source_output_equal": true,
+          "source_text_sha256": "fe015e0e396fc49336957100ac2fb29e0c765fd4b69c90020d62447c0872e4d5",
+          "normalized_text_equal": true,
+          "bytes": 56672
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 94,
+        "solved_practice_workbook": 51,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 51,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10818
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

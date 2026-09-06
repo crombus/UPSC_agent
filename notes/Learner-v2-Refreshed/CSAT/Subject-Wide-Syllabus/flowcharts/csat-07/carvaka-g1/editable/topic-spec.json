@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-07",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\07_Interpersonal-and-Communication-Skills.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\07_Interpersonal-Communication-Negotiation-and-Public-Dealing.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Communication cycle",
+      "body": "Sender, encoding, message, channel, receiver, decoding and feedback."
+    },
+    {
+      "number": 2,
+      "title": "Channel choice",
+      "body": "Match urgency, complexity, privacy, reach and record needs."
+    },
+    {
+      "number": 3,
+      "title": "Verbal and non-verbal",
+      "body": "Align words, tone, posture and context."
+    },
+    {
+      "number": 4,
+      "title": "Active listening",
+      "body": "Attend, clarify, paraphrase and confirm."
+    },
+    {
+      "number": 5,
+      "title": "Feedback",
+      "body": "Make it timely, specific, behavioural and two-way."
+    },
+    {
+      "number": 6,
+      "title": "Barriers",
+      "body": "Diagnose semantic, physical, psychological, cultural and organisational blocks."
+    },
+    {
+      "number": 7,
+      "title": "Interpersonal styles",
+      "body": "Prefer assertive respect over passivity or aggression."
+    },
+    {
+      "number": 8,
+      "title": "Conflict",
+      "body": "Separate positions from interests and facts from assumptions."
+    },
+    {
+      "number": 9,
+      "title": "Negotiation",
+      "body": "Prepare interests, options, objective criteria and a lawful BATNA."
+    },
+    {
+      "number": 10,
+      "title": "Public dealing",
+      "body": "Use accessible language, procedural fairness and documented follow-up."
+    },
+    {
+      "number": 11,
+      "title": "Questionnaires",
+      "body": "Avoid leading, double-barrelled and ambiguous questions."
+    },
+    {
+      "number": 12,
+      "title": "Scenario decision",
+      "body": "Choose the feasible response that reduces harm and preserves trust."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-english-07",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\07_Short-Essay-Writing.md",
+  "source_advanced": null,
+  "stages": [
+    {
+      "number": 1,
+      "title": "Choose",
+      "body": "Select the prompt whose terms, tension, thesis and examples can be controlled."
+    },
+    {
+      "number": 2,
+      "title": "Decode",
+      "body": "Define key terms in context and locate the hidden contrast or relationship."
+    },
+    {
+      "number": 3,
+      "title": "Thesis",
+      "body": "State a qualified arguable position by the end of the introduction."
+    },
+    {
+      "number": 4,
+      "title": "Plan",
+      "body": "Build distinct reason, mechanism, consequence, limitation and response moves."
+    },
+    {
+      "number": 5,
+      "title": "Introduction",
+      "body": "Enter the issue directly; avoid dictionary openings and decorative quotations."
+    },
+    {
+      "number": 6,
+      "title": "Paragraph architecture",
+      "body": "Use claim, explanation, safe example and explicit link to thesis."
+    },
+    {
+      "number": 7,
+      "title": "Coherence",
+      "body": "Order paragraphs so each advances rather than repeats the argument."
+    },
+    {
+      "number": 8,
+      "title": "Counterargument",
+      "body": "Present a genuine objection or limit and answer or accommodate it."
+    },
+    {
+      "number": 9,
+      "title": "Evidence discipline",
+      "body": "Use defensible illustrations and never invent statistics or quotations."
+    },
+    {
+      "number": 10,
+      "title": "Style",
+      "body": "Prefer plain formal English, controlled sentence length and precise connectors."
+    },
+    {
+      "number": 11,
+      "title": "Word and time control",
+      "body": "Target about 600 words and reserve a final revision window."
+    },
+    {
+      "number": 12,
+      "title": "Revision and verdict",
+      "body": "Check thesis, paragraph jobs, grammar, unsupported claims, count and conclusion."
+    }
+  ]
+}

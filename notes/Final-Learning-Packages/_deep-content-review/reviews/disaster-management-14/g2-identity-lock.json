@@ -1,0 +1,14 @@
+{
+  "topic_key": "disaster-management-14",
+  "locked_at": "2026-09-06T09:50:58.227952+00:00",
+  "master_tracker_identity": "disaster-management-14:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "7fccf9f7a5891d8f57db4f863d194613394f008617b91385d6745d87207903f6",
+    "main_pdf": "6aad9545fea1d7923778960a9a6fad5d4b48265f67169636bce1d6e251b352f1",
+    "workbook": "396c3d8348fe60cff2499d9892249e2f2e0dd1ebd02031b4703af3d5e513fec3",
+    "graphical_master": "c57e0772197736fdc01091a3a0364075c1c094f11d808faa72cee3524eeb5183",
+    "ascii_master": "7f25a3a9e5a600ad6aa3d322cca6a59f48e6beefdde3d14e2c8a3a7384dc9bc4"
+  }
+}

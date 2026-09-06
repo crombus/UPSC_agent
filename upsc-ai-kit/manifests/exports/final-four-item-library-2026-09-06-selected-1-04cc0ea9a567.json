@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T09:40:47+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\disaster-management-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "9767f302977b999841c9dddf2cdd081b25759e7fbd239a990b79bb022dc57929",
+    "sha256_after": "9767f302977b999841c9dddf2cdd081b25759e7fbd239a990b79bb022dc57929",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Disaster Management": 1
+  },
+  "sections": {
+    "Disaster Management — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11653,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1992,
+    "json_count": 5436,
+    "total_bytes": 4270202110,
+    "by_extension": {
+      ".json": 5436,
+      ".md": 1992,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-09",
+      "topic_title": "Drought, Heat Waves and Slow-Onset Risk",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "disaster-management-09:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g3\\disaster-management-09_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "1f4f22d4c23630ebfc80c42761a851fedd1baa38f9044c0410e4e1c2f04d4cf9",
+          "output_sha256": "1f4f22d4c23630ebfc80c42761a851fedd1baa38f9044c0410e4e1c2f04d4cf9",
+          "source_output_equal": true,
+          "bytes": 697123
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g3\\disaster-management-09_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3c44ff23bd45872e6e1e1a04ea7c5d1cc3ca16d27fa50ea619e4065661af9833",
+          "output_sha256": "3c44ff23bd45872e6e1e1a04ea7c5d1cc3ca16d27fa50ea619e4065661af9833",
+          "source_output_equal": true,
+          "bytes": 540960
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "1df682a7dc7f405b56ea4ad2c014929c7eec5a99d920a2268bd07205d0e8d4e5",
+          "output_sha256": "1df682a7dc7f405b56ea4ad2c014929c7eec5a99d920a2268bd07205d0e8d4e5",
+          "source_output_equal": true,
+          "bytes": 1966674
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "e5f297587c224eba24f907501f8dde31ca556713dee8e5c8e9d56a21809d290a",
+          "output_sha256": "e5f297587c224eba24f907501f8dde31ca556713dee8e5c8e9d56a21809d290a",
+          "source_output_equal": true,
+          "bytes": 2316024
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "fb49fe8847acd02f413f0dcd1316cb457a19e9f6005f4b8a478c8032656b22b6",
+          "output_sha256": "fb49fe8847acd02f413f0dcd1316cb457a19e9f6005f4b8a478c8032656b22b6",
+          "source_output_equal": true,
+          "bytes": 1717615
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "f307f4293d48e49307c0a7b5a992fc0384bfae10f0b7b01c4ca937367eead264",
+          "output_sha256": "f307f4293d48e49307c0a7b5a992fc0384bfae10f0b7b01c4ca937367eead264",
+          "source_output_equal": true,
+          "bytes": 3253
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-09\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "8500d1be73928735eb9436bf7ece185b1539ad92a32e63552a02a24647ca5305",
+          "output_sha256": "8500d1be73928735eb9436bf7ece185b1539ad92a32e63552a02a24647ca5305",
+          "source_output_equal": true,
+          "source_text_sha256": "f307f4293d48e49307c0a7b5a992fc0384bfae10f0b7b01c4ca937367eead264",
+          "normalized_text_equal": true,
+          "bytes": 55835
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 99,
+        "solved_practice_workbook": 59,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 99,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11102
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

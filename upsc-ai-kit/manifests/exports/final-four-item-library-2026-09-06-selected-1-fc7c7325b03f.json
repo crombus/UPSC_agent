@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T08:47:56+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\internal-security-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "aef5b87e856f2199c3c8eb1d753dfdfa46d9c27b846033d4cf25733c841ab1da",
+    "sha256_after": "aef5b87e856f2199c3c8eb1d753dfdfa46d9c27b846033d4cf25733c841ab1da",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Internal Security": 1
+  },
+  "sections": {
+    "Internal Security — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11533,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1972,
+    "json_count": 5336,
+    "total_bytes": 4273253460,
+    "by_extension": {
+      ".json": 5336,
+      ".md": 1972,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-01",
+      "topic_title": "Internal-Security Foundations and Governance",
+      "subject": "Internal Security",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 1,
+      "source_record_id": "internal-security-01:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-01\\g4\\internal-security-01_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "f4dffe69817036648d2a4dcc8d31f27ddbd02c649c23b5a9f766a2c736ff92eb",
+          "output_sha256": "f4dffe69817036648d2a4dcc8d31f27ddbd02c649c23b5a9f766a2c736ff92eb",
+          "source_output_equal": true,
+          "bytes": 668494
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-01\\g4\\internal-security-01_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "475d0c9ed98f7b929e44fa07b326d19d17e9bda02577b4adf613dd1f8558cc52",
+          "output_sha256": "475d0c9ed98f7b929e44fa07b326d19d17e9bda02577b4adf613dd1f8558cc52",
+          "source_output_equal": true,
+          "bytes": 511881
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-01\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "e91eed3f06dd01d25015191c1920570ed71d3c0e34c1914b2cdcea543aeb8d41",
+          "output_sha256": "e91eed3f06dd01d25015191c1920570ed71d3c0e34c1914b2cdcea543aeb8d41",
+          "source_output_equal": true,
+          "bytes": 1938539
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-01\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "30ab38f156136f5c419c9905540a24ba96e2b3e4ecda02b3f607f205616b7e6b",
+          "output_sha256": "30ab38f156136f5c419c9905540a24ba96e2b3e4ecda02b3f607f205616b7e6b",
+          "source_output_equal": true,
+          "bytes": 2346997
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-01\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "60eaf3bdf92b654a64a3622ab6fbfccc1a1fd0376d89e824eae3aa6550c49c50",
+          "output_sha256": "60eaf3bdf92b654a64a3622ab6fbfccc1a1fd0376d89e824eae3aa6550c49c50",
+          "source_output_equal": true,
+          "bytes": 1712253
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-01\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "c0af76aba203c355a9f5f7e83bcad8047ae3b5a52df34f7e7a04c1b38d1226c3",
+          "output_sha256": "c0af76aba203c355a9f5f7e83bcad8047ae3b5a52df34f7e7a04c1b38d1226c3",
+          "source_output_equal": true,
+          "bytes": 3738
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-01\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "8ec7b4bb1e409128624bb2bf6060416e9e8b48be6e6ffe49ce09fa56c7381c8c",
+          "output_sha256": "8ec7b4bb1e409128624bb2bf6060416e9e8b48be6e6ffe49ce09fa56c7381c8c",
+          "source_output_equal": true,
+          "source_text_sha256": "c0af76aba203c355a9f5f7e83bcad8047ae3b5a52df34f7e7a04c1b38d1226c3",
+          "normalized_text_equal": true,
+          "bytes": 56173
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 94,
+        "solved_practice_workbook": 52,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 52,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10682
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

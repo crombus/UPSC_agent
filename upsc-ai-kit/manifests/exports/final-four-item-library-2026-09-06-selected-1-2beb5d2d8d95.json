@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T11:48:30+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "c95bc3f98e177e00bdeba6ff54c54a85fa2c4b9b3125351d446295f3f56eaed9",
+    "sha256_after": "c95bc3f98e177e00bdeba6ff54c54a85fa2c4b9b3125351d446295f3f56eaed9",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Political Theory": 1
+  },
+  "sections": {
+    "Political Theory — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11919,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2039,
+    "json_count": 5655,
+    "total_bytes": 4258854469,
+    "by_extension": {
+      ".json": 5655,
+      ".md": 2039,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-11",
+      "topic_title": "Sovereignty and Pluralism",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 11,
+      "source_record_id": "political-theory-11:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "0def99903095f645d92f11224b3a668835dd75eaa1676a48e1841f1d6cc95117",
+          "output_sha256": "0def99903095f645d92f11224b3a668835dd75eaa1676a48e1841f1d6cc95117",
+          "source_output_equal": true,
+          "bytes": 370164
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "7c394daa4e5da3a10d139d4ce722c25eef7d669786b7e5b97a61c141dc6e55aa",
+          "output_sha256": "7c394daa4e5da3a10d139d4ce722c25eef7d669786b7e5b97a61c141dc6e55aa",
+          "source_output_equal": true,
+          "bytes": 276682
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "59d7a3751747a9f64c68bbe177cfb63f3db5122baf76b2f8163b92f95bfe20e3",
+          "output_sha256": "59d7a3751747a9f64c68bbe177cfb63f3db5122baf76b2f8163b92f95bfe20e3",
+          "source_output_equal": true,
+          "bytes": 3238991
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "7e95a473d2107a4bfac0a91d34ad8f4258b6eba8ea3b173941da3c91eb540348",
+          "output_sha256": "7e95a473d2107a4bfac0a91d34ad8f4258b6eba8ea3b173941da3c91eb540348",
+          "source_output_equal": true,
+          "bytes": 3566708
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a152d6f38d77b39280d04c68f012672681cf09042fc27ef31941f7c1f746cb79",
+          "output_sha256": "a152d6f38d77b39280d04c68f012672681cf09042fc27ef31941f7c1f746cb79",
+          "source_output_equal": true,
+          "bytes": 2882982
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "89c8d3f5b163b8884d0eacb0cc416cadc83ca8d84a44144417355d540c30802c",
+          "output_sha256": "89c8d3f5b163b8884d0eacb0cc416cadc83ca8d84a44144417355d540c30802c",
+          "source_output_equal": true,
+          "bytes": 16434
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "3b5f3de0856351e94650e8c631939e13c0a205bca3bf5bc6ac2016c3dad19347",
+          "output_sha256": "3b5f3de0856351e94650e8c631939e13c0a205bca3bf5bc6ac2016c3dad19347",
+          "source_output_equal": true,
+          "source_text_sha256": "89c8d3f5b163b8884d0eacb0cc416cadc83ca8d84a44144417355d540c30802c",
+          "normalized_text_equal": true,
+          "bytes": 63919
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 25,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 28,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 31,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 30,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 18,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 31,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 28,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 13,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 26,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 49,
+        "solved_practice_workbook": 32,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 49,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 32,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          14800
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

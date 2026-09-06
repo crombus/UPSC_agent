@@ -1,0 +1,29 @@
+# Repair handoff — Ethics and Human Interface
+
+Keep reviewed baseline `ethics-01:learner-v2:g5` immutable. The collision-free
+successor is `ethics-01:learner-v2:g6` with fresh scores unset,
+`revalidation_pending` status and approval false.
+
+## Defects to repair
+
+- Visual-first Core progression is incomplete: sessions=10, visual gateways=0.
+
+## Sources and affected artifacts
+
+- Canonical Basic/Core owner: `upsc-ai-kit\knowledge\Ethics\basic\01_Ethics-and-Human-Interface.md`
+- Canonical package owner: `upsc-ai-kit\knowledge\Ethics\basic\01_Ethics-and-Human-Interface.md`
+- Optional Advanced owner: `upsc-ai-kit\knowledge\Ethics\advanced\01_Ethics-and-Human-Interface.md`
+- Official syllabus mapping: `upsc-ai-kit\knowledge\Ethics\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+- Repository PYQ ledgers: `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`
+- Affected outputs: complete session, solved workbook, graphical flow, ASCII
+  master, validation, tracker identity and final-library publication.
+
+The canonical owners remain unchanged unless a separately evidenced source
+correction is recorded. Apply all package-content repairs only through the new
+generation. Regenerate all four artifacts from one corrected ledger. Accept only
+when Core precedes Optional Advanced; evidence classes and contested limits are
+explicit; every solved item has demand decoding, examiner-grade model, executable
+answer/compression plan, marks rationale and answer-specific improvement; Basic
+MCQs follow strict A→B→C→D without altering official PYQ wording; both flows have
+twelve agreeing topic-specific stages; PDFs and final-library hashes pass; and
+approval remains false. Never carry forward the predecessor score or approval.

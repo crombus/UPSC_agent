@@ -1,0 +1,784 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-04_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-04_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 38,
+      "markdown_body_line_end": 46,
+      "heading": "SESSION 1 - What aptitude means and why it is not attitude or value",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Aptitude for civil service; foundational values — integrity, impartiality and non-partisanship, objectivity, dedication to public service, empathy, t",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 626.624
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 69,
+      "heading": "1. Visual foundation",
+      "preview": "APTITUDE (natural/cultivable disposition to serve well)",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 603.124
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 422.124
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 88,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 383.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 180,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** Foundational civil-service values are only exam-credible when shown as operational design choices — impartial procedure, compassionate service delivery, non-partisan conduct under political pressure — not as abstract pers",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 640.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 581.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 193,
+      "heading": "9. Warren Buffett on hiring for integrity (historical demand)",
+      "preview": "⚠️ 2018 GS-IV Q3(b) (historical demand, routed here jointly with `09`): illustrate the idea, widely attributed to Warren Buffett, that when hiring you look for three qualities — **integrity, intelligence and energy** — \"and if they don't ha",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 521.724
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 412.456
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 220,
+      "heading": "11. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 251,
+      "heading": "12. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 415.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 282.822
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 270,
+      "markdown_body_line_end": 271,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 309,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 154.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 109.956
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 316,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 109.956
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 43.288
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 381,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 381.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 336.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1562,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Aptitude and foundational values for civil service — institutional operationalisation, tensions and limits. **Grounded in:** Official UPSC GS-IV syllabus wording",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 641.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 554.424
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1567,
+      "markdown_body_line_end": 1579,
+      "heading": "1. Architecture",
+      "preview": "VALUE (syllabus term)     OPERATIONAL TEST                  INSTITUTIONAL SAFEGUARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 526.924
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 405.924
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1591,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 333.324
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 67.122
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1681,
+      "markdown_body_line_end": 1683,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 213.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 145.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1720,
+      "markdown_body_line_end": 1721,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 244.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 199.424
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1786,
+      "markdown_body_line_end": 1786,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 527.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 482.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1797,
+      "markdown_body_line_end": 1827,
+      "heading": "ASCII PANEL 1/12 - 1. Aptitude, attitude and value: the three-object taxonomy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1831,
+      "markdown_body_line_end": 1861,
+      "heading": "ASCII PANEL 2/12 - 2. Integrity under discretion: the hardest test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1865,
+      "markdown_body_line_end": 1894,
+      "heading": "ASCII PANEL 3/12 - 3. Impartiality is not identical treatment",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1898,
+      "markdown_body_line_end": 1928,
+      "heading": "ASCII PANEL 4/12 - 4. Non-partisanship and the transfer industry",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1932,
+      "markdown_body_line_end": 1961,
+      "heading": "ASCII PANEL 5/12 - 5. Empathy, sympathy and compassion: an ascending ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1965,
+      "markdown_body_line_end": 1995,
+      "heading": "ASCII PANEL 6/12 - 6. Enabler versus regulator: calibration spectrum",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1999,
+      "markdown_body_line_end": 2030,
+      "heading": "ASCII PANEL 7/12 - 7. Mission Karmayogi: values as trainable competencies",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2034,
+      "markdown_body_line_end": 2064,
+      "heading": "ASCII PANEL 8/12 - 8. Compassion versus favouritism: the boundary",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 153.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2068,
+      "markdown_body_line_end": 2099,
+      "heading": "ASCII PANEL 9/12 - 9. Tolerance and constitutional morality",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2103,
+      "markdown_body_line_end": 2132,
+      "heading": "ASCII PANEL 10/12 - 10. Nolan seven versus GS-IV syllabus list",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2136,
+      "markdown_body_line_end": 2165,
+      "heading": "ASCII PANEL 11/12 - 11. Values under pressure: an integration map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2169,
+      "markdown_body_line_end": 2199,
+      "heading": "ASCII PANEL 12/12 - 12. PYQ and answer synthesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2203,
+      "markdown_body_line_end": 2216,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 712.69
+        }
+      },
+      "pdf_pages": [
+        57,
+        58
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
++----------------------------------------------------------------------------------+
+| PANEL 01 — SENTENCE SKELETON                                                     |
+| Find the finite verb, subject, object or complement before naming word           |
+| classes.                                                                         |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 02 — FUNCTIONAL WORD CLASSES                                               |
+| Classify noun, pronoun, verb, adjective, adverb, determiner, preposition and     |
+| conjunction by use in context.                                                   |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 03 — COUNTABILITY                                                          |
+| Distinguish count, mass and count-shift meanings; use measure expressions        |
+| where needed.                                                                    |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 04 — NUMBER AND AGREEMENT CUES                                             |
+| Handle irregular, zero, plural-only and apparently plural singular nouns.        |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 05 — PRONOUN CASE                                                          |
+| Choose subject, object, possessive and reflexive forms by grammatical role.      |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 06 — PRONOUN REFERENCE                                                     |
+| Give every pronoun one clear antecedent and repair ambiguity by recasting.       |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 07 — RELATIVE CLAUSES                                                      |
+| Distinguish restrictive from non-restrictive meaning before choosing             |
+| relative and punctuation.                                                        |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 08 — SINGULAR THEY                                                         |
+| Accept clear modern singular they while preserving verb and noun-number          |
+| logic.                                                                           |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 09 — ADJECTIVES AND ADVERBS                                                |
+| Place modifiers beside their targets and distinguish form from function.         |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 10 — COMPARISON                                                            |
+| Use valid comparative forms and compare like with like.                          |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 11 — VERB FORM AND TRANSITIVITY                                            |
+| Choose principal parts and test object-taking capacity.                          |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 12 — EDITING AND TIMING                                                    |
+| Make the smallest valid correction, flag legitimate variation and verify         |
+| meaning.                                                                         |
++----------------------------------------------------------------------------------+

@@ -1,0 +1,1860 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g3\\science-and-technology-05_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g3\\science-and-technology-05_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Nuclear Fusion and ITER - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 36,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-05\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 478.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Fusion versus fission and present power status as a sequence: identify Fusion-fission boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 305.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 238.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "FUSION VERSUS FISSION AND PRESENT POWER STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 150,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FUSION VERSUS FISSION AND PRESENT POWER STATUS",
+      "preview": "START / CONCEPT: FOUNDATION — Fusion versus fission and present power status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 272.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 51.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 161,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Deuterium tritium products and energy partition as a sequence: identify Temperature-plasma boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 180,
+      "heading": "VISUAL FIRST",
+      "preview": "DEUTERIUM TRITIUM PRODUCTS AND ENERGY PARTITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 233,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DEUTERIUM TRITIUM PRODUCTS AND ENERGY PARTITION",
+      "preview": "START / CONCEPT: FOUNDATION — Deuterium tritium products and energy partition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 263,
+      "heading": "VISUAL FIRST",
+      "preview": "PLASMA TEMPERATURE AND ELECTROSTATIC BARRIER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PLASMA TEMPERATURE AND ELECTROSTATIC BARRIER",
+      "preview": "START / CONCEPT: FOUNDATION — Plasma temperature and electrostatic barrier",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Lawson density temperature and confinement time as a sequence: identify Magnetic-inertial boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 346,
+      "heading": "VISUAL FIRST",
+      "preview": "LAWSON DENSITY TEMPERATURE AND CONFINEMENT TIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 399,
+      "heading": "CLOSING RECALL FLOW - CORE - LAWSON DENSITY TEMPERATURE AND CONFINEMENT TIME",
+      "preview": "START / CONCEPT: CORE — Lawson density temperature and confinement time",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 410,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Magnetic versus inertial confinement as a sequence: identify Tokamak-stellarator boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 379.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 312.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 429,
+      "heading": "VISUAL FIRST",
+      "preview": "MAGNETIC VERSUS INERTIAL CONFINEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 482,
+      "heading": "CLOSING RECALL FLOW - CORE - MAGNETIC VERSUS INERTIAL CONFINEMENT",
+      "preview": "START / CONCEPT: CORE — Magnetic versus inertial confinement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Tokamak and stellarator geometry as a sequence: identify Q-plasma boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 515,
+      "heading": "VISUAL FIRST",
+      "preview": "TOKAMAK AND STELLARATOR GEOMETRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 389.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 569,
+      "heading": "CLOSING RECALL FLOW - CORE - TOKAMAK AND STELLARATOR GEOMETRY",
+      "preview": "START / CONCEPT: CORE — Tokamak and stellarator geometry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 462.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 580,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Plasma Q and scientific breakeven as a sequence: identify Alpha-neutron boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 341.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 274.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 599,
+      "heading": "VISUAL FIRST",
+      "preview": "PLASMA Q AND SCIENTIFIC BREAKEVEN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 652,
+      "heading": "CLOSING RECALL FLOW - CORE - PLASMA Q AND SCIENTIFIC BREAKEVEN",
+      "preview": "START / CONCEPT: CORE — Plasma Q and scientific breakeven",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Engineering and electricity breakeven as a sequence: identify Tritium-breeding boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 682,
+      "heading": "VISUAL FIRST",
+      "preview": "ENGINEERING AND ELECTRICITY BREAKEVEN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - ENGINEERING AND ELECTRICITY BREAKEVEN",
+      "preview": "START / CONCEPT: CORE — Engineering and electricity breakeven",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 529.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Alpha heating neutron transport and activation as a sequence: identify Materials boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 375.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 309.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "ALPHA HEATING NEUTRON TRANSPORT AND ACTIVATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 818,
+      "heading": "CLOSING RECALL FLOW - CORE - ALPHA HEATING NEUTRON TRANSPORT AND ACTIVATION",
+      "preview": "START / CONCEPT: CORE — Alpha heating neutron transport and activation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 829,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Lithium blanket and tritium self-sufficiency as a sequence: identify Divertor boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 848,
+      "heading": "VISUAL FIRST",
+      "preview": "LITHIUM BLANKET AND TRITIUM SELF-SUFFICIENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 901,
+      "heading": "CLOSING RECALL FLOW - CORE - LITHIUM BLANKET AND TRITIUM SELF-SUFFICIENCY",
+      "preview": "START / CONCEPT: CORE — Lithium blanket and tritium self-sufficiency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 912,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Materials damage and plasma-facing components as a sequence: identify ITER-purpose boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 934,
+      "heading": "VISUAL FIRST",
+      "preview": "MATERIALS DAMAGE AND PLASMA-FACING COMPONENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW - CORE - MATERIALS DAMAGE AND PLASMA-FACING COMPONENTS",
+      "preview": "START / CONCEPT: CORE — Materials damage and plasma-facing components",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Divertor exhaust heat and helium ash as a sequence: identify Membership-contribution boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 415.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 348.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1018,
+      "heading": "VISUAL FIRST",
+      "preview": "DIVERTOR EXHAUST HEAT AND HELIUM ASH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1071,
+      "heading": "CLOSING RECALL FLOW - CORE - DIVERTOR EXHAUST HEAT AND HELIUM ASH",
+      "preview": "START / CONCEPT: CORE — Divertor exhaust heat and helium ash",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 147.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1082,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ITER purpose Q target and no-turbine boundary as a sequence: identify IPR-ITERIndia boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1101,
+      "heading": "VISUAL FIRST",
+      "preview": "ITER PURPOSE Q TARGET AND NO-TURBINE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1154,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ITER PURPOSE Q TARGET AND NO-TURBINE BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — ITER purpose Q target and no-turbine boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1187,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA IPR ITER-INDIA ADITYA-U AND SST-1",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1241,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INDIA IPR ITER-INDIA ADITYA-U AND SST-1",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — India IPR ITER-India ADITYA-U and SST-1",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ITER schedule DEMO commercial ladder and dated audit as a sequence: identify DEMO-commercial boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 632.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 551.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1274,
+      "heading": "VISUAL FIRST",
+      "preview": "ITER SCHEDULE DEMO COMMERCIAL LADDER AND DATED AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 356.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 285.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1314,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Fusion basics, tokamaks, confinement methods, ITER and India’s domestic fusion research base. **Grounded in:** ITER fusion p",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 567.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 316.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1323,
+      "heading": "1. Visual foundation",
+      "preview": "Contrast | Fusion | Fission",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Contrast",
+          "Fusion",
+          "Fission"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 294.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 184.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1332,
+      "heading": "1. Visual foundation",
+      "preview": "MAGNETIC CONFINEMENT (TOKAMAK)",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 184.622
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 113.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1336,
+      "markdown_body_line_end": 1352,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 91.622
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 67.49
+        }
+      },
+      "pdf_pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1430,
+      "markdown_body_line_end": 1430,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** Fusion is a scientifically powerful but still experimental energy frontier in which the central question is controlled plasma confinement, not immediate grid supply; India’s value lies both in being an ITER member and in ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 317.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 244.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1465,
+      "markdown_body_line_end": 1482,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ITER SCHEDULE DEMO COMMERCIAL LADDER AND DATED AUDIT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — ITER schedule DEMO commercial ladder and dated audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1050
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 739.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 408.891
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2588,
+      "markdown_body_line_end": 2592,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Experimental fusion strategy, international collaboration, India’s domestic research base and realism about commercial timelines. **Grou",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 338.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 109.224
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2600,
+      "markdown_body_line_end": 2608,
+      "heading": "2. Visual foundation",
+      "preview": "FUSION TECHNOLOGY LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 632.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 551.491
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2610,
+      "markdown_body_line_end": 2615,
+      "heading": "2. Visual foundation",
+      "preview": "Advanced distinction | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Advanced distinction",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 551.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 430.89
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2619,
+      "markdown_body_line_end": 2630,
+      "heading": "3. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 192.29
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2701,
+      "markdown_body_line_end": 2708,
+      "heading": "9. CURRENT: Current anchor",
+      "preview": "Verified current anchor | Analytical use in answers",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Verified current anchor",
+          "Analytical use in answers"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 494.69
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2719,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** Fusion should be analysed as a frontier research ecosystem rather than as a present energy source: ITER matters because it tests feasibility, India’s participation matters because it builds industrial and scientific depth",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 347.09
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 259.822
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2785,
+      "markdown_body_line_end": 2793,
+      "heading": "Nuclear Fusion and ITER: ANSWER-WRITING SPINE",
+      "preview": "SEPARATE FUSION FROM FISSION AND RESEARCH FROM POWER DEPLOYMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 286.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 205.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2803,
+      "markdown_body_line_end": 2809,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Nuclear-process firewall",
+      "preview": "FISSION -> splits heavy nuclei and powers current reactors",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2813,
+      "markdown_body_line_end": 2819,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: D-T energy map",
+      "preview": "DEUTERIUM + TRITIUM -> fusion reaction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 617.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2823,
+      "markdown_body_line_end": 2829,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Fusion-condition triangle",
+      "preview": "TEMPERATURE -> raises probability of overcoming repulsion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2833,
+      "markdown_body_line_end": 2839,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Confinement comparison",
+      "preview": "MAGNETIC -> lower density and longer confinement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 511.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 449.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2849,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Breakeven ladder",
+      "preview": "PLASMA Q -> fusion power divided by injected heating",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 427.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 365.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2853,
+      "markdown_body_line_end": 2859,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Neutron-to-material chain",
+      "preview": "14.1 MeV NEUTRON -> escapes magnetic confinement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 343.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 281.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2863,
+      "markdown_body_line_end": 2869,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Tritium fuel loop",
+      "preview": "D-T PLASMA -> consumes tritium",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2873,
+      "markdown_body_line_end": 2879,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Plasma exhaust path",
+      "preview": "CORE PLASMA -> creates heat and helium ash",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2883,
+      "markdown_body_line_end": 2889,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: ITER mission card",
+      "preview": "UNDER CONSTRUCTION -> experimental international tokamak",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2893,
+      "markdown_body_line_end": 2901,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: India-in-ITER map",
+      "preview": "INDIA -> one of seven ITER members",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2913,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Domestic research devices",
+      "preview": "ADITYA-U -> experimental tokamak and plasma campaigns",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2925,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Fusion-readiness answer spine",
+      "preview": "DEFINE -> D-T fusion plasma confinement Lawson and Q",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    }
+  ]
+}

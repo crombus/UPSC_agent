@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T09:43:48+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\disaster-management-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "0af4d685b3137be010917982677586b5bdde15840ba6621e2ebb465709e08e2b",
+    "sha256_after": "0af4d685b3137be010917982677586b5bdde15840ba6621e2ebb465709e08e2b",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Disaster Management": 1
+  },
+  "sections": {
+    "Disaster Management — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11659,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1993,
+    "json_count": 5441,
+    "total_bytes": 4270260548,
+    "by_extension": {
+      ".json": 5441,
+      ".md": 1993,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-10",
+      "topic_title": "Landslides, Avalanches and GLOF Risk",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 10,
+      "source_record_id": "disaster-management-10:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g3\\disaster-management-10_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "0dfb143916d886be2d8141bf77d34a2834305023501d44fa89343805675189da",
+          "output_sha256": "0dfb143916d886be2d8141bf77d34a2834305023501d44fa89343805675189da",
+          "source_output_equal": true,
+          "bytes": 708604
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-10\\g3\\disaster-management-10_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "b1262ab8ca90b680576f19a0c92ff98e5e4a79aa7cf6699659abf838431aee40",
+          "output_sha256": "b1262ab8ca90b680576f19a0c92ff98e5e4a79aa7cf6699659abf838431aee40",
+          "source_output_equal": true,
+          "bytes": 554373
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "2213b8abf1b96c13f2182cc5c97643779ff40ac58ef74cd7b7f37657b60784c1",
+          "output_sha256": "2213b8abf1b96c13f2182cc5c97643779ff40ac58ef74cd7b7f37657b60784c1",
+          "source_output_equal": true,
+          "bytes": 1980031
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a93d1203ff459ff2bd51ec6768141b70764b657c71ff365625f3e17e2dbaed49",
+          "output_sha256": "a93d1203ff459ff2bd51ec6768141b70764b657c71ff365625f3e17e2dbaed49",
+          "source_output_equal": true,
+          "bytes": 2362728
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "4faa8e13d447952db764a672ca60b8275f3cdf868f0e4f7e927ee10bbe4e897f",
+          "output_sha256": "4faa8e13d447952db764a672ca60b8275f3cdf868f0e4f7e927ee10bbe4e897f",
+          "source_output_equal": true,
+          "bytes": 1744182
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "7879ff9a0cc19e23fdd03e687778cc1a175cfc67813c17434ea3ff7cd5cdfab4",
+          "output_sha256": "7879ff9a0cc19e23fdd03e687778cc1a175cfc67813c17434ea3ff7cd5cdfab4",
+          "source_output_equal": true,
+          "bytes": 3347
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-10\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "fff2c47f8d8e16b167172a1ee28a3b2c36023a4a40e549da2aa2825d862759db",
+          "output_sha256": "fff2c47f8d8e16b167172a1ee28a3b2c36023a4a40e549da2aa2825d862759db",
+          "source_output_equal": true,
+          "source_text_sha256": "7879ff9a0cc19e23fdd03e687778cc1a175cfc67813c17434ea3ff7cd5cdfab4",
+          "normalized_text_equal": true,
+          "bytes": 55927
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 98,
+        "solved_practice_workbook": 57,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 98,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 57,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10816
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

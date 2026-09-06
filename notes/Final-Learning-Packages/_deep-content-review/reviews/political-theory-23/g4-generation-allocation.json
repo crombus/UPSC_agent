@@ -1,0 +1,12 @@
+{
+  "topic_key": "political-theory-23",
+  "allocated_at": "2026-09-06T12:10:57.473592+00:00",
+  "baseline_record_id": "political-theory-23:learner-v2:g3",
+  "new_record_id": "political-theory-23:learner-v2:g4",
+  "review_state": "revalidation_pending",
+  "score": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "political-theory-23:learner-v2:g3",
+  "live_master_identity": "political-theory-23:learner-v2:g3"
+}

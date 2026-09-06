@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T08:16:15+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\science-and-technology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "53673ea1783bcbe9164925125452c4c803961e3dbb15b0b123574a970f79392d",
+    "sha256_after": "53673ea1783bcbe9164925125452c4c803961e3dbb15b0b123574a970f79392d",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11485,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1964,
+    "json_count": 5296,
+    "total_bytes": 4273092302,
+    "by_extension": {
+      ".json": 5296,
+      ".md": 1964,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-19",
+      "topic_title": "Drones, UAVs and Robotics Policy",
+      "subject": "Science and Technology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 19,
+      "source_record_id": "science-and-technology-19:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "2ddeb269ecc4617fc40e56a89a1f6f90404fd946051a95d7e560df9760e8fcb2",
+          "output_sha256": "2ddeb269ecc4617fc40e56a89a1f6f90404fd946051a95d7e560df9760e8fcb2",
+          "source_output_equal": true,
+          "bytes": 734513
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "db252a7f8457f8e56d05c0f7cfeb6dc418bb19c68f79375c245db68cbf33e2e5",
+          "output_sha256": "db252a7f8457f8e56d05c0f7cfeb6dc418bb19c68f79375c245db68cbf33e2e5",
+          "source_output_equal": true,
+          "bytes": 562695
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-19\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "49a2c98f5519c5235ce70f956158b1f27e06ad8b9e794682717ef989b250253a",
+          "output_sha256": "49a2c98f5519c5235ce70f956158b1f27e06ad8b9e794682717ef989b250253a",
+          "source_output_equal": true,
+          "bytes": 1951536
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-19\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a48f9af4bc4feda5a4f7af091fdabc4702721b36551a3f7a95ba2b6806d38513",
+          "output_sha256": "a48f9af4bc4feda5a4f7af091fdabc4702721b36551a3f7a95ba2b6806d38513",
+          "source_output_equal": true,
+          "bytes": 2436038
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-19\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "e9d443e3c448d83929301c65ebf0388d9b95f93fb17408794f5e438312ccfe15",
+          "output_sha256": "e9d443e3c448d83929301c65ebf0388d9b95f93fb17408794f5e438312ccfe15",
+          "source_output_equal": true,
+          "bytes": 1732688
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-19\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "0d2d352d996f260bd1e97a05087d692a75eaea2d751d302d7f2822e68e89ad53",
+          "output_sha256": "0d2d352d996f260bd1e97a05087d692a75eaea2d751d302d7f2822e68e89ad53",
+          "source_output_equal": true,
+          "bytes": 4093
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-19\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "3371e3198cd70f4c86a836ab89512f10fc94615a4f6f45fbae68f2fdcc4792c4",
+          "output_sha256": "3371e3198cd70f4c86a836ab89512f10fc94615a4f6f45fbae68f2fdcc4792c4",
+          "source_output_equal": true,
+          "source_text_sha256": "0d2d352d996f260bd1e97a05087d692a75eaea2d751d302d7f2822e68e89ad53",
+          "normalized_text_equal": true,
+          "bytes": 56538
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 106,
+        "solved_practice_workbook": 60,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 106,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 60,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10458
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

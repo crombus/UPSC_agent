@@ -1,0 +1,143 @@
+{
+  "record_id": "ethics-06:learner-v2:g3",
+  "topic_key": "ethics-06",
+  "variant": "learner-v2",
+  "generation": 3,
+  "supersedes": "ethics-06:learner-v2:g2",
+  "command": "Generate learner-v2 topic: Ethics — Subject-wide Syllabus — Indian Moral Thinkers and Philosophers — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Complete-Learning-Session_2026-09-06.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Solved-Practice-Workbook_2026-09-06.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Complete-Learning-Session_2026-09-06.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\assets",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "ethics-06:learner-v2:g3"
+  },
+  "provenance": {
+    "workflow": "ethics-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Ethics\\basic\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\06_Indian-Moral-Thinkers-and-Philosophers.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Complete-Learning-Session_2026-09-06.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Solved-Practice-Workbook_2026-09-06.md",
+    "pyq_corpus": [
+      "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
+    ],
+    "local_reference_sources": [
+      "books\\ethics4.pdf"
+    ],
+    "subject_boundary": "This package directly owns its GS-IV syllabus clause. Exact recent questions are distinguished from neutral historical routing notes.",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-06",
+    "superseded_v1": null,
+    "source_hashes": {
+      "books\\mains\\05 UPSC 2024 Paper-IV_Final 1.pdf": "5038faf653a842c5f637756e7081ef8dcc663d09cea609947a377312a4da45f5",
+      "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf": "992d194aa7b5aa3b5a5c5ef8f4d8c69c03971b28a2e8a16efcbb878c6591c15f",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md": "42276b5baf09e5d163f6e5ac4050072c908c16477d5eed35bb905bd17518df5d",
+      "upsc-ai-kit\\knowledge\\Ethics\\00_Master-Framework.md": "3a27b9051d45760ab37eb9a718eccb901b6792b4e6eae45e1cc3b2ed202bc29c",
+      "upsc-ai-kit\\knowledge\\Ethics\\advanced\\06_Indian-Moral-Thinkers-and-Philosophers.md": "122246651e9503e835e702be2cb79e33dea7e38fd89385931646715dc754d346",
+      "upsc-ai-kit\\knowledge\\Ethics\\basic\\06_Indian-Moral-Thinkers-and-Philosophers.md": "4b0a8074ef7e604995d6fe63b025acfd13d3e84de5da3521e70c5a4a94a0cc51",
+      "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "9d8b81770fa122df7ad6ea5d1cefb33162dd8fe6679f875c9414ba7e0f4dfcb2",
+      "upsc-ai-kit\\knowledge\\Ethics\\README.md": "6e36ff77410d49d1b8b2e485c4bd8efd8c5ec341f9f793c89afcccf1e9873cfc"
+    },
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Complete-Learning-Session_2026-09-06.md": "223c8bb1592c69ba40348c92c0a1e39dd2eada4010df71a1e88109927197956c",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Solved-Practice-Workbook_2026-09-06.md": "c5fd1142ca313b341ae7959dc9a9f9f26fd6e54ebdc00e67bf4411c279ce72c0",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Complete-Learning-Session_2026-09-06.pdf": "c4e2c3fa768eae4089302e0ac6a9d8fc4f1f971e503136657da427cf518b95bb",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Solved-Practice-Workbook_2026-09-06.pdf": "82b61d7fb956649340a7042ec83eca410c03636bfa570f362e1734bfa746981e",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\validation\\main-visual-audit-map.json": "c801c27906d0ec7a5b0c48f4225c3847284afaf98d201c0be963797b00e4753d",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\validation\\workbook-visual-audit-map.json": "a224fe554f81c5f99df727f94312445d758e16b312848b04cd81aa435a2817e4",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-06-deep-review-2026-09-06-g3.json": "9cd4617523cf5bd745e94fd22c79202f7752c65139be8042dab01f5b97a03d8f",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ethics\\deep-review\\ethics-06-g3.json": "ee198a74a5babdae9e8f938a10b87d599985780008207505e645a4ba59ec0fc4",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\assets\\ethics-06_concept-map_g1.png": "abecad7425879b11e23d60b4b311fedceb7fbe58d0466687b9d30779e33ce935",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\assets\\ethics-06_main-visual-audit_g1.json": "dbfd176b4aa9bb7462c9c1ec3656f0104064ab073128ff4bdfe85675c7e92a21",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\assets\\ethics-06_workbook-visual-audit_g1.json": "7ad5189588b1f51e82be0160899ae9a5094788c04b47db5e3a30e0ab03596184",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.pdf": "2056370f38bc25ddca0c95ed64409da279c7f459d84d8f89e2253eae37bd351b",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.txt": "b3f30e0fd43945ed471707be0dc8677dcca42a36cdba749ee66872b96cd93deb",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\build-audit.json": "41e9953c7c31d2cd3b60ac5cc33548cd176196c3119fac923e4347df9e2f1816",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\master.png": "6fa38eba98ed8f7a9fe1b2e08cf6f20b1cf491602c103ba18e3ec41155f3d9fa",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\poster.pdf": "993f424cff0a437a10b4ae0cff12bb8aa259d42814f0c25879b83379588dc33c",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\preservation-hashes.json": "11e571e11b360e5cadca57e193c4aa640ab0b3d20fdfa108e4ee44dfdb1d46d6",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\README.txt": "db097b346602777105dbde64593f779dea8eefffbf415f82526741cef0c93875",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\tiled.pdf": "e1f238d32ca5248bfdda69c4e632333578754e840fe0f3b502bc4630cbf7ed4e",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\validation-report.txt": "f14411b88483c03d2d371e97511d393ef80f6fcd8abc6cfc343f319b4828df73",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\editable\\topic-spec.json": "ee198a74a5babdae9e8f938a10b87d599985780008207505e645a4ba59ec0fc4",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\contact-sheet-01.png": "6bb7a5aaafc0f66b0de87a6ed2fce732e774174deefa5eef2f8585fa3571d5f0",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\master-overview.png": "ad474f4bdab5792babb0607a2ac53867da8198c390892a70e5523011caf87e22",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\page-001.png": "8c883feb1b6f9f2b18772c6968984387cafc27dbcda434e55f41678ebd015d4a",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\page-002.png": "864147bdf9593c46b9f8db6cf2d43f9fdd1f2c998fc6992001ba50f1d2a3713d",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\page-003.png": "50d63cb23a5363b048b9f83d6fd00f441129927387bc7047e155b541e9060a2d",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\page-004.png": "76a94e8ab654b9e00e91dd02b298263ffe61661c862d80f94ab1fcaa5f68e052",
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\page-005.png": "8f05426f3227c36af3469601847ede38dee7d15716dfc01689bb63adc4b5e9c7",
+      "upsc-ai-kit\\manifests\\v2\\ethics--subject-wide-syllabus-content-specs\\ethics-06-g3.json": "94014f3163e4e9ab48074e7f9ae1bca8feda0e34c519e0773ddf68372289c5b2"
+    },
+    "concept_visual": "notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\assets\\ethics-06\\ethics-06_concept-map_g1.png",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-06-deep-review-2026-09-06-g3.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\ethics--subject-wide-syllabus-content-specs\\ethics-06-g3.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Ethics\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md"
+    ],
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "live_sources": [
+      "https://culture.gov.in/events/ministry-culture-host-sacred-exposition-holy-relics-tathagata-1-14-may-2026-leh-ladakh",
+      "https://culture.gov.in/events/sacred-exposition-holy-relics-tathagata-inaugurated-leh-honble-union-home-minister-shri-amit",
+      "https://www.gandhiheritageportal.org/"
+    ],
+    "current_linkage_note": "Rechecked 2026-09-06 through 5 authoritative or primary-academic source attempts, including 3 substantive live retrievals. Failed or thin attempts remain preserved and support no claim. Legal/institutional fact, ethical analysis and inference are separate.",
+    "live_sources_rechecked_on": "2026-09-06",
+    "verification_scope": "Indian ethical thought, primary attribution and bounded application",
+    "facts_and_inference_separated": true
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3",
+    "master_image": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ethics\\deep-review\\ethics-06-g3.json",
+    "graphical_spec_sha256": "ee198a74a5babdae9e8f938a10b87d599985780008207505e645a4ba59ec0fc4",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 5,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-06-deep-review-2026-09-06-g3.json",
+    "ascii_master_spec_sha256": "9cd4617523cf5bd745e94fd22c79202f7752c65139be8042dab01f5b97a03d8f",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-ethics-deep-review-spec"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-06",
+    "validator": "regenerate_ethics_deep_review.py"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Solved-Practice-Workbook_2026-09-06.md",
+  "generated_on": "2026-09-06"
+}

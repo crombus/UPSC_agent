@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-10",
+  "subject": "Essay",
+  "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+  "short_route": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS → ETHICAL AND PHILOSOPHICAL FRAMEWORKS → ETHICAL AND PHILOSOPHICAL FRAMEWORKS → ETHICAL AND PHILOSOPHICAL FRAMEWORKS → ETHICAL AND PHILOSOPHICAL FRAMEWORKS → ETHICAL AND PHILOSOPHICAL FRAMEWORKS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-10\\g1\\essay-10_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-10-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "01b342f38cba551e2ce0ff72c50fc01e5e6cbb622cda18f3342d2c3513abec66",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERAL AUDITED PROMPTS COMPRESS A VALUE CONFLICT (A",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "PRECEDENCE UNDER A SPECIFIED CONDITION, WITH A STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "USE A CATEGORY ONLY WHEN IT CLARIFIES THE PROMPT'S",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a",
+        "CORE TERMS IN PLAIN LANGUAGE → precedence under a specified condition, with a state",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies",
+        "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a",
+            "CORE TERMS IN PLAIN LANGUAGE → precedence under a specified condition, with a state"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies the prompt's a",
+            "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "USE A CATEGORY ONLY WHEN IT CLARIFIES THE PROMPT'S",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "(POWER VS. CHARACTER/ACCOUNTABILITY), 2025-B8 (CONTE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies",
+        "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What two values does this prompt place in tension",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies the prompt's a",
+            "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension exp",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What two values does this prompt place in tension"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies the prompt's a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "NAME THE VALUES IN GENUINE TENSION EXP",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHAT TWO VALUES DOES THIS PROMPT PLACE IN",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What two values does this prompt place in tension",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration per value-conflict re",
+        "THESIS OPTIONS AND SELECTION → A thesis built on a reasoned, conditional priority (",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension exp",
+          "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration per value-conflict re",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "BASIC DECOMPOSITION QUESTIONS → 1. What two values does this prompt place in tension",
+          "THESIS OPTIONS AND SELECTION → A thesis built on a reasoned, conditional priority (",
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension exp"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension exp",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What two values does this prompt place in tension"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration per value-conflict re",
+            "THESIS OPTIONS AND SELECTION → A thesis built on a reasoned, conditional priority ("
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension exp"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "India-first illustration starters",
+        "Thesis options and selection"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "RECALL ONE INDIAN ILLUSTRATION PER VALUE-CONFLICT RE",
+          "role": "evidence"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "A THESIS BUILT ON A REASONED, CONDITIONAL PRIORITY (",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEDICATE ONE PARAGRAPH TO NAMING THE CONFLICT, ONE O",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration per value-conflict re",
+        "THESIS OPTIONS AND SELECTION → A thesis built on a reasoned, conditional priority (",
+        "SIMPLE ESSAY ARCHITECTURE → Dedicate one paragraph to naming the conflict, one o",
+        "OPENING, BODY AND CLOSURE MOVES → Avoid opening or closing with a bare philosopher's n",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration per value-conflict re",
+            "THESIS OPTIONS AND SELECTION → A thesis built on a reasoned, conditional priority ("
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → Dedicate one paragraph to naming the conflict, one o",
+            "OPENING, BODY AND CLOSURE MOVES → Avoid opening or closing with a bare philosopher's n"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration per value-conflict re"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEDICATE ONE PARAGRAPH TO NAMING THE CONFLICT, ONE O",
+          "role": "evidence"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "primary"
+        },
+        {
+          "text": "AVOID OPENING OR CLOSING WITH A BARE PHILOSOPHER'S N",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "EITHER EXPLAIN THE SPECIFIC MECHANISM/REASON",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "SIMPLE ESSAY ARCHITECTURE → Dedicate one paragraph to naming the conflict, one o",
+        "OPENING, BODY AND CLOSURE MOVES → Avoid opening or closing with a bare philosopher's n",
+        "TRAPS AND REPAIR MOVES → Repair: either explain the specific mechanism/reason",
+        "TRAPS AND REPAIR MOVES — 2 → required content. → Repair: use only what the",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → Dedicate one paragraph to naming the conflict, one o",
+            "OPENING, BODY AND CLOSURE MOVES → Avoid opening or closing with a bare philosopher's n"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES → Repair: either explain the specific mechanism/reason",
+            "TRAPS AND REPAIR MOVES — 2 → required content. → Repair: use only what the argume"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "SIMPLE ESSAY ARCHITECTURE → Dedicate one paragraph to naming the conflict, one o"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Traps and repair moves",
+        "Traps and repair moves — 2"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "EITHER EXPLAIN THE SPECIFIC MECHANISM/REASON",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "primary"
+        },
+        {
+          "text": "REQUIRED CONTENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "USE ONLY WHAT THE ARGUME",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES → Repair: either explain the specific mechanism/reason",
+        "TRAPS AND REPAIR MOVES — 2 → required content. → Repair: use only what the",
+        "TRAPS AND REPAIR MOVES — 3 → the specific values or the condition. → Repair",
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt with a value conflict",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TRAPS AND REPAIR MOVES → Repair: either explain the specific mechanism/reason",
+            "TRAPS AND REPAIR MOVES — 2 → required content. → Repair: use only what the argume"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 3 → the specific values or the condition. → Repair: alwa",
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt with a value conflict"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES → Repair: either explain the specific mechanism/reason"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves",
+        "Traps and repair moves — 2",
+        "Traps and repair moves — 3",
+        "Timed micro-drill and self-check"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 3",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SPECIFIC VALUES OR THE CONDITION.",
+          "role": "evidence"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK",
+          "role": "primary"
+        },
+        {
+          "text": "5-MINUTE DRILL",
+          "role": "outcome"
+        },
+        {
+          "text": "FOR ANY PROMPT WITH A VALUE CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES — 3 → the specific values or the condition. → Repair",
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt with a value conflict",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 10 supplies the compact category c",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Ethical categories operate differently by scale: dig",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "TRAPS AND REPAIR MOVES — 3 → the specific values or the condition. → Repair: alwa",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 10 supplies the compact category c",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt with a value conflict",
+          "LEVELS OF ANALYSIS AND TEMPORAL-SP → Ethical categories operate differently by scale: dig",
+          "TRAPS AND REPAIR MOVES — 3 → the specific values or the condition. → Repair: alwa"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 3 → the specific values or the condition. → Repair: alwa",
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt with a value conflict"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 10 supplies the compact category c",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Ethical categories operate differently by scale: dig"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES — 3 → the specific values or the condition. → Repair: alwa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves — 3",
+        "Timed micro-drill and self-check",
+        "Advanced proposition and boundary",
+        "Levels of analysis and temporal-spatial scale"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE 10 SUPPLIES THE COMPACT CATEGORY C",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "ETHICAL CATEGORIES OPERATE DIFFERENTLY BY SCALE",
+          "role": "outcome"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR EACH VALUE CONFLICT, MAP WHICH STAKEHOLDER GROUP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 10 supplies the compact category c",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Ethical categories operate differently by scale: dig",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each value conflict, map which stakeholder group",
+        "CAUSALITY, MECHANISMS AND FEEDBACK → NAME THE TWO ETHICAL CATEGORIES IN TENSION v STATE E",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 10 supplies the compact category c",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Ethical categories operate differently by scale: dig"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each value conflict, map which stakeholder group",
+            "CAUSALITY, MECHANISMS AND FEEDBACK → NAME THE TWO ETHICAL CATEGORIES IN TENSION v STATE E"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 10 supplies the compact category c"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects",
+        "Causality, mechanisms and feedback loops"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR EACH VALUE CONFLICT, MAP WHICH STAKEHOLDER GROUP",
+          "role": "evidence"
+        },
+        {
+          "text": "CAUSALITY, MECHANISMS AND FEEDBACK",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE TWO ETHICAL CATEGORIES IN TENSION V STATE",
+          "role": "institution"
+        },
+        {
+          "text": "THE FINAL FEEDBACK CHECK (REPRESENTING OTHERWISE-SIL",
+          "role": "comparison"
+        },
+        {
+          "text": "NECESSARY/SUFFICIENT CONDITIONS AN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each value conflict, map which stakeholder group",
+        "CAUSALITY, MECHANISMS AND FEEDBACK → NAME THE TWO ETHICAL CATEGORIES IN TENSION v STATE E",
+        "CAUSALITY, MECHANISMS AND FEEDBACK → The final feedback check (representing otherwise-sil",
+        "NECESSARY/SUFFICIENT CONDITIONS AN → Naming the ethical categories precisely is necessary",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each value conflict, map which stakeholder group",
+            "CAUSALITY, MECHANISMS AND FEEDBACK → NAME THE TWO ETHICAL CATEGORIES IN TENSION v STATE E"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CAUSALITY, MECHANISMS AND FEEDBACK → The final feedback check (representing otherwise-sil",
+            "NECESSARY/SUFFICIENT CONDITIONS AN → Naming the ethical categories precisely is necessary"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each value conflict, map which stakeholder group"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Stakeholder map and distributional effects",
+        "Causality, mechanisms and feedback loops",
+        "Causality, mechanisms and feedback loops — 2",
+        "Necessary/sufficient conditions and exceptions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSALITY, MECHANISMS AND FEEDBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FINAL FEEDBACK CHECK (REPRESENTING OTHERWISE-SIL",
+          "role": "evidence"
+        },
+        {
+          "text": "NECESSARY/SUFFICIENT CONDITIONS AN",
+          "role": "primary"
+        },
+        {
+          "text": "NAMING THE ETHICAL CATEGORIES PRECISELY IS NECESSARY",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERAL AUDITED PROMPTS COMPRESS A VALUE CONFLICT (A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAUSALITY, MECHANISMS AND FEEDBACK → The final feedback check (representing otherwise-sil",
+        "NECESSARY/SUFFICIENT CONDITIONS AN → Naming the ethical categories precisely is necessary",
+        "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a",
+        "CORE TERMS IN PLAIN LANGUAGE → precedence under a specified condition, with a state",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CAUSALITY, MECHANISMS AND FEEDBACK → The final feedback check (representing otherwise-sil",
+            "NECESSARY/SUFFICIENT CONDITIONS AN → Naming the ethical categories precisely is necessary"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a",
+            "CORE TERMS IN PLAIN LANGUAGE → precedence under a specified condition, with a state"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "CAUSALITY, MECHANISMS AND FEEDBACK → The final feedback check (representing otherwise-sil"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Causality, mechanisms and feedback loops — 2",
+        "Necessary/sufficient conditions and exceptions",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERAL AUDITED PROMPTS COMPRESS A VALUE CONFLICT (A",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "PRECEDENCE UNDER A SPECIFIED CONDITION, WITH A STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "USE A CATEGORY ONLY WHEN IT CLARIFIES THE PROMPT'S",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a",
+        "CORE TERMS IN PLAIN LANGUAGE → precedence under a specified condition, with a state",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies",
+        "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a",
+            "CORE TERMS IN PLAIN LANGUAGE → precedence under a specified condition, with a state"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies the prompt's a",
+            "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → Several audited prompts compress a value conflict (a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ETHICAL AND PHILOSOPHICAL FRAMEWORKS AND VALUE CONFLICTS",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "USE A CATEGORY ONLY WHEN IT CLARIFIES THE PROMPT'S",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "(POWER VS. CHARACTER/ACCOUNTABILITY), 2025-B8 (CONTE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies",
+        "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What two values does this prompt place in tension",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies the prompt's a",
+            "EXAM FACTS / SOURCE BASIS → (power vs. character/accountability), 2025-B8 (conte"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: name the values in genuine tension exp",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What two values does this prompt place in tension"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Use a category only when it clarifies the prompt's a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS-BASED CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "AN ENTITLEMENT THAT SHOULD NOT BE OVERRIDDEN",
+          "role": "caution"
+        },
+        {
+          "text": "WELFARE-BASED CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "AN OUTCOME JUSTIFIED BY NET BENEFIT TO THE",
+          "role": "primary"
+        },
+        {
+          "text": "CARE-BASED CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "AN OBLIGATION ARISING FROM RELATIONSHIP OR",
+          "role": "comparison"
+        },
+        {
+          "text": "ECOLOGICAL-RESPONSIBILITY CLAIM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Rights-based claim: an entitlement that should not be overridden",
+            "Welfare-based claim: an outcome justified by net benefit to the",
+            "Care-based claim: an obligation arising from relationship or",
+            "Ecological-responsibility claim: an obligation extending beyond"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Straw-manning one ethical category to make the other easily",
+            "NOT: Unqualified absolutism (\"rights always trump welfare,\" or vice",
+            "NOT: Ignoring the currently-voiceless stakeholder (future",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains)."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Core area: Rigorous value-conflict resolution using rights, welfare, dignity, fairness, care and ecological responsibility as analytical categories",
+            "avoiding both relativism and unqualified absolutism.",
+            "Grounded in: V1 (2018–2025) UPSC Essay paper corpus (see ../README.md)",
+            "../00 Master-Framework.md Section 7"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -5,8 +5,8 @@ Topic: Diverse Perspectives on the State
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 13
-Source record ID: political-theory-13:learner-v2:g3
-Source generation: 3
+Source record ID: political-theory-13:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

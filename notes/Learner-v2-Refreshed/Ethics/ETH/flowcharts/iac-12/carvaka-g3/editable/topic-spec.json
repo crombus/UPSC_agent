@@ -1,0 +1,1245 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-12",
+  "subject": "Ethics",
+  "title": "CORPORATE GOVERNANCE AND INTERNATIONAL ETHICS",
+  "short_route": "THREE LAYERS OF ETHICAL → ARC INTEGRATION TEST → CORPORATE GOVERNANCE CONTROL CHAIN → CSR STATUTORY ARCHITECTURE → UNSPENT AND IMPACT CHRONOLOGY → STAKEHOLDER AND SHAREHOLDER TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-12-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "d0a6dd3fca6bc2b61568a835d126d024b9c0cc86cb9ee498f187570976abdf29",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE LAYERS OF ETHICAL ENTERPRISE",
+      "structural_type": "three-layer-foundation",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE LAYERS OF ETHICAL ENTERPRISE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. THREE LAYERS OF ETHICAL ENTERPRISE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ETHICS IN BUSINESS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] EVERYDAY COMMERCIAL MEANS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CORPORATE GOVERNANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] BOARD, AUDIT AND DISCLOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CORE-OPERATION INTEGRITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Three layers of ethical enterprise",
+        "[1] Ethics in business",
+        "[2] Everyday commercial means",
+        "[3] Corporate governance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Three layers of ethical enterprise",
+            "[1] Ethics in business",
+            "[2] Everyday commercial means",
+            "[3] Corporate governance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Board, audit and disclosure",
+            "[5] Core-operation integrity",
+            "[6] Safe and fair production",
+            "[7] Statutory CSR spend",
+            "[8] No moral offset"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Governance, core conduct and CSR are complementary but never interchangeable.",
+            "ANSWER USE → Use to open CSR or corporate-governance answers.",
+            "MUST REMEMBER: Corporate ethics joins fiduciary duty, stakeholder impacts, worker and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Governance, core conduct and CSR are complementary but never interchangeable.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARC INTEGRATION TEST",
+      "structural_type": "bolt-on-versus-embedded",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARC INTEGRATION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. ARC INTEGRATION TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] REJECT ETHICS AS PUBLIC RELATIONS",
+          "role": "caution"
+        },
+        {
+          "text": "[2] TEST PRICING AND PROCUREMENT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST LABOUR AND PRODUCT SAFETY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TEST ACCOUNTING AND DISCLOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] GIVE ETHICS BOARD ACCESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. ARC integration test",
+        "[1] Reject ethics as public relations",
+        "[2] Test pricing and procurement",
+        "[3] Test labour and product safety"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. ARC integration test",
+            "[1] Reject ethics as public relations",
+            "[2] Test pricing and procurement",
+            "[3] Test labour and product safety"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Test accounting and disclosure",
+            "[5] Give ethics board access",
+            "[6] Align incentives with integrity",
+            "[7] Protect internal challenge",
+            "[8] Audit real outcomes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Ethics must govern profit-making decisions, not decorate them afterward.",
+            "ANSWER USE → Use for the ARC ethics-in-business distinction.",
+            "CLOSE DISTINCTION: International ethics must separate state interest, international law,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Ethics must govern profit-making decisions, not decorate them afterward.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CORPORATE GOVERNANCE CONTROL CHAIN",
+      "structural_type": "board-control-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CORPORATE GOVERNANCE CONTROL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. CORPORATE GOVERNANCE CONTROL CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE BOARD RESPONSIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SEPARATE OVERSIGHT AND MANAGEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] STRENGTHEN AUDIT INDEPENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DISCLOSE MATERIAL INFORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[5] RECORD CONFLICTS OF INTEREST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Corporate governance control chain",
+        "[1] Define board responsibility",
+        "[2] Separate oversight and management",
+        "[3] Strengthen audit independence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Corporate governance control chain",
+            "[1] Define board responsibility",
+            "[2] Separate oversight and management",
+            "[3] Strengthen audit independence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Disclose material information",
+            "[5] Record conflicts of interest",
+            "[6] Scrutinise related parties",
+            "[7] Protect whistleblowers",
+            "[8] Correct and report failure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Structures matter because integrity needs authority, information and follow-up.",
+            "ANSWER USE → Use for 2023 Q1(a) and governance reform.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named laws, UNCAC or treaty principles with..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Structures matter because integrity needs authority, information and follow-up.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CSR STATUTORY ARCHITECTURE",
+      "structural_type": "threshold-to-impact-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CSR STATUTORY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. CSR STATUTORY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] TEST ANY ONE THRESHOLD",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] APPLY TWO-PERCENT FORMULA",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CHOOSE SCHEDULE VII ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] APPROVE AND DISCLOSE POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CLASSIFY UNSPENT AMOUNT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. CSR statutory architecture",
+        "[1] Test any one threshold",
+        "[2] Apply two-percent formula",
+        "[3] Choose Schedule VII activity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. CSR statutory architecture",
+            "[1] Test any one threshold",
+            "[2] Apply two-percent formula"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Choose Schedule VII activity",
+            "[4] Approve and disclose policy",
+            "[5] Classify unspent amount",
+            "[6] Use correct transfer route"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Assess qualifying impact",
+            "[8] Separate spend from ethics",
+            "VERDICT → CSR is a statutory floor for qualifying companies, not discretionary compliance.",
+            "ANSWER USE → Use for 2022 Q6(b) and close-option facts."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → CSR is a statutory floor for qualifying companies, not discretionary compliance.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "UNSPENT AND IMPACT CHRONOLOGY",
+      "structural_type": "statute-rules-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "UNSPENT AND IMPACT CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UNSPENT AND IMPACT CHRONOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] 2013",
+          "role": "evidence"
+        },
+        {
+          "text": "S.135 FRAMEWORK",
+          "role": "primary"
+        },
+        {
+          "text": "[2] 2019",
+          "role": "outcome"
+        },
+        {
+          "text": "UNSPENT ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] 2021",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Unspent and impact chronology",
+        "[1] 2013: s.135 framework",
+        "[2] 2019: unspent architecture",
+        "[3] 2021: provisions operational"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Unspent and impact chronology",
+            "[1] 2013: s.135 framework",
+            "[2] 2019: unspent architecture"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] 2021: provisions operational",
+            "[4] 2021: ongoing project defined",
+            "[5] 2021: CSR-1 registration",
+            "[6] 2021: impact mandate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] 2022: cost cap revised",
+            "[8] 2026: bounded SSE route",
+            "VERDICT → Keep statutory creation, rule-level operation and later amendment claims separate.",
+            "ANSWER USE → Use to prevent CSR chronology errors."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Keep statutory creation, rule-level operation and later amendment claims separate.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "STAKEHOLDER AND SHAREHOLDER TEST",
+      "structural_type": "two-model-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STAKEHOLDER AND SHAREHOLDER TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. STAKEHOLDER AND SHAREHOLDER TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY OWNERS' LEGITIMATE CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PROTECT LONG-TERM ENTERPRISE VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY EMPLOYEE INTERESTS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PROTECT CONSUMER SAFETY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] INCLUDE AFFECTED COMMUNITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Stakeholder and shareholder test",
+        "[1] Identify owners' legitimate claim",
+        "[2] Protect long-term enterprise value",
+        "[3] Identify employee interests"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Identify employee interests",
+          "[7] Consider future generations"
+        ],
+        [
+          "6. Stakeholder and shareholder test",
+          "[4] Protect consumer safety",
+          "[8] Give a weighted verdict"
+        ],
+        [
+          "[1] Identify owners' legitimate claim",
+          "[5] Include affected community",
+          "VERDICT → Profit remains legitimate but is constrained by rights, harm and durable trust."
+        ],
+        [
+          "[2] Protect long-term enterprise value",
+          "[6] Internalise environmental harm",
+          "ANSWER USE → Use for sustainability and product-safety cases."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Stakeholder and shareholder test",
+            "[1] Identify owners' legitimate claim",
+            "[2] Protect long-term enterprise value"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify employee interests",
+            "[4] Protect consumer safety",
+            "[5] Include affected community",
+            "[6] Internalise environmental harm"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Consider future generations",
+            "[8] Give a weighted verdict",
+            "VERDICT → Profit remains legitimate but is constrained by rights, harm and durable trust.",
+            "ANSWER USE → Use for sustainability and product-safety cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Profit remains legitimate but is constrained by rights, harm and durable trust.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SERIOUS FRAUD AND WHISTLEBLOWING",
+      "structural_type": "institutional-evolution-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SERIOUS FRAUD AND WHISTLEBLOWING",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. SERIOUS FRAUD AND WHISTLEBLOWING",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] FRAGMENTED FRAUD INVESTIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] NARESH CHANDRA 2002 PROPOSAL",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SFIO SET UP IN 2003",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] STATUTORY BASIS IN S.211",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MULTIDISCIPLINARY INVESTIGATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Serious fraud and whistleblowing",
+        "[1] Fragmented fraud investigation",
+        "[2] Naresh Chandra 2002 proposal",
+        "[3] SFIO set up in 2003"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Serious fraud and whistleblowing",
+            "[1] Fragmented fraud investigation",
+            "[2] Naresh Chandra 2002 proposal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] SFIO set up in 2003",
+            "[4] Statutory basis in s.211",
+            "[5] Multidisciplinary investigation",
+            "[6] Bounded s.212 arrest power"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] SOX s.806 civil remedy",
+            "[8] SOX s.1107 criminal offence",
+            "VERDICT → Precision about institutions and remedies prevents attractive but false equivalence.",
+            "ANSWER USE → Use in corporate-fraud and whistleblower answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Precision about institutions and remedies prevents attractive but false equivalence.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INTERNATIONAL ANTI-CORRUPTION LAYERS",
+      "structural_type": "four-logic-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTERNATIONAL ANTI-CORRUPTION LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. INTERNATIONAL ANTI-CORRUPTION LAYERS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] UNCAC TREATY OBLIGATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] INDIA RATIFIED IN 2011",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ADB-OECD COOPERATIVE PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] NOT OECD CONVENTION MEMBERSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "[5] LENDER FINANCIAL CONDITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. International anti-corruption layers",
+        "[1] UNCAC treaty obligations",
+        "[2] India ratified in 2011",
+        "[3] ADB-OECD cooperative plan"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] ADB-OECD cooperative plan",
+          "[7] FCPA issuer accounting rules"
+        ],
+        [
+          "8. International anti-corruption layers",
+          "[4] Not OECD Convention membership",
+          "[8] Domestic implementation needed"
+        ],
+        [
+          "[1] UNCAC treaty obligations",
+          "[5] Lender financial conditions",
+          "VERDICT → Treaty, cooperation, lending and extraterritorial law use different logics."
+        ],
+        [
+          "[2] India ratified in 2011",
+          "[6] FCPA anti-bribery rules",
+          "ANSWER USE → Use for global anti-corruption questions."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. International anti-corruption layers",
+            "[1] UNCAC treaty obligations",
+            "[2] India ratified in 2011"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] ADB-OECD cooperative plan",
+            "[4] Not OECD Convention membership",
+            "[5] Lender financial conditions",
+            "[6] FCPA anti-bribery rules"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] FCPA issuer accounting rules",
+            "[8] Domestic implementation needed",
+            "VERDICT → Treaty, cooperation, lending and extraterritorial law use different logics.",
+            "ANSWER USE → Use for global anti-corruption questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Treaty, cooperation, lending and extraterritorial law use different logics.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INTERNATIONAL AID ETHICS",
+      "structural_type": "balanced-aid-compact",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INTERNATIONAL AID ETHICS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. INTERNATIONAL AID ETHICS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] BEGIN WITH HUMAN NEED",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PRESERVE RECIPIENT OWNERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST DONOR CONDITIONALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] AVOID TIED ADVANTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CREATE DUAL ACCOUNTABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. International aid ethics",
+        "[1] Begin with human need",
+        "[2] Preserve recipient ownership",
+        "[3] Test donor conditionality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. International aid ethics",
+            "[1] Begin with human need",
+            "[2] Preserve recipient ownership"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Test donor conditionality",
+            "[4] Avoid tied advantage",
+            "[5] Create dual accountability",
+            "[6] Prevent diversion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Reduce dependency",
+            "[8] Build capacity and exit",
+            "VERDICT → Ethical aid enlarges local agency while retaining transparent use safeguards.",
+            "ANSWER USE → Use for 2023 Q1(b)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Ethical aid enlarges local agency while retaining transparent use safeguards.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WAR AND ARMS-TRANSFER ETHICS",
+      "structural_type": "force-and-transfer-test",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WAR AND ARMS-TRANSFER ETHICS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. WAR AND ARMS-TRANSFER ETHICS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RESPECT SOVEREIGNTY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] TEST LAWFUL RESORT TO FORCE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] DISTINGUISH CIVILIANS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] APPLY PROPORTIONALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PROTECT NEUTRAL AID",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. War and arms-transfer ethics",
+        "[1] Respect sovereignty",
+        "[2] Test lawful resort to force",
+        "[3] Distinguish civilians"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. War and arms-transfer ethics",
+            "[1] Respect sovereignty",
+            "[2] Test lawful resort to force"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Distinguish civilians",
+            "[4] Apply proportionality",
+            "[5] Protect neutral aid",
+            "[6] Assess arms end use"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Check diversion risk",
+            "[8] Monitor and suspend misuse",
+            "VERDICT → Strategic purpose never removes civilian-protection and foreseeable-harm duties.",
+            "ANSWER USE → Use for 2020 Q8, 2022 Q5(a) and 2025 Q2(a)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Strategic purpose never removes civilian-protection and foreseeable-harm duties.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PRIVATE-INSTITUTION DILEMMA ROUTE",
+      "structural_type": "conflict-safety-decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PRIVATE-INSTITUTION DILEMMA ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. PRIVATE-INSTITUTION DILEMMA ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "[1] STATE FACTS AND STAKEHOLDERS",
+          "role": "institution"
+        },
+        {
+          "text": "[2] IDENTIFY CONFLICT OR SAFETY FLOOR",
+          "role": "primary"
+        },
+        {
+          "text": "[3] DISCLOSE MATERIAL INTEREST",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] RECUSE OR REFUSE CERTIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PRESERVE RECORDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Private-institution dilemma route",
+        "[1] State facts and stakeholders",
+        "[2] Identify conflict or safety floor",
+        "[3] Disclose material interest"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Private-institution dilemma route",
+            "[1] State facts and stakeholders",
+            "[2] Identify conflict or safety floor"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Disclose material interest",
+            "[4] Recuse or refuse certification",
+            "[5] Preserve records",
+            "[6] Seek independent review"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Remedy affected persons",
+            "[8] Redesign incentives and controls",
+            "VERDICT → Private ownership does not erase patient, consumer or fair-process duties.",
+            "ANSWER USE → Use for Sneha, food and defective-product cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Private ownership does not erase patient, consumer or fair-process duties.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MAINS ANSWER SPINE",
+      "structural_type": "eight-step-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MAINS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. MAINS ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE PRECISE ETHICAL LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] STATE A QUALIFIED THESIS",
+          "role": "institution"
+        },
+        {
+          "text": "[3] NAME THE GOVERNING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] USE EXACT LAW OR INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "[5] APPLY AN INDIA-CENTRIC EXAMPLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Mains answer spine",
+        "[1] Define the precise ethical layer",
+        "[2] State a qualified thesis",
+        "[3] Name the governing mechanism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Mains answer spine",
+            "[1] Define the precise ethical layer",
+            "[2] State a qualified thesis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Name the governing mechanism",
+            "[4] Use exact law or institution",
+            "[5] Apply an India-centric example",
+            "[6] Test the strongest limitation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Propose verifiable safeguards",
+            "[8] Conclude with balanced duty",
+            "VERDICT → High-scoring answers distinguish mechanisms before recommending an ethical balance.",
+            "ANSWER USE → Use as the final theory and case-study checklist."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → High-scoring answers distinguish mechanisms before recommending an ethical balance.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g2\\ethics-12_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-12\\g3\\ethics-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1335 @@
+{
+  "schema_version": 1,
+  "subject": "Ethics",
+  "access_date": "2026-09-06",
+  "generated_at": "2026-09-06T10:10:07.907739+00:00",
+  "topic_count": 23,
+  "result": "passed",
+  "policy": {
+    "authoritative_or_primary_academic_domains_only": true,
+    "minimum_attempts_per_topic": 2,
+    "minimum_substantive_retrievals_per_topic": 1,
+    "failed_intermediates_preserved": true,
+    "facts_and_inference_separated": true,
+    "quotation_and_thinker_attribution_requires_primary_or_academic_support": true
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-01",
+      "access_date": "2026-09-06",
+      "verification_scope": "ethics, morality, propriety, public power and constitutional morality",
+      "attempted": 5,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 105336,
+          "sample_sha256": "ca6d31eae627007c6401d197dcfccc114cbc4e7aacd4c4c35426106d7cc2be80",
+          "title": "Central Civil Services (Conduct) Rules, 1964 (Updated) | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://dopt.gov.in/schemes/national-programme-civil-services-and-capacity-building-npcscb-mission-karmayogi",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/schemes/national-programme-civil-services-and-capacity-building-npcscb-mission-karmayogi",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 116682,
+          "sample_sha256": "4177878c5a919754a5ff1331d4dbd288cc9ce798aaf7b04ce3387e513344a621",
+          "title": "National Programme for Civil Services and Capacity Building (NPCSCB)- Mission Karmayogi | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2065",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226246&reg=3&lang=1",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226246&reg=3&lang=1",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 88306,
+          "sample_sha256": "e030ed714c485a23015d296a976586195a6ddae31c6742b8d8ec51da26d171ae",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-02",
+      "access_date": "2026-09-06",
+      "verification_scope": "value formation, verified leaders, teachings and quotation integrity",
+      "attempted": 6,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://dopt.gov.in/schemes/national-programme-civil-services-and-capacity-building-npcscb-mission-karmayogi",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/schemes/national-programme-civil-services-and-capacity-building-npcscb-mission-karmayogi",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 116682,
+          "sample_sha256": "4177878c5a919754a5ff1331d4dbd288cc9ce798aaf7b04ce3387e513344a621",
+          "title": "National Programme for Civil Services and Capacity Building (NPCSCB)- Mission Karmayogi | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://igotkarmayogi.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://igotkarmayogi.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 75606,
+          "sample_sha256": "64b5f23f0fb93221c55ec1536daf8d170a5fb1eddfbf0b4751283c9116e444ae",
+          "title": "iGot",
+          "substantive": true
+        },
+        {
+          "url": "https://www.drambedkarwritings.gov.in/",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>",
+          "substantive": false
+        },
+        {
+          "url": "https://www.gandhiheritageportal.org/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.gandhiheritageportal.org/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 47005,
+          "sample_sha256": "ce7b88f6872d31eaf6fc7ef603ab218023fdf251ec1ece207962161daa85549d",
+          "title": "Gandhi Heritage Portal: Repository of Authentic Information on the life and thoughts of Mahatma Gandhi",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226246&reg=3&lang=1",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226246&reg=3&lang=1",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 88306,
+          "sample_sha256": "b7cda72e04956e80fe1a4b1bd351cf4b1b94301cb6c6607d77317afcbd94595c",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-03",
+      "access_date": "2026-09-06",
+      "verification_scope": "attitude structure, persuasion, manipulation, coercion and behaviour",
+      "attempted": 2,
+      "substantive_retrievals": 1,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://nidm.gov.in/PDF/Modules/SBCFacilitatorGuide_2026.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://nidm.gov.in/PDF/Modules/SBCFacilitatorGuide_2026.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "93f0ccaafc3e3110943a87087a0b66ffc90e00266d11d2fec65ca2804a0bab48",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-04",
+      "access_date": "2026-09-06",
+      "verification_scope": "civil-service competencies, foundational values and conduct",
+      "attempted": 8,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cbc.gov.in/karmayogi-competency-model-kcm",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cbc.gov.in/karmayogi-competency-model-kcm",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 65555,
+          "sample_sha256": "b9c5e7a096f7f73c5b9c7462b39b2d0825bb6ea389ac1d463786188ca1dce17c",
+          "title": "Karmayogi Competency Model (KCM) | cbc",
+          "substantive": true
+        },
+        {
+          "url": "https://cbc.gov.in/mission-karmayogi-showcases-ai-enabled-capacity-building-civil-servants-indiaai-impact-summit-2026",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cbc.gov.in/mission-karmayogi-showcases-ai-enabled-capacity-building-civil-servants-indiaai-impact-summit-2026",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 56046,
+          "sample_sha256": "92f2c8ee76dfda585dc2a363e86c72a2a52ab73e05cc268c648aa14b3174a8a1",
+          "title": "Mission Karmayogi showcases AI-Enabled Capacity Building of Civil Servants at IndiaAI Impact Summit 2026 | cbc",
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 105336,
+          "sample_sha256": "ca6d31eae627007c6401d197dcfccc114cbc4e7aacd4c4c35426106d7cc2be80",
+          "title": "Central Civil Services (Conduct) Rules, 1964 (Updated) | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://dopt.gov.in/schemes/national-programme-civil-services-and-capacity-building-npcscb-mission-karmayogi",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/schemes/national-programme-civil-services-and-capacity-building-npcscb-mission-karmayogi",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 116682,
+          "sample_sha256": "4177878c5a919754a5ff1331d4dbd288cc9ce798aaf7b04ce3387e513344a621",
+          "title": "National Programme for Civil Services and Capacity Building (NPCSCB)- Mission Karmayogi | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://igotkarmayogi.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://igotkarmayogi.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 75606,
+          "sample_sha256": "64b5f23f0fb93221c55ec1536daf8d170a5fb1eddfbf0b4751283c9116e444ae",
+          "title": "iGot",
+          "substantive": true
+        },
+        {
+          "url": "https://trgdiv.dopt.gov.in/igotmk/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://trgdiv.dopt.gov.in/igotmk/",
+          "content_type": "text/html",
+          "bytes_sampled": 41152,
+          "sample_sha256": "808e5b1d632d4049804988113cd823fc08ffee6ddef300776665869ae03ee8d0",
+          "title": "TRAINING DIVISION | Department of Personnel & Training Government Of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2065",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-05",
+      "access_date": "2026-09-06",
+      "verification_scope": "emotional intelligence models, limits and administrative application",
+      "attempted": 3,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cbc.gov.in/karmayogi-competency-model-kcm",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cbc.gov.in/karmayogi-competency-model-kcm",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 65555,
+          "sample_sha256": "b9c5e7a096f7f73c5b9c7462b39b2d0825bb6ea389ac1d463786188ca1dce17c",
+          "title": "Karmayogi Competency Model (KCM) | cbc",
+          "substantive": true
+        },
+        {
+          "url": "https://cbc.gov.in/mission-karmayogi-showcases-ai-enabled-capacity-building-civil-servants-indiaai-impact-summit-2026",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cbc.gov.in/mission-karmayogi-showcases-ai-enabled-capacity-building-civil-servants-indiaai-impact-summit-2026",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 56046,
+          "sample_sha256": "92f2c8ee76dfda585dc2a363e86c72a2a52ab73e05cc268c648aa14b3174a8a1",
+          "title": "Mission Karmayogi showcases AI-Enabled Capacity Building of Civil Servants at IndiaAI Impact Summit 2026 | cbc",
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-06",
+      "access_date": "2026-09-06",
+      "verification_scope": "Indian ethical thought, primary attribution and bounded application",
+      "attempted": 5,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://culture.gov.in/events/ministry-culture-host-sacred-exposition-holy-relics-tathagata-1-14-may-2026-leh-ladakh",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://culture.gov.in/events/ministry-culture-host-sacred-exposition-holy-relics-tathagata-1-14-may-2026-leh-ladakh",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 290743,
+          "sample_sha256": "a96f72031b4ed4d30f378ba217041fd38d899f2544d2daa29a6ecb9fc7eb215c",
+          "title": "Ministry of Culture to host ‘Sacred Exposition of the Holy Relics of Tathagata’ From 1-14 May 2026 in Leh-Ladakh | Ministry of Culture",
+          "substantive": true
+        },
+        {
+          "url": "https://culture.gov.in/events/sacred-exposition-holy-relics-tathagata-inaugurated-leh-honble-union-home-minister-shri-amit",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://culture.gov.in/events/sacred-exposition-holy-relics-tathagata-inaugurated-leh-honble-union-home-minister-shri-amit",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 289763,
+          "sample_sha256": "5182d7cc14f410627319d5f9f50e97d64de3744a8de17df142c466fbd443c5d8",
+          "title": "Sacred Exposition of Holy Relics of the Tathagata Inaugurated in Leh by Hon'ble Union Home Minister Shri Amit Shah | Ministry of Culture",
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.drambedkarwritings.gov.in/",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>",
+          "substantive": false
+        },
+        {
+          "url": "https://www.gandhiheritageportal.org/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.gandhiheritageportal.org/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 47005,
+          "sample_sha256": "33a5f2c9a06db08b3ec634dc97958687a9932b6031f63a5436fdeb75d5c0fff3",
+          "title": "Gandhi Heritage Portal: Repository of Authentic Information on the life and thoughts of Mahatma Gandhi",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-07",
+      "access_date": "2026-09-06",
+      "verification_scope": "Western moral thinkers, doctrines, objections and quotation integrity",
+      "attempted": 5,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://impact.indiaai.gov.in/IndiaAI_Governance_Guidelines.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://impact.indiaai.gov.in/IndiaAI_Governance_Guidelines.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "361be5c37f90c10d5089508444991868dd7672be38a060f8fcacbfb70f8470c0",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/aristotle-ethics/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://plato.stanford.edu/entries/aristotle-ethics/",
+          "content_type": "text/html",
+          "bytes_sampled": 166893,
+          "sample_sha256": "f5898eba27a3c1e3adff085aeeba1786aa12ab3a9b9bc4d996a81ce8948ad9b6",
+          "title": "Aristotle’s Ethics (Stanford Encyclopedia of Philosophy)",
+          "substantive": true
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/kant-moral/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://plato.stanford.edu/entries/kant-moral/",
+          "content_type": "text/html",
+          "bytes_sampled": 171211,
+          "sample_sha256": "cc4105b10e2e351d93a73414752fb623c082c003d85f0899101488958341fa44",
+          "title": "Kant’s Moral Philosophy (Stanford Encyclopedia of Philosophy)",
+          "substantive": true
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/rawls/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://plato.stanford.edu/entries/rawls/",
+          "content_type": "text/html",
+          "bytes_sampled": 130530,
+          "sample_sha256": "a714fb3e5ccca989b16fefa1ed85c6fd666967dfa8fd26645cdbef87ffae35a2",
+          "title": "John Rawls (Stanford Encyclopedia of Philosophy)",
+          "substantive": true
+        },
+        {
+          "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026219796801.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026219796801.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 285561,
+          "sample_sha256": "13840bdf8f094d44219a1f0339eb67fa3e45c9800ae36c3ff8211088884f1108",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-08",
+      "access_date": "2026-09-06",
+      "verification_scope": "deontology, consequences, virtue, care, justice and plural testing",
+      "attempted": 6,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://impact.indiaai.gov.in/IndiaAI_Governance_Guidelines.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://impact.indiaai.gov.in/IndiaAI_Governance_Guidelines.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "361be5c37f90c10d5089508444991868dd7672be38a060f8fcacbfb70f8470c0",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/consequentialism/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://plato.stanford.edu/entries/consequentialism/",
+          "content_type": "text/html",
+          "bytes_sampled": 105238,
+          "sample_sha256": "bb8baa990a120e245b8613d940611aa020fe6d7c60c9f85ffe9ddc8531652f8a",
+          "title": "Consequentialism (Stanford Encyclopedia of Philosophy)",
+          "substantive": true
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/ethics-deontological/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://plato.stanford.edu/entries/ethics-deontological/",
+          "content_type": "text/html",
+          "bytes_sampled": 112361,
+          "sample_sha256": "396508a5334e186580c287d9d5a6cf83de3959761f19f1e1ef9446b883d7ba82",
+          "title": "Deontological Ethics (Stanford Encyclopedia of Philosophy)",
+          "substantive": true
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/ethics-virtue/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://plato.stanford.edu/entries/ethics-virtue/",
+          "content_type": "text/html",
+          "bytes_sampled": 113535,
+          "sample_sha256": "b65658a0a276e5d9a12094ce6a6fd41e3557a857f25d5ed600aafdd5bc4b84f2",
+          "title": "Virtue Ethics (Stanford Encyclopedia of Philosophy)",
+          "substantive": true
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/feminism-ethics/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://plato.stanford.edu/entries/feminism-ethics/",
+          "content_type": "text/html",
+          "bytes_sampled": 167006,
+          "sample_sha256": "37252e5a3a7ed3c460d59e8793a63a5bf32a4108ab8b8b852e5267f8767972af",
+          "title": "Feminist Ethics (Stanford Encyclopedia of Philosophy)",
+          "substantive": true
+        },
+        {
+          "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026219796801.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026219796801.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 285561,
+          "sample_sha256": "13840bdf8f094d44219a1f0339eb67fa3e45c9800ae36c3ff8211088884f1108",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-09",
+      "access_date": "2026-09-06",
+      "verification_scope": "public-service values, discretion, conflicts and ethical dilemmas",
+      "attempted": 5,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://darpg.gov.in/documents/reports/cpgrams-monthly-report-centre-ETN0QTMtQWa?pageTitle=CPGRAMS-Monthly-Report-Centre",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.darpg.gov.in/documents/reports/cpgrams-monthly-report-centre-ETN0QTMtQWa?pageTitle=CPGRAMS-Monthly-Report-Centre",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 7566,
+          "sample_sha256": "f460260839afe871ec4eaa804d189913d755fed5e0f7c34f3e232a0bf2bd97bb",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://darpg.gov.in/static/uploads/2026/07/45cfe50c8de7d2ad837dfabe72bffced.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.darpg.gov.in/static/uploads/2026/07/45cfe50c8de7d2ad837dfabe72bffced.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "92061940430eec8ef1d86d402d6ee2b12fc172803dd35796a9a3ee8372626654",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 105336,
+          "sample_sha256": "ca6d31eae627007c6401d197dcfccc114cbc4e7aacd4c4c35426106d7cc2be80",
+          "title": "Central Civil Services (Conduct) Rules, 1964 (Updated) | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2065",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-10",
+      "access_date": "2026-09-06",
+      "verification_scope": "constitutional, statutory, rule-based and conscience guidance",
+      "attempted": 5,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 105336,
+          "sample_sha256": "ca6d31eae627007c6401d197dcfccc114cbc4e7aacd4c4c35426106d7cc2be80",
+          "title": "Central Civil Services (Conduct) Rules, 1964 (Updated) | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/Pressreleaseshare.aspx?PRID=2183039",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2183039&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 15608,
+          "sample_sha256": "3d60281ff79c12a1fe4cf75a1e963f4d8f78bbd492e786fca0edfc97f2aeea39",
+          "title": "Central Vigilance Commission observes Vigilance Awareness Week 2025",
+          "substantive": true
+        },
+        {
+          "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc2025923644201.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc2025923644201.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "8db8dbdb640dbf5ff37310cf5979e1540abf00870270900c30c19e669fa7ecd2",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2065",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-11",
+      "access_date": "2026-09-06",
+      "verification_scope": "answerability, audit, vigilance, grievance and social accountability",
+      "attempted": 3,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cag.gov.in/en/audit-report/audit-report-list",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cag.gov.in/en/audit-report/audit-report-list",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 81267,
+          "sample_sha256": "2c156c8076033799c9a2323461ff959b50da317fab6d4fa797d1b9196081ce43",
+          "title": "Audit Report List | Comptroller and Auditor General of India",
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.cvc.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.cvc.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 1285,
+          "sample_sha256": "c13fe90c09742f52cf200c5903650cc0d6d6dcdf56c4ee8f5badecc5dcca63dc",
+          "title": "CVC",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-12",
+      "access_date": "2026-09-06",
+      "verification_scope": "corporate integrity, international ethics, human rights and UNCAC",
+      "attempted": 5,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://businessintegrity.unodc.org/bip/en/webstories/2026/new-practical-guide-launched-to-advance-global-anti-corruption--ethics-and-compliance-in-business.html",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://businessintegrity.unodc.org/bip/en/webstories/2026/new-practical-guide-launched-to-advance-global-anti-corruption--ethics-and-compliance-in-business.html",
+          "content_type": "text/html;charset=utf-8",
+          "bytes_sampled": 13432,
+          "sample_sha256": "4fdf5409ac5317d368291b37957fbb191bf0044478a31edc850259b5573b9e39",
+          "title": "New practical guide launched to advance global anti-corruption, ethics and compliance in business",
+          "substantive": true
+        },
+        {
+          "url": "https://businessintegrity.unodc.org/bip/uploads/documents/resources/An_Anti-Corruption_Ethics_and_Compliance_Programme_for_Business-_A_Practical_Guide.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://businessintegrity.unodc.org/bip/uploads/documents/resources/An_Anti-Corruption_Ethics_and_Compliance_Programme_for_Business-_A_Practical_Guide.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "a15d5b829cb71703a8b0b759397985e80734e491a7fcef109545ce5bbcaaa773",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.oecd.org/corporate/",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.ohchr.org/en/business-and-human-rights",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.ohchr.org/en/business-and-human-rights",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 159307,
+          "sample_sha256": "18718b460e8af2b7b9710c53788a1033535c867852ecc8c0505863c41a7a19e2",
+          "title": "OHCHR and business and human rights | OHCHR",
+          "substantive": true
+        },
+        {
+          "url": "https://www.unodc.org/unodc/en/corruption/uncac.html",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.unodc.org/corruption/en/uncac/learn-about-uncac.html",
+          "content_type": "text/html;charset=utf-8",
+          "bytes_sampled": 61133,
+          "sample_sha256": "6c6e8254d90f3a58c2befb75667228cd7e37fcb8d4c6f35e252678166f5ccdbb",
+          "title": "Learn about UNCAC",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-13",
+      "access_date": "2026-09-06",
+      "verification_scope": "AI, privacy, technology, environment and climate-justice ethics",
+      "attempted": 5,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://impact.indiaai.gov.in/about-summit",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://impact.indiaai.gov.in/about-summit",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 176952,
+          "sample_sha256": "740d1aa5786d84ea9d11f91599ca113c8e6fb44e320d093246eca695ca049cd2",
+          "title": "India AI Impact Summit 2026",
+          "substantive": true
+        },
+        {
+          "url": "https://indiaai.gov.in/article/india-ai-governance-guidelines-empowering-ethical-and-responsible-ai",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://indiaai.gov.in/article/india-ai-governance-guidelines-empowering-ethical-and-responsible-ai",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "235cd1509b29dcbd4928e3bfc4110ff7d3a67ee9591c5966190fe0c7bbf8765a",
+          "title": "India AI Governance Guidelines: Empowering Ethical and Responsible AI",
+          "substantive": true
+        },
+        {
+          "url": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+          "content_type": "text/html",
+          "bytes_sampled": 212,
+          "sample_sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.meity.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.meity.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 3292,
+          "sample_sha256": "9c464735a760702274635bf31a332268e5c59ddefda7590cbfe83a96faa0ecba",
+          "title": "Home",
+          "substantive": true
+        },
+        {
+          "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 283541,
+          "sample_sha256": "25c50b7975e61f12733682b79cf5dc9364fc5dc6a58a8f7ef4e3ee8c69419879",
+          "title": "Ethics of Artificial Intelligence - AI | UNESCO",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-14",
+      "access_date": "2026-09-06",
+      "verification_scope": "probity, propriety, integrity controls and public-office-as-trust",
+      "attempted": 4,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://bidplus.gem.gov.in/showbidDocument/9511605",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://bidplus.gem.gov.in/showbidDocument/9511605",
+          "content_type": "application/pdf",
+          "bytes_sampled": 107515,
+          "sample_sha256": "1ba19625edb1cdfe55ba394134ac8cca04c2dff0e0c6dfc892eaed345fe9596f",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://gem.gov.in/resources/pdf/Integrity-pact-guidelines.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://gem.gov.in/resources/pdf/Integrity-pact-guidelines.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 106272,
+          "sample_sha256": "a7e28869246db60f953ea166fdf59f9be29d2da3b6d9fa6a6418005ed54fb03e",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.cvc.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.cvc.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 1285,
+          "sample_sha256": "c13fe90c09742f52cf200c5903650cc0d6d6dcdf56c4ee8f5badecc5dcca63dc",
+          "title": "CVC",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-15",
+      "access_date": "2026-09-06",
+      "verification_scope": "RTI provisions, exemptions, appeals, penalties and data protection",
+      "attempted": 5,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cic.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cic.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 81746,
+          "sample_sha256": "999ca23a65576ecb26f274c5f58eb9ac42982a3216d93d357fd629ddd857a2e8",
+          "title": "Home | Central Information Commission Central Information Commission",
+          "substantive": true
+        },
+        {
+          "url": "https://rti.dopt.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://rti.dopt.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 87730,
+          "sample_sha256": "450c2a30b1e9fafdc939cbbbd82bb15132188eeea84bdccda27da67af77808c9",
+          "title": "Right to Information",
+          "substantive": true
+        },
+        {
+          "url": "https://rti.dopt.gov.in/Writereaddata/Guidelines_2025_26.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://rti.dopt.gov.in/Writereaddata/Guidelines_2025_26.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "6dff52027b56d1a124edf4cd7e78bae057b9a3ba8f274a293b644e3e8333ecb8",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2065",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "5bd052845eb9571e91518cd20f2c432a162535d13cc059850f5ac9be05caba4f",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-16",
+      "access_date": "2026-09-06",
+      "verification_scope": "codes of ethics/conduct, service rules and legislative ethics",
+      "attempted": 3,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cms.rajyasabha.nic.in/UploadedFiles/CommitteeSection/CommitteeRules/1626363812501.54_CommitteOnEthics.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://cms.rajyasabha.nic.in/UploadedFiles/CommitteeSection/CommitteeRules/1626363812501.54_CommitteOnEthics.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 289492,
+          "sample_sha256": "1993610c9ad53a3d3092671cd7f262f7340380ad38a7fb672c6cbc8d98c7bf2f",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 105336,
+          "sample_sha256": "ca6d31eae627007c6401d197dcfccc114cbc4e7aacd4c4c35426106d7cc2be80",
+          "title": "Central Civil Services (Conduct) Rules, 1964 (Updated) | Department of Personnel &amp; Training",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-17",
+      "access_date": "2026-09-06",
+      "verification_scope": "Citizens' Charters, Sevottam, CPGRAMS and accessible service delivery",
+      "attempted": 3,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://pgportal.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://pgportal.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 27707,
+          "sample_sha256": "eed41048ed852f7b794d4cb2969655ea7e9d2b3cea7f62605a41b87bbaf5b8ce",
+          "title": "CPGRAMS-Home",
+          "substantive": true
+        },
+        {
+          "url": "https://www.darpg.gov.in/relatedlinks/sevottam",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.darpg.gov.in/relatedlinks/sevottam",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 7327,
+          "sample_sha256": "e9cdae324ae16a2ac4deedb47f6b15927f4c80d742c633dec1db1730ffca26b7",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-18",
+      "access_date": "2026-09-06",
+      "verification_scope": "public-fund lifecycle, propriety, audit, procurement and corruption",
+      "attempted": 3,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cag.gov.in/en/page-performance-audit",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cag.gov.in/en/page-performance-audit",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 97985,
+          "sample_sha256": "829bfc9dabfaefe7ab0fb6341e6fff008a02fa3040b0e0a75d85ea3066dc9e17",
+          "title": "Performance Audit | Comptroller and Auditor General of India",
+          "substantive": true
+        },
+        {
+          "url": "https://doe.gov.in/orders-circulars/31",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>",
+          "substantive": false
+        },
+        {
+          "url": "https://pfms.nic.in/SitePages/about-Verticals-GIFMIS.aspx",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://pfms.nic.in/SitePages/about-Verticals-GIFMIS.aspx",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 32900,
+          "sample_sha256": "db95964c1c7beac2ab5c183b078565b1771c623ecb0ec3143014bbd364d23b4f",
+          "title": "PFMS",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-19",
+      "access_date": "2026-09-06",
+      "verification_scope": "Prevention of Corruption Act provisions and current judicial status",
+      "attempted": 3,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://api.sci.gov.in/supremecourt/2018/40618/40618_2018_4_1501_67544_Judgement_13-Jan-2026.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://api.sci.gov.in/supremecourt/2018/40618/40618_2018_4_1501_67544_Judgement_13-Jan-2026.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "7de28b2e97b2cc550efd9696c80c2ab4eca6984a191b8a305fdefc15009a65b3",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://api.sci.gov.in/supremecourt/2022/34619/34619_2022_1_301_56563_Judgement_18-Oct-2024.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://api.sci.gov.in/supremecourt/2022/34619/34619_2022_1_301_56563_Judgement_18-Oct-2024.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 141912,
+          "sample_sha256": "3c0d339af2e50d1a96d90a009a16f4e4f37d2ac9726999bf54ff06a191c30f99",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/1558",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-20",
+      "access_date": "2026-09-06",
+      "verification_scope": "CVC, CBI, Lokpal, Lokayuktas and anti-corruption mandates",
+      "attempted": 5,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cbi.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cbi.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 202050,
+          "sample_sha256": "827e9354a3a12547a8ca8eaac604f15b054c98088902d2f85bff395ddcdc7785",
+          "title": "Central Bureau of Investigation",
+          "substantive": true
+        },
+        {
+          "url": "https://lokpal.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://lokpal.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 32614,
+          "sample_sha256": "f355649535c0a3cb3afaf12de4ca9646d8ce9c7301b7a5f7eec9572e621923a3",
+          "title": "Lokpal",
+          "substantive": true
+        },
+        {
+          "url": "https://lokpal.gov.in/api/cms-file?path=%2Fuploads%2Fcms%2F6%2F129%2F1_Circular_No._01.2026.pdf",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://lokpal.gov.in/api/cms-file?path=%2Fuploads%2Fcms%2F6%2F129%2F1_Circular_No._01.2026.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "3171dca866b25ff47a1f2d21eb6d9d22fc494edea0580d4fdb2e65f1842bb2c7",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://lokpal.gov.in/assets/pdf/consolidated_2025-26.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://lokpal.gov.in/assets/pdf/consolidated_2025-26.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "397b05d008cff1adbd3a15bab962ed3af861d5e7d95359b2472aa5134bda2226",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.cvc.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.cvc.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 1285,
+          "sample_sha256": "c13fe90c09742f52cf200c5903650cc0d6d6dcdf56c4ee8f5badecc5dcca63dc",
+          "title": "CVC",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-21",
+      "access_date": "2026-09-06",
+      "verification_scope": "honest-official safeguards, PIDPI, whistleblowing and vigilance",
+      "attempted": 4,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://api.sci.gov.in/supremecourt/2018/40618/40618_2018_4_1501_67544_Judgement_13-Jan-2026.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://api.sci.gov.in/supremecourt/2018/40618/40618_2018_4_1501_67544_Judgement_13-Jan-2026.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "7de28b2e97b2cc550efd9696c80c2ab4eca6984a191b8a305fdefc15009a65b3",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 105336,
+          "sample_sha256": "ca6d31eae627007c6401d197dcfccc114cbc4e7aacd4c4c35426106d7cc2be80",
+          "title": "Central Civil Services (Conduct) Rules, 1964 (Updated) | Department of Personnel &amp; Training",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cvc.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.cvc.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 1285,
+          "sample_sha256": "c13fe90c09742f52cf200c5903650cc0d6d6dcdf56c4ee8f5badecc5dcca63dc",
+          "title": "CVC",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2128",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-22",
+      "access_date": "2026-09-06",
+      "verification_scope": "case-study method, stakeholder/options testing and institutional reform",
+      "attempted": 3,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cbc.gov.in/amrit-gyaan-kosh",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cbc.gov.in/amrit-gyaan-kosh",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 67310,
+          "sample_sha256": "ef550bb91d59c9aadafa73d8aee8984ef2168053e874e713d4b2b74fc490b803",
+          "title": "Amrit Gyaan Kosh | cbc",
+          "substantive": true
+        },
+        {
+          "url": "https://cbc.gov.in/index.php/mos-dr-jitendra-singh-inaugurated-advanced-case-writing-and-teaching-workshop-and-launched-amrit",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cbc.gov.in/index.php/mos-dr-jitendra-singh-inaugurated-advanced-case-writing-and-teaching-workshop-and-launched-amrit",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 56008,
+          "sample_sha256": "2327247fd760b37330d167d15149cbef251f68ca2a4627524af045fcaa12746c",
+          "title": "MoS Dr. Jitendra Singh inaugurated the Advanced Case Writing and Teaching Workshop, and launched the Amrit Gyaan Kosh Portal | cbc",
+          "substantive": true
+        },
+        {
+          "url": "https://darpg.gov.in/sites/default/files/ethics4.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    },
+    {
+      "topic_key": "ethics-23",
+      "access_date": "2026-09-06",
+      "verification_scope": "named cases, comparative institutions, professional codes and legal status",
+      "attempted": 10,
+      "substantive_retrievals": 9,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://dopt.gov.in/sites/default/files/TheWhistleBlowersProtectionAct2011_2.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://dopt.gov.in/sites/default/files/TheWhistleBlowersProtectionAct2011_2.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 133167,
+          "sample_sha256": "27d4be4cadffb53d9f2589141b855f91aba2e60d36ee3815316126d9695ac871",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://korruptiontorjunta.fi/en/national-legislation",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://sso.agc.gov.sg/Act/PCA1960",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://sso.agc.gov.sg/Act/PCA1960",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 152854,
+          "sample_sha256": "0fde676e528c002cce317783ce23d6c84b5c82799bbde4623dbd8bc7cdb380b7",
+          "title": "Prevention of Corruption Act 1960 - Singapore Statutes Online",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cpib.gov.sg/about-corruption/legislation-and-enforcement/prevention-of-corruption-act/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.cpib.gov.sg/about-corruption/legislation-and-enforcement/prevention-of-corruption-act/",
+          "content_type": "text/html",
+          "bytes_sampled": 393670,
+          "sample_sha256": "1022ace359987f47cd75ee8ce3932e28eda28af058a7c306b2be199f19237977",
+          "title": "Prevention Of Corruption Act | Corrupt Practices Investigation Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.icac.org.hk/en/about/struct/index.html",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.icac.org.hk/en/about/struct/index.html",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 10303,
+          "sample_sha256": "35c81c3eaa3aa8e6e511bd7e995b028cbf511474828a3cfbc5f2a367c228c9ee",
+          "title": "ICAC, HKSAR - Organisation Structure",
+          "substantive": true
+        },
+        {
+          "url": "https://www.icac.org.hk/symposium/2006/exhibition/p02.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.icac.org.hk/symposium/2006/exhibition/p02.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "f29d91ee7e8404af2ea44ec4b3799f1e1b010a972dd664c0142cabd25906bec5",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.sansad.in/getFile/loksabhaquestions/annex/186/AU628_LKQJPi.pdf?source=pqals",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.sansad.in/getFile/loksabhaquestions/annex/186/AU628_LKQJPi.pdf?source=pqals",
+          "content_type": "application/pdf",
+          "bytes_sampled": 372558,
+          "sample_sha256": "e63bc5268ed4859a41823ce45b06e911c8d565478ae0cef3b3394e0ea2b0b41b",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.transparency.org/en/countries/finland",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.transparency.org/en/countries/finland",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 351538,
+          "sample_sha256": "54202fc3bb1d8bfd0cb3ab4b099e650f28b3a1dd0a45647f9df4a38a64758bbb",
+          "title": "Finland - Transparency.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.transparency.org/en/countries/thailand",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.transparency.org/en/countries/thailand",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 346851,
+          "sample_sha256": "6f5da81c573fc1d99d6808453a396deec0fbea254fd0085ca6412eae124f9b30",
+          "title": "Thailand - Transparency.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.transparency.org/en/cpi/2025",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.transparency.org/en/cpi/2025",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 323711,
+          "sample_sha256": "9481c33c8a663f330d1d58683c1b0935d54c97a8f066cc2b72ffd7edc0810f74",
+          "title": "Corruption Perceptions Index 2025 - Transparency.org",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies publisher availability and source integrity only. Each source supports only propositions stated in its substantive text; failed/thin attempts support no claim. Ethical analysis and inference remain expressly separate from sourced legal or institutional fact."
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,1219 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-18",
+  "subject": "Ethics",
+  "title": "UTILIZATION OF PUBLIC FUNDS AND CHALLENGES OF CORRUPTION",
+  "short_route": "PUBLIC-FUNDS FIDUCIARY FOUNDATION → BUDGET-TO-OUTCOME CHAIN → FOUR-E VALUE-FOR-MONEY MATRIX → FAILURE-CLASSIFICATION LADDER → FINANCIAL-PROPRIETY CONTROL CHAIN → PROCUREMENT LIFECYCLE INTEGRITY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-18-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "a2407abe5aed2ece8c292a196b004527b7a8a3087a5a9aa61728f4ac7c0d0b6a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PUBLIC-FUNDS FIDUCIARY FOUNDATION",
+      "structural_type": "trust-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PUBLIC-FUNDS FIDUCIARY FOUNDATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. PUBLIC-FUNDS FIDUCIARY FOUNDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CITIZENS AUTHORISE PUBLIC REVENUE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LEGISLATURE APPROVES PUBLIC PURPOSE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] EXECUTIVE RECEIVES LIMITED AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] OFFICIAL ACTS AS FIDUCIARY STEWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] LAW AND SANCTION BOUND DISCRETION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Public-funds fiduciary foundation",
+        "[1] Citizens authorise public revenue",
+        "[2] Legislature approves public purpose",
+        "[3] Executive receives limited authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Public-funds fiduciary foundation",
+            "[1] Citizens authorise public revenue",
+            "[2] Legislature approves public purpose",
+            "[3] Executive receives limited authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Official acts as fiduciary steward",
+            "[5] Law and sanction bound discretion",
+            "[6] Beneficiaries hold legitimate claims",
+            "[7] Records make reasons reviewable",
+            "[8] Outcome and remedy complete trust"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Public money is entrusted power, not departmental property.",
+            "ANSWER USE → Use to open every theory or case answer.",
+            "MUST REMEMBER: Public funds are a fiduciary trust assessed through legality, financial..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Public money is entrusted power, not departmental property.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BUDGET-TO-OUTCOME CHAIN",
+      "structural_type": "results-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUDGET-TO-OUTCOME CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. BUDGET-TO-OUTCOME CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DIAGNOSE PUBLIC NEED",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ALLOCATE REALISTIC BUDGET",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RELEASE FUNDS ON TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PROCURE LAWFUL INPUTS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] DELIVER VERIFIED OUTPUTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Budget-to-outcome chain",
+        "[1] Diagnose public need",
+        "[2] Allocate realistic budget",
+        "[3] Release funds on time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Budget-to-outcome chain",
+            "[1] Diagnose public need",
+            "[2] Allocate realistic budget",
+            "[3] Release funds on time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Procure lawful inputs",
+            "[5] Deliver verified outputs",
+            "[6] Enable citizen access",
+            "[7] Measure intended outcomes",
+            "[8] Learn and correct variance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Expenditure is one link; it never proves delivery or outcome.",
+            "ANSWER USE → Use for under-utilisation and accountability questions.",
+            "CLOSE DISTINCTION: Leakage, diversion, coercive bribery, collusive bribery, conflict,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Expenditure is one link; it never proves delivery or outcome.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FOUR-E VALUE-FOR-MONEY MATRIX",
+      "structural_type": "four-axis-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-E VALUE-FOR-MONEY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. FOUR-E VALUE-FOR-MONEY MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ECONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "INPUT COST AND QUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "[2] EFFICIENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "INPUT-OUTPUT RELATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] EFFECTIVENESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Four-E value-for-money matrix",
+        "[1] Economy: input cost and quality",
+        "[2] Efficiency: input-output relation",
+        "[3] Effectiveness: objective achieved"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[4] Equity: distribution and access",
+          "VERDICT → Value for money is multidimensional and distribution-sensitive."
+        ],
+        [
+          "3. Four-E value-for-money matrix",
+          "[5] Legality supplies the floor",
+          "ANSWER USE → Use for performance audit and scheme evaluation."
+        ],
+        [
+          "[1] Economy: input cost and quality",
+          "[6] Public purpose supplies direction",
+          "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Specify lifecycle controls: needs assessment,..."
+        ],
+        [
+          "[2] Efficiency: input-output relation",
+          "[7] Evidence tests claimed performance",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Four-E value-for-money matrix",
+            "[1] Economy: input cost and quality",
+            "[2] Efficiency: input-output relation",
+            "[3] Effectiveness: objective achieved"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Equity: distribution and access",
+            "[5] Legality supplies the floor",
+            "[6] Public purpose supplies direction",
+            "[7] Evidence tests claimed performance",
+            "[8] Trade-offs require recorded reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Value for money is multidimensional and distribution-sensitive.",
+            "ANSWER USE → Use for performance audit and scheme evaluation.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Specify lifecycle controls: needs assessment,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Value for money is multidimensional and distribution-sensitive.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FAILURE-CLASSIFICATION LADDER",
+      "structural_type": "classification-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FAILURE-CLASSIFICATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. FAILURE-CLASSIFICATION LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ERROR",
+          "role": "evidence"
+        },
+        {
+          "text": "INADVERTENT MISTAKE",
+          "role": "primary"
+        },
+        {
+          "text": "[2] IRREGULARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RULE DEPARTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] WASTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Failure-classification ladder",
+        "[1] Error: inadvertent mistake",
+        "[2] Irregularity: rule departure",
+        "[3] Waste: avoidable public loss"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Failure-classification ladder",
+            "[1] Error: inadvertent mistake",
+            "[2] Irregularity: rule departure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Waste: avoidable public loss",
+            "[4] Negligence: deficient due care",
+            "[5] Fraud: intentional deception",
+            "[6] Abuse: improper discretion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Corruption: connected advantage",
+            "[8] Overlap changes remedy and proof",
+            "VERDICT → Classify before blaming; public loss can exist without enrichment.",
+            "ANSWER USE → Use to prevent legal and ethical overstatement."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Classify before blaming; public loss can exist without enrichment.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FINANCIAL-PROPRIETY CONTROL CHAIN",
+      "structural_type": "control-stack",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FINANCIAL-PROPRIETY CONTROL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. FINANCIAL-PROPRIETY CONTROL CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONFIRM AUTHORISED PURPOSE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ESTIMATE TOTAL GENUINE REQUIREMENT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY COMPETENT SANCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] APPLY CATEGORY-SPECIFIC RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SEPARATE TRANSACTION ROLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Financial-propriety control chain",
+        "[1] Confirm authorised purpose",
+        "[2] Estimate total genuine requirement",
+        "[3] Identify competent sanction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Financial-propriety control chain",
+            "[1] Confirm authorised purpose",
+            "[2] Estimate total genuine requirement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify competent sanction",
+            "[4] Apply category-specific rules",
+            "[5] Separate transaction roles",
+            "[6] Verify receipt and milestones"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Reconcile ledger bank and asset",
+            "[8] Record variance and correction",
+            "VERDICT → Controls allocate responsibility so convenience cannot become authority.",
+            "ANSWER USE → Use for GFR, sanction and re-appropriation answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Controls allocate responsibility so convenience cannot become authority.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PROCUREMENT LIFECYCLE INTEGRITY",
+      "structural_type": "lifecycle-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROCUREMENT LIFECYCLE INTEGRITY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. PROCUREMENT LIFECYCLE INTEGRITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NEED AND AFFORDABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] NEUTRAL SPECIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] OPEN MARKET ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PUBLISHED EVALUATION CRITERIA",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CONFLICT-SAFE REASONED AWARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Procurement lifecycle integrity",
+        "[1] Need and affordability",
+        "[2] Neutral specification",
+        "[3] Open market access"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Procurement lifecycle integrity",
+            "[1] Need and affordability",
+            "[2] Neutral specification"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Open market access",
+            "[4] Published evaluation criteria",
+            "[5] Conflict-safe reasoned award",
+            "[6] Independent delivery verification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Controlled variation and payment",
+            "[8] Warranty disposal and learning",
+            "VERDICT → A fair tender can still be corrupted after award.",
+            "ANSWER USE → Use for procurement and contract-management reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A fair tender can still be corrupted after award.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BRIBERY, COLLUSION AND CARTEL MAP",
+      "structural_type": "corruption-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BRIBERY, COLLUSION AND CARTEL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. BRIBERY, COLLUSION AND CARTEL MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] COERCIVE BRIBE EXTORTS ENTITLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PROTECT VICTIM AND RESTORE SERVICE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] COLLUSIVE BRIBE BENEFITS BOTH SIDES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TRACE PUBLIC LOSS AND BOTH PARTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CARTEL SIMULATES COMPETITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Bribery, collusion and cartel map",
+        "[1] Coercive bribe extorts entitlement",
+        "[2] Protect victim and restore service",
+        "[3] Collusive bribe benefits both sides"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Bribery, collusion and cartel map",
+            "[1] Coercive bribe extorts entitlement",
+            "[2] Protect victim and restore service"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Collusive bribe benefits both sides",
+            "[4] Trace public loss and both parties",
+            "[5] Cartel simulates competition",
+            "[6] Check bid rotation and cover bids"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Trace beneficial ownership",
+            "[8] Repair the enabling transaction",
+            "VERDICT → Different corruption mechanisms require different evidence and remedies.",
+            "ANSWER USE → Use for close distinctions and procurement cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Different corruption mechanisms require different evidence and remedies.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CAPTURE AND NEXUS ESCALATION",
+      "structural_type": "power-escalation",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CAPTURE AND NEXUS ESCALATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. CAPTURE AND NEXUS ESCALATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONFLICT DISTORTS ONE DECISION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] REPEATED ACCESS NORMALISES FAVOUR",
+          "role": "primary"
+        },
+        {
+          "text": "[3] REGULATOR DEPENDS ON REGULATED DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] REVOLVING-DOOR INCENTIVE DEEPENS BIAS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] POLITICAL PROTECTION WEAKENS ENFORCEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Capture and nexus escalation",
+        "[1] Conflict distorts one decision",
+        "[2] Repeated access normalises favour",
+        "[3] Regulator depends on regulated data"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Capture and nexus escalation",
+            "[1] Conflict distorts one decision",
+            "[2] Repeated access normalises favour"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Regulator depends on regulated data",
+            "[4] Revolving-door incentive deepens bias",
+            "[5] Political protection weakens enforcement",
+            "[6] Business funds connected influence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] State capture reshapes rules",
+            "[8] Structural reform must break network",
+            "VERDICT → Capture corrupts the rules of allocation, not only a single transaction.",
+            "ANSWER USE → Use for mining, licensing and policy-capture analysis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Capture corrupts the rules of allocation, not only a single transaction.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AUDIT AND CITIZEN-OVERSIGHT STACK",
+      "structural_type": "oversight-stack",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "AUDIT AND CITIZEN-OVERSIGHT STACK",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. AUDIT AND CITIZEN-OVERSIGHT STACK",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MANAGEMENT CONTROL PREVENTS ERROR",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] INTERNAL AUDIT TESTS SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CAG SUPPLIES EXTERNAL PUBLIC AUDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PERFORMANCE AUDIT TESTS THREE ES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] LEGISLATIVE COMMITTEE DEMANDS ANSWER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Audit and citizen-oversight stack",
+        "[1] Management control prevents error",
+        "[2] Internal audit tests systems",
+        "[3] CAG supplies external public audit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Audit and citizen-oversight stack",
+            "[1] Management control prevents error",
+            "[2] Internal audit tests systems"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] CAG supplies external public audit",
+            "[4] Performance audit tests three Es",
+            "[5] Legislative committee demands answer",
+            "[6] Social audit verifies lived delivery"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Citizen complaint adds local evidence",
+            "[8] Action taken creates consequence",
+            "VERDICT → Oversight forms complement one another only when findings reach correction.",
+            "ANSWER USE → Use for CAG, PAC and social-audit questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Oversight forms complement one another only when findings reach correction.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ANTI-CORRUPTION STAGE ARCHITECTURE",
+      "structural_type": "stage-separation",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANTI-CORRUPTION STAGE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. ANTI-CORRUPTION STAGE ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PREVENTION REDUCES OPPORTUNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DETECTION IDENTIFIES ANOMALY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TRIAGE TESTS CREDIBILITY AND RISK",
+          "role": "caution"
+        },
+        {
+          "text": "[4] INVESTIGATION GATHERS EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[5] ADJUDICATION DETERMINES RESPONSIBILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Anti-corruption stage architecture",
+        "[1] Prevention reduces opportunity",
+        "[2] Detection identifies anomaly",
+        "[3] Triage tests credibility and risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Anti-corruption stage architecture",
+            "[1] Prevention reduces opportunity",
+            "[2] Detection identifies anomaly"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Triage tests credibility and risk",
+            "[4] Investigation gathers evidence",
+            "[5] Adjudication determines responsibility",
+            "[6] Sanction imposes lawful consequence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Remedy restores public interest",
+            "[8] Learning redesigns the system",
+            "VERDICT → An audit flag is not guilt, and punishment is not system repair.",
+            "ANSWER USE → Use for institutional-design and due-process answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → An audit flag is not guilt, and punishment is not system repair.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TECHNOLOGY WITH HUMAN VERIFICATION",
+      "structural_type": "digital-control-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TECHNOLOGY WITH HUMAN VERIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. TECHNOLOGY WITH HUMAN VERIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DIGITISE SANCTION AND PAYMENT TRAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] USE ROLE-BASED ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] FLAG DUPLICATE AND SPLIT PATTERNS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PUBLISH SAFE PROGRESS INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] VERIFY IDENTITY AND FIELD DELIVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Technology with human verification",
+        "[1] Digitise sanction and payment trail",
+        "[2] Use role-based access",
+        "[3] Flag duplicate and split patterns"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Technology with human verification",
+            "[1] Digitise sanction and payment trail",
+            "[2] Use role-based access"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Flag duplicate and split patterns",
+            "[4] Publish safe progress information",
+            "[5] Verify identity and field delivery",
+            "[6] Protect privacy and accessibility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Enable challenge and correction",
+            "[8] Audit algorithms logs and overrides",
+            "VERDICT → Technology changes observability, not the need for judgment and accountability.",
+            "ANSWER USE → Use for PFMS, e-procurement and dashboard limits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Technology changes observability, not the need for judgment and accountability.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. EXAMINER-READY ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE PRECISE FAILURE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] STATE PUBLIC-TRUST THESIS",
+          "role": "institution"
+        },
+        {
+          "text": "[3] MAP BUDGET-TO-OUTCOME MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] APPLY FOUR ES AND EQUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] NAME CONTROL AND INSTITUTION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Examiner-ready answer spine",
+        "[1] Define the precise failure",
+        "[2] State public-trust thesis",
+        "[3] Map budget-to-outcome mechanism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Examiner-ready answer spine",
+            "[1] Define the precise failure",
+            "[2] State public-trust thesis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Map budget-to-outcome mechanism",
+            "[4] Apply four Es and equity",
+            "[5] Name control and institution",
+            "[6] Separate accountability stages"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Add technology limit and remedy",
+            "[8] Conclude with qualified stewardship",
+            "VERDICT → Specific mechanism plus institution plus safeguard beats a generic anti-corruption list.",
+            "ANSWER USE → Use to structure 10, 15 and 20-mark answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Specific mechanism plus institution plus safeguard beats a generic anti-corruption list.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g2\\ethics-18_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-18\\g3\\ethics-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. PUBLIC FUNDS AS A MULTI-PRINCIPAL, MULTI-AGENT TRUST",
+          "role": "outcome"
+        },
+        {
+          "text": "2. BEYOND THE EXPENDITURE RATIO",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTRIBUTION AND COUNTERFACTUALS",
+          "role": "evidence"
+        },
+        {
+          "text": "3. DISCRETION, RULES AND THE CONTROL PARADOX",
+          "role": "primary"
+        },
+        {
+          "text": "4. PROCUREMENT MARKETS, COLLUSION AND STRATEGIC BEHAVIOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "5. CORRUPTION AS TRANSACTION, NETWORK AND EQUILIBRIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "6. REGULATORY CAPTURE, STATE CAPTURE AND POLICY CORRUPTION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Public funds as a multi-principal, multi-agent trust",
+            "2. Beyond the expenditure ratio: attribution and counterfactuals",
+            "3. Discretion, rules and the control paradox",
+            "4. Procurement markets, collusion and strategic behaviour"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Corruption as transaction, network and equilibrium",
+            "6. Regulatory capture, state capture and policy corruption",
+            "7. Audit epistemology: what an audit finding can and cannot establish",
+            "8. Vigilance, whistleblowing and protection of honest judgment"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Digital public finance: traceability, surveillance and algorithmic risk",
+            "10. Advanced reform synthesis and examiner-grade qualification",
+            "many hands: no person appears to own failure;",
+            "blame shifting: policy blames administration; administration blames finance; finance blames"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-17",
+  "record_id": "political-theory-17:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 13,
+    "questions": [
+      {
+        "title": "Solved PYQ 1 - 2018 Q4(a), 20 marks",
+        "marks": 20,
+        "model_words": 305,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 2 - 2019 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 276,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 3 - 2020 Q2(c), 15 marks",
+        "marks": 15,
+        "model_words": 267,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 4 - 2021 Q4(c), 15 marks",
+        "marks": 15,
+        "model_words": 251,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 5 - 2022 Q4(b), 15 marks",
+        "marks": 15,
+        "model_words": 233,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 6 - 2023 Q2(b), 15 marks",
+        "marks": 15,
+        "model_words": 235,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 7 - 2025 Q4(c), 15 marks",
+        "marks": 15,
+        "model_words": 277,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 165,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 155,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 189,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 180,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 277,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 289,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 56,
+    "workbook_pages": 31,
+    "main_layout": {
+      "page_count": 56,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 31,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Complete-Learning-Session_2026-09-06.md": "2a5dd8234435ee27713ce3e5c0eb6a88883f3309dd7facf6cc9e76fb2a88c5a8",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Solved-Practice-Workbook_2026-09-06.md": "a951bd902f89c047a11b3c4b568d3b3f9021058665d98c962509a70faf0d0d5e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Complete-Learning-Session_2026-09-06.pdf": "6e267ed4ba774624a5a0da8636839c62142f68324005d15e3ee76dc391441f8c",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Solved-Practice-Workbook_2026-09-06.pdf": "6fede30bf3f8fecf04d367b046ecdef5422480ae97e8d0db193e945d4c9917a6",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-17\\carvaka-g4\\master.png": "39ee6d106ed5ed271a95634cd9e0b4addf520970c25d7384cd6ca2b9457dea2e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-17\\carvaka-g4\\poster.pdf": "81ca3832db694e59014dbe7d2670bb8d5b5e8d727e27fd86b0ed42f68d396afc",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-17\\carvaka-g4\\tiled.pdf": "da67823717c9e24a7791375284ac64577796c7c2cb77f67091277b448108b684",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-17\\carvaka-g4\\ascii-master.pdf": "a628698fbd0bbfc17fa29ddbbc9d4b155e5d47022246f13fa606e6a12cba834b",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-17\\carvaka-g4\\ascii-master.txt": "5bfa37a9867f76dbef51e1cd52f9806b5e10145cd4ed0c161f9f4a5c0aae25b4"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-17",
+    "title": "Human Rights, Civil Liberties and Democratic Rights",
+    "old_record_id": "political-theory-17:learner-v2:g3",
+    "new_record_id": "political-theory-17:learner-v2:g4",
+    "old_generation": 3,
+    "new_generation": 4,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-17-learner-v2-g4-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T11:59:14.561221+00:00",
+    "identities": {
+      "export": "political-theory-17:learner-v2:g4",
+      "master": "political-theory-17:learner-v2:g4",
+      "review": "political-theory-17:learner-v2:g4"
+    },
+    "generations": {
+      "export": 4,
+      "master": 4,
+      "review": 4
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-18"
+}

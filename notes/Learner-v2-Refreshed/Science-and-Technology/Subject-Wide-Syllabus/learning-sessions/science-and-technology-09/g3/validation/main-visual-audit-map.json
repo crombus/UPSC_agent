@@ -1,0 +1,1801 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g3\\science-and-technology-09_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g3\\science-and-technology-09_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Artificial Intelligence Governance and IndiaAI - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 36,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-09\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 478.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 305.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 238.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "AI MACHINE LEARNING DEEP LEARNING AND GENERATIVE AI",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 150,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - AI MACHINE LEARNING DEEP LEARNING AND GENERATIVE AI",
+      "preview": "START / CONCEPT: FOUNDATION — AI machine learning deep learning and generative AI",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 161,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not convert a benchmark or prototype into deployment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 180,
+      "heading": "VISUAL FIRST",
+      "preview": "CAPABILITY BENCHMARK PROTOTYPE AND DEPLOYMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 233,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CAPABILITY BENCHMARK PROTOTYPE AND DEPLOYMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Capability benchmark prototype and deployment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Prediction probability truth and causation as a sequence: identify Foundation-model boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 263,
+      "heading": "VISUAL FIRST",
+      "preview": "PREDICTION PROBABILITY TRUTH AND CAUSATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 400.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PREDICTION PROBABILITY TRUTH AND CAUSATION",
+      "preview": "START / CONCEPT: FOUNDATION — Prediction probability truth and causation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Foundation models downstream applications and hallucination as a sequence: identify Hallucination-boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 403.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 322.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 346,
+      "heading": "VISUAL FIRST",
+      "preview": "FOUNDATION MODELS DOWNSTREAM APPLICATIONS AND HALLUCINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 399,
+      "heading": "CLOSING RECALL FLOW - CORE - FOUNDATION MODELS DOWNSTREAM APPLICATIONS AND HALLUCINATION",
+      "preview": "START / CONCEPT: CORE — Foundation models downstream applications and hallucination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 110.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 410,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 429,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAAI MISSION AND INSTITUTIONAL ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 482,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIAAI MISSION AND INSTITUTIONAL ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — IndiaAI mission and institutional architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Seven mission pillars and status discipline as a sequence: identify Implementation-institution boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 364.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 297.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 515,
+      "heading": "VISUAL FIRST",
+      "preview": "SEVEN MISSION PILLARS AND STATUS DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 569,
+      "heading": "CLOSING RECALL FLOW - CORE - SEVEN MISSION PILLARS AND STATUS DISCIPLINE",
+      "preview": "START / CONCEPT: CORE — Seven mission pillars and status discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 580,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Compute capacity measures and procurement rungs as a sequence: identify Compute-measure boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 618.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 537.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 599,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPUTE CAPACITY MEASURES AND PROCUREMENT RUNGS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 342.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 652,
+      "heading": "CLOSING RECALL FLOW - CORE - COMPUTE CAPACITY MEASURES AND PROCUREMENT RUNGS",
+      "preview": "START / CONCEPT: CORE — Compute capacity measures and procurement rungs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 396.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 242.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 175.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 682,
+      "heading": "VISUAL FIRST",
+      "preview": "AIKOSH DATA QUALITY PROVENANCE AND ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - AIKOSH DATA QUALITY PROVENANCE AND ACCESS",
+      "preview": "START / CONCEPT: CORE — AIKosh data quality provenance and access",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 308.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 77.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "USE CASE MODEL WORKFLOW AND HUMAN DECISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 818,
+      "heading": "CLOSING RECALL FLOW - CORE - USE CASE MODEL WORKFLOW AND HUMAN DECISION",
+      "preview": "START / CONCEPT: CORE — Use case model workflow and human decision",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 829,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Public automated decisions reasons and contestability as a sequence: identify Decision-support boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 275.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 848,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC AUTOMATED DECISIONS REASONS AND CONTESTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 901,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC AUTOMATED DECISIONS REASONS AND CONTESTABILITY",
+      "preview": "START / CONCEPT: CORE — Public automated decisions reasons and contestability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 103.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 912,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read AI lifecycle risk and impact assessment as a sequence: identify Risk-lifecycle boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 934,
+      "heading": "VISUAL FIRST",
+      "preview": "AI LIFECYCLE RISK AND IMPACT ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW - CORE - AI LIFECYCLE RISK AND IMPACT ASSESSMENT",
+      "preview": "START / CONCEPT: CORE — AI lifecycle risk and impact assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 416.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 281.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 214.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1018,
+      "heading": "VISUAL FIRST",
+      "preview": "BIAS FAIRNESS PRIVACY AND SECURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1071,
+      "heading": "CLOSING RECALL FLOW - CORE - BIAS FAIRNESS PRIVACY AND SECURITY",
+      "preview": "START / CONCEPT: CORE — Bias fairness privacy and security",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1082,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1101,
+      "heading": "VISUAL FIRST",
+      "preview": "DEEPFAKES PROVENANCE LABELLING AND INTERMEDIARY RULES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1154,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DEEPFAKES PROVENANCE LABELLING AND INTERMEDIARY RULES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Deepfakes provenance labelling and intermediary rules",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 251.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 184.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1187,
+      "heading": "VISUAL FIRST",
+      "preview": "ADVISORY GUIDELINE RULE ACT AND SECTORAL GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1241,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ADVISORY GUIDELINE RULE ACT AND SECTORAL GOVERNANCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Advisory guideline rule Act and sectoral governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Public procurement accountability and volatile claims as a sequence: identify Sectoral-governance boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 260.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1274,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC PROCUREMENT ACCOUNTABILITY AND VOLATILE CLAIMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1315,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II + Prelims. **Core area:** AI ecosystem, mission pillars and governance approach in India. **Grounded in:** PIB IndiaAI Mission approval releas",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 501.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1332,
+      "heading": "1. Visual foundation",
+      "preview": "compute + datasets + talent",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 479.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 348.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1352,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 297.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 286.69
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1428,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s AI strategy is moving as an ecosystem mission—compute, data, skills, models and applications—while attempting a governance approach that is risk-aware and safety-conscious but still explicitly pro-innovation and I",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 695.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1470,
+      "markdown_body_line_end": 1487,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PUBLIC PROCUREMENT ACCOUNTABILITY AND VOLATILE CLAIMS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Public procurement accountability and volatile claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 379
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 680.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 409.091
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2634,
+      "markdown_body_line_end": 2639,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II + Prelims. **Core area:** AI mission architecture, governance design and strategic policy debates. **Grounded in:** PIB IndiaAI Mission approval release (",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 517.224
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2643,
+      "markdown_body_line_end": 2655,
+      "heading": "1. Architecture",
+      "preview": "compute capacity + data ecosystem + talent pipeline",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 495.224
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 374.224
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2661,
+      "markdown_body_line_end": 2673,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 103.89
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2740,
+      "markdown_body_line_end": 2748,
+      "heading": "10. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 42.69
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2759,
+      "markdown_body_line_end": 2759,
+      "heading": "12. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s AI strategy is evolving as a mission-led capability project that seeks to democratise compute, datasets and applications while pursuing a calibrated, India-specific governance model that is safety-conscious withou",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 611.024
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2818,
+      "markdown_body_line_end": 2826,
+      "heading": "Artificial Intelligence Governance and IndiaAI: ANSWER-WRITING SPINE",
+      "preview": "DEFINE AI ML DEEP LEARNING GENERATIVE AI MODEL AND USE CASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 709.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 628.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2836,
+      "markdown_body_line_end": 2842,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: AI taxonomy ladder",
+      "preview": "ARTIFICIAL INTELLIGENCE -> broad task-performing systems",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 508.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 446.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2846,
+      "markdown_body_line_end": 2852,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Capability-to-deployment ladder",
+      "preview": "RESEARCH CLAIM -> proposed method",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 362.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2856,
+      "markdown_body_line_end": 2862,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Foundation-model risk tree",
+      "preview": "PRETRAINED FOUNDATION MODEL -> broad downstream reuse",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 278.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2866,
+      "markdown_body_line_end": 2872,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: IndiaAI institution map",
+      "preview": "MeitY -> ministry policy and rule-making anchor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2876,
+      "markdown_body_line_end": 2882,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Mission pillar wheel",
+      "preview": "COMPUTE + INNOVATION CENTRE + APPLICATIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2886,
+      "markdown_body_line_end": 2892,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Compute measurement firewall",
+      "preview": "GPU OBJECTIVE -> planned hardware measure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2896,
+      "markdown_body_line_end": 2902,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: AIKosh evidence gate",
+      "preview": "DATASET LISTING -> discoverability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2912,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Use-case deployment chain",
+      "preview": "PUBLIC PROBLEM -> define legitimate objective",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2916,
+      "markdown_body_line_end": 2922,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Risk lifecycle",
+      "preview": "PROBLEM SELECTION -> exclusion or mission creep",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2926,
+      "markdown_body_line_end": 2934,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Risk and control matrix",
+      "preview": "BIAS -> representative tests and remedy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2938,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Instrument hierarchy",
+      "preview": "ADVISORY -> persuasive communication",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2958,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: AI governance answer spine",
+      "preview": "DEFINE -> method, model, use case and deployment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    }
+  ]
+}

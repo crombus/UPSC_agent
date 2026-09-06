@@ -1,0 +1,446 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-18",
+  "record_id": "political-theory-18:learner-v2:g5",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 28,
+    "questions": [
+      {
+        "title": "Solved PYQ 1 - 2018 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 283,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 2 - 2019 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 137,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 3 - 2019 Q4(b), 15 marks",
+        "marks": 15,
+        "model_words": 221,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 4 - 2020 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 143,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 5 - 2021 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 142,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 6 - 2021 Q1(b), 10 marks",
+        "marks": 10,
+        "model_words": 138,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 7 - 2021 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 262,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 8 - 2022 Q1(d), 10 marks",
+        "marks": 10,
+        "model_words": 145,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 9 - 2022 Q2(c), 15 marks",
+        "marks": 15,
+        "model_words": 225,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 10 - 2023 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 149,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 11 - 2024 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 146,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 12 - 2024 Q2(b), 15 marks",
+        "marks": 15,
+        "model_words": 224,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 13 - 2025 Q1(e), 10 marks",
+        "marks": 10,
+        "model_words": 142,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 14 - 2025 Q4(a), 20 marks",
+        "marks": 20,
+        "model_words": 276,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 15 - 2022 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 257,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 16 - 2024 Q3(a), 20 marks",
+        "marks": 20,
+        "model_words": 310,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 17 - 2021 Q1(d), 10 marks",
+        "marks": 10,
+        "model_words": 142,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 18 - 2018 Q3(b), 15 marks",
+        "marks": 15,
+        "model_words": 313,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 19 - 2024 Q1(d), 10 marks",
+        "marks": 10,
+        "model_words": 147,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 20 - 2024 Q1(e), 10 marks",
+        "marks": 10,
+        "model_words": 141,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "PYQ 21 — 2023 · 1(c) (10 marks)",
+        "marks": 10,
+        "model_words": 142,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "PYQ 22 — 2025 · 1(b) (10 marks)",
+        "marks": 10,
+        "model_words": 133,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 186,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 174,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 181,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 183,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 247,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 236,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 77,
+    "workbook_pages": 40,
+    "main_layout": {
+      "page_count": 77,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 40,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Complete-Learning-Session_2026-09-06.md": "e438899796b6d29ea249750aac35ed627932c00b6e6a178275aee06d729a01a0",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Solved-Practice-Workbook_2026-09-06.md": "96b9977dedbade65cd01fa0cfd47cb66e3bf0dbcc4642cbc488201016c62ae4d",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Complete-Learning-Session_2026-09-06.pdf": "03104b02a107d1bcbeeb687e2d1f63e5719189a148d073a8d6b7f574f7a35f6e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Solved-Practice-Workbook_2026-09-06.pdf": "0c7a98585d839c68e454d71d8cae609a3e8d9877d4c6a9cf7b20f1a9888ddafe",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-18\\carvaka-g5\\master.png": "1f1c5dd02fc80732aff739841f086f3a2db107e24929ae850e473c04eafbfb6f",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-18\\carvaka-g5\\poster.pdf": "b3ddaca0da94c10c3e522a902457a876ff02b1415eeedb49e401c13aa0ea5bb4",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-18\\carvaka-g5\\tiled.pdf": "860577d36d20a02c9e555a972346f3abca01b0bd71aaab02f467bb6e81cf1388",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-18\\carvaka-g5\\ascii-master.pdf": "4be692559534809d3c6866051eae520abdc19e45dc0d422c59f9231dac5207bc",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-18\\carvaka-g5\\ascii-master.txt": "ce4f18486ecb5047fd2dd8524de5a387a7ca9504497aa0156fcfb83e29d8895e"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-18",
+    "title": "Liberty, Equality and Property",
+    "old_record_id": "political-theory-18:learner-v2:g4",
+    "new_record_id": "political-theory-18:learner-v2:g5",
+    "old_generation": 4,
+    "new_generation": 5,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-18-learner-v2-g5-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T12:01:06.637739+00:00",
+    "identities": {
+      "export": "political-theory-18:learner-v2:g5",
+      "master": "political-theory-18:learner-v2:g5",
+      "review": "political-theory-18:learner-v2:g5"
+    },
+    "generations": {
+      "export": 5,
+      "master": 5,
+      "review": 5
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-19"
+}

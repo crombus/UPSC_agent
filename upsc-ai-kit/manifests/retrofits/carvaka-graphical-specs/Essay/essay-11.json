@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-11",
+  "subject": "Essay",
+  "title": "CROSS-SECTOR LENSES AND SCALE",
+  "short_route": "CROSS-SECTOR LENSES AND SCALE → CROSS-SECTOR LENSES AND SCALE → CROSS-SECTOR LENSES AND SCALE → CROSS-SECTOR LENSES AND SCALE → CROSS-SECTOR LENSES AND SCALE → CROSS-SECTOR LENSES AND SCALE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-11_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-11-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "9d66292758590f87480c2998cd2ab1298a190fe3f41831abd09d8b9d0aff4103",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC TEACHES WHICH CROSS-SECTOR LENS TO APPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "TOOLS BUILT FROM THIS FOLDER'S OWN READING OF THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply",
+        "EXAM FACTS / SOURCE BASIS → tools built from this folder's own reading of the",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply",
+            "EXAM FACTS / SOURCE BASIS → tools built from this folder's own reading of the 16"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that genuine",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "CHOOSE TWO TO FOUR LENSES THAT GENUINE",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHICH TWO OR THREE LENSES DOES THIS PROMPT'S",
+          "role": "comparison"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens",
+        "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut",
+        "DIMENSION-EXPANSION GRID — 2 → Technology: engagement-optimised or delegated design",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that genuine",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut",
+            "DIMENSION-EXPANSION GRID — 2 → Technology: engagement-optimised or delegated design"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that genuine"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid",
+        "Dimension-expansion grid — 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR AN UNFAMILIAR PROMPT SUCH AS “A SOCIETY THAT",
+          "role": "evidence"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — 2",
+          "role": "primary"
+        },
+        {
+          "text": "ENGAGEMENT-OPTIMISED OR DELEGATED DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — 3",
+          "role": "comparison"
+        },
+        {
+          "text": "SCALE-MATCH TEST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut",
+        "DIMENSION-EXPANSION GRID — 2 → Technology: engagement-optimised or delegated design",
+        "DIMENSION-EXPANSION GRID — 3 → Scale-match test: does the illustration operate at t",
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each chosen lens, recall one Indian illustration",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut",
+          "DIMENSION-EXPANSION GRID — 3 → Scale-match test: does the illustration operate at t",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "DIMENSION-EXPANSION GRID — 2 → Technology: engagement-optimised or delegated design",
+          "INDIA-FIRST ILLUSTRATION STARTERS → For each chosen lens, recall one Indian illustration",
+          "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut",
+            "DIMENSION-EXPANSION GRID — 2 → Technology: engagement-optimised or delegated design"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DIMENSION-EXPANSION GRID — 3 → Scale-match test: does the illustration operate at t",
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each chosen lens, recall one Indian illustration"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Dimension-expansion grid",
+        "Dimension-expansion grid — 2",
+        "Dimension-expansion grid — 3",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — 3",
+          "role": "comparison"
+        },
+        {
+          "text": "SCALE-MATCH TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "DOES THE ILLUSTRATION OPERATE AT T",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "outcome"
+        },
+        {
+          "text": "FOR EACH CHOSEN LENS, RECALL ONE INDIAN ILLUSTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIMENSION-EXPANSION GRID — 3 → Scale-match test: does the illustration operate at t",
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each chosen lens, recall one Indian illustration",
+        "THESIS OPTIONS AND SELECTION → Let the thesis (05) determine which lenses are neede",
+        "SIMPLE ESSAY ARCHITECTURE → Typically, one lens develops per argument-map cycle",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "DIMENSION-EXPANSION GRID — 3 → Scale-match test: does the illustration operate at t",
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each chosen lens, recall one Indian illustration"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Let the thesis (05) determine which lenses are neede",
+            "SIMPLE ESSAY ARCHITECTURE → Typically, one lens develops per argument-map cycle"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "DIMENSION-EXPANSION GRID — 3 → Scale-match test: does the illustration operate at t"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Dimension-expansion grid — 3",
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LET THE THESIS (05) DETERMINE WHICH LENSES ARE NEEDE",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "TYPICALLY, ONE LENS DEVELOPS PER ARGUMENT-MAP CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "1. THESIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS OPTIONS AND SELECTION → Let the thesis (05) determine which lenses are neede",
+        "SIMPLE ESSAY ARCHITECTURE → Typically, one lens develops per argument-map cycle",
+        "SIMPLE ESSAY ARCHITECTURE — 2 → 1. Thesis: automation is valuable when it expands in",
+        "OPENING, BODY AND CLOSURE MOVES → Signal the chosen lenses implicitly through the cont",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Let the thesis (05) determine which lenses are neede",
+            "SIMPLE ESSAY ARCHITECTURE → Typically, one lens develops per argument-map cycle"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE — 2 → 1. Thesis: automation is valuable when it expands in",
+            "OPENING, BODY AND CLOSURE MOVES → Signal the chosen lenses implicitly through the cont"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "THESIS OPTIONS AND SELECTION → Let the thesis (05) determine which lenses are neede"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Simple essay architecture — 2",
+        "Opening, body and closure moves"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "1. THESIS",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTOMATION IS VALUABLE WHEN IT EXPANDS IN",
+          "role": "primary"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "outcome"
+        },
+        {
+          "text": "SIGNAL THE CHOSEN LENSES IMPLICITLY THROUGH THE CONT",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIMPLE ESSAY ARCHITECTURE — 2 → 1. Thesis: automation is valuable when it expands in",
+        "OPENING, BODY AND CLOSURE MOVES → Signal the chosen lenses implicitly through the cont",
+        "TRAPS AND REPAIR MOVES → \"Economically speaking\"). → Repair: let mechanism an",
+        "TRAPS AND REPAIR MOVES — 2 → at the individual level, missing the institutional/g",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE — 2 → 1. Thesis: automation is valuable when it expands in",
+            "OPENING, BODY AND CLOSURE MOVES → Signal the chosen lenses implicitly through the cont"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES → \"Economically speaking\"). → Repair: let mechanism an",
+            "TRAPS AND REPAIR MOVES — 2 → at the individual level, missing the institutional/g"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "SIMPLE ESSAY ARCHITECTURE — 2 → 1. Thesis: automation is valuable when it expands in"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Simple essay architecture — 2",
+        "Opening, body and closure moves",
+        "Traps and repair moves",
+        "Traps and repair moves — 2"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "\"ECONOMICALLY SPEAKING\").",
+          "role": "evidence"
+        },
+        {
+          "text": "LET MECHANISM AN",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "outcome"
+        },
+        {
+          "text": "AT THE INDIVIDUAL LEVEL, MISSING THE INSTITUTIONAL/G",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES → \"Economically speaking\"). → Repair: let mechanism an",
+        "TRAPS AND REPAIR MOVES — 2 → at the individual level, missing the institutional/g",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 11 supplies mechanism–scale–limit",
+        "CONCEPT DEFINITION AND TAXONOMY → next lens's input — e.g. a technology lens's mechani",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "TRAPS AND REPAIR MOVES → \"Economically speaking\"). → Repair: let mechanism an",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 11 supplies mechanism–scale–limit",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "TRAPS AND REPAIR MOVES — 2 → at the individual level, missing the institutional/g",
+          "CONCEPT DEFINITION AND TAXONOMY → next lens's input — e.g. a technology lens's mechani",
+          "TRAPS AND REPAIR MOVES → \"Economically speaking\"). → Repair: let mechanism an"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "TRAPS AND REPAIR MOVES → \"Economically speaking\"). → Repair: let mechanism an",
+            "TRAPS AND REPAIR MOVES — 2 → at the individual level, missing the institutional/g"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 11 supplies mechanism–scale–limit",
+            "CONCEPT DEFINITION AND TAXONOMY → next lens's input — e.g. a technology lens's mechani"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES → \"Economically speaking\"). → Repair: let mechanism an"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves",
+        "Traps and repair moves — 2",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE 11 SUPPLIES MECHANISM–SCALE–LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "NEXT LENS'S INPUT — E.G. A TECHNOLOGY LENS'S MECHANI",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT ACTUALLY DEFENSIBLE (E.G. DISCUSSING \"EMPIRES OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 11 supplies mechanism–scale–limit",
+        "CONCEPT DEFINITION AND TAXONOMY → next lens's input — e.g. a technology lens's mechani",
+        "CONCEPT DEFINITION AND TAXONOMY — → not actually defensible (e.g. discussing \"empires of",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more sophistication is false — an essay usin",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 11 supplies mechanism–scale–limit",
+            "CONCEPT DEFINITION AND TAXONOMY → next lens's input — e.g. a technology lens's mechani"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → not actually defensible (e.g. discussing \"empires of",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more sophistication is false — an essay usin"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 11 supplies mechanism–scale–limit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT ACTUALLY DEFENSIBLE (E.G. DISCUSSING \"EMPIRES OF",
+          "role": "caution"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "primary"
+        },
+        {
+          "text": "SIGNALS MORE SOPHISTICATION IS FALSE — AN ESSAY USIN",
+          "role": "outcome"
+        },
+        {
+          "text": "EVERY LENS (ESPECIALLY ETHICS AND IR) CAN BE FORCED",
+          "role": "comparison"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → not actually defensible (e.g. discussing \"empires of",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more sophistication is false — an essay usin",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → every lens (especially Ethics and IR) can be forced",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each lens, state explicitly which scale its mech",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → not actually defensible (e.g. discussing \"empires of",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more sophistication is false — an essay usin"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → every lens (especially Ethics and IR) can be forced",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each lens, state explicitly which scale its mech"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → not actually defensible (e.g. discussing \"empires of"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "EVERY LENS (ESPECIALLY ETHICS AND IR) CAN BE FORCED",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "FOR EACH LENS, STATE EXPLICITLY WHICH SCALE ITS MECH",
+          "role": "institution"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC TEACHES WHICH CROSS-SECTOR LENS TO APPLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → every lens (especially Ethics and IR) can be forced",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each lens, state explicitly which scale its mech",
+        "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply",
+        "EXAM FACTS / SOURCE BASIS → tools built from this folder's own reading of the",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → every lens (especially Ethics and IR) can be forced",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each lens, state explicitly which scale its mech"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply",
+            "EXAM FACTS / SOURCE BASIS → tools built from this folder's own reading of the 16"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → every lens (especially Ethics and IR) can be forced"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale",
+        "Purpose and scope",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CROSS-SECTOR LENSES AND SCALE: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC TEACHES WHICH CROSS-SECTOR LENS TO APPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "TOOLS BUILT FROM THIS FOLDER'S OWN READING OF THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply",
+        "EXAM FACTS / SOURCE BASIS → tools built from this folder's own reading of the",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply",
+            "EXAM FACTS / SOURCE BASIS → tools built from this folder's own reading of the 16"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that genuine",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic teaches which cross-sector lens to apply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CROSS-SECTOR LENSES AND SCALE: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CROSS-SECTOR LENSES AND SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "CHOOSE TWO TO FOUR LENSES THAT GENUINE",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHICH TWO OR THREE LENSES DOES THIS PROMPT'S",
+          "role": "comparison"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens",
+        "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut",
+        "DIMENSION-EXPANSION GRID — 2 → Technology: engagement-optimised or delegated design",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that genuine",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which two or three lenses does this prompt's tens"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION-EXPANSION GRID → For an unfamiliar prompt such as “A society that aut",
+            "DIMENSION-EXPANSION GRID — 2 → Technology: engagement-optimised or delegated design"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: choose two to four lenses that genuine"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid",
+        "Dimension-expansion grid — 2"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PARALLEL LENS USE (WEAKER)",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNANCE, ECONOMY AND SOCIETY LENSES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERACTING LENS USE (STRONGER)",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE LENS'S OUTCOME BECOMES THE",
+          "role": "primary"
+        },
+        {
+          "text": "SCALE MISMATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLYING A LENS'S MECHANISM AT A SCALE WHERE IT",
+          "role": "mechanism"
+        },
+        {
+          "text": "BREADTH VS. INTERACTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Parallel lens use (weaker): governance, economy and society lenses",
+            "Interacting lens use (stronger): one lens's outcome becomes the",
+            "Scale mismatch: applying a lens's mechanism at a scale where it is",
+            "Breadth vs. interaction: the assumption that using more lenses"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Universal applicability vs. genuine fit: the assumption that",
+            "NOT: Checklist lens use with no interaction. → Protocol: for at",
+            "NOT: Scale mismatch between lens and illustration. → Protocol: check",
+            "NOT: Forced interaction chain that does not survive the counterfactual"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Selecting lens combinations that interact (rather than merely coexist), and",
+            "matching mechanism to the precise scale where it is most defensible.",
+            "Grounded in: V1 (2018–2025) UPSC Essay paper corpus (see ../README.md); ../00 Master-Framework.md Section 7."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

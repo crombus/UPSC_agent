@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-10",
+  "record_id": "political-theory-10:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 11,
+    "questions": [
+      {
+        "title": "Solved PYQ 1 - 2022 Q3(c), 15 marks",
+        "marks": 15,
+        "model_words": 287,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 2 - 2023 Q1(d), 10 marks",
+        "marks": 10,
+        "model_words": 255,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 3 - 2023 Q4(c), 15 marks",
+        "marks": 15,
+        "model_words": 264,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 4 - 2024 Q4(c), 15 marks",
+        "marks": 15,
+        "model_words": 227,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 5 - 2025 Q1(c), 10 marks",
+        "marks": 10,
+        "model_words": 248,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 179,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 172,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 248,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 253,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 254,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 238,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 49,
+    "workbook_pages": 32,
+    "main_layout": {
+      "page_count": 49,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 32,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Complete-Learning-Session_2026-09-06.md": "50b60f61f503a8a7f080baf7545bd17bc558a7529b5f6f771fc768f9e7a574f3",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Solved-Practice-Workbook_2026-09-06.md": "4f215365df18a771dc3ff87370b2fd8353c8f3b3aae18724707d0adce5135573",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Complete-Learning-Session_2026-09-06.pdf": "5e4146b8c590e1edd56bdbb74194e585ce9c81fbdb9e7161e6e0cae7c42031b2",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Solved-Practice-Workbook_2026-09-06.pdf": "d33e962f2eef7468fb99003b93462bbdb3804fef9433f1e708d0b64bf9b6c098",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-10\\carvaka-g4\\master.png": "ef5b769731226ff7cf38ab672ee088314056c94960d6436f4a4e36a8a4b4bc24",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-10\\carvaka-g4\\poster.pdf": "5706c71d451dc18ae2ff1d5cee0f22b2d2dee5b96483bfb837baf78f7322bfe3",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-10\\carvaka-g4\\tiled.pdf": "f71e00a56c234c15aeb4abe75a31efaf036119a8be0d1d9f431f9b9377fc91ca",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-10\\carvaka-g4\\ascii-master.pdf": "453c3b82fb57967efc62547c238ef54f2422700de522d68c79e0818a41d16cff",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-10\\carvaka-g4\\ascii-master.txt": "5e2e033070956ac49ffcc834719d7af27bee40f99472d21917fb6187b69eb7cb"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-10",
+    "title": "State, Civil Society, Nation and Internationalism",
+    "old_record_id": "political-theory-10:learner-v2:g3",
+    "new_record_id": "political-theory-10:learner-v2:g4",
+    "old_generation": 3,
+    "new_generation": 4,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-10-learner-v2-g4-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T11:45:48.524209+00:00",
+    "identities": {
+      "export": "political-theory-10:learner-v2:g4",
+      "master": "political-theory-10:learner-v2:g4",
+      "review": "political-theory-10:learner-v2:g4"
+    },
+    "generations": {
+      "export": 4,
+      "master": 4,
+      "review": 4
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-11"
+}

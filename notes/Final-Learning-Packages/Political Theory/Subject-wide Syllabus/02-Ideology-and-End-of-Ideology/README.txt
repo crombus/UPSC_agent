@@ -5,8 +5,8 @@ Topic: Ideology and End of Ideology
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 02
-Source record ID: political-theory-02:learner-v2:g4
-Source generation: 4
+Source record ID: political-theory-02:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

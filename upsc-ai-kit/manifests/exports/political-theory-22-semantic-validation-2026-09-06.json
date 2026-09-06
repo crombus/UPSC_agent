@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-22",
+  "record_id": "political-theory-22:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 14,
+    "questions": [
+      {
+        "title": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 309,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 2 - 2018 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 282,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 3 - 2020 Q1(b), 10 marks",
+        "marks": 10,
+        "model_words": 239,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 4 - 2021 Q1(c), 10 marks",
+        "marks": 10,
+        "model_words": 183,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 5 - 2021 Q3(c), 15 marks",
+        "marks": 15,
+        "model_words": 182,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 6 - 2022 Q4(a), 20 marks",
+        "marks": 20,
+        "model_words": 424,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 7 - 2023 Q4(b), 15 marks",
+        "marks": 15,
+        "model_words": 283,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 8 - 2025 Q1(d), 10 marks",
+        "marks": 10,
+        "model_words": 235,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 151,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 158,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 218,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 202,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 257,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 260,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 64,
+    "workbook_pages": 40,
+    "main_layout": {
+      "page_count": 64,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 40,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Complete-Learning-Session_2026-09-06.md": "466cd90b68f399da61ef358c5eaff7a99f6cf43924b4373d6d6235fe0875ab7e",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Solved-Practice-Workbook_2026-09-06.md": "41b6a8eee7f0f8b8900a4ca160f587026d6586005e6502516dcad723b4a1db5c",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Complete-Learning-Session_2026-09-06.pdf": "a0bab894d187bfd1886d4d1af0ca5c24497bbe216020eb8200b823d4fd5c4648",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Solved-Practice-Workbook_2026-09-06.pdf": "46d7d45172a13c1f7391d4ef24b8d20f66cd04edebb02072704054d3542c04d7",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\master.png": "e44806dd137efeab74fc7507a561e42efecb2d08b9c61a859eb7259301f2f4c6",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\poster.pdf": "2a21179993ee97c10a062e0dca752a3eb929b1bcdbda6262e82b8913ddeb0a3d",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\tiled.pdf": "dc0b9be1c7a7c8ad1ecb543a79a12d78695465b87ea67582cad911656618bf11",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\ascii-master.pdf": "15b35ab002e8fca1a692bd0440d5bc921acea2124c9b9b2182037af4d39312cf",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4\\ascii-master.txt": "a155ef2f888132d8784b6ab0110178242e170ed29326bdb0203a3f6beb2b3389"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-22",
+    "title": "Democracy, Representation and Liberal Democracy",
+    "old_record_id": "political-theory-22:learner-v2:g3",
+    "new_record_id": "political-theory-22:learner-v2:g4",
+    "old_generation": 3,
+    "new_generation": 4,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-22-learner-v2-g4-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T12:08:54.029653+00:00",
+    "identities": {
+      "export": "political-theory-22:learner-v2:g4",
+      "master": "political-theory-22:learner-v2:g4",
+      "review": "political-theory-22:learner-v2:g4"
+    },
+    "generations": {
+      "export": 4,
+      "master": 4,
+      "review": 4
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-23"
+}

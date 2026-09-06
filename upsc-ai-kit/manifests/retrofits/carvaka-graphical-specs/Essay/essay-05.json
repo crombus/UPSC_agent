@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-05",
+  "subject": "Essay",
+  "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+  "short_route": "THESIS, CENTRAL ARGUMENT AND → THESIS, CENTRAL ARGUMENT AND → THESIS, CENTRAL ARGUMENT AND → THESIS, CENTRAL ARGUMENT AND → THESIS, CENTRAL ARGUMENT AND → THESIS, CENTRAL ARGUMENT AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-05_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-05-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "ba306d3452b4c87679cecb3e45895530fc8f8ff40d5ac0a74c4a85ecf40bcbbd",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE HINGE BETWEEN DECODING/EXPANSION (",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "\"POWER\", \"TECHNOLOGY\"). A THEME IS A CONTAINER, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "WORKED SEPARATION, 2024-A3. TOPIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion (",
+        "CORE TERMS IN PLAIN LANGUAGE → \"power\", \"technology\"). A theme is a container, not",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no",
+        "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion (",
+            "CORE TERMS IN PLAIN LANGUAGE → \"power\", \"technology\"). A theme is a container, not"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no path",
+            "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion ("
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Claim, reason and warrant"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "WORKED SEPARATION, 2024-A3. TOPIC",
+          "role": "evidence"
+        },
+        {
+          "text": "\"THERE IS NO PATH",
+          "role": "caution"
+        },
+        {
+          "text": "CLAIM, REASON AND WARRANT",
+          "role": "outcome"
+        },
+        {
+          "text": "MOST WEAK BODY PARAGRAPHS FAIL AT THE WARRANT, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "CLAIM, REASON AND WARRANT — 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no",
+        "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t",
+        "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform",
+        "CLAIM, REASON AND WARRANT — 3 → The warrant is where the counter-view attaches (08)",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no path",
+            "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform ra",
+            "CLAIM, REASON AND WARRANT — 3 → The warrant is where the counter-view attaches (08)"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no path"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Claim, reason and warrant",
+        "Claim, reason and warrant — 2",
+        "Claim, reason and warrant — 3"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIM, REASON AND WARRANT — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "CLAIM A REGULATOR SHOULD PILOT A CONTESTED REFORM RA",
+          "role": "evidence"
+        },
+        {
+          "text": "CLAIM, REASON AND WARRANT — 3",
+          "role": "primary"
+        },
+        {
+          "text": "THE WARRANT IS WHERE THE COUNTER-VIEW ATTACHES (08)",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE SIGNIFICANCE AND REBUTTAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CLAIM - REASON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform",
+        "CLAIM, REASON AND WARRANT — 3 → The warrant is where the counter-view attaches (08)",
+        "EVIDENCE SIGNIFICANCE AND REBUTTAL → claim - reason / mechanism - named, verifiable illus",
+        "EVIDENCE SIGNIFICANCE AND REBUTTAL → The concession accepts what the objection gets right",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform ra",
+          "EVIDENCE SIGNIFICANCE AND REBUTTAL → claim - reason / mechanism - named, verifiable illus",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "CLAIM, REASON AND WARRANT — 3 → The warrant is where the counter-view attaches (08)",
+          "EVIDENCE SIGNIFICANCE AND REBUTTAL → The concession accepts what the objection gets right",
+          "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform ra"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform ra",
+            "CLAIM, REASON AND WARRANT — 3 → The warrant is where the counter-view attaches (08)"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE SIGNIFICANCE AND REBUTTAL → claim - reason / mechanism - named, verifiable illus",
+            "EVIDENCE SIGNIFICANCE AND REBUTTAL → The concession accepts what the objection gets right"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform ra"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Claim, reason and warrant — 2",
+        "Claim, reason and warrant — 3",
+        "Evidence significance and rebuttal cycle",
+        "Evidence significance and rebuttal cycle — 2"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE SIGNIFICANCE AND REBUTTAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CLAIM - REASON",
+          "role": "evidence"
+        },
+        {
+          "text": "MECHANISM - NAMED, VERIFIABLE ILLUS",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE CONCESSION ACCEPTS WHAT THE OBJECTION GETS RIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE SIGNIFICANCE AND REBUTTAL → claim - reason / mechanism - named, verifiable illus",
+        "EVIDENCE SIGNIFICANCE AND REBUTTAL → The concession accepts what the objection gets right",
+        "EXAM FACTS / SOURCE BASIS → proposition-mechanism-illustration-qualification-syn",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is a claim that",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EVIDENCE SIGNIFICANCE AND REBUTTAL → claim - reason / mechanism - named, verifiable illus",
+            "EVIDENCE SIGNIFICANCE AND REBUTTAL → The concession accepts what the objection gets right"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → proposition-mechanism-illustration-qualification-syn",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is a claim that could, in pri"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "EVIDENCE SIGNIFICANCE AND REBUTTAL → claim - reason / mechanism - named, verifiable illus"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Evidence significance and rebuttal cycle",
+        "Evidence significance and rebuttal cycle — 2",
+        "Exam facts / source basis",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "A THESIS IS A CLAIM THAT COULD, IN PRI",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS → proposition-mechanism-illustration-qualification-syn",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is a claim that",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is my one-sentence claim, in my own words, g",
+        "INDIA-FIRST ILLUSTRATION STARTERS → For your chosen thesis, recall one Indian illustrati",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → proposition-mechanism-illustration-qualification-syn",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is a claim that could, in pri"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is my one-sentence claim, in my own words, g",
+            "INDIA-FIRST ILLUSTRATION STARTERS → For your chosen thesis, recall one Indian illustrati"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS → proposition-mechanism-illustration-qualification-syn"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. WHAT IS MY ONE-SENTENCE CLAIM, IN MY OWN",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "primary"
+        },
+        {
+          "text": "FOR YOUR CHOSEN THESIS, RECALL ONE INDIAN ILLUSTRATI",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERATE TWO OR THREE THESIS ALTERNATIVES (SECTION 6",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is my one-sentence claim, in my own words, g",
+        "INDIA-FIRST ILLUSTRATION STARTERS → For your chosen thesis, recall one Indian illustrati",
+        "THESIS OPTIONS AND SELECTION → Generate two or three thesis alternatives (Section 6",
+        "SIMPLE ESSAY ARCHITECTURE → Once the thesis is chosen, sketch the argument map (",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is my one-sentence claim, in my own words, g",
+            "INDIA-FIRST ILLUSTRATION STARTERS → For your chosen thesis, recall one Indian illustrati"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Generate two or three thesis alternatives (Section 6",
+            "SIMPLE ESSAY ARCHITECTURE → Once the thesis is chosen, sketch the argument map ("
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is my one-sentence claim, in my own words, g"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERATE TWO OR THREE THESIS ALTERNATIVES (SECTION 6",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ONCE THE THESIS IS CHOSEN, SKETCH THE ARGUMENT MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "A STRONG THESIS IS ONE THAT HAS ALREADY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS OPTIONS AND SELECTION → Generate two or three thesis alternatives (Section 6",
+        "SIMPLE ESSAY ARCHITECTURE → Once the thesis is chosen, sketch the argument map (",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a strong thesis is one that has already",
+        "CONCEPT DEFINITION AND TAXONOMY → the thesis indefensible (e.g. \"reversible, safeguard",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "THESIS OPTIONS AND SELECTION → Generate two or three thesis alternatives (Section 6",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a strong thesis is one that has already",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "SIMPLE ESSAY ARCHITECTURE → Once the thesis is chosen, sketch the argument map (",
+          "CONCEPT DEFINITION AND TAXONOMY → the thesis indefensible (e.g. \"reversible, safeguard",
+          "THESIS OPTIONS AND SELECTION → Generate two or three thesis alternatives (Section 6"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Generate two or three thesis alternatives (Section 6",
+            "SIMPLE ESSAY ARCHITECTURE → Once the thesis is chosen, sketch the argument map ("
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a strong thesis is one that has already",
+            "CONCEPT DEFINITION AND TAXONOMY → the thesis indefensible (e.g. \"reversible, safeguard"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "THESIS OPTIONS AND SELECTION → Generate two or three thesis alternatives (Section 6"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "A STRONG THESIS IS ONE THAT HAS ALREADY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "THE THESIS INDEFENSIBLE (E.G. \"REVERSIBLE, SAFEGUARD",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "BALANCE, DOING NO REAL ARGUMENTATIVE WORK (E.G. \"OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a strong thesis is one that has already",
+        "CONCEPT DEFINITION AND TAXONOMY → the thesis indefensible (e.g. \"reversible, safeguard",
+        "CONCEPT DEFINITION AND TAXONOMY — → balance, doing no real argumentative work (e.g. \"of",
+        "CONCEPT DEFINITION AND TAXONOMY — → illustration→qualification→synthesis two to four tim",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a strong thesis is one that has already",
+            "CONCEPT DEFINITION AND TAXONOMY → the thesis indefensible (e.g. \"reversible, safeguard"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → balance, doing no real argumentative work (e.g. \"of",
+            "CONCEPT DEFINITION AND TAXONOMY — → illustration→qualification→synthesis two to four tim"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a strong thesis is one that has already"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Concept definition and taxonomy — 3"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "BALANCE, DOING NO REAL ARGUMENTATIVE WORK (E.G. \"OF",
+          "role": "caution"
+        },
+        {
+          "text": "ILLUSTRATION→QUALIFICATION→SYNTHESIS TWO TO FOUR TIM",
+          "role": "primary"
+        },
+        {
+          "text": "DEFENDED, RATHER THAN ASSUMED — THE DIFFERENCE BETWE",
+          "role": "outcome"
+        },
+        {
+          "text": "WARRANT ANALYSIS — WHERE ADVANCED",
+          "role": "comparison"
+        },
+        {
+          "text": "AT BASIC LEVEL THE DISCIPLINE IS TO SURFACE THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → balance, doing no real argumentative work (e.g. \"of",
+        "CONCEPT DEFINITION AND TAXONOMY — → illustration→qualification→synthesis two to four tim",
+        "CONCEPT DEFINITION AND TAXONOMY — → defended, rather than assumed — the difference betwe",
+        "WARRANT ANALYSIS — WHERE ADVANCED → At basic level the discipline is to surface the",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → balance, doing no real argumentative work (e.g. \"of",
+            "CONCEPT DEFINITION AND TAXONOMY — → illustration→qualification→synthesis two to four tim"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → defended, rather than assumed — the difference betwe",
+            "WARRANT ANALYSIS — WHERE ADVANCED → At basic level the discipline is to surface the warr"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → balance, doing no real argumentative work (e.g. \"of"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 2",
+        "Concept definition and taxonomy — 3",
+        "Concept definition and taxonomy — 4",
+        "Warrant analysis — where advanced theses actually break"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFENDED, RATHER THAN ASSUMED — THE DIFFERENCE BETWE",
+          "role": "evidence"
+        },
+        {
+          "text": "WARRANT ANALYSIS — WHERE ADVANCED",
+          "role": "primary"
+        },
+        {
+          "text": "AT BASIC LEVEL THE DISCIPLINE IS TO SURFACE THE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE HINGE BETWEEN DECODING/EXPANSION (",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → defended, rather than assumed — the difference betwe",
+        "WARRANT ANALYSIS — WHERE ADVANCED → At basic level the discipline is to surface the",
+        "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion (",
+        "CORE TERMS IN PLAIN LANGUAGE → \"power\", \"technology\"). A theme is a container, not",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → defended, rather than assumed — the difference betwe",
+            "WARRANT ANALYSIS — WHERE ADVANCED → At basic level the discipline is to surface the warr"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion (",
+            "CORE TERMS IN PLAIN LANGUAGE → \"power\", \"technology\"). A theme is a container, not"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → defended, rather than assumed — the difference betwe"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 4",
+        "Warrant analysis — where advanced theses actually break",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE HINGE BETWEEN DECODING/EXPANSION (",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "\"POWER\", \"TECHNOLOGY\"). A THEME IS A CONTAINER, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "WORKED SEPARATION, 2024-A3. TOPIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion (",
+        "CORE TERMS IN PLAIN LANGUAGE → \"power\", \"technology\"). A theme is a container, not",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no",
+        "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion (",
+            "CORE TERMS IN PLAIN LANGUAGE → \"power\", \"technology\"). A theme is a container, not"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no path",
+            "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic is the hinge between decoding/expansion ("
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Claim, reason and warrant"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "THESIS, CENTRAL ARGUMENT AND ARGUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "WORKED SEPARATION, 2024-A3. TOPIC",
+          "role": "evidence"
+        },
+        {
+          "text": "\"THERE IS NO PATH",
+          "role": "caution"
+        },
+        {
+          "text": "CLAIM, REASON AND WARRANT",
+          "role": "outcome"
+        },
+        {
+          "text": "MOST WEAK BODY PARAGRAPHS FAIL AT THE WARRANT, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "CLAIM, REASON AND WARRANT — 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no",
+        "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t",
+        "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform",
+        "CLAIM, REASON AND WARRANT — 3 → The warrant is where the counter-view attaches (08)",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no path",
+            "CLAIM, REASON AND WARRANT → Most weak body paragraphs fail at the warrant, not t"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CLAIM, REASON AND WARRANT — 2 → CLAIM A regulator should pilot a contested reform ra",
+            "CLAIM, REASON AND WARRANT — 3 → The warrant is where the counter-view attaches (08)"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → Worked separation, 2024-A3. Topic: \"There is no path"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Claim, reason and warrant",
+        "Claim, reason and warrant — 2",
+        "Claim, reason and warrant — 3"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LOAD-BEARING QUALIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "A LIMIT THAT, IF REMOVED, WOULD MAKE",
+          "role": "caution"
+        },
+        {
+          "text": "DECORATIVE QUALIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "A LIMIT ADDED ONLY FOR THE APPEARANCE OF",
+          "role": "caution"
+        },
+        {
+          "text": "MULTI-CYCLE ARGUMENT MAP",
+          "role": "mechanism"
+        },
+        {
+          "text": "REPEATING PROPOSITION→MECHANISM→",
+          "role": "mechanism"
+        },
+        {
+          "text": "BACKED WARRANT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Load-bearing qualification: a limit that, if removed, would make",
+            "Decorative qualification: a limit added only for the appearance of",
+            "Multi-cycle argument map: repeating proposition→mechanism→",
+            "Backed warrant: a warrant (basic/05, Section 2a) that is itself"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Arguability vs. safety: a hidden assumption that a \"safe,\" vague",
+            "Single-cycle vs. multi-cycle: the assumption that one strong",
+            "Consistency vs. false uniformity: the assumption that every",
+            "NOT: Decorative qualification (Section 2) that does no real work. →"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Disconnected cycles (three mini-essays, not one essay). →",
+            "NOT: Thesis drift across cycles (later cycles quietly argue something",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Building a thesis that survives its own strongest objection; sequencing multiple argument-map cycles without contradiction or repetition."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -5,8 +5,8 @@ Topic: Case Study Method and Answer Architecture
 Subject: Ethics
 Section: Subject-wide Syllabus
 Catalogue number: 22
-Source record ID: ethics-22:learner-v2:g2
-Source generation: 2
+Source record ID: ethics-22:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

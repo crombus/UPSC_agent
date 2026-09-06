@@ -85,6 +85,26 @@ these same eight elements before writing.
 | ⚠️ **Steelmanning** | Stating the *strongest* — not a weak — version of the objection to the chosen decision, and either showing why it does not overturn the decision or modifying the decision to accommodate its valid part (Sec. 6). |
 | ⚠️ **Residual-risk closing formula** | Ending every answer not with "the problem is solved" but with a named risk that survives the decision and a specific monitoring/review mechanism for it (Sec. 7). |
 
+### Complete GS-IV decision ledger
+
+Before writing prose, complete this ledger. It prevents factual invention and makes the final
+choice auditable.
+
+| Step | Required output |
+|---|---|
+| **1. Fact/value separation** | Two columns: verified facts supplied by the case, and assumptions or value judgments that still require verification. |
+| **2. Stakeholders** | Direct actors, silent/absent beneficiaries, vulnerable groups, future generations, the institution and public trust. |
+| **3. Ethical issues** | Name the precise issues: conflict of interest, deception, discrimination, abuse of discretion, confidentiality, duty of care, misuse of funds, retaliation or procedural unfairness. |
+| **4. Legal and constitutional floor** | Identify authority, jurisdiction and binding law; then apply constitutional morality—dignity, equality, liberty, fraternity, accountability and non-arbitrariness—as a public justification standard. |
+| **5. Legality versus ethics** | A lawful option may remain unfair, opaque or disproportionate; an ethically attractive option cannot normally be chosen if the official lacks lawful authority. |
+| **6. Options and ethical tests** | Compare at least three feasible options through consequence, duty/rights, virtue, justice, care and public-interest tests. Record short-term and long-term effects separately. |
+| **7. Reasoned final choice** | State the decisive principle, answer the strongest counterargument, protect vulnerable groups and explain why rejected options fail. |
+| **8. Implementation and prevention** | Assign responsibility, timeline, communication, review and residual-risk monitoring; add preventive institutional reforms such as disclosure/recusal, audit trails, independent review, safer reporting, training or process redesign. |
+
+> **Case-study rule:** legality is the floor, not the whole ethical ceiling; compassion is a lens,
+> not a licence to ignore authority; and a reasoned choice is incomplete without executable
+> safeguards and institutional prevention.
+
 ## 3. The six-check evaluation framework (Element 5, in full)
 
 1. **Conflict of interest:** Does any option involve, or appear to involve, the decision-maker's own

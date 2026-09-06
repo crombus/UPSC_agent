@@ -1,0 +1,1748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Riverine Floods and Urban Flood Resilience - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 330.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\assets\\disaster-management-08_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 482.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 174.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 83,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not treat riverine, pluvial, flash, urban and coastal floods as synonyms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 98,
+      "markdown_body_line_end": 105,
+      "heading": "VISUAL FIRST",
+      "preview": "RIVERINE PLUVIAL FLASH URBAN AND COASTAL FLOOD TAXONOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 332.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 159,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RIVERINE PLUVIAL FLASH URBAN AND COASTAL FLOOD TAXONOMY",
+      "preview": "START / CONCEPT: FOUNDATION — Riverine pluvial flash urban and coastal flood taxonomy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 614.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 393.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Basin catchment channel and floodplain processes as a sequence: identify Pluvial flooding, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 239.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 172.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 189,
+      "heading": "VISUAL FIRST",
+      "preview": "BASIN CATCHMENT CHANNEL AND FLOODPLAIN PROCESSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 242,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BASIN CATCHMENT CHANNEL AND FLOODPLAIN PROCESSES",
+      "preview": "START / CONCEPT: FOUNDATION — Basin catchment channel and floodplain processes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 284.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 53.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Cloudburst flash-flood and short-lead-time boundary as a sequence: identify Flash flooding, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 272,
+      "heading": "VISUAL FIRST",
+      "preview": "CLOUDBURST FLASH-FLOOD AND SHORT-LEAD-TIME BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 325,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CLOUDBURST FLASH-FLOOD AND SHORT-LEAD-TIME BOUNDARY",
+      "preview": "START / CONCEPT: FOUNDATION — Cloudburst flash-flood and short-lead-time boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 697.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 466.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Urban imperviousness drainage and runoff synchronisation as a sequence: identify Urban flooding, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 298.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 217.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 355,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN IMPERVIOUSNESS DRAINAGE AND RUNOFF SYNCHRONISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - CORE - URBAN IMPERVIOUSNESS DRAINAGE AND RUNOFF SYNCHRONISATION",
+      "preview": "START / CONCEPT: CORE — Urban imperviousness drainage and runoff synchronisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 296.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 55.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Floodplain wetlands lakes and natural-drain encroachment as a sequence: identify Coastal flooding, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 438,
+      "heading": "VISUAL FIRST",
+      "preview": "FLOODPLAIN WETLANDS LAKES AND NATURAL-DRAIN ENCROACHMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 491,
+      "heading": "CLOSING RECALL FLOW - CORE - FLOODPLAIN WETLANDS LAKES AND NATURAL-DRAIN ENCROACHMENT",
+      "preview": "START / CONCEPT: CORE — Floodplain wetlands lakes and natural-drain encroachment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Coastal river tide and drainage interaction as a sequence: identify Basin-catchment process, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 265.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 198.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 524,
+      "heading": "VISUAL FIRST",
+      "preview": "COASTAL RIVER TIDE AND DRAINAGE INTERACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW - CORE - COASTAL RIVER TIDE AND DRAINAGE INTERACTION",
+      "preview": "START / CONCEPT: CORE — Coastal river tide and drainage interaction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 37.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CWC monitoring forecasting and site thresholds as a sequence: identify Imperviousness and drainage, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 608,
+      "heading": "VISUAL FIRST",
+      "preview": "CWC MONITORING FORECASTING AND SITE THRESHOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW - CORE - CWC MONITORING FORECASTING AND SITE THRESHOLDS",
+      "preview": "START / CONCEPT: CORE — CWC monitoring forecasting and site thresholds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Reservoir operation downstream warning and governance boundary as a sequence: identify Reservoir-operation boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 197.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "RESERVOIR OPERATION DOWNSTREAM WARNING AND GOVERNANCE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 711.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 744,
+      "heading": "CLOSING RECALL FLOW - CORE - RESERVOIR OPERATION DOWNSTREAM WARNING AND GOVERNANCE BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Reservoir operation downstream warning and governance boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 755,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Dams embankments channels and structural limits as a sequence: identify CWC forecasting, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 312.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 774,
+      "heading": "VISUAL FIRST",
+      "preview": "DAMS EMBANKMENTS CHANNELS AND STRUCTURAL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 827,
+      "heading": "CLOSING RECALL FLOW - CORE - DAMS EMBANKMENTS CHANNELS AND STRUCTURAL LIMITS",
+      "preview": "START / CONCEPT: CORE — Dams embankments channels and structural limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 838,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Urban planning floodplain zoning and drainage design as a sequence: identify Site-specific thresholds, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 857,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN PLANNING FLOODPLAIN ZONING AND DRAINAGE DESIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 910,
+      "heading": "CLOSING RECALL FLOW - CORE - URBAN PLANNING FLOODPLAIN ZONING AND DRAINAGE DESIGN",
+      "preview": "START / CONCEPT: CORE — Urban planning floodplain zoning and drainage design",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Wetlands blue-green infrastructure and sponge-city concepts as a sequence: identify Urban planning, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL FIRST",
+      "preview": "WETLANDS BLUE-GREEN INFRASTRUCTURE AND SPONGE-CITY CONCEPTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 652.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 997,
+      "heading": "CLOSING RECALL FLOW - CORE - WETLANDS BLUE-GREEN INFRASTRUCTURE AND SPONGE-CITY CONCEPTS",
+      "preview": "START / CONCEPT: CORE — Wetlands blue-green infrastructure and sponge-city concepts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1008,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read UFRMP NDMF status and implementation firewall as a sequence: identify Structural-measure limits, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1027,
+      "heading": "VISUAL FIRST",
+      "preview": "UFRMP NDMF STATUS AND IMPLEMENTATION FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1080,
+      "heading": "CLOSING RECALL FLOW - CORE - UFRMP NDMF STATUS AND IMPLEMENTATION FIREWALL",
+      "preview": "START / CONCEPT: CORE — UFRMP NDMF status and implementation firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 83.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Critical infrastructure and interdependent service resilience as a sequence: identify Urban Flood Risk Management Programme, follow the named mechanism to its institutional response, and stop at the last verified status rather than ass",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1110,
+      "heading": "VISUAL FIRST",
+      "preview": "CRITICAL INFRASTRUCTURE AND INTERDEPENDENT SERVICE RESILIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1163,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CRITICAL INFRASTRUCTURE AND INTERDEPENDENT SERVICE RESILIENCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Critical infrastructure and interdependent service resilience",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 290
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 409.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1174,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Inclusive evacuation relief health and recovery as a sequence: identify Resilient infrastructure, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1196,
+      "heading": "VISUAL FIRST",
+      "preview": "INCLUSIVE EVACUATION RELIEF HEALTH AND RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 652.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1250,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INCLUSIVE EVACUATION RELIEF HEALTH AND RECOVERY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Inclusive evacuation relief health and recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Inter-jurisdiction coordination PYQs and outcome boundary as a sequence: identify Recovery and coordination, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1283,
+      "heading": "VISUAL FIRST",
+      "preview": "INTER-JURISDICTION COORDINATION PYQS AND OUTCOME BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Riverine, coastal, flash and urban flood causation; structural and non-structural management tools; floodplain zoning, drainage design ",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 242.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 118.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1344,
+      "heading": "1. Visual foundation",
+      "preview": "NATURAL CAUSES                 ANTHROPOGENIC CAUSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1361,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 577.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 278.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1555,
+      "heading": "13. Core-only answer architecture - basin, city and dam safety",
+      "preview": "**Core firewall:** this section carries the 2020 urban-flood, 2022 cloudburst, 2023 dam-failure and exact 2024 urban-flood demands. A response may use `advanced/08`, but no fact needed for the paper is trapped there.",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 368.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 302.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1564,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 324.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1600,
+      "markdown_body_line_end": 1617,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INTER-JURISDICTION COORDINATION PYQS AND OUTCOME BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Inter-jurisdiction coordination PYQs and outcome boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 720.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2781,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Catchment-to-city governance; floodplain encroachment as a political-economy problem; forecast limits; a rigorous case-selection method for the 202",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 678.824
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2798,
+      "markdown_body_line_end": 2815,
+      "heading": "2. Risk-system analysis",
+      "preview": "UPSTREAM CATCHMENT CHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 530.424
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 359.424
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3041,
+      "markdown_body_line_end": 3049,
+      "heading": "Riverine Floods and Urban Flood Resilience: ZONING DRAINAGE WETLAND INFRASTRUCTURE INCLUSION AND RECOVERY SPINE",
+      "preview": "CLASSIFY RIVERINE PLUVIAL FLASH URBAN AND COASTAL FLOODING",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 339.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 258.491
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3059,
+      "markdown_body_line_end": 3064,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Flood-family matrix",
+      "preview": "RIVERINE -> channel / floodplain overflow",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 711.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3068,
+      "markdown_body_line_end": 3073,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Catchment-to-city chain",
+      "preview": "RAINFALL + ANTECEDENT MOISTURE + SLOPE / LAND COVER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 689.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 637.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3077,
+      "markdown_body_line_end": 3082,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Urban runoff mechanism",
+      "preview": "IMPERVIOUS SURFACE -> FASTER RUNOFF",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 615.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 563.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3086,
+      "markdown_body_line_end": 3091,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Water-space firewall",
+      "preview": "FLOODPLAIN -> room for river expansion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 490.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3095,
+      "markdown_body_line_end": 3100,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Compound coastal flood map",
+      "preview": "RIVER FLOW -> ESTUARY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 468.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 416.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3104,
+      "markdown_body_line_end": 3109,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: CWC forecast rail",
+      "preview": "1 OBSERVE LEVEL / DISCHARGE / INFLOW",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 394.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 342.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3113,
+      "markdown_body_line_end": 3118,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Reservoir governance boundary",
+      "preview": "INFLOW FORECAST + CURRENT STORAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 320.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 268.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3122,
+      "markdown_body_line_end": 3127,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Structural measure test",
+      "preview": "DAM / RESERVOIR -> storage and operation limits",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3131,
+      "markdown_body_line_end": 3136,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Urban planning portfolio",
+      "preview": "MASTER PLAN + FLOODPLAIN ZONING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3140,
+      "markdown_body_line_end": 3147,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Sponge-city portfolio",
+      "preview": "ROOF / PLOT -> capture infiltrate delay",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3151,
+      "markdown_body_line_end": 3158,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Inclusive service recovery loop",
+      "preview": "ACCESSIBLE WARNING -> TRANSPORT -> SHELTER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3162,
+      "markdown_body_line_end": 3169,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Flood answer spine",
+      "preview": "CLASSIFY FLOOD -> TRACE CATCHMENT CITY COAST MECHANISM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    }
+  ]
+}

@@ -467,7 +467,12 @@ def load_manual_topic_specs(spec_dir: Path) -> dict[str, ManualTopicSpec]:
     required_names = {path.name.casefold() for path in required_paths}
     optional_paths = [
         path
-        for path in sorted(spec_dir.glob("polity-*-sequential.json"))
+        for path in sorted(
+            [
+                *spec_dir.glob("polity-*-sequential.json"),
+                *spec_dir.glob("essay-*-2026-09-06-sequential.json"),
+            ]
+        )
         if path.name.casefold() not in required_names
     ]
     for path in [*required_paths, *optional_paths]:
@@ -475,6 +480,12 @@ def load_manual_topic_specs(spec_dir: Path) -> dict[str, ManualTopicSpec]:
             raise ValueError(f"Required manual ASCII spec is missing: {path}")
         for topic_key, spec in normalize_manual_spec_file(path).items():
             if topic_key in topics:
+                if (
+                    topic_key.startswith("essay-")
+                    and "2026-09-06" in path.name
+                ):
+                    topics[topic_key] = spec
+                    continue
                 raise ValueError(f"Duplicate manual ASCII topic: {topic_key}")
             topics[topic_key] = spec
     return topics

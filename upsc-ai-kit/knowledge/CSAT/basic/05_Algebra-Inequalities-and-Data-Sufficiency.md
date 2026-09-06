@@ -458,3 +458,47 @@ otherwise rebuild the failed relation and take five fresh items of that exact fo
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** Logical reasoning, analytical ability, decision making and Class X data sufficiency.
+- **Canonical scope:** Owns algebraic expressions, equations, inequalities, quantitative comparison and the two-statement data-sufficiency decision format.
+- **Cross-topic boundary:** Arithmetic computation remains with Topic 03 and rate contexts with Topic 04 when no sufficiency judgement is tested; arrangements and coding belong to Topic 06.
+
+### Complete learner route
+
+1. **Expression discipline:** Track signs, brackets, domains and denominators.
+2. **Linear equations:** Preserve equality through reversible operations.
+3. **Simultaneous equations:** Use elimination, substitution or option testing.
+4. **Inequalities:** Reverse the sign only when multiplying or dividing by a negative.
+5. **Absolute value and surds:** Split valid cases and respect non-negative roots.
+6. **Word translation:** Define variables and constraints before manipulating.
+7. **Quantitative comparison:** Compare ranges, not one sample.
+8. **DS format:** Read the printed verdict options before solving.
+9. **Necessary and sufficient:** Test each statement alone, then together.
+10. **Counterexample search:** One second valid value disproves uniqueness.
+11. **Bounds and optimisation:** Check endpoints, integrality and attainability.
+12. **Verification:** Substitute, test domains and separate answer value from sufficiency.
+
+### Verification and hostile-query gate
+
+Equations are plug-checked, inequality sign changes are explicit, and sufficiency verdicts require uniqueness across all allowed values rather than one convenient example.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**equation; inequality; absolute value; quantitative comparison; data sufficiency; necessary; sufficient; counterexample**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

@@ -5,8 +5,8 @@ Topic: Political Obligation, Resistance and Law
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 14
-Source record ID: political-theory-14:learner-v2:g3
-Source generation: 3
+Source record ID: political-theory-14:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

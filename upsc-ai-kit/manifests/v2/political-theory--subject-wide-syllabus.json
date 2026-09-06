@@ -33,19 +33,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g6\\topic-01_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g6\\topic-01_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g6\\topic-01_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g6\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-01-ascii-2026-08-30-g6.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-01\\carvaka-g6",
-      "generation_identity": "political-theory-01:learner-v2:g6",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g7\\topic-01_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g7\\topic-01_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g7\\topic-01_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g7\\topic-01_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-01\\g7\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-01-ascii-2026-09-06-g7.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-01\\carvaka-g7",
+      "generation_identity": "political-theory-01:learner-v2:g7",
       "approved": false,
       "superseded_v1": "political-theory-01:legacy-v1:g1",
       "status": "generated_unapproved",
-      "generation": 6,
-      "record_id": "political-theory-01:learner-v2:g6"
+      "generation": 7,
+      "record_id": "political-theory-01:learner-v2:g7"
     },
     {
       "topic_key": "political-theory-02",
@@ -62,19 +62,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g4\\topic-02_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g4\\topic-02_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g4\\topic-02_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g4\\topic-02_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g4\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-02-ascii-2026-08-30-g4.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-02\\carvaka-g4",
-      "generation_identity": "political-theory-02:learner-v2:g4",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g5\\topic-02_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g5\\topic-02_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g5\\topic-02_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g5\\topic-02_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-02-ascii-2026-09-06-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-02\\carvaka-g5",
+      "generation_identity": "political-theory-02:learner-v2:g5",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 4,
-      "record_id": "political-theory-02:learner-v2:g4"
+      "generation": 5,
+      "record_id": "political-theory-02:learner-v2:g5"
     },
     {
       "topic_key": "political-theory-03",
@@ -91,19 +91,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-03-ascii-2026-08-30-g5.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-03\\carvaka-g5",
-      "generation_identity": "political-theory-03:learner-v2:g5",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g6\\topic-03_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g6\\topic-03_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g6\\topic-03_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g6\\topic-03_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-03-ascii-2026-09-06-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-03\\carvaka-g6",
+      "generation_identity": "political-theory-03:learner-v2:g6",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 5,
-      "record_id": "political-theory-03:learner-v2:g5"
+      "generation": 6,
+      "record_id": "political-theory-03:learner-v2:g6"
     },
     {
       "topic_key": "political-theory-04",
@@ -120,19 +120,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g4\\topic-04_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g4\\topic-04_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g4\\topic-04_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g4\\topic-04_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g4\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-04-ascii-2026-08-30-g4.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-04\\carvaka-g4",
-      "generation_identity": "political-theory-04:learner-v2:g4",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g5\\topic-04_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g5\\topic-04_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-04-ascii-2026-09-06-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-04\\carvaka-g5",
+      "generation_identity": "political-theory-04:learner-v2:g5",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 4,
-      "record_id": "political-theory-04:learner-v2:g4"
+      "generation": 5,
+      "record_id": "political-theory-04:learner-v2:g5"
     },
     {
       "topic_key": "political-theory-05",
@@ -149,19 +149,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\topic-05_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\topic-05_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g4\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-05-ascii-2026-08-30-g4.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-05\\carvaka-g4",
-      "generation_identity": "political-theory-05:learner-v2:g4",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g5\\topic-05_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g5\\topic-05_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g5\\topic-05_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g5\\topic-05_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-05\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-05-ascii-2026-09-06-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-05\\carvaka-g5",
+      "generation_identity": "political-theory-05:learner-v2:g5",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 4,
-      "record_id": "political-theory-05:learner-v2:g4"
+      "generation": 5,
+      "record_id": "political-theory-05:learner-v2:g5"
     },
     {
       "topic_key": "political-theory-06",
@@ -178,19 +178,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g6\\topic-06_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g6\\topic-06_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g6\\topic-06_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g6\\topic-06_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g6\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-06-ascii-2026-08-30-g6.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-06\\carvaka-g6",
-      "generation_identity": "political-theory-06:learner-v2:g6",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-06-ascii-2026-09-06-g7.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-06\\carvaka-g7",
+      "generation_identity": "political-theory-06:learner-v2:g7",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 6,
-      "record_id": "political-theory-06:learner-v2:g6"
+      "generation": 7,
+      "record_id": "political-theory-06:learner-v2:g7"
     },
     {
       "topic_key": "political-theory-07",
@@ -207,19 +207,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-07-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3",
-      "generation_identity": "political-theory-07:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\topic-07_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-07-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g4",
+      "generation_identity": "political-theory-07:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-07:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-07:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-08",
@@ -236,19 +236,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g3\\topic-08_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g3\\topic-08_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g3\\topic-08_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g3\\topic-08_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-08-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-08\\carvaka-g3",
-      "generation_identity": "political-theory-08:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g4\\topic-08_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g4\\topic-08_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g4\\topic-08_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g4\\topic-08_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-08\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-08-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-08\\carvaka-g4",
+      "generation_identity": "political-theory-08:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-08:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-08:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-09",
@@ -265,19 +265,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g3\\topic-09_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g3\\topic-09_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g3\\topic-09_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g3\\topic-09_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-09-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-09\\carvaka-g3",
-      "generation_identity": "political-theory-09:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-09\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-09-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-09\\carvaka-g4",
+      "generation_identity": "political-theory-09:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-09:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-09:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-10",
@@ -294,19 +294,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\topic-10_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\topic-10_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\topic-10_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\topic-10_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-10-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-10\\carvaka-g3",
-      "generation_identity": "political-theory-10:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\topic-10_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-10\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-10-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-10\\carvaka-g4",
+      "generation_identity": "political-theory-10:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-10:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-10:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-11",
@@ -323,19 +323,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g3\\topic-11_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g3\\topic-11_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g3\\topic-11_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g3\\topic-11_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-11-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g3",
-      "generation_identity": "political-theory-11:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-11-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-11\\carvaka-g4",
+      "generation_identity": "political-theory-11:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-11:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-11:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-12",
@@ -352,19 +352,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g3\\topic-12_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g3\\topic-12_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g3\\topic-12_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g3\\topic-12_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-12-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-12\\carvaka-g3",
-      "generation_identity": "political-theory-12:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g4\\topic-12_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g4\\topic-12_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g4\\topic-12_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g4\\topic-12_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-12\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-12-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-12\\carvaka-g4",
+      "generation_identity": "political-theory-12:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-12:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-12:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-13",
@@ -381,19 +381,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g3\\topic-13_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g3\\topic-13_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g3\\topic-13_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g3\\topic-13_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-13-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-13\\carvaka-g3",
-      "generation_identity": "political-theory-13:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g4\\topic-13_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g4\\topic-13_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g4\\topic-13_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g4\\topic-13_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-13\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-13-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-13\\carvaka-g4",
+      "generation_identity": "political-theory-13:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-13:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-13:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-14",
@@ -410,19 +410,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g3\\topic-14_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g3\\topic-14_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g3\\topic-14_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g3\\topic-14_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-14-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-14\\carvaka-g3",
-      "generation_identity": "political-theory-14:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-14-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-14\\carvaka-g4",
+      "generation_identity": "political-theory-14:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-14:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-14:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-15",
@@ -439,19 +439,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g3\\topic-15_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g3\\topic-15_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g3\\topic-15_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g3\\topic-15_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-15-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-15\\carvaka-g3",
-      "generation_identity": "political-theory-15:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-15-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-15\\carvaka-g4",
+      "generation_identity": "political-theory-15:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-15:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-15:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-16",
@@ -468,19 +468,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g3\\topic-16_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g3\\topic-16_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g3\\topic-16_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g3\\topic-16_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-16-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-16\\carvaka-g3",
-      "generation_identity": "political-theory-16:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g4\\topic-16_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g4\\topic-16_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g4\\topic-16_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g4\\topic-16_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-16\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-16-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-16\\carvaka-g4",
+      "generation_identity": "political-theory-16:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-16:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-16:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-17",
@@ -497,19 +497,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g3\\topic-17_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g3\\topic-17_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g3\\topic-17_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g3\\topic-17_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-17-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-17\\carvaka-g3",
-      "generation_identity": "political-theory-17:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\topic-17_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-17\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-17-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-17\\carvaka-g4",
+      "generation_identity": "political-theory-17:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-17:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-17:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-18",
@@ -526,19 +526,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g4\\topic-18_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g4\\topic-18_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g4\\topic-18_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g4\\topic-18_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g4\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-18-ascii-2026-08-30-g4.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-18\\carvaka-g4",
-      "generation_identity": "political-theory-18:learner-v2:g4",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\topic-18_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-18\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-18-ascii-2026-09-06-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-18\\carvaka-g5",
+      "generation_identity": "political-theory-18:learner-v2:g5",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 4,
-      "record_id": "political-theory-18:learner-v2:g4"
+      "generation": 5,
+      "record_id": "political-theory-18:learner-v2:g5"
     },
     {
       "topic_key": "political-theory-19",
@@ -555,19 +555,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g3\\topic-19_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g3\\topic-19_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g3\\topic-19_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g3\\topic-19_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-19-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-19\\carvaka-g3",
-      "generation_identity": "political-theory-19:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g4\\topic-19_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g4\\topic-19_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g4\\topic-19_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g4\\topic-19_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-19\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-19-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-19\\carvaka-g4",
+      "generation_identity": "political-theory-19:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-19:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-19:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-20",
@@ -584,19 +584,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g3\\topic-20_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g3\\topic-20_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g3\\topic-20_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g3\\topic-20_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-20-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-20\\carvaka-g3",
-      "generation_identity": "political-theory-20:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-20-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-20\\carvaka-g4",
+      "generation_identity": "political-theory-20:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-20:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-20:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-21",
@@ -613,19 +613,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\topic-21_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-21-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-21\\carvaka-g3",
-      "generation_identity": "political-theory-21:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g4\\topic-21_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g4\\topic-21_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g4\\topic-21_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g4\\topic-21_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-21\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-21-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-21\\carvaka-g4",
+      "generation_identity": "political-theory-21:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-21:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-21:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-22",
@@ -642,19 +642,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g3\\topic-22_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g3\\topic-22_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g3\\topic-22_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g3\\topic-22_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-22-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g3",
-      "generation_identity": "political-theory-22:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-22-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-22\\carvaka-g4",
+      "generation_identity": "political-theory-22:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-22:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-22:learner-v2:g4"
     },
     {
       "topic_key": "political-theory-23",
@@ -671,19 +671,19 @@
       "verified_pyq_sources": [
         "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md"
       ],
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g3\\topic-23_Complete-Learning-Session_2026-08-30.md",
-      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g3\\topic-23_Solved-Practice-Workbook_2026-08-30.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g3\\topic-23_Complete-Learning-Session_2026-08-30.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g3\\topic-23_Solved-Practice-Workbook_2026-08-30.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g3\\assets",
-      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-23-ascii-2026-08-30-g3.json",
-      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-23\\carvaka-g3",
-      "generation_identity": "political-theory-23:learner-v2:g3",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g4\\topic-23_Complete-Learning-Session_2026-09-06.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g4\\topic-23_Solved-Practice-Workbook_2026-09-06.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g4\\topic-23_Complete-Learning-Session_2026-09-06.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g4\\topic-23_Solved-Practice-Workbook_2026-09-06.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-23\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-23-ascii-2026-09-06-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-23\\carvaka-g4",
+      "generation_identity": "political-theory-23:learner-v2:g4",
       "approved": false,
       "superseded_v1": null,
       "status": "generated_unapproved",
-      "generation": 3,
-      "record_id": "political-theory-23:learner-v2:g3"
+      "generation": 4,
+      "record_id": "political-theory-23:learner-v2:g4"
     }
   ]
 }

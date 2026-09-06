@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T08:01:44+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\science-and-technology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "cd300f7e16175c18a08efba392d8ec02bb3129269e2ae81233edbec10ab89b8e",
+    "sha256_after": "cd300f7e16175c18a08efba392d8ec02bb3129269e2ae81233edbec10ab89b8e",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11455,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1959,
+    "json_count": 5271,
+    "total_bytes": 4272991791,
+    "by_extension": {
+      ".json": 5271,
+      ".md": 1959,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-14",
+      "topic_title": "Genetic Engineering: GM Crops and CRISPR",
+      "subject": "Science and Technology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 14,
+      "source_record_id": "science-and-technology-14:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g3\\science-and-technology-14_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "4f63a46d7da30b36f04c7c049bf00de90ae04fbd4d2eeb079878d753479a9f52",
+          "output_sha256": "4f63a46d7da30b36f04c7c049bf00de90ae04fbd4d2eeb079878d753479a9f52",
+          "source_output_equal": true,
+          "bytes": 714079
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-14\\g3\\science-and-technology-14_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "8d4757482694a3678a474c87386c2efee5006a4c0003e3f9d5c53a511863cb0e",
+          "output_sha256": "8d4757482694a3678a474c87386c2efee5006a4c0003e3f9d5c53a511863cb0e",
+          "source_output_equal": true,
+          "bytes": 547520
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-14\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "988c419ed9d9dd778567329121a67db1634626a3afe8d04cde77ff313064a850",
+          "output_sha256": "988c419ed9d9dd778567329121a67db1634626a3afe8d04cde77ff313064a850",
+          "source_output_equal": true,
+          "bytes": 2104040
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-14\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "8d2ae23b5f22d9c63d2aeacbd8713a86845b17763e4abe4c4ac1c07169a527fd",
+          "output_sha256": "8d2ae23b5f22d9c63d2aeacbd8713a86845b17763e4abe4c4ac1c07169a527fd",
+          "source_output_equal": true,
+          "bytes": 2471174
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-14\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "ff8f15d03375a2348a945af9947d702ec41aa67ec5f7104ba4a733916f7a5dd8",
+          "output_sha256": "ff8f15d03375a2348a945af9947d702ec41aa67ec5f7104ba4a733916f7a5dd8",
+          "source_output_equal": true,
+          "bytes": 1869349
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-14\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "c6497c2db2a6832e6147f3df825a754d4a000086d444d33cfad9e1027e2a9211",
+          "output_sha256": "c6497c2db2a6832e6147f3df825a754d4a000086d444d33cfad9e1027e2a9211",
+          "source_output_equal": true,
+          "bytes": 4103
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-14\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "75d3b63ac7b3fe0037981938770635e2bfc02fe8681965d7ab4e295acef9b6ac",
+          "output_sha256": "75d3b63ac7b3fe0037981938770635e2bfc02fe8681965d7ab4e295acef9b6ac",
+          "source_output_equal": true,
+          "source_text_sha256": "c6497c2db2a6832e6147f3df825a754d4a000086d444d33cfad9e1027e2a9211",
+          "normalized_text_equal": true,
+          "bytes": 56505
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 100,
+        "solved_practice_workbook": 55,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 100,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 55,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10998
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

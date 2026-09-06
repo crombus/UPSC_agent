@@ -1,0 +1,79 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\science-and-technology-02-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\science-and-technology-02-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\science-and-technology-02-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\science-and-technology-02-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\science-and-technology-02\science-and-technology-02-g3-final-audit.json
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Science and Technology\INDEX.md
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\02-Satellites-NavIC-GAGAN-and-Applications\README.txt
+notes\Final-Learning-Packages\Science and Technology\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\flowcharts\science-and-technology-02\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g3\science-and-technology-02_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g3\science-and-technology-02_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g3\validation\workbook-visual-audit-map.json
+notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\run_science_and_technology_semantic_topic.py
+tools\science_and_technology_semantic_runtime.py
+tools\test_run_science_and_technology_semantic_topic.py
+tools\verify_science_and_technology_live_sources.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g3\assets\Teaching-Navigation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g3\science-and-technology-02_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Science-and-Technology\Subject-Wide-Syllabus\learning-sessions\science-and-technology-02\g3\science-and-technology-02_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Science-and-Technology\basic\02_Satellites-NavIC-GAGAN-and-Applications.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e0eda4c51665-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e0eda4c51665.json
+upsc-ai-kit\manifests\exports\science-and-technology-02-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-02-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\science-and-technology-02-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\science-and-technology-02-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\science-and-technology-02-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\science-and-technology-authoritative-live-source-audit-2026-09-06.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\science-and-technology-02-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Science-and-Technology\deep-review\science-and-technology-02-g3.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\science-and-technology\02-satellites-navic-gagan-and-applications-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus-content-specs\science-and-technology-02-g3.json
+upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

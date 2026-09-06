@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "scope": "Essay semantic learner-v2 Topic 01",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "essay-01",
+      "display_title": "Paper Rules, Choice and Selection",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-01_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Paper Rules, Choice and Selection: Prompt and scope",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PURPOSE AND SCOPE -> This topic answers two questions before any writing ",
+            "EXAM FACTS / SOURCE BASIS -> The current corpus ledger records 2018–2025 as V1 — ",
+            "EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and ",
+            "EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin",
+            "VERDICT 1 -> Prompt and scope must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Purpose and scope",
+            "Exam facts / source basis",
+            "Exam facts / source basis — 2",
+            "Exam facts / source basis — 3"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Concept hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and ",
+            "EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin",
+            "EXAM FACTS / SOURCE BASIS — 4 -> Section B at 1–4; 2025 continues Section B at 5–8. T",
+            "EXAM FACTS / SOURCE BASIS — 5 -> bilingually (Hindi then English) , and require one t",
+            "VERDICT 2 -> Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Exam facts / source basis — 2",
+            "Exam facts / source basis — 3",
+            "Exam facts / source basis — 4",
+            "Exam facts / source basis — 5"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Dimension matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EXAM FACTS / SOURCE BASIS — 4 -> Section B at 1–4; 2025 continues Section B at 5–8. T",
+            "EXAM FACTS / SOURCE BASIS — 5 -> bilingually (Hindi then English) , and require one t",
+            "EXAM FACTS / SOURCE BASIS — 6 -> header, a 2025 marks line, an author beside any prom",
+            "EXAM FACTS / SOURCE BASIS — 7 -> Practical consequence for choice: because the paper'",
+            "VERDICT 3 -> Dimension matrix must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Exam facts / source basis — 4",
+            "Exam facts / source basis — 5",
+            "Exam facts / source basis — 6",
+            "Exam facts / source basis — 7"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Decision gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "EXAM FACTS / SOURCE BASIS — 6 -> header, a 2025 marks line, an author beside any prom",
+            "EXAM FACTS / SOURCE BASIS — 7 -> Practical consequence for choice: because the paper'",
+            "THE CENTRAL IDEA AND COMMON MISREA -> Central idea: topic choice is a strategic decision m",
+            "BASIC SCAN QUESTIONS -> 1. Can I restate this prompt's core claim in one pla",
+            "VERDICT 4 -> Decision gate must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Exam facts / source basis — 6",
+            "Exam facts / source basis — 7",
+            "The central idea and common misreading",
+            "Basic scan questions"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Mechanism chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "THE CENTRAL IDEA AND COMMON MISREA -> Central idea: topic choice is a strategic decision m",
+            "BASIC SCAN QUESTIONS -> 1. Can I restate this prompt's core claim in one pla",
+            "COMPARISON GRID -> Use a quick grid — not a full essay plan — to compar",
+            "COMPARISON GRID — 2 -> Score honestly; a prompt with weaker fit in two or m",
+            "VERDICT 5 -> Mechanism chain must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "The central idea and common misreading",
+            "Basic scan questions",
+            "Comparison grid",
+            "Comparison grid — 2"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Counter-view and synthesis",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "COMPARISON GRID -> Use a quick grid — not a full essay plan — to compar",
+            "COMPARISON GRID — 2 -> Score honestly; a prompt with weaker fit in two or m",
+            "INDIA-FIRST ILLUSTRATION STARTERS -> Before committing to a prompt, recall — do not inven",
+            "THESIS OPTIONS AND SELECTION -> For each shortlisted prompt, draft one candidate the",
+            "VERDICT 6 -> Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Comparison grid",
+            "Comparison grid — 2",
+            "India-first illustration starters",
+            "Thesis options and selection"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Close-option distinctions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "INDIA-FIRST ILLUSTRATION STARTERS -> Before committing to a prompt, recall — do not inven",
+            "THESIS OPTIONS AND SELECTION -> For each shortlisted prompt, draft one candidate the",
+            "ADVANCED PROPOSITION AND BOUNDARY -> Proposition: topic choice is best modelled as a port",
+            "CONCEPT DEFINITION AND TAXONOMY -> with visible strain (a warning sign under time press",
+            "VERDICT 7 -> Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "India-first illustration starters",
+            "Thesis options and selection",
+            "Advanced proposition and boundary",
+            "Concept definition and taxonomy"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Evidence-status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ADVANCED PROPOSITION AND BOUNDARY -> Proposition: topic choice is best modelled as a port",
+            "CONCEPT DEFINITION AND TAXONOMY -> with visible strain (a warning sign under time press",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> guarantees writing quality is unsafe — interest with",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> stacking (fact lists) rather than argument; an unfam",
+            "VERDICT 8 -> Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Advanced proposition and boundary",
+            "Concept definition and taxonomy",
+            "Tension pairs and hidden assumptions",
+            "Tension pairs and hidden assumptions — 2"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Cross-scale system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> guarantees writing quality is unsafe — interest with",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> stacking (fact lists) rather than argument; an unfam",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> reverse mid-attempt; the hidden assumption in \"just ",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP -> Selection logic should be checked at three levels: (",
+            "VERDICT 9 -> Cross-scale system must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Tension pairs and hidden assumptions",
+            "Tension pairs and hidden assumptions — 2",
+            "Tension pairs and hidden assumptions — 3",
+            "Levels of analysis and temporal-spatial scale"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Argument architecture",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> reverse mid-attempt; the hidden assumption in \"just ",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP -> Selection logic should be checked at three levels: (",
+            "PURPOSE AND SCOPE -> This topic answers two questions before any writing ",
+            "EXAM FACTS / SOURCE BASIS -> The current corpus ledger records 2018–2025 as V1 — ",
+            "VERDICT 10 -> Argument architecture must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Tension pairs and hidden assumptions — 3",
+            "Levels of analysis and temporal-spatial scale",
+            "Purpose and scope",
+            "Exam facts / source basis"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Failure and repair gate",
+          "structural_type": "quality-gate",
+          "ascii_lines": [
+            "PURPOSE AND SCOPE -> This topic answers two questions before any writing ",
+            "EXAM FACTS / SOURCE BASIS -> The current corpus ledger records 2018–2025 as V1 — ",
+            "EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and ",
+            "EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin",
+            "VERDICT 11 -> Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Purpose and scope",
+            "Exam facts / source basis",
+            "Exam facts / source basis — 2",
+            "Exam facts / source basis — 3"
+          ]
+        },
+        {
+          "title": "Paper Rules, Choice and Selection: Complete answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and ",
+            "EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin",
+            "EXAM FACTS / SOURCE BASIS — 4 -> Section B at 1–4; 2025 continues Section B at 5–8. T",
+            "EXAM FACTS / SOURCE BASIS — 5 -> bilingually (Hindi then English) , and require one t",
+            "VERDICT 12 -> Complete answer spine must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Exam facts / source basis — 2",
+            "Exam facts / source basis — 3",
+            "Exam facts / source basis — 4",
+            "Exam facts / source basis — 5"
+          ]
+        }
+      ]
+    }
+  ]
+}

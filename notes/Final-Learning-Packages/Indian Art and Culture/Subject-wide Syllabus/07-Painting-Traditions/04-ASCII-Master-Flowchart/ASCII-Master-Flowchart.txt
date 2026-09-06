@@ -1,89 +1,161 @@
-ASCII MASTER FLOW — PANEL 1/12: Painting reading axes
-FORMAT -> rock, wall, page, album or canvas
-TECHNIQUE -> engraving, dry plaster, wash or print
-PATRON -> monastery, court, market or community
-AUDIENCE -> collective, private or mass
-MUST REMEMBER: Painting chronology runs from rock art and Ajanta-Bagh murals through
-  Pallava-Chola walls, Pala and Jain manuscripts, Mughal ateliers, regional miniatures,
-  Company-bazaar publics and nationalist modern responses.
-MUST REMEMBER: Painting chronology runs from rock art and Ajanta-Bagh murals through
-  Pallava-Chola walls, Pala and Jain manuscripts, Mughal ateliers, regional miniatures,
-  Company-bazaar publics and nationalist modern responses.
+ASCII MASTER FLOW - PANEL 1/12: HOW TO READ A PAINTING
 
-ASCII MASTER FLOW — PANEL 2/12: Mural technique firewall
-AJANTA -> prepared plaster, pigment after drying
-TRUE FRESCO -> pigment into wet plaster
-BAGH -> do not transfer Ajanta's label automatically
-RULE -> technique must be site-specific
+READING CHAIN
+support / surface
+  -> technique / pigment
+  -> patron / workshop
+  -> audience / function
+  -> theme / iconography
+  -> stylistic comparison
+  -> evidence limit
 
-ASCII MASTER FLOW — PANEL 3/12: Bagh identification card
-SITE -> Baghni river, Dhar district
-CAVE 4 -> Rang Mahal, Jataka murals
-HALLISALASYA -> Bagh paintings generally
-LIMIT -> no modern-form equivalence
+RULE
+Style is not the starting point.
+A wall, folio, album page and ritual cloth belong to different visual worlds.
 
-ASCII MASTER FLOW — PANEL 4/12: Southern mural survival
-PALLAVA -> Kanchipuram and Panamalai
-PANDYA -> Sittanavasal bridge
-CHOLA -> Vijaya Cholishwaram and Brihadishvara
-NAYAKA -> later superimposition
+ASCII MASTER FLOW - PANEL 2/12: VOCABULARY AND TECHNIQUE
 
-ASCII MASTER FLOW — PANEL 5/12: Format-patronage shift
-MONUMENTAL WALL -> institutional sponsor
-MANUSCRIPT -> portable devotional page
-ALBUM -> private connoisseurial patron
-PRINT / CANVAS -> market and public
+SHADANGA
+Roopbheda / Pramana / Bhava / Lavanya Yojana / Sadrishya / Varnikabhanga
 
-ASCII MASTER FLOW — PANEL 6/12: Mughal atelier change
-AKBAR -> narrative manuscript series
-WORKSHOP -> collaborative karkhana
-JAHANGIR -> album portrait and natural history
-CONTINUITY -> mobile trained artists
+FORMAT TERMS
+mural = fixed architectural surface
+miniature = small portable format
+album = curated folio for private viewing
 
-ASCII MASTER FLOW — PANEL 7/12: Regional miniature map
-KISHANGARH -> Bani Thani, Nihal Chand
-BASOHLI -> bold line and intense colour
-GULER / KANGRA -> lyrical naturalism
-DECCAN -> saturated Persianate court idiom
+TECHNIQUE CAUTION
+Ajanta is safer as fresco secco / tempera on prepared dry plaster,
+not as an unqualified true fresco.
 
-ASCII MASTER FLOW — PANEL 8/12: South Indian distinction
-TANJORE -> gesso relief and gold coating
-MYSORE -> separate court tradition
-DEVOTIONAL ICON -> shared broad purpose
-TRAP -> shared region is not identity
+ASCII MASTER FLOW - PANEL 3/12: PREHISTORIC BASELINE
 
-ASCII MASTER FLOW — PANEL 9/12: Colonial public matrix
-COMPANY -> European patron and documentation
-BAZAAR / KALIGHAT -> commercial public
-RAVI VARMA -> academic realism and prints
-BENGAL SCHOOL -> nationalist wash idiom
+ROCK ART
+Bhimbetka
+Lakhudiyar
+  -> hunting / dancing / animals / group scenes
+  -> mineral colours on rock surface
 
-ASCII MASTER FLOW — PANEL 10/12: Folk-painting discriminator
-MADHUBANI -> Mithila line-and-fill
-WARLI -> white geometric figures on earth ground
-PATTACHITRA -> Odisha cloth or palm leaf
-KALAMKARI -> narrative textile process
-CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet
-  fresco; Bani Thani is Kishangarh, while Basohli, Guler, Kangra, Deccani, Tanjore and Mysore
-  retain distinct identifiers.
-CLOSE DISTINCTION: Ajanta is more safely described as fresco secco or tempera than true wet
-  fresco; Bani Thani is Kishangarh, while Basohli, Guler, Kangra, Deccani, Tanjore and Mysore
-  retain distinct identifiers.
+LIMIT
+Useful for environment and community memory.
+Not enough for named dynasties or rigid doctrinal claims.
 
-ASCII MASTER FLOW — PANEL 11/12: Survival-bias ladder
-SURVIVING OBJECT -> direct evidence
-LITERARY REFERENCE -> practice was known
-MISSING WALL -> preservation gap
-VERDICT -> do not equate survival with production
-EVIDENCE LIMIT: Survival scarcity does not prove low original production, shared Persianate
-  resources do not make every miniature Mughal, and folk or tribal traditions require region,
-  support, community and function.
-EVIDENCE LIMIT: Survival scarcity does not prove low original production, shared Persianate
-  resources do not make every miniature Mughal, and folk or tribal traditions require region,
-  support, community and function.
+ASCII MASTER FLOW - PANEL 4/12: AJANTA DOSSIER
 
-ASCII MASTER FLOW — PANEL 12/12: Painting answer spine
-DEFINE -> format and technique
-TRACE -> patron and audience change
-COMPARE -> named school on common axes
-QUALIFY -> survival, attribution and current status
+AJANTA
+early phase + Vakataka flowering
+  -> Buddhist caves
+  -> Jataka and Buddha narratives
+  -> Bodhisattvas such as Padmapani
+  -> courtly detail and emotional modelling
+
+TRAP
+Ajanta is not a single-phase event.
+Technique caution must remain explicit.
+
+ASCII MASTER FLOW - PANEL 5/12: BAGH AND HALLISALASYA
+
+BAGH
+Dhar district, on the Baghni river
+  -> Gupta-era mural anchor
+  -> stronger outlines, more earthly human register
+  -> Cave 4 = Rang Mahal
+
+HALLISALASYA RULE
+Keep only the source-safe line:
+royal courts + temples + ceremonial gatherings;
+Gupta-period devotional or courtly dance in art and sculpture.
+Do not assign a modern named classical form.
+
+ASCII MASTER FLOW - PANEL 6/12: SOUTH INDIAN MURAL LINE
+
+Sittanavasal
+  -> Pallava site bank: Kanchipuram / Panamalai / Mamandur
+  -> Armamalai bridge
+  -> Brihadisvara mural memory
+  -> Lepakshi continuation
+
+FINAL RULE
+Survival gaps, repainting and damage distort what remains.
+Few murals today do not prove weak original production.
+
+ASCII MASTER FLOW - PANEL 7/12: EARLY PORTABLE PAINTING
+
+Pala School
+  -> Buddhist illustrated manuscripts
+  -> palm leaf / compact compositions / subdued grounds
+
+Western Indian / Apabhramsa
+  -> Jain-dominant manuscripts
+  -> red / yellow / ochre
+  -> angular face / fish-shaped eye / strong contour
+  -> Kalpasutra / Kalakacharya Katha
+
+ASCII MASTER FLOW - PANEL 8/12: SULTANATE TO MUGHAL FORMATION
+
+TRANSITION
+Persianate contact + indigenous manuscript habits
+  -> Nimatnama at Mandu
+
+MUGHAL FORMATION
+Humayun -> Mir Sayyid Ali + Abdus Samad
+Akbar -> Tasvir Khana -> Tutinama / Hamzanama / Razmnama / Akbarnama
+
+RULE
+Synthesis precedes Mughal maturity.
+
+ASCII MASTER FLOW - PANEL 9/12: JAHANGIR AND AFTER
+
+AKBAR
+large collaborative illustrated manuscripts
+
+JAHANGIR
+album page / individual portrait / flora-fauna / allegory
+Ustad Mansur / Abu'l Hasan
+
+SHAH JAHAN -> court polish
+AURANGZEB -> reduced patronage -> artist dispersal
+
+ASCII MASTER FLOW - PANEL 10/12: REGIONAL MINIATURE FAMILIES
+
+DECCANI
+saturated colour / elongated figures / fantastic landscape
+
+RAJASTHANI
+Mewar / Bundi / Kota / Jaipur / Kishangarh
+Bani Thani -> Kishangarh
+
+PAHARI
+Basohli -> Guler -> Kangra
+
+RULE
+Shared Persianate resources do not erase regional distinction.
+
+ASCII MASTER FLOW - PANEL 11/12: DEVOTIONAL, COLONIAL AND MODERN TURNS
+
+DEVOTIONAL OBJECT SURFACES
+Tanjore -> gold-rich central devotional image
+Mysore -> fine line + gesso
+Ganjifa -> painted cards
+
+COLONIAL / MODERN
+Company -> hybrid patronage
+Kalighat -> urban market sheet
+Ravi Varma -> oil + print public
+Bengal School -> Bharat Mata / wash response
+Santiniketan -> experimentation
+Progressive Artists Group -> post-1947 modernism
+
+ASCII MASTER FLOW - PANEL 12/12: FOLK / TRIBAL CONTINUITY AND FINAL FORMULA
+
+FOLK / TRIBAL BANK
+Madhubani -> Mithila / ritual / bold colour
+Pattachitra -> Odisha / treated cloth / Jagannath world
+Kalamkari -> treated cloth / pen-block process
+Warli -> white on ochre / geometric wall language
+Gond -> patterned sacred-natural world
+Phad / Cheriyal -> long scroll + performance
+
+FINAL FORMULA
+Indian painting shows continuity through adaptation of support,
+technique, patronage and audience - from rock shelter to mural,
+manuscript, album, market sheet and living ritual wall.

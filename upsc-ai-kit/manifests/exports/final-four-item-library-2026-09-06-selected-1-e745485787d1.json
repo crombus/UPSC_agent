@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T09:33:52+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\disaster-management-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "ce0ae5b7366d44c872a326075e68c839e7a6eb5b4a794caa60e780708c661b2b",
+    "sha256_after": "ce0ae5b7366d44c872a326075e68c839e7a6eb5b4a794caa60e780708c661b2b",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Disaster Management": 1
+  },
+  "sections": {
+    "Disaster Management — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11635,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1989,
+    "json_count": 5421,
+    "total_bytes": 4273599078,
+    "by_extension": {
+      ".json": 5421,
+      ".md": 1989,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-06",
+      "topic_title": "Tsunami and Coastal Hazard Management",
+      "subject": "Disaster Management",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 6,
+      "source_record_id": "disaster-management-06:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "1c79d5e4649a2212660ee78adea3eb850c7b89552c3849e2be2d985cc6b9116f",
+          "output_sha256": "1c79d5e4649a2212660ee78adea3eb850c7b89552c3849e2be2d985cc6b9116f",
+          "source_output_equal": true,
+          "bytes": 671195
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "bd3cfd64280e7f12f3af316aa73a21ad3f16e53ed37cfeb9edf714b24e137f21",
+          "output_sha256": "bd3cfd64280e7f12f3af316aa73a21ad3f16e53ed37cfeb9edf714b24e137f21",
+          "source_output_equal": true,
+          "bytes": 521070
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "e96d3603d3d607172e5f3a038c838fb4cb46cac8ee242ea7e42b3a1ab6664575",
+          "output_sha256": "e96d3603d3d607172e5f3a038c838fb4cb46cac8ee242ea7e42b3a1ab6664575",
+          "source_output_equal": true,
+          "bytes": 1861813
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "5b746320a7111e49f38fef29c8ee9a1f7bd8b4253e78ec785f4b30e190fc43ca",
+          "output_sha256": "5b746320a7111e49f38fef29c8ee9a1f7bd8b4253e78ec785f4b30e190fc43ca",
+          "source_output_equal": true,
+          "bytes": 2259757
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "ebaa3fbcc2121e34d7aa81b4d2a31f522bb4df4d01055a0550d24f6f20318dd8",
+          "output_sha256": "ebaa3fbcc2121e34d7aa81b4d2a31f522bb4df4d01055a0550d24f6f20318dd8",
+          "source_output_equal": true,
+          "bytes": 1636910
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "94940a337780a35c03ad243b7a429bbfaf1d7bbc66b69ccdfc88c64d2d4874e6",
+          "output_sha256": "94940a337780a35c03ad243b7a429bbfaf1d7bbc66b69ccdfc88c64d2d4874e6",
+          "source_output_equal": true,
+          "bytes": 3083
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-06\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "ede32877cc80700a6185b6427e18db4c8078cb1c6f227a9db3a97569622ce442",
+          "output_sha256": "ede32877cc80700a6185b6427e18db4c8078cb1c6f227a9db3a97569622ce442",
+          "source_output_equal": true,
+          "source_text_sha256": "94940a337780a35c03ad243b7a429bbfaf1d7bbc66b69ccdfc88c64d2d4874e6",
+          "normalized_text_equal": true,
+          "bytes": 55719
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 94,
+        "solved_practice_workbook": 54,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 54,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10614
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

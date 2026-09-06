@@ -1,0 +1,1059 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-25",
+  "subject": "Science-and-Technology",
+  "title": "COMPUTING FUNDAMENTALS: HARDWARE, SOFTWARE, NETWORKS AND CLOUD",
+  "short_route": "DATA-OPERATION DECISION BOARD → COMPLETE COMPUTING STACK → CPU AND MEMORY HIERARCHY → PROCESSOR AND EMBEDDED MAP → PROGRAM AND EXECUTION LADDER → NETWORK DEVICE AND LAYER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-25-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "96dbd4d75883a883bcf2d79f7603cf66ce70b0a27d9c37fe6d8f09f21ba3cf24",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DATA-OPERATION DECISION BOARD",
+      "structural_type": "operation-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DATA-OPERATION DECISION BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "FIXED DIGEST",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFIDENTIALITY WITH KEY",
+          "role": "comparison"
+        },
+        {
+          "text": "BIT / BYTE → QUANTITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BIT / BYTE → quantity",
+        "ENCODING → representation",
+        "COMPRESSION → size",
+        "HASHING → fixed digest",
+        "ENCRYPTION → confidentiality with key"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "BIT / BYTE → quantity",
+            "ENCODING → representation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "COMPRESSION → size",
+            "HASHING → fixed digest"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "ENCRYPTION → confidentiality with key",
+            "BIT / BYTE → quantity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HASHING → fixed digest; ENCRYPTION → confidentiality with key.",
+      "source_references": [
+        "Bits bytes instructions and data operations",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPLETE COMPUTING STACK",
+      "structural_type": "layer-stack",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPLETE COMPUTING STACK",
+          "role": "primary"
+        },
+        {
+          "text": "SEMICONDUCTOR + CPU + MEMORY + STORAGE + I/O",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRMWARE + OS + DRIVER + FILE SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "PROGRAM + DATABASE + SERVICE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTOCOLS + DEVICES + INFRASTRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY + ACCESS + ENERGY + E-WASTE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL → semiconductor + CPU + memory + storage + I/O",
+        "SYSTEM → firmware + OS + driver + file system",
+        "APPLICATION → program + database + service",
+        "NETWORK → protocols + devices + infrastructure",
+        "GOVERNANCE → security + access + energy + e-waste"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PHYSICAL → semiconductor + CPU + memory + storage + I/O",
+            "SYSTEM → firmware + OS + driver + file system"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "APPLICATION → program + database + service",
+            "NETWORK → protocols + devices + infrastructure"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "GOVERNANCE → security + access + energy + e-waste",
+            "PHYSICAL → semiconductor + CPU + memory + storage + I/O"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GOVERNANCE → security + access + energy + e-waste.",
+      "source_references": [
+        "Computing stack boundary",
+        "Software OS and application layers",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CPU AND MEMORY HIERARCHY",
+      "structural_type": "fetch-memory-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CPU AND MEMORY HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL ---------------→ SLOW",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKLOAD + IPC + BANDWIDTH + THERMALS",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOCK RATE ALONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FETCH → DECODE → EXECUTE → STORE",
+        "REGISTER → CACHE → RAM → SSD/HDD",
+        "FAST / SMALL ---------------→ SLOW / LARGE",
+        "PERFORMANCE → workload + IPC + bandwidth + thermals",
+        "CLOCK RATE ALONE → insufficient"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "FETCH → DECODE → EXECUTE → STORE",
+            "REGISTER → CACHE → RAM → SSD/HDD"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "FAST / SMALL ---------------→ SLOW / LARGE",
+            "PERFORMANCE → workload + IPC + bandwidth + thermals"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOCK RATE ALONE → insufficient",
+            "FETCH → DECODE → EXECUTE → STORE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PERFORMANCE → workload + IPC + bandwidth + thermals.",
+      "source_references": [
+        "CPU instruction cycle and performance",
+        "Memory storage and volatility hierarchy",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PROCESSOR AND EMBEDDED MAP",
+      "structural_type": "component-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PROCESSOR AND EMBEDDED MAP",
+          "role": "primary"
+        },
+        {
+          "text": "GENERAL CPU",
+          "role": "outcome"
+        },
+        {
+          "text": "CPU + MEMORY + INTERFACES",
+          "role": "comparison"
+        },
+        {
+          "text": "MULTIPLE SYSTEM COMPONENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "PARALLEL WORKLOAD",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MICROPROCESSOR → general CPU",
+        "MICROCONTROLLER → CPU + memory + interfaces",
+        "SoC → multiple system components",
+        "GPU / ACCELERATOR → parallel workload",
+        "SENSOR → measure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "MICROPROCESSOR → general CPU",
+            "MICROCONTROLLER → CPU + memory + interfaces",
+            "SoC → multiple system components"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GPU / ACCELERATOR → parallel workload",
+            "SENSOR → measure",
+            "PROCESSOR → compute"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "ACTUATOR → act"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SENSOR → measure | PROCESSOR → compute | ACTUATOR → act.",
+      "source_references": [
+        "Processor forms and embedded systems",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PROGRAM AND EXECUTION LADDER",
+      "structural_type": "execution-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROGRAM AND EXECUTION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "OVERLAPPING PROGRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMULTANEOUS EXECUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATION FAILURES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE → compiler / interpreter / assembler",
+        "PROGRAM → PROCESS → THREAD",
+        "CONCURRENCY → overlapping progress",
+        "PARALLELISM → simultaneous execution",
+        "RACE / DEADLOCK → coordination failures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SOURCE → compiler / interpreter / assembler",
+            "PROGRAM → PROCESS → THREAD"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONCURRENCY → overlapping progress",
+            "PARALLELISM → simultaneous execution"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RACE / DEADLOCK → coordination failures",
+            "SOURCE → compiler / interpreter / assembler"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARALLELISM → simultaneous execution; RACE / DEADLOCK → coordination failures.",
+      "source_references": [
+        "Software OS and application layers",
+        "Processes threads concurrency and execution",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NETWORK DEVICE AND LAYER MAP",
+      "structural_type": "network-layer-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NETWORK DEVICE AND LAYER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "IP + ROUTER",
+          "role": "outcome"
+        },
+        {
+          "text": "WI-FI + SWITCH",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLICATION → HTTP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APPLICATION → HTTP",
+        "TRANSPORT → TCP",
+        "INTERNET → IP + router",
+        "LINK → Ethernet",
+        "Wi-Fi + switch"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "APPLICATION → HTTP",
+            "TRANSPORT → TCP"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "INTERNET → IP + router",
+            "LINK → Ethernet"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Wi-Fi + switch",
+            "PHYSICAL → electrical"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LINK → Ethernet | Wi-Fi + switch; PHYSICAL → electrical | optical | radio.",
+      "source_references": [
+        "Networks packets and devices",
+        "Layered protocol roles",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INTERNET AND WEB REQUEST FLOW",
+      "structural_type": "request-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTERNET AND WEB REQUEST FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "DOMAIN --DNS-→ IP ADDRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "BROWSER --HTTP/HTTPS-→ WEB SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "BROWSER-HELD STATE",
+          "role": "institution"
+        },
+        {
+          "text": "PROTECTED TRANSPORT, NOT TRUTHFUL CONTENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DOMAIN --DNS-→ IP ADDRESS",
+        "BROWSER --HTTP/HTTPS-→ WEB SERVICE",
+        "TCP/UDP → transport",
+        "IP → routing",
+        "COOKIE → browser-held state / identifier"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DOMAIN --DNS-→ IP ADDRESS",
+            "BROWSER --HTTP/HTTPS-→ WEB SERVICE"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TCP/UDP → transport",
+            "IP → routing"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "COOKIE → browser-held state / identifier",
+            "HTTPS → protected transport, not truthful content"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COOKIE → browser-held state / identifier; HTTPS → protected transport, not truthful content.",
+      "source_references": [
+        "Internet web browser and cookie boundary",
+        "Addressing routing and configuration",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PERFORMANCE AND WIRELESS MATRIX",
+      "structural_type": "performance-wireless-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PERFORMANCE AND WIRELESS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ACHIEVED RATE",
+          "role": "outcome"
+        },
+        {
+          "text": "DELAY VARIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PACKET CELLULAR",
+          "role": "evidence"
+        },
+        {
+          "text": "VOICE OVER LTE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINCT ROLES",
+          "role": "outcome"
+        },
+        {
+          "text": "WIRELESS LABEL",
+          "role": "comparison"
+        },
+        {
+          "text": "NO UNIVERSAL RANGE OR WALL PENETRATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BANDWIDTH → capacity",
+        "THROUGHPUT → achieved rate",
+        "LATENCY → delay",
+        "JITTER → delay variation",
+        "LTE → packet cellular"
+      ],
+      "matrix": [
+        [
+          "BANDWIDTH → capacity",
+          "THROUGHPUT → achieved rate"
+        ],
+        [
+          "LATENCY → delay",
+          "JITTER → delay variation"
+        ],
+        [
+          "LTE → packet cellular",
+          "VoLTE → voice over LTE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "BANDWIDTH → capacity",
+            "THROUGHPUT → achieved rate",
+            "LATENCY → delay"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "JITTER → delay variation",
+            "LTE → packet cellular",
+            "VoLTE → voice over LTE"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VLC → distinct roles",
+            "WIRELESS LABEL → no universal range or wall penetration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WIRELESS LABEL → no universal range or wall penetration.",
+      "source_references": [
+        "Network performance measures",
+        "Wireless and telecom role map",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "VIRTUALISATION AND CLOUD BOUNDARY",
+      "structural_type": "isolation-cloud-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "VIRTUALISATION AND CLOUD BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "VIRTUAL HARDWARE + GUEST OS",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED HOST KERNEL",
+          "role": "comparison"
+        },
+        {
+          "text": "MANAGES MANY SERVICES",
+          "role": "evidence"
+        },
+        {
+          "text": "FIVE NIST CHARACTERISTICS",
+          "role": "primary"
+        },
+        {
+          "text": "RESPONSIBILITY SHIFTS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "VM → virtual hardware + guest OS",
+        "CONTAINER → shared host kernel",
+        "ORCHESTRATION → manages many services",
+        "CLOUD → five NIST characteristics",
+        "SaaS → responsibility shifts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "VM → virtual hardware + guest OS",
+            "CONTAINER → shared host kernel"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ORCHESTRATION → manages many services",
+            "CLOUD → five NIST characteristics"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SaaS → responsibility shifts",
+            "VM → virtual hardware + guest OS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IaaS | PaaS | SaaS → responsibility shifts.",
+      "source_references": [
+        "Virtual machines containers and orchestration",
+        "Cloud definition service and deployment models",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DATA AND DISTRIBUTED TRADE-OFF",
+      "structural_type": "distributed-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATA AND DISTRIBUTED TRADE-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISED MANAGED DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSACTION PROPERTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "AVAILABILITY/LOCALITY, NOT BACKUP",
+          "role": "caution"
+        },
+        {
+          "text": "CAP DURING PARTITION",
+          "role": "primary"
+        },
+        {
+          "text": "CONSISTENCY OR AVAILABILITY TRADE",
+          "role": "outcome"
+        },
+        {
+          "text": "PLACEMENT BY LATENCY AND RESILIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DATABASE / DBMS → organised managed data",
+        "ACID → transaction properties",
+        "REPLICATION → availability/locality, not backup",
+        "CAP DURING PARTITION → consistency or availability trade",
+        "EDGE / FOG / CLOUD → placement by latency and resilience"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "DATABASE / DBMS → organised managed data",
+          "REPLICATION → availability/locality, not backup",
+          "EDGE / FOG / CLOUD → placement by latency and resilience"
+        ],
+        [
+          "ACID → transaction properties",
+          "CAP DURING PARTITION → consistency or availability trade",
+          "MUST REMEMBER: Computing separates hardware, firmware, operating system, application and..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DATABASE / DBMS → organised managed data",
+            "ACID → transaction properties"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REPLICATION → availability/locality, not backup",
+            "CAP DURING PARTITION → consistency or availability trade"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EDGE / FOG / CLOUD → placement by latency and resilience",
+            "MUST REMEMBER: Computing separates hardware, firmware, operating system, application and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Computing separates hardware, firmware, operating system, application and.",
+      "source_references": [
+        "Databases transactions replication and CAP",
+        "Edge fog IoT and distributed systems",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-25_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LEDGER CLAIM FIREWALL",
+      "structural_type": "ledger-firewall",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEDGER CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRIBUTED LEDGER",
+          "role": "outcome"
+        },
+        {
+          "text": "REPLICATED RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "LINKED BLOCKS + CONSENSUS",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCESS MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "ORACLE INPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "CAN BE FALSE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITIONAL CLAIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTRIBUTED LEDGER → replicated record",
+        "BLOCKCHAIN → linked blocks + consensus",
+        "CONSORTIUM → access models",
+        "ORACLE INPUT → can be false",
+        "NFT / WEB3 / IMMUTABILITY → conditional claims"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DISTRIBUTED LEDGER → replicated record",
+            "BLOCKCHAIN → linked blocks + consensus"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONSORTIUM → access models",
+            "ORACLE INPUT → can be false"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NFT / WEB3 / IMMUTABILITY → conditional claims",
+            "CLOSE DISTINCTION: Bit is not byte, RAM is not storage, core count is not performance,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Bit is not byte, RAM is not storage, core count is not performance,.",
+      "source_references": [
+        "Blockchain Web3 NFT and oracle boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-25_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ADVANCED COMPUTING AND STATUS RAIL",
+      "structural_type": "capability-status-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ADVANCED COMPUTING AND STATUS RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "PROCESSOR + ACCELERATOR + INTERCONNECT + SOFTWARE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOFTWARE CAPABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVICE BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "QUBITS FOR SELECTED PROBLEMS",
+          "role": "primary"
+        },
+        {
+          "text": "CONFIDENTIALITY + INTEGRITY + AVAILABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFIED OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HPC → processor + accelerator + interconnect + software",
+        "AI → software capability",
+        "SEMICONDUCTOR → device base",
+        "QUANTUM → qubits for selected problems",
+        "SECURITY → confidentiality + integrity + availability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "HPC → processor + accelerator + interconnect + software",
+            "AI → software capability",
+            "SEMICONDUCTOR → device base"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "QUANTUM → qubits for selected problems",
+            "SECURITY → confidentiality + integrity + availability",
+            "STANDARD → DEMO → DEPLOYMENT → VERIFIED OUTCOME"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State layer, component, protocol,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State layer, component, protocol,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State layer, component, protocol,.",
+      "source_references": [
+        "HPC AI quantum and semiconductor boundaries",
+        "Cybersecurity resilience and evidence firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g2\\science-and-technology-25_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-25_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MULTIPLE TASKS MAKE PROGRESS DURING OVERLAPPING TIME.",
+          "role": "outcome"
+        },
+        {
+          "text": "TASKS EXECUTE SIMULTANEOUSLY.",
+          "role": "comparison"
+        },
+        {
+          "text": "RACE CONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "RESULT DEPENDS ON UNCONTROLLED EXECUTION ORDER.",
+          "role": "primary"
+        },
+        {
+          "text": "TASKS WAIT INDEFINITELY FOR RESOURCES HELD BY ONE ANOTHER.",
+          "role": "outcome"
+        },
+        {
+          "text": "VIRTUAL MEMORY",
+          "role": "comparison"
+        },
+        {
+          "text": "MAPS PROCESS ADDRESSES TO PHYSICAL MEMORY/STORAGE, ENABLING ISOLATION AND",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "Concurrency: multiple tasks make progress during overlapping time.",
+            "Parallelism: tasks execute simultaneously.",
+            "Race condition: result depends on uncontrolled execution order.",
+            "Deadlock: tasks wait indefinitely for resources held by one another."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Virtual memory: maps process addresses to physical memory/storage, enabling isolation and a",
+            "Routing: selecting paths between networks.",
+            "NAT: translates address information, commonly allowing many private devices to share a public",
+            "DHCP: automatically supplies network configuration."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Content Delivery Network: distributes cached content closer to users.",
+            "Load balancer: spreads requests across servers.",
+            "Zero trust: does not grant implicit trust merely because a user/device is inside a network;",
+            "Cloud centralises compute and economies of scale."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

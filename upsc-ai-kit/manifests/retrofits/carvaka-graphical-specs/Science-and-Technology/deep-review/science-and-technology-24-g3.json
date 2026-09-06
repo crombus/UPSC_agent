@@ -1,0 +1,1090 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-24",
+  "subject": "Science-and-Technology",
+  "title": "S&T INSTITUTIONS: DST, CSIR, ANRF",
+  "short_route": "INSTITUTIONAL FORM CLASSIFIER → MINISTRY TO RESEARCH NETWORK → ANRF STATUTORY GOVERNANCE MAP → SERB TO ANRF TRANSITION → FUNDING INSTRUMENT MATRIX → RESEARCH-TO-USE PIPELINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-24-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "4f48b4be4ebee2be276fa399d816e5eac6b258fc10b597c5d6a6af65ade1c3ff",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INSTITUTIONAL FORM CLASSIFIER",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL FORM CLASSIFIER",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL-ADMINISTRATIVE PORTFOLIO",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTONOMOUS SOCIETY",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINCT AGAIN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MINISTRY → political-administrative portfolio",
+        "DEPARTMENT → DST",
+        "STATUTORY BODY → ANRF",
+        "AUTONOMOUS SOCIETY → CSIR",
+        "OFFICE / ACADEMY / REGULATOR / LAB → distinct again"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MINISTRY → political-administrative portfolio",
+            "DEPARTMENT → DST"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "STATUTORY BODY → ANRF",
+            "AUTONOMOUS SOCIETY → CSIR"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFICE / ACADEMY / REGULATOR / LAB → distinct again",
+            "MINISTRY → political-administrative portfolio"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OFFICE / ACADEMY / REGULATOR / LAB → distinct again.",
+      "source_references": [
+        "Institutional identity before abbreviation",
+        "Sectoral mission and agency boundaries",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MINISTRY TO RESEARCH NETWORK MAP",
+      "structural_type": "organisation-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MINISTRY TO RESEARCH NETWORK MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "INDUSTRIAL RESEARCH",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOLOGY TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTONOMOUS SOCIETY + LABORATORY NETWORK",
+          "role": "primary"
+        },
+        {
+          "text": "BIOTECHNOLOGY DEPARTMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "DST → policy / missions / coordination",
+        "DSIR → industrial research / technology transfer",
+        "CSIR → autonomous society + laboratory network",
+        "DBT → biotechnology Department"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MINISTRY OF SCIENCE AND TECHNOLOGY",
+            "DST → policy / missions / coordination"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DSIR → industrial research / technology transfer",
+            "CSIR → autonomous society + laboratory network"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DBT → biotechnology Department",
+            "MINISTRY OF SCIENCE AND TECHNOLOGY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CSIR → autonomous society + laboratory network; DBT → biotechnology Department.",
+      "source_references": [
+        "DST horizontal policy role",
+        "DSIR industrial-research role",
+        "CSIR legal and research-performing identity",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ANRF STATUTORY GOVERNANCE MAP",
+      "structural_type": "two-tier-governance",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ANRF STATUTORY GOVERNANCE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ANRF ACT 2023",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY FOUNDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "5 FEBRUARY 2024",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNING BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "PM EX OFFICIO PRESIDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXECUTIVE COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "PSA EX OFFICIO CHAIRPERSON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANRF ACT 2023 → statutory foundation",
+        "COMMENCEMENT → 5 February 2024",
+        "GOVERNING BOARD → PM ex officio President",
+        "EXECUTIVE COUNCIL → PSA ex officio Chairperson",
+        "DST → administrative anchor, not parent office"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ANRF ACT 2023 → statutory foundation",
+            "COMMENCEMENT → 5 February 2024"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "GOVERNING BOARD → PM ex officio President",
+            "EXECUTIVE COUNCIL → PSA ex officio Chairperson"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DST → administrative anchor, not parent office",
+            "ANRF ACT 2023 → statutory foundation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXECUTIVE COUNCIL → PSA ex officio Chairperson; DST → administrative anchor, not parent office.",
+      "source_references": [
+        "ANRF statutory identity and commencement",
+        "ANRF two-tier governance",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SERB TO ANRF TRANSITION",
+      "structural_type": "replacement-rail",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SERB TO ANRF TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "SERB ACT 2008",
+          "role": "institution"
+        },
+        {
+          "text": "FORMER STATUTORY GRANT BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "ANRF ACT SECTION 27",
+          "role": "institution"
+        },
+        {
+          "text": "REPEAL + DISSOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSITION AND SAVINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "OLD SERB REFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "HISTORICAL CONTEXT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SERB ACT 2008 → former statutory grant body",
+        "ANRF ACT section 27 → repeal + dissolution",
+        "ASSETS / LIABILITIES / PERSONNEL → transition and savings",
+        "OLD SERB REFERENCE → historical context",
+        "CURRENT APEX IDENTITY → ANRF"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SERB ACT 2008 → former statutory grant body",
+            "ANRF ACT section 27 → repeal + dissolution"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ASSETS / LIABILITIES / PERSONNEL → transition and savings",
+            "OLD SERB REFERENCE → historical context"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT APEX IDENTITY → ANRF",
+            "SERB ACT 2008 → former statutory grant body"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSETS / LIABILITIES / PERSONNEL → transition and savings.",
+      "source_references": [
+        "SERB repeal and succession",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FUNDING INSTRUMENT MATRIX",
+      "structural_type": "instrument-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FUNDING INSTRUMENT MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPORTS PERSON",
+          "role": "outcome"
+        },
+        {
+          "text": "PROJECT GRANT",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINED INVESTIGATOR PROJECT",
+          "role": "evidence"
+        },
+        {
+          "text": "DIRECTED MULTI-INSTITUTION OUTCOME",
+          "role": "institution"
+        },
+        {
+          "text": "FINANCING DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPECTED SOURCE MIX",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FELLOWSHIP → supports person",
+        "PROJECT GRANT → defined investigator project",
+        "MISSION-MODE → directed multi-institution outcome",
+        "FINANCING DESIGN → expected source mix",
+        "APPROPRIATION / RELEASE / SPEND → separate evidence"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "FELLOWSHIP → supports person",
+          "MISSION-MODE → directed multi-institution outcome",
+          "APPROPRIATION / RELEASE / SPEND → separate evidence"
+        ],
+        [
+          "PROJECT GRANT → defined investigator project",
+          "FINANCING DESIGN → expected source mix",
+          "FELLOWSHIP → supports person"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "FELLOWSHIP → supports person",
+            "PROJECT GRANT → defined investigator project"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MISSION-MODE → directed multi-institution outcome",
+            "FINANCING DESIGN → expected source mix"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "APPROPRIATION / RELEASE / SPEND → separate evidence",
+            "FELLOWSHIP → supports person"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPROPRIATION / RELEASE / SPEND → separate evidence.",
+      "source_references": [
+        "ANRF financing-design firewall",
+        "Grant fellowship and mission-mode distinction",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RESEARCH-TO-USE PIPELINE",
+      "structural_type": "maturity-pipeline",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RESEARCH-TO-USE PIPELINE",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC RESEARCH",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLIED RESEARCH",
+          "role": "comparison"
+        },
+        {
+          "text": "MEASURED OUTCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "LAST VERIFIED RUNG",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "QUESTION → BASIC RESEARCH → EXPERIMENT",
+        "REPLICATION → APPLIED RESEARCH → PROTOTYPE",
+        "TEST / STANDARD / REGULATION → SCALE-UP",
+        "MANUFACTURE / ADOPTION → MEASURED OUTCOME",
+        "STOP → last verified rung"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "QUESTION → BASIC RESEARCH → EXPERIMENT",
+            "REPLICATION → APPLIED RESEARCH → PROTOTYPE"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "TEST / STANDARD / REGULATION → SCALE-UP",
+            "MANUFACTURE / ADOPTION → MEASURED OUTCOME"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "STOP → last verified rung",
+            "QUESTION → BASIC RESEARCH → EXPERIMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MANUFACTURE / ADOPTION → MEASURED OUTCOME; STOP → last verified rung.",
+      "source_references": [
+        "Research-to-use pipeline",
+        "Institution and status evidence ladder",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HORIZONTAL AND VERTICAL ARCHITECTURE",
+      "structural_type": "cross-axis-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HORIZONTAL AND VERTICAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "DST POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "ANRF FUNDING",
+          "role": "comparison"
+        },
+        {
+          "text": "DSIR-CSIR CAPABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "UNIVERSITIES + LABS + SKILLS + STANDARDS",
+          "role": "primary"
+        },
+        {
+          "text": "DOES NOT CHANGE LEGAL IDENTITY",
+          "role": "caution"
+        },
+        {
+          "text": "CAPACITY MULTIPLIER",
+          "role": "comparison"
+        },
+        {
+          "text": "MISSION REPLACEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HORIZONTAL → DST policy",
+        "ANRF funding",
+        "DSIR-CSIR capability",
+        "VERTICAL → space",
+        "BRIDGE → universities + labs + skills + standards"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "HORIZONTAL → DST policy",
+            "ANRF funding",
+            "DSIR-CSIR capability"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "VERTICAL → space",
+            "BRIDGE → universities + labs + skills + standards",
+            "COLLABORATION → does not change legal identity"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPACITY MULTIPLIER != mission replacement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRIDGE → universities + labs + skills + standards.",
+      "source_references": [
+        "Horizontal versus vertical architecture",
+        "Sectoral mission and agency boundaries",
+        "University laboratory industry ecosystem",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CSIR LABORATORY PORTFOLIO",
+      "structural_type": "lab-portfolio",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CSIR LABORATORY PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "MOLECULAR BIOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "LAB MANDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTOR-WIDE REGULATION OR MISSION OWNERSHIP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NPL → metrology",
+        "NCL → chemistry",
+        "CECRI → electrochemistry",
+        "CCMB → molecular biology",
+        "IGIB → genomics"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "NPL → metrology",
+            "NCL → chemistry",
+            "CECRI → electrochemistry"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CCMB → molecular biology",
+            "IGIB → genomics",
+            "CEERI → electronics"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "LAB MANDATE != sector-wide regulation or mission ownership"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAB MANDATE != sector-wide regulation or mission ownership.",
+      "source_references": [
+        "Named CSIR laboratory function map",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ANRF PROGRAMME STATUS LADDER",
+      "structural_type": "programme-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ANRF PROGRAMME STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PM ECRG",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY-CAREER PROJECT SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "MISSION-MODE RESEARCH PLATFORM",
+          "role": "evidence"
+        },
+        {
+          "text": "NO AUTOMATIC COMMERCIAL OR PUBLIC OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PM ECRG → early-career project support",
+        "MAHA → mission-mode research platform",
+        "CALL → APPLICATION → SELECTION → SANCTION",
+        "RELEASE → RESEARCH → VALIDATION",
+        "NO AUTOMATIC COMMERCIAL OR PUBLIC OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PM ECRG → early-career project support",
+            "MAHA → mission-mode research platform"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CALL → APPLICATION → SELECTION → SANCTION",
+            "RELEASE → RESEARCH → VALIDATION"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "NO AUTOMATIC COMMERCIAL OR PUBLIC OUTCOME",
+            "PM ECRG → early-career project support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELEASE → RESEARCH → VALIDATION; NO AUTOMATIC COMMERCIAL OR PUBLIC OUTCOME.",
+      "source_references": [
+        "ANRF programme-instrument boundary",
+        "Institution and status evidence ladder",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "POLICY INSTRUMENT FIREWALL",
+      "structural_type": "policy-firewall",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POLICY INSTRUMENT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "STI POLICY 2013",
+          "role": "outcome"
+        },
+        {
+          "text": "ADOPTED POLICY OWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "STIP 2020",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSULTATION STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "VIGYAN DHARA",
+          "role": "outcome"
+        },
+        {
+          "text": "DST UMBRELLA SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBORDINATE INSTRUMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STI POLICY 2013 → adopted policy owner",
+        "STIP 2020 → draft / consultation status",
+        "VIGYAN DHARA → DST umbrella scheme",
+        "PROGRAMME / GRANT → subordinate instrument",
+        "DOCUMENT STATUS → date and notification required"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "STI POLICY 2013 → adopted policy owner",
+            "STIP 2020 → draft / consultation status"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "VIGYAN DHARA → DST umbrella scheme",
+            "PROGRAMME / GRANT → subordinate instrument"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DOCUMENT STATUS → date and notification required",
+            "MUST REMEMBER: India's science institutions must be routed by legal form, ministry,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: India's science institutions must be routed by legal form, ministry,.",
+      "source_references": [
+        "STI policy and Vigyan Dhara boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-24_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RESEARCH GOVERNANCE BALANCE BOARD",
+      "structural_type": "balance-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESEARCH GOVERNANCE BALANCE BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "AUTONOMY <→ ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCELLENCE <→ INCLUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "CURIOSITY <→ MISSION PRIORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC RISK CAPITAL <→ INDUSTRY PARTICIPATION",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL COORDINATION <→ INSTITUTIONAL FLEXIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FUNDER IS NOT RESEARCH PERFORMER, DEPARTMENT IS NOT AUTONOMOUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AUTONOMY <→ ACCOUNTABILITY",
+        "EXCELLENCE <→ INCLUSION",
+        "CURIOSITY <→ MISSION PRIORITY",
+        "PUBLIC RISK CAPITAL <→ INDUSTRY PARTICIPATION",
+        "CENTRAL COORDINATION <→ INSTITUTIONAL FLEXIBILITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "AUTONOMY <→ ACCOUNTABILITY",
+            "EXCELLENCE <→ INCLUSION"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CURIOSITY <→ MISSION PRIORITY",
+            "PUBLIC RISK CAPITAL <→ INDUSTRY PARTICIPATION"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CENTRAL COORDINATION <→ INSTITUTIONAL FLEXIBILITY",
+            "CLOSE DISTINCTION: Funder is not research performer, department is not autonomous..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Funder is not research performer, department is not autonomous.",
+      "source_references": [
+        "University laboratory industry ecosystem",
+        "Governance tensions and inclusion",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-24_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ SUPPORT AND EVIDENCE RAIL",
+      "structural_type": "ownership-status-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ SUPPORT AND EVIDENCE RAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIALIST PYQ",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIALIST SCIENCE OWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "TOPIC 24 SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "NO DIRECT ROUTE",
+          "role": "caution"
+        },
+        {
+          "text": "NO OWNERSHIP INFLATION",
+          "role": "caution"
+        },
+        {
+          "text": "INSTITUTION + MANDATE + LAST VERIFIED STATUS",
+          "role": "institution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SPECIALIST PYQ → specialist science owner",
+        "TOPIC 24 SUPPORT → funding / lab / university / translation",
+        "NO DIRECT ROUTE → no ownership inflation",
+        "LAW / MEETING / CALL / GRANT / PROTOTYPE / DEPLOYMENT",
+        "CONCLUSION → institution + mandate + last verified status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SPECIALIST PYQ → specialist science owner",
+            "TOPIC 24 SUPPORT → funding / lab / university / translation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "NO DIRECT ROUTE → no ownership inflation",
+            "LAW / MEETING / CALL / GRANT / PROTOTYPE / DEPLOYMENT"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUSION → institution + mandate + last verified status",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite institution, parent authority,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite institution, parent authority,...",
+      "answer_line": "CONCLUSION → institution + mandate + last verified status.",
+      "source_references": [
+        "Conservative PYQ institutional lens",
+        "Institution and status evidence ladder",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g2\\science-and-technology-24_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-24_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ESTABLISHED IN MAY 1971 TO PROMOTE NEW S&T AREAS",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTS AS THE HORIZONTAL SCIENCE-POLICY ANCHOR.",
+          "role": "comparison"
+        },
+        {
+          "text": "IT IS A DEPARTMENT , NOT A MINISTRY.",
+          "role": "caution"
+        },
+        {
+          "text": "THE DEPARTMENT THAT ADMINISTERS CSIR",
+          "role": "primary"
+        },
+        {
+          "text": "ITS OFFICIAL ORGANISATION PAGE (LAST UPDATED 30 DEC 2025)",
+          "role": "outcome"
+        },
+        {
+          "text": "AN AUTONOMOUS SOCIETY WHOSE OFFICIAL PROFILE DESCRIBES A NETWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "THE PRIME MINISTER IS ITS PRESIDENT .",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "DST: established in May 1971 to promote new S&T areas and coordinate national activities",
+            "acts as the horizontal science-policy anchor.",
+            "It is a Department , not a Ministry.",
+            "DSIR: the Department that administers CSIR"
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "its official organisation page (last updated 30 Dec 2025) records CSIR as India's leading R&D organisation under DSIR with 37 laboratories .",
+            "CSIR: an autonomous society whose official profile describes a network of 37 national laboratories , 39 outreach centres,",
+            "The Prime Minister is its President .",
+            "ANRF: established by the ANRF Act, 2023 (Act 25 of 2023"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "enacted 12 Aug 2023",
+            "in force 5 Feb 2024 via S.O.",
+            "474(E)) .",
+            "Governing Board: Prime Minister as ex officio President (s.5), with the Union Ministers for Science & Technology and Education as Vice-Presidents"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

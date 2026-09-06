@@ -1,0 +1,12 @@
+{
+  "topic_key": "science-and-technology-22",
+  "allocated_at": "2026-09-06T08:23:32.638065+00:00",
+  "baseline_record_id": "science-and-technology-22:learner-v2:g2",
+  "new_record_id": "science-and-technology-22:learner-v2:g3",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "science-and-technology-22:learner-v2:g2",
+  "live_master_identity": "science-and-technology-22:learner-v2:g2"
+}

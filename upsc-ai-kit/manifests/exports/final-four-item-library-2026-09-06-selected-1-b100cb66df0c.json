@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T08:33:00+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\science-and-technology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "0be0b47faa392ce6996ed5a2df7e9505ade646f2781047c98920b0f8bdd9ffdb",
+    "sha256_after": "0be0b47faa392ce6996ed5a2df7e9505ade646f2781047c98920b0f8bdd9ffdb",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11521,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1970,
+    "json_count": 5326,
+    "total_bytes": 4273213473,
+    "by_extension": {
+      ".json": 5326,
+      ".md": 1970,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-25",
+      "topic_title": "Computing Fundamentals: Hardware, Software, Networks and Cloud",
+      "subject": "Science and Technology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 25,
+      "source_record_id": "science-and-technology-25:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "3ba6fdd4305c623d2aec8cb5dade46f1edfa94df35bed16fa68e34a1471a32c6",
+          "output_sha256": "3ba6fdd4305c623d2aec8cb5dade46f1edfa94df35bed16fa68e34a1471a32c6",
+          "source_output_equal": true,
+          "bytes": 793483
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-25\\g3\\science-and-technology-25_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a2fb708bf0c63ecda741aac2543ebaef3f3518963eda5279bb9037b695883ba6",
+          "output_sha256": "a2fb708bf0c63ecda741aac2543ebaef3f3518963eda5279bb9037b695883ba6",
+          "source_output_equal": true,
+          "bytes": 604354
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-25\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "e2852026a8e6e7b71bf39e6825b7dd97ae583527ac88105913b3c6823c3bd8c7",
+          "output_sha256": "e2852026a8e6e7b71bf39e6825b7dd97ae583527ac88105913b3c6823c3bd8c7",
+          "source_output_equal": true,
+          "bytes": 1885500
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-25\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "865851915dfe8404773234267670dafa652d6cc7bb86488185ae53a27536ae55",
+          "output_sha256": "865851915dfe8404773234267670dafa652d6cc7bb86488185ae53a27536ae55",
+          "source_output_equal": true,
+          "bytes": 2302429
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-25\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "30371554e33661fca0bffe4916f014f1e6fee9efcef8fd22ccfb8524c4409fb3",
+          "output_sha256": "30371554e33661fca0bffe4916f014f1e6fee9efcef8fd22ccfb8524c4409fb3",
+          "source_output_equal": true,
+          "bytes": 1682418
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-25\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "98b37b75e99d39385d5475e6a1b61131643c593a211090e01c78a89ffb3bac47",
+          "output_sha256": "98b37b75e99d39385d5475e6a1b61131643c593a211090e01c78a89ffb3bac47",
+          "source_output_equal": true,
+          "bytes": 3768
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-25\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "85877ccf3175f545bb5fe8d1da6600b49d9f09e3cf60d64dacd5668fe7fcf54c",
+          "output_sha256": "85877ccf3175f545bb5fe8d1da6600b49d9f09e3cf60d64dacd5668fe7fcf54c",
+          "source_output_equal": true,
+          "source_text_sha256": "98b37b75e99d39385d5475e6a1b61131643c593a211090e01c78a89ffb3bac47",
+          "normalized_text_equal": true,
+          "bytes": 56313
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 121,
+        "solved_practice_workbook": 71,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 121,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 71,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10780
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

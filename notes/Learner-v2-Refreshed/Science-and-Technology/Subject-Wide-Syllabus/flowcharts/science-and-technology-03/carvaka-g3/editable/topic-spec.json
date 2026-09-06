@@ -1,0 +1,1143 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-03",
+  "subject": "Science-and-Technology",
+  "title": "HUMAN SPACEFLIGHT: GAGANYAAN AND PLANETARY MISSIONS",
+  "short_route": "HUMAN-RATING PYRAMID → GAGANYAAN MODULE MAP → CREW-SURVIVAL CHAIN → QUALIFICATION LADDER → INTERNATIONAL-EXPOSURE FIREWALL → MISSION-STATUS LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-03-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "1b47f9435989572a4f81fd18700dae4413b1632d7f80806db86ee695745868c5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "HUMAN-RATING PYRAMID",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HUMAN-RATING PYRAMID",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCH RELIABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NECESSARY STARTING CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "MARGINS AND REDUNDANCY",
+          "role": "evidence"
+        },
+        {
+          "text": "TOLERATE SELECTED FAILURES",
+          "role": "primary"
+        },
+        {
+          "text": "HEALTH MONITORING",
+          "role": "outcome"
+        },
+        {
+          "text": "DETECT UNSAFE VEHICLE CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ABORT MODES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAUNCH RELIABILITY → necessary starting condition",
+        "MARGINS AND REDUNDANCY → tolerate selected failures",
+        "HEALTH MONITORING → detect unsafe vehicle conditions",
+        "ABORT MODES → protect crew during ascent",
+        "HUMAN RATING → system qualification, not a success count"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "LAUNCH RELIABILITY → necessary starting condition",
+            "MARGINS AND REDUNDANCY → tolerate selected failures"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "HEALTH MONITORING → detect unsafe vehicle conditions",
+            "ABORT MODES → protect crew during ascent"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "HUMAN RATING → system qualification, not a success count",
+            "LAUNCH RELIABILITY → necessary starting condition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HUMAN RATING → system qualification, not a success count.",
+      "source_references": [
+        "Human-rating boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GAGANYAAN MODULE MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GAGANYAAN MODULE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CREW MODULE",
+          "role": "outcome"
+        },
+        {
+          "text": "HABITABLE AND RE-ENTRY CAPABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE MODULE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPULSION, POWER AND SUPPORT",
+          "role": "mechanism"
+        },
+        {
+          "text": "ORBITAL MODULE",
+          "role": "outcome"
+        },
+        {
+          "text": "CREW MODULE PLUS SERVICE MODULE",
+          "role": "comparison"
+        },
+        {
+          "text": "LAUNCH VEHICLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CREW MODULE → habitable and re-entry capable",
+        "SERVICE MODULE → propulsion, power and support",
+        "ORBITAL MODULE → Crew Module plus Service Module",
+        "LAUNCH VEHICLE → ascent platform, separate from spacecraft",
+        "RULE → module, spacecraft and launcher are different layers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CREW MODULE → habitable and re-entry capable",
+            "SERVICE MODULE → propulsion, power and support"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ORBITAL MODULE → Crew Module plus Service Module",
+            "LAUNCH VEHICLE → ascent platform, separate from spacecraft"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → module, spacecraft and launcher are different layers",
+            "CREW MODULE → habitable and re-entry capable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → module, spacecraft and launcher are different layers.",
+      "source_references": [
+        "Orbital-module boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CREW-SURVIVAL CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CREW-SURVIVAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "BREATHABLE AND THERMALLY CONTROLLED CABIN",
+          "role": "outcome"
+        },
+        {
+          "text": "CREW ESCAPE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION FROM A FAILING LAUNCHER",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTROLLED ATMOSPHERIC RETURN",
+          "role": "primary"
+        },
+        {
+          "text": "STAGED DECELERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SPLASHDOWN, EXTRACTION AND MEDICAL SUPPORT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ECLSS → breathable and thermally controlled cabin",
+        "CREW ESCAPE → separation from a failing launcher",
+        "RE-ENTRY → controlled atmospheric return",
+        "PARACHUTES → staged deceleration",
+        "RECOVERY → splashdown, extraction and medical support"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ECLSS → breathable and thermally controlled cabin",
+            "CREW ESCAPE → separation from a failing launcher"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RE-ENTRY → controlled atmospheric return",
+            "PARACHUTES → staged deceleration"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RECOVERY → splashdown, extraction and medical support",
+            "ECLSS → breathable and thermally controlled cabin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CREW ESCAPE → separation from a failing launcher.",
+      "source_references": [
+        "Crew-escape boundary",
+        "Life-support boundary",
+        "Recovery-chain boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "QUALIFICATION LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "QUALIFICATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "GROUND TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY SUBSYSTEM BEHAVIOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "AIR-DROP TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "PARACHUTE AND RECOVERY SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "TEST-VEHICLE ABORT",
+          "role": "outcome"
+        },
+        {
+          "text": "ESCAPE UNDER A SELECTED FLIGHT CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNCREWED ORBITAL FLIGHT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPONENT / GROUND TEST → verify subsystem behaviour",
+        "AIR-DROP TEST → parachute and recovery sequence",
+        "TEST-VEHICLE ABORT → escape under a selected flight condition",
+        "UNCREWED ORBITAL FLIGHT → integrated mission without crew",
+        "CREWED FLIGHT → later accepted human risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "COMPONENT / GROUND TEST → verify subsystem behaviour",
+            "AIR-DROP TEST → parachute and recovery sequence"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST-VEHICLE ABORT → escape under a selected flight condition",
+            "UNCREWED ORBITAL FLIGHT → integrated mission without crew"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "CREWED FLIGHT → later accepted human risk",
+            "COMPONENT / GROUND TEST → verify subsystem behaviour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNCREWED ORBITAL FLIGHT → integrated mission without crew.",
+      "source_references": [
+        "Qualification-ladder boundary",
+        "Air-drop-test boundary",
+        "Uncrewed-crewed boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INTERNATIONAL-EXPOSURE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTERNATIONAL-EXPOSURE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL ISS MISSION EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FOREIGN LAUNCHER",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL TRANSPORT SYSTEMS",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN EXPERIMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATIONAL AND SCIENTIFIC EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIGENOUS LAUNCH, MODULE AND RECOVERY OBJECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPERIENCE COMPLEMENTS BUT DOES NOT CERTIFY CAPABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AXIOM-4 → international ISS mission experience",
+        "FOREIGN LAUNCHER / SPACECRAFT → external transport systems",
+        "INDIAN EXPERIMENTS → operational and scientific exposure",
+        "GAGANYAAN → indigenous launch, module and recovery objective",
+        "RULE → experience complements but does not certify capability"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "AXIOM-4 → international ISS mission experience",
+          "INDIAN EXPERIMENTS → operational and scientific exposure",
+          "RULE → experience complements but does not certify capability"
+        ],
+        [
+          "FOREIGN LAUNCHER / SPACECRAFT → external transport systems",
+          "GAGANYAAN → indigenous launch, module and recovery objective",
+          "AXIOM-4 → international ISS mission experience"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "AXIOM-4 → international ISS mission experience",
+            "FOREIGN LAUNCHER / SPACECRAFT → external transport systems"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INDIAN EXPERIMENTS → operational and scientific exposure",
+            "GAGANYAAN → indigenous launch, module and recovery objective"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → experience complements but does not certify capability",
+            "AXIOM-4 → international ISS mission experience"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → experience complements but does not certify capability.",
+      "source_references": [
+        "Axiom-Gaganyaan boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MISSION-STATUS LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MISSION-STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHORITY AND PROGRAMME SANCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDER DEVELOPMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "WORK AND EVIDENCE RUNG",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINCT FLIGHT MILESTONES",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOME VOCABULARY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ANNOUNCED / PROPOSED → intent",
+        "APPROVED → authority and programme sanction",
+        "UNDER DEVELOPMENT / TESTED → work and evidence rung",
+        "LAUNCHED / INSERTED / OPERATIONAL → distinct flight milestones",
+        "COMPLETED / PARTIAL / FAILED / CONCLUDED → outcome vocabulary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ANNOUNCED / PROPOSED → intent",
+            "APPROVED → authority and programme sanction"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNDER DEVELOPMENT / TESTED → work and evidence rung",
+            "LAUNCHED / INSERTED / OPERATIONAL → distinct flight milestones"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "COMPLETED / PARTIAL / FAILED / CONCLUDED → outcome vocabulary",
+            "ANNOUNCED / PROPOSED → intent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPLETED / PARTIAL / FAILED / CONCLUDED → outcome vocabulary.",
+      "source_references": [
+        "Mission-status boundary",
+        "Volatile mission boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LUNAR CAPABILITY LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LUNAR CAPABILITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ORBITAL SCIENCE AND LUNAR-WATER EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ORBITER SUCCESS, LANDER SETBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "SOFT LANDING AND SURFACE OPERATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "APPROVED SAMPLE-RETURN TECHNOLOGY MISSION",
+          "role": "primary"
+        },
+        {
+          "text": "LANDING DOES NOT PROVE ASCENT, DOCKING OR EARTH RETURN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHANDRAYAAN-1 → orbital science and lunar-water evidence",
+        "CHANDRAYAAN-2 → orbiter success, lander setback",
+        "CHANDRAYAAN-3 → soft landing and surface operations",
+        "CHANDRAYAAN-4 → approved sample-return technology mission",
+        "RULE → landing does not prove ascent, docking or Earth return"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CHANDRAYAAN-1 → orbital science and lunar-water evidence",
+            "CHANDRAYAAN-2 → orbiter success, lander setback"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHANDRAYAAN-3 → soft landing and surface operations",
+            "CHANDRAYAAN-4 → approved sample-return technology mission"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → landing does not prove ascent, docking or Earth return",
+            "CHANDRAYAAN-1 → orbital science and lunar-water evidence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → landing does not prove ascent, docking or Earth return.",
+      "source_references": [
+        "Chandrayaan-1 boundary",
+        "Chandrayaan-2 boundary",
+        "Chandrayaan-3 boundary",
+        "Chandrayaan-4 boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SOLAR-OBSERVATORY GEOMETRY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SOLAR-OBSERVATORY GEOMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "SUN-EARTH SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINES LAGRANGE-POINT GEOMETRY",
+          "role": "comparison"
+        },
+        {
+          "text": "L1 REGION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUOUS SOLAR-VIEW ADVANTAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HALO ORBIT",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE-DIMENSIONAL PATH AROUND L1",
+          "role": "comparison"
+        },
+        {
+          "text": "STATION KEEPING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUN-EARTH SYSTEM → defines Lagrange-point geometry",
+        "L1 REGION → continuous solar-view advantage",
+        "HALO ORBIT → three-dimensional path around L1",
+        "STATION KEEPING → periodic correction and propellant use",
+        "ADITYA-L1 → solar observatory, not a landing mission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SUN-EARTH SYSTEM → defines Lagrange-point geometry",
+            "L1 REGION → continuous solar-view advantage"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HALO ORBIT → three-dimensional path around L1",
+            "STATION KEEPING → periodic correction and propellant use"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "ADITYA-L1 → solar observatory, not a landing mission",
+            "SUN-EARTH SYSTEM → defines Lagrange-point geometry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADITYA-L1 → solar observatory, not a landing mission.",
+      "source_references": [
+        "Aditya-L1 boundary",
+        "Lagrange-station-keeping boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PLANETARY-STATUS MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLANETARY-STATUS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MARS ORBITER MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "HISTORIC MISSION, NOW CONCLUDED",
+          "role": "comparison"
+        },
+        {
+          "text": "VENUS ORBITER MISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "APPROVED FUTURE MISSION IN OWNER",
+          "role": "primary"
+        },
+        {
+          "text": "LUNAR SAMPLE RETURN",
+          "role": "outcome"
+        },
+        {
+          "text": "ASCENT AND RETURN ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SOLAR OBSERVATORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MARS ORBITER MISSION → historic mission, now concluded",
+        "VENUS ORBITER MISSION → approved future mission in owner",
+        "LUNAR SAMPLE RETURN → ascent and return architecture",
+        "SOLAR OBSERVATORY → remote sensing from L1 halo orbit",
+        "RULE → destination and status both control the description"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "MARS ORBITER MISSION → historic mission, now concluded",
+          "LUNAR SAMPLE RETURN → ascent and return architecture",
+          "RULE → destination and status both control the description"
+        ],
+        [
+          "VENUS ORBITER MISSION → approved future mission in owner",
+          "SOLAR OBSERVATORY → remote sensing from L1 halo orbit",
+          "MARS ORBITER MISSION → historic mission, now concluded"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MARS ORBITER MISSION → historic mission, now concluded",
+            "VENUS ORBITER MISSION → approved future mission in owner"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LUNAR SAMPLE RETURN → ascent and return architecture",
+            "SOLAR OBSERVATORY → remote sensing from L1 halo orbit"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → destination and status both control the description",
+            "MARS ORBITER MISSION → historic mission, now concluded"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → destination and status both control the description.",
+      "source_references": [
+        "Mars-Venus boundary",
+        "Capability-ladder boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PARALLEL CAPABILITY LADDERS",
+      "structural_type": "systems-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PARALLEL CAPABILITY LADDERS",
+          "role": "primary"
+        },
+        {
+          "text": "ABORT, LIFE SUPPORT, UNCREWED, CREWED, STATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ORBIT, SOFT LAND, ROVE, SAMPLE RETURN",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSIT, HALO INSERTION, STATION KEEPING, OBSERVATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CRUISE, INSERTION, SCIENCE OPERATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ONE LADDER CANNOT CERTIFY ANOTHER",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMAN SPACEFLIGHT REQUIRES A HUMAN-RATED LAUNCHER, CREW AND SERVICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HUMAN → abort, life support, uncrewed, crewed, station",
+        "LUNAR → orbit, soft land, rove, sample return",
+        "SOLAR → transit, halo insertion, station keeping, observation",
+        "PLANETARY → cruise, insertion, science operations",
+        "RULE → one ladder cannot certify another"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "HUMAN → abort, life support, uncrewed, crewed, station",
+            "LUNAR → orbit, soft land, rove, sample return"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOLAR → transit, halo insertion, station keeping, observation",
+            "PLANETARY → cruise, insertion, science operations"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → one ladder cannot certify another",
+            "MUST REMEMBER: Human spaceflight requires a human-rated launcher, crew and service..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Human spaceflight requires a human-rated launcher, crew and service.",
+      "source_references": [
+        "Capability-ladder boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-03_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PLANETARY-DEFENCE RAIL",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PLANETARY-DEFENCE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DISCOVER POTENTIALLY HAZARDOUS OBJECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "REFINE ORBIT, SIZE AND COMPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "WARNING TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "DETERMINES RESPONSE FEASIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "KINETIC IMPACT IS ONE DEMONSTRATED CONCEPT",
+          "role": "outcome"
+        },
+        {
+          "text": "RESIDUAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "ONE TEST IS NOT A COMPLETE SHIELD",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DETECTION → discover potentially hazardous objects",
+        "CHARACTERISATION → refine orbit, size and composition",
+        "WARNING TIME → determines response feasibility",
+        "DEFLECTION → kinetic impact is one demonstrated concept",
+        "RESIDUAL RISK → one test is not a complete shield"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DETECTION → discover potentially hazardous objects",
+            "CHARACTERISATION → refine orbit, size and composition"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WARNING TIME → determines response feasibility",
+            "DEFLECTION → kinetic impact is one demonstrated concept"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RESIDUAL RISK → one test is not a complete shield",
+            "CLOSE DISTINCTION: Launch-vehicle test is not crew-system qualification, abort test is..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Launch-vehicle test is not crew-system qualification, abort test is.",
+      "source_references": [
+        "Planetary-defence boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-03_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MISSION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MISSION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "HUMAN LUNAR SOLAR PLANETARY OR DEFENCE MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "MINIMUM TECHNICAL AND SAFETY CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE VERIFIED ACHIEVEMENT OR APPROVED NEXT RUNG",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST LAUNCH OPERATION COMPLETION AND OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "DATED CREW SCHEDULE PAYLOAD FINDING AND STATUS SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE THE LATEST DATED OFFICIAL STATUS AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY → human lunar solar planetary or defence mission",
+        "TRACE → minimum technical and safety chain",
+        "NAME → one verified achievement or approved next rung",
+        "SEPARATE → test launch operation completion and outcome",
+        "VERIFY → dated crew schedule payload finding and status source"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CLASSIFY → human lunar solar planetary or defence mission",
+            "TRACE → minimum technical and safety chain"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "NAME → one verified achievement or approved next rung",
+            "SEPARATE → test launch operation completion and outcome"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → dated crew schedule payload finding and status source",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use the latest dated official status and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use the latest dated official status and...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use the latest dated official status and.",
+      "source_references": [
+        "Volatile mission boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g2\\science-and-technology-03_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-03_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-03\\g3\\science-and-technology-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CORE HUMAN-SPACEFLIGHT COORDINATING BODY FOR GAGANYAAN-RELATED ACTIVITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAINING AND RECOVERY NETWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "ASTRONAUT TRAINING, SIMULATION, AERO-MEDICAL SUPPORT AND NAVAL RECOVERY ARE",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSION-SCIENCE ECOSYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "LUNAR, SOLAR AND PLANETARY MISSIONS DRAW ON TRACKING",
+          "role": "outcome"
+        },
+        {
+          "text": "PAYLOAD SCIENCE, PROPULSION AND MISSION-OPERATIONS CAPABILITIES ACROSS ISRO CENTRES.",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMAN-SPACEFLIGHT PROGRAMMES ARE OFTEN CRITICISED AS PRESTIGE PROJECTS, BUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "HSFC/ISRO: core human-spaceflight coordinating body for Gaganyaan-related activity.",
+            "Training and recovery network: astronaut training, simulation, aero-medical support and naval recovery are all institutional parts of the programme.",
+            "Mission-science ecosystem: lunar, solar and planetary missions draw on tracking,",
+            "payload science, propulsion and mission-operations capabilities across ISRO centres."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Human-spaceflight programmes are often criticised as prestige projects, but the",
+            "deeper policy question is whether they generate durable systems capability.",
+            "CAUTION: Space-station ambition raises governance questions of cost, research prioritisation, international collaboration and long-term operational sustainability.",
+            "CAUTION: Planetary missions must be assessed not only by symbolism but by data return, technology maturation and downstream industrial learning."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Mission sequencing matters: over-ambitious jumps can create schedule slippage, while overly conservative sequencing can reduce strategic momentum.",
+            "Gaganyaan creates autonomous human-spaceflight capability rather than dependence on external launchers for crewed access.",
+            "BAS planning signals a shift from one-off crewed demonstration to sustained orbital presence ambition.",
+            "Chandrayaan progression shows India moving from scientific discovery to technology demonstration and sample-return aspiration."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

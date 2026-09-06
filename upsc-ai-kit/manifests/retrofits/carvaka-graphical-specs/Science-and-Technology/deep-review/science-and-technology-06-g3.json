@@ -1,0 +1,1161 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-06",
+  "subject": "Science-and-Technology",
+  "title": "DEFENCE R&D: DRDO AND MISSILE SYSTEMS",
+  "short_route": "DEVELOPER USER PRODUCER MAP → MSS SUBSYSTEM CHAIN → BALLISTIC VERSUS CRUISE → HYPERSONIC TAXONOMY → OPERATIONAL-ROLE MATRIX → WEAPON AND PLATFORM SPLIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-06-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "43bd129d95267e7d567848b1749aa6dfbfd571da591fabaccd554c708de01bbb",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DEVELOPER USER PRODUCER MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEVELOPER USER PRODUCER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICULATE REQUIREMENT AND CONDUCT USER EVALUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DESIGN, DEVELOP, INTEGRATE AND TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCTION AGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "MANUFACTURE AND QUALITY ASSURANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ACCEPT, INDUCT, TRAIN AND OPERATE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE INSTITUTION CANNOT BE SUBSTITUTED FOR ANOTHER",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SERVICES → articulate requirement and conduct user evaluation",
+        "DRDO → design, develop, integrate and test",
+        "PRODUCTION AGENCY → manufacture and quality assurance",
+        "SERVICES → accept, induct, train and operate",
+        "RULE → one institution cannot be substituted for another"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SERVICES → articulate requirement and conduct user evaluation",
+            "DRDO → design, develop, integrate and test"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PRODUCTION AGENCY → manufacture and quality assurance",
+            "SERVICES → accept, induct, train and operate"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → one institution cannot be substituted for another",
+            "SERVICES → articulate requirement and conduct user evaluation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one institution cannot be substituted for another.",
+      "source_references": [
+        "DRDO-developer boundary",
+        "Requirement-user boundary",
+        "Production-agency boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MSS SUBSYSTEM CHAIN",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MSS SUBSYSTEM CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALISED ROLES",
+          "role": "outcome"
+        },
+        {
+          "text": "AIRFRAME + PROPULSION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROLLED FLIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "NAVIGATION + GUIDANCE + HOMING",
+          "role": "primary"
+        },
+        {
+          "text": "TARGET SOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WARHEAD + LAUNCH + COMMAND SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "WEAPON INTEGRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DRDL / RCI / ASL / TBRL / ITR → specialised roles",
+        "AIRFRAME + PROPULSION → controlled flight",
+        "NAVIGATION + GUIDANCE + HOMING → target solution",
+        "WARHEAD + LAUNCH + COMMAND SYSTEM → weapon integration",
+        "RULE → subsystem success is not integrated-system status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DRDL / RCI / ASL / TBRL / ITR → specialised roles",
+            "AIRFRAME + PROPULSION → controlled flight"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NAVIGATION + GUIDANCE + HOMING → target solution",
+            "WARHEAD + LAUNCH + COMMAND SYSTEM → weapon integration"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → subsystem success is not integrated-system status",
+            "DRDL / RCI / ASL / TBRL / ITR → specialised roles"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → subsystem success is not integrated-system status.",
+      "source_references": [
+        "MSS-cluster boundary",
+        "Subsystem-chain boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BALLISTIC VERSUS CRUISE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BALLISTIC VERSUS CRUISE",
+          "role": "comparison"
+        },
+        {
+          "text": "POWERED BOOST THEN LARGELY BALLISTIC PATH",
+          "role": "outcome"
+        },
+        {
+          "text": "SUSTAINED POWERED AND GUIDED ATMOSPHERIC FLIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "BALLISTIC DRIVER",
+          "role": "evidence"
+        },
+        {
+          "text": "ROCKET BOOST AND TRAJECTORY",
+          "role": "primary"
+        },
+        {
+          "text": "CRUISE DRIVER",
+          "role": "outcome"
+        },
+        {
+          "text": "AIR-BREATHING PROPULSION AND AERODYNAMIC CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "RANGE ALONE NEVER DETERMINES THE CLASS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BALLISTIC → powered boost then largely ballistic path",
+        "CRUISE → sustained powered and guided atmospheric flight",
+        "BALLISTIC DRIVER → rocket boost and trajectory",
+        "CRUISE DRIVER → air-breathing propulsion and aerodynamic control",
+        "TRAP → range alone never determines the class"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "BALLISTIC → powered boost then largely ballistic path",
+          "BALLISTIC DRIVER → rocket boost and trajectory",
+          "TRAP → range alone never determines the class"
+        ],
+        [
+          "CRUISE → sustained powered and guided atmospheric flight",
+          "CRUISE DRIVER → air-breathing propulsion and aerodynamic control",
+          "BALLISTIC → powered boost then largely ballistic path"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "BALLISTIC → powered boost then largely ballistic path",
+            "CRUISE → sustained powered and guided atmospheric flight"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BALLISTIC DRIVER → rocket boost and trajectory",
+            "CRUISE DRIVER → air-breathing propulsion and aerodynamic control"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → range alone never determines the class",
+            "BALLISTIC → powered boost then largely ballistic path"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → range alone never determines the class.",
+      "source_references": [
+        "Ballistic-cruise boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HYPERSONIC TAXONOMY",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HYPERSONIC TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "SPEED DESCRIPTION, NOT ONE WEAPON CLASS",
+          "role": "caution"
+        },
+        {
+          "text": "ROCKET BOOST THEN MANOEUVRING GLIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "HYPERSONIC CRUISE",
+          "role": "evidence"
+        },
+        {
+          "text": "SUSTAINED SCRAMJET-TYPE PROPULSION",
+          "role": "primary"
+        },
+        {
+          "text": "BALLISTIC RE-ENTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY ALSO BE HYPERSONIC",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY FLIGHT PROFILE BEFORE STATUS OR CAPABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HYPERSONIC → speed description, not one weapon class",
+        "BOOST-GLIDE → rocket boost then manoeuvring glide",
+        "HYPERSONIC CRUISE → sustained scramjet-type propulsion",
+        "BALLISTIC RE-ENTRY → may also be hypersonic",
+        "RULE → identify flight profile before status or capability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "HYPERSONIC → speed description, not one weapon class",
+            "BOOST-GLIDE → rocket boost then manoeuvring glide"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "HYPERSONIC CRUISE → sustained scramjet-type propulsion",
+            "BALLISTIC RE-ENTRY → may also be hypersonic"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → identify flight profile before status or capability",
+            "HYPERSONIC → speed description, not one weapon class"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identify flight profile before status or capability.",
+      "source_references": [
+        "Hypersonic-class boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "OPERATIONAL-ROLE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OPERATIONAL-ROLE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SURFACE LAUNCH AGAINST AERIAL THREATS",
+          "role": "outcome"
+        },
+        {
+          "text": "AIRCRAFT LAUNCH AGAINST AERIAL THREATS",
+          "role": "comparison"
+        },
+        {
+          "text": "GUIDED ANTI-ARMOUR ROLE",
+          "role": "evidence"
+        },
+        {
+          "text": "ROCKET-ARTILLERY LAND FIRES",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCH POINT, TARGET AND ROLE TRAVEL TOGETHER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SAM / AKASH → surface launch against aerial threats",
+        "AAM / ASTRA → aircraft launch against aerial threats",
+        "ATGM / NAG → guided anti-armour role",
+        "PINAKA → rocket-artillery land fires",
+        "RULE → launch point, target and role travel together"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "SAM / AKASH → surface launch against aerial threats",
+          "ATGM / NAG → guided anti-armour role",
+          "RULE → launch point, target and role travel together"
+        ],
+        [
+          "AAM / ASTRA → aircraft launch against aerial threats",
+          "PINAKA → rocket-artillery land fires",
+          "SAM / AKASH → surface launch against aerial threats"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "SAM / AKASH → surface launch against aerial threats",
+            "AAM / ASTRA → aircraft launch against aerial threats"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ATGM / NAG → guided anti-armour role",
+            "PINAKA → rocket-artillery land fires"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → launch point, target and role travel together",
+            "SAM / AKASH → surface launch against aerial threats"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → launch point, target and role travel together.",
+      "source_references": [
+        "SAM-AAM boundary",
+        "ATGM boundary",
+        "Rocket-artillery boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WEAPON AND PLATFORM SPLIT",
+      "structural_type": "layered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WEAPON AND PLATFORM SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "GUIDED WEAPON",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUND OR SHIPBOARD LAUNCH EQUIPMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "DELIVERY PLATFORM",
+          "role": "evidence"
+        },
+        {
+          "text": "MULTI-PLATFORM CONFIGURATION",
+          "role": "primary"
+        },
+        {
+          "text": "DOES NOT MERGE CATEGORIES",
+          "role": "caution"
+        },
+        {
+          "text": "SPACE LAUNCH VEHICLE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE NON-WEAPON FUNCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MISSILE → guided weapon",
+        "LAUNCHER → ground or shipboard launch equipment",
+        "AIRCRAFT / SHIP / SUBMARINE → delivery platform",
+        "MULTI-PLATFORM CONFIGURATION → does not merge categories",
+        "SPACE LAUNCH VEHICLE → separate non-weapon function"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MISSILE → guided weapon",
+            "LAUNCHER → ground or shipboard launch equipment"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "AIRCRAFT / SHIP / SUBMARINE → delivery platform",
+            "MULTI-PLATFORM CONFIGURATION → does not merge categories"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SPACE LAUNCH VEHICLE → separate non-weapon function",
+            "MISSILE → guided weapon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AIRCRAFT / SHIP / SUBMARINE → delivery platform.",
+      "source_references": [
+        "Missile-platform boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "IGMDP LINEAGE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "IGMDP LINEAGE",
+          "role": "primary"
+        },
+        {
+          "text": "IGMDP BEGINS",
+          "role": "outcome"
+        },
+        {
+          "text": "PROGRAMME FAMILIES",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOLOGY-DEMONSTRATOR LINEAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "MARCH 2012",
+          "role": "primary"
+        },
+        {
+          "text": "PROGRAMME CLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER SYSTEMS REQUIRE THEIR OWN PROGRAMME PROVENANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1983 → IGMDP begins",
+        "PRITHVI / TRISHUL / AKASH / NAG → programme families",
+        "AGNI → technology-demonstrator lineage",
+        "MARCH 2012 → programme closure",
+        "RULE → later systems require their own programme provenance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "1983 → IGMDP begins",
+            "PRITHVI / TRISHUL / AKASH / NAG → programme families"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "AGNI → technology-demonstrator lineage",
+            "MARCH 2012 → programme closure"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → later systems require their own programme provenance",
+            "1983 → IGMDP begins"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → later systems require their own programme provenance.",
+      "source_references": [
+        "IGMDP-history boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BRAHMOS INSTITUTIONAL CARD",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BRAHMOS INSTITUTIONAL CARD",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN JOINT-VENTURE PARTNER",
+          "role": "outcome"
+        },
+        {
+          "text": "RUSSIAN JOINT-VENTURE PARTNER",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAHMOS AEROSPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPER AND PRODUCER ENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "SYSTEM CLASS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPERSONIC CRUISE MISSILE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER SOLO DOMESTIC NOR BALLISTIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DRDO → Indian joint-venture partner",
+        "NPOM → Russian joint-venture partner",
+        "BRAHMOS AEROSPACE → developer and producer entity",
+        "SYSTEM CLASS → supersonic cruise missile",
+        "TRAP → neither solo domestic nor ballistic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DRDO → Indian joint-venture partner",
+            "NPOM → Russian joint-venture partner"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BRAHMOS AEROSPACE → developer and producer entity",
+            "SYSTEM CLASS → supersonic cruise missile"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → neither solo domestic nor ballistic",
+            "DRDO → Indian joint-venture partner"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYSTEM CLASS → supersonic cruise missile; TRAP → neither solo domestic nor ballistic.",
+      "source_references": [
+        "BrahMos-JV boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "DEVELOPMENTAL TRIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "TESTED PROPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "USER EVALUATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICE-ORIENTED VALIDATION",
+          "role": "primary"
+        },
+        {
+          "text": "READY FOR INDUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOMMENDATION, NOT INDUCTION",
+          "role": "caution"
+        },
+        {
+          "text": "SEPARATE EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEVELOPMENTAL TRIAL → tested proposition",
+        "USER EVALUATION → service-oriented validation",
+        "READY FOR INDUCTION → recommendation, not induction",
+        "CONTRACT / DELIVERY / INDUCTION → separate evidence",
+        "DEPLOYMENT → requires its own official confirmation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DEVELOPMENTAL TRIAL → tested proposition",
+            "USER EVALUATION → service-oriented validation"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "READY FOR INDUCTION → recommendation, not induction",
+            "CONTRACT / DELIVERY / INDUCTION → separate evidence"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "DEPLOYMENT → requires its own official confirmation",
+            "DEVELOPMENTAL TRIAL → tested proposition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTRACT / DELIVERY / INDUCTION → separate evidence.",
+      "source_references": [
+        "Test-status ladder",
+        "AoN-contract boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "AIR-DEFENCE SYSTEM RAIL",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AIR-DEFENCE SYSTEM RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DETECT AND TRACK",
+          "role": "outcome"
+        },
+        {
+          "text": "FUSE, CLASSIFY AND ASSIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "ENGAGE SELECTED THREAT CLASSES",
+          "role": "evidence"
+        },
+        {
+          "text": "SUSTAIN COVERAGE",
+          "role": "primary"
+        },
+        {
+          "text": "ANNOUNCEMENT OR ONE INTERCEPTOR IS NOT A SHIELD",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "MISSILES MUST BE CLASSIFIED BY TRAJECTORY, PROPULSION, LAUNCH PLATFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SENSORS → detect and track",
+        "COMMAND-AND-CONTROL → fuse, classify and assign",
+        "INTERCEPTORS → engage selected threat classes",
+        "LOGISTICS / READINESS → sustain coverage",
+        "TRAP → announcement or one interceptor is not a shield"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SENSORS → detect and track",
+            "COMMAND-AND-CONTROL → fuse, classify and assign"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "INTERCEPTORS → engage selected threat classes",
+            "LOGISTICS / READINESS → sustain coverage"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → announcement or one interceptor is not a shield",
+            "MUST REMEMBER: Missiles must be classified by trajectory, propulsion, launch platform,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → announcement or one interceptor is not a shield.",
+      "source_references": [
+        "Integrated-air-defence boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-06_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ROUTED PYQ FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROUTED PYQ FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "REDUCED OBSERVABILITY, NOT INVISIBILITY",
+          "role": "caution"
+        },
+        {
+          "text": "CATEGORY FACT, NOT WARHEAD DETAIL",
+          "role": "caution"
+        },
+        {
+          "text": "UNITED STATES MISSILE-DEFENCE SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "FRACTIONAL-ORBIT STRIKE CONCEPT",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER ONLY THE ROUTED TECHNICAL DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BALLISTIC IS NOT CRUISE, SURFACE-TO-AIR IS NOT AIR-TO-AIR, ANTI-TANK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STEALTH → reduced observability, not invisibility",
+        "EXPLOSIVES → category fact, not warhead detail",
+        "THAAD → United States missile-defence system",
+        "FOBS → fractional-orbit strike concept",
+        "RULE → answer only the routed technical distinction"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "STEALTH → reduced observability, not invisibility",
+          "THAAD → United States missile-defence system",
+          "RULE → answer only the routed technical distinction"
+        ],
+        [
+          "EXPLOSIVES → category fact, not warhead detail",
+          "FOBS → fractional-orbit strike concept",
+          "CLOSE DISTINCTION: Ballistic is not cruise, surface-to-air is not air-to-air, anti-tank..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "STEALTH → reduced observability, not invisibility",
+            "EXPLOSIVES → category fact, not warhead detail"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "THAAD → United States missile-defence system",
+            "FOBS → fractional-orbit strike concept"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → answer only the routed technical distinction",
+            "CLOSE DISTINCTION: Ballistic is not cruise, surface-to-air is not air-to-air, anti-tank..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → answer only the routed technical distinction.",
+      "source_references": [
+        "Stealth-detection boundary",
+        "Explosives-category boundary",
+        "THAAD-FOBS boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-06_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CAPABILITY-CLAIM FIREWALL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CAPABILITY-CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "WEAPON CLASS AND OPERATIONAL ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPER, USER, PRODUCER AND PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSYSTEM AND TEST-TO-SERVICE CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "ANNOUNCED, TESTED, CONTRACTED, INDUCTED OR DEPLOYED",
+          "role": "primary"
+        },
+        {
+          "text": "RANGE, SPEED, STAGES, GUIDANCE AND WARHEAD OFFICIALLY",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ATTACH EVERY RANGE, SPEED, SEEKER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → weapon class and operational role",
+        "MAP → developer, user, producer and platform",
+        "TRACE → subsystem and test-to-service chain",
+        "LABEL → announced, tested, contracted, inducted or deployed",
+        "VERIFY → range, speed, stages, guidance and warhead officially"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DEFINE → weapon class and operational role",
+            "MAP → developer, user, producer and platform"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRACE → subsystem and test-to-service chain",
+            "LABEL → announced, tested, contracted, inducted or deployed"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → range, speed, stages, guidance and warhead officially",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach every range, speed, seeker,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach every range, speed, seeker,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach every range, speed, seeker,.",
+      "source_references": [
+        "Volatile-capability boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g2\\science-and-technology-06_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-06_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-06\\g3\\science-and-technology-06_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "R&D SUCCESS IS A NECESSARY BUT NOT SUFFICIENT CONDITION",
+          "role": "caution"
+        },
+        {
+          "text": "TESTING MUST CONVERT INTO REPEATABLE PRODUCTION QUALITY, LIFECYCLE MAINTENANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLICLY AVAILABLE OPEN-SOURCE DATA ON MISSILE RANGE AND PAYLOAD",
+          "role": "evidence"
+        },
+        {
+          "text": "UPSC-FRIENDLY WRITING SHOULD PREFER OFFICIAL QUALITATIVE LABELS OVER SENSATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "A MISSILE CLUSTER IS NOT MERELY ABOUT END PRODUCTS",
+          "role": "caution"
+        },
+        {
+          "text": "IT IS ALSO ABOUT MASTERING PROPULSION, SENSORS, MATERIALS, GUIDANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SAME ECOSYSTEM CAN GENERATE SPILLOVERS FOR AEROSPACE MATERIALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: R&D success is a necessary but not sufficient condition for strategic autonomy",
+            "testing must convert into repeatable production quality, lifecycle maintenance and doctrinal integration.",
+            "CAUTION: Publicly available open-source data on missile range and payload is often noisy",
+            "UPSC-friendly writing should prefer official qualitative labels over sensational figures."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: A missile cluster is not merely about end products",
+            "it is also about mastering propulsion, sensors, materials, guidance and test infrastructure.",
+            "CAUTION: The same ecosystem can generate spillovers for aerospace materials, electronics, navigation and high-end manufacturing.",
+            "DRDO: official site calls it the R&D wing of the Ministry of Defence and states its mission of self-reliance in critical defence technologies"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "its function is to design/develop and to facilitate production and induction.",
+            "Department of Defence R&D: administrative umbrella for DRDO.",
+            "Department of Defence Production (DDP): the distinct MoD department for production infrastructure, DPSUs and manufacturing indigenisation.",
+            "The R&D-production split is the institutional fact most often missed in answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

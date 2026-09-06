@@ -1,0 +1,1830 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-20",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Emerging Materials, Rare Earths and Critical Minerals - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 417.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 376.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 69.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A material's observable performance follows from composition, atomic bonding, crystal or molecular structure, microstructure, defects and processing history; strength, stiffness, toughness, hardness, conductivity, magnetism and corrosion re",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "MATERIAL PROPERTIES STRUCTURE PROCESSING AND PERFORMANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 285.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 162,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MATERIAL PROPERTIES STRUCTURE PROCESSING AND PERFORMANCE",
+      "preview": "START / CONCEPT: FOUNDATION — Material properties structure processing and performance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 368
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 382.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 111.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 173,
+      "markdown_body_line_end": 173,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Advanced composite smart and carbon-fibre materials as a sequence: identify Rare earth element definition, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 192,
+      "heading": "VISUAL FIRST",
+      "preview": "ADVANCED COMPOSITE SMART AND CARBON-FIBRE MATERIALS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 245,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ADVANCED COMPOSITE SMART AND CARBON-FIBRE MATERIALS",
+      "preview": "START / CONCEPT: FOUNDATION — Advanced composite smart and carbon-fibre materials",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 390.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not say all rare earth elements are rare in the crust.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 251.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 198.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 275,
+      "heading": "VISUAL FIRST",
+      "preview": "RARE EARTH DEFINITION AND LIGHT-HEAVY CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 328,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RARE EARTH DEFINITION AND LIGHT-HEAVY CLASSIFICATION",
+      "preview": "START / CONCEPT: FOUNDATION — Rare earth definition and light-heavy classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 361
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A critical mineral is a periodically reassessed policy category based on economic, technological or strategic importance plus supply vulnerability; REEs are one defined subgroup within that wider category, while lithium, cobalt, nickel and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 284.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 358,
+      "heading": "VISUAL FIRST",
+      "preview": "CRITICAL MINERALS VERSUS RARE EARTH ELEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 411,
+      "heading": "CLOSING RECALL FLOW - CORE - CRITICAL MINERALS VERSUS RARE EARTH ELEMENTS",
+      "preview": "START / CONCEPT: CORE — Critical minerals versus rare earth elements",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 328
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 295.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 44.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 422,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Permanent magnets REE functions and component capability as a sequence: identify Permanent magnet chain, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 441,
+      "heading": "VISUAL FIRST",
+      "preview": "PERMANENT MAGNETS REE FUNCTIONS AND COMPONENT CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 494,
+      "heading": "CLOSING RECALL FLOW - CORE - PERMANENT MAGNETS REE FUNCTIONS AND COMPONENT CAPABILITY",
+      "preview": "START / CONCEPT: CORE — Permanent magnets REE functions and component capability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 382
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 284.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 505,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Battery minerals chemistry electrode roles and substitution as a sequence: identify Battery-mineral chemistry boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the nex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 527,
+      "heading": "VISUAL FIRST",
+      "preview": "BATTERY MINERALS CHEMISTRY ELECTRODE ROLES AND SUBSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - CORE - BATTERY MINERALS CHEMISTRY ELECTRODE ROLES AND SUBSTITUTION",
+      "preview": "START / CONCEPT: CORE — Battery minerals chemistry electrode roles and substitution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 438
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 614.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 323.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Semiconductor defence clean-energy and other named uses as a sequence: identify Mining-to-component chain, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 169.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 88.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 611,
+      "heading": "VISUAL FIRST",
+      "preview": "SEMICONDUCTOR DEFENCE CLEAN-ENERGY AND OTHER NAMED USES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 596.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 664,
+      "heading": "CLOSING RECALL FLOW - CORE - SEMICONDUCTOR DEFENCE CLEAN-ENERGY AND OTHER NAMED USES",
+      "preview": "START / CONCEPT: CORE — Semiconductor defence clean-energy and other named uses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Exploration mining beneficiation refining and processing chain as a sequence: identify Resource reserve production refining firewall, follow the named mechanism to its user or output, and stop at the last verified status rather than as",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 360.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 280.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 694,
+      "heading": "VISUAL FIRST",
+      "preview": "EXPLORATION MINING BENEFICIATION REFINING AND PROCESSING CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 747,
+      "heading": "CLOSING RECALL FLOW - CORE - EXPLORATION MINING BENEFICIATION REFINING AND PROCESSING CHAIN",
+      "preview": "START / CONCEPT: CORE — Exploration mining beneficiation refining and processing chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 758,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Resources reserves production and refining evidence boundaries as a sequence: identify Supply concentration and strategic dependency, follow the named mechanism to its user or output, and stop at the last verified status rather than as",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 777,
+      "heading": "VISUAL FIRST",
+      "preview": "RESOURCES RESERVES PRODUCTION AND REFINING EVIDENCE BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 830,
+      "heading": "CLOSING RECALL FLOW - CORE - RESOURCES RESERVES PRODUCTION AND REFINING EVIDENCE BOUNDARIES",
+      "preview": "START / CONCEPT: CORE — Resources reserves production and refining evidence boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Supply concentration midstream chokepoints and dependency as a sequence: identify Diversification overseas access and stocks, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 860,
+      "heading": "VISUAL FIRST",
+      "preview": "SUPPLY CONCENTRATION MIDSTREAM CHOKEPOINTS AND DEPENDENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 913,
+      "heading": "CLOSING RECALL FLOW - CORE - SUPPLY CONCENTRATION MIDSTREAM CHOKEPOINTS AND DEPENDENCY",
+      "preview": "START / CONCEPT: CORE — Supply concentration midstream chokepoints and dependency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 398
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 924,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Overseas sourcing diversification partnerships and stockpiles as a sequence: identify Recycling urban mining and substitution, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 264.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 946,
+      "heading": "VISUAL FIRST",
+      "preview": "OVERSEAS SOURCING DIVERSIFICATION PARTNERSHIPS AND STOCKPILES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 1000,
+      "heading": "CLOSING RECALL FLOW - CORE - OVERSEAS SOURCING DIVERSIFICATION PARTNERSHIPS AND STOCKPILES",
+      "preview": "START / CONCEPT: CORE — Overseas sourcing diversification partnerships and stockpiles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1011,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Recycling urban mining circular design and substitution as a sequence: identify Indian mission and policy boundaries, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1030,
+      "heading": "VISUAL FIRST",
+      "preview": "RECYCLING URBAN MINING CIRCULAR DESIGN AND SUBSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1083,
+      "heading": "CLOSING RECALL FLOW - CORE - RECYCLING URBAN MINING CIRCULAR DESIGN AND SUBSTITUTION",
+      "preview": "START / CONCEPT: CORE — Recycling urban mining circular design and substitution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 415
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1094,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Mining environmental social and closure safeguards as a sequence: identify Indian institution map, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 305.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1113,
+      "heading": "VISUAL FIRST",
+      "preview": "MINING ENVIRONMENTAL SOCIAL AND CLOSURE SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1166,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MINING ENVIRONMENTAL SOCIAL AND CLOSURE SAFEGUARDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Mining environmental social and closure safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1177,
+      "markdown_body_line_end": 1177,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Indian mission institutions law and exploration routes as a sequence: identify MMDR exploration and auction distinction, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 360.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 280.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1199,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN MISSION INSTITUTIONS LAW AND EXPLORATION ROUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1253,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INDIAN MISSION INSTITUTIONS LAW AND EXPLORATION ROUTES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Indian mission institutions law and exploration routes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 395
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1264,
+      "markdown_body_line_end": 1264,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Deep-ocean boundary PYQs and volatile-status firewall as a sequence: identify Routed PYQ material tests, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 238.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1286,
+      "heading": "VISUAL FIRST",
+      "preview": "DEEP-OCEAN BOUNDARY PYQS AND VOLATILE-STATUS FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims. **Core area:** Strategic minerals, materials security and supply-chain resilience. **Grounded in:** Ministry of Mines report *Critical Mine",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 501.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1335,
+      "heading": "1. Visual foundation",
+      "preview": "Category | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Category",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 479.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 357.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1337,
+      "markdown_body_line_end": 1343,
+      "heading": "1. Visual foundation",
+      "preview": "RESOURCE-TO-TECH VALUE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 357.422
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 276.422
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1362,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 105.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1448,
+      "markdown_body_line_end": 1448,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** Critical minerals are a strategic supply-chain issue, not merely a mining issue; India’s real challenge is to move from resource identification to secure processing, overseas partnerships, recycling and downstream manufac",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 262.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 204.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1497,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DEEP-OCEAN BOUNDARY PYQS AND VOLATILE-STATUS FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Deep-ocean boundary PYQs and volatile-status firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 327.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 86.891
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2627,
+      "markdown_body_line_end": 2632,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims. **Core area:** Strategic mineral security, geopolitics and value-chain capability. **Grounded in:** Ministry of Mines report *Critical Minerals for Ind",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 608.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 322.224
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2642,
+      "heading": "1. Architecture",
+      "preview": "identify critical minerals -> explore -> mine -> beneficiate / refine -> manufacture components -> strategic sectors",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 300.224
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 209.224
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2648,
+      "markdown_body_line_end": 2664,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 158.824
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 723.89
+        }
+      },
+      "pdf_pages": [
+        102,
+        103,
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2730,
+      "markdown_body_line_end": 2737,
+      "heading": "9. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 433.89
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2749,
+      "markdown_body_line_end": 2749,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s critical-minerals strategy is fundamentally about value-chain resilience rather than mere extraction: domestic exploration, overseas assets, refining capability, recycling and strategic coordination must all advan",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 311.69
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 238.622
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2814,
+      "markdown_body_line_end": 2830,
+      "heading": "Emerging Materials, Rare Earths and Critical Minerals: CRITICAL-MINERAL SECURITY AND RESPONSIBLE-MINING ANSWER SPINE",
+      "preview": "START WITH COMPOSITION BONDING STRUCTURE MICROSTRUCTURE PROCESSING AND PROPERTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 526.491
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 365.491
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2840,
+      "markdown_body_line_end": 2846,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Property structure processing map",
+      "preview": "COMPOSITION + BONDING -> intrinsic behaviour",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2850,
+      "markdown_body_line_end": 2856,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Advanced materials family",
+      "preview": "ADVANCED MATERIAL -> engineered demanding function",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2866,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: REE classification rail",
+      "preview": "REE = 15 LANTHANIDES + SCANDIUM + YTTRIUM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2876,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Category firewall",
+      "preview": "CHEMICAL GROUP -> rare earth elements",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2886,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Permanent magnet capability ladder",
+      "preview": "ORE -> SEPARATION -> OXIDE / METAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2896,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Battery mineral role matrix",
+      "preview": "LITHIUM -> charge-carrier system input",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2900,
+      "markdown_body_line_end": 2906,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Named application portfolio",
+      "preview": "GALLIUM / GERMANIUM -> high-tech electronics",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2910,
+      "markdown_body_line_end": 2916,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Mine to technology value chain",
+      "preview": "EXPLORE -> ASSESS -> DEVELOP -> EXTRACT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2920,
+      "markdown_body_line_end": 2926,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Dependency heat map",
+      "preview": "UPSTREAM -> geology | mine | permitting",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2930,
+      "markdown_body_line_end": 2938,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Circular materials loop",
+      "preview": "DESIGN -> durability | repair | disassembly",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2942,
+      "markdown_body_line_end": 2950,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Mine-life safeguard chain",
+      "preview": "SITING -> cumulative impact + consultation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2954,
+      "markdown_body_line_end": 2962,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: India institutions status and PYQ rail",
+      "preview": "MINES -> policy | GSI -> survey/explore | IBM -> plans/conservation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    }
+  ]
+}

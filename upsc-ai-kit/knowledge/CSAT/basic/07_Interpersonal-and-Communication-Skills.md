@@ -314,3 +314,47 @@ mandatory even when a recent paper under-samples it.
 > **Core firewall:** Skipping Advanced Topic 07 cannot remove any communication model, barrier,
 > interpersonal skill, conflict method, questionnaire rule, public-dealing principle or scenario
 > decision test required for CSAT.
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** Interpersonal skills including communication skills.
+- **Canonical scope:** Owns the communication cycle, channels, verbal/non-verbal cues, listening, feedback, barriers, interpersonal styles, conflict, negotiation, public dealing and questionnaire design.
+- **Cross-topic boundary:** Topic 06 owns the matching or arrangement mechanics when a communication scenario is presented as a logic puzzle; Topic 07 owns the communication concept being tested.
+
+### Complete learner route
+
+1. **Communication cycle:** Sender, encoding, message, channel, receiver, decoding and feedback.
+2. **Channel choice:** Match urgency, complexity, privacy, reach and record needs.
+3. **Verbal and non-verbal:** Align words, tone, posture and context.
+4. **Active listening:** Attend, clarify, paraphrase and confirm.
+5. **Feedback:** Make it timely, specific, behavioural and two-way.
+6. **Barriers:** Diagnose semantic, physical, psychological, cultural and organisational blocks.
+7. **Interpersonal styles:** Prefer assertive respect over passivity or aggression.
+8. **Conflict:** Separate positions from interests and facts from assumptions.
+9. **Negotiation:** Prepare interests, options, objective criteria and a lawful BATNA.
+10. **Public dealing:** Use accessible language, procedural fairness and documented follow-up.
+11. **Questionnaires:** Avoid leading, double-barrelled and ambiguous questions.
+12. **Scenario decision:** Choose the feasible response that reduces harm and preserves trust.
+
+### Verification and hostile-query gate
+
+Scenario answers are judged against stated facts, clarity, empathy, legality, inclusion, feedback and de-escalation. No personality stereotype or unstated motive is introduced.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**sender; channel; feedback; active listening; barrier; assertive; negotiation; questionnaire**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

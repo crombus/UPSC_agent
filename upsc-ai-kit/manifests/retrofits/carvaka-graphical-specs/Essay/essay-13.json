@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-13",
+  "subject": "Essay",
+  "title": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+  "short_route": "TIME MANAGEMENT, PLANNING AND → TIME MANAGEMENT, PLANNING AND → TIME MANAGEMENT, PLANNING AND → TIME MANAGEMENT, PLANNING AND → TIME MANAGEMENT, PLANNING AND → TIME MANAGEMENT, PLANNING AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-13_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-13-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "4b9e3dd8b42c4bc0341e257571c4c5be15b1012ce0b8265051b928dde90f927e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS EXECUTION MECHANICS — HOW TO ALLOC",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "OF ABOUT 1000–1200 WORDS, ONE CHOSEN FROM EACH SECTI",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc",
+        "EXAM FACTS / SOURCE BASIS → of about 1000–1200 words, one chosen from each Secti",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+        "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc",
+            "EXAM FACTS / SOURCE BASIS → of about 1000–1200 words, one chosen from each Secti"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+            "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays com"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "ALLOCATE TIME DELIBERATELY ACROSS ALL",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. HOW MUCH TOTAL TIME DO I HAVE FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+        "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays",
+        "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable to this topic's content — se",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+            "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays com"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable to this topic's content — se"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "comparison"
+        },
+        {
+          "text": "AT MINUTE 25 , ESSAY 1 MUST BE PLANNED",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "primary"
+        },
+        {
+          "text": "NOT DIRECTLY APPLICABLE TO THIS TOPIC'S CONTENT — SE",
+          "role": "caution"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CAP THESIS-SELECTION TIME (05) EXPLICITLY — IF NO TH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable to this topic's content — se",
+        "THESIS OPTIONS AND SELECTION → Cap thesis-selection time (05) explicitly — if no th",
+        "SIMPLE ESSAY ARCHITECTURE → Use the paragraph-count plan from 07 as your draftin",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned",
+          "THESIS OPTIONS AND SELECTION → Cap thesis-selection time (05) explicitly — if no th",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable to this topic's content — se",
+          "SIMPLE ESSAY ARCHITECTURE → Use the paragraph-count plan from 07 as your draftin",
+          "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable to this topic's content — se"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Cap thesis-selection time (05) explicitly — if no th",
+            "SIMPLE ESSAY ARCHITECTURE → Use the paragraph-count plan from 07 as your draftin"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Dimension-expansion grid",
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CAP THESIS-SELECTION TIME (05) EXPLICITLY — IF NO TH",
+          "role": "caution"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "USE THE PARAGRAPH-COUNT PLAN FROM 07 AS YOUR DRAFTIN",
+          "role": "outcome"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECT ENOUGH TIME TO WRITE A DELIBERATE CONCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS OPTIONS AND SELECTION → Cap thesis-selection time (05) explicitly — if no th",
+        "SIMPLE ESSAY ARCHITECTURE → Use the paragraph-count plan from 07 as your draftin",
+        "OPENING, BODY AND CLOSURE MOVES → Protect enough time to write a deliberate conclusion",
+        "TRAPS AND REPAIR MOVES → plan (thesis + 3–4 line argument map) is faster over",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Cap thesis-selection time (05) explicitly — if no th",
+            "SIMPLE ESSAY ARCHITECTURE → Use the paragraph-count plan from 07 as your draftin"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Protect enough time to write a deliberate conclusion",
+            "TRAPS AND REPAIR MOVES → plan (thesis + 3–4 line argument map) is faster over"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "THESIS OPTIONS AND SELECTION → Cap thesis-selection time (05) explicitly — if no th"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Traps and repair moves"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECT ENOUGH TIME TO WRITE A DELIBERATE CONCLUSION",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "primary"
+        },
+        {
+          "text": "PLAN (THESIS + 3–4 LINE ARGUMENT MAP) IS FASTER",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "MEANS TWO COMPLETE ESSAYS UNDER THE 180-MINUTE CLOCK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPENING, BODY AND CLOSURE MOVES → Protect enough time to write a deliberate conclusion",
+        "TRAPS AND REPAIR MOVES → plan (thesis + 3–4 line argument map) is faster over",
+        "TRAPS AND REPAIR MOVES — 2 → means two complete essays under the 180-minute clock",
+        "11A. RECOVERY PROTOCOL UNDER THE C → Record which recovery action was triggered. Repeated",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Protect enough time to write a deliberate conclusion",
+            "TRAPS AND REPAIR MOVES → plan (thesis + 3–4 line argument map) is faster over"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 2 → means two complete essays under the 180-minute clock",
+            "11A. RECOVERY PROTOCOL UNDER THE C → Record which recovery action was triggered. Repeated"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "OPENING, BODY AND CLOSURE MOVES → Protect enough time to write a deliberate conclusion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Opening, body and closure moves",
+        "Traps and repair moves",
+        "Traps and repair moves — 2",
+        "11A. Recovery protocol under the clock"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "MEANS TWO COMPLETE ESSAYS UNDER THE 180-MINUTE CLOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "11A. RECOVERY PROTOCOL UNDER THE C",
+          "role": "primary"
+        },
+        {
+          "text": "RECORD WHICH RECOVERY ACTION WAS TRIGGERED. REPEATED",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMED DRILL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES — 2 → means two complete essays under the 180-minute clock",
+        "11A. RECOVERY PROTOCOL UNDER THE C → Record which recovery action was triggered. Repeated",
+        "TIMED MICRO-DRILL AND SELF-CHECK → Timed drill: Run a complete two-essay paper: choose",
+        "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Did Essay 2 receive its planned 85 minut",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 2 → means two complete essays under the 180-minute clock",
+            "11A. RECOVERY PROTOCOL UNDER THE C → Record which recovery action was triggered. Repeated"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TIMED MICRO-DRILL AND SELF-CHECK → Timed drill: Run a complete two-essay paper: choose",
+            "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Did Essay 2 receive its planned 85 minut"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES — 2 → means two complete essays under the 180-minute clock"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves — 2",
+        "11A. Recovery protocol under the clock",
+        "Timed micro-drill and self-check",
+        "Timed micro-drill and self-check — 2"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK",
+          "role": "comparison"
+        },
+        {
+          "text": "TIMED DRILL",
+          "role": "evidence"
+        },
+        {
+          "text": "RUN A COMPLETE TWO-ESSAY PAPER",
+          "role": "primary"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK —",
+          "role": "outcome"
+        },
+        {
+          "text": "DID ESSAY 2 RECEIVE ITS PLANNED 85 MINUT",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TIMED MICRO-DRILL AND SELF-CHECK → Timed drill: Run a complete two-essay paper: choose",
+        "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Did Essay 2 receive its planned 85 minut",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: time-budgeting should be personalised f",
+        "CONCEPT DEFINITION AND TAXONOMY → essay one directly reduces available time for essay",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "TIMED MICRO-DRILL AND SELF-CHECK → Timed drill: Run a complete two-essay paper: choose",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: time-budgeting should be personalised f",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Did Essay 2 receive its planned 85 minut",
+          "CONCEPT DEFINITION AND TAXONOMY → essay one directly reduces available time for essay",
+          "TIMED MICRO-DRILL AND SELF-CHECK → Timed drill: Run a complete two-essay paper: choose"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "TIMED MICRO-DRILL AND SELF-CHECK → Timed drill: Run a complete two-essay paper: choose",
+            "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Did Essay 2 receive its planned 85 minut"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: time-budgeting should be personalised f",
+            "CONCEPT DEFINITION AND TAXONOMY → essay one directly reduces available time for essay"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "TIMED MICRO-DRILL AND SELF-CHECK → Timed drill: Run a complete two-essay paper: choose"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Timed micro-drill and self-check",
+        "Timed micro-drill and self-check — 2",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "TIME-BUDGETING SHOULD BE PERSONALISED F",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "ESSAY ONE DIRECTLY REDUCES AVAILABLE TIME FOR ESSAY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "MINUTES. BASIC/13 SUPPLIES A LABELLED PEDAGOGICAL 10",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: time-budgeting should be personalised f",
+        "CONCEPT DEFINITION AND TAXONOMY → essay one directly reduces available time for essay",
+        "CONCEPT DEFINITION AND TAXONOMY — → minutes. basic/13 supplies a labelled pedagogical 10",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → extra time refining the first essay improves the ove",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: time-budgeting should be personalised f",
+            "CONCEPT DEFINITION AND TAXONOMY → essay one directly reduces available time for essay"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → minutes. basic/13 supplies a labelled pedagogical 10",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → extra time refining the first essay improves the ove"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: time-budgeting should be personalised f"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "MINUTES. BASIC/13 SUPPLIES A LABELLED PEDAGOGICAL 10",
+          "role": "evidence"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "primary"
+        },
+        {
+          "text": "EXTRA TIME REFINING THE FIRST ESSAY IMPROVES THE OVE",
+          "role": "outcome"
+        },
+        {
+          "text": "TIME-SPLIT SHOULD BE MEMORISED AND APPLIED IDENTICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → minutes. basic/13 supplies a labelled pedagogical 10",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → extra time refining the first essay improves the ove",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → time-split should be memorised and applied identical",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track time at three levels: the whole-paper level (b",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → minutes. basic/13 supplies a labelled pedagogical 10",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → extra time refining the first essay improves the ove"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → time-split should be memorised and applied identical",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track time at three levels: the whole-paper level (b"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → minutes. basic/13 supplies a labelled pedagogical 10"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "TIME-SPLIT SHOULD BE MEMORISED AND APPLIED IDENTICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "TRACK TIME AT THREE LEVELS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE WHOLE-PAPER LEVEL (B",
+          "role": "comparison"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → time-split should be memorised and applied identical",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track time at three levels: the whole-paper level (b",
+        "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc",
+        "EXAM FACTS / SOURCE BASIS → of about 1000–1200 words, one chosen from each Secti",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → time-split should be memorised and applied identical",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track time at three levels: the whole-paper level (b"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc",
+            "EXAM FACTS / SOURCE BASIS → of about 1000–1200 words, one chosen from each Secti"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → time-split should be memorised and applied identical"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale",
+        "Purpose and scope",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS EXECUTION MECHANICS — HOW TO ALLOC",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "OF ABOUT 1000–1200 WORDS, ONE CHOSEN FROM EACH SECTI",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc",
+        "EXAM FACTS / SOURCE BASIS → of about 1000–1200 words, one chosen from each Secti",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+        "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc",
+            "EXAM FACTS / SOURCE BASIS → of about 1000–1200 words, one chosen from each Secti"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+            "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays com"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers execution mechanics — how to alloc"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TIME MANAGEMENT, PLANNING AND EXECUTION: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TIME MANAGEMENT, PLANNING AND EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "ALLOCATE TIME DELIBERATELY ACROSS ALL",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. HOW MUCH TOTAL TIME DO I HAVE FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+        "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays",
+        "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable to this topic's content — se",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all",
+            "BASIC DECOMPOSITION QUESTIONS → 1. How much total time do I have for both essays com"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION-EXPANSION GRID → Checkpoints: at minute 25 , Essay 1 must be planned",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable to this topic's content — se"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: allocate time deliberately across all"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BOTTLENECK PHASE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PHASE THAT MOST CONSISTENTLY OVERRUNS ITS",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOVERY PROTOCOL",
+          "role": "evidence"
+        },
+        {
+          "text": "A PRE-DECIDED, SPECIFIC ACTION TAKEN WHEN A",
+          "role": "primary"
+        },
+        {
+          "text": "TWO-ESSAY BUDGET INTERDEPENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FACT THAT OVERRUNNING ON",
+          "role": "comparison"
+        },
+        {
+          "text": "ABSOLUTE VS. PERSONALISED BUDGET",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Bottleneck phase: the phase that most consistently overruns its",
+            "Recovery protocol: a pre-decided, specific action taken when a",
+            "Two-essay budget interdependence: the fact that overrunning on",
+            "Absolute vs. personalised budget: The paper baseline is 180"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Perfectionism vs. completion: the hidden assumption that spending",
+            "Fixed template vs. adaptive budget: the assumption that a single",
+            "NOT: No pre-decided recovery protocol , leading to panic-improvised",
+            "NOT: Ignoring diagnosed, repeated bottlenecks and re-applying the"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating the second essay's time budget as \"whatever is left.\"",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Adaptive time-budgeting based on diagnosed personal bottlenecks; recovery protocols when a phase overruns mid-attempt.",
+            "Grounded in: audited 2024–2025 UPSC Essay paper corpus (see ../README.md); ../00 Master-Framework.md Section 3."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

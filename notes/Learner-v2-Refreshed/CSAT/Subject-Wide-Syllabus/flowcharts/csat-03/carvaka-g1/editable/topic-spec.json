@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-03",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\03_Arithmetic-and-Commercial-Math.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\03_Arithmetic-and-Commercial-Math.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Ratio language",
+      "body": "Convert comparisons into common units and scalable parts."
+    },
+    {
+      "number": 2,
+      "title": "Proportion and variation",
+      "body": "Distinguish direct from inverse change."
+    },
+    {
+      "number": 3,
+      "title": "Percent foundation",
+      "body": "Percent means per hundred; identify the base before operating."
+    },
+    {
+      "number": 4,
+      "title": "Successive change",
+      "body": "Multiply factors; do not add percentages blindly."
+    },
+    {
+      "number": 5,
+      "title": "Average",
+      "body": "Use total divided by count and preserve group weights."
+    },
+    {
+      "number": 6,
+      "title": "Profit, loss and discount",
+      "body": "Keep CP, SP and MP bases distinct."
+    },
+    {
+      "number": 7,
+      "title": "Interest",
+      "body": "Derive SI from principal-rate-time and CI from repeated growth."
+    },
+    {
+      "number": 8,
+      "title": "Mixtures",
+      "body": "Use conservation of quantity or alligation with validity checks."
+    },
+    {
+      "number": 9,
+      "title": "Partnership",
+      "body": "Profit share follows capital multiplied by time."
+    },
+    {
+      "number": 10,
+      "title": "Ages",
+      "body": "Translate one timeline consistently."
+    },
+    {
+      "number": 11,
+      "title": "Estimation and options",
+      "body": "Use smart numbers only when ratios remain invariant."
+    },
+    {
+      "number": 12,
+      "title": "Verification",
+      "body": "Reverse the change, recompute totals and inspect the percentage base."
+    }
+  ]
+}

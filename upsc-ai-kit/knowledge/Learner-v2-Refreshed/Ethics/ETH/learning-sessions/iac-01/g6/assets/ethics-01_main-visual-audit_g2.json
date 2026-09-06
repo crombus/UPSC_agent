@@ -1,0 +1,816 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-01_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-01_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 29,
+      "heading": "SESSION 1 - Where Ethics Enters Everyday Public Life",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Foundational definitions and the essence/determinants of ethics in human conduct. **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007),",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 446.891
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 321.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 48,
+      "heading": "1. Visual foundation",
+      "preview": "1. HUMAN INTERFACE (person meets person/institution/society)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 298.124
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 157.124
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 55,
+      "markdown_body_line_end": 63,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 305.49
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 96,
+      "heading": "4. Two classical explanations of ethical failure (ARC 1.4)",
+      "preview": "View | Assumption | Policy implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "View",
+          "Assumption",
+          "Policy implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 714.391
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 581.39
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 173,
+      "heading": "9. Mains angles",
+      "preview": "**Answer thesis:** Ethical conduct at the human interface is produced neither by values alone nor institutions alone, but by values durably contained within institutions that reduce discretion, increase transparency and empower the citizen.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 187.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 128.424
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 189,
+      "heading": "11. Comprehensive National Power (CNP) and the ethics-values linkage",
+      "preview": "✅ 2020 GS-IV Q1(a) (historical demand, routed here): \"Discuss the role of ethics and values in enhancing the [three major components of] Comprehensive National Power\" and social harmony.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 651.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 584.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 197,
+      "heading": "11. Comprehensive National Power (CNP) and the ethics-values linkage",
+      "preview": "CNP component | Precise content (not vague nationalism) | How ethics/values enhance it",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "CNP component",
+          "Precise content (not vague nationalism)",
+          "How ethics/values enhance it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 584.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 106.622
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 223,
+      "heading": "12. Executable directive decoding and answer architecture",
+      "preview": "Directive word (as set in GS-IV) | What the examiner is testing | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Directive word (as set in GS-IV)",
+          "What the examiner is testing",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 613.191
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 414.19
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 270,
+      "markdown_body_line_end": 271,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 608.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 541.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 285.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 240.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 298,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 240.756
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 174.088
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 280.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 236.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1420,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Foundational definitions and the essence/determinants of ethics in human conduct. **Grounded in:** 2nd ARC, 4th Report *Ethics in Governance* (2007), Ch.1 (paras",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 736.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 649.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1425,
+      "markdown_body_line_end": 1439,
+      "heading": "1. Architecture",
+      "preview": "STRUCTURAL CAUSES (ARC 1.6-1.9)          CORRECTIVE LEVERS (ARC 1.8-1.10)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 622.124
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 481.124
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1446,
+      "markdown_body_line_end": 1452,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 408.524
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 177.122
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1584,
+      "markdown_body_line_end": 1585,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 177.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 133.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1623,
+      "markdown_body_line_end": 1623,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 246.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 202.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1634,
+      "markdown_body_line_end": 1663,
+      "heading": "ASCII PANEL 1/12 - Where Ethics Enters Everyday Public Life",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 744.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 453.091
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1667,
+      "markdown_body_line_end": 1696,
+      "heading": "ASCII PANEL 2/12 - Four Ways to Ask an Ethical Question",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 431.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 140.091
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1700,
+      "markdown_body_line_end": 1730,
+      "heading": "ASCII PANEL 3/12 - Ethics, Morality, Law, and Propriety",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1734,
+      "markdown_body_line_end": 1763,
+      "heading": "ASCII PANEL 4/12 - The Human Interface: Power Meets Citizen Need",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1796,
+      "heading": "ASCII PANEL 5/12 - Why Values Need Institutions",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1800,
+      "markdown_body_line_end": 1830,
+      "heading": "ASCII PANEL 6/12 - How Systems Produce or Prevent Corruption",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1834,
+      "markdown_body_line_end": 1863,
+      "heading": "ASCII PANEL 7/12 - Coercive and Collusive Corruption: Do Not Confuse Them",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1867,
+      "markdown_body_line_end": 1896,
+      "heading": "ASCII PANEL 8/12 - Citizen Power, Transparency, and Ethical Governance",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1900,
+      "markdown_body_line_end": 1930,
+      "heading": "ASCII PANEL 9/12 - Constitutional Morality and National Power",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1934,
+      "markdown_body_line_end": 1963,
+      "heading": "ASCII PANEL 10/12 - Writing a Balanced GS-IV Ethics Answer",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1967,
+      "markdown_body_line_end": 1996,
+      "heading": "ASCII PANEL 11/12 - MCQ and trap repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2000,
+      "markdown_body_line_end": 2030,
+      "heading": "ASCII PANEL 12/12 - PYQ and answer synthesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2034,
+      "markdown_body_line_end": 2047,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 147.89
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2101,
+      "markdown_body_line_end": 2115,
+      "heading": "Answer spine",
+      "preview": "DEFINE THE CONCEPT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 264.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 123.891
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    }
+  ]
+}

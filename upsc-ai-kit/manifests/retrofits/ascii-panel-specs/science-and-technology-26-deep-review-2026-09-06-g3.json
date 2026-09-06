@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-26",
+      "display_title": "Scientific Discoveries, Nobel Prizes and Scientists",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Minimum prize evidence card",
+          "structural_type": "evidence-card",
+          "ascii_lines": [
+            "CATEGORY + YEAR",
+            "OFFICIAL LAUREATE SPELLING",
+            "OFFICIAL CITATION / MOTIVATION",
+            "MECHANISM + AWARD-TIME AFFILIATION",
+            "BIRTH / INDIA LINK / STATUS DATE -> only if sourced"
+          ],
+          "source_references": [
+            "Minimum prize evidence card",
+            "Laureate institution nationality boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Scientific contribution classifier",
+          "structural_type": "contribution-tree",
+          "ascii_lines": [
+            "THEORY -> explanation and prediction",
+            "OBSERVATION -> recorded phenomenon",
+            "EXPERIMENT -> controlled test",
+            "DISCOVERY -> established phenomenon or relation",
+            "INVENTION / DEVELOPMENT -> device, process or method"
+          ],
+          "source_references": [
+            "Discovery invention theory and observation",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Nobel category map",
+          "structural_type": "category-map",
+          "ascii_lines": [
+            "PHYSICS | CHEMISTRY | PHYSIOLOGY OR MEDICINE",
+            "LITERATURE | PEACE -> original framework",
+            "ECONOMIC SCIENCES -> later memorial prize",
+            "AWARDING INSTITUTION -> category-specific",
+            "PEACE -> person or organisation possible"
+          ],
+          "source_references": [
+            "Nobel category architecture",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Citation-to-outcome staircase",
+          "structural_type": "status-staircase",
+          "ascii_lines": [
+            "OFFICIAL CITATION",
+            "DISCOVERY / MECHANISM",
+            "POSSIBLE APPLICATION",
+            "ENGINEERING + COMMERCIALIZATION",
+            "MEASURED POLICY / SOCIAL OUTCOME"
+          ],
+          "source_references": [
+            "Citation-to-policy evidence ladder",
+            "Replication uncertainty and mature evidence",
+            "Prize claim and current-status firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Attribution and chronology rail",
+          "structural_type": "chronology-rail",
+          "ascii_lines": [
+            "PRIOR THEORY -> INSTRUMENT -> EXPERIMENT",
+            "PUBLICATION -> REPLICATION -> AWARD",
+            "PATENT / PRODUCT / DEPLOYMENT -> later and separate",
+            "LAUREATE != institution",
+            "AWARD YEAR != discovery year automatically"
+          ],
+          "source_references": [
+            "Laureate institution nationality boundary",
+            "Chronology and attribution discipline",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Physics 2025 quantum-circuit map",
+          "structural_type": "mechanism-map",
+          "ascii_lines": [
+            "SUPERCONDUCTING CIRCUIT + JOSEPHSON JUNCTION",
+            "COLLECTIVE MACROSCOPIC STATE",
+            "BARRIER -> quantum tunnelling",
+            "SPECIFIC ENERGY AMOUNTS -> quantisation",
+            "DEMONSTRATION != fault-tolerant quantum computer"
+          ],
+          "source_references": [
+            "Physics 2025 award citation",
+            "Physics 2025 mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "John Clarke clue resolver",
+          "structural_type": "clue-resolver",
+          "ascii_lines": [
+            "BORN -> Cambridge, United Kingdom",
+            "AFFILIATION -> University of California, Berkeley",
+            "CATEGORY / YEAR -> Physics 2025",
+            "SHARE -> one-third with Devoret and Martinis",
+            "MATCH ALL CLUES -> then identify"
+          ],
+          "source_references": [
+            "John Clarke biographical route",
+            "Routed PYQ mechanism-first use",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Chemistry 2025 MOF architecture",
+          "structural_type": "material-architecture",
+          "ascii_lines": [
+            "METAL IONS -> nodes",
+            "ORGANIC MOLECULES -> linkers",
+            "POROUS CRYSTAL -> cavities",
+            "BUILDING-BLOCK CHANGE -> tunable function",
+            "CAPABILITY / APPLICATION != commercialization"
+          ],
+          "source_references": [
+            "Chemistry 2025 award citation",
+            "Metal-organic framework mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Medicine 2025 tolerance pathway",
+          "structural_type": "immune-pathway",
+          "ascii_lines": [
+            "CENTRAL TOLERANCE -> thymic control layer",
+            "REGULATORY T CELLS -> peripheral control",
+            "Foxp3 -> regulatory-T-cell development",
+            "SELF-TISSUE PROTECTION -> mechanism",
+            "CLINICAL TRIAL != approved therapy"
+          ],
+          "source_references": [
+            "Medicine 2025 award citation",
+            "Peripheral tolerance mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "MicroRNA regulation rail",
+          "structural_type": "gene-regulation-rail",
+          "ascii_lines": [
+            "DNA --transcription--> mRNA",
+            "microRNA -> complementary mRNA binding",
+            "PROTEIN PRODUCTION -> inhibited",
+            "mRNA DEGRADATION -> possible route",
+            "DISCOVERY != diagnostic or medicine",
+            "MUST REMEMBER: Scientific-history questions separate observation, discovery, theory,...",
+            "MUST REMEMBER: Scientific-history questions separate observation, discovery, theory,..."
+          ],
+          "source_references": [
+            "Medicine 2024 microRNA anchor",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-26_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "India-linked scientist cards",
+          "structural_type": "three-card-grid",
+          "ascii_lines": [
+            "RAMAN 1930 -> light scattering / Raman effect",
+            "KHORANA 1968 -> genetic code / protein synthesis",
+            "RAMAKRISHNAN 2009 -> ribosome structure and function",
+            "BIRTHPLACE != award-time affiliation",
+            "CITATION != every later application",
+            "CLOSE DISTINCTION: Discovery is not invention, theory is not proof beyond revision, award...",
+            "CLOSE DISTINCTION: Discovery is not invention, theory is not proof beyond revision, award..."
+          ],
+          "source_references": [
+            "Raman prize and mechanism",
+            "Khorana genetic-code prize",
+            "Ramakrishnan ribosome prize",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-26_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PYQ and future-status firewall",
+          "structural_type": "pyq-status-rail",
+          "ascii_lines": [
+            "2026 Q81 -> direct biographical prize route",
+            "BOSE-EINSTEIN / BLUE LED -> Topic 21 direct science owner",
+            "TOPIC 26 -> attribution + citation + maturity support",
+            "2025 OFFICIAL AWARDS -> latest completed science anchors",
+            "4 SEP 2026 -> no invented 2026 laureates",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use Nobel Foundation or equally...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use Nobel Foundation or equally..."
+          ],
+          "source_references": [
+            "Routed PYQ mechanism-first use",
+            "Prize claim and current-status firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-26_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

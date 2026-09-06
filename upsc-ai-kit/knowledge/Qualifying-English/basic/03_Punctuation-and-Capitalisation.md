@@ -120,3 +120,49 @@ also accepted [PUNC]; 3 *The reports that were incomplete were returned.*
 inquiry had one conclusion: postpone the launch.* [COL]; 6 *It's important to
 check every candidate's identity card.* [APOS].
 
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; structural punctuation and conventional capitalisation needed for clear, correct expression.
+- **Canonical ownership:** Owns commas, semicolons, colons, dashes, apostrophes, quotation marks, terminal marks, hyphens, brackets, ellipses and capitalisation.
+- **Cross-topic boundary:** Relative-clause meaning and sentence grammar are introduced in Topics 01-02; Topic 03 owns the marks that encode those relations. Broader correction procedure belongs to Topic 05.
+
+### Complete learner and answer route
+
+1. **Clause map:** Mark independent, dependent, restrictive and supplementary units before punctuating.
+2. **Introductory commas:** Separate a substantial opening phrase or clause from the main clause.
+3. **Coordinated clauses:** Use comma plus coordinator, semicolon or full stop rather than a comma splice.
+4. **Relative information:** Use commas only for removable non-restrictive material.
+5. **Lists and contrasts:** Use consistent list punctuation and commas that prevent misreading.
+6. **Semicolon:** Join closely related independent clauses or separate complex list items.
+7. **Colon:** Introduce an explanation, list or restatement after a complete announcing clause.
+8. **Dash and brackets:** Use sparingly for interruption, emphasis or parenthetical clarification.
+9. **Apostrophe:** Distinguish possession, contraction and ordinary plural.
+10. **Quotation and terminal marks:** Preserve direct speech and question/statement status.
+11. **Hyphen and ellipsis:** Hyphenate useful compound modifiers; use ellipsis only for omission.
+12. **Capitalisation audit:** Capitalise proper names and formal titles, not generic importance.
+
+### Authority, variation and hostile-query gate
+
+Judge punctuation from syntax and intended meaning. Accept legitimate British/US or serial-comma variants when consistent; reject only changes that create ambiguity, a splice or a false possession.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**comma splice; restrictive; semicolon; colon; apostrophe; quotation; hyphen; capitalisation**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+

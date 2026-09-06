@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "CSAT",
+    "display_name": "CSAT"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\CSAT\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\CSAT\\README.md"
+    ],
+    "notes": "Authoritative eight-topic CSAT catalogue, preserved in source order."
+  },
+  "topics": [
+    {
+      "topic_key": "csat-01",
+      "display_title": "Reading-Comprehension",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 01.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\01_Reading-Comprehension.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\01_Reading-Comprehension.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\01_Reading-Comprehension.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    },
+    {
+      "topic_key": "csat-02",
+      "display_title": "Number-Systems-and-Number-Sense",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 02.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\02_Number-Systems-and-Number-Sense.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\02_Number-Systems-and-Number-Sense.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\02_Number-Systems-and-Number-Sense.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    },
+    {
+      "topic_key": "csat-03",
+      "display_title": "Arithmetic-and-Commercial-Math",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 03.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\03_Arithmetic-and-Commercial-Math.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\03_Arithmetic-and-Commercial-Math.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\03_Arithmetic-and-Commercial-Math.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    },
+    {
+      "topic_key": "csat-04",
+      "display_title": "Rates-Motion-Time-and-Geometry",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 04.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\04_Rates-Motion-Time-and-Geometry.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\04_Rates-Motion-Time-and-Geometry.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\04_Rates-Motion-Time-and-Geometry.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    },
+    {
+      "topic_key": "csat-05",
+      "display_title": "Algebra-Inequalities-and-Data-Sufficiency",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 05.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\05_Algebra-Inequalities-and-Data-Sufficiency.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\05_Algebra-Inequalities-and-Data-Sufficiency.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\05_Algebra-Inequalities-and-Data-Sufficiency.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    },
+    {
+      "topic_key": "csat-06",
+      "display_title": "Logical Reasoning Coding Counting and DI",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 06.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\06_Logical-Reasoning-Coding-Counting-and-DI.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\06_Logical-Reasoning-Coding-Counting-and-DI.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\06_Logical-Reasoning-Coding-Counting-and-DI.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    },
+    {
+      "topic_key": "csat-07",
+      "display_title": "Interpersonal-and-Communication-Skills",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 07.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\07_Interpersonal-and-Communication-Skills.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\07_Interpersonal-and-Communication-Skills.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\07_Interpersonal-Communication-Negotiation-and-Public-Dealing.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    },
+    {
+      "topic_key": "csat-08",
+      "display_title": "General-Mental-Ability-Integrated-Map",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 08.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\08_General-Mental-Ability-Integrated-Map.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\08_General-Mental-Ability-Integrated-Map.md",
+      "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\08_Mixed-General-Mental-Ability-and-Strategy.md",
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+      ],
+      "verified_pyq_sources": [
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md",
+        "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md"
+      ]
+    }
+  ]
+}

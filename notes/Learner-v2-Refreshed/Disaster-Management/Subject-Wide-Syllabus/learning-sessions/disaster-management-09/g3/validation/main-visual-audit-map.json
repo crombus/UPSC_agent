@@ -1,0 +1,1748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g3\\disaster-management-09_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g3\\disaster-management-09_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Drought, Heat Waves and Slow-Onset Risk - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 330.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-09\\g3\\assets\\disaster-management-09_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 146.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 83,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Aridity drought and slow-onset risk grammar as a sequence: identify Aridity versus drought, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 98,
+      "markdown_body_line_end": 105,
+      "heading": "VISUAL FIRST",
+      "preview": "ARIDITY DROUGHT AND SLOW-ONSET RISK GRAMMAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 159,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ARIDITY DROUGHT AND SLOW-ONSET RISK GRAMMAR",
+      "preview": "START / CONCEPT: FOUNDATION — Aridity drought and slow-onset risk grammar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 406.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Meteorological agricultural hydrological socioeconomic and ecological drought as a sequence: identify Agricultural drought, follow the named mechanism to its institutional response, and stop at the last verified status rather than assu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 252.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 171.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 189,
+      "heading": "VISUAL FIRST",
+      "preview": "METEOROLOGICAL AGRICULTURAL HYDROLOGICAL SOCIOECONOMIC AND ECOLOGICAL DROUGHT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 242,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - METEOROLOGICAL AGRICULTURAL HYDROLOGICAL SOCIOECONOMIC AND ECOLOGICAL DROUGHT",
+      "preview": "START / CONCEPT: FOUNDATION — Meteorological agricultural hydrological socioeconomic and ecological drought",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 289
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Drought cascade lags and multi-indicator monitoring as a sequence: identify Hydrological drought, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 272,
+      "heading": "VISUAL FIRST",
+      "preview": "DROUGHT CASCADE LAGS AND MULTI-INDICATOR MONITORING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 325,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DROUGHT CASCADE LAGS AND MULTI-INDICATOR MONITORING",
+      "preview": "START / CONCEPT: FOUNDATION — Drought cascade lags and multi-indicator monitoring",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 311.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 80.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Drought declaration and evidence discipline as a sequence: identify Socio-economic drought, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 355,
+      "heading": "VISUAL FIRST",
+      "preview": "DROUGHT DECLARATION AND EVIDENCE DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - CORE - DROUGHT DECLARATION AND EVIDENCE DISCIPLINE",
+      "preview": "START / CONCEPT: CORE — Drought declaration and evidence discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Heat-wave hazard criteria and forecast boundary as a sequence: identify Ecological drought, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 211.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 438,
+      "heading": "VISUAL FIRST",
+      "preview": "HEAT-WAVE HAZARD CRITERIA AND FORECAST BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 491,
+      "heading": "CLOSING RECALL FLOW - CORE - HEAT-WAVE HAZARD CRITERIA AND FORECAST BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Heat-wave hazard criteria and forecast boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Heat stress wet-bulb exposure and vulnerability as a sequence: identify Slow-onset cascade, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 524,
+      "heading": "VISUAL FIRST",
+      "preview": "HEAT STRESS WET-BULB EXPOSURE AND VULNERABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 317.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW - CORE - HEAT STRESS WET-BULB EXPOSURE AND VULNERABILITY",
+      "preview": "START / CONCEPT: CORE — Heat stress wet-bulb exposure and vulnerability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 592.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 351.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Compound drought heat water agriculture and health risk as a sequence: identify Heat-wave hazard, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 197.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 116.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 608,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPOUND DROUGHT HEAT WATER AGRICULTURE AND HEALTH RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW - CORE - COMPOUND DROUGHT HEAT WATER AGRICULTURE AND HEALTH RISK",
+      "preview": "START / CONCEPT: CORE — Compound drought heat water agriculture and health risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Heat Action Plan governance chain as a sequence: identify Heat stress, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 331.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "HEAT ACTION PLAN GOVERNANCE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 744,
+      "heading": "CLOSING RECALL FLOW - CORE - HEAT ACTION PLAN GOVERNANCE CHAIN",
+      "preview": "START / CONCEPT: CORE — Heat Action Plan governance chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 97.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 755,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Water security groundwater and demand portfolio as a sequence: identify Wet-bulb boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 774,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER SECURITY GROUNDWATER AND DEMAND PORTFOLIO",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 827,
+      "heading": "CLOSING RECALL FLOW - CORE - WATER SECURITY GROUNDWATER AND DEMAND PORTFOLIO",
+      "preview": "START / CONCEPT: CORE — Water security groundwater and demand portfolio",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 838,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Agriculture livestock livelihoods and social protection as a sequence: identify Exposure inequality, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 857,
+      "heading": "VISUAL FIRST",
+      "preview": "AGRICULTURE LIVESTOCK LIVELIHOODS AND SOCIAL PROTECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 910,
+      "heading": "CLOSING RECALL FLOW - CORE - AGRICULTURE LIVESTOCK LIVELIHOODS AND SOCIAL PROTECTION",
+      "preview": "START / CONCEPT: CORE — Agriculture livestock livelihoods and social protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 270.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 39.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Urban heat built form cooling and access as a sequence: identify Heat Action Plan, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN HEAT BUILT FORM COOLING AND ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 997,
+      "heading": "CLOSING RECALL FLOW - CORE - URBAN HEAT BUILT FORM COOLING AND ACCESS",
+      "preview": "START / CONCEPT: CORE — Urban heat built form cooling and access",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 347.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1008,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Outdoor labour schools and health-system readiness as a sequence: identify Agriculture and livelihoods, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 193.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 112.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1027,
+      "heading": "VISUAL FIRST",
+      "preview": "OUTDOOR LABOUR SCHOOLS AND HEALTH-SYSTEM READINESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1080,
+      "heading": "CLOSING RECALL FLOW - CORE - OUTDOOR LABOUR SCHOOLS AND HEALTH-SYSTEM READINESS",
+      "preview": "START / CONCEPT: CORE — Outdoor labour schools and health-system readiness",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Anticipatory action triggers and financing logic as a sequence: identify Urban heat measures, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1110,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTICIPATORY ACTION TRIGGERS AND FINANCING LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1163,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ANTICIPATORY ACTION TRIGGERS AND FINANCING LOGIC",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Anticipatory action triggers and financing logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 325.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 84.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1174,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Maladaptation distribution and residual risk as a sequence: identify Labour and health measures, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1196,
+      "heading": "VISUAL FIRST",
+      "preview": "MALADAPTATION DISTRIBUTION AND RESIDUAL RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1250,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MALADAPTATION DISTRIBUTION AND RESIDUAL RISK",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Maladaptation distribution and residual risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 545.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 304.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PYQ synthesis monitoring and outcome firewall as a sequence: identify Early action and maladaptation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 150.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 69.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1283,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ SYNTHESIS MONITORING AND OUTCOME FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 533.491
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Drought typology; heat-wave, cold-wave and thunderstorm/lightning criteria and risk; Heat Action Plans; water/ livelihood protection; s",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1343,
+      "heading": "1. Visual foundation",
+      "preview": "RAINFALL DEFICIENCY / EXTREME TEMPERATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 663.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 542.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1354,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 478.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 421.222
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1583,
+      "markdown_body_line_end": 1585,
+      "heading": "13. Core-only answer architecture - slow-onset and humid-heat risk",
+      "preview": "**Core firewall:** Core now includes the 2025 Prelims wet-bulb demand as well as a directive-sensitive drought/heat answer. It does not rely on an Advanced companion for physiological or finance distinctions.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 450.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1606,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 324.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 60.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1627,
+      "markdown_body_line_end": 1644,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ SYNTHESIS MONITORING AND OUTCOME FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ synthesis monitoring and outcome firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 599.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 358.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2828,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Compound drought-heat-health-agriculture risk; threshold design, equity, anticipatory action and urban heat governance. **Grounded in:** *VisionIAS",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 693.024
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2849,
+      "markdown_body_line_end": 2866,
+      "heading": "2. Risk-system analysis",
+      "preview": "RAINFALL DEFICIENCY / TEMPERATURE EXTREME",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 530.424
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 359.424
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3101,
+      "markdown_body_line_end": 3109,
+      "heading": "Drought, Heat Waves and Slow-Onset Risk: WATER AGRICULTURE URBAN LABOUR HEALTH EARLY-ACTION SPINE",
+      "preview": "DISTINGUISH ARIDITY SCARCITY AND EACH DROUGHT TYPE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 231.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 150.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3119,
+      "markdown_body_line_end": 3124,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Drought identity firewall",
+      "preview": "ARIDITY -> persistent climatic moisture condition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 676.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 624.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3128,
+      "markdown_body_line_end": 3133,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Drought-family matrix",
+      "preview": "METEOROLOGICAL -> precipitation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 602.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 551.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3137,
+      "markdown_body_line_end": 3142,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Slow-onset cascade",
+      "preview": "RAINFALL DEFICIT -> SOIL-MOISTURE STRESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 477.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3146,
+      "markdown_body_line_end": 3151,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Declaration dashboard",
+      "preview": "RAINFALL + VEGETATIVE INDICES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 455.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 403.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3155,
+      "markdown_body_line_end": 3160,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Heat hazard-to-harm chain",
+      "preview": "IMD HAZARD CLASSIFICATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 329.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3164,
+      "markdown_body_line_end": 3169,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Wet-bulb firewall",
+      "preview": "DRY-BULB -> ambient air temperature",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 307.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 255.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3173,
+      "markdown_body_line_end": 3178,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Heat Action Plan rail",
+      "preview": "1 SEASONAL RISK AND RESPONSIBILITY MAP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3182,
+      "markdown_body_line_end": 3187,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Water-agriculture portfolio",
+      "preview": "DRINKING WATER + DEMAND MANAGEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3191,
+      "markdown_body_line_end": 3196,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Urban-labour-health matrix",
+      "preview": "BUILT FORM -> cool roof shade ventilation trees",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3200,
+      "markdown_body_line_end": 3207,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Compound-risk web",
+      "preview": "DROUGHT -> WATER / CROP / POWER PRESSURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3211,
+      "markdown_body_line_end": 3218,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Early action or maladaptation",
+      "preview": "FORECAST + VULNERABILITY SIGNAL?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3222,
+      "markdown_body_line_end": 3229,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Slow-onset answer spine",
+      "preview": "DISTINGUISH ARIDITY SCARCITY AND DROUGHT TYPES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    }
+  ]
+}

@@ -5,8 +5,8 @@ Topic: General Science: Physics Fundamentals
 Subject: Science and Technology
 Section: Subject-wide Syllabus
 Catalogue number: 21
-Source record ID: science-and-technology-21:learner-v2:g2
-Source generation: 2
+Source record ID: science-and-technology-21:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

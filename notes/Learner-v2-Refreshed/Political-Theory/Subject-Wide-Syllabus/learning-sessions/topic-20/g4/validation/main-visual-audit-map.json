@@ -1,0 +1,911 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-20",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 36,
+      "heading": "SESSION 1 - Perspective Map, Stakes and Essential Vocabulary",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Competing rules of distributive justice across l",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 327.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 159.824
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 71,
+      "heading": "3. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 459.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 125,
+      "heading": "6. Thinkers and positions",
+      "preview": "Thinker / stream | Position in this topic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Thinker / stream",
+          "Position in this topic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 332.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1214,
+      "markdown_body_line_end": 1214,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Social and Political Ideals. They are not re-routed to Political Theory; they are included because this topic provides a directly ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 721.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1216,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 721.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 690.956
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1252,
+      "heading": "Solved PYQ 1 - 2019 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the axis of continuity before judging, and separates a shared question from opposed answers instead of forcing a single verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 369.356
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 291.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "Solved PYQ 1 - 2019 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 288.788
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 258.32
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1295,
+      "markdown_body_line_end": 1297,
+      "heading": "Solved PYQ 2 - 2021 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the historical/patterned distinction, uses Wilt Chamberlain as argument (not decoration), and lands the critique on acquisition/rectification.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 487.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 395.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1301,
+      "heading": "Solved PYQ 2 - 2021 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 392.924
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 362.456
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1343,
+      "heading": "Solved PYQ 3 - 2021 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it states the criterion of improvement first, uses niti/nyaya and capabilities as argument, concedes what Rawls still does better, and gives a criterion-relative verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 408.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 330.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1347,
+      "heading": "Solved PYQ 3 - 2021 Q2(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 328.124
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 297.656
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1386,
+      "heading": "Solved PYQ 4 - 2022 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the measure-vs-need distinction, roots it in the equal-right-as-right-of-inequality argument, and flags the higher-stage qualification without drifting into a Political-Ideologies essay.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 473.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1390,
+      "heading": "Solved PYQ 4 - 2022 Q2(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 378.724
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 348.256
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1430,
+      "heading": "Solved PYQ 5 - 2023 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it defines fairness through the fair choice situation, states the principles with their PRIORITY, and adds reflective equilibrium rather than listing slogans.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 487.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 409.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1434,
+      "markdown_body_line_end": 1434,
+      "heading": "Solved PYQ 5 - 2023 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 407.124
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 376.656
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1476,
+      "markdown_body_line_end": 1478,
+      "heading": "Solved PYQ 6 - 2025 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it proves inadequacy by showing each ideal is indeterminate about its own content, compares three ordering positions, anchors in Ambedkar, and ends with the architectonic verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 380.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 302.224
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1638,
+      "markdown_body_line_end": 1643,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Advanced comparison of distributive justice across liberal, ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 235.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 105.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1678,
+      "markdown_body_line_end": 1687,
+      "heading": "4. Definitions and distinctions",
+      "preview": "Distinction | Advanced note",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Distinction",
+          "Advanced note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 305.49
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1690,
+      "markdown_body_line_end": 1700,
+      "heading": "5. Thinker-by-thinker positions",
+      "preview": "Thinker | Position used in this topic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Thinker",
+          "Position used in this topic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 375.09
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1852,
+      "markdown_body_line_end": 1883,
+      "heading": "ASCII PANEL 1/12 - Perspective Map, Stakes and Essential Vocabulary",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 585.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 274.891
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1887,
+      "markdown_body_line_end": 1916,
+      "heading": "ASCII PANEL 2/12 - The Eight-Perspective Chapter Spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1920,
+      "markdown_body_line_end": 1949,
+      "heading": "ASCII PANEL 3/12 - Rawls, Nozick and Controlling Distinctions",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1953,
+      "markdown_body_line_end": 1982,
+      "heading": "ASCII PANEL 4/12 - Thinkers and Rival Standards of Justice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1986,
+      "markdown_body_line_end": 2015,
+      "heading": "ASCII PANEL 5/12 - Illustrative Cases and Evidence Units",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2019,
+      "markdown_body_line_end": 2048,
+      "heading": "ASCII PANEL 6/12 - The Six-Axis Comparative Matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2052,
+      "markdown_body_line_end": 2081,
+      "heading": "ASCII PANEL 7/12 - Trap Repair, Boundaries and PYQ Routes",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2085,
+      "markdown_body_line_end": 2114,
+      "heading": "ASCII PANEL 8/12 - Revision Spine and Directive Control",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2118,
+      "markdown_body_line_end": 2149,
+      "heading": "ASCII PANEL 9/12 - Argument Reconstruction and Objection-Reply Chains",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2153,
+      "markdown_body_line_end": 2182,
+      "heading": "ASCII PANEL 10/12 - Indian Applications, Quotation Safety and MCQ Ledger",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2186,
+      "markdown_body_line_end": 2215,
+      "heading": "ASCII PANEL 11/12 - MCQ Remediation and Trap Repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2219,
+      "markdown_body_line_end": 2248,
+      "heading": "ASCII PANEL 12/12 - PYQ Ownership and Answer Practice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2252,
+      "markdown_body_line_end": 2265,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 327.09
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2318,
+      "markdown_body_line_end": 2322,
+      "heading": "SUPPLEMENTARY-EXTENSION BOUNDARY",
+      "preview": "Extension | Safe use | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Extension",
+          "Safe use",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 663.49
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2333,
+      "markdown_body_line_end": 2340,
+      "heading": "CROSS-APPLIED PHILOSOPHY OWNERSHIP",
+      "preview": "Route | Primary Philosophy owner",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Route",
+          "Primary Philosophy owner"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 544.69
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 392.888
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2352,
+      "markdown_body_line_end": 2366,
+      "heading": "ANSWER-WRITING GRID",
+      "preview": "NAME THE STANDARD -> fairness | entitlement | exploitation | anti-domination | community",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 252.888
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 111.888
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    }
+  ]
+}

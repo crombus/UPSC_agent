@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "internal-security-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "internal_security_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-02",
+      "display_title": "Terrorism and Counter-Terror Architecture",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Terrorism concept map",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "PURPOSE -> political / religious / ideological coercion",
+            "METHOD -> planned, organised, systematic violence",
+            "ACTOR -> state, proxy, network or individual",
+            "OUTCOME SOUGHT -> fear, compliance, legitimacy erosion"
+          ],
+          "source_references": [
+            "Terrorism definition",
+            "State-proxy boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Three-category firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TERRORISM -> broad coercive violence category",
+            "INSURGENCY -> armed rebellion with claimed social support",
+            "NAXALISM -> Maoist guerrilla route to state power",
+            "RULE -> overlap does not erase distinct objectives"
+          ],
+          "source_references": [
+            "Terrorism-insurgency-Naxalism",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Manifestation matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "HINTERLAND MODULES | J&K PROXY VIOLENCE",
+            "NORTH-EAST INSURGENCY | LEFT-WING EXTREMISM",
+            "FOR EACH -> actor + vulnerability + finance + response",
+            "CURRENT EXAMPLE -> use dated official status only"
+          ],
+          "source_references": [
+            "Manifestation categories",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Funding disruption chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SOURCE -> sponsor / extortion / contraband / charity",
+            "TRANSFER -> hawala / cash / counterfeit / digital channel",
+            "USE -> recruitment / logistics / propaganda",
+            "RESPONSE -> intelligence + financial investigation + prosecution"
+          ],
+          "source_references": [
+            "Funding architecture",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Counter-terror function chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "PREVENTION / INTELLIGENCE",
+            "-> CONTAINMENT / SPECIALISED RESPONSE",
+            "-> INVESTIGATION",
+            "-> PROSECUTION",
+            "-> RECOVERY / RESILIENCE"
+          ],
+          "source_references": [
+            "Counter-terror chain",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Post-26/11 institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NIA -> scheduled-offence investigation",
+            "MAC / SMAC -> intelligence sharing",
+            "NATGRID -> data-linkage architecture",
+            "NCTC -> contested centralisation proposal",
+            "NSG HUBS -> specialised crisis response"
+          ],
+          "source_references": [
+            "Post-26/11 build-out",
+            "NIA boundary",
+            "MAC-SMAC boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Federal response architecture",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "STATE POLICE -> first response, scene, evidence, local order",
+            "CENTRAL AGENCIES -> scheduled investigation / intelligence support",
+            "SPECIAL COURTS -> trial",
+            "RULE -> cooperation without institutional substitution"
+          ],
+          "source_references": [
+            "State-police primacy",
+            "NIA boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "NCTC decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NEED -> real-time national coordination",
+            "PROPOSED POWER -> search / arrest / investigation",
+            "OBJECTION -> State police competence + intelligence-arrest separation",
+            "DURABLE MODEL -> coordinated platforms and case-based investigation"
+          ],
+          "source_references": [
+            "NCTC federalism issue",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "UAPA designation ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "CENTRAL NOTIFICATION -> FOURTH SCHEDULE DESIGNATION",
+            "APPLICATION / REVIEW -> STATUTORY ROUTE",
+            "ARREST / CHARGE-SHEET -> SEPARATE CRIMINAL PROCESS",
+            "CONVICTION -> JUDICIAL FINDING AFTER TRIAL"
+          ],
+          "source_references": [
+            "UAPA 2019 designation",
+            "Designation-conviction firewall",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "NIA amendment map",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "OUTSIDE INDIA -> Indian citizen / interest nexus",
+            "EXPANDED SCHEDULE -> specified additional offences",
+            "SPECIAL COURTS -> Sessions Courts may be designated",
+            "RULE -> jurisdictional power is not a case outcome",
+            "MUST REMEMBER: Terrorism analysis separates contested definition, ideological or...",
+            "MUST REMEMBER: Terrorism analysis separates contested definition, ideological or..."
+          ],
+          "source_references": [
+            "NIA 2019 amendment",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "BNS-UAPA forum choice",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BNS 113 -> general penal law",
+            "UAPA -> special anti-terror law",
+            "SP-RANK DECISION -> route selected",
+            "CONSEQUENCE -> agency, bail and sanction framework differ",
+            "RULE -> both remain in force",
+            "CLOSE DISTINCTION: Designation is not conviction, prevention is not response,...",
+            "CLOSE DISTINCTION: Designation is not conviction, prevention is not response,..."
+          ],
+          "source_references": [
+            "BNS-UAPA concurrency",
+            "UAPA bail boundary",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PRAHAAR policy rail",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "PREVENT -> RESPOND -> AGGREGATE CAPACITIES",
+            "RIGHTS / RULE OF LAW -> ATTENUATE CONDITIONS",
+            "ALIGN INTERNATIONALLY -> RECOVER / BUILD RESILIENCE",
+            "QUALIFY -> policy, not agency; framework, not outcome",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use UAPA, NIA, FATF and Indian...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use UAPA, NIA, FATF and Indian..."
+          ],
+          "source_references": [
+            "PRAHAAR policy",
+            "Policy-agency-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\02_Terrorism-and-Counter-Terror-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g2\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\g3\\internal-security-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

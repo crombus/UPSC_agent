@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T10:20:33+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0a5206547991ed99963775d0e6b01c3c13f5cd396c2f10a0c68db6811a18ada5",
+    "sha256_after": "0a5206547991ed99963775d0e6b01c3c13f5cd396c2f10a0c68db6811a18ada5",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Ethics": 1
+  },
+  "sections": {
+    "Ethics — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11735,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2007,
+    "json_count": 5503,
+    "total_bytes": 4269337481,
+    "by_extension": {
+      ".json": 5503,
+      ".md": 2007,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-04",
+      "topic_title": "Aptitude and Foundational Values for Civil Service",
+      "subject": "Ethics",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 4,
+      "source_record_id": "ethics-04:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g3\\ethics-04_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "214d96404a244c2505d7ad33a8f3170063b0bbcbe577ae828d7f3cc1ad67e968",
+          "output_sha256": "214d96404a244c2505d7ad33a8f3170063b0bbcbe577ae828d7f3cc1ad67e968",
+          "source_output_equal": true,
+          "bytes": 465085
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-04\\g3\\ethics-04_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "10be30d2514be5dfdd70503be2a1403046b9f83954a608ef771a6466c90df4c1",
+          "output_sha256": "10be30d2514be5dfdd70503be2a1403046b9f83954a608ef771a6466c90df4c1",
+          "source_output_equal": true,
+          "bytes": 336599
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "7c558fe2adfe0788a46329adbe220a23b0c332eebd29cde981417ee3a48e3cb5",
+          "output_sha256": "7c558fe2adfe0788a46329adbe220a23b0c332eebd29cde981417ee3a48e3cb5",
+          "source_output_equal": true,
+          "bytes": 2643721
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "d98c2cc9fd6283c35f24e7066f55a41e21db0737122a623ea3f4fff40593eee1",
+          "output_sha256": "d98c2cc9fd6283c35f24e7066f55a41e21db0737122a623ea3f4fff40593eee1",
+          "source_output_equal": true,
+          "bytes": 3413578
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "90cfae871040432c02b40a409e646c2e0b2cbf344fd65d1854a587f853020ea4",
+          "output_sha256": "90cfae871040432c02b40a409e646c2e0b2cbf344fd65d1854a587f853020ea4",
+          "source_output_equal": true,
+          "bytes": 2328129
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "27f5d0e07e563e2cd5be56803414dd90231c2ee048775dfa8489a147ca84c17c",
+          "output_sha256": "27f5d0e07e563e2cd5be56803414dd90231c2ee048775dfa8489a147ca84c17c",
+          "source_output_equal": true,
+          "bytes": 13086
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-04\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "0c8d0288aea9c1a261d1be1959fa6798567291761e0e17da3ffc4b7946ee68e2",
+          "output_sha256": "0c8d0288aea9c1a261d1be1959fa6798567291761e0e17da3ffc4b7946ee68e2",
+          "source_output_equal": true,
+          "source_text_sha256": "27f5d0e07e563e2cd5be56803414dd90231c2ee048775dfa8489a147ca84c17c",
+          "normalized_text_equal": true,
+          "bytes": 61337
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 30,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 30,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 30,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 30,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 31,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 30,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 31,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 30,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 29,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 30,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 74,
+        "solved_practice_workbook": 44,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 74,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 44,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12486
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

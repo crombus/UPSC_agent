@@ -1,0 +1,1075 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-04",
+  "subject": "Internal-Security",
+  "title": "NORTH-EAST INSURGENCY AND PEACE PROCESSES",
+  "short_route": "ISOLATION-TO-IDENTITY CHAIN → STATEHOOD TIMELINE → AUTONOMY INSTRUMENT MAP → CHALLENGE MATRIX → COMPOSITE RESPONSE SYSTEM → PEACE-INSTRUMENT LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-04-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "7237f635aa399b1fb83114f36074bc83fa788e72f8af73bfb52f1e6cfef32149",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ISOLATION-TO-IDENTITY CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ISOLATION-TO-IDENTITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "EXCLUDED-AREA GOVERNANCE + LIMITED WIDER CONTACT",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINCT IDENTITY AND POLITICAL EXPERIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "POST-INDEPENDENCE ASSIMILATION FEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "STATEHOOD DEMANDS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EXCLUDED-AREA GOVERNANCE + LIMITED WIDER CONTACT",
+        "DISTINCT IDENTITY AND POLITICAL EXPERIENCE",
+        "POST-INDEPENDENCE ASSIMILATION FEAR",
+        "AUTONOMY / STATEHOOD DEMANDS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "EXCLUDED-AREA GOVERNANCE + LIMITED WIDER CONTACT",
+            "DISTINCT IDENTITY AND POLITICAL EXPERIENCE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POST-INDEPENDENCE ASSIMILATION FEAR",
+            "AUTONOMY / STATEHOOD DEMANDS"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "EXCLUDED-AREA GOVERNANCE + LIMITED WIDER CONTACT",
+            "DISTINCT IDENTITY AND POLITICAL EXPERIENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISTINCT IDENTITY AND POLITICAL EXPERIENCE; POST-INDEPENDENCE ASSIMILATION FEAR; AUTONOMY / STATEHOOD DEMANDS.",
+      "source_references": [
+        "Historical-isolation condition",
+        "Assamisation trigger",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STATEHOOD TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "STATEHOOD TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL ACCOMMODATION CAN CHANGE CONFLICT INCENTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "1963 → NAGALAND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1963 → NAGALAND",
+        "1972 → MEGHALAYA / MANIPUR / TRIPURA",
+        "1987 → MIZORAM / ARUNACHAL PRADESH",
+        "LESSON → political accommodation can change conflict incentives"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "1963 → NAGALAND",
+            "1972 → MEGHALAYA / MANIPUR / TRIPURA"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1987 → MIZORAM / ARUNACHAL PRADESH",
+            "LESSON → political accommodation can change conflict incentives"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "1963 → NAGALAND",
+            "1972 → MEGHALAYA / MANIPUR / TRIPURA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → political accommodation can change conflict incentives.",
+      "source_references": [
+        "Statehood accommodation",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "AUTONOMY INSTRUMENT MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AUTONOMY INSTRUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SIXTH SCHEDULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSAM, MEGHALAYA, TRIPURA, MIZORAM TRIBAL AREAS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 371A",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 371C",
+          "role": "institution"
+        },
+        {
+          "text": "MANIPUR HILL-AREA MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "AUTONOMY INSTRUMENTS ARE NOT INTERCHANGEABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SIXTH SCHEDULE → Assam, Meghalaya, Tripura, Mizoram tribal areas",
+        "ARTICLE 371A → Nagaland",
+        "ARTICLE 371C → Manipur hill-area mechanism",
+        "RULE → autonomy instruments are not interchangeable"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "SIXTH SCHEDULE → Assam, Meghalaya, Tripura, Mizoram tribal areas",
+          "ARTICLE 371C → Manipur hill-area mechanism",
+          "SIXTH SCHEDULE → Assam, Meghalaya, Tripura, Mizoram tribal areas"
+        ],
+        [
+          "ARTICLE 371A → Nagaland",
+          "RULE → autonomy instruments are not interchangeable",
+          "ARTICLE 371A → Nagaland"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SIXTH SCHEDULE → Assam, Meghalaya, Tripura, Mizoram tribal areas",
+            "ARTICLE 371A → Nagaland"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ARTICLE 371C → Manipur hill-area mechanism",
+            "RULE → autonomy instruments are not interchangeable"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "SIXTH SCHEDULE → Assam, Meghalaya, Tripura, Mizoram tribal areas",
+            "ARTICLE 371A → Nagaland"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIXTH SCHEDULE → Assam, Meghalaya, Tripura, Mizoram tribal areas.",
+      "source_references": [
+        "Sixth Schedule boundary",
+        "Articles 371A-371C boundary",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHALLENGE MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHALLENGE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "INTER-ETHNIC TENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "NARCOTICS ROUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "TRUST DEFICIT",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTIFY STATE, ACTOR AND DOMINANT PATHWAY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "IDENTITY / AUTONOMY",
+        "INTER-ETHNIC TENSION",
+        "BORDER / SANCTUARY",
+        "ARMS / NARCOTICS ROUTES",
+        "GOVERNANCE / TRUST DEFICIT"
+      ],
+      "matrix": [
+        [
+          "IDENTITY / AUTONOMY",
+          "INTER-ETHNIC TENSION"
+        ],
+        [
+          "BORDER / SANCTUARY",
+          "ARMS / NARCOTICS ROUTES"
+        ],
+        [
+          "UNDERDEVELOPMENT",
+          "GOVERNANCE / TRUST DEFICIT"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "IDENTITY / AUTONOMY",
+            "INTER-ETHNIC TENSION"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BORDER / SANCTUARY",
+            "ARMS / NARCOTICS ROUTES"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "GOVERNANCE / TRUST DEFICIT",
+            "ANSWER → identify State, actor and dominant pathway"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER → identify State, actor and dominant pathway.",
+      "source_references": [
+        "Insurgency-driver matrix",
+        "Myanmar-border linkage",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COMPOSITE RESPONSE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPOSITE RESPONSE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "LAWFUL SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTAIN CONTINUING VIOLENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "REDUCE ISOLATION",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL END-STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "TALKS / ACCORDS → accommodation",
+        "LAWFUL SECURITY → contain continuing violence",
+        "DEVELOPMENT / CONNECTIVITY → reduce isolation",
+        "AUTONOMY / REPRESENTATION → political end-state"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "TALKS / ACCORDS → accommodation",
+            "LAWFUL SECURITY → contain continuing violence"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DEVELOPMENT / CONNECTIVITY → reduce isolation",
+            "AUTONOMY / REPRESENTATION → political end-state"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "TALKS / ACCORDS → accommodation",
+            "LAWFUL SECURITY → contain continuing violence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEVELOPMENT / CONNECTIVITY → reduce isolation; AUTONOMY / REPRESENTATION → political end-state.",
+      "source_references": [
+        "Composite strategy",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PEACE-INSTRUMENT LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PEACE-INSTRUMENT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "1 SOO",
+          "role": "outcome"
+        },
+        {
+          "text": "2 FRAMEWORK AGREEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "3 MEMORANDUM OF SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4 VERIFIED IMPLEMENTATION",
+          "role": "primary"
+        },
+        {
+          "text": "EACH RUNG PROVES ONLY ITSELF",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1 SOO / CEASEFIRE",
+        "2 FRAMEWORK AGREEMENT",
+        "3 MEMORANDUM OF SETTLEMENT / ACCORD",
+        "4 VERIFIED IMPLEMENTATION",
+        "RULE → each rung proves only itself"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "1 SOO / CEASEFIRE",
+            "2 FRAMEWORK AGREEMENT"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 MEMORANDUM OF SETTLEMENT / ACCORD",
+            "4 VERIFIED IMPLEMENTATION"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → each rung proves only itself",
+            "1 SOO / CEASEFIRE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4 VERIFIED IMPLEMENTATION; RULE → each rung proves only itself.",
+      "source_references": [
+        "SoO boundary",
+        "Framework-agreement boundary",
+        "Settlement boundary",
+        "Implementation boundary",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ACCORD MAP 2015-2020",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ACCORD MAP 2015-2020",
+          "role": "primary"
+        },
+        {
+          "text": "2015 NSCN(IM)",
+          "role": "outcome"
+        },
+        {
+          "text": "2019 NLFT(SD)",
+          "role": "comparison"
+        },
+        {
+          "text": "2020 BODO",
+          "role": "evidence"
+        },
+        {
+          "text": "2020 BRU-REANG",
+          "role": "primary"
+        },
+        {
+          "text": "PERMANENT-SETTLEMENT AGREEMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "2015 NSCN(IM) → FRAMEWORK",
+        "2019 NLFT(SD) → AGREEMENT",
+        "2020 BODO → SETTLEMENT",
+        "2020 BRU-REANG → PERMANENT-SETTLEMENT AGREEMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "2015 NSCN(IM) → FRAMEWORK",
+            "2019 NLFT(SD) → AGREEMENT"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2020 BODO → SETTLEMENT",
+            "2020 BRU-REANG → PERMANENT-SETTLEMENT AGREEMENT"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "2015 NSCN(IM) → FRAMEWORK",
+            "2019 NLFT(SD) → AGREEMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2020 BODO → SETTLEMENT; 2020 BRU-REANG → PERMANENT-SETTLEMENT AGREEMENT.",
+      "source_references": [
+        "Past-decade accord map",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ACCORD MAP 2021-2024",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ACCORD MAP 2021-2024",
+          "role": "primary"
+        },
+        {
+          "text": "2021 KARBI ANGLONG",
+          "role": "outcome"
+        },
+        {
+          "text": "2022 ASSAM-MEGHALAYA",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER-STATE BOUNDARY AGREEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "2023 DNLA",
+          "role": "primary"
+        },
+        {
+          "text": "ULFA PRO-TALKS",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINCT INSTRUMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "2024 TIPRA MOTHA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2021 KARBI ANGLONG → AGREEMENT",
+        "2022 ASSAM-MEGHALAYA → INTER-STATE BOUNDARY AGREEMENT",
+        "2023 DNLA / UNLF / ULFA PRO-TALKS → DISTINCT INSTRUMENTS",
+        "2024 TIPRA MOTHA → TRIPARTITE AGREEMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "2021 KARBI ANGLONG → AGREEMENT",
+            "2022 ASSAM-MEGHALAYA → INTER-STATE BOUNDARY AGREEMENT"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2023 DNLA / UNLF / ULFA PRO-TALKS → DISTINCT INSTRUMENTS",
+            "2024 TIPRA MOTHA → TRIPARTITE AGREEMENT"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "2021 KARBI ANGLONG → AGREEMENT",
+            "2022 ASSAM-MEGHALAYA → INTER-STATE BOUNDARY AGREEMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2023 DNLA / UNLF / ULFA PRO-TALKS → DISTINCT INSTRUMENTS.",
+      "source_references": [
+        "Past-decade accord map",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MANIPUR SOO STATUS",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MANIPUR SOO STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "4 SEP 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "REVISED UPF",
+          "role": "comparison"
+        },
+        {
+          "text": "KNO GROUND RULES SIGNED",
+          "role": "evidence"
+        },
+        {
+          "text": "STATED VALIDITY",
+          "role": "primary"
+        },
+        {
+          "text": "THROUGH 3 SEP 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "CESSATION-OF-HOSTILITIES RUNG",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT PROVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "4 SEP 2025 → REVISED UPF / KNO GROUND RULES SIGNED",
+        "STATED VALIDITY → THROUGH 3 SEP 2026",
+        "STATUS → CESSATION-OF-HOSTILITIES RUNG",
+        "NOT PROVED → FINAL SETTLEMENT / DISARMAMENT / REINTEGRATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "4 SEP 2025 → REVISED UPF / KNO GROUND RULES SIGNED",
+            "STATED VALIDITY → THROUGH 3 SEP 2026"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATUS → CESSATION-OF-HOSTILITIES RUNG",
+            "NOT PROVED → FINAL SETTLEMENT / DISARMAMENT / REINTEGRATION"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "4 SEP 2025 → REVISED UPF / KNO GROUND RULES SIGNED",
+            "STATED VALIDITY → THROUGH 3 SEP 2026"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT PROVED → FINAL SETTLEMENT / DISARMAMENT / REINTEGRATION.",
+      "source_references": [
+        "UPF-KNO SoO status",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "AFSPA LEGAL ARCHITECTURE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AFSPA LEGAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 3",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTURBED-AREA NOTIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 4",
+          "role": "evidence"
+        },
+        {
+          "text": "POWERS IN NOTIFIED AREA",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 6",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIOR CENTRAL SANCTION BEFORE PROSECUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONALITY WITH SAFEGUARDS; NO ABSOLUTE IMMUNITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECTION 3 → DISTURBED-AREA NOTIFICATION",
+        "SECTION 4 → POWERS IN NOTIFIED AREA",
+        "SECTION 6 → PRIOR CENTRAL SANCTION BEFORE PROSECUTION",
+        "COURTS → CONSTITUTIONALITY WITH SAFEGUARDS; NO ABSOLUTE IMMUNITY",
+        "MUST REMEMBER: North-East insurgencies differ by history, territorial demand, ethnic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SECTION 3 → DISTURBED-AREA NOTIFICATION",
+            "SECTION 4 → POWERS IN NOTIFIED AREA"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SECTION 6 → PRIOR CENTRAL SANCTION BEFORE PROSECUTION",
+            "COURTS → CONSTITUTIONALITY WITH SAFEGUARDS; NO ABSOLUTE IMMUNITY"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: North-East insurgencies differ by history, territorial demand, ethnic...",
+            "SECTION 3 → DISTURBED-AREA NOTIFICATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: North-East insurgencies differ by history, territorial demand, ethnic.",
+      "source_references": [
+        "AFSPA sections",
+        "AFSPA judicial boundary",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-04_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FMR AND BORDER-POLICY BOUNDARY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FMR AND BORDER-POLICY BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "8 FEB 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "DECISION ANNOUNCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SECURITY CONCERN",
+          "role": "evidence"
+        },
+        {
+          "text": "MISUSE, MOVEMENT, NARCOTICS, IDENTITY CONFLICT",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY COST",
+          "role": "outcome"
+        },
+        {
+          "text": "KINSHIP, LIVELIHOOD AND SMALL TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATIVE REGIME REQUIRES FORMAL NOTIFICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "8 FEB 2024 → DECISION ANNOUNCEMENT",
+        "SECURITY CONCERN → misuse, movement, narcotics, identity conflict",
+        "COMMUNITY COST → kinship, livelihood and small trade",
+        "RULE → operative regime requires formal notification",
+        "CLOSE DISTINCTION: Ceasefire is not final settlement, Suspension of Operations is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "8 FEB 2024 → DECISION ANNOUNCEMENT",
+            "SECURITY CONCERN → misuse, movement, narcotics, identity conflict"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMMUNITY COST → kinship, livelihood and small trade",
+            "RULE → operative regime requires formal notification"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Ceasefire is not final settlement, Suspension of Operations is not...",
+            "8 FEB 2024 → DECISION ANNOUNCEMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Ceasefire is not final settlement, Suspension of Operations is not.",
+      "source_references": [
+        "FMR decision boundary",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-04_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ MAP AND END-STATE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ MAP AND END-STATE",
+          "role": "institution"
+        },
+        {
+          "text": "STATE + FACTION + DATE + INSTRUMENT RUNG",
+          "role": "institution"
+        },
+        {
+          "text": "AFSPA ACCOUNTABILITY + ACCORD IMPLEMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RECONCILIATION + BORDER GOVERNANCE + CLEAR MANDATES",
+          "role": "evidence"
+        },
+        {
+          "text": "VERIFIED DELIVERY, NOT SIGNATURE COUNT",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NAME PARTIES, DATE AND LEGAL OR POLITICAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CHALLENGES → IDENTITY / BORDER / DEVELOPMENT / TRUST",
+        "MAP → STATE + FACTION + DATE + INSTRUMENT RUNG",
+        "AUDIT → AFSPA ACCOUNTABILITY + ACCORD IMPLEMENTATION",
+        "REFORM → RECONCILIATION + BORDER GOVERNANCE + CLEAR MANDATES",
+        "CONCLUDE → VERIFIED DELIVERY, NOT SIGNATURE COUNT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CHALLENGES → IDENTITY / BORDER / DEVELOPMENT / TRUST",
+            "MAP → STATE + FACTION + DATE + INSTRUMENT RUNG"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "AUDIT → AFSPA ACCOUNTABILITY + ACCORD IMPLEMENTATION",
+            "REFORM → RECONCILIATION + BORDER GOVERNANCE + CLEAR MANDATES"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUDE → VERIFIED DELIVERY, NOT SIGNATURE COUNT",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name parties, date and legal or political..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name parties, date and legal or political...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name parties, date and legal or political.",
+      "source_references": [
+        "Assam-Rifles mandate issue",
+        "Peace-process end-state",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g2\\internal-security-04_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Internal-Security\\learning-sessions\\v2\\subject-wide-syllabus\\internal-security-04_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-04\\g3\\internal-security-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SUSPENSION OF OPERATIONS (SOO) FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "THE STANDARD MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ASSAM RIFLES' DUAL AND CONTESTED MANDATE",
+          "role": "evidence"
+        },
+        {
+          "text": "VISIONIAS RECORDS THAT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 356 AS THE RESIDUAL INSTRUMENT",
+          "role": "institution"
+        },
+        {
+          "text": "WHERE A STATE'S",
+          "role": "institution"
+        },
+        {
+          "text": "AFSPA'S JUDICIAL FRAME AS THE ACCOUNTABILITY INSTRUMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "Suspension of Operations (SoO) framework: the standard mechanism",
+            "CAUTION: Assam Rifles' dual and contested mandate: VisionIAS records that",
+            "CAUTION: Article 356 as the residual instrument: where a State's",
+            "CAUTION: AFSPA's judicial frame as the accountability instrument:"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Current-anchor institutional detail: the precise, current list of",
+            "CAUTION: Vibrant Villages Programme (2022) and similar border-village",
+            "CAUTION: Bodo-Muslim 2012 clashes as an identity-migration boundary case:",
+            "CAUTION: AFSPA's Irom Sharmila protest as a legitimacy boundary case:"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: The 2024 FMR-scrapping decision as a boundary case between IR and Internal",
+            "CAUTION: Statehood/autonomy accommodation resolves group-level demands but",
+            "CAUTION: SoO agreements manage violence but do not by themselves resolve",
+            "CAUTION: Accommodation of one group can re-open a boundary question with"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-12",
+  "subject": "Essay",
+  "title": "INDIA-CENTRIC ILLUSTRATION BANK",
+  "short_route": "INDIA-CENTRIC ILLUSTRATION BANK: PROMPT → INDIA-CENTRIC ILLUSTRATION BANK: CONCEPT → INDIA-CENTRIC ILLUSTRATION BANK: DIMENSION → INDIA-CENTRIC ILLUSTRATION BANK: DECISION → INDIA-CENTRIC ILLUSTRATION BANK: MECHANISM → INDIA-CENTRIC ILLUSTRATION BANK: COUNTER-VIEW",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-12_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-12-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "9e7360b8118380ab03967d45ef3b38d1da21d2a631d436b93bf2cc21f0f45719",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE ILLUSTRATION BANK OTHER TOPICS POI",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HISTORICAL, CONSTITUTIONAL, STATUTORY OR POLICY EXAM",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE AND SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL FACTS. EVERY ROW NAMES A SOURCE STATUS AN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi",
+        "CORE TERMS IN PLAIN LANGUAGE → historical, constitutional, statutory or policy exam",
+        "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi",
+            "CORE TERMS IN PLAIN LANGUAGE → historical, constitutional, statutory or policy exam"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in t"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Evidence and source basis",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE AND SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL FACTS. EVERY ROW NAMES A SOURCE STATUS AN",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "EVERY ILLUSTRATION MUST BE USABLE IN T",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2.",
+        "CROSS-DOMAIN ILLUSTRATION BANK — C → The function and limitation columns are analytical j",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in t"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2.",
+            "CROSS-DOMAIN ILLUSTRATION BANK — C → The function and limitation columns are analytical j"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Evidence and source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Cross-domain illustration bank — claim → fact/source status → function →"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. WHAT SPECIFIC CLAIM DOES THIS EXAMPLE SUPPORT? 2.",
+          "role": "evidence"
+        },
+        {
+          "text": "CROSS-DOMAIN ILLUSTRATION BANK — C",
+          "role": "primary"
+        },
+        {
+          "text": "THE FUNCTION AND LIMITATION COLUMNS ARE ANALYTICAL J",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTION, REUSE AND REFRESH PROTO",
+          "role": "comparison"
+        },
+        {
+          "text": "PROMPT CLAIM - CHOOSE A CROSS-DOMAIN EXAMPLE - STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2.",
+        "CROSS-DOMAIN ILLUSTRATION BANK — C → The function and limitation columns are analytical j",
+        "SELECTION, REUSE AND REFRESH PROTO → PROMPT CLAIM - choose a cross-domain example - state",
+        "SELECTION, REUSE AND REFRESH PROTO → Reuse is allowed only when the paragraph claim and",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2.",
+          "SELECTION, REUSE AND REFRESH PROTO → PROMPT CLAIM - choose a cross-domain example - state",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "CROSS-DOMAIN ILLUSTRATION BANK — C → The function and limitation columns are analytical j",
+          "SELECTION, REUSE AND REFRESH PROTO → Reuse is allowed only when the paragraph claim and s",
+          "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2.",
+            "CROSS-DOMAIN ILLUSTRATION BANK — C → The function and limitation columns are analytical j"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SELECTION, REUSE AND REFRESH PROTO → PROMPT CLAIM - choose a cross-domain example - state",
+            "SELECTION, REUSE AND REFRESH PROTO → Reuse is allowed only when the paragraph claim and s"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "Cross-domain illustration bank — claim → fact/source status → function →",
+        "Selection, reuse and refresh protocol",
+        "Selection, reuse and refresh protocol — 2"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTION, REUSE AND REFRESH PROTO",
+          "role": "comparison"
+        },
+        {
+          "text": "PROMPT CLAIM - CHOOSE A CROSS-DOMAIN EXAMPLE - STATE",
+          "role": "institution"
+        },
+        {
+          "text": "REUSE IS ALLOWED ONLY WHEN THE PARAGRAPH CLAIM AND",
+          "role": "primary"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "MATCH THE ILLUSTRATION TO THE SPECIFIC MECHANISM IN",
+          "role": "mechanism"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SELECTION, REUSE AND REFRESH PROTO → PROMPT CLAIM - choose a cross-domain example - state",
+        "SELECTION, REUSE AND REFRESH PROTO → Reuse is allowed only when the paragraph claim and",
+        "THESIS OPTIONS AND SELECTION → Match the illustration to the specific mechanism in",
+        "SIMPLE ESSAY ARCHITECTURE → Budget one illustration per argument-map cycle (07)",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "SELECTION, REUSE AND REFRESH PROTO → PROMPT CLAIM - choose a cross-domain example - state",
+            "SELECTION, REUSE AND REFRESH PROTO → Reuse is allowed only when the paragraph claim and s"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Match the illustration to the specific mechanism in",
+            "SIMPLE ESSAY ARCHITECTURE → Budget one illustration per argument-map cycle (07)"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "SELECTION, REUSE AND REFRESH PROTO → PROMPT CLAIM - choose a cross-domain example - state"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Selection, reuse and refresh protocol",
+        "Selection, reuse and refresh protocol — 2",
+        "Thesis options and selection",
+        "Simple essay architecture"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MATCH THE ILLUSTRATION TO THE SPECIFIC MECHANISM IN",
+          "role": "mechanism"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "BUDGET ONE ILLUSTRATION PER ARGUMENT-MAP CYCLE (07)",
+          "role": "mechanism"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE YOUR MOST VIVID, WELL-VERIFIED ILLUSTRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS OPTIONS AND SELECTION → Match the illustration to the specific mechanism in",
+        "SIMPLE ESSAY ARCHITECTURE → Budget one illustration per argument-map cycle (07)",
+        "OPENING, BODY AND CLOSURE MOVES → Reserve your most vivid, well-verified illustration",
+        "TRAPS AND REPAIR MOVES → without connecting it to a specific claim). → Repair",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → Match the illustration to the specific mechanism in",
+            "SIMPLE ESSAY ARCHITECTURE → Budget one illustration per argument-map cycle (07)"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Reserve your most vivid, well-verified illustration",
+            "TRAPS AND REPAIR MOVES → without connecting it to a specific claim). → Repair"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "THESIS OPTIONS AND SELECTION → Match the illustration to the specific mechanism in"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Traps and repair moves"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE YOUR MOST VIVID, WELL-VERIFIED ILLUSTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "primary"
+        },
+        {
+          "text": "WITHOUT CONNECTING IT TO A SPECIFIC CLAIM).",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "→ REPAIR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPENING, BODY AND CLOSURE MOVES → Reserve your most vivid, well-verified illustration",
+        "TRAPS AND REPAIR MOVES → without connecting it to a specific claim). → Repair",
+        "TRAPS AND REPAIR MOVES — 2 → → Repair: state the fact qualitatively and verifiabl",
+        "TRAPS AND REPAIR MOVES — 3 → new function stated. → Repair: prefer a fresh",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Reserve your most vivid, well-verified illustration",
+            "TRAPS AND REPAIR MOVES → without connecting it to a specific claim). → Repair"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 2 → → Repair: state the fact qualitatively and verifiabl",
+            "TRAPS AND REPAIR MOVES — 3 → new function stated. → Repair: prefer a fresh, funct"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "OPENING, BODY AND CLOSURE MOVES → Reserve your most vivid, well-verified illustration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Opening, body and closure moves",
+        "Traps and repair moves",
+        "Traps and repair moves — 2",
+        "Traps and repair moves — 3"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "→ REPAIR",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE THE FACT QUALITATIVELY AND VERIFIABL",
+          "role": "institution"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 3",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW FUNCTION STATED.",
+          "role": "comparison"
+        },
+        {
+          "text": "PREFER A FRESH, FUNCT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES — 2 → → Repair: state the fact qualitatively and verifiabl",
+        "TRAPS AND REPAIR MOVES — 3 → new function stated. → Repair: prefer a fresh",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a mature illustration bank is organised",
+        "CONCEPT DEFINITION AND TAXONOMY → essays, or repeatedly across practice attempts, with",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "TRAPS AND REPAIR MOVES — 2 → → Repair: state the fact qualitatively and verifiabl",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a mature illustration bank is organised",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "TRAPS AND REPAIR MOVES — 3 → new function stated. → Repair: prefer a fresh, funct",
+          "CONCEPT DEFINITION AND TAXONOMY → essays, or repeatedly across practice attempts, with",
+          "TRAPS AND REPAIR MOVES — 2 → → Repair: state the fact qualitatively and verifiabl"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 2 → → Repair: state the fact qualitatively and verifiabl",
+            "TRAPS AND REPAIR MOVES — 3 → new function stated. → Repair: prefer a fresh, funct"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a mature illustration bank is organised",
+            "CONCEPT DEFINITION AND TAXONOMY → essays, or repeatedly across practice attempts, with"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES — 2 → → Repair: state the fact qualitatively and verifiabl"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves — 2",
+        "Traps and repair moves — 3",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "A MATURE ILLUSTRATION BANK IS ORGANISED",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "ESSAYS, OR REPEATEDLY ACROSS PRACTICE ATTEMPTS, WITH",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "ON AN EVOLVING POLICY SITUATION, REQUIRING A CHECK A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a mature illustration bank is organised",
+        "CONCEPT DEFINITION AND TAXONOMY → essays, or repeatedly across practice attempts, with",
+        "CONCEPT DEFINITION AND TAXONOMY — → on an evolving policy situation, requiring a check a",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → Hidden assumption to avoid: that reusing a familiar",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a mature illustration bank is organised",
+            "CONCEPT DEFINITION AND TAXONOMY → essays, or repeatedly across practice attempts, with"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → on an evolving policy situation, requiring a check a",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → Hidden assumption to avoid: that reusing a familiar"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a mature illustration bank is organised"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "ON AN EVOLVING POLICY SITUATION, REQUIRING A CHECK A",
+          "role": "evidence"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "primary"
+        },
+        {
+          "text": "HIDDEN ASSUMPTION TO AVOID",
+          "role": "outcome"
+        },
+        {
+          "text": "THAT REUSING A FAMILIAR",
+          "role": "comparison"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → on an evolving policy situation, requiring a check a",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → Hidden assumption to avoid: that reusing a familiar",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Classify each bank entry by the scale at which",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each illustration, note which stakeholder group",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → on an evolving policy situation, requiring a check a",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → Hidden assumption to avoid: that reusing a familiar"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Classify each bank entry by the scale at which its f",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each illustration, note which stakeholder group"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → on an evolving policy situation, requiring a check a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions",
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSIFY EACH BANK ENTRY BY THE SCALE AT WHICH",
+          "role": "evidence"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "FOR EACH ILLUSTRATION, NOTE WHICH STAKEHOLDER GROUP",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE ILLUSTRATION BANK OTHER TOPICS POI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Classify each bank entry by the scale at which",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each illustration, note which stakeholder group",
+        "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi",
+        "CORE TERMS IN PLAIN LANGUAGE → historical, constitutional, statutory or policy exam",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Classify each bank entry by the scale at which its f",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → For each illustration, note which stakeholder group"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi",
+            "CORE TERMS IN PLAIN LANGUAGE → historical, constitutional, statutory or policy exam"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Classify each bank entry by the scale at which its f"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE ILLUSTRATION BANK OTHER TOPICS POI",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HISTORICAL, CONSTITUTIONAL, STATUTORY OR POLICY EXAM",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE AND SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL FACTS. EVERY ROW NAMES A SOURCE STATUS AN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi",
+        "CORE TERMS IN PLAIN LANGUAGE → historical, constitutional, statutory or policy exam",
+        "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi",
+            "CORE TERMS IN PLAIN LANGUAGE → historical, constitutional, statutory or policy exam"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in t"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic is the illustration bank other topics poi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Evidence and source basis",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INDIA-CENTRIC ILLUSTRATION BANK: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INDIA-CENTRIC ILLUSTRATION BANK",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE AND SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL FACTS. EVERY ROW NAMES A SOURCE STATUS AN",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "EVERY ILLUSTRATION MUST BE USABLE IN T",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2.",
+        "CROSS-DOMAIN ILLUSTRATION BANK — C → The function and limitation columns are analytical j",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: every illustration must be usable in t"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example support? 2.",
+            "CROSS-DOMAIN ILLUSTRATION BANK — C → The function and limitation columns are analytical j"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "EVIDENCE AND SOURCE BASIS → historical facts. Every row names a source status an"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Evidence and source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Cross-domain illustration bank — claim → fact/source status → function →"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SINGLE-FUNCTION EXAMPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "USED FOR ONE SPECIFIC CLAIM ONLY (MOST",
+          "role": "comparison"
+        },
+        {
+          "text": "MULTI-FUNCTION EXAMPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE SAME UNDERLYING FACT, REUSED ACROSS",
+          "role": "primary"
+        },
+        {
+          "text": "ILLUSTRATION REUSE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "USING THE SAME EXAMPLE IN BOTH REQUIRED",
+          "role": "comparison"
+        },
+        {
+          "text": "REFRESH FLAG",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Single-function example: used for one specific claim only (most",
+            "Multi-function example: the same underlying fact, reused across",
+            "Illustration reuse risk: using the same example in both required",
+            "Refresh flag: a marker on any illustration whose currency depends"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Reuse without restated function (Section 3). → Protocol: always",
+            "NOT: Overstated proof value (Section 5). → Protocol: name the",
+            "NOT: Stale refresh-flagged example used without a currency check. →",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains)."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Core area: Extending the illustration bank with multi-claim examples, cross-prompt reuse discipline, and",
+            "a refresh protocol for any illustration that touches a live policy debate.",
+            "Tags: verified fact | CAUTION: strategy/inference | dated anchor | NOT: trap/boundary.",
+            "Concept definition and taxonomy - Single-function example: used for one specific claim only (most basic-file entries)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

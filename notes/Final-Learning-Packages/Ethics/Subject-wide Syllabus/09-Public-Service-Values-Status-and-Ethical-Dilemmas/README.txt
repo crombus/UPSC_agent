@@ -5,8 +5,8 @@ Topic: Public Service Values, Status and Ethical Dilemmas
 Subject: Ethics
 Section: Subject-wide Syllabus
 Catalogue number: 09
-Source record ID: ethics-09:learner-v2:g2
-Source generation: 2
+Source record ID: ethics-09:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

@@ -160,3 +160,49 @@ identifying, or use *which* with commas if extra information [REL]; 6 *pieces
 of furniture* [CNT]. Time: **6 minutes**. Record every missed code in the
 error log in `basic/05`.
 
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; prerequisite control of word classes, noun number/countability, pronouns, modifiers and verb form.
+- **Canonical ownership:** Owns functional word-class recognition, nouns, pronouns, adjective/adverb distinction, determiners as a class, verb forms and transitivity.
+- **Cross-topic boundary:** Full agreement, tense, articles, prepositions and conjunction systems belong to Topic 02; correction procedure and transformations belong to Topic 05.
+
+### Complete learner and answer route
+
+1. **Sentence skeleton:** Find the finite verb, subject, object or complement before naming word classes.
+2. **Functional word classes:** Classify noun, pronoun, verb, adjective, adverb, determiner, preposition and conjunction by use in context.
+3. **Countability:** Distinguish count, mass and count-shift meanings; use measure expressions where needed.
+4. **Number and agreement cues:** Handle irregular, zero, plural-only and apparently plural singular nouns.
+5. **Pronoun case:** Choose subject, object, possessive and reflexive forms by grammatical role.
+6. **Pronoun reference:** Give every pronoun one clear antecedent and repair ambiguity by recasting.
+7. **Relative clauses:** Distinguish restrictive from non-restrictive meaning before choosing relative and punctuation.
+8. **Singular they:** Accept clear modern singular they while preserving verb and noun-number logic.
+9. **Adjectives and adverbs:** Place modifiers beside their targets and distinguish form from function.
+10. **Comparison:** Use valid comparative forms and compare like with like.
+11. **Verb form and transitivity:** Choose principal parts and test object-taking capacity.
+12. **Editing and timing:** Make the smallest valid correction, flag legitimate variation and verify meaning.
+
+### Authority, variation and hostile-query gate
+
+Classify a word by its sentence function, preserve count meaning, identify the pronoun antecedent, distinguish accepted singular they, and test whether a verb has an object before passivising.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**finite verb; countability; collective noun; pronoun case; antecedent; restrictive; singular they; transitivity**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+

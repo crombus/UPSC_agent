@@ -5,8 +5,8 @@ Topic: Interdisciplinary Political Analysis
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 09
-Source record ID: political-theory-09:learner-v2:g3
-Source generation: 3
+Source record ID: political-theory-09:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

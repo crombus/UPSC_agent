@@ -1,0 +1,854 @@
+=== SCIENCE TOPIC 2 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-e0eda4c51665.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-e0eda4c51665-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11383,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1947,
+    "json_count": 5211,
+    "total_bytes": 4272754870,
+    "by_extension": {
+      ".json": 5211,
+      ".md": 1947,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-02", "record_id": "science-and-technology-02:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 96, "workbook_pages": 53, "main_layout": {"page_count": 96, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 53, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-03", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\02-satellites-navic-gagan-and-applications-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-02-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-02-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 3 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-ee668632366c.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-ee668632366c-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11389,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1948,
+    "json_count": 5216,
+    "total_bytes": 4272774754,
+    "by_extension": {
+      ".json": 5216,
+      ".md": 1948,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-03", "record_id": "science-and-technology-03:learner-v2:g3", "generation": 3, "metrics": {"question_count": 11, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 99, "workbook_pages": 57, "main_layout": {"page_count": 99, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 57, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-04", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\03-human-spaceflight-gaganyaan-and-planetary-missions-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-03-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-03-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 4 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-d6d8728c9171.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-d6d8728c9171-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11395,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1949,
+    "json_count": 5221,
+    "total_bytes": 4272794114,
+    "by_extension": {
+      ".json": 5221,
+      ".md": 1949,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-04", "record_id": "science-and-technology-04:learner-v2:g3", "generation": 3, "metrics": {"question_count": 7, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 91, "workbook_pages": 47, "main_layout": {"page_count": 91, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 47, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-05", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\04-nuclear-power-and-the-three-stage-programme-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-04-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-04-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 5 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-fc3abe68582a.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-fc3abe68582a-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11401,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1950,
+    "json_count": 5226,
+    "total_bytes": 4272813805,
+    "by_extension": {
+      ".json": 5226,
+      ".md": 1950,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-05", "record_id": "science-and-technology-05:learner-v2:g3", "generation": 3, "metrics": {"question_count": 7, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 92, "workbook_pages": 51, "main_layout": {"page_count": 92, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 51, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-06", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\05-nuclear-fusion-and-iter-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-05-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-05-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 6 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-711d19140ac6.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-711d19140ac6-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11407,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1951,
+    "json_count": 5231,
+    "total_bytes": 4272833306,
+    "by_extension": {
+      ".json": 5231,
+      ".md": 1951,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-06", "record_id": "science-and-technology-06:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 94, "workbook_pages": 51, "main_layout": {"page_count": 94, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 51, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-07", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\06-defence-r-d-drdo-and-missile-systems-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-06-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-06-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 7 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-1752df3ef42b.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-1752df3ef42b-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11413,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1952,
+    "json_count": 5236,
+    "total_bytes": 4272853411,
+    "by_extension": {
+      ".json": 5236,
+      ".md": 1952,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-07", "record_id": "science-and-technology-07:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 90, "workbook_pages": 48, "main_layout": {"page_count": 90, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 48, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-08", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\07-defence-indigenisation-atmanirbhar-and-procurement-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-07-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-07-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 8 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-2930bd4536a1.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-2930bd4536a1-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11419,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1953,
+    "json_count": 5241,
+    "total_bytes": 4272871810,
+    "by_extension": {
+      ".json": 5241,
+      ".md": 1953,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-08", "record_id": "science-and-technology-08:learner-v2:g3", "generation": 3, "metrics": {"question_count": 8, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 91, "workbook_pages": 49, "main_layout": {"page_count": 91, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 49, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-09", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\08-digital-india-and-india-stack-upi-aadhaar-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-08-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-08-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 9 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-32b8f06e248d.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-32b8f06e248d-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11425,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1954,
+    "json_count": 5246,
+    "total_bytes": 4272891559,
+    "by_extension": {
+      ".json": 5246,
+      ".md": 1954,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-09", "record_id": "science-and-technology-09:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 92, "workbook_pages": 51, "main_layout": {"page_count": 92, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 51, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-10", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\09-artificial-intelligence-governance-and-indiaai-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-09-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-09-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 10 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-3f6242cbad05.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-3f6242cbad05-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11431,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1955,
+    "json_count": 5251,
+    "total_bytes": 4272911845,
+    "by_extension": {
+      ".json": 5251,
+      ".md": 1955,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-10", "record_id": "science-and-technology-10:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 88, "workbook_pages": 47, "main_layout": {"page_count": 88, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 47, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-11", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\10-national-quantum-mission-and-quantum-technology-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-10-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-10-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 11 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-e8cf95bf7bed.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-e8cf95bf7bed-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11437,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1956,
+    "json_count": 5256,
+    "total_bytes": 4272931488,
+    "by_extension": {
+      ".json": 5256,
+      ".md": 1956,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-11", "record_id": "science-and-technology-11:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 101, "workbook_pages": 57, "main_layout": {"page_count": 101, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 57, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-12", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\11-semiconductor-mission-and-electronics-manufacturing-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-11-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-11-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 12 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-d2755a6f23c2.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-d2755a6f23c2-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11443,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1957,
+    "json_count": 5261,
+    "total_bytes": 4272951798,
+    "by_extension": {
+      ".json": 5261,
+      ".md": 1957,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-12", "record_id": "science-and-technology-12:learner-v2:g3", "generation": 3, "metrics": {"question_count": 12, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 110, "workbook_pages": 65, "main_layout": {"page_count": 110, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 65, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-13", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\12-data-protection-dpdp-act-and-cybersecurity-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-12-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-12-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 13 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-e784bafac728.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-e784bafac728-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11449,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1958,
+    "json_count": 5266,
+    "total_bytes": 4272972492,
+    "by_extension": {
+      ".json": 5266,
+      ".md": 1958,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-13", "record_id": "science-and-technology-13:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 98, "workbook_pages": 55, "main_layout": {"page_count": 98, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 55, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-14", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\13-biotechnology-fundamentals-and-dbt-missions-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-13-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-13-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 14 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-be2ab1984185.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-be2ab1984185-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11455,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1959,
+    "json_count": 5271,
+    "total_bytes": 4272991791,
+    "by_extension": {
+      ".json": 5271,
+      ".md": 1959,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-14", "record_id": "science-and-technology-14:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 100, "workbook_pages": 55, "main_layout": {"page_count": 100, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 55, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-15", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\14-genetic-engineering-gm-crops-and-crispr-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-14-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-14-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 15 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-b9dd3f165063.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-b9dd3f165063-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11461,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1960,
+    "json_count": 5276,
+    "total_bytes": 4273011274,
+    "by_extension": {
+      ".json": 5276,
+      ".md": 1960,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-15", "record_id": "science-and-technology-15:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 101, "workbook_pages": 56, "main_layout": {"page_count": 101, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 56, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-16", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\15-vaccines-monoclonal-antibodies-and-biopharma-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-15-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-15-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 16 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-8a17aaff94d4.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-8a17aaff94d4-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11467,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1961,
+    "json_count": 5281,
+    "total_bytes": 4273030521,
+    "by_extension": {
+      ".json": 5281,
+      ".md": 1961,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-16", "record_id": "science-and-technology-16:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 107, "workbook_pages": 64, "main_layout": {"page_count": 107, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 64, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-17", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\16-nanotechnology-and-applications-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-16-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-16-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 17 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-500542857cf2.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-500542857cf2-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11473,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1962,
+    "json_count": 5286,
+    "total_bytes": 4273051423,
+    "by_extension": {
+      ".json": 5286,
+      ".md": 1962,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-17", "record_id": "science-and-technology-17:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 94, "workbook_pages": 51, "main_layout": {"page_count": 94, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 51, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-18", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\17-intellectual-property-rights-and-patents-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-17-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-17-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 18 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-7cb6ef0af8fb.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-7cb6ef0af8fb-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11479,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1963,
+    "json_count": 5291,
+    "total_bytes": 4273071766,
+    "by_extension": {
+      ".json": 5291,
+      ".md": 1963,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-18", "record_id": "science-and-technology-18:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 106, "workbook_pages": 59, "main_layout": {"page_count": 106, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 59, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-19", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\18-electric-vehicles-batteries-and-alternative-fuels-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-18-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-18-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 19 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-ddd9983c31eb.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-ddd9983c31eb-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11485,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1964,
+    "json_count": 5296,
+    "total_bytes": 4273092302,
+    "by_extension": {
+      ".json": 5296,
+      ".md": 1964,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-19", "record_id": "science-and-technology-19:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 106, "workbook_pages": 60, "main_layout": {"page_count": 106, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 60, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-20", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\19-drones-uavs-and-robotics-policy-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-19-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-19-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 20 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-9c18a8fa0da9.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-9c18a8fa0da9-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11491,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1965,
+    "json_count": 5301,
+    "total_bytes": 4273111402,
+    "by_extension": {
+      ".json": 5301,
+      ".md": 1965,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-20", "record_id": "science-and-technology-20:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 111, "workbook_pages": 64, "main_layout": {"page_count": 111, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 64, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-21", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\20-emerging-materials-rare-earths-and-critical-minerals-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-20-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-20-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 21 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-87633e939050.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-87633e939050-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11497,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1966,
+    "json_count": 5306,
+    "total_bytes": 4273130906,
+    "by_extension": {
+      ".json": 5306,
+      ".md": 1966,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-21", "record_id": "science-and-technology-21:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 111, "workbook_pages": 66, "main_layout": {"page_count": 111, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 66, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-22", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\21-general-science-physics-fundamentals-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-21-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-21-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 22 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-9993b2850b00.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-9993b2850b00-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11503,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1967,
+    "json_count": 5311,
+    "total_bytes": 4273150771,
+    "by_extension": {
+      ".json": 5311,
+      ".md": 1967,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-22", "record_id": "science-and-technology-22:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 106, "workbook_pages": 61, "main_layout": {"page_count": 106, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 61, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-23", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\22-general-science-chemistry-fundamentals-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-22-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-22-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 23 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-d3ef4a1600ff.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-d3ef4a1600ff-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11509,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1968,
+    "json_count": 5316,
+    "total_bytes": 4273171582,
+    "by_extension": {
+      ".json": 5316,
+      ".md": 1968,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-23", "record_id": "science-and-technology-23:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 116, "workbook_pages": 69, "main_layout": {"page_count": 116, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 69, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-24", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\23-general-science-biology-and-physiology-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-23-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-23-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 24 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Index saved: C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\EXPORT-PDF-COMMAND-INDEX.md
+Commands: 516
+{
+  "mode": "export",
+  "status": "passed",
+  "topic_count": 1,
+  "export_root": "notes\\Final-Learning-Packages",
+  "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-3514db98d8fd.json",
+  "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-06-selected-1-3514db98d8fd-validation.json",
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11515,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1969,
+    "json_count": 5321,
+    "total_bytes": 4273193032,
+    "by_extension": {
+      ".json": 5321,
+      ".md": 1969,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  }
+}
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+{"status": "passed", "topic_key": "science-and-technology-24", "record_id": "science-and-technology-24:learner-v2:g3", "generation": 3, "metrics": {"question_count": 9, "mcq_count": 80, "mcq_keys": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"], "main_pages": 112, "workbook_pages": 64, "main_layout": {"page_count": 112, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "workbook_layout": {"page_count": 64, "blank_pages": [], "near_empty_pages": [], "clipped_text_pages": [], "replacement_glyph_pages": []}, "ascii_panel_count": 12, "graphical_stage_count": 12, "science_review_control_count": 3, "targeted_tests": 82, "deliverable_hashes_checked": 9}, "tests": 82, "next_topic_key": "science-and-technology-25", "report": "upsc-ai-kit\\manifests\\reviews\\science-and-technology\\24-s-t-institutions-dst-csir-anrf-semantic-completeness-review-2026-09-06.md", "validation": "upsc-ai-kit\\manifests\\exports\\science-and-technology-24-semantic-validation-2026-09-06.json", "inventory": "upsc-ai-kit\\manifests\\exports\\science-and-technology-24-semantic-completeness-2026-09-06-changed-files.txt"}
+=== SCIENCE TOPIC 25 ===
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.
+Generated KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md with 23 subjects and 516 topics.

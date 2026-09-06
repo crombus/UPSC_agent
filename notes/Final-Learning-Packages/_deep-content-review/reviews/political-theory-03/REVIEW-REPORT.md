@@ -1,16 +1,12 @@
 # Deep Content Review — Political Theory 03: Liberalism and Neoliberalism
 
-- **Baseline locked:** `political-theory-03:learner-v2:g3` — 87/100
-- **Immutable successor:** `political-theory-03:learner-v2:g5` — 97/100
+- **Baseline locked:** `political-theory-03:learner-v2:g5` — 97/100
+- **Immutable successor:** `political-theory-03:learner-v2:g6` — 97/100
 - **Approval:** false / pending explicit approval
 
 ## Defects reported
 
-- All 8 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.
-- All 8 solved items lack explicit directive-and-demand decoding.
-- All 8 solved items lack an executable mark-scaled compression plan.
-- The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.
-- The stored ASCII/graphical source contains 3 conclusive dangling sentence fragment(s), so the flows are not independently safe.
+
 
 ## Four-artifact repair and re-review
 
@@ -21,7 +17,7 @@ model, a mark-scaled compression plan, `Why this earns marks` and answer-specifi
 Cārvāka specifications were authored afresh from the repaired session, removing
 the baseline's dangling fragments and preserving the same twelve-stage topic spine.
 
-- Session PDF: 46 pages
+- Session PDF: 45 pages
 - Workbook PDF: 27 pages
 - Solved items: 8
 - Graphical Core stages: 12

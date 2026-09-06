@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T08:13:21+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\science-and-technology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "cdb38998219278767b1c21a8e1f3471d456cfcd86fafbae6c3913ed6089d5de4",
+    "sha256_after": "cdb38998219278767b1c21a8e1f3471d456cfcd86fafbae6c3913ed6089d5de4",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Science and Technology": 1
+  },
+  "sections": {
+    "Science and Technology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11479,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1963,
+    "json_count": 5291,
+    "total_bytes": 4273071766,
+    "by_extension": {
+      ".json": 5291,
+      ".md": 1963,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-18",
+      "topic_title": "Electric Vehicles, Batteries and Alternative Fuels",
+      "subject": "Science and Technology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 18,
+      "source_record_id": "science-and-technology-18:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "0d176f8aad895c6c1bf35cb0b3c1e6744c5167ae8c974bf5be065c7e418b0cbd",
+          "output_sha256": "0d176f8aad895c6c1bf35cb0b3c1e6744c5167ae8c974bf5be065c7e418b0cbd",
+          "source_output_equal": true,
+          "bytes": 726992
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3d819b21fe266d5bd4c795a064de7f627fed1d481bccd3396e164387a15c331c",
+          "output_sha256": "3d819b21fe266d5bd4c795a064de7f627fed1d481bccd3396e164387a15c331c",
+          "source_output_equal": true,
+          "bytes": 551377
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-18\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "32afc696d9d911340b88d3d6d516d94e2db462dd46bdd3aecdd4131a97fddccc",
+          "output_sha256": "32afc696d9d911340b88d3d6d516d94e2db462dd46bdd3aecdd4131a97fddccc",
+          "source_output_equal": true,
+          "bytes": 2038467
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-18\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "0971da92dce5339477ad6826635d2ec3397028aa96856e8a4efdd08664eda33d",
+          "output_sha256": "0971da92dce5339477ad6826635d2ec3397028aa96856e8a4efdd08664eda33d",
+          "source_output_equal": true,
+          "bytes": 2458403
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-18\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "33ed1688d64c001aa1fdc0bc5a56fa94cdfd4702a220752fc09cac5db5187f77",
+          "output_sha256": "33ed1688d64c001aa1fdc0bc5a56fa94cdfd4702a220752fc09cac5db5187f77",
+          "source_output_equal": true,
+          "bytes": 1810486
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-18\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "131603e319d1e170e7fafd3d9c8a12bbeacebe80ac9fac017af6551e05a8f017",
+          "output_sha256": "131603e319d1e170e7fafd3d9c8a12bbeacebe80ac9fac017af6551e05a8f017",
+          "source_output_equal": true,
+          "bytes": 4184
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\flowcharts\\science-and-technology-18\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "ab8a04429326b8b615ea914f11f74be5fd3e7d39b795654903f5170c4ec81e52",
+          "output_sha256": "ab8a04429326b8b615ea914f11f74be5fd3e7d39b795654903f5170c4ec81e52",
+          "source_output_equal": true,
+          "source_text_sha256": "131603e319d1e170e7fafd3d9c8a12bbeacebe80ac9fac017af6551e05a8f017",
+          "normalized_text_equal": true,
+          "bytes": 56496
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 106,
+        "solved_practice_workbook": 59,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 106,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10756
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

@@ -190,3 +190,47 @@ You are GMA-ready only if you can:
 
 > **Core firewall:** Skipping Advanced Topic 08 cannot remove any GMA ownership, classification,
 > workflow, representation, verification, time-control or revision-routing mechanism.
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** General mental ability.
+- **Canonical scope:** Owns the integrated classify-extract-represent-execute-verify-decide workflow, cross-family routing, cognitive-load control, time triage and readiness diagnostics.
+- **Cross-topic boundary:** It does not duplicate formulas or full drills owned by Topics 02-07; it links them and teaches method selection for mixed questions.
+
+### Complete learner route
+
+1. **Classify:** Identify the dominant tested mechanism before calculating.
+2. **Extract:** Separate givens, unknowns, constraints and the requested output.
+3. **Represent:** Choose equation, table, diagram, number line, grid or passage map.
+4. **Select method:** Use the lightest valid method, not the most familiar one.
+5. **Execute:** Keep units, domains, direction and assumptions visible.
+6. **Verify:** Use plug-back, bounds, enumeration, reverse coding or passage support.
+7. **Decide:** Answer, eliminate, park or leave according to evidence and time.
+8. **Cross-family routing:** Send number, arithmetic, rate, algebra, logic and communication gaps to their owners.
+9. **Mixed problems:** Decompose a question into ordered sub-mechanisms.
+10. **Cognitive load:** Externalise information instead of holding it mentally.
+11. **Time and risk:** Use three passes and positive-evidence elimination.
+12. **Readiness loop:** Diagnose error type, remediate the owner and retest under time.
+
+### Verification and hostile-query gate
+
+A mixed solution must name the owning mechanism, use a fitting representation, execute only justified steps and finish with an independent verification or risk decision.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**classify; extract; represent; execute; verify; decide; time control; error log**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

@@ -165,3 +165,48 @@ Section 6A check and rewriting one sentence in the Before→After manner.
 **Self-check:** Read the opening and closing sentences aloud. Can you
 name their claim, mechanism and qualification without paraphrasing
 vaguely? If not, revise before attempting visual polish.
+
+## Semantic-completeness repair — 6 September 2026
+
+### Hostile coverage verdict and ownership
+
+This owner is responsible for **clear prose, reflective voice and functional visuals**. Its irreducible coverage is:
+precision; rhythm; paragraphing; narrative; analogy; diagram; restraint. The canonical boundary is explicit:
+macro-structure belongs to 07. Cross-topic material may supply evidence, but it must not displace
+this topic's writing skill or convert the essay into a GS answer.
+
+### Prompt-fidelity and central-argument gate
+
+Before drafting, restate the exact prompt, identify its keywords, relation,
+scope and hidden assumption, then write one qualified thesis. Every paragraph
+must perform a distinct argumentative job for that thesis through
+**claim → named evidence/example → analysis → qualification → link**.
+Narrative, analogy and reflection are admissible only when they advance that
+argument. A list of sectors, schemes or facts is not an essay.
+
+### Theme-transfer and originality gate
+
+Transfer GS knowledge selectively across these recurring Essay domains:
+philosophical/abstract; society and social justice; polity, democracy and governance; economy and development; science and technology; environment; education and health; women and youth; culture and history; international relations and peace; ethics and values. For each chosen lens, explain the mechanism and distribution of
+effects, test a counter-case and return to the proposition. Originality means
+a faithful but non-obvious connection, distinction or synthesis; it does not
+mean eccentric interpretation, ornamental quotation or invented anecdote.
+
+### Model-answer and execution gate
+
+A complete 1000–1200-word practice essay should normally establish the problem,
+define operative terms, state the central thesis, develop three to five linked
+argument clusters, steelman the strongest objection, synthesize rather than
+split the difference, and conclude by deepening the opening claim. Planning,
+drafting and revision must fit the shared three-hour, two-essay budget. Exact
+time splits remain strategy, not an official UPSC rule.
+
+### Verification and source-status gate
+
+Facts, constitutional or legal references, schemes, events, data, scientific
+claims, thinker attributions and quotations require a traceable source and
+access date. If exact wording or attribution is not verified, paraphrase it and
+label it as interpretation. The locally audited 2018–2025 Essay papers remain
+V1; 2013–2017 prompts remain V2 until checked against official papers. Failed
+or blocked live retrievals support no claim.
+

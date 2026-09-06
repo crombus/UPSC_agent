@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-20",
+  "record_id": "political-theory-20:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 12,
+    "questions": [
+      {
+        "title": "Solved PYQ 1 - 2019 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 220,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 2 - 2021 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 222,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 3 - 2021 Q2(a), 20 marks",
+        "marks": 20,
+        "model_words": 262,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 4 - 2022 Q2(c), 15 marks",
+        "marks": 15,
+        "model_words": 225,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 5 - 2023 Q1(a), 10 marks",
+        "marks": 10,
+        "model_words": 221,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Solved PYQ 6 - 2025 Q4(a), 20 marks",
+        "marks": 20,
+        "model_words": 270,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 150,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 158,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 210,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 231,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 237,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 239,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 61,
+    "workbook_pages": 31,
+    "main_layout": {
+      "page_count": 61,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 31,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Complete-Learning-Session_2026-09-06.md": "b276bbd18f93c2692a8d3f5304590fb324c5fa18f9dba580fb88698ee5d5ad91",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Solved-Practice-Workbook_2026-09-06.md": "af1aa5ba03b90f16d093a6361c5c5df8212fd660e7cf567d5a29da81cd11d975",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Complete-Learning-Session_2026-09-06.pdf": "14ce2b8d74f80dbac2033050a71130d54e0456983dee04d730d2dfc3241a989f",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-20\\g4\\topic-20_Solved-Practice-Workbook_2026-09-06.pdf": "744ee6f4c21d04cfa09cff7713709e186c640ccc226cc09ca568fff782496656",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-20\\carvaka-g4\\master.png": "59905ed9017ef52296d85efeb24f8770fa5a53774b9cf1ff59f51db88423b6de",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-20\\carvaka-g4\\poster.pdf": "225a37ce5858d4dcedbbd310955b357ad99827f92ccd02602fd1304e2307f32a",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-20\\carvaka-g4\\tiled.pdf": "d0dc44c4440021b2365f8069c182ee87e18b5c78fedf42627060fb382a2098d5",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-20\\carvaka-g4\\ascii-master.pdf": "77bf6303db68e6ea2d213bfbcf845dd8d2ad33291f771f7a169fd218e2a3a8f4",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-20\\carvaka-g4\\ascii-master.txt": "857d233fce6bb6b92f832d383c26062c72c9474ad4e68fcee1292c301ce157b5"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-20",
+    "title": "Diverse Perspectives on Justice",
+    "old_record_id": "political-theory-20:learner-v2:g3",
+    "new_record_id": "political-theory-20:learner-v2:g4",
+    "old_generation": 3,
+    "new_generation": 4,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-20-learner-v2-g4-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T12:04:56.938864+00:00",
+    "identities": {
+      "export": "political-theory-20:learner-v2:g4",
+      "master": "political-theory-20:learner-v2:g4",
+      "review": "political-theory-20:learner-v2:g4"
+    },
+    "generations": {
+      "export": 4,
+      "master": 4,
+      "review": 4
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-21"
+}

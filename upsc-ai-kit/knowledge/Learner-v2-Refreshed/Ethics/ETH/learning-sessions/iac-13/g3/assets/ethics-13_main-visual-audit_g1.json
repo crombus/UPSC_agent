@@ -1,0 +1,860 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-13_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-13_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-13",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 43,
+      "heading": "SESSION 1 - Emerging ethics: visual foundation and essential vocabulary",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Emerging ethical challenges from technology (AI, data, automation) and environmental change, as they bear on public administration and business. **Gr",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 751.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 564.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 61,
+      "heading": "1. Visual foundation",
+      "preview": "EMERGING DOMAIN         KEY ETHICAL QUESTION                 GOVERNANCE RESPONSE NEEDED",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 540.724
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 409.724
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 75,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 471.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 177,
+      "heading": "9. Mains angles",
+      "preview": "**Answer thesis:** Emerging technological and environmental challenges require extending classical ethical frameworks with anticipatory tools — algorithmic accountability and the precautionary principle — since existing rules cannot yet ful",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 507.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 449.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 203,
+      "markdown_body_line_end": 208,
+      "heading": "11A. Data/privacy ethics anchor: Puttaswamy and the DPDP Act, 2023",
+      "preview": "⚠️ This section is written to be answer-complete for a 10/15-mark question or for the data/privacy dimension of a Section-B case study; full information-governance and DPDP statutory mechanics are owned by `15_Transparency-RTI-and-Informati",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "12. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 697.191
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 644.724
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 295,
+      "heading": "13. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 282.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 116.022
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 313,
+      "heading": "14. Environmental ethics framework: orientations, principles and the Vellore Citizens case",
+      "preview": "⚠️ This section closes the environmental-ethics dimension that Sections 1-13 apply but do not name systematically — the three normative *orientations* one can take toward nature, and the operative *principles* (sustainable development, inte",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 744.791
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 649.724
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 355,
+      "heading": "14. Environmental ethics framework: orientations, principles and the Vellore Citizens case",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 426.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 428,
+      "heading": "15. Clausewitz and war ethics - non-owner routing note (2025 GS-IV Q2(a))",
+      "preview": "📰 The audited 2025 GS-IV Q2(a) demand — \"Clausewitz - war as diplomacy by other means\" — appears beside Q2(b) in the printed paper, but it is **not owned by Topic 13**. The full Just War/IHL/proportionality framework needed to answer it is ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 350.791
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 255.724
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 472,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 405.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 338.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 546,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 619.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 553,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 619.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 552.356
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 627,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 723.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 678.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1828,
+      "markdown_body_line_end": 1834,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Deeper treatment of AI-governance ethics, data ethics and environmental/climate ethics, with disciplined moral-theory application. **Grounded in:** Official UPSC",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 376.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 275.024
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1854,
+      "heading": "1. Architecture",
+      "preview": "AI-ETHICS RISK LAYER               ENVIRONMENT/CLIMATE-ETHICS RISK LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 247.524
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 96.524
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1863,
+      "markdown_body_line_end": 1869,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 408.29
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1978,
+      "markdown_body_line_end": 1983,
+      "heading": "9. CURRENT: Current-anchor application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 570.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2025,
+      "markdown_body_line_end": 2026,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 615.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 570.824
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2100,
+      "markdown_body_line_end": 2100,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 754.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 710.024
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2111,
+      "markdown_body_line_end": 2140,
+      "heading": "ASCII PANEL 1/12 - 1. AI administrative decision chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 610.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 319.824
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2144,
+      "markdown_body_line_end": 2173,
+      "heading": "ASCII PANEL 2/12 - 2. Bias control across the lifecycle",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2177,
+      "markdown_body_line_end": 2206,
+      "heading": "ASCII PANEL 3/12 - 3. Contestability and remedy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2210,
+      "markdown_body_line_end": 2239,
+      "heading": "ASCII PANEL 4/12 - 4. Privacy governance chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2243,
+      "markdown_body_line_end": 2272,
+      "heading": "ASCII PANEL 5/12 - 5. Puttaswamy proportionality test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2306,
+      "heading": "ASCII PANEL 6/12 - 6. Social-media ethics map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2310,
+      "markdown_body_line_end": 2339,
+      "heading": "ASCII PANEL 7/12 - 7. AI environmental footprint",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2343,
+      "markdown_body_line_end": 2372,
+      "heading": "ASCII PANEL 8/12 - 8. Precaution before scale-up",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2376,
+      "markdown_body_line_end": 2405,
+      "heading": "ASCII PANEL 9/12 - 9. Environmental justice test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2409,
+      "markdown_body_line_end": 2438,
+      "heading": "ASCII PANEL 10/12 - 10. Sustainable-development bridge",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2442,
+      "markdown_body_line_end": 2471,
+      "heading": "ASCII PANEL 11/12 - 11. Border environmental clearance",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2475,
+      "markdown_body_line_end": 2504,
+      "heading": "ASCII PANEL 12/12 - 12. Climate fairness architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2508,
+      "markdown_body_line_end": 2521,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 80.69
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    }
+  ]
+}

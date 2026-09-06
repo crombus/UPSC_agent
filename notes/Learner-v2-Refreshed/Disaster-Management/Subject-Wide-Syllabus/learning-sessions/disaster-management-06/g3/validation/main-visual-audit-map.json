@@ -1,0 +1,1748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Tsunami and Coastal Hazard Management - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 378.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 67,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\assets\\disaster-management-06_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 601.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 294.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A tsunami is not an astronomical tide and not a cyclone storm surge; tides follow gravitational cycles, storm surge is chiefly wind-and-pressure driven, and tsunami generation begins with sudden water displacement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 96,
+      "markdown_body_line_end": 103,
+      "heading": "VISUAL FIRST",
+      "preview": "TSUNAMI GENERATION AND DISPLACEMENT MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 157,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TSUNAMI GENERATION AND DISPLACEMENT MECHANISM",
+      "preview": "START / CONCEPT: FOUNDATION — Tsunami generation and displacement mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Tsunami tide and storm-surge distinctions as a sequence: identify Generation is not impact, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 325.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 259.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 187,
+      "heading": "VISUAL FIRST",
+      "preview": "TSUNAMI TIDE AND STORM-SURGE DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 240,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TSUNAMI TIDE AND STORM-SURGE DISTINCTIONS",
+      "preview": "START / CONCEPT: FOUNDATION — Tsunami tide and storm-surge distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 97.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 251,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Source bathymetry coast and consequence as a sequence: identify Shoaling and inundation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 270,
+      "heading": "VISUAL FIRST",
+      "preview": "SOURCE BATHYMETRY COAST AND CONSEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SOURCE BATHYMETRY COAST AND CONSEQUENCE",
+      "preview": "START / CONCEPT: FOUNDATION — Source bathymetry coast and consequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 334,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Deep-water travel shoaling run-up and return flow as a sequence: identify Detection chain, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 353,
+      "heading": "VISUAL FIRST",
+      "preview": "DEEP-WATER TRAVEL SHOALING RUN-UP AND RETURN FLOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 406,
+      "heading": "CLOSING RECALL FLOW - CORE - DEEP-WATER TRAVEL SHOALING RUN-UP AND RETURN FLOW",
+      "preview": "START / CONCEPT: CORE — Deep-water travel shoaling run-up and return flow",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 417,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Seismic detection and sea-level confirmation as a sequence: identify ITEWC, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 436,
+      "heading": "VISUAL FIRST",
+      "preview": "SEISMIC DETECTION AND SEA-LEVEL CONFIRMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 489,
+      "heading": "CLOSING RECALL FLOW - CORE - SEISMIC DETECTION AND SEA-LEVEL CONFIRMATION",
+      "preview": "START / CONCEPT: CORE — Seismic detection and sea-level confirmation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ITEWC functions within the UNESCO-IOC Indian Ocean Tsunami Warning and Mitigation System as a Tsunami Service Provider; regional advisory responsibility does not transfer local evacuation authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 522,
+      "heading": "VISUAL FIRST",
+      "preview": "ITEWC INCOIS AND REGIONAL SERVICE ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 576,
+      "heading": "CLOSING RECALL FLOW - CORE - ITEWC INCOIS AND REGIONAL SERVICE ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — ITEWC INCOIS and regional service architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 587,
+      "markdown_body_line_end": 587,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Bulletin stages threat categories and uncertainty as a sequence: identify Local all clear, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 606,
+      "heading": "VISUAL FIRST",
+      "preview": "BULLETIN STAGES THREAT CATEGORIES AND UNCERTAINTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 659,
+      "heading": "CLOSING RECALL FLOW - CORE - BULLETIN STAGES THREAT CATEGORIES AND UNCERTAINTY",
+      "preview": "START / CONCEPT: CORE — Bulletin stages threat categories and uncertainty",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Local warning evacuation and all-clear authority as a sequence: identify Inundation mapping, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 689,
+      "heading": "VISUAL FIRST",
+      "preview": "LOCAL WARNING EVACUATION AND ALL-CLEAR AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 742,
+      "heading": "CLOSING RECALL FLOW - CORE - LOCAL WARNING EVACUATION AND ALL-CLEAR AUTHORITY",
+      "preview": "START / CONCEPT: CORE — Local warning evacuation and all-clear authority",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Inundation mapping and coastal land use as a sequence: identify Coastal regulation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 365.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 299.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 772,
+      "heading": "VISUAL FIRST",
+      "preview": "INUNDATION MAPPING AND COASTAL LAND USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 825,
+      "heading": "CLOSING RECALL FLOW - CORE - INUNDATION MAPPING AND COASTAL LAND USE",
+      "preview": "START / CONCEPT: CORE — Inundation mapping and coastal land use",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 97.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 836,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Structural and ecosystem-based coastal protection as a sequence: identify Evacuation chain, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 855,
+      "heading": "VISUAL FIRST",
+      "preview": "STRUCTURAL AND ECOSYSTEM-BASED COASTAL PROTECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 908,
+      "heading": "CLOSING RECALL FLOW - CORE - STRUCTURAL AND ECOSYSTEM-BASED COASTAL PROTECTION",
+      "preview": "START / CONCEPT: CORE — Structural and ecosystem-based coastal protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Ports harbours utilities and critical facilities as a sequence: identify Natural buffers, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 325.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 259.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 934,
+      "markdown_body_line_end": 941,
+      "heading": "VISUAL FIRST",
+      "preview": "PORTS HARBOURS UTILITIES AND CRITICAL FACILITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 995,
+      "heading": "CLOSING RECALL FLOW - CORE - PORTS HARBOURS UTILITIES AND CRITICAL FACILITIES",
+      "preview": "START / CONCEPT: CORE — Ports harbours utilities and critical facilities",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1006,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Fisheries tourism and transient populations as a sequence: identify Fisheries and tourism, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "FISHERIES TOURISM AND TRANSIENT POPULATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1078,
+      "heading": "CLOSING RECALL FLOW - CORE - FISHERIES TOURISM AND TRANSIENT POPULATIONS",
+      "preview": "START / CONCEPT: CORE — Fisheries tourism and transient populations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1089,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Community preparedness drills and Tsunami Ready as a sequence: identify Community preparedness, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1104,
+      "markdown_body_line_end": 1108,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNITY PREPAREDNESS DRILLS AND TSUNAMI READY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1161,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - COMMUNITY PREPAREDNESS DRILLS AND TSUNAMI READY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Community preparedness drills and Tsunami Ready",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 409.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1172,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read False-alarm trust feedback and readiness decay as a sequence: identify Tsunami Ready boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1187,
+      "markdown_body_line_end": 1194,
+      "heading": "VISUAL FIRST",
+      "preview": "FALSE-ALARM TRUST FEEDBACK AND READINESS DECAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 652.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1248,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FALSE-ALARM TRUST FEEDBACK AND READINESS DECAY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — False-alarm trust feedback and readiness decay",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Recovery livelihoods and warning-outcome boundary as a sequence: identify Recovery and livelihoods, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 288.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1281,
+      "heading": "VISUAL FIRST",
+      "preview": "RECOVERY LIVELIHOODS AND WARNING-OUTCOME BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1325,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Tsunami causation, risk assessment, the Indian Tsunami Early Warning System, structural mitigation, evacuation and coastal natural buff",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 256.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 132.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1329,
+      "markdown_body_line_end": 1345,
+      "heading": "1. Visual foundation",
+      "preview": "SEABED DISPLACEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1363,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 199.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1532,
+      "markdown_body_line_end": 1535,
+      "heading": "13. Core-only answer architecture - generation, warning and coast",
+      "preview": "**Core firewall:** this section independently supplies the disaster-management application for the **Geography-owned** 2025 GS-I formation/consequences route and for coastal-preparedness demands. It does not require an Advanced file or a 20",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 607.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 526.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1539,
+      "markdown_body_line_end": 1544,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 504.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 209.522
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1564,
+      "markdown_body_line_end": 1581,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RECOVERY LIVELIHOODS AND WARNING-OUTCOME BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Recovery livelihoods and warning-outcome boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 508.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2740,
+      "markdown_body_line_end": 2746,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** ITEWC's regional service role; tsunami-ready community design; coastal-zone development trade-offs; compound coastal hazards. **Grounded in:** *Vis",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 379.024
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2763,
+      "markdown_body_line_end": 2781,
+      "heading": "2. Risk-system analysis",
+      "preview": "LOW-FREQUENCY HAZARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 244.824
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 63.824
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2990,
+      "markdown_body_line_end": 2998,
+      "heading": "Tsunami and Coastal Hazard Management: COASTAL BUFFERS PORTS LIVELIHOODS AND READINESS ANSWER SPINE",
+      "preview": "DEFINE TSUNAMI AS SUDDEN WATER-DISPLACEMENT WAVES",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 248.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 167.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3013,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Tsunami generation chain",
+      "preview": "SUDDEN WATER DISPLACEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 676.691
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 624.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3017,
+      "markdown_body_line_end": 3022,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Coastal-hazard firewall",
+      "preview": "TSUNAMI -> sudden displacement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 602.891
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 551.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3026,
+      "markdown_body_line_end": 3031,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Source-to-impact matrix",
+      "preview": "SOURCE -> mechanism depth displacement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 477.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3035,
+      "markdown_body_line_end": 3040,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Detection-confirmation rail",
+      "preview": "1 SEISMIC EVENT ANALYSIS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 455.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 403.491
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3044,
+      "markdown_body_line_end": 3049,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: ITEWC authority map",
+      "preview": "INCOIS / ITEWC -> analysis and advisory",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 381.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 329.691
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3053,
+      "markdown_body_line_end": 3058,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Warning-uncertainty ladder",
+      "preview": "PRELIMINARY INFORMATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 307.691
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 255.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3062,
+      "markdown_body_line_end": 3067,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Inundation-to-evacuation map",
+      "preview": "HAZARD / INUNDATION MAP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3071,
+      "markdown_body_line_end": 3076,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Coastal protection portfolio",
+      "preview": "ENGINEERED -> shelters walls breakwaters where justified",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3085,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Coastal economy continuity",
+      "preview": "PORT / HARBOUR -> shutdown access reopening",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3089,
+      "markdown_body_line_end": 3096,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Tsunami Ready cycle",
+      "preview": "MAP RISK -> EDUCATE -> WARN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3100,
+      "markdown_body_line_end": 3107,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Trust under uncertainty",
+      "preview": "THREAT POSSIBLE? -> ISSUE PRECAUTIONARY MESSAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3118,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Tsunami answer spine",
+      "preview": "DEFINE DISPLACEMENT -> TRACE SHOALING AND CONSEQUENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    }
+  ]
+}

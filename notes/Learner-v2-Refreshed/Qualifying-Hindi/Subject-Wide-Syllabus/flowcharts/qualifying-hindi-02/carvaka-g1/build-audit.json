@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-hindi-02",
+  "generation": 1,
+  "master_size": [
+    1800,
+    3648
+  ],
+  "core_stage_count": 12,
+  "tile_count": 4,
+  "tiles": [
+    {
+      "y_start": 0,
+      "y_end": 1200
+    },
+    {
+      "y_start": 1120,
+      "y_end": 2320
+    },
+    {
+      "y_start": 2240,
+      "y_end": 3440
+    },
+    {
+      "y_start": 3360,
+      "y_end": 3648
+    }
+  ],
+  "overlap_pixels": 80,
+  "same_master": true,
+  "ascii_graphical_stage_titles_equal": true,
+  "approved": false
+}

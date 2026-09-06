@@ -1,0 +1,42 @@
+{
+  "record_id": "political-theory-04:learner-v2:g4",
+  "generation": 4,
+  "scores": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 97
+  },
+  "metrics": {
+    "markdown_characters": 124859,
+    "question_count": 12,
+    "mcq_count": 48,
+    "mcq_rotation": true,
+    "demand_decoding_blocks": 12,
+    "compression_plan_blocks": 12,
+    "why_this_earns_marks": 12,
+    "how_to_improve": 12,
+    "missing_model_labels": [],
+    "weak_models": [],
+    "flow_dangling_fragments": [],
+    "main_pages": 44,
+    "workbook_pages": 29,
+    "main_layout": {
+      "page_count": 44,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 29,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "graphical_validation_passed": true
+  },
+  "defects": []
+}

@@ -1,0 +1,103 @@
+{
+  "record_id": "qualifying-hindi-06:learner-v2:g1",
+  "topic_key": "qualifying-hindi-06",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — अनुवाद",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-06\\g1\\qualifying-hindi-06_Complete-Learning-Session_2026-09-06.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-06\\g1\\qualifying-hindi-06_Solved-Practice-Workbook_2026-09-06.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-06\\g1\\qualifying-hindi-06_Complete-Learning-Session_2026-09-06.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-06\\g1\\qualifying-hindi-06_Solved-Practice-Workbook_2026-09-06.md",
+  "generated_on": "2026-09-06",
+  "approved": false,
+  "provenance": {
+    "workflow": "qualifying-hindi-semantic-completeness-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md",
+    "source_advanced": null,
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-06\\g1\\qualifying-hindi-06_Complete-Learning-Session_2026-09-06.md",
+    "canonical_learning_session": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\learning-sessions\\v2\\subject-wide-syllabus\\qualifying-hindi-06_Learning-Session.md",
+    "canonical_workbook": "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\learning-sessions\\v2\\subject-wide-syllabus\\qualifying-hindi-06_Solved-Workbook.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md"
+    ],
+    "local_ocr_sources": [
+      "books\\more_previous_papers\\HINDI-COMP.pdf",
+      "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf",
+      "books\\more_previous_papers\\HINDI_0 (1).pdf",
+      "books\\more_previous_papers\\Hindi_0.pdf",
+      "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf",
+      "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf",
+      "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf"
+    ],
+    "public_verification_references": [
+      "https://upsc.gov.in/examinations/previous-question-papers",
+      "https://www.chd.education.gov.in/en/basic-grammar-modern-hindi",
+      "https://www.chd.education.gov.in/devanagari-lipi-tatha-hindi-vartani-manakikaran-0",
+      "https://chdpublication.education.gov.in/"
+    ],
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.6"
+    },
+    "generation_date": "2026-09-06",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\basic\\06_अनुवाद.md": "07b65dd13bcd153633a91e8979971206f094d00fdeb554b4d066e84a6627d1f2",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\00_Master-Framework.md": "fb95a53f8c74cdd00945c50c8095372549ffba07e28c5393f4a8133d7c9d0e66",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "1db3dd96a81f38dd97d7cafdc4ff8d729ea8964b088fe2c9d4b399a3cac40f93",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\README.md": "fe84cc953a93d9e9ca7410417705a5993aa98dcadc997025385e17998a4d4d28",
+      "upsc-ai-kit\\knowledge\\Qualifying-Hindi\\subject-wide-package\\Qualifying-Hindi_Practice-Solutions.md": "2f1b8712d81d86205c18230d40d664cd038c8b196c90f885d7f7e429f6eaf0b8",
+      "books\\more_previous_papers\\HINDI-COMP.pdf": "57220fc32bb0761e8bf09d15a560b4ffea9635663c2af0979b47b3564ebc78fc",
+      "books\\more_previous_papers\\QP-CSM19-HindiCompulory.pdf": "ce2ff6baae7abc44b74739ff715ce36f08093f4ee1642723ffc67fe7bce897cc",
+      "books\\more_previous_papers\\HINDI_0 (1).pdf": "0b99c9b119156916686363ce7b40ee5a09a47648bd4f0276592da8df756fff1a",
+      "books\\more_previous_papers\\Hindi_0.pdf": "064cedc93ca020f379fb14d16fa899432f751bde7a22ab87bc87bed343087f84",
+      "books\\more_previous_papers\\QP-CSM-22-HINDI-Compl-280922.pdf": "d0f4ee4bc8a0b4187f82d359dfbe66657f08b9cbeba24510d6bcae4c8ce86c5c",
+      "books\\more_previous_papers\\QP-CSM-23-HINDI-COMPULSORY-290923.pdf": "756617d3a93bcea3cf1f0c6a27db8018d2d0cad029613d74971e1a14a47cfd33",
+      "books\\more_previous_papers\\HINDI-COMPULSORY-QP-CSM-25-010925.pdf": "de2ba64b77f6f0c850d76525d6a66a0b5a634c02ba1ab158e5d0dd2c3e661669"
+    },
+    "canonical_owner_hash_before": "159febfd2228aa645a6ae354b57eabea121b8f8c88b91fec07c63c3bf00348df",
+    "canonical_owner_hash_after": "07b65dd13bcd153633a91e8979971206f094d00fdeb554b4d066e84a6627d1f2",
+    "practice_profile": "48 सख्त-rotation भाषा MCQ और पूर्ण मॉडल सहित आठ विषय-विशिष्ट निर्मित-उत्तर कार्य।",
+    "pyq_status_note": "स्थानीय आधिकारिक प्रश्नपत्र recurring demand और format सत्यापित करते हैं; अनुपलब्ध आधिकारिक उत्तर-कुंजी या मॉडल उत्तर का अनुमान नहीं।",
+    "answer_verification": "हर MCQ कुंजी कैनोनिकल नियम चुनती है; मानक विकल्प, passage fidelity तथा संक्षेप/निबन्ध/अनुवाद constraints स्पष्ट रूप से जाँचे गए।",
+    "mcq_keys": "strict A-B-C-D rotation"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "qualifying-hindi-06:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-06",
+    "validator": "tools/qualifying_hindi_semantic_runtime.py + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1",
+    "master_image": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\ascii-master.txt",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\flowcharts\\qualifying-hindi-06\\carvaka-g1\\ascii-master.pdf",
+    "core_stage_count": 12,
+    "graphical_stage_count": 12,
+    "tiled_page_count": 4,
+    "approval": false,
+    "same_master": true
+  },
+  "refresh_profile": "qualifying-hindi-semantic-completeness"
+}

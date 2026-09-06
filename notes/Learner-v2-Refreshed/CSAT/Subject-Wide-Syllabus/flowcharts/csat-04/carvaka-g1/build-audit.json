@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-04",
+  "generation": 1,
+  "master_size": [
+    1800,
+    3648
+  ],
+  "core_stage_count": 12,
+  "tile_count": 4,
+  "overlap_pixels": 80,
+  "same_master": true,
+  "ascii_graphical_stage_titles_equal": true,
+  "approved": false
+}

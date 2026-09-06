@@ -1,0 +1,1164 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-07",
+  "subject": "Science-and-Technology",
+  "title": "DEFENCE INDIGENISATION: ATMANIRBHAR AND PROCUREMENT",
+  "short_route": "CAPABILITY CONVERSION CHAIN → THREE MEANINGS OF INDIGENOUS → DAP PURPOSE MAP → FIVE-RUNG BUY LADDER → APPROVAL-TO-SERVICE LADDER → POSITIVE-LIST SPLIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-07-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "ff22a1c99677480564bfadda99ba904a779a94d47f7b362b9e177dde4927ca21",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CAPABILITY CONVERSION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAPABILITY CONVERSION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SERVICE REQUIREMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATIONAL NEED",
+          "role": "comparison"
+        },
+        {
+          "text": "DESIGN AND VALIDATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DAP ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY AND IN-PRINCIPLE APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATABLE INDUSTRIAL OUTPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "USABLE CAPABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SERVICE REQUIREMENT → operational need",
+        "R&D / PROTOTYPE → design and validation",
+        "DAP ROUTE / AoN → category and in-principle approval",
+        "CONTRACT / PRODUCTION → repeatable industrial output",
+        "DELIVERY / INDUCTION / SUSTAINMENT → usable capability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SERVICE REQUIREMENT → operational need",
+            "R&D / PROTOTYPE → design and validation"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DAP ROUTE / AoN → category and in-principle approval",
+            "CONTRACT / PRODUCTION → repeatable industrial output"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "DELIVERY / INDUCTION / SUSTAINMENT → usable capability",
+            "SERVICE REQUIREMENT → operational need"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DELIVERY / INDUCTION / SUSTAINMENT → usable capability.",
+      "source_references": [
+        "R&D-procurement boundary",
+        "AoN-order boundary",
+        "Lifecycle-indigenisation boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE MEANINGS OF INDIGENOUS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE MEANINGS OF INDIGENOUS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN CONTROL OF ARCHITECTURE AND INTELLECTUAL PROPERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCTION OCCURS IN INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIGENOUS CONTENT",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN SHARE OF CONTRACT VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "LIFECYCLE CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "SPARES, REPAIRS, UPGRADES AND STANDARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST EACH DIMENSION INDEPENDENTLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DESIGN → Indian control of architecture and intellectual property",
+        "MANUFACTURE → production occurs in India",
+        "INDIGENOUS CONTENT → Indian share of contract value",
+        "LIFECYCLE CONTROL → spares, repairs, upgrades and standards",
+        "RULE → test each dimension independently"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "DESIGN → Indian control of architecture and intellectual property",
+          "INDIGENOUS CONTENT → Indian share of contract value",
+          "RULE → test each dimension independently"
+        ],
+        [
+          "MANUFACTURE → production occurs in India",
+          "LIFECYCLE CONTROL → spares, repairs, upgrades and standards",
+          "DESIGN → Indian control of architecture and intellectual property"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DESIGN → Indian control of architecture and intellectual property",
+            "MANUFACTURE → production occurs in India"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INDIGENOUS CONTENT → Indian share of contract value",
+            "LIFECYCLE CONTROL → spares, repairs, upgrades and standards"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → test each dimension independently",
+            "DESIGN → Indian control of architecture and intellectual property"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIFECYCLE CONTROL → spares, repairs, upgrades and standards.",
+      "source_references": [
+        "Design-manufacture-content boundary",
+        "Lifecycle-indigenisation boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DAP PURPOSE MAP",
+      "structural_type": "layered-rail",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DAP PURPOSE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DAP 2020",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPITAL-ACQUISITION RULEBOOK",
+          "role": "comparison"
+        },
+        {
+          "text": "VENDOR AND LOCALISATION PATHWAY",
+          "role": "evidence"
+        },
+        {
+          "text": "RFP, EVALUATION AND NEGOTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "LEGALLY BINDING PROCUREMENT EVENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCEDURE IS NOT PURCHASE OR DELIVERY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DAP 2020 → capital-acquisition rulebook",
+        "CATEGORY → vendor and localisation pathway",
+        "PROCEDURE → RFP, evaluation and negotiation",
+        "CONTRACT → legally binding procurement event",
+        "TRAP → procedure is not purchase or delivery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DAP 2020 → capital-acquisition rulebook",
+            "CATEGORY → vendor and localisation pathway"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PROCEDURE → RFP, evaluation and negotiation",
+            "CONTRACT → legally binding procurement event"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → procedure is not purchase or delivery",
+            "DAP 2020 → capital-acquisition rulebook"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → procedure is not purchase or delivery.",
+      "source_references": [
+        "DAP-procedure boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FIVE-RUNG BUY LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FIVE-RUNG BUY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "1 BUY INDIAN-IDDM",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN DESIGN, DEVELOPMENT AND MANUFACTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "2 BUY INDIAN",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN VENDOR WITH PRESCRIBED CONTENT",
+          "role": "primary"
+        },
+        {
+          "text": "3 BUY AND MAKE INDIAN",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN VENDOR PLUS FOREIGN TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "4 BUY GLOBAL-MANUFACTURE IN INDIA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 BUY INDIAN-IDDM → Indian design, development and manufacture",
+        "2 BUY INDIAN → Indian vendor with prescribed content",
+        "3 BUY AND MAKE INDIAN → Indian vendor plus foreign transfer",
+        "4 BUY GLOBAL-MANUFACTURE IN INDIA → global vendor plus local build",
+        "5 BUY GLOBAL → global procurement route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "1 BUY INDIAN-IDDM → Indian design, development and manufacture",
+            "2 BUY INDIAN → Indian vendor with prescribed content"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 BUY AND MAKE INDIAN → Indian vendor plus foreign transfer",
+            "4 BUY GLOBAL-MANUFACTURE IN INDIA → global vendor plus local build"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "5 BUY GLOBAL → global procurement route",
+            "1 BUY INDIAN-IDDM → Indian design, development and manufacture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4 BUY GLOBAL-MANUFACTURE IN INDIA → global vendor plus local build.",
+      "source_references": [
+        "Buy-ladder boundary",
+        "Indian-IDDM boundary",
+        "Buy-Make boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "APPROVAL-TO-SERVICE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "APPROVAL-TO-SERVICE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SERVICES REQUIREMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATED NEED",
+          "role": "comparison"
+        },
+        {
+          "text": "DAC AON",
+          "role": "evidence"
+        },
+        {
+          "text": "IN-PRINCIPLE APPROVAL AND CATEGORY",
+          "role": "primary"
+        },
+        {
+          "text": "COMPETITION AND TECHNICAL EVALUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDER AND PHYSICAL SUPPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE ACCEPTANCE, NOT INFERRED DEPLOYMENT SCALE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SERVICES REQUIREMENT → stated need",
+        "DAC AoN → in-principle approval and category",
+        "RFP / TRIALS → competition and technical evaluation",
+        "CONTRACT / DELIVERY → order and physical supply",
+        "INDUCTION → service acceptance, not inferred deployment scale"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SERVICES REQUIREMENT → stated need",
+            "DAC AoN → in-principle approval and category"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RFP / TRIALS → competition and technical evaluation",
+            "CONTRACT / DELIVERY → order and physical supply"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "INDUCTION → service acceptance, not inferred deployment scale",
+            "SERVICES REQUIREMENT → stated need"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDUCTION → service acceptance, not inferred deployment scale.",
+      "source_references": [
+        "AoN-order boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "POSITIVE-LIST SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POSITIVE-LIST SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "SERVICES PIL",
+          "role": "outcome"
+        },
+        {
+          "text": "PLATFORMS AND EQUIPMENT IMPORT RESTRICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DPSU PIL",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPONENTS, SUBSYSTEMS AND MATERIALS",
+          "role": "primary"
+        },
+        {
+          "text": "NOTIFIED DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "ITEM-SPECIFIC SOURCING BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "DPSU IMPLEMENTATION STAGE TRACKER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SERVICES PIL → platforms and equipment import restriction",
+        "DPSU PIL → components, subsystems and materials",
+        "NOTIFIED DATE → item-specific sourcing boundary",
+        "SRIJAN → DPSU implementation stage tracker",
+        "TRAP → list length is not achieved domestic depth"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "SERVICES PIL → platforms and equipment import restriction",
+          "NOTIFIED DATE → item-specific sourcing boundary",
+          "TRAP → list length is not achieved domestic depth"
+        ],
+        [
+          "DPSU PIL → components, subsystems and materials",
+          "SRIJAN → DPSU implementation stage tracker",
+          "SERVICES PIL → platforms and equipment import restriction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "SERVICES PIL → platforms and equipment import restriction",
+            "DPSU PIL → components, subsystems and materials"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NOTIFIED DATE → item-specific sourcing boundary",
+            "SRIJAN → DPSU implementation stage tracker"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → list length is not achieved domestic depth",
+            "SERVICES PIL → platforms and equipment import restriction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → list length is not achieved domestic depth.",
+      "source_references": [
+        "PIL-family boundary",
+        "Notification-achievement boundary",
+        "SRIJAN-stage boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDUSTRIAL ACTOR MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDUSTRIAL ACTOR MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGN INTEGRATOR AND LEGACY PRODUCTION BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVATE PRIME",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATION, COMPETITION AND INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIALISED SUBSYSTEM AND RAPID INNOVATION",
+          "role": "primary"
+        },
+        {
+          "text": "TRIALS, STANDARDS AND ACCEPTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOSYSTEM DEPTH MATTERS MORE THAN OWNERSHIP SLOGAN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DPSU → sovereign integrator and legacy production base",
+        "PRIVATE PRIME → integration, competition and investment",
+        "MSME / STARTUP → specialised subsystem and rapid innovation",
+        "USER / QA → trials, standards and acceptance",
+        "RULE → ecosystem depth matters more than ownership slogan"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DPSU → sovereign integrator and legacy production base",
+            "PRIVATE PRIME → integration, competition and investment"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "MSME / STARTUP → specialised subsystem and rapid innovation",
+            "USER / QA → trials, standards and acceptance"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → ecosystem depth matters more than ownership slogan",
+            "DPSU → sovereign integrator and legacy production base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → ecosystem depth matters more than ownership slogan.",
+      "source_references": [
+        "DPSU-private boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "OFB RESTRUCTURING CARD",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "OFB RESTRUCTURING CARD",
+          "role": "primary"
+        },
+        {
+          "text": "BEFORE 2021",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPARTMENTAL ORDNANCE FACTORY BOARD STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CORPORATISATION IMPLEMENTED",
+          "role": "evidence"
+        },
+        {
+          "text": "SEVEN DPSUS",
+          "role": "primary"
+        },
+        {
+          "text": "CORPORATE PRODUCTION ENTITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDER BOOKS, QUALITY, PRODUCTIVITY AND DELIVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTRUCTURING ITSELF IS NOT PERFORMANCE PROOF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BEFORE 2021 → departmental Ordnance Factory Board structure",
+        "2021 → corporatisation implemented",
+        "SEVEN DPSUs → corporate production entities",
+        "TEST → order books, quality, productivity and delivery",
+        "TRAP → restructuring itself is not performance proof"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "BEFORE 2021 → departmental Ordnance Factory Board structure",
+            "2021 → corporatisation implemented"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SEVEN DPSUs → corporate production entities",
+            "TEST → order books, quality, productivity and delivery"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → restructuring itself is not performance proof",
+            "BEFORE 2021 → departmental Ordnance Factory Board structure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → restructuring itself is not performance proof.",
+      "source_references": [
+        "OFB-corporatisation boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INNOVATION INSTRUMENT MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INNOVATION INSTRUMENT MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CHALLENGE-BASED STARTUP AND MSME INNOVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEP-TECHNOLOGY SUPPORT WITHIN INNOVATION ECOSYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "DRDO-SUPPORTED INDUSTRY TECHNOLOGY DEVELOPMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ACQUISITION RULEBOOK",
+          "role": "primary"
+        },
+        {
+          "text": "FUNDING ROUTE IS NOT PROCUREMENT CATEGORY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "iDEX → challenge-based startup and MSME innovation",
+        "ADITI → deep-technology support within innovation ecosystem",
+        "TDF → DRDO-supported industry technology development",
+        "DAP → acquisition rulebook",
+        "RULE → funding route is not procurement category"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "iDEX → challenge-based startup and MSME innovation",
+          "TDF → DRDO-supported industry technology development",
+          "RULE → funding route is not procurement category"
+        ],
+        [
+          "ADITI → deep-technology support within innovation ecosystem",
+          "DAP → acquisition rulebook",
+          "iDEX → challenge-based startup and MSME innovation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "iDEX → challenge-based startup and MSME innovation",
+            "ADITI → deep-technology support within innovation ecosystem"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TDF → DRDO-supported industry technology development",
+            "DAP → acquisition rulebook"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → funding route is not procurement category",
+            "iDEX → challenge-based startup and MSME innovation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → funding route is not procurement category.",
+      "source_references": [
+        "iDEX-TDF boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CORRIDOR AND FDI MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CORRIDOR AND FDI MAP",
+          "role": "primary"
+        },
+        {
+          "text": "UP + TAMIL NADU CORRIDORS",
+          "role": "outcome"
+        },
+        {
+          "text": "PLACE-BASED SUPPLIER CLUSTERING",
+          "role": "comparison"
+        },
+        {
+          "text": "FDI UP TO 74 PERCENT",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTOMATIC ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "BEYOND 74 TO 100 PERCENT",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNMENT ROUTE CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "RECIPROCAL OBLIGATIONS WITH NARROWED COVERAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UP + TAMIL NADU CORRIDORS → place-based supplier clustering",
+        "FDI UP TO 74 PERCENT → automatic route",
+        "BEYOND 74 TO 100 PERCENT → government route conditions",
+        "OFFSETS → reciprocal obligations with narrowed coverage",
+        "TEST → actual absorption, certification and supplier depth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "UP + TAMIL NADU CORRIDORS → place-based supplier clustering",
+            "FDI UP TO 74 PERCENT → automatic route"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BEYOND 74 TO 100 PERCENT → government route conditions",
+            "OFFSETS → reciprocal obligations with narrowed coverage"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → actual absorption, certification and supplier depth",
+            "MUST REMEMBER: Defence indigenisation spans design authority, intellectual property,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Defence indigenisation spans design authority, intellectual property,.",
+      "source_references": [
+        "Corridor-category boundary",
+        "FDI-route boundary",
+        "Offsets-boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-07_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LIFECYCLE AND EXPORT LOOP",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LIFECYCLE AND EXPORT LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "PREDICTABLE ORDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "INVESTMENT AND PRODUCTION LEARNING",
+          "role": "comparison"
+        },
+        {
+          "text": "AVAILABILITY AFTER DELIVERY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFIGURATION CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "SCALE, LEARNING AND SUPPORT OBLIGATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "TOTALS DO NOT PROVE INDIGENOUS DESIGN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PREDICTABLE ORDERS → investment and production learning",
+        "MRO / SPARES → availability after delivery",
+        "UPGRADES / CONFIGURATION CONTROL → design autonomy",
+        "EXPORTS → scale, learning and support obligations",
+        "QUALIFICATION → totals do not prove indigenous design"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PREDICTABLE ORDERS → investment and production learning",
+            "MRO / SPARES → availability after delivery"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UPGRADES / CONFIGURATION CONTROL → design autonomy",
+            "EXPORTS → scale, learning and support obligations"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "QUALIFICATION → totals do not prove indigenous design",
+            "CLOSE DISTINCTION: Indian manufacture is not Indian design, announced value is not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFICATION → totals do not prove indigenous design.",
+      "source_references": [
+        "Lifecycle-indigenisation boundary",
+        "Export-scale boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-07_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PROCUREMENT-CLAIM FIREWALL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PROCUREMENT-CLAIM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN, MANUFACTURE, CONTENT AND LIFECYCLE",
+          "role": "outcome"
+        },
+        {
+          "text": "DAP ROUTE AND POSITIVE-LIST FAMILY",
+          "role": "comparison"
+        },
+        {
+          "text": "AON, RFP, TRIAL, CONTRACT, DELIVERY AND INDUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROGRAMME, PRODUCTION LINE AND OPERATIONAL FLEET",
+          "role": "primary"
+        },
+        {
+          "text": "VALUES, COUNTS, TIMELINES AND CONTENT SHARES BY DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "DATE POLICY/LIST/CONTRACT CLAIMS AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → design, manufacture, content and lifecycle",
+        "CLASSIFY → DAP route and positive-list family",
+        "TRACE → AoN, RFP, trial, contract, delivery and induction",
+        "SEPARATE → programme, production line and operational fleet",
+        "VERIFY → values, counts, timelines and content shares by date"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DEFINE → design, manufacture, content and lifecycle",
+            "CLASSIFY → DAP route and positive-list family"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRACE → AoN, RFP, trial, contract, delivery and induction",
+            "SEPARATE → programme, production line and operational fleet"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → values, counts, timelines and content shares by date",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date policy/list/contract claims and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date policy/list/contract claims and...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date policy/list/contract claims and.",
+      "source_references": [
+        "Platform-status boundary",
+        "Volatile-number boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g2\\science-and-technology-07_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-07_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-07\\g3\\science-and-technology-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A PROCUREMENT RULE CAN ENCOURAGE LOCALISATION BUT CANNOT ITSELF",
+          "role": "outcome"
+        },
+        {
+          "text": "SCALE MATTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHOUT REGULAR ORDERS, DOMESTIC FIRMS CANNOT AMORTISE CAPITAL INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPORT COMPETITIVENESS REQUIRES QUALITY, CERTIFICATION CREDIBILITY, AFTER-SALES SUPPORT AND",
+          "role": "primary"
+        },
+        {
+          "text": "DIPLOMATIC-MARKET ACCESS, NOT JUST A DOMESTIC “MAKE IN INDIA”",
+          "role": "caution"
+        },
+        {
+          "text": "THE HARDEST STEP IS OFTEN FROM PROTOTYPE OR LIMITED-SERIES",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPARTMENT OF DEFENCE PRODUCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: A procurement rule can encourage localisation but cannot itself create deep technology absorption.",
+            "CAUTION: Scale matters: without regular orders, domestic firms cannot amortise capital investment or build supplier confidence.",
+            "CAUTION: Export competitiveness requires quality, certification credibility, after-sales support and",
+            "diplomatic-market access, not just a domestic “Make in India” slogan."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: The hardest step is often from prototype or limited-series production to reliable, repeatable industrial throughput.",
+            "Department of Defence Production: central administrative anchor for production and DPSUs — distinct from the Department",
+            "of Defence R&D/DRDO (technology creation) and from the Defence Acquisition Council (approval of necessity and categorisation).",
+            "DAP 2020: formal acquisition rulebook."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Defence Innovation Organisation — iDEX and ADITI: startup/MSME innovation channel",
+            "Technology Development Fund (DRDO): industry-led development funding.",
+            "SRIJAN: public-facing implementation dashboard for positive-indigenisation items.",
+            "DPSU product filters on official DDP page: HAL, BEL, BDL, MDL, GRSE and GSL are visible categories"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,15 +1,12 @@
 # Deep Content Review — Political Theory 20: Diverse Perspectives on Justice
 
-- **Baseline locked:** `political-theory-20:learner-v2:g2` — 91/100
-- **Immutable successor:** `political-theory-20:learner-v2:g3` — 97/100
+- **Baseline locked:** `political-theory-20:learner-v2:g3` — 97/100
+- **Immutable successor:** `political-theory-20:learner-v2:g4` — 97/100
 - **Approval:** false / pending explicit approval
 
 ## Defects reported
 
-- All 12 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.
-- All 12 solved items lack explicit directive-and-demand decoding.
-- All 12 solved items lack an executable mark-scaled compression plan.
-- The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.
+
 
 ## Four-artifact repair and re-review
 

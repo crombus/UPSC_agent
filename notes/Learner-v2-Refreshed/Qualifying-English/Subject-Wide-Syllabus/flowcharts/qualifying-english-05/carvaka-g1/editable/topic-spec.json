@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-english-05",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\05_Error-Correction-and-Transformation.md",
+  "source_advanced": null,
+  "stages": [
+    {
+      "number": 1,
+      "title": "Meaning first",
+      "body": "Establish the intended proposition before editing form."
+    },
+    {
+      "number": 2,
+      "title": "Finite-verb scan",
+      "body": "Check completeness, agreement and tense before minor wording."
+    },
+    {
+      "number": 3,
+      "title": "Noun and pronoun scan",
+      "body": "Check countability, determiners, case, reference and number."
+    },
+    {
+      "number": 4,
+      "title": "Pattern scan",
+      "body": "Check prepositions, phrasal verbs, word form, modifiers and parallelism."
+    },
+    {
+      "number": 5,
+      "title": "Minimal repair",
+      "body": "Change only the defective element and preserve acceptable wording."
+    },
+    {
+      "number": 6,
+      "title": "Voice eligibility",
+      "body": "Confirm a suitable object before forming a passive."
+    },
+    {
+      "number": 7,
+      "title": "Voice mechanics",
+      "body": "Preserve tense, aspect, modal and necessary agent."
+    },
+    {
+      "number": 8,
+      "title": "Narration purpose",
+      "body": "Choose said, told, asked, requested, advised or ordered by function."
+    },
+    {
+      "number": 9,
+      "title": "Backshift and deixis",
+      "body": "Change tense, pronouns, time and place only when context requires."
+    },
+    {
+      "number": 10,
+      "title": "Transformation conditions",
+      "body": "Apply no sooner, unless, too-to, despite and degree patterns only when meaning survives."
+    },
+    {
+      "number": 11,
+      "title": "Focus and tags",
+      "body": "Preserve only-scope and derive tags from polarity and auxiliary."
+    },
+    {
+      "number": 12,
+      "title": "Timed error log",
+      "body": "Code the miss, state the rule, rewrite and retry a fresh item."
+    }
+  ]
+}

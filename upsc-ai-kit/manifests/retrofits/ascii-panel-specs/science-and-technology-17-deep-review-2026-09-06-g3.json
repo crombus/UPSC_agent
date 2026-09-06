@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-17",
+      "display_title": "Intellectual Property Rights and Patents",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Patentability decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "CLAIMED SUBJECT MATTER -> product or process?",
+            "NOVELTY -> absent from prior art",
+            "INVENTIVE STEP -> non-obvious technical advance / economic significance",
+            "INDUSTRIAL APPLICATION -> capable of being made or used in industry",
+            "SECTIONS 3 / 4 -> excluded subject matter still fails"
+          ],
+          "source_references": [
+            "Patent bargain and criteria",
+            "Invention-discovery boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Discovery invention product process matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "DISCOVERY -> finding; not automatically an invention",
+            "INVENTION -> qualifying new product or process",
+            "PRODUCT PATENT -> claimed thing",
+            "PROCESS PATENT -> claimed method",
+            "INDIA PHARMA / FOOD / CHEMICALS -> process-only 1970-2004; product from 01 JAN 2005"
+          ],
+          "source_references": [
+            "Invention-discovery boundary",
+            "Product-process boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Term and territoriality map",
+          "structural_type": "territorial-map",
+          "ascii_lines": [
+            "FILING DATE -> 20-YEAR TERM CLOCK",
+            "INDIAN GRANT -> enforceable territorial Indian right",
+            "DIRECT / PARIS ROUTE -> selected foreign filings",
+            "PCT ROUTE -> common international application procedure",
+            "NATIONAL / REGIONAL OFFICE -> final grant decision"
+          ],
+          "source_references": [
+            "Term-territoriality boundary",
+            "PCT-WIPO boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Indian patent procedure rail",
+          "structural_type": "process-rail",
+          "ascii_lines": [
+            "APPLICATION FILED",
+            "        -> PUBLICATION",
+            "        -> EXAMINATION ON REQUEST",
+            "        -> OPPOSITION / COMPLIANCE TEST",
+            "        -> GRANT OR REFUSAL; NEVER UPGRADE AN EARLIER RUNG"
+          ],
+          "source_references": [
+            "Application-publication-examination-grant ladder",
+            "Opposition-revocation-status boundary",
+            "Evidence and status firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Institution and forum router",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DPIIT / CIPAM -> policy and implementation support",
+            "CGPDTM -> administrative apex",
+            "INDIAN PATENT OFFICE -> patent administration",
+            "WIPO -> PCT and treaty cooperation; WTO -> TRIPS",
+            "IPAB -> existed at 2019 PYQ date; abolished in 2021"
+          ],
+          "source_references": [
+            "Controller and Patent Office roles",
+            "PCT-WIPO boundary",
+            "TRIPS-WTO boundary",
+            "IPAB date discipline",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Public-interest safeguard ladder",
+          "structural_type": "safeguard-ladder",
+          "ascii_lines": [
+            "SECTION 3(d) -> patentability quality filter",
+            "SECTION 25 -> pre-grant / post-grant opposition",
+            "SECTION 84 -> three-year timing plus three grounds",
+            "SECTION 92 -> notified emergency / urgency / public non-commercial use",
+            "SECTION 107A -> regulatory-information use; not unlimited research"
+          ],
+          "source_references": [
+            "Compulsory-licensing boundary",
+            "Section 3(d) two-limb filter",
+            "Bolar and research discipline",
+            "Opposition-revocation-status boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Section 3(d) twin-limb gate",
+          "structural_type": "two-limb-gate",
+          "ascii_lines": [
+            "KNOWN SUBSTANCE",
+            "BRANCH A -> new property / new use -> not an invention",
+            "BRANCH B -> new form -> test significant efficacy difference",
+            "THERAPEUTIC CONTEXT -> owner records therapeutic-efficacy reading",
+            "TRAP -> never transfer the new-form exception to a new-use claim"
+          ],
+          "source_references": [
+            "Section 3(d) two-limb filter",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PCT WIPO TRIPS WTO split",
+          "structural_type": "four-corner-comparison",
+          "ascii_lines": [
+            "PCT -> international patent-application procedure",
+            "WIPO -> administers PCT and other IP treaties",
+            "TRIPS -> minimum standards plus flexibilities",
+            "WTO -> monitoring and member-to-member dispute settlement",
+            "NONE -> automatic universal patent grant"
+          ],
+          "source_references": [
+            "PCT-WIPO boundary",
+            "TRIPS-WTO boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Traditional knowledge protection chain",
+          "structural_type": "defensive-chain",
+          "ascii_lines": [
+            "CODIFIED MEDICINAL KNOWLEDGE",
+            "        -> TKDL DOCUMENTATION",
+            "        -> SEARCHABLE PRIOR ART FOR PATENT OFFICES",
+            "        -> RESIST WRONGFUL NOVELTY CLAIMS / BIOPIRACY",
+            "LIMIT -> defensive disclosure is not a patent or automatic benefit sharing"
+          ],
+          "source_references": [
+            "Traditional knowledge and TKDL",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "IP boundary wheel",
+          "structural_type": "instrument-wheel",
+          "ascii_lines": [
+            "PATENT -> invention / technical function",
+            "COPYRIGHT -> original expression, not idea",
+            "TRADEMARK -> commercial-source identifier",
+            "GI -> collective place-linked goods",
+            "DESIGN -> visual appearance, not technical function",
+            "MUST REMEMBER: Patent analysis separates patentable subject matter, novelty, inventive...",
+            "MUST REMEMBER: Patent analysis separates patentable subject matter, novelty, inventive..."
+          ],
+          "source_references": [
+            "IP-instrument boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-17_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Life material and software filter",
+          "structural_type": "classification-filter",
+          "ascii_lines": [
+            "PLANTS / ANIMALS / SEEDS / VARIETIES -> Section 3(j) exclusion",
+            "PLANT VARIETY -> PPV&FR sui-generis route",
+            "MICRO-ORGANISM -> not inside the stated plant-animal exclusion",
+            "SOFTWARE-LABELLED CLAIM -> apply criteria and exclusions; no blanket rule here",
+            "RULE -> classify claimed subject matter before policy argument",
+            "CLOSE DISTINCTION: Discovery is not invention, filing is not grant, patent is not...",
+            "CLOSE DISTINCTION: Discovery is not invention, filing is not grant, patent is not..."
+          ],
+          "source_references": [
+            "Life-material patentability boundary",
+            "Software-claim discipline",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-17_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Innovation access and status spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "INCENTIVE -> disclosure + investment + licensing",
+            "TRANSLATION -> validation + TTO + pilot + finance + regulation + market",
+            "ACCESS -> Section 3(d) + CL + opposition + Bolar + TRIPS flexibilities",
+            "STATUS -> filed != published != examined != granted != commercialised",
+            "VERDICT -> quality rights, credible safeguards and translation capacity",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite the relevant Act/provision,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite the relevant Act/provision,..."
+          ],
+          "source_references": [
+            "Access-innovation balance",
+            "Commercialisation-chain boundary",
+            "Evidence and status firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g2\\science-and-technology-17_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-17_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-17\\g3\\science-and-technology-17_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

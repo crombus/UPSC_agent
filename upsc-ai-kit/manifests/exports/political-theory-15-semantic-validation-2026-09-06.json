@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-15",
+  "record_id": "political-theory-15:learner-v2:g4",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 6,
+    "questions": [
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 169,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 176,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 273,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 267,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 266,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 290,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 53,
+    "workbook_pages": 25,
+    "main_layout": {
+      "page_count": 53,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 25,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Complete-Learning-Session_2026-09-06.md": "d9ff8e87310346496744ae4ab784acbc5fde708d5ec4470438e4cac52f359782",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Solved-Practice-Workbook_2026-09-06.md": "d0e841304aa4be3c48cf6c3c783cce96ce708bd336a68d9a0f00ae1c2eb498c3",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Complete-Learning-Session_2026-09-06.pdf": "d82c4b32dab2f2346cca53a33bed7e9e002c40fbe5f151466e102a94069acb86",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Solved-Practice-Workbook_2026-09-06.pdf": "f6356de010a8fc4f750cef5b38a2b6f9ac47d6ef9dd34560fa2a3471eac34c27",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-15\\carvaka-g4\\master.png": "115aca220c993fa0a7306d2977bf10edef467d9f0706ecfff7e919bd5e76edd1",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-15\\carvaka-g4\\poster.pdf": "b3005d4565fd05764ccc476319645a67c27ee330d6f552e7f0d343d49ab0b7b3",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-15\\carvaka-g4\\tiled.pdf": "ace0e2692c95439dfde0f49b4cde044112e70dba731671c7769387593b379dba",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-15\\carvaka-g4\\ascii-master.pdf": "8851cd80caeafb394f0554f2dd31cbf62d2df5fbd7118662a239acec1530936e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-15\\carvaka-g4\\ascii-master.txt": "e985aca56eff1d95e4d49962ea01373cb16f6d1669cb37367ae4c6520b8879df"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-15",
+    "title": "Power, Authority and Legitimacy",
+    "old_record_id": "political-theory-15:learner-v2:g3",
+    "new_record_id": "political-theory-15:learner-v2:g4",
+    "old_generation": 3,
+    "new_generation": 4,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-15-learner-v2-g4-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T11:55:08.547159+00:00",
+    "identities": {
+      "export": "political-theory-15:learner-v2:g4",
+      "master": "political-theory-15:learner-v2:g4",
+      "review": "political-theory-15:learner-v2:g4"
+    },
+    "generations": {
+      "export": 4,
+      "master": 4,
+      "review": 4
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-16"
+}

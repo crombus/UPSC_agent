@@ -1,0 +1,358 @@
+{
+  "schema_version": 1,
+  "subject": "Essay",
+  "date": "2026-09-06",
+  "result": "passed",
+  "topic_count": 16,
+  "passed": 16,
+  "next_topic_key": "csat-01",
+  "next_subject": "CSAT",
+  "next_topic": "Reading-Comprehension",
+  "checks": {
+    "catalogue_order": true,
+    "all_topics_passed": true,
+    "authoritative_source_audit": true,
+    "all_learner_identities_approval_false": true,
+    "identity_isolation": true,
+    "dated_source_and_quotation_integrity": true,
+    "deliverable_hashes": true,
+    "status_tracker_agreement": true,
+    "targeted_regression": true
+  },
+  "metrics": {
+    "targeted_regression_tests": 30,
+    "per_topic_test_executions": 128,
+    "main_pages": 1240,
+    "workbook_pages": 577,
+    "solved_blocks": 144,
+    "mcqs": 1280,
+    "complete_model_essays": 16,
+    "model_essay_words": 15901,
+    "ascii_panels": 192,
+    "graphical_stages": 208
+  },
+  "topics": [
+    {
+      "topic_key": "essay-01",
+      "title": "Paper Rules, Choice and Selection",
+      "record_id": "essay-01:learner-v2:g9",
+      "generation": 9,
+      "approved": false,
+      "main_pages": 76,
+      "workbook_pages": 35,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        1018
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-01-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-01-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-02",
+      "title": "Philosophical Quote Decoding",
+      "record_id": "essay-02:learner-v2:g5",
+      "generation": 5,
+      "approved": false,
+      "main_pages": 78,
+      "workbook_pages": 36,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        1000
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-02-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-02-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-03",
+      "title": "Issue-Based Prompt Scoping",
+      "record_id": "essay-03:learner-v2:g5",
+      "generation": 5,
+      "approved": false,
+      "main_pages": 81,
+      "workbook_pages": 38,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        1013
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-03-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-03-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-04",
+      "title": "Brainstorming and Dimensional Expansion",
+      "record_id": "essay-04:learner-v2:g5",
+      "generation": 5,
+      "approved": false,
+      "main_pages": 76,
+      "workbook_pages": 36,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        1057
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-04-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-04-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-05",
+      "title": "Thesis, Central Argument and Argument Map",
+      "record_id": "essay-05:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 77,
+      "workbook_pages": 36,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        1011
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-05-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-05-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-06",
+      "title": "Introductions and Conclusions",
+      "record_id": "essay-06:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 78,
+      "workbook_pages": 37,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        1000
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-06-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-06-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-07",
+      "title": "Macro-Structure, Paragraph Flow and Transitions",
+      "record_id": "essay-07:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 78,
+      "workbook_pages": 37,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        985
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-07-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-07-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-08",
+      "title": "Argument, Counterargument and Synthesis",
+      "record_id": "essay-08:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 80,
+      "workbook_pages": 37,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        978
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-08-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-08-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-09",
+      "title": "Evidence, Examples, Data and Quotation Discipline",
+      "record_id": "essay-09:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 78,
+      "workbook_pages": 36,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        1008
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-09-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-09-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-10",
+      "title": "Ethical and Philosophical Frameworks and Value Conflicts",
+      "record_id": "essay-10:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 79,
+      "workbook_pages": 37,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        972
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-10-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-10-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-11",
+      "title": "Cross-Sector Lenses and Scale",
+      "record_id": "essay-11:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 78,
+      "workbook_pages": 36,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        991
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-11-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-11-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-12",
+      "title": "India-Centric Illustration Bank",
+      "record_id": "essay-12:learner-v2:g2",
+      "generation": 2,
+      "approved": false,
+      "main_pages": 78,
+      "workbook_pages": 35,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        999
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-12-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-12-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-13",
+      "title": "Time Management, Planning and Execution",
+      "record_id": "essay-13:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 76,
+      "workbook_pages": 36,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        960
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-13-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-13-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-14",
+      "title": "Language, Style and Functional Visuals",
+      "record_id": "essay-14:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 75,
+      "workbook_pages": 35,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        961
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-14-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-14-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-15",
+      "title": "Self-Evaluation and Internal Practice Rubric",
+      "record_id": "essay-15:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 76,
+      "workbook_pages": 35,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        987
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-15-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-15-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "essay-16",
+      "title": "Practice Loops, PYQ Lab and Revision System",
+      "record_id": "essay-16:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 76,
+      "workbook_pages": 35,
+      "question_count": 9,
+      "mcq_count": 80,
+      "model_essay_count": 1,
+      "model_essay_words": [
+        961
+      ],
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 13,
+      "targeted_tests": 8,
+      "validation": "upsc-ai-kit\\manifests\\exports\\essay-16-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\essay-16-semantic-completeness-2026-09-06-changed-files.txt"
+    }
+  ],
+  "hash_errors": {},
+  "errors": []
+}

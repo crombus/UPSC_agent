@@ -38,6 +38,8 @@ apply more than one and reconcile or choose between them explicitly.
 | ✅ **Deontology** | An act is right or wrong based on its conformity to a rule/duty, independent of its consequences. | Kant (Categorical Imperative) |
 | ✅ **Consequentialism (Utilitarianism)** | An act is right if it produces the best overall outcome/welfare, compared to alternatives. | Bentham, Mill |
 | ✅ **Virtue Ethics** | An act is right if it is what a person of good character (possessing practical wisdom, *phronesis*) would do in that situation. | Aristotle |
+| ⚠️ **Care ethics** | Moral judgment must attend to relationships, dependency, vulnerability and the unequal burdens of supposedly neutral choices; care is not unprincipled favouritism because it remains bounded by rights and justice. | Gilligan, Noddings and later care-ethics scholarship |
+| ⚠️ **Justice approaches** | Evaluate whether institutions distribute benefits and burdens fairly, use fair procedures and protect equal basic status; distributive, procedural, corrective and recognitional justice answer different questions. | Rawls and wider justice traditions |
 | ⚠️ **Ethical relativism** | The (contested) view that moral standards are relative to a culture/individual, with no universal standard — usually presented in GS-IV as a foil to be critiqued, not endorsed. |
 | ⚠️ **Ethical absolutism/universalism** | The view that some moral standards hold across all cultures/contexts — Kantian deontology is typically absolutist about core duties. |
 | ⚠️ **Motive vs intention vs consequence** | **Motive** = the underlying reason that moved the agent (career advancement, compassion, fear); **intention** = the specific outcome and means the agent deliberately chose; **consequence** = what actually followed, which can diverge from both. Deontology tests the maxim and chosen action; virtue ethics gives special attention to character and practical judgment; consequentialism compares expected effects, while actual outcomes may also reflect luck. A GS-IV case study is usually solved by separating the three explicitly — an officer can have a good motive, a defective intention, and a bad consequence, and each attracts a different response. |
@@ -53,9 +55,11 @@ apply more than one and reconcile or choose between them explicitly.
 3. **Virtue ethics third:** ask what a person with practical wisdom and the relevant virtues
    (courage, justice, temperance, honesty) would judge appropriate *in this specific context* —
    this step captures nuance the other two can miss.
-4. **Reconcile:** where all three converge, the recommendation is robust; where they diverge, state
-   which theory you are prioritising and why (e.g., prioritising a rights-based duty over a
-   marginal aggregate-welfare gain when fundamental dignity is at stake).
+4. **Care and justice check:** identify dependency, voice and vulnerability, then test whether the
+   distribution and procedure burden any group unfairly. Care corrects abstraction; justice prevents
+   care from collapsing into personal partiality.
+5. **Reconcile:** where the lenses converge, the recommendation is robust; where they diverge, state
+   which principle is decisive and why, and add safeguards for the value that remains at risk.
 
 ## 4. Indian applications and examples
 

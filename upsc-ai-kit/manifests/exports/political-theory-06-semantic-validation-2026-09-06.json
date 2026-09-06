@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-06",
+  "record_id": "political-theory-06:learner-v2:g7",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 9,
+    "questions": [
+      {
+        "title": "PYQ 1 — 2018 · 4(c) (15 marks)",
+        "marks": 15,
+        "model_words": 208,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "PYQ 2 — 2022 · 3(b) (15 marks)",
+        "marks": 15,
+        "model_words": 193,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "PYQ 3 — 2025 · 1(b) (10 marks)",
+        "marks": 10,
+        "model_words": 208,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 174,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 185,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 269,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 271,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 291,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 293,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 42,
+    "workbook_pages": 28,
+    "main_layout": {
+      "page_count": 42,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 28,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "targeted_tests": 84,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Complete-Learning-Session_2026-09-06.md": "4844f81febc187e2289106a42be4121d9d0014522167f7ea5ce8b8b609b0e134",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Solved-Practice-Workbook_2026-09-06.md": "5efa2de7f7d4a5444920b126bae002f6ebeef4fc2e3c52d6ef961a19296a9248",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Complete-Learning-Session_2026-09-06.pdf": "5e266ac6b0a8667846ee77f8698425485e98423a004c54d55096fd7e510d85f9",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-06\\g7\\topic-06_Solved-Practice-Workbook_2026-09-06.pdf": "32580ba205ca1cb8cb7bf15ceb5156f18ad896eaa767f544a98e851558a88830",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-06\\carvaka-g7\\master.png": "c13beaa9809885d489ea686ab4ffad5bb31026c251347bfbde294b9f67ef21a5",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-06\\carvaka-g7\\poster.pdf": "7a4ed62395e32d63c8afe1b60725ab64d6f58864258ac1b2bd1c1db9ee76d2b2",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-06\\carvaka-g7\\tiled.pdf": "dd7e500650e4f259170438c21703b8b4a7be000745eaee8e21390f8eb2ac19b6",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-06\\carvaka-g7\\ascii-master.pdf": "a81effbc5ff93f9ca2a9c3c944e233cf11ebf57928faa5e55bbc199a42c9ba8d",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-06\\carvaka-g7\\ascii-master.txt": "fb7ca8f42f184c4c56c135deb01f87badbe17d14b79636faa05133546bbd9d87"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "political-theory-06",
+    "title": "Feminism, Sex and Gender",
+    "old_record_id": "political-theory-06:learner-v2:g6",
+    "new_record_id": "political-theory-06:learner-v2:g7",
+    "old_generation": 6,
+    "new_generation": 7,
+    "old_score": 97,
+    "new_score": 97,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 29,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 97
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\political-theory-06-learner-v2-g7-2026-09-06-validation.json",
+    "review_started_at": "2026-09-06T11:39:04.882619+00:00",
+    "identities": {
+      "export": "political-theory-06:learner-v2:g7",
+      "master": "political-theory-06:learner-v2:g7",
+      "review": "political-theory-06:learner-v2:g7"
+    },
+    "generations": {
+      "export": 7,
+      "master": 7,
+      "review": 7
+    },
+    "review_score": 97,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "political-theory-07"
+}

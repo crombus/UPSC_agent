@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "topic_key": "essay-12",
+  "record_id": "essay-12:learner-v2:g2",
+  "generation": 2,
+  "date": "2026-09-06",
+  "approval": false,
+  "result": "passed",
+  "checks": {
+    "five_h2_order_and_register_notes_last": true,
+    "fifteen_topic_specific_sessions": true,
+    "three_verified_pyq_cards": true,
+    "complete_model_essay_950_1250_words": true,
+    "eighty_diagnostic_mcqs_strict_rotation": true,
+    "six_solved_original_drills": true,
+    "ascii_twelve_panel_master": true,
+    "graphical_twelve_core_plus_optional_stage": true,
+    "graphical_ascii_semantic_parity": true,
+    "pdf_indexes_and_pages": true,
+    "flow_validation_clean": true,
+    "source_provenance_and_hashes": true,
+    "identity_isolated_and_unapproved": true,
+    "targeted_tests": true,
+    "deliverables_present": true
+  },
+  "metrics": {
+    "main_pages": 78,
+    "workbook_pages": 35,
+    "question_count": 9,
+    "mcq_count": 80,
+    "model_essay_count": 1,
+    "model_essay_words": [
+      999
+    ],
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 13,
+    "targeted_tests": 8
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-12\\g2\\essay-12_Complete-Learning-Session_2026-09-06.md": "1e48338c192b24ef0cf989e491bd12a1a350c0c9ed55d24a566da939e99fa821",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-12\\g2\\essay-12_Solved-Practice-Workbook_2026-09-06.md": "db3773927dae295a21e7137911b5f4ffc774486cab7653a28370dd4860e2b8e5",
+    "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-12\\g2\\essay-12_Complete-Learning-Session_2026-09-06.pdf": "3901ef1dbf59e48a652de0bd66f11706a6d7ac3425cc6685681f6af06d8f207a",
+    "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-12\\g2\\essay-12_Solved-Practice-Workbook_2026-09-06.pdf": "c440e7ab80abfa47d871a52b97ef661f89a17f37316e707363de70b737ab5083",
+    "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\flowcharts\\essay-12\\carvaka-g2\\master.png": "fca006ecab77395e3f46e9baa506e05331718d078053a70be49a35526088a637",
+    "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\flowcharts\\essay-12\\carvaka-g2\\poster.pdf": "0bd9304ba852491d3c6a8aeb294535c9be1d75c889ace6bd8c8eb8744e457f63",
+    "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\flowcharts\\essay-12\\carvaka-g2\\tiled.pdf": "26ca629a4bebc3daf5ff53197415dfcf2f13af94434e2fc4717c873253a91de9",
+    "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\flowcharts\\essay-12\\carvaka-g2\\ascii-master.txt": "3ff486eb4bdc302bb5e235768cc4dd652ac2f7816586889ff775feb5508b3ca1",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-12\\g2\\essay-12_Graphical-Spec-g2.json": "cef1098be2391e04547690b7cebdccf7e731249aa68a442acd4df407534956e6"
+  },
+  "missing": [],
+  "errors": []
+}

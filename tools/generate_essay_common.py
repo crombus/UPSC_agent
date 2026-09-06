@@ -563,6 +563,17 @@ def _audited_pyq_section(config: dict[str, object], _blocks: list[str]) -> str:
             f"**Demand:** {demand}\n\n**Status:** {status}\n\n"
             f"**Model solution:** {model}"
         )
+    full_models = list(config.get("full_model_essays", []))
+    if full_models:
+        text += "\n\n### COMPLETE MODEL ESSAYS\n"
+        for number, model in enumerate(full_models, 1):
+            text += (
+                f"\n\n#### COMPLETE MODEL ESSAY {number} — {model['label']}\n\n"
+                f"**Prompt:** {model['prompt']}\n\n"
+                f"**Verification:** {model['verification']}\n\n"
+                f"**Model essay ({model['word_count']} words):**\n\n"
+                f"{model['essay']}"
+            )
     return text
 
 
@@ -771,7 +782,8 @@ def _write_generation_spec(
         "practice_profile": (
             "80 unique Essay-method MCQs with A/B/C/D at 20 each; three "
             "verified PYQ/application cards; six solved original answer-writing "
-            "prompts weighted 10,10,15,15,20,20; final topic-specific register notes."
+            "prompts weighted 10,10,15,15,20,20; complete model essays; final "
+            "topic-specific register notes."
         ),
         "pyq_status_note": config["pyq_note"],
         "current_linkage_note": config["current_note"],

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-08",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\08_General-Mental-Ability-Integrated-Map.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\08_Mixed-General-Mental-Ability-and-Strategy.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Classify",
+      "body": "Identify the dominant tested mechanism before calculating."
+    },
+    {
+      "number": 2,
+      "title": "Extract",
+      "body": "Separate givens, unknowns, constraints and the requested output."
+    },
+    {
+      "number": 3,
+      "title": "Represent",
+      "body": "Choose equation, table, diagram, number line, grid or passage map."
+    },
+    {
+      "number": 4,
+      "title": "Select method",
+      "body": "Use the lightest valid method, not the most familiar one."
+    },
+    {
+      "number": 5,
+      "title": "Execute",
+      "body": "Keep units, domains, direction and assumptions visible."
+    },
+    {
+      "number": 6,
+      "title": "Verify",
+      "body": "Use plug-back, bounds, enumeration, reverse coding or passage support."
+    },
+    {
+      "number": 7,
+      "title": "Decide",
+      "body": "Answer, eliminate, park or leave according to evidence and time."
+    },
+    {
+      "number": 8,
+      "title": "Cross-family routing",
+      "body": "Send number, arithmetic, rate, algebra, logic and communication gaps to their owners."
+    },
+    {
+      "number": 9,
+      "title": "Mixed problems",
+      "body": "Decompose a question into ordered sub-mechanisms."
+    },
+    {
+      "number": 10,
+      "title": "Cognitive load",
+      "body": "Externalise information instead of holding it mentally."
+    },
+    {
+      "number": 11,
+      "title": "Time and risk",
+      "body": "Use three passes and positive-evidence elimination."
+    },
+    {
+      "number": 12,
+      "title": "Readiness loop",
+      "body": "Diagnose error type, remediate the owner and retest under time."
+    }
+  ]
+}

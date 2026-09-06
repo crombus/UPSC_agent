@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T10:59:20+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "40860076715c004bc6250d8216da9f2b00cc40ec768f128eff8cedaf85024025",
+    "sha256_after": "40860076715c004bc6250d8216da9f2b00cc40ec768f128eff8cedaf85024025",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Ethics": 1
+  },
+  "sections": {
+    "Ethics — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11847,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2027,
+    "json_count": 5595,
+    "total_bytes": 4263635930,
+    "by_extension": {
+      ".json": 5595,
+      ".md": 2027,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-22",
+      "topic_title": "Case Study Method and Answer Architecture",
+      "subject": "Ethics",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 22,
+      "source_record_id": "ethics-22:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "0e823f83cf303f56ab9acbe2e974d60eb7f1c309fcff9cc303c09833d060ad17",
+          "output_sha256": "0e823f83cf303f56ab9acbe2e974d60eb7f1c309fcff9cc303c09833d060ad17",
+          "source_output_equal": true,
+          "bytes": 587417
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3a0bceec027afc0e8711ed63d46282a51ccc14ee208a89e4aa345ea12cd4b645",
+          "output_sha256": "3a0bceec027afc0e8711ed63d46282a51ccc14ee208a89e4aa345ea12cd4b645",
+          "source_output_equal": true,
+          "bytes": 352791
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-22\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "dbc8031f999ec5a17d85ad94cc79eb9619a9f0cffa8b0d37dd42b010517e92f6",
+          "output_sha256": "dbc8031f999ec5a17d85ad94cc79eb9619a9f0cffa8b0d37dd42b010517e92f6",
+          "source_output_equal": true,
+          "bytes": 2118875
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-22\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f088f0c306eff63406ed541921a57fe1eb0f2c13a98135b7520996d1e4d81609",
+          "output_sha256": "f088f0c306eff63406ed541921a57fe1eb0f2c13a98135b7520996d1e4d81609",
+          "source_output_equal": true,
+          "bytes": 2462091
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-22\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "93ead847935c377293d2b07d025faa4cddbe1ce8172a48c96eb3709d7772dce6",
+          "output_sha256": "93ead847935c377293d2b07d025faa4cddbe1ce8172a48c96eb3709d7772dce6",
+          "source_output_equal": true,
+          "bytes": 1883596
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-22\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "3126a08826e0a16f15b8dcd54bc51a89de3e5dba1685994a87fe87f044ae8216",
+          "output_sha256": "3126a08826e0a16f15b8dcd54bc51a89de3e5dba1685994a87fe87f044ae8216",
+          "source_output_equal": true,
+          "bytes": 8778
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-22\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "0ac18cf3f789cb622d82afc3839afe6866c4988ab131abea311b5d0e42967ca5",
+          "output_sha256": "0ac18cf3f789cb622d82afc3839afe6866c4988ab131abea311b5d0e42967ca5",
+          "source_output_equal": true,
+          "source_text_sha256": "3126a08826e0a16f15b8dcd54bc51a89de3e5dba1685994a87fe87f044ae8216",
+          "normalized_text_equal": true,
+          "bytes": 58694
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 30,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 29,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 29,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 29,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 29,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 30,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 29,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 29,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 29,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 107,
+        "solved_practice_workbook": 47,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 107,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 47,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11226
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

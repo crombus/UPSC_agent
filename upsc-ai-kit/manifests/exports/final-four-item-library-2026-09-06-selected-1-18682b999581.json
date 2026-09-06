@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T10:41:06+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "2cace3fe059b9300487248dd94ee388f52ae074fa056e68d031bada9934d0f30",
+    "sha256_after": "2cace3fe059b9300487248dd94ee388f52ae074fa056e68d031bada9934d0f30",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Ethics": 1
+  },
+  "sections": {
+    "Ethics — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11795,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2017,
+    "json_count": 5553,
+    "total_bytes": 4263417229,
+    "by_extension": {
+      ".json": 5553,
+      ".md": 2017,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-14",
+      "topic_title": "Probity: Concept and Philosophical Basis of Governance",
+      "subject": "Ethics",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 14,
+      "source_record_id": "ethics-14:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-14\\g3\\ethics-14_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "30e9db1b67cb9a6311291877572c0951d1ffdeab3160d116780854823d79ee71",
+          "output_sha256": "30e9db1b67cb9a6311291877572c0951d1ffdeab3160d116780854823d79ee71",
+          "source_output_equal": true,
+          "bytes": 473390
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-14\\g3\\ethics-14_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "25b13d0df4b8fa085c44ff09e0d378f8e13677bea4e37bc0bcd26a3f4a122c8a",
+          "output_sha256": "25b13d0df4b8fa085c44ff09e0d378f8e13677bea4e37bc0bcd26a3f4a122c8a",
+          "source_output_equal": true,
+          "bytes": 341150
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-14\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "401c3e9ec1a34f60cb8a05d8352ea571dc0c0fe971739cf4c4d755d9b3416eeb",
+          "output_sha256": "401c3e9ec1a34f60cb8a05d8352ea571dc0c0fe971739cf4c4d755d9b3416eeb",
+          "source_output_equal": true,
+          "bytes": 2169074
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-14\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "679dc10dccc9b9a4735f0afe735379c6b5d4c27a662f068cff26169afeda1fa9",
+          "output_sha256": "679dc10dccc9b9a4735f0afe735379c6b5d4c27a662f068cff26169afeda1fa9",
+          "source_output_equal": true,
+          "bytes": 2387084
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-14\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "0f26c38cdc2b184ce6861e9ca715c8e70004fadf30d31d099f707b5bde170ada",
+          "output_sha256": "0f26c38cdc2b184ce6861e9ca715c8e70004fadf30d31d099f707b5bde170ada",
+          "source_output_equal": true,
+          "bytes": 1929350
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-14\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "98791dccca02b79d3051e4891d769cd4530fd9061c1dc7b868b272e880a53a76",
+          "output_sha256": "98791dccca02b79d3051e4891d769cd4530fd9061c1dc7b868b272e880a53a76",
+          "source_output_equal": true,
+          "bytes": 8565
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-14\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "755e3fb3045bd411281ba4170d2b84e2187879d45bcdd519b1157342f5a30f53",
+          "output_sha256": "755e3fb3045bd411281ba4170d2b84e2187879d45bcdd519b1157342f5a30f53",
+          "source_output_equal": true,
+          "source_text_sha256": "98791dccca02b79d3051e4891d769cd4530fd9061c1dc7b868b272e880a53a76",
+          "normalized_text_equal": true,
+          "bytes": 58658
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 30,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 30,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 30,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 30,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 29,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 29,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 29,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 29,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 29,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 29,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 77,
+        "solved_practice_workbook": 44,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 77,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 44,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11764
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

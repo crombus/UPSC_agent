@@ -1,0 +1,6 @@
+PASS
+12 graphical stages.
+12 ASCII panels.
+Poster and tiled pages derive from master.png.
+Tile overlap: 80px.
+Approval: false.

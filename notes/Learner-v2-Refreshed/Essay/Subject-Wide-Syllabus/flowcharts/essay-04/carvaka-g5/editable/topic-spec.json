@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-04",
+  "subject": "Essay",
+  "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+  "short_route": "BRAINSTORMING AND DIMENSIONAL EXPANSION → BRAINSTORMING AND DIMENSIONAL EXPANSION → BRAINSTORMING AND DIMENSIONAL EXPANSION → BRAINSTORMING AND DIMENSIONAL EXPANSION → BRAINSTORMING AND DIMENSIONAL EXPANSION → BRAINSTORMING AND DIMENSIONAL EXPANSION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g5 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-04\\g5\\essay-04_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-04-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "6fe5cc42aa4295a0eb9c4ba7d0c626f17eea12b2d55ab48dcd7ff54b4a5c39a6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONCE A PROMPT IS DECODED (02/03), THIS TOPIC TEACHES",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "SHOULD CONTAIN — THIS FOLDER'S GUIDANCE ON DIMENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches",
+        "EXAM FACTS / SOURCE BASIS → should contain — this folder's guidance on dimension",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches",
+            "EXAM FACTS / SOURCE BASIS → should contain — this folder's guidance on dimension"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is well-s",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPAND ONLY UNTIL THE THESIS IS WELL-S",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHICH SCALE DOES THE PROMPT'S TENSION OPERATE AT",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP FILTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at",
+        "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a",
+        "KEEP FILTER: COHERENCE, EVIDENCE A → Compare the final link across all kept dimensions. I",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is well-s",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a named,",
+            "KEEP FILTER: COHERENCE, EVIDENCE A → Compare the final link across all kept dimensions. I"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is well-s"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Keep filter: coherence, evidence and limitation",
+        "Keep filter: coherence, evidence and limitation — 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "KEEP FILTER",
+          "role": "comparison"
+        },
+        {
+          "text": "COHERENCE, EVIDENCE A",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINCT CLAIM - EXPLAINS A MECHANISM - HAS A",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPARE THE FINAL LINK ACROSS ALL KEPT DIMENSIONS. I",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR EACH SELECTED DIMENSION, RECALL ONE INDIAN ILLUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a",
+        "KEEP FILTER: COHERENCE, EVIDENCE A → Compare the final link across all kept dimensions. I",
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each selected dimension, recall one Indian illus",
+        "THESIS OPTIONS AND SELECTION → Use the two to three strongest dimensions (not all a",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a named,",
+          "INDIA-FIRST ILLUSTRATION STARTERS → For each selected dimension, recall one Indian illus",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "KEEP FILTER: COHERENCE, EVIDENCE A → Compare the final link across all kept dimensions. I",
+          "THESIS OPTIONS AND SELECTION → Use the two to three strongest dimensions (not all a",
+          "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a named,"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a named,",
+            "KEEP FILTER: COHERENCE, EVIDENCE A → Compare the final link across all kept dimensions. I"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each selected dimension, recall one Indian illus",
+            "THESIS OPTIONS AND SELECTION → Use the two to three strongest dimensions (not all a"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a named,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Keep filter: coherence, evidence and limitation",
+        "Keep filter: coherence, evidence and limitation — 2",
+        "India-first illustration starters",
+        "Thesis options and selection"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR EACH SELECTED DIMENSION, RECALL ONE INDIAN ILLUS",
+          "role": "evidence"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "USE THE TWO TO THREE STRONGEST DIMENSIONS (NOT ALL",
+          "role": "caution"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP EACH SELECTED DIMENSION ONTO ONE OR TWO PARAGRAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each selected dimension, recall one Indian illus",
+        "THESIS OPTIONS AND SELECTION → Use the two to three strongest dimensions (not all a",
+        "SIMPLE ESSAY ARCHITECTURE → Map each selected dimension onto one or two paragrap",
+        "OPENING, BODY AND CLOSURE MOVES → The opening should signal which dimensions the essay",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each selected dimension, recall one Indian illus",
+            "THESIS OPTIONS AND SELECTION → Use the two to three strongest dimensions (not all a"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → Map each selected dimension onto one or two paragrap",
+            "OPENING, BODY AND CLOSURE MOVES → The opening should signal which dimensions the essay"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each selected dimension, recall one Indian illus"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP EACH SELECTED DIMENSION ONTO ONE OR TWO PARAGRAP",
+          "role": "evidence"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "primary"
+        },
+        {
+          "text": "THE OPENING SHOULD SIGNAL WHICH DIMENSIONS THE ESSAY",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "\"SOCIAL-ECONOMIC-POLITICAL-ENVIRONMENTAL\" REGARDLESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIMPLE ESSAY ARCHITECTURE → Map each selected dimension onto one or two paragrap",
+        "OPENING, BODY AND CLOSURE MOVES → The opening should signal which dimensions the essay",
+        "TRAPS AND REPAIR MOVES → \"social-economic-political-environmental\" regardless",
+        "TRAPS AND REPAIR MOVES — 2 → same point in different vocabulary). → Repair: befor",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → Map each selected dimension onto one or two paragrap",
+            "OPENING, BODY AND CLOSURE MOVES → The opening should signal which dimensions the essay"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES → \"social-economic-political-environmental\" regardless",
+            "TRAPS AND REPAIR MOVES — 2 → same point in different vocabulary). → Repair: befor"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "SIMPLE ESSAY ARCHITECTURE → Map each selected dimension onto one or two paragrap"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Traps and repair moves",
+        "Traps and repair moves — 2"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "\"SOCIAL-ECONOMIC-POLITICAL-ENVIRONMENTAL\" REGARDLESS",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "primary"
+        },
+        {
+          "text": "SAME POINT IN DIFFERENT VOCABULARY).",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 3",
+          "role": "comparison"
+        },
+        {
+          "text": "OR TWO SENTENCES).",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES → \"social-economic-political-environmental\" regardless",
+        "TRAPS AND REPAIR MOVES — 2 → same point in different vocabulary). → Repair: befor",
+        "TRAPS AND REPAIR MOVES — 3 → or two sentences). → Repair: cut to two-to-four",
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt from ../README.md, li",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TRAPS AND REPAIR MOVES → \"social-economic-political-environmental\" regardless",
+            "TRAPS AND REPAIR MOVES — 2 → same point in different vocabulary). → Repair: befor"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 3 → or two sentences). → Repair: cut to two-to-four dime",
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt from ../README.md, li"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES → \"social-economic-political-environmental\" regardless"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves",
+        "Traps and repair moves — 2",
+        "Traps and repair moves — 3",
+        "Timed micro-drill and self-check"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 3",
+          "role": "comparison"
+        },
+        {
+          "text": "OR TWO SENTENCES).",
+          "role": "evidence"
+        },
+        {
+          "text": "CUT TO TWO-TO-FOUR DIME",
+          "role": "primary"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK",
+          "role": "outcome"
+        },
+        {
+          "text": "5-MINUTE DRILL",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR ANY PROMPT FROM ../README.MD, LI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES — 3 → or two sentences). → Repair: cut to two-to-four",
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt from ../README.md, li",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: dimensional expansion is a search-and-p",
+        "CONCEPT DEFINITION AND TAXONOMY → different vocabulary (e.g. \"social\" and \"community\"",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "TRAPS AND REPAIR MOVES — 3 → or two sentences). → Repair: cut to two-to-four dime",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: dimensional expansion is a search-and-p",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt from ../README.md, li",
+          "CONCEPT DEFINITION AND TAXONOMY → different vocabulary (e.g. \"social\" and \"community\"",
+          "TRAPS AND REPAIR MOVES — 3 → or two sentences). → Repair: cut to two-to-four dime"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 3 → or two sentences). → Repair: cut to two-to-four dime",
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any prompt from ../README.md, li"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: dimensional expansion is a search-and-p",
+            "CONCEPT DEFINITION AND TAXONOMY → different vocabulary (e.g. \"social\" and \"community\""
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES — 3 → or two sentences). → Repair: cut to two-to-four dime"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves — 3",
+        "Timed micro-drill and self-check",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "DIMENSIONAL EXPANSION IS A SEARCH-AND-P",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENT VOCABULARY (E.G. \"SOCIAL\" AND \"COMMUNITY\"",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "SIGNALS MORE DEPTH IS FALSE; FOUR SHALLOW DIMENSIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: dimensional expansion is a search-and-p",
+        "CONCEPT DEFINITION AND TAXONOMY → different vocabulary (e.g. \"social\" and \"community\"",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more depth is false; four shallow dimensions",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → breadth vs. depth. Breadth asks how many distinct an",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: dimensional expansion is a search-and-p",
+            "CONCEPT DEFINITION AND TAXONOMY → different vocabulary (e.g. \"social\" and \"community\""
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more depth is false; four shallow dimensions",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → breadth vs. depth. Breadth asks how many distinct an"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: dimensional expansion is a search-and-p"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "SIGNALS MORE DEPTH IS FALSE; FOUR SHALLOW DIMENSIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "BREADTH VS. DEPTH. BREADTH ASKS HOW MANY DISTINCT AN",
+          "role": "comparison"
+        },
+        {
+          "text": "AXIS (SCALE/TIME/DOMAIN/DISTRIBUTION) MUST BE REPRES",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "comparison"
+        },
+        {
+          "text": "USE THE SCALE AXIS (PERSON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more depth is false; four shallow dimensions",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → breadth vs. depth. Breadth asks how many distinct an",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → axis (scale/time/domain/distribution) must be repres",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Use the scale axis (person → family/community → inst",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more depth is false; four shallow dimensions",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → breadth vs. depth. Breadth asks how many distinct an"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → axis (scale/time/domain/distribution) must be repres",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Use the scale axis (person → family/community → inst"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → signals more depth is false; four shallow dimensions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Tension pairs and hidden assumptions — 3",
+        "Levels of analysis and temporal-spatial scale"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "AXIS (SCALE/TIME/DOMAIN/DISTRIBUTION) MUST BE REPRES",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "USE THE SCALE AXIS (PERSON",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONCE A PROMPT IS DECODED (02/03), THIS TOPIC TEACHES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → axis (scale/time/domain/distribution) must be repres",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Use the scale axis (person → family/community → inst",
+        "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches",
+        "EXAM FACTS / SOURCE BASIS → should contain — this folder's guidance on dimension",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → axis (scale/time/domain/distribution) must be repres",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Use the scale axis (person → family/community → inst"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches",
+            "EXAM FACTS / SOURCE BASIS → should contain — this folder's guidance on dimension"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → axis (scale/time/domain/distribution) must be repres"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions — 3",
+        "Levels of analysis and temporal-spatial scale",
+        "Purpose and scope",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONCE A PROMPT IS DECODED (02/03), THIS TOPIC TEACHES",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "SHOULD CONTAIN — THIS FOLDER'S GUIDANCE ON DIMENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches",
+        "EXAM FACTS / SOURCE BASIS → should contain — this folder's guidance on dimension",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches",
+            "EXAM FACTS / SOURCE BASIS → should contain — this folder's guidance on dimension"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is well-s",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → Once a prompt is decoded (02/03), this topic teaches"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPAND ONLY UNTIL THE THESIS IS WELL-S",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHICH SCALE DOES THE PROMPT'S TENSION OPERATE AT",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP FILTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at",
+        "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a",
+        "KEEP FILTER: COHERENCE, EVIDENCE A → Compare the final link across all kept dimensions. I",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is well-s",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Which scale does the prompt's tension operate at"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "KEEP FILTER: COHERENCE, EVIDENCE A → distinct claim - explains a mechanism - has a named,",
+            "KEEP FILTER: COHERENCE, EVIDENCE A → Compare the final link across all kept dimensions. I"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: expand only until the thesis is well-s"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Keep filter: coherence, evidence and limitation",
+        "Keep filter: coherence, evidence and limitation — 2"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "GENUINE DIMENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "YIELDS A DISTINCT CLAIM, TESTABLE INDEPENDENTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "FALSE DIMENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "A RELABELLING OF AN EXISTING DIMENSION IN",
+          "role": "primary"
+        },
+        {
+          "text": "A GENERATIVE CATEGORY (SCALE, TIME, DOMAIN, DISTRIBUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "BREADTH VS. DEPTH",
+          "role": "comparison"
+        },
+        {
+          "text": "THE HIDDEN ASSUMPTION THAT MORE DIMENSIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Genuine dimension: yields a distinct claim, testable independently",
+            "False dimension: a relabelling of an existing dimension in",
+            "Axis: a generative category (scale, time, domain, distributional",
+            "Breadth vs. depth: the hidden assumption that more dimensions"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Breadth vs. coherence: a distinct and more dangerous trade-off than",
+            "Template completeness vs. relevance: the assumption that every",
+            "NOT: Mechanical axis-listing (forcing scale, time, domain, and",
+            "NOT: Duplicate-claim padding. → Protocol: run the Section 6 filter"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Ignoring the distributional axis on prompts that clearly need",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Disciplined dimension-generation using scale, time, domain and distributional axes together; detecting and pruning false expansion.",
+            "Grounded in: UPSC Essay PYQ corpus — V1 directly verified locally for 2018–2025 and V2 carried-forward practice wording"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

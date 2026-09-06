@@ -1,1155 +1,1155 @@
 # Paper Rules, Choice and Selection — Learner-v2 Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.
+> **Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.
 
 ### SOURCE, PROGRESSION AND OFFICIAL-RULE AUDIT
 
-- **Generation date:** 2026-09-04.
+- **Generation date:** 2026-09-06.
 - **Source order:** canonical Basic owner first; Advanced owner second; Essay master framework, README, official-syllabus map, answer-worthiness audit and revision chart next; PYQ corpus and official OCR papers after that; live official UPSC pages only as a final check.
 - **Basic/Advanced boundary:** complete Basic teaching remains first and Advanced material remains optional and last.
 - **OCR boundary:** Repository Markdown was primary. OCR-searchable official UPSC Essay papers were supplementary only for printed instructions and V1 prompt wording. No author, official model answer, current marks split, phase allocation, paragraph count or scoring rubric was inferred.
 - **Qdrant:** not used; repository Markdown and local official papers were sufficient.
-- **PYQ integrity:** The cards preserve one exact 2024 instruction and two exact V1 prompts. Their solutions demonstrate selection method only and never claim an official model answer.
-- **Live-source boundary:** Rule boundary dated 2026-09-04: use the repository's locally audited 2024–2025 instructions plus the official-scheme duration. Re-check the applicable UPSC notification and paper before asserting a future year's exact rules.
+- **PYQ integrity:** Three application cards use the repository's explicit V1/V2 status. No unavailable official model answer, marking rubric or attribution is invented.
+- **Live-source boundary:** Live source check dated 2026-09-06: official UPSC routes were attempted and access-blocked; blocked pages support no new claim. UN, WHO and IPCC primary pages were separately checked for cross-theme factual boundaries.
 - **No-formula rule:** strategy, heuristics and practice weights are never presented as official UPSC instructions or marking criteria.
 
 ### LIVE OFFICIAL-SOURCE ATTEMPT LOG
 
-The checks below were made on 2026-09-04. Substantive official text is used only for the proposition it supports; title-only, blocked or thin pages are recorded and supply no factual claim.
+The checks below were made on 2026-09-06. Substantive official text is used only for the proposition it supports; title-only, blocked or thin pages are recorded and supply no factual claim.
 
-- https://upsc.gov.in/examinations/previous-question-papers — attempted 2026-09-04; the official UPSC index returned an access block to the live fetch, so no new wording or paper rule was imported.
-- https://upsc.gov.in/examinations/active-examinations — attempted 2026-09-04; the official UPSC page returned an access block, so the repository's audited rule boundary remains controlling.
-- https://upsc.gov.in/sites/default/files/Notif-CSP-2024-Engl-140224.pdf — searched 2026-09-04; the official notification URL was located only as a scheme cross-check route and supplied no unaudited current rule.
+- https://upsc.gov.in/examinations/previous-question-papers — attempted 2026-09-06; official page returned HTTP 403 to the live fetch, so it supports no new wording.
+- https://upsc.gov.in/examinations/active-examinations — attempted 2026-09-06; official page returned HTTP 403 to the live fetch, so it supports no current-paper inference.
+- https://upsc.gov.in/sites/default/files/Notif-CSP-2024-Engl-140224.pdf — searched 2026-09-06; retained only as an official scheme cross-check route, not as an Essay rubric.
 
 ## BASIC LEARNING SESSION
 
-### SESSION 1 — FOUNDATION — Audited 2024 and 2025 paper boundary
+### SESSION 1 — FOUNDATION — Purpose, ownership and prompt fidelity
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Audited 2024 and 2025 paper boundary explains how 2024 printed instruction and 2025 audited boundary combine into one usable Essay-planning move.
+**Plain-language definition:** Purpose, ownership and prompt fidelity explains how Purpose and scope and Exam facts / source basis combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Audited 2024 and 2025 paper boundary should be applied through 2024 printed instruction and 2025 audited boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Purpose, ownership and prompt fidelity should be applied through Purpose and scope and Exam facts / source basis, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Audited**
-- **paper**
-- **boundary**
-- **printed**
-- **instruction**
-- **locally**
+- **Purpose**
+- **ownership**
+- **prompt**
+- **fidelity**
+- **scope**
+- **Exam**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
 
 #### VISUAL FIRST
 
 ```text
-AUDITED 2024 AND 2025 PAPER BOUNDARY
-01. 2024 printed instruction
+PURPOSE, OWNERSHIP AND PROMPT FIDELITY
+01. Purpose and scope
     |
     v
-02. 2025 audited boundary
-STATUS / CATEGORY FIREWALL -> Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+02. Exam facts / source basis
+STATUS / CATEGORY FIREWALL -> Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
+This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Audited 2024 and 2025 paper boundary as a sequence: identify 2024 printed instruction, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Purpose, ownership and prompt fidelity as a sequence: identify Purpose and scope, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not convert a locally audited 2024 rule into an unsupported claim about every future paper. This keeps 2024 printed instruction and 2025 audited boundary in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue. This keeps Purpose and scope and Exam facts / source basis in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)".
-- The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
+- This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
+- The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
 
 #### EXAMINER CAUTION
 
-- Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+- Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Audited 2024 and 2025 paper boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** State the dated audited boundary before giving any selection advice.
+- **Objective practice:** Apply Purpose, ownership and prompt fidelity by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** State the exact demand and the bounded writing decision.
 
 #### MINI RECAP
 
-- **Mechanism chain:** 2024 printed instruction -> 2025 audited boundary
-- **Qualified use:** State the dated audited boundary before giving any selection advice.
+- **Mechanism chain:** Purpose and scope -> Exam facts / source basis
+- **Qualified use:** State the exact demand and the bounded writing decision.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Audited 2024 and 2025 paper boundary
-EXACT TERMS: Audited | paper | boundary | printed | instruction | locally
-MECHANISM / ARGUMENT: connect 2024 printed instruction and 2025 audited boundary without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: State the dated audited boundary before giving any selection advice.
-UPSC TRAP / ANSWER-USE: Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+START / CONCEPT: Purpose, ownership and prompt fidelity
+EXACT TERMS: Purpose | ownership | prompt | fidelity | scope | Exam
+MECHANISM / ARGUMENT: connect Purpose and scope and Exam facts / source basis without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: State the exact demand and the bounded writing decision.
+UPSC TRAP / ANSWER-USE: Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 2 — FOUNDATION — One topic from each Section
+### SESSION 2 — FOUNDATION — Purpose and scope
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** One topic from each Section explains how One-per-section constraint combine into one usable Essay-planning move.
+**Plain-language definition:** Purpose and scope explains how Exam facts / source basis — 2 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> One topic from each Section should be applied through One-per-section constraint, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Purpose and scope should be applied through Exam facts / source basis — 2, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
+- **Purpose**
+- **scope**
+- **Exam**
+- **facts**
+- **basis**
 - **from**
-- **each**
-- **Section**
-- **One-per-section**
-- **constraint**
-- **audited**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not quote the garbled 2025 English instruction as clean official wording.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 
 #### VISUAL FIRST
 
 ```text
-ONE TOPIC FROM EACH SECTION
-01. One-per-section constraint
-STATUS / CATEGORY FIREWALL -> Do not quote the garbled 2025 English instruction as clean official wording.
+PURPOSE AND SCOPE
+01. Exam facts / source basis — 2
+STATUS / CATEGORY FIREWALL -> Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
+one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read One topic from each Section as a sequence: identify One-per-section constraint, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Purpose and scope as a sequence: identify Exam facts / source basis — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not quote the garbled 2025 English instruction as clean official wording. This keeps One-per-section constraint in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08. This keeps Exam facts / source basis — 2 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
+- one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
 
 #### EXAMINER CAUTION
 
-- Do not quote the garbled 2025 English instruction as clean official wording.
+- Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply One topic from each Section by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Check the one-per-Section rule before comparing prompt appeal.
+- **Objective practice:** Apply Purpose and scope by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Define operative terms before expanding dimensions.
 
 #### MINI RECAP
 
-- **Mechanism chain:** One-per-section constraint
-- **Qualified use:** Check the one-per-Section rule before comparing prompt appeal.
+- **Mechanism chain:** Exam facts / source basis — 2
+- **Qualified use:** Define operative terms before expanding dimensions.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: One topic from each Section
-EXACT TERMS: from | each | Section | One-per-section | constraint | audited
-MECHANISM / ARGUMENT: connect One-per-section constraint without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Check the one-per-Section rule before comparing prompt appeal.
-UPSC TRAP / ANSWER-USE: Do not quote the garbled 2025 English instruction as clean official wording.
+START / CONCEPT: Purpose and scope
+EXACT TERMS: Purpose | scope | Exam | facts | basis | from
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 2 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Define operative terms before expanding dimensions.
+UPSC TRAP / ANSWER-USE: Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 3 — FOUNDATION — Four-prompt scan within each Section
+### SESSION 3 — FOUNDATION — Exam facts / source basis
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Four-prompt scan within each Section explains how Four-prompt choice set combine into one usable Essay-planning move.
+**Plain-language definition:** Exam facts / source basis explains how Exam facts / source basis — 3 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Four-prompt scan within each Section should be applied through Four-prompt choice set, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Exam facts / source basis should be applied through Exam facts / source basis — 3, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Four-prompt**
+- **Exam**
+- **facts**
+- **basis**
+- **essays**
+- **choosing**
+- **from**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an example without explaining its argumentative function.
+
+#### VISUAL FIRST
+
+```text
+EXAM FACTS / SOURCE BASIS
+01. Exam facts / source basis — 3
+STATUS / CATEGORY FIREWALL -> Do not use an example without explaining its argumentative function.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Exam facts / source basis as a sequence: identify Exam facts / source basis — 3, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not use an example without explaining its argumentative function. This keeps Exam facts / source basis — 3 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
+
+#### EXAMINER CAUTION
+
+- Do not use an example without explaining its argumentative function.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Exam facts / source basis by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Build one qualified thesis and keep it visible.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Exam facts / source basis — 3
+- **Qualified use:** Build one qualified thesis and keep it visible.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Exam facts / source basis
+EXACT TERMS: Exam | facts | basis | essays | choosing | from
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 3 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Build one qualified thesis and keep it visible.
+UPSC TRAP / ANSWER-USE: Do not use an example without explaining its argumentative function.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 4 — CORE — Exam facts / source basis — 2
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Exam facts / source basis — 2 explains how Exam facts / source basis — 4 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Exam facts / source basis — 2 should be applied through Exam facts / source basis — 4, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Exam**
+- **facts**
+- **basis**
+- **Section**
+- **continues**
+- **This**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### VISUAL FIRST
+
+```text
+EXAM FACTS / SOURCE BASIS — 2
+01. Exam facts / source basis — 4
+STATUS / CATEGORY FIREWALL -> Do not treat a pedagogical scaffold as an official UPSC marking rule.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Exam facts / source basis — 2 as a sequence: identify Exam facts / source basis — 4, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not treat a pedagogical scaffold as an official UPSC marking rule. This keeps Exam facts / source basis — 4 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+
+#### EXAMINER CAUTION
+
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Exam facts / source basis — 2 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Give every paragraph one argumentative job.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Exam facts / source basis — 4
+- **Qualified use:** Give every paragraph one argumentative job.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Exam facts / source basis — 2
+EXACT TERMS: Exam | facts | basis | Section | continues | This
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 4 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Give every paragraph one argumentative job.
+UPSC TRAP / ANSWER-USE: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 5 — CORE — Exam facts / source basis — 3
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Exam facts / source basis — 3 explains how Exam facts / source basis — 5 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Exam facts / source basis — 3 should be applied through Exam facts / source basis — 5, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Exam**
+- **facts**
+- **basis**
+- **bilingually**
+- **Hindi**
+- **then**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not let a counter-view replace the thesis; use it to qualify the thesis.
+
+#### VISUAL FIRST
+
+```text
+EXAM FACTS / SOURCE BASIS — 3
+01. Exam facts / source basis — 5
+STATUS / CATEGORY FIREWALL -> Do not let a counter-view replace the thesis; use it to qualify the thesis.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Exam facts / source basis — 3 as a sequence: identify Exam facts / source basis — 5, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not let a counter-view replace the thesis; use it to qualify the thesis. This keeps Exam facts / source basis — 5 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
+
+#### EXAMINER CAUTION
+
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Exam facts / source basis — 3 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Join a named illustration to its mechanism.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Exam facts / source basis — 5
+- **Qualified use:** Join a named illustration to its mechanism.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Exam facts / source basis — 3
+EXACT TERMS: Exam | facts | basis | bilingually | Hindi | then
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 5 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Join a named illustration to its mechanism.
+UPSC TRAP / ANSWER-USE: Do not let a counter-view replace the thesis; use it to qualify the thesis.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 6 — CORE — Exam facts / source basis — 4
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Exam facts / source basis — 4 explains how Exam facts / source basis — 6 and Exam facts / source basis — 7 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Exam facts / source basis — 4 should be applied through Exam facts / source basis — 6 and Exam facts / source basis — 7, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Exam**
+- **facts**
+- **basis**
+- **header**
+- **marks**
+- **line**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an unverified quotation, statistic, attribution or anecdote.
+
+#### VISUAL FIRST
+
+```text
+EXAM FACTS / SOURCE BASIS — 4
+01. Exam facts / source basis — 6
+    |
+    v
+02. Exam facts / source basis — 7
+STATUS / CATEGORY FIREWALL -> Do not use an unverified quotation, statistic, attribution or anecdote.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official. Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Exam facts / source basis — 4 as a sequence: identify Exam facts / source basis — 6, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not use an unverified quotation, statistic, attribution or anecdote. This keeps Exam facts / source basis — 6 and Exam facts / source basis — 7 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official.
+- Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
+
+#### EXAMINER CAUTION
+
+- Do not use an unverified quotation, statistic, attribution or anecdote.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Exam facts / source basis — 4 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use a counter-case to refine, not derail, the thesis.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Exam facts / source basis — 6 -> Exam facts / source basis — 7
+- **Qualified use:** Use a counter-case to refine, not derail, the thesis.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Exam facts / source basis — 4
+EXACT TERMS: Exam | facts | basis | header | marks | line
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 6 and Exam facts / source basis — 7 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use a counter-case to refine, not derail, the thesis.
+UPSC TRAP / ANSWER-USE: Do not use an unverified quotation, statistic, attribution or anecdote.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 7 — CORE — Exam facts / source basis — 5
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Exam facts / source basis — 5 explains how The central idea and common misreading combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Exam facts / source basis — 5 should be applied through The central idea and common misreading, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Exam**
+- **facts**
+- **basis**
+- **central**
+- **idea**
+- **common**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not multiply dimensions that repeat the same claim in new vocabulary.
+
+#### VISUAL FIRST
+
+```text
+EXAM FACTS / SOURCE BASIS — 5
+01. The central idea and common misreading
+STATUS / CATEGORY FIREWALL -> Do not multiply dimensions that repeat the same claim in new vocabulary.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Exam facts / source basis — 5 as a sequence: identify The central idea and common misreading, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not multiply dimensions that repeat the same claim in new vocabulary. This keeps The central idea and common misreading in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+
+#### EXAMINER CAUTION
+
+- Do not multiply dimensions that repeat the same claim in new vocabulary.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Exam facts / source basis — 5 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Sequence paragraphs through explicit logical bridges.
+
+#### MINI RECAP
+
+- **Mechanism chain:** The central idea and common misreading
+- **Qualified use:** Sequence paragraphs through explicit logical bridges.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Exam facts / source basis — 5
+EXACT TERMS: Exam | facts | basis | central | idea | common
+MECHANISM / ARGUMENT: connect The central idea and common misreading without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Sequence paragraphs through explicit logical bridges.
+UPSC TRAP / ANSWER-USE: Do not multiply dimensions that repeat the same claim in new vocabulary.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 8 — CORE — Exam facts / source basis — 6
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Exam facts / source basis — 6 explains how Basic scan questions combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Exam facts / source basis — 6 should be applied through Basic scan questions, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Exam**
+- **facts**
+- **basis**
+- **Basic**
 - **scan**
-- **within**
-- **each**
-- **Section**
-- **choice**
+- **questions**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not select two prompts from the same Section.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not end with aspiration unsupported by the preceding argument.
 
 #### VISUAL FIRST
 
 ```text
-FOUR-PROMPT SCAN WITHIN EACH SECTION
-01. Four-prompt choice set
-STATUS / CATEGORY FIREWALL -> Do not select two prompts from the same Section.
+EXAM FACTS / SOURCE BASIS — 6
+01. Basic scan questions
+STATUS / CATEGORY FIREWALL -> Do not end with aspiration unsupported by the preceding argument.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section.
+1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Four-prompt scan within each Section as a sequence: identify Four-prompt choice set, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis — 6 as a sequence: identify Basic scan questions, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not select two prompts from the same Section. This keeps Four-prompt choice set in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not end with aspiration unsupported by the preceding argument. This keeps Basic scan questions in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section.
+- 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
 
 #### EXAMINER CAUTION
 
-- Do not select two prompts from the same Section.
+- Do not end with aspiration unsupported by the preceding argument.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Four-prompt scan within each Section by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Run the same quick viability test on all four prompts in a Section.
+- **Objective practice:** Apply Exam facts / source basis — 6 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Move across actor, scale and time only when the claim changes.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Four-prompt choice set
-- **Qualified use:** Run the same quick viability test on all four prompts in a Section.
+- **Mechanism chain:** Basic scan questions
+- **Qualified use:** Move across actor, scale and time only when the claim changes.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Four-prompt scan within each Section
-EXACT TERMS: Four-prompt | scan | within | each | Section | choice
-MECHANISM / ARGUMENT: connect Four-prompt choice set without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Run the same quick viability test on all four prompts in a Section.
-UPSC TRAP / ANSWER-USE: Do not select two prompts from the same Section.
+START / CONCEPT: Exam facts / source basis — 6
+EXACT TERMS: Exam | facts | basis | Basic | scan | questions
+MECHANISM / ARGUMENT: connect Basic scan questions without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Move across actor, scale and time only when the claim changes.
+UPSC TRAP / ANSWER-USE: Do not end with aspiration unsupported by the preceding argument.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 4 — CORE — Bilingual prompt display
+### SESSION 9 — CORE — Exam facts / source basis — 7
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Bilingual prompt display explains how Bilingual display combine into one usable Essay-planning move.
+**Plain-language definition:** Exam facts / source basis — 7 explains how Comparison grid combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Bilingual prompt display should be applied through Bilingual display, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Exam facts / source basis — 7 should be applied through Comparison grid, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Bilingual**
-- **prompt**
-- **display**
-- **audited**
-- **prompts**
-- **printed**
+- **Exam**
+- **facts**
+- **basis**
+- **Comparison**
+- **grid**
+- **quick**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat internal B5–B8 labels as stable printed numbering.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not sacrifice the second essay's time budget to perfect the first.
 
 #### VISUAL FIRST
 
 ```text
-BILINGUAL PROMPT DISPLAY
-01. Bilingual display
-STATUS / CATEGORY FIREWALL -> Do not treat internal B5–B8 labels as stable printed numbering.
+EXAM FACTS / SOURCE BASIS — 7
+01. Comparison grid
+STATUS / CATEGORY FIREWALL -> Do not sacrifice the second essay's time budget to perfect the first.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line.
+Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Bilingual prompt display as a sequence: identify Bilingual display, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis — 7 as a sequence: identify Comparison grid, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not treat internal B5–B8 labels as stable printed numbering. This keeps Bilingual display in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not sacrifice the second essay's time budget to perfect the first. This keeps Comparison grid in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line.
+- Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
 
 #### EXAMINER CAUTION
 
-- Do not treat internal B5–B8 labels as stable printed numbering.
+- Do not sacrifice the second essay's time budget to perfect the first.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Bilingual prompt display by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Follow section headings rather than assuming a numbering convention.
+- **Objective practice:** Apply Exam facts / source basis — 7 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use ethical nuance without moralising.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Bilingual display
-- **Qualified use:** Follow section headings rather than assuming a numbering convention.
+- **Mechanism chain:** Comparison grid
+- **Qualified use:** Use ethical nuance without moralising.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Bilingual prompt display
-EXACT TERMS: Bilingual | prompt | display | audited | prompts | printed
-MECHANISM / ARGUMENT: connect Bilingual display without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Follow section headings rather than assuming a numbering convention.
-UPSC TRAP / ANSWER-USE: Do not treat internal B5–B8 labels as stable printed numbering.
+START / CONCEPT: Exam facts / source basis — 7
+EXACT TERMS: Exam | facts | basis | Comparison | grid | quick
+MECHANISM / ARGUMENT: connect Comparison grid without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use ethical nuance without moralising.
+UPSC TRAP / ANSWER-USE: Do not sacrifice the second essay's time budget to perfect the first.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 5 — CORE — Printed numbering instability
+### SESSION 10 — CORE — The central idea and common misreading
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Printed numbering instability explains how Numbering instability combine into one usable Essay-planning move.
+**Plain-language definition:** The central idea and common misreading explains how Comparison grid — 2 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Printed numbering instability should be applied through Numbering instability, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> The central idea and common misreading should be applied through Comparison grid — 2, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Printed**
-- **numbering**
-- **instability**
-- **stable**
-- **rule**
-- **restarts**
+- **central**
+- **idea**
+- **common**
+- **misreading**
+- **Comparison**
+- **grid**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not present a choice matrix or time split as an official UPSC rule.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not mistake novelty of phrasing for originality of thought.
 
 #### VISUAL FIRST
 
 ```text
-PRINTED NUMBERING INSTABILITY
-01. Numbering instability
-STATUS / CATEGORY FIREWALL -> Do not present a choice matrix or time split as an official UPSC rule.
+THE CENTRAL IDEA AND COMMON MISREADING
+01. Comparison grid — 2
+STATUS / CATEGORY FIREWALL -> Do not mistake novelty of phrasing for originality of thought.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8.
+Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Printed numbering instability as a sequence: identify Numbering instability, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read The central idea and common misreading as a sequence: identify Comparison grid — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not present a choice matrix or time split as an official UPSC rule. This keeps Numbering instability in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not mistake novelty of phrasing for originality of thought. This keeps Comparison grid — 2 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8.
+- Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
 
 #### EXAMINER CAUTION
 
-- Do not present a choice matrix or time split as an official UPSC rule.
+- Do not mistake novelty of phrasing for originality of thought.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Printed numbering instability by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Use prompt wording without inventing an author or official rubric.
+- **Objective practice:** Apply The central idea and common misreading by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Preserve factual and quotation integrity.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Numbering instability
-- **Qualified use:** Use prompt wording without inventing an author or official rubric.
+- **Mechanism chain:** Comparison grid — 2
+- **Qualified use:** Preserve factual and quotation integrity.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Printed numbering instability
-EXACT TERMS: Printed | numbering | instability | stable | rule | restarts
-MECHANISM / ARGUMENT: connect Numbering instability without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Use prompt wording without inventing an author or official rubric.
-UPSC TRAP / ANSWER-USE: Do not present a choice matrix or time split as an official UPSC rule.
+START / CONCEPT: The central idea and common misreading
+EXACT TERMS: central | idea | common | misreading | Comparison | grid
+MECHANISM / ARGUMENT: connect Comparison grid — 2 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Preserve factual and quotation integrity.
+UPSC TRAP / ANSWER-USE: Do not mistake novelty of phrasing for originality of thought.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 6 — CORE — Attribution and rubric boundaries
+### SESSION 11 — CORE — Basic scan questions
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Attribution and rubric boundaries explains how Attribution boundary and Rubric boundary combine into one usable Essay-planning move.
+**Plain-language definition:** Basic scan questions explains how India-first illustration starters and Thesis options and selection combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Attribution and rubric boundaries should be applied through Attribution boundary and Rubric boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Basic scan questions should be applied through India-first illustration starters and Thesis options and selection, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Attribution**
-- **rubric**
-- **boundaries**
+- **Basic**
+- **scan**
+- **questions**
+- **India-first**
+- **illustration**
+- **starters**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
+
+#### VISUAL FIRST
+
+```text
+BASIC SCAN QUESTIONS
+01. India-first illustration starters
+    |
+    v
+02. Thesis options and selection
+STATUS / CATEGORY FIREWALL -> Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Basic scan questions as a sequence: identify India-first illustration starters, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue. This keeps India-first illustration starters and Thesis options and selection in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
+- For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
+
+#### EXAMINER CAUTION
+
+- Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Basic scan questions by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Import GS knowledge selectively and analytically.
+
+#### MINI RECAP
+
+- **Mechanism chain:** India-first illustration starters -> Thesis options and selection
+- **Qualified use:** Import GS knowledge selectively and analytically.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Basic scan questions
+EXACT TERMS: Basic | scan | questions | India-first | illustration | starters
+MECHANISM / ARGUMENT: connect India-first illustration starters and Thesis options and selection without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Import GS knowledge selectively and analytically.
+UPSC TRAP / ANSWER-USE: Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 12 — CORE — GS knowledge without a GS answer
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** GS knowledge without a GS answer explains how Advanced proposition and boundary combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> GS knowledge without a GS answer should be applied through Advanced proposition and boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **knowledge**
+- **Advanced**
+- **proposition**
 - **boundary**
-- **Neither**
-- **audited**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not choose by familiarity, emotional appeal or quotation recognition alone.
-
-#### VISUAL FIRST
-
-```text
-ATTRIBUTION AND RUBRIC BOUNDARIES
-01. Attribution boundary
-    |
-    v
-02. Rubric boundary
-STATUS / CATEGORY FIREWALL -> Do not choose by familiarity, emotional appeal or quotation recognition alone.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution. The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Attribution and rubric boundaries as a sequence: identify Attribution boundary, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not choose by familiarity, emotional appeal or quotation recognition alone. This keeps Attribution boundary and Rubric boundary in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution.
-- The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules.
-
-#### EXAMINER CAUTION
-
-- Do not choose by familiarity, emotional appeal or quotation recognition alone.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Attribution and rubric boundaries by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Label every matrix, score and time split as strategy.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Attribution boundary -> Rubric boundary
-- **Qualified use:** Label every matrix, score and time split as strategy.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Attribution and rubric boundaries
-EXACT TERMS: Attribution | rubric | boundaries | boundary | Neither | audited
-MECHANISM / ARGUMENT: connect Attribution boundary and Rubric boundary without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Label every matrix, score and time split as strategy.
-UPSC TRAP / ANSWER-USE: Do not choose by familiarity, emotional appeal or quotation recognition alone.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 7 — CORE — Three-hour duration boundary
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Three-hour duration boundary explains how Duration boundary combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Three-hour duration boundary should be applied through Duration boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Three-hour**
-- **duration**
-- **boundary**
-- **repository**
-- **dates**
-- **official**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not mistake eccentric interpretation for originality.
-
-#### VISUAL FIRST
-
-```text
-THREE-HOUR DURATION BOUNDARY
-01. Duration boundary
-STATUS / CATEGORY FIREWALL -> Do not mistake eccentric interpretation for originality.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Three-hour duration boundary as a sequence: identify Duration boundary, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not mistake eccentric interpretation for originality. This keeps Duration boundary in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
-
-#### EXAMINER CAUTION
-
-- Do not mistake eccentric interpretation for originality.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Three-hour duration boundary by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Prefer the prompt that produces a qualified claim early.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Duration boundary
-- **Qualified use:** Prefer the prompt that produces a qualified claim early.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Three-hour duration boundary
-EXACT TERMS: Three-hour | duration | boundary | repository | dates | official
-MECHANISM / ARGUMENT: connect Duration boundary without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Prefer the prompt that produces a qualified claim early.
-UPSC TRAP / ANSWER-USE: Do not mistake eccentric interpretation for originality.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 8 — CORE — Official rule versus strategy
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Official rule versus strategy explains how Rule-strategy firewall combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Official rule versus strategy should be applied through Rule-strategy firewall, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Official**
-- **rule**
-- **versus**
-- **strategy**
-- **Rule-strategy**
-- **firewall**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not commit when evidence depends on half-remembered figures or attributions.
-
-#### VISUAL FIRST
-
-```text
-OFFICIAL RULE VERSUS STRATEGY
-01. Rule-strategy firewall
-STATUS / CATEGORY FIREWALL -> Do not commit when evidence depends on half-remembered figures or attributions.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Official rule versus strategy as a sequence: identify Rule-strategy firewall, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not commit when evidence depends on half-remembered figures or attributions. This keeps Rule-strategy firewall in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
-
-#### EXAMINER CAUTION
-
-- Do not commit when evidence depends on half-remembered figures or attributions.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Official rule versus strategy by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Classify the prompt before planning dimensions.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Rule-strategy firewall
-- **Qualified use:** Classify the prompt before planning dimensions.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Official rule versus strategy
-EXACT TERMS: Official | rule | versus | strategy | Rule-strategy | firewall
-MECHANISM / ARGUMENT: connect Rule-strategy firewall without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Classify the prompt before planning dimensions.
-UPSC TRAP / ANSWER-USE: Do not commit when evidence depends on half-remembered figures or attributions.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 9 — CORE — Thesis-fit viability test
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Thesis-fit viability test explains how Thesis-fit combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Thesis-fit viability test should be applied through Thesis-fit, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Thesis-fit**
-- **viability**
-- **test**
-- **prompt**
-- **high-fit**
-- **when**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not optimise one essay by leaving the second with an unworkable time budget.
-
-#### VISUAL FIRST
-
-```text
-THESIS-FIT VIABILITY TEST
-01. Thesis-fit
-STATUS / CATEGORY FIREWALL -> Do not optimise one essay by leaving the second with an unworkable time budget.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Thesis-fit viability test as a sequence: identify Thesis-fit, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not optimise one essay by leaving the second with an unworkable time budget. This keeps Thesis-fit in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-
-#### EXAMINER CAUTION
-
-- Do not optimise one essay by leaving the second with an unworkable time budget.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Thesis-fit viability test by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Demand distinct claims, not renamed repetitions.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Thesis-fit
-- **Qualified use:** Demand distinct claims, not renamed repetitions.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Thesis-fit viability test
-EXACT TERMS: Thesis-fit | viability | test | prompt | high-fit | when
-MECHANISM / ARGUMENT: connect Thesis-fit without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Demand distinct claims, not renamed repetitions.
-UPSC TRAP / ANSWER-USE: Do not optimise one essay by leaving the second with an unworkable time budget.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 10 — CORE — Interpretive clarity and prompt type
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Interpretive clarity and prompt type explains how Interpretive clarity combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Interpretive clarity and prompt type should be applied through Interpretive clarity, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Interpretive**
-- **clarity**
-- **prompt**
-- **type**
-- **safe**
 - **choice**
+- **best**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not reverse a viable choice merely because another topic later looks more fashionable.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 
 #### VISUAL FIRST
 
 ```text
-INTERPRETIVE CLARITY AND PROMPT TYPE
-01. Interpretive clarity
-STATUS / CATEGORY FIREWALL -> Do not reverse a viable choice merely because another topic later looks more fashionable.
+GS KNOWLEDGE WITHOUT A GS ANSWER
+01. Advanced proposition and boundary
+STATUS / CATEGORY FIREWALL -> Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
+Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Interpretive clarity and prompt type as a sequence: identify Interpretive clarity, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read GS knowledge without a GS answer as a sequence: identify Advanced proposition and boundary, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not reverse a viable choice merely because another topic later looks more fashionable. This keeps Interpretive clarity in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08. This keeps Advanced proposition and boundary in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
+- Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
 
 #### EXAMINER CAUTION
 
-- Do not reverse a viable choice merely because another topic later looks more fashionable.
+- Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Interpretive clarity and prompt type by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Choose only evidence-safe routes that can survive verification.
+- **Objective practice:** Apply GS knowledge without a GS answer by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use narrative or analogy only when it advances the proposition.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Interpretive clarity
-- **Qualified use:** Choose only evidence-safe routes that can survive verification.
+- **Mechanism chain:** Advanced proposition and boundary
+- **Qualified use:** Use narrative or analogy only when it advances the proposition.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Interpretive clarity and prompt type
-EXACT TERMS: Interpretive | clarity | prompt | type | safe | choice
-MECHANISM / ARGUMENT: connect Interpretive clarity without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Choose only evidence-safe routes that can survive verification.
-UPSC TRAP / ANSWER-USE: Do not reverse a viable choice merely because another topic later looks more fashionable.
+START / CONCEPT: GS knowledge without a GS answer
+EXACT TERMS: knowledge | Advanced | proposition | boundary | choice | best
+MECHANISM / ARGUMENT: connect Advanced proposition and boundary without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use narrative or analogy only when it advances the proposition.
+UPSC TRAP / ANSWER-USE: Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 11 — CORE — Dimension and evidence tests
+### SESSION 13 — CORE SYNTHESIS — Narrative and reflective control
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Dimension and evidence tests explains how Dimension distinctness and Evidence availability combine into one usable Essay-planning move.
+**Plain-language definition:** Narrative and reflective control explains how Concept definition and taxonomy combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Dimension and evidence tests should be applied through Dimension distinctness and Evidence availability, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Narrative and reflective control should be applied through Concept definition and taxonomy, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Dimension**
-- **tests**
-- **distinctness**
-- **availability**
-- **viable**
-- **prompt**
+- **Narrative**
+- **reflective**
+- **control**
+- **definition**
+- **taxonomy**
+- **visible**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an example without explaining its argumentative function.
 
 #### VISUAL FIRST
 
 ```text
-DIMENSION AND EVIDENCE TESTS
-01. Dimension distinctness
+NARRATIVE AND REFLECTIVE CONTROL
+01. Concept definition and taxonomy
+STATUS / CATEGORY FIREWALL -> Do not use an example without explaining its argumentative function.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Narrative and reflective control as a sequence: identify Concept definition and taxonomy, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not use an example without explaining its argumentative function. This keeps Concept definition and taxonomy in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
+
+#### EXAMINER CAUTION
+
+- Do not use an example without explaining its argumentative function.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Narrative and reflective control by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Protect balance, originality and coherence together.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Concept definition and taxonomy
+- **Qualified use:** Protect balance, originality and coherence together.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Narrative and reflective control
+EXACT TERMS: Narrative | reflective | control | definition | taxonomy | visible
+MECHANISM / ARGUMENT: connect Concept definition and taxonomy without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Protect balance, originality and coherence together.
+UPSC TRAP / ANSWER-USE: Do not use an example without explaining its argumentative function.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 14 — CORE SYNTHESIS — Timed execution and word management
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Timed execution and word management explains how Tension pairs and hidden assumptions and Tension pairs and hidden assumptions — 2 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Timed execution and word management should be applied through Tension pairs and hidden assumptions and Tension pairs and hidden assumptions — 2, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Timed**
+- **execution**
+- **word**
+- **management**
+- **Tension**
+- **pairs**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### VISUAL FIRST
+
+```text
+TIMED EXECUTION AND WORD MANAGEMENT
+01. Tension pairs and hidden assumptions
     |
     v
-02. Evidence availability
-STATUS / CATEGORY FIREWALL -> Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+02. Tension pairs and hidden assumptions — 2
+STATUS / CATEGORY FIREWALL -> Do not treat a pedagogical scaffold as an official UPSC marking rule.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
+guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Dimension and evidence tests as a sequence: identify Dimension distinctness, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Timed execution and word management as a sequence: identify Tension pairs and hidden assumptions, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not convert a locally audited 2024 rule into an unsupported claim about every future paper. This keeps Dimension distinctness and Evidence availability in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not treat a pedagogical scaffold as an official UPSC marking rule. This keeps Tension pairs and hidden assumptions and Tension pairs and hidden assumptions — 2 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-- Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
+- guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
+- stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
 
 #### EXAMINER CAUTION
 
-- Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Dimension and evidence tests by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Use familiarity as a resource, never as the selection criterion.
+- **Objective practice:** Apply Timed execution and word management by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Fit planning, drafting and revision inside the paper budget.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Dimension distinctness -> Evidence availability
-- **Qualified use:** Use familiarity as a resource, never as the selection criterion.
+- **Mechanism chain:** Tension pairs and hidden assumptions -> Tension pairs and hidden assumptions — 2
+- **Qualified use:** Fit planning, drafting and revision inside the paper budget.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Dimension and evidence tests
-EXACT TERMS: Dimension | tests | distinctness | availability | viable | prompt
-MECHANISM / ARGUMENT: connect Dimension distinctness and Evidence availability without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Use familiarity as a resource, never as the selection criterion.
-UPSC TRAP / ANSWER-USE: Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
+START / CONCEPT: Timed execution and word management
+EXACT TERMS: Timed | execution | word | management | Tension | pairs
+MECHANISM / ARGUMENT: connect Tension pairs and hidden assumptions and Tension pairs and hidden assumptions — 2 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Fit planning, drafting and revision inside the paper budget.
+UPSC TRAP / ANSWER-USE: Do not treat a pedagogical scaffold as an official UPSC marking rule.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 12 — CORE — Familiarity versus tractability
+### SESSION 15 — CORE SYNTHESIS — Sustained central-argument execution
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Familiarity versus tractability explains how Familiarity limit combine into one usable Essay-planning move.
+**Plain-language definition:** Sustained central-argument execution explains how Tension pairs and hidden assumptions — 3 and Levels of analysis and temporal-spatial scale combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Familiarity versus tractability should be applied through Familiarity limit, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Sustained central-argument execution should be applied through Tension pairs and hidden assumptions — 3 and Levels of analysis and temporal-spatial scale, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Familiarity**
-- **versus**
-- **tractability**
-- **Subject**
-- **useful**
-- **only**
+- **Sustained**
+- **central-argument**
+- **execution**
+- **Tension**
+- **pairs**
+- **hidden**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not quote the garbled 2025 English instruction as clean official wording.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not let a counter-view replace the thesis; use it to qualify the thesis.
 
 #### VISUAL FIRST
 
 ```text
-FAMILIARITY VERSUS TRACTABILITY
-01. Familiarity limit
-STATUS / CATEGORY FIREWALL -> Do not quote the garbled 2025 English instruction as clean official wording.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Familiarity versus tractability as a sequence: identify Familiarity limit, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not quote the garbled 2025 English instruction as clean official wording. This keeps Familiarity limit in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-
-#### EXAMINER CAUTION
-
-- Do not quote the garbled 2025 English instruction as clean official wording.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Familiarity versus tractability by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Reward textual fidelity and defensible synthesis.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Familiarity limit
-- **Qualified use:** Reward textual fidelity and defensible synthesis.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Familiarity versus tractability
-EXACT TERMS: Familiarity | versus | tractability | Subject | useful | only
-MECHANISM / ARGUMENT: connect Familiarity limit without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Reward textual fidelity and defensible synthesis.
-UPSC TRAP / ANSWER-USE: Do not quote the garbled 2025 English instruction as clean official wording.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 13 — CORE SYNTHESIS — Originality without eccentricity
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Originality without eccentricity explains how Originality limit combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Originality without eccentricity should be applied through Originality limit, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Originality**
-- **eccentricity**
-- **means**
-- **defensible**
-- **interpretation**
-- **synthesis**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not select two prompts from the same Section.
-
-#### VISUAL FIRST
-
-```text
-ORIGINALITY WITHOUT ECCENTRICITY
-01. Originality limit
-STATUS / CATEGORY FIREWALL -> Do not select two prompts from the same Section.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Originality without eccentricity as a sequence: identify Originality limit, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not select two prompts from the same Section. This keeps Originality limit in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-
-#### EXAMINER CAUTION
-
-- Do not select two prompts from the same Section.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Originality without eccentricity by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Reject choices with multiple unresolved risk signals.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Originality limit
-- **Qualified use:** Reject choices with multiple unresolved risk signals.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Originality without eccentricity
-EXACT TERMS: Originality | eccentricity | means | defensible | interpretation | synthesis
-MECHANISM / ARGUMENT: connect Originality limit without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Reject choices with multiple unresolved risk signals.
-UPSC TRAP / ANSWER-USE: Do not select two prompts from the same Section.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 14 — CORE SYNTHESIS — Risk screen and two-essay portfolio
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Risk screen and two-essay portfolio explains how Risk screening and Two-essay portfolio combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Risk screen and two-essay portfolio should be applied through Risk screening and Two-essay portfolio, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Risk**
-- **screen**
-- **two-essay**
-- **portfolio**
-- **screening**
-- **prompt**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat internal B5–B8 labels as stable printed numbering.
-
-#### VISUAL FIRST
-
-```text
-RISK SCREEN AND TWO-ESSAY PORTFOLIO
-01. Risk screening
+SUSTAINED CENTRAL-ARGUMENT EXECUTION
+01. Tension pairs and hidden assumptions — 3
     |
     v
-02. Two-essay portfolio
-STATUS / CATEGORY FIREWALL -> Do not treat internal B5–B8 labels as stable printed numbering.
+02. Levels of analysis and temporal-spatial scale
+STATUS / CATEGORY FIREWALL -> Do not let a counter-view replace the thesis; use it to qualify the thesis.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
+reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13). Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Risk screen and two-essay portfolio as a sequence: identify Risk screening, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Sustained central-argument execution as a sequence: identify Tension pairs and hidden assumptions — 3, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not treat internal B5–B8 labels as stable printed numbering. This keeps Risk screening and Two-essay portfolio in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not let a counter-view replace the thesis; use it to qualify the thesis. This keeps Tension pairs and hidden assumptions — 3 and Levels of analysis and temporal-spatial scale in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
-- The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
+- reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13).
+- Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
 
 #### EXAMINER CAUTION
 
-- Do not treat internal B5–B8 labels as stable printed numbering.
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Risk screen and two-essay portfolio by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Protect both essays inside one execution budget.
+- **Objective practice:** Apply Sustained central-argument execution by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Return to a transformed thesis in the conclusion.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Risk screening -> Two-essay portfolio
-- **Qualified use:** Protect both essays inside one execution budget.
+- **Mechanism chain:** Tension pairs and hidden assumptions — 3 -> Levels of analysis and temporal-spatial scale
+- **Qualified use:** Return to a transformed thesis in the conclusion.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Risk screen and two-essay portfolio
-EXACT TERMS: Risk | screen | two-essay | portfolio | screening | prompt
-MECHANISM / ARGUMENT: connect Risk screening and Two-essay portfolio without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Protect both essays inside one execution budget.
-UPSC TRAP / ANSWER-USE: Do not treat internal B5–B8 labels as stable printed numbering.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 15 — CORE SYNTHESIS — Time allocation and commitment discipline
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Time allocation and commitment discipline explains how Time allocation and Commitment discipline combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Time allocation and commitment discipline should be applied through Time allocation and Commitment discipline, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Time**
-- **allocation**
-- **commitment**
-- **discipline**
-- **Choice**
-- **planning**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not present a choice matrix or time split as an official UPSC rule.
-
-#### VISUAL FIRST
-
-```text
-TIME ALLOCATION AND COMMITMENT DISCIPLINE
-01. Time allocation
-    |
-    v
-02. Commitment discipline
-STATUS / CATEGORY FIREWALL -> Do not present a choice matrix or time split as an official UPSC rule.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Time allocation and commitment discipline as a sequence: identify Time allocation, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not present a choice matrix or time split as an official UPSC rule. This keeps Time allocation and Commitment discipline in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction.
-- After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
-
-#### EXAMINER CAUTION
-
-- Do not present a choice matrix or time split as an official UPSC rule.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Time allocation and commitment discipline by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Commit after sufficient testing and change only before sunk drafting.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Time allocation -> Commitment discipline
-- **Qualified use:** Commit after sufficient testing and change only before sunk drafting.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Time allocation and commitment discipline
-EXACT TERMS: Time | allocation | commitment | discipline | Choice | planning
-MECHANISM / ARGUMENT: connect Time allocation and Commitment discipline without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Commit after sufficient testing and change only before sunk drafting.
-UPSC TRAP / ANSWER-USE: Do not present a choice matrix or time split as an official UPSC rule.
+START / CONCEPT: Sustained central-argument execution
+EXACT TERMS: Sustained | central-argument | execution | Tension | pairs | hidden
+MECHANISM / ARGUMENT: connect Tension pairs and hidden assumptions — 3 and Levels of analysis and temporal-spatial scale without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Return to a transformed thesis in the conclusion.
+UPSC TRAP / ANSWER-USE: Do not let a counter-view replace the thesis; use it to qualify the thesis.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
@@ -1339,933 +1339,1005 @@ actually choose, and state why in one sentence.
 the one that scored best on Sections 5–8's checks? If they differ,
 re-examine your reasoning before moving to `02`.
 
+#### Semantic-completeness repair — 6 September 2026
+
+##### Hostile coverage verdict and ownership
+
+This owner is responsible for **paper compliance and risk-aware choice**. Its irreducible coverage is:
+official instruction; strategic heuristic; two-essay portfolio; early commitment. The canonical boundary is explicit:
+prompt decoding belongs to 02/03; detailed drafting belongs to 05-08. Cross-topic material may supply evidence, but it must not displace
+this topic's writing skill or convert the essay into a GS answer.
+
+##### Prompt-fidelity and central-argument gate
+
+Before drafting, restate the exact prompt, identify its keywords, relation,
+scope and hidden assumption, then write one qualified thesis. Every paragraph
+must perform a distinct argumentative job for that thesis through
+**claim → named evidence/example → analysis → qualification → link**.
+Narrative, analogy and reflection are admissible only when they advance that
+argument. A list of sectors, schemes or facts is not an essay.
+
+##### Theme-transfer and originality gate
+
+Transfer GS knowledge selectively across these recurring Essay domains:
+philosophical/abstract; society and social justice; polity, democracy and governance; economy and development; science and technology; environment; education and health; women and youth; culture and history; international relations and peace; ethics and values. For each chosen lens, explain the mechanism and distribution of
+effects, test a counter-case and return to the proposition. Originality means
+a faithful but non-obvious connection, distinction or synthesis; it does not
+mean eccentric interpretation, ornamental quotation or invented anecdote.
+
+##### Model-answer and execution gate
+
+A complete 1000–1200-word practice essay should normally establish the problem,
+define operative terms, state the central thesis, develop three to five linked
+argument clusters, steelman the strongest objection, synthesize rather than
+split the difference, and conclude by deepening the opening claim. Planning,
+drafting and revision must fit the shared three-hour, two-essay budget. Exact
+time splits remain strategy, not an official UPSC rule.
+
+##### Verification and source-status gate
+
+Facts, constitutional or legal references, schemes, events, data, scientific
+claims, thinker attributions and quotations require a traceable source and
+access date. If exact wording or attribution is not verified, paraphrase it and
+label it as interpretation. The locally audited 2018–2025 Essay papers remain
+V1; 2013–2017 prompts remain V2 until checked against official papers. Failed
+or blocked live retrievals support no claim.
+
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which option applies 2024 printed instruction as an Essay-method distinction?
+### Q1. Which option applies Purpose and scope as an Essay-method distinction?
 
-A. The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)".
-B. Treat 2024 printed instruction as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace 2024 printed instruction with a familiar adjacent GS topic and maximise factual coverage.
-D. Use 2024 printed instruction to add more headings or dimensions without testing coherence.
-
-**Answer: A.**
-**Explanation:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q2. Which use of 2024 printed instruction stays closest to the printed prompt?
-
-A. Apply 2024 printed instruction only after drafting, when topic drift can no longer be prevented.
-B. The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)".
-C. Use 2024 printed instruction while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine 2024 printed instruction regardless of thesis fit.
-
-**Answer: B.**
-**Explanation:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q3. Which statement preserves the strategy-versus-official-rule boundary for 2024 printed instruction?
-
-A. Present 2024 printed instruction as an official marking rule rather than a pedagogical scaffold.
-B. Use 2024 printed instruction to avoid stating a serious counter-case or qualification.
-C. The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)".
-D. Support 2024 printed instruction with an unverified statistic, attribution or current claim.
-
-**Answer: C.**
-**Explanation:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q4. Which option avoids the standard Essay-method trap about 2024 printed instruction?
-
-A. Maximise the number of outputs produced by 2024 printed instruction, even if they repeat one claim.
-B. Allow an exception discovered through 2024 printed instruction to replace the central proposition.
-C. Silently tidy the printed prompt before applying 2024 printed instruction to make it easier to answer.
-D. The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)".
-
-**Answer: D.**
-**Explanation:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q5. Which option applies 2025 audited boundary as an Essay-method distinction?
-
-A. The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
-B. Treat 2025 audited boundary as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace 2025 audited boundary with a familiar adjacent GS topic and maximise factual coverage.
-D. Use 2025 audited boundary to add more headings or dimensions without testing coherence.
+A. This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
+B. Treat Purpose and scope as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Purpose and scope with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Purpose and scope to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q6. Which use of 2025 audited boundary stays closest to the printed prompt?
+### Q2. Which use of Purpose and scope stays closest to the printed prompt?
 
-A. Apply 2025 audited boundary only after drafting, when topic drift can no longer be prevented.
-B. The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
-C. Use 2025 audited boundary while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine 2025 audited boundary regardless of thesis fit.
+A. Apply Purpose and scope only after drafting, when topic drift can no longer be prevented.
+B. This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
+C. Use Purpose and scope while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Purpose and scope regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q7. Which statement preserves the strategy-versus-official-rule boundary for 2025 audited boundary?
+### Q3. Which statement preserves the strategy-versus-official-rule boundary for Purpose and scope?
 
-A. Present 2025 audited boundary as an official marking rule rather than a pedagogical scaffold.
-B. Use 2025 audited boundary to avoid stating a serious counter-case or qualification.
-C. The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
-D. Support 2025 audited boundary with an unverified statistic, attribution or current claim.
+A. Present Purpose and scope as an official marking rule rather than a pedagogical scaffold.
+B. Use Purpose and scope to avoid stating a serious counter-case or qualification.
+C. This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
+D. Support Purpose and scope with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q8. Which option avoids the standard Essay-method trap about 2025 audited boundary?
+### Q4. Which option avoids the standard Essay-method trap about Purpose and scope?
 
-A. Maximise the number of outputs produced by 2025 audited boundary, even if they repeat one claim.
-B. Allow an exception discovered through 2025 audited boundary to replace the central proposition.
-C. Silently tidy the printed prompt before applying 2025 audited boundary to make it easier to answer.
-D. The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
+A. Maximise the number of outputs produced by Purpose and scope, even if they repeat one claim.
+B. Allow an exception discovered through Purpose and scope to replace the central proposition.
+C. Silently tidy the printed prompt before applying Purpose and scope to make it easier to answer.
+D. This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
 
 **Answer: D.**
-**Explanation:** The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q9. Which option applies One-per-section constraint as an Essay-method distinction?
+### Q5. Which option applies Exam facts / source basis as an Essay-method distinction?
 
-A. The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
-B. Treat One-per-section constraint as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace One-per-section constraint with a familiar adjacent GS topic and maximise factual coverage.
-D. Use One-per-section constraint to add more headings or dimensions without testing coherence.
+A. The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
+B. Treat Exam facts / source basis as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q10. Which use of One-per-section constraint stays closest to the printed prompt?
+### Q6. Which use of Exam facts / source basis stays closest to the printed prompt?
 
-A. Apply One-per-section constraint only after drafting, when topic drift can no longer be prevented.
-B. The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
-C. Use One-per-section constraint while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine One-per-section constraint regardless of thesis fit.
+A. Apply Exam facts / source basis only after drafting, when topic drift can no longer be prevented.
+B. The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
+C. Use Exam facts / source basis while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q11. Which statement preserves the strategy-versus-official-rule boundary for One-per-section constraint?
+### Q7. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis?
 
-A. Present One-per-section constraint as an official marking rule rather than a pedagogical scaffold.
-B. Use One-per-section constraint to avoid stating a serious counter-case or qualification.
-C. The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
-D. Support One-per-section constraint with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis to avoid stating a serious counter-case or qualification.
+C. The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
+D. Support Exam facts / source basis with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q12. Which option avoids the standard Essay-method trap about One-per-section constraint?
+### Q8. Which option avoids the standard Essay-method trap about Exam facts / source basis?
 
-A. Maximise the number of outputs produced by One-per-section constraint, even if they repeat one claim.
-B. Allow an exception discovered through One-per-section constraint to replace the central proposition.
-C. Silently tidy the printed prompt before applying One-per-section constraint to make it easier to answer.
-D. The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
+A. Maximise the number of outputs produced by Exam facts / source basis, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis to make it easier to answer.
+D. The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
 
 **Answer: D.**
-**Explanation:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q13. Which option applies Four-prompt choice set as an Essay-method distinction?
+### Q9. Which option applies Exam facts / source basis — 2 as an Essay-method distinction?
 
-A. Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section.
-B. Treat Four-prompt choice set as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Four-prompt choice set with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Four-prompt choice set to add more headings or dimensions without testing coherence.
+A. one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
+B. Treat Exam facts / source basis — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q14. Which use of Four-prompt choice set stays closest to the printed prompt?
+### Q10. Which use of Exam facts / source basis — 2 stays closest to the printed prompt?
 
-A. Apply Four-prompt choice set only after drafting, when topic drift can no longer be prevented.
-B. Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section.
-C. Use Four-prompt choice set while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Four-prompt choice set regardless of thesis fit.
+A. Apply Exam facts / source basis — 2 only after drafting, when topic drift can no longer be prevented.
+B. one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
+C. Use Exam facts / source basis — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q15. Which statement preserves the strategy-versus-official-rule boundary for Four-prompt choice set?
+### Q11. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 2?
 
-A. Present Four-prompt choice set as an official marking rule rather than a pedagogical scaffold.
-B. Use Four-prompt choice set to avoid stating a serious counter-case or qualification.
-C. Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section.
-D. Support Four-prompt choice set with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 2 to avoid stating a serious counter-case or qualification.
+C. one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
+D. Support Exam facts / source basis — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q16. Which option avoids the standard Essay-method trap about Four-prompt choice set?
+### Q12. Which option avoids the standard Essay-method trap about Exam facts / source basis — 2?
 
-A. Maximise the number of outputs produced by Four-prompt choice set, even if they repeat one claim.
-B. Allow an exception discovered through Four-prompt choice set to replace the central proposition.
-C. Silently tidy the printed prompt before applying Four-prompt choice set to make it easier to answer.
-D. Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section.
+A. Maximise the number of outputs produced by Exam facts / source basis — 2, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 2 to make it easier to answer.
+D. one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
 
 **Answer: D.**
-**Explanation:** Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)". The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q17. Which option applies Bilingual display as an Essay-method distinction?
+### Q13. Which option applies Exam facts / source basis — 3 as an Essay-method distinction?
 
-A. The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line.
-B. Treat Bilingual display as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Bilingual display with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Bilingual display to add more headings or dimensions without testing coherence.
+A. essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
+B. Treat Exam facts / source basis — 3 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 3 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 3 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q18. Which use of Bilingual display stays closest to the printed prompt?
+### Q14. Which use of Exam facts / source basis — 3 stays closest to the printed prompt?
 
-A. Apply Bilingual display only after drafting, when topic drift can no longer be prevented.
-B. The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line.
-C. Use Bilingual display while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Bilingual display regardless of thesis fit.
+A. Apply Exam facts / source basis — 3 only after drafting, when topic drift can no longer be prevented.
+B. essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
+C. Use Exam facts / source basis — 3 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 3 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q19. Which statement preserves the strategy-versus-official-rule boundary for Bilingual display?
+### Q15. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 3?
 
-A. Present Bilingual display as an official marking rule rather than a pedagogical scaffold.
-B. Use Bilingual display to avoid stating a serious counter-case or qualification.
-C. The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line.
-D. Support Bilingual display with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 3 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 3 to avoid stating a serious counter-case or qualification.
+C. essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
+D. Support Exam facts / source basis — 3 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q20. Which option avoids the standard Essay-method trap about Bilingual display?
+### Q16. Which option avoids the standard Essay-method trap about Exam facts / source basis — 3?
 
-A. Maximise the number of outputs produced by Bilingual display, even if they repeat one claim.
-B. Allow an exception discovered through Bilingual display to replace the central proposition.
-C. Silently tidy the printed prompt before applying Bilingual display to make it easier to answer.
-D. The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line.
+A. Maximise the number of outputs produced by Exam facts / source basis — 3, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 3 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 3 to make it easier to answer.
+D. essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
 
 **Answer: D.**
-**Explanation:** The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q21. Which option applies Numbering instability as an Essay-method distinction?
+### Q17. Which option applies Exam facts / source basis — 4 as an Essay-method distinction?
 
-A. Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8.
-B. Treat Numbering instability as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Numbering instability with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Numbering instability to add more headings or dimensions without testing coherence.
+A. Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+B. Treat Exam facts / source basis — 4 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 4 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 4 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q22. Which use of Numbering instability stays closest to the printed prompt?
+### Q18. Which use of Exam facts / source basis — 4 stays closest to the printed prompt?
 
-A. Apply Numbering instability only after drafting, when topic drift can no longer be prevented.
-B. Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8.
-C. Use Numbering instability while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Numbering instability regardless of thesis fit.
+A. Apply Exam facts / source basis — 4 only after drafting, when topic drift can no longer be prevented.
+B. Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+C. Use Exam facts / source basis — 4 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 4 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q23. Which statement preserves the strategy-versus-official-rule boundary for Numbering instability?
+### Q19. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 4?
 
-A. Present Numbering instability as an official marking rule rather than a pedagogical scaffold.
-B. Use Numbering instability to avoid stating a serious counter-case or qualification.
-C. Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8.
-D. Support Numbering instability with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 4 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 4 to avoid stating a serious counter-case or qualification.
+C. Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+D. Support Exam facts / source basis — 4 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q24. Which option avoids the standard Essay-method trap about Numbering instability?
+### Q20. Which option avoids the standard Essay-method trap about Exam facts / source basis — 4?
 
-A. Maximise the number of outputs produced by Numbering instability, even if they repeat one claim.
-B. Allow an exception discovered through Numbering instability to replace the central proposition.
-C. Silently tidy the printed prompt before applying Numbering instability to make it easier to answer.
-D. Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8.
+A. Maximise the number of outputs produced by Exam facts / source basis — 4, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 4 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 4 to make it easier to answer.
+D. Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
 
 **Answer: D.**
-**Explanation:** Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q25. Which option applies Attribution boundary as an Essay-method distinction?
+### Q21. Which option applies Exam facts / source basis — 5 as an Essay-method distinction?
 
-A. Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution.
-B. Treat Attribution boundary as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Attribution boundary with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Attribution boundary to add more headings or dimensions without testing coherence.
+A. bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
+B. Treat Exam facts / source basis — 5 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 5 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 5 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q26. Which use of Attribution boundary stays closest to the printed prompt?
+### Q22. Which use of Exam facts / source basis — 5 stays closest to the printed prompt?
 
-A. Apply Attribution boundary only after drafting, when topic drift can no longer be prevented.
-B. Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution.
-C. Use Attribution boundary while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Attribution boundary regardless of thesis fit.
+A. Apply Exam facts / source basis — 5 only after drafting, when topic drift can no longer be prevented.
+B. bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
+C. Use Exam facts / source basis — 5 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 5 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q27. Which statement preserves the strategy-versus-official-rule boundary for Attribution boundary?
+### Q23. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 5?
 
-A. Present Attribution boundary as an official marking rule rather than a pedagogical scaffold.
-B. Use Attribution boundary to avoid stating a serious counter-case or qualification.
-C. Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution.
-D. Support Attribution boundary with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 5 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 5 to avoid stating a serious counter-case or qualification.
+C. bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
+D. Support Exam facts / source basis — 5 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q28. Which option avoids the standard Essay-method trap about Attribution boundary?
+### Q24. Which option avoids the standard Essay-method trap about Exam facts / source basis — 5?
 
-A. Maximise the number of outputs produced by Attribution boundary, even if they repeat one claim.
-B. Allow an exception discovered through Attribution boundary to replace the central proposition.
-C. Silently tidy the printed prompt before applying Attribution boundary to make it easier to answer.
-D. Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution.
+A. Maximise the number of outputs produced by Exam facts / source basis — 5, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 5 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 5 to make it easier to answer.
+D. bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
 
 **Answer: D.**
-**Explanation:** Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q29. Which option applies Rubric boundary as an Essay-method distinction?
+### Q25. Which option applies Exam facts / source basis — 6 as an Essay-method distinction?
 
-A. The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules.
-B. Treat Rubric boundary as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Rubric boundary with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Rubric boundary to add more headings or dimensions without testing coherence.
+A. header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official.
+B. Treat Exam facts / source basis — 6 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 6 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 6 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q30. Which use of Rubric boundary stays closest to the printed prompt?
+### Q26. Which use of Exam facts / source basis — 6 stays closest to the printed prompt?
 
-A. Apply Rubric boundary only after drafting, when topic drift can no longer be prevented.
-B. The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules.
-C. Use Rubric boundary while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Rubric boundary regardless of thesis fit.
+A. Apply Exam facts / source basis — 6 only after drafting, when topic drift can no longer be prevented.
+B. header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official.
+C. Use Exam facts / source basis — 6 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 6 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q31. Which statement preserves the strategy-versus-official-rule boundary for Rubric boundary?
+### Q27. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 6?
 
-A. Present Rubric boundary as an official marking rule rather than a pedagogical scaffold.
-B. Use Rubric boundary to avoid stating a serious counter-case or qualification.
-C. The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules.
-D. Support Rubric boundary with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 6 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 6 to avoid stating a serious counter-case or qualification.
+C. header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official.
+D. Support Exam facts / source basis — 6 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q32. Which option avoids the standard Essay-method trap about Rubric boundary?
+### Q28. Which option avoids the standard Essay-method trap about Exam facts / source basis — 6?
 
-A. Maximise the number of outputs produced by Rubric boundary, even if they repeat one claim.
-B. Allow an exception discovered through Rubric boundary to replace the central proposition.
-C. Silently tidy the printed prompt before applying Rubric boundary to make it easier to answer.
-D. The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules.
+A. Maximise the number of outputs produced by Exam facts / source basis — 6, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 6 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 6 to make it easier to answer.
+D. header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official.
 
 **Answer: D.**
-**Explanation:** The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q33. Which option applies Duration boundary as an Essay-method distinction?
+### Q29. Which option applies Exam facts / source basis — 7 as an Essay-method distinction?
 
-A. The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
-B. Treat Duration boundary as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Duration boundary with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Duration boundary to add more headings or dimensions without testing coherence.
+A. Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
+B. Treat Exam facts / source basis — 7 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 7 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 7 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q34. Which use of Duration boundary stays closest to the printed prompt?
+### Q30. Which use of Exam facts / source basis — 7 stays closest to the printed prompt?
 
-A. Apply Duration boundary only after drafting, when topic drift can no longer be prevented.
-B. The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
-C. Use Duration boundary while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Duration boundary regardless of thesis fit.
+A. Apply Exam facts / source basis — 7 only after drafting, when topic drift can no longer be prevented.
+B. Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
+C. Use Exam facts / source basis — 7 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 7 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q35. Which statement preserves the strategy-versus-official-rule boundary for Duration boundary?
+### Q31. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 7?
 
-A. Present Duration boundary as an official marking rule rather than a pedagogical scaffold.
-B. Use Duration boundary to avoid stating a serious counter-case or qualification.
-C. The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
-D. Support Duration boundary with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 7 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 7 to avoid stating a serious counter-case or qualification.
+C. Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
+D. Support Exam facts / source basis — 7 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q36. Which option avoids the standard Essay-method trap about Duration boundary?
+### Q32. Which option avoids the standard Essay-method trap about Exam facts / source basis — 7?
 
-A. Maximise the number of outputs produced by Duration boundary, even if they repeat one claim.
-B. Allow an exception discovered through Duration boundary to replace the central proposition.
-C. Silently tidy the printed prompt before applying Duration boundary to make it easier to answer.
-D. The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
+A. Maximise the number of outputs produced by Exam facts / source basis — 7, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 7 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 7 to make it easier to answer.
+D. Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
 
 **Answer: D.**
-**Explanation:** The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q37. Which option applies Rule-strategy firewall as an Essay-method distinction?
+### Q33. Which option applies The central idea and common misreading as an Essay-method distinction?
 
-A. Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
-B. Treat Rule-strategy firewall as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Rule-strategy firewall with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Rule-strategy firewall to add more headings or dimensions without testing coherence.
+A. Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+B. Treat The central idea and common misreading as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace The central idea and common misreading with a familiar adjacent GS topic and maximise factual coverage.
+D. Use The central idea and common misreading to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q38. Which use of Rule-strategy firewall stays closest to the printed prompt?
+### Q34. Which use of The central idea and common misreading stays closest to the printed prompt?
 
-A. Apply Rule-strategy firewall only after drafting, when topic drift can no longer be prevented.
-B. Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
-C. Use Rule-strategy firewall while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Rule-strategy firewall regardless of thesis fit.
+A. Apply The central idea and common misreading only after drafting, when topic drift can no longer be prevented.
+B. Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+C. Use The central idea and common misreading while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine The central idea and common misreading regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q39. Which statement preserves the strategy-versus-official-rule boundary for Rule-strategy firewall?
+### Q35. Which statement preserves the strategy-versus-official-rule boundary for The central idea and common misreading?
 
-A. Present Rule-strategy firewall as an official marking rule rather than a pedagogical scaffold.
-B. Use Rule-strategy firewall to avoid stating a serious counter-case or qualification.
-C. Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
-D. Support Rule-strategy firewall with an unverified statistic, attribution or current claim.
+A. Present The central idea and common misreading as an official marking rule rather than a pedagogical scaffold.
+B. Use The central idea and common misreading to avoid stating a serious counter-case or qualification.
+C. Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+D. Support The central idea and common misreading with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q40. Which option avoids the standard Essay-method trap about Rule-strategy firewall?
+### Q36. Which option avoids the standard Essay-method trap about The central idea and common misreading?
 
-A. Maximise the number of outputs produced by Rule-strategy firewall, even if they repeat one claim.
-B. Allow an exception discovered through Rule-strategy firewall to replace the central proposition.
-C. Silently tidy the printed prompt before applying Rule-strategy firewall to make it easier to answer.
-D. Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
+A. Maximise the number of outputs produced by The central idea and common misreading, even if they repeat one claim.
+B. Allow an exception discovered through The central idea and common misreading to replace the central proposition.
+C. Silently tidy the printed prompt before applying The central idea and common misreading to make it easier to answer.
+D. Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
 
 **Answer: D.**
-**Explanation:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q41. Which option applies Thesis-fit as an Essay-method distinction?
+### Q37. Which option applies Basic scan questions as an Essay-method distinction?
 
-A. A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-B. Treat Thesis-fit as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Thesis-fit with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Thesis-fit to add more headings or dimensions without testing coherence.
+A. 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
+B. Treat Basic scan questions as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Basic scan questions with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Basic scan questions to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q42. Which use of Thesis-fit stays closest to the printed prompt?
+### Q38. Which use of Basic scan questions stays closest to the printed prompt?
 
-A. Apply Thesis-fit only after drafting, when topic drift can no longer be prevented.
-B. A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-C. Use Thesis-fit while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Thesis-fit regardless of thesis fit.
+A. Apply Basic scan questions only after drafting, when topic drift can no longer be prevented.
+B. 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
+C. Use Basic scan questions while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Basic scan questions regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q43. Which statement preserves the strategy-versus-official-rule boundary for Thesis-fit?
+### Q39. Which statement preserves the strategy-versus-official-rule boundary for Basic scan questions?
 
-A. Present Thesis-fit as an official marking rule rather than a pedagogical scaffold.
-B. Use Thesis-fit to avoid stating a serious counter-case or qualification.
-C. A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-D. Support Thesis-fit with an unverified statistic, attribution or current claim.
+A. Present Basic scan questions as an official marking rule rather than a pedagogical scaffold.
+B. Use Basic scan questions to avoid stating a serious counter-case or qualification.
+C. 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
+D. Support Basic scan questions with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q44. Which option avoids the standard Essay-method trap about Thesis-fit?
+### Q40. Which option avoids the standard Essay-method trap about Basic scan questions?
 
-A. Maximise the number of outputs produced by Thesis-fit, even if they repeat one claim.
-B. Allow an exception discovered through Thesis-fit to replace the central proposition.
-C. Silently tidy the printed prompt before applying Thesis-fit to make it easier to answer.
-D. A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
+A. Maximise the number of outputs produced by Basic scan questions, even if they repeat one claim.
+B. Allow an exception discovered through Basic scan questions to replace the central proposition.
+C. Silently tidy the printed prompt before applying Basic scan questions to make it easier to answer.
+D. 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
 
 **Answer: D.**
-**Explanation:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q45. Which option applies Interpretive clarity as an Essay-method distinction?
+### Q41. Which option applies Comparison grid as an Essay-method distinction?
 
-A. A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
-B. Treat Interpretive clarity as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Interpretive clarity with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Interpretive clarity to add more headings or dimensions without testing coherence.
+A. Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
+B. Treat Comparison grid as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Comparison grid with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Comparison grid to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q46. Which use of Interpretive clarity stays closest to the printed prompt?
+### Q42. Which use of Comparison grid stays closest to the printed prompt?
 
-A. Apply Interpretive clarity only after drafting, when topic drift can no longer be prevented.
-B. A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
-C. Use Interpretive clarity while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Interpretive clarity regardless of thesis fit.
+A. Apply Comparison grid only after drafting, when topic drift can no longer be prevented.
+B. Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
+C. Use Comparison grid while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Comparison grid regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q47. Which statement preserves the strategy-versus-official-rule boundary for Interpretive clarity?
+### Q43. Which statement preserves the strategy-versus-official-rule boundary for Comparison grid?
 
-A. Present Interpretive clarity as an official marking rule rather than a pedagogical scaffold.
-B. Use Interpretive clarity to avoid stating a serious counter-case or qualification.
-C. A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
-D. Support Interpretive clarity with an unverified statistic, attribution or current claim.
+A. Present Comparison grid as an official marking rule rather than a pedagogical scaffold.
+B. Use Comparison grid to avoid stating a serious counter-case or qualification.
+C. Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
+D. Support Comparison grid with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q48. Which option avoids the standard Essay-method trap about Interpretive clarity?
+### Q44. Which option avoids the standard Essay-method trap about Comparison grid?
 
-A. Maximise the number of outputs produced by Interpretive clarity, even if they repeat one claim.
-B. Allow an exception discovered through Interpretive clarity to replace the central proposition.
-C. Silently tidy the printed prompt before applying Interpretive clarity to make it easier to answer.
-D. A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
+A. Maximise the number of outputs produced by Comparison grid, even if they repeat one claim.
+B. Allow an exception discovered through Comparison grid to replace the central proposition.
+C. Silently tidy the printed prompt before applying Comparison grid to make it easier to answer.
+D. Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
 
 **Answer: D.**
-**Explanation:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q49. Which option applies Dimension distinctness as an Essay-method distinction?
+### Q45. Which option applies Comparison grid — 2 as an Essay-method distinction?
 
-A. A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-B. Treat Dimension distinctness as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Dimension distinctness with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Dimension distinctness to add more headings or dimensions without testing coherence.
+A. Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
+B. Treat Comparison grid — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Comparison grid — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Comparison grid — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q50. Which use of Dimension distinctness stays closest to the printed prompt?
+### Q46. Which use of Comparison grid — 2 stays closest to the printed prompt?
 
-A. Apply Dimension distinctness only after drafting, when topic drift can no longer be prevented.
-B. A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-C. Use Dimension distinctness while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Dimension distinctness regardless of thesis fit.
+A. Apply Comparison grid — 2 only after drafting, when topic drift can no longer be prevented.
+B. Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
+C. Use Comparison grid — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Comparison grid — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q51. Which statement preserves the strategy-versus-official-rule boundary for Dimension distinctness?
+### Q47. Which statement preserves the strategy-versus-official-rule boundary for Comparison grid — 2?
 
-A. Present Dimension distinctness as an official marking rule rather than a pedagogical scaffold.
-B. Use Dimension distinctness to avoid stating a serious counter-case or qualification.
-C. A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-D. Support Dimension distinctness with an unverified statistic, attribution or current claim.
+A. Present Comparison grid — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Comparison grid — 2 to avoid stating a serious counter-case or qualification.
+C. Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
+D. Support Comparison grid — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q52. Which option avoids the standard Essay-method trap about Dimension distinctness?
+### Q48. Which option avoids the standard Essay-method trap about Comparison grid — 2?
 
-A. Maximise the number of outputs produced by Dimension distinctness, even if they repeat one claim.
-B. Allow an exception discovered through Dimension distinctness to replace the central proposition.
-C. Silently tidy the printed prompt before applying Dimension distinctness to make it easier to answer.
-D. A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
+A. Maximise the number of outputs produced by Comparison grid — 2, even if they repeat one claim.
+B. Allow an exception discovered through Comparison grid — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Comparison grid — 2 to make it easier to answer.
+D. Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
 
 **Answer: D.**
-**Explanation:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q53. Which option applies Evidence availability as an Essay-method distinction?
+### Q49. Which option applies India-first illustration starters as an Essay-method distinction?
 
-A. Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
-B. Treat Evidence availability as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Evidence availability with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Evidence availability to add more headings or dimensions without testing coherence.
+A. Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
+B. Treat India-first illustration starters as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace India-first illustration starters with a familiar adjacent GS topic and maximise factual coverage.
+D. Use India-first illustration starters to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q54. Which use of Evidence availability stays closest to the printed prompt?
+### Q50. Which use of India-first illustration starters stays closest to the printed prompt?
 
-A. Apply Evidence availability only after drafting, when topic drift can no longer be prevented.
-B. Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
-C. Use Evidence availability while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Evidence availability regardless of thesis fit.
+A. Apply India-first illustration starters only after drafting, when topic drift can no longer be prevented.
+B. Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
+C. Use India-first illustration starters while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine India-first illustration starters regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q55. Which statement preserves the strategy-versus-official-rule boundary for Evidence availability?
+### Q51. Which statement preserves the strategy-versus-official-rule boundary for India-first illustration starters?
 
-A. Present Evidence availability as an official marking rule rather than a pedagogical scaffold.
-B. Use Evidence availability to avoid stating a serious counter-case or qualification.
-C. Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
-D. Support Evidence availability with an unverified statistic, attribution or current claim.
+A. Present India-first illustration starters as an official marking rule rather than a pedagogical scaffold.
+B. Use India-first illustration starters to avoid stating a serious counter-case or qualification.
+C. Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
+D. Support India-first illustration starters with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q56. Which option avoids the standard Essay-method trap about Evidence availability?
+### Q52. Which option avoids the standard Essay-method trap about India-first illustration starters?
 
-A. Maximise the number of outputs produced by Evidence availability, even if they repeat one claim.
-B. Allow an exception discovered through Evidence availability to replace the central proposition.
-C. Silently tidy the printed prompt before applying Evidence availability to make it easier to answer.
-D. Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
+A. Maximise the number of outputs produced by India-first illustration starters, even if they repeat one claim.
+B. Allow an exception discovered through India-first illustration starters to replace the central proposition.
+C. Silently tidy the printed prompt before applying India-first illustration starters to make it easier to answer.
+D. Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
 
 **Answer: D.**
-**Explanation:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q57. Which option applies Familiarity limit as an Essay-method distinction?
+### Q53. Which option applies Thesis options and selection as an Essay-method distinction?
 
-A. Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-B. Treat Familiarity limit as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Familiarity limit with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Familiarity limit to add more headings or dimensions without testing coherence.
+A. For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
+B. Treat Thesis options and selection as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Thesis options and selection with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Thesis options and selection to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q58. Which use of Familiarity limit stays closest to the printed prompt?
+### Q54. Which use of Thesis options and selection stays closest to the printed prompt?
 
-A. Apply Familiarity limit only after drafting, when topic drift can no longer be prevented.
-B. Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-C. Use Familiarity limit while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Familiarity limit regardless of thesis fit.
+A. Apply Thesis options and selection only after drafting, when topic drift can no longer be prevented.
+B. For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
+C. Use Thesis options and selection while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Thesis options and selection regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q59. Which statement preserves the strategy-versus-official-rule boundary for Familiarity limit?
+### Q55. Which statement preserves the strategy-versus-official-rule boundary for Thesis options and selection?
 
-A. Present Familiarity limit as an official marking rule rather than a pedagogical scaffold.
-B. Use Familiarity limit to avoid stating a serious counter-case or qualification.
-C. Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-D. Support Familiarity limit with an unverified statistic, attribution or current claim.
+A. Present Thesis options and selection as an official marking rule rather than a pedagogical scaffold.
+B. Use Thesis options and selection to avoid stating a serious counter-case or qualification.
+C. For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
+D. Support Thesis options and selection with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q60. Which option avoids the standard Essay-method trap about Familiarity limit?
+### Q56. Which option avoids the standard Essay-method trap about Thesis options and selection?
 
-A. Maximise the number of outputs produced by Familiarity limit, even if they repeat one claim.
-B. Allow an exception discovered through Familiarity limit to replace the central proposition.
-C. Silently tidy the printed prompt before applying Familiarity limit to make it easier to answer.
-D. Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
+A. Maximise the number of outputs produced by Thesis options and selection, even if they repeat one claim.
+B. Allow an exception discovered through Thesis options and selection to replace the central proposition.
+C. Silently tidy the printed prompt before applying Thesis options and selection to make it easier to answer.
+D. For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
 
 **Answer: D.**
-**Explanation:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q61. Which option applies Originality limit as an Essay-method distinction?
+### Q57. Which option applies Advanced proposition and boundary as an Essay-method distinction?
 
-A. Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-B. Treat Originality limit as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Originality limit with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Originality limit to add more headings or dimensions without testing coherence.
+A. Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
+B. Treat Advanced proposition and boundary as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Advanced proposition and boundary with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Advanced proposition and boundary to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q62. Which use of Originality limit stays closest to the printed prompt?
+### Q58. Which use of Advanced proposition and boundary stays closest to the printed prompt?
 
-A. Apply Originality limit only after drafting, when topic drift can no longer be prevented.
-B. Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-C. Use Originality limit while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Originality limit regardless of thesis fit.
+A. Apply Advanced proposition and boundary only after drafting, when topic drift can no longer be prevented.
+B. Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
+C. Use Advanced proposition and boundary while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Advanced proposition and boundary regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q63. Which statement preserves the strategy-versus-official-rule boundary for Originality limit?
+### Q59. Which statement preserves the strategy-versus-official-rule boundary for Advanced proposition and boundary?
 
-A. Present Originality limit as an official marking rule rather than a pedagogical scaffold.
-B. Use Originality limit to avoid stating a serious counter-case or qualification.
-C. Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-D. Support Originality limit with an unverified statistic, attribution or current claim.
+A. Present Advanced proposition and boundary as an official marking rule rather than a pedagogical scaffold.
+B. Use Advanced proposition and boundary to avoid stating a serious counter-case or qualification.
+C. Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
+D. Support Advanced proposition and boundary with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q64. Which option avoids the standard Essay-method trap about Originality limit?
+### Q60. Which option avoids the standard Essay-method trap about Advanced proposition and boundary?
 
-A. Maximise the number of outputs produced by Originality limit, even if they repeat one claim.
-B. Allow an exception discovered through Originality limit to replace the central proposition.
-C. Silently tidy the printed prompt before applying Originality limit to make it easier to answer.
-D. Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
+A. Maximise the number of outputs produced by Advanced proposition and boundary, even if they repeat one claim.
+B. Allow an exception discovered through Advanced proposition and boundary to replace the central proposition.
+C. Silently tidy the printed prompt before applying Advanced proposition and boundary to make it easier to answer.
+D. Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
 
 **Answer: D.**
-**Explanation:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q65. Which option applies Risk screening as an Essay-method distinction?
+### Q61. Which option applies Concept definition and taxonomy as an Essay-method distinction?
 
-A. A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
-B. Treat Risk screening as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Risk screening with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Risk screening to add more headings or dimensions without testing coherence.
+A. with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
+B. Treat Concept definition and taxonomy as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Concept definition and taxonomy with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Concept definition and taxonomy to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** with visible strain (a warning sign under time pressure, not merely a stylistic weakness). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q66. Which use of Risk screening stays closest to the printed prompt?
+### Q62. Which use of Concept definition and taxonomy stays closest to the printed prompt?
 
-A. Apply Risk screening only after drafting, when topic drift can no longer be prevented.
-B. A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
-C. Use Risk screening while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Risk screening regardless of thesis fit.
+A. Apply Concept definition and taxonomy only after drafting, when topic drift can no longer be prevented.
+B. with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
+C. Use Concept definition and taxonomy while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Concept definition and taxonomy regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** with visible strain (a warning sign under time pressure, not merely a stylistic weakness). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q67. Which statement preserves the strategy-versus-official-rule boundary for Risk screening?
+### Q63. Which statement preserves the strategy-versus-official-rule boundary for Concept definition and taxonomy?
 
-A. Present Risk screening as an official marking rule rather than a pedagogical scaffold.
-B. Use Risk screening to avoid stating a serious counter-case or qualification.
-C. A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
-D. Support Risk screening with an unverified statistic, attribution or current claim.
+A. Present Concept definition and taxonomy as an official marking rule rather than a pedagogical scaffold.
+B. Use Concept definition and taxonomy to avoid stating a serious counter-case or qualification.
+C. with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
+D. Support Concept definition and taxonomy with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** with visible strain (a warning sign under time pressure, not merely a stylistic weakness). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q68. Which option avoids the standard Essay-method trap about Risk screening?
+### Q64. Which option avoids the standard Essay-method trap about Concept definition and taxonomy?
 
-A. Maximise the number of outputs produced by Risk screening, even if they repeat one claim.
-B. Allow an exception discovered through Risk screening to replace the central proposition.
-C. Silently tidy the printed prompt before applying Risk screening to make it easier to answer.
-D. A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
+A. Maximise the number of outputs produced by Concept definition and taxonomy, even if they repeat one claim.
+B. Allow an exception discovered through Concept definition and taxonomy to replace the central proposition.
+C. Silently tidy the printed prompt before applying Concept definition and taxonomy to make it easier to answer.
+D. with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
 
 **Answer: D.**
-**Explanation:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** with visible strain (a warning sign under time pressure, not merely a stylistic weakness). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q69. Which option applies Two-essay portfolio as an Essay-method distinction?
+### Q65. Which option applies Tension pairs and hidden assumptions as an Essay-method distinction?
 
-A. The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
-B. Treat Two-essay portfolio as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Two-essay portfolio with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Two-essay portfolio to add more headings or dimensions without testing coherence.
+A. guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
+B. Treat Tension pairs and hidden assumptions as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Tension pairs and hidden assumptions with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Tension pairs and hidden assumptions to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q70. Which use of Two-essay portfolio stays closest to the printed prompt?
+### Q66. Which use of Tension pairs and hidden assumptions stays closest to the printed prompt?
 
-A. Apply Two-essay portfolio only after drafting, when topic drift can no longer be prevented.
-B. The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
-C. Use Two-essay portfolio while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Two-essay portfolio regardless of thesis fit.
+A. Apply Tension pairs and hidden assumptions only after drafting, when topic drift can no longer be prevented.
+B. guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
+C. Use Tension pairs and hidden assumptions while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Tension pairs and hidden assumptions regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q71. Which statement preserves the strategy-versus-official-rule boundary for Two-essay portfolio?
+### Q67. Which statement preserves the strategy-versus-official-rule boundary for Tension pairs and hidden assumptions?
 
-A. Present Two-essay portfolio as an official marking rule rather than a pedagogical scaffold.
-B. Use Two-essay portfolio to avoid stating a serious counter-case or qualification.
-C. The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
-D. Support Two-essay portfolio with an unverified statistic, attribution or current claim.
+A. Present Tension pairs and hidden assumptions as an official marking rule rather than a pedagogical scaffold.
+B. Use Tension pairs and hidden assumptions to avoid stating a serious counter-case or qualification.
+C. guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
+D. Support Tension pairs and hidden assumptions with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q72. Which option avoids the standard Essay-method trap about Two-essay portfolio?
+### Q68. Which option avoids the standard Essay-method trap about Tension pairs and hidden assumptions?
 
-A. Maximise the number of outputs produced by Two-essay portfolio, even if they repeat one claim.
-B. Allow an exception discovered through Two-essay portfolio to replace the central proposition.
-C. Silently tidy the printed prompt before applying Two-essay portfolio to make it easier to answer.
-D. The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
+A. Maximise the number of outputs produced by Tension pairs and hidden assumptions, even if they repeat one claim.
+B. Allow an exception discovered through Tension pairs and hidden assumptions to replace the central proposition.
+C. Silently tidy the printed prompt before applying Tension pairs and hidden assumptions to make it easier to answer.
+D. guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
 
 **Answer: D.**
-**Explanation:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q73. Which option applies Time allocation as an Essay-method distinction?
+### Q69. Which option applies Tension pairs and hidden assumptions — 2 as an Essay-method distinction?
 
-A. Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction.
-B. Treat Time allocation as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Time allocation with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Time allocation to add more headings or dimensions without testing coherence.
+A. stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
+B. Treat Tension pairs and hidden assumptions — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Tension pairs and hidden assumptions — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Tension pairs and hidden assumptions — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q74. Which use of Time allocation stays closest to the printed prompt?
+### Q70. Which use of Tension pairs and hidden assumptions — 2 stays closest to the printed prompt?
 
-A. Apply Time allocation only after drafting, when topic drift can no longer be prevented.
-B. Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction.
-C. Use Time allocation while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Time allocation regardless of thesis fit.
+A. Apply Tension pairs and hidden assumptions — 2 only after drafting, when topic drift can no longer be prevented.
+B. stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
+C. Use Tension pairs and hidden assumptions — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Tension pairs and hidden assumptions — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q75. Which statement preserves the strategy-versus-official-rule boundary for Time allocation?
+### Q71. Which statement preserves the strategy-versus-official-rule boundary for Tension pairs and hidden assumptions — 2?
 
-A. Present Time allocation as an official marking rule rather than a pedagogical scaffold.
-B. Use Time allocation to avoid stating a serious counter-case or qualification.
-C. Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction.
-D. Support Time allocation with an unverified statistic, attribution or current claim.
+A. Present Tension pairs and hidden assumptions — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Tension pairs and hidden assumptions — 2 to avoid stating a serious counter-case or qualification.
+C. stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
+D. Support Tension pairs and hidden assumptions — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q76. Which option avoids the standard Essay-method trap about Time allocation?
+### Q72. Which option avoids the standard Essay-method trap about Tension pairs and hidden assumptions — 2?
 
-A. Maximise the number of outputs produced by Time allocation, even if they repeat one claim.
-B. Allow an exception discovered through Time allocation to replace the central proposition.
-C. Silently tidy the printed prompt before applying Time allocation to make it easier to answer.
-D. Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction.
+A. Maximise the number of outputs produced by Tension pairs and hidden assumptions — 2, even if they repeat one claim.
+B. Allow an exception discovered through Tension pairs and hidden assumptions — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Tension pairs and hidden assumptions — 2 to make it easier to answer.
+D. stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
 
 **Answer: D.**
-**Explanation:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q77. Which option applies Commitment discipline as an Essay-method distinction?
+### Q73. Which option applies Tension pairs and hidden assumptions — 3 as an Essay-method distinction?
 
-A. After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
-B. Treat Commitment discipline as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Commitment discipline with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Commitment discipline to add more headings or dimensions without testing coherence.
+A. reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13).
+B. Treat Tension pairs and hidden assumptions — 3 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Tension pairs and hidden assumptions — 3 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Tension pairs and hidden assumptions — 3 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q78. Which use of Commitment discipline stays closest to the printed prompt?
+### Q74. Which use of Tension pairs and hidden assumptions — 3 stays closest to the printed prompt?
 
-A. Apply Commitment discipline only after drafting, when topic drift can no longer be prevented.
-B. After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
-C. Use Commitment discipline while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Commitment discipline regardless of thesis fit.
+A. Apply Tension pairs and hidden assumptions — 3 only after drafting, when topic drift can no longer be prevented.
+B. reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13).
+C. Use Tension pairs and hidden assumptions — 3 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Tension pairs and hidden assumptions — 3 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q79. Which statement preserves the strategy-versus-official-rule boundary for Commitment discipline?
+### Q75. Which statement preserves the strategy-versus-official-rule boundary for Tension pairs and hidden assumptions — 3?
 
-A. Present Commitment discipline as an official marking rule rather than a pedagogical scaffold.
-B. Use Commitment discipline to avoid stating a serious counter-case or qualification.
-C. After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
-D. Support Commitment discipline with an unverified statistic, attribution or current claim.
+A. Present Tension pairs and hidden assumptions — 3 as an official marking rule rather than a pedagogical scaffold.
+B. Use Tension pairs and hidden assumptions — 3 to avoid stating a serious counter-case or qualification.
+C. reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13).
+D. Support Tension pairs and hidden assumptions — 3 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q80. Which option avoids the standard Essay-method trap about Commitment discipline?
+### Q76. Which option avoids the standard Essay-method trap about Tension pairs and hidden assumptions — 3?
 
-A. Maximise the number of outputs produced by Commitment discipline, even if they repeat one claim.
-B. Allow an exception discovered through Commitment discipline to replace the central proposition.
-C. Silently tidy the printed prompt before applying Commitment discipline to make it easier to answer.
-D. After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
+A. Maximise the number of outputs produced by Tension pairs and hidden assumptions — 3, even if they repeat one claim.
+B. Allow an exception discovered through Tension pairs and hidden assumptions — 3 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Tension pairs and hidden assumptions — 3 to make it easier to answer.
+D. reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13).
 
 **Answer: D.**
-**Explanation:** After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13). The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q77. Which option applies Levels of analysis and temporal-spatial scale as an Essay-method distinction?
+
+A. Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
+B. Treat Levels of analysis and temporal-spatial scale as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Levels of analysis and temporal-spatial scale with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Levels of analysis and temporal-spatial scale to add more headings or dimensions without testing coherence.
+
+**Answer: A.**
+**Explanation:** Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q78. Which use of Levels of analysis and temporal-spatial scale stays closest to the printed prompt?
+
+A. Apply Levels of analysis and temporal-spatial scale only after drafting, when topic drift can no longer be prevented.
+B. Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
+C. Use Levels of analysis and temporal-spatial scale while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Levels of analysis and temporal-spatial scale regardless of thesis fit.
+
+**Answer: B.**
+**Explanation:** Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q79. Which statement preserves the strategy-versus-official-rule boundary for Levels of analysis and temporal-spatial scale?
+
+A. Present Levels of analysis and temporal-spatial scale as an official marking rule rather than a pedagogical scaffold.
+B. Use Levels of analysis and temporal-spatial scale to avoid stating a serious counter-case or qualification.
+C. Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
+D. Support Levels of analysis and temporal-spatial scale with an unverified statistic, attribution or current claim.
+
+**Answer: C.**
+**Explanation:** Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q80. Which option avoids the standard Essay-method trap about Levels of analysis and temporal-spatial scale?
+
+A. Maximise the number of outputs produced by Levels of analysis and temporal-spatial scale, even if they repeat one claim.
+B. Allow an exception discovered through Levels of analysis and temporal-spatial scale to replace the central proposition.
+C. Silently tidy the printed prompt before applying Levels of analysis and temporal-spatial scale to make it easier to answer.
+D. Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
+
+**Answer: D.**
+**Explanation:** Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
 
-The cards preserve one exact 2024 instruction and two exact V1 prompts. Their solutions demonstrate selection method only and never claim an official model answer.
+Three application cards use the repository's explicit V1/V2 status. No unavailable official model answer, marking rubric or attribution is invented.
 
-### PYQ DEMAND CARD 1 — 2024 Essay instructions
+### PYQ DEMAND CARD 1 — 2024-A3 Essay
 
-**Demand:** Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:
+**Demand:** There is no path to happiness, Happiness is the path.
 
-**Status:** Exact locally audited instruction; the associated marks line is (125 × 2 = 250).
+**Status:** Exact V1 wording from a local official paper.
 
-**Model solution:** **2024 printed instruction:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". **One-per-section constraint:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. **Four-prompt choice set:** Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section. **Rule-strategy firewall:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official. **Time allocation:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
+**Model solution:** **Working thesis:** Happiness is not merely a reward postponed until success is achieved; it is a quality of meaningful, ethical and attentive participation in life, though this insight must not romanticise deprivation or deny the material conditions required for dignity. **Process over destination:** Goals organise effort, but a life spent treating every present moment as a sacrifice can make achievement emotionally empty. **Meaningful action:** Work, learning and service generate deeper well-being when their daily practice itself expresses purpose. **Relationships:** Trust, friendship and care are lived processes; they cannot be accumulated later like material assets. **Ethical conduct:** Means shape character, so happiness pursued through exploitation or dishonesty undermines itself. **Counter-view:** Some hardship is unavoidable and long-term projects require delayed gratification, so happiness cannot mean constant comfort or pleasure. This is a repository-authored answer route, not an official model answer.
 
-### PYQ DEMAND CARD 2 — 2024-A2 Essay
+### PYQ DEMAND CARD 2 — 2025-A3 Essay
 
-**Demand:** The empires of the futures will be the empires of the mind.
+**Demand:** Thought finds a world and creates one also.
 
-**Status:** Exact V1 wording from the local official paper; used as a selection application, not an official model answer.
+**Status:** Exact V1 wording from a local official paper.
 
-**Model solution:** **Thesis-fit:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Interpretive clarity:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. **Dimension distinctness:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. **Evidence availability:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Familiarity limit:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. **Originality limit:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
+**Model solution:** **Working thesis:** Thought interprets an inherited reality and simultaneously reshapes it through imagination, institutions and action; its creative power can liberate or dominate depending on evidence, ethics and inclusion. **Perception:** Concepts and language organise experience, helping people notice patterns that would otherwise remain invisible. **Scientific discovery:** Inquiry finds structures already present in nature while theories and technologies create new fields of human possibility. **Political imagination:** Ideas such as liberty, equality and constitutionalism first reinterpret injustice and then build institutions to contest it. **Economic creation:** Entrepreneurship and design transform knowledge into products, work and new forms of exchange. **Counter-view:** Thought is constrained by material conditions and cannot create reality by wish alone; imagination becomes effective through collective action and institutions. This is a repository-authored answer route, not an official model answer.
 
-### PYQ DEMAND CARD 3 — 2024-B5 Essay
+### PYQ DEMAND CARD 3 — 2024-B7 Essay
 
-**Demand:** Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness.
+**Demand:** All ideas having large consequences are always simple.
 
-**Status:** Exact V1 wording from the local official paper; used to contrast issue-prompt tractability with familiarity risk.
+**Status:** Exact V1 wording from a local official paper.
 
-**Model solution:** **Thesis-fit:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Interpretive clarity:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. **Evidence availability:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Familiarity limit:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. **Risk screening:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. **Two-essay portfolio:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
+**Model solution:** **Working thesis:** Ideas with large consequences often possess a simple moral or conceptual core, yet their effects depend on complex institutions, incentives and interpretation; simplicity can guide action, but simplification can also conceal harm. **Moral clarity:** Liberty, equality and dignity are simple orienting ideas that expose elaborate forms of domination. **Scientific elegance:** A compact principle can organise diverse observations without making implementation effortless. **Political mobilisation:** Simple language can make collective purposes intelligible and actionable. **Institutional complexity:** Constitutional values require procedures, checks and administrative capacity to survive conflict. **Counter-view:** Some transformative changes emerge from accumulated practice rather than one identifiable simple idea, and apparently simple doctrines may hide contested assumptions. This is a repository-authored answer route, not an official model answer.
+
+### COMPLETE MODEL ESSAYS
+
+
+#### COMPLETE MODEL ESSAY 1 — 2024-A3
+
+**Prompt:** There is no path to happiness, Happiness is the path.
+
+**Verification:** V1 — directly verified from a local official UPSC paper.
+
+**Model essay (1018 words):**
+
+“There is no path to happiness, Happiness is the path.” is not a decorative slogan but a proposition about how human choices, institutions and consequences relate. Happiness is not merely a reward postponed until success is achieved; it is a quality of meaningful, ethical and attentive participation in life, though this insight must not romanticise deprivation or deny the material conditions required for dignity. This reading keeps the discussion centred on the prompt while using official instruction, strategic heuristic, two-essay portfolio, early commitment as a method rather than as visible scaffolding.
+
+At the level of the person, **process over destination** clarifies the proposition. Goals organise effort, but a life spent treating every present moment as a sacrifice can make achievement emotionally empty. A useful illustration is India's constitutional commitment to justice, liberty, equality and fraternity; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The personal insight becomes social, **meaningful action** clarifies the proposition. Work, learning and service generate deeper well-being when their daily practice itself expresses purpose. A useful illustration is local-government and cooperative experience; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+Institutions then determine, **relationships** clarifies the proposition. Trust, friendship and care are lived processes; they cannot be accumulated later like material assets. A useful illustration is constitutional equality and the work of Indian social reformers who expanded women's education and agency; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The argument also changes across time, **ethical conduct** clarifies the proposition. Means shape character, so happiness pursued through exploitation or dishonesty undermines itself. A useful illustration is India's constitutional commitment to justice, liberty, equality and fraternity; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+An Indian and democratic perspective adds, **public policy** clarifies the proposition. Development must value health, security, community and ecological quality alongside income and output. A useful illustration is the Chipko tradition of community stewardship and the IPCC's evidence-led climate-risk framework; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The widest test is ethical and intergenerational, **material floor** clarifies the proposition. Freedom from hunger, violence and preventable illness is essential; inner attitude cannot substitute for justice. A useful illustration is the constitutional commitment to dignity together with WHO's recognition of health as a fundamental right; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+A serious essay must now confront the strongest objection. Some hardship is unavoidable and long-term projects require delayed gratification, so happiness cannot mean constant comfort or pleasure. This objection deserves to be stated in its strongest form because a weak caricature produces only a ceremonial rebuttal. It changes the argument by identifying the condition under which the prompt fails, becomes incomplete or generates unequal costs. The response is therefore not to abandon the thesis, but to qualify its reach, specify safeguards and distinguish a defensible principle from its simplistic imitation.
+
+The synthesis follows from that qualification. Individual agency matters, but institutions shape the options within which agency operates. Material capacity matters, but dignity and justice determine whether capacity is worthwhile. National action matters, but ecological and international interdependence prevent self-contained solutions. This is why GS knowledge must enter the essay as analysed evidence rather than as a catalogue of constitutional articles, schemes, reports or sectors.
+
+India makes this synthesis concrete because diversity, unequal capability and democratic aspiration coexist at every scale. The Constitution's language of justice, liberty, equality and fraternity supplies a normative direction, but constitutional vocabulary earns its place only when the essay explains a mechanism: how rights restrain power, how public capability widens agency, how local participation corrects distant administration, or how scientific temper enables revision. Likewise, an example from social reform, cooperative action, public health, education, technology or ecology should illuminate one claim rather than stand as a miniature GS note. This discipline allows an India-centric essay to remain reflective and universal without becoming abstract, celebratory or scheme-heavy. It also preserves balance by connecting aspiration to capacity, rights to remedies, and public purpose to accountable implementation.
+
+Happiness becomes the path when purpose, just means and humane relationships inhabit the journey, while society secures the minimum dignity that makes such a journey genuinely possible. The prompt is thus neither accepted as an absolute nor dissolved into a balanced list. Its insight survives in a more precise form: one that connects character with institutions, freedom with responsibility, innovation with justice, and present action with the future. That sustained central argument gives the essay coherence, while careful evidence, transitions and qualification give it credibility.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Separate the audited Essay paper rules from candidate strategy. Answer in about 150 words.
+**Question:** Define the core writing problem in Paper Rules, Choice and Selection. Answer in about 150 words.
 
-**Model thesis:** **Claim:** 2024 printed instruction. **Named evidence/example:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** 2025 audited boundary. **Named evidence/example:** The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** One-per-section constraint. **Named evidence/example:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Duration boundary. **Named evidence/example:** The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Rule-strategy firewall. **Named evidence/example:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Purpose and scope. **Named evidence/example:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis. **Named evidence/example:** The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)".
-- The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
-- The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
-- The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
-- Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
+- This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
+- The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
 
-**Qualified conclusion:** **Claim:** 2024 printed instruction. **Named evidence/example:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)". **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** 2025 audited boundary. **Named evidence/example:** The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** One-per-section constraint. **Named evidence/example:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Duration boundary. **Named evidence/example:** The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Rule-strategy firewall. **Named evidence/example:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Purpose and scope. **Named evidence/example:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis. **Named evidence/example:** The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Build a concise prompt-selection viability test. Answer in about 150 words.
+**Question:** Distinguish the valid method from its closest misuse in Paper Rules, Choice and Selection. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Interpretive clarity. **Named evidence/example:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Dimension distinctness. **Named evidence/example:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Exam facts / source basis — 2. **Named evidence/example:** one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)". **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 3. **Named evidence/example:** essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-- A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
-- A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-- Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
+- one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
+- essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
 
-**Qualified conclusion:** **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Interpretive clarity. **Named evidence/example:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Dimension distinctness. **Named evidence/example:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Exam facts / source basis — 2. **Named evidence/example:** one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)". **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 3. **Named evidence/example:** essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain why familiarity and originality are insufficient selection criteria. Answer in about 250 words.
+**Question:** Apply Paper Rules, Choice and Selection to one philosophical UPSC Essay prompt. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Familiarity limit. **Named evidence/example:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Originality limit. **Named evidence/example:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Risk screening. **Named evidence/example:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Exam facts / source basis — 4. **Named evidence/example:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 5. **Named evidence/example:** bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 6. **Named evidence/example:** header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 7. **Named evidence/example:** Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-- Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-- A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
+- Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+- bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
+- header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official.
+- Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
 
-**Qualified conclusion:** **Claim:** Familiarity limit. **Named evidence/example:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Originality limit. **Named evidence/example:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Risk screening. **Named evidence/example:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Exam facts / source basis — 4. **Named evidence/example:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 5. **Named evidence/example:** bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 6. **Named evidence/example:** header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 7. **Named evidence/example:** Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Design a risk-screening matrix for choosing one prompt from each Section. Answer in about 250 words.
+**Question:** Apply Paper Rules, Choice and Selection to one issue-based or hybrid UPSC Essay prompt. Answer in about 250 words.
 
-**Model thesis:** **Claim:** One-per-section constraint. **Named evidence/example:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Dimension distinctness. **Named evidence/example:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Risk screening. **Named evidence/example:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Basic scan questions. **Named evidence/example:** 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Comparison grid. **Named evidence/example:** Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Comparison grid — 2. **Named evidence/example:** Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
-- A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-- A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-- Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
-- A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
+- Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+- 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
+- Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
+- Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
 
-**Qualified conclusion:** **Claim:** One-per-section constraint. **Named evidence/example:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Dimension distinctness. **Named evidence/example:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Risk screening. **Named evidence/example:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Basic scan questions. **Named evidence/example:** 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Comparison grid. **Named evidence/example:** Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Comparison grid — 2. **Named evidence/example:** Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Analyse topic choice as a two-essay portfolio decision under time pressure. Answer in about 300 words.
+**Question:** Evaluate the limits, counter-cases and repair protocol for Paper Rules, Choice and Selection. Answer in about 300 words.
 
-**Model thesis:** **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Risk screening. **Named evidence/example:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Two-essay portfolio. **Named evidence/example:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Time allocation. **Named evidence/example:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Commitment discipline. **Named evidence/example:** After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** India-first illustration starters. **Named evidence/example:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis options and selection. **Named evidence/example:** For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Advanced proposition and boundary. **Named evidence/example:** Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy. **Named evidence/example:** with visible strain (a warning sign under time pressure, not merely a stylistic weakness). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-- Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
-- A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
-- The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
-- Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction.
-- After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
+- Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
+- For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
+- Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
+- with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
+- guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
 
-**Qualified conclusion:** **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Risk screening. **Named evidence/example:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Two-essay portfolio. **Named evidence/example:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Time allocation. **Named evidence/example:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Commitment discipline. **Named evidence/example:** After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** India-first illustration starters. **Named evidence/example:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis options and selection. **Named evidence/example:** For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Advanced proposition and boundary. **Named evidence/example:** Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy. **Named evidence/example:** with visible strain (a warning sign under time pressure, not merely a stylistic weakness). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Apply the selection method to one philosophical and one issue-based V1 prompt. Answer in about 300 words.
+**Question:** Construct an examiner-ready answer architecture using Paper Rules, Choice and Selection. Answer in about 300 words.
 
-**Model thesis:** **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Interpretive clarity. **Named evidence/example:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Dimension distinctness. **Named evidence/example:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Familiarity limit. **Named evidence/example:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Originality limit. **Named evidence/example:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Two-essay portfolio. **Named evidence/example:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Purpose and scope. **Named evidence/example:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 4. **Named evidence/example:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** India-first illustration starters. **Named evidence/example:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 2. **Named evidence/example:** stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 3. **Named evidence/example:** reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Levels of analysis and temporal-spatial scale. **Named evidence/example:** Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-- A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
-- A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-- Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
-- Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-- Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-- The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
+- This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
+- Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+- Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+- Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
+- guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
+- stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
+- reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13).
+- Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
 
-**Qualified conclusion:** **Claim:** Thesis-fit. **Named evidence/example:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Interpretive clarity. **Named evidence/example:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Dimension distinctness. **Named evidence/example:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Evidence availability. **Named evidence/example:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Familiarity limit. **Named evidence/example:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Originality limit. **Named evidence/example:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Two-essay portfolio. **Named evidence/example:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Purpose and scope. **Named evidence/example:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 4. **Named evidence/example:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** India-first illustration starters. **Named evidence/example:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 2. **Named evidence/example:** stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions — 3. **Named evidence/example:** reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13). **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Levels of analysis and temporal-spatial scale. **Named evidence/example:** Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -2464,164 +2536,177 @@ error log.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Paper Rules, Choice and Selection: AUDITED PAPER RULES AND DATED BOUNDARY
+### Paper Rules, Choice and Selection: OWNED SKILL AND PROMPT-FIDELITY CONTROLS
 
-1. **2024 printed instruction:** The locally audited 2024 paper says: "Write two essays, choosing one topic from each of the following Sections A and B, in about 1000-1200 words each:" and prints "(125 × 2 = 250)".
-2. **2025 audited boundary:** The locally audited 2025 English instruction is garbled, but its Hindi line and two section headings still establish two essays, one from each Section, about 1000–1200 words each; that copy prints no marks line.
-3. **One-per-section constraint:** The audited 2024 and 2025 papers require one topic from Section A and one from Section B, so selecting two prompts from one Section violates the printed structure.
-4. **Four-prompt choice set:** Each audited 2024 and 2025 Section displays four prompts, producing a separate four-way choice within each Section.
-5. **Bilingual display:** The audited prompts are printed bilingually, Hindi first and English second; the repository quotes only the audited English line.
-6. **Numbering instability:** Printed numbering is not a stable rule: 2024 restarts Section B at 1–4, whereas 2025 continues it at 5–8.
-7. **Attribution boundary:** Neither audited 2024 nor 2025 paper prints an author beside any prompt, so selection must not depend on an invented attribution.
-8. **Rubric boundary:** The audited papers print no granular marking rubric, examiner weightage or ideal paragraph and example count; internal choice tools are therefore strategy, not official rules.
-9. **Duration boundary:** The repository dates the three-hour Essay duration to the official Civil Services Main examination scheme, not to a time header in the locally held 2024–2025 scans.
-10. **Rule-strategy firewall:** Official constraints state what must be attempted; topic scanning, time splits, matrices and risk scores are pedagogical strategies that must remain explicitly non-official.
-11. **Thesis-fit:** A prompt is high-fit when it quickly yields one contestable, qualified and supportable central claim rather than a restatement or subject label.
-12. **Interpretive clarity:** A safe choice allows the candidate to restate the exact proposition and identify whether it needs philosophical decoding, issue scoping or both.
-13. **Dimension distinctness:** A viable prompt yields several genuinely different claims or mechanisms; repeated vocabulary around one idea is not multidimensional depth.
-14. **Evidence availability:** Selection should favour prompts for which safe, verifiable Indian or global illustrations can be recalled without invented data or forced relevance.
-15. **Familiarity limit:** Subject familiarity is useful only when it supports the printed proposition; familiarity alone can trigger a GS-style fact stack on an adjacent topic.
-16. **Originality limit:** Originality means a defensible interpretation and synthesis, not an eccentric reading that loses contact with the prompt's words.
-17. **Risk screening:** A prompt becomes risky when its thesis is strained, dimensions duplicate, evidence is uncertain, the conclusion is forced or the reading depends on a printing defect.
-18. **Two-essay portfolio:** The final choice is a pair decision: both selected prompts must remain defensible under the same total time and evidence budget.
-19. **Time allocation:** Choice, planning, drafting and revision allocations are internal execution choices; no phase split should be presented as an official UPSC instruction.
-20. **Commitment discipline:** After a bounded scan and viability test, commit before drafting; switch only early when the prompt fails a genuine thesis, dimension or evidence gate.
+1. **Purpose and scope:** This topic answers two questions before any writing begins: what does the paper actually require , and how should a candidate choose which of the eight-plus-eight displayed prompts to attempt ? It does not teach decoding technique (see 02/03) or drafting technique (see 05–07) — it teaches the upstream decision that determines how easy those later steps will be.
+2. **Exam facts / source basis:** The current corpus ledger records 2018–2025 as V1 — directly verified locally and 2013–2017 as V2 — carried-forward, not locally verifiable . The paper-mechanics facts below are illustrated with the 2024 and 2025 papers, whose printed wording is reproduced in the ledger.
+3. **Exam facts / source basis — 2:** one topic from each of the following Sections A and B, in about 1000-1200 words each:" followed by the marks line "(125 × 2 = 250)".
+4. **Exam facts / source basis — 3:** essays, choosing one topic from each of the following Sections A as in about 1000 – 1200 words each:". The requirement is still unambiguous from the paper's Hindi line and its two printed section headings — two essays, one from each of Sections A and B, about 1000–1200 words each — but do not quote the 2025 line as clean English.
+5. **Exam facts / source basis — 4:** Section B at 1–4; 2025 continues Section B at 5–8. This folder's B5–B8 labels are an internal reference scheme, not the 2024 paper's printed numbers.
+6. **Exam facts / source basis — 5:** bilingually (Hindi then English) , and require one topic chosen from each Section — never two from the same Section.
+7. **Exam facts / source basis — 6:** header, a 2025 marks line, an author beside any prompt, or any marking rubric/weightage. The separate official examination scheme supplies the three-hour Essay duration; no phase split is official.
+8. **Exam facts / source basis — 7:** Practical consequence for choice: because the paper's own numbering and even its instruction line vary year to year, spend the first reading confirming the structural rule (one from each Section) rather than assuming any layout you have seen in a mock paper.
+9. **The central idea and common misreading:** Central idea: topic choice is a strategic decision made on the basis of thesis-fit, dimension count and evidence availability — not simple familiarity. Common misreading: picking a prompt because it sounds close to a favourite GS subject (e.g. choosing "Empires of the mind" purely because you like Science & Technology) without first checking whether you can actually form one qualified thesis and recall two or three safe illustrations for it. A topic that feels unfamiliar but decodes cleanly (most aphorisms do, once you apply 02) is frequently the safer choice.
+10. **Basic scan questions:** 1. Can I restate this prompt's core claim in one plain sentence? 2. Is this an aphorism (needs decoding, see 02) or an issue-statement (needs scoping, see 03)? 3. Can I already name two distinct dimensions for it (see 04)? 4. Can I already name one Indian illustration that fits without forcing it (see 12)? 5. Does a workable thesis come to mind within about a minute (see 05)?
+11. **Comparison grid:** Use a quick grid — not a full essay plan — to compare shortlisted prompts before committing
+12. **Comparison grid — 2:** Score honestly; a prompt with weaker fit in two or more columns is riskier than it looks at first read.
+13. **India-first illustration starters:** Before committing to a prompt, recall — do not invent — at least one Indian illustration per likely dimension: an institution, a policy episode, a well-known social pattern, or a documented event. If nothing comes to mind without forcing it, that is itself useful information about the prompt's risk (see topic 12 for the full verified-example discipline).
+14. **Thesis options and selection:** For each shortlisted prompt, draft one candidate thesis sentence before final choice — not a full outline. Choose the prompt whose thesis sentence is (a) a genuine claim, not a restatement of the prompt, (b) qualified (acknowledges a limit or condition), and (c) supportable by the illustrations recalled in Section 7. Full thesis-construction method in 05.
+15. **Advanced proposition and boundary:** Proposition: topic choice is best modelled as a portfolio decision under time pressure — you are choosing the prompt with the best expected combination of thesis-clarity, dimension-depth and evidence-safety, not the prompt with the highest emotional appeal. Boundary: this topic does not itself decode any single prompt in depth (that is 02/03) or build a full argument map (05/08); it supplies the upstream selection logic those topics assume has already been run.
+16. **Concept definition and taxonomy:** with visible strain (a warning sign under time pressure, not merely a stylistic weakness).
+17. **Tension pairs and hidden assumptions:** guarantees writing quality is unsafe — interest without a qualified thesis produces an enthusiastic but shapeless essay.
+18. **Tension pairs and hidden assumptions — 2:** stacking (fact lists) rather than argument; an unfamiliar aphorism forces argument-first thinking, which the paper actually rewards.
+19. **Tension pairs and hidden assumptions — 3:** reverse mid-attempt; the hidden assumption in "just start writing" is that later correction is cheap — it is not, given the fixed time budget (13).
+20. **Levels of analysis and temporal-spatial scale:** Selection logic should be checked at three levels: (a) the sentence level — can the prompt's own words support a thesis without distortion; (b) the essay level — will 10–12 paragraphs (07) sustain interest and argument without repetition; (c) the exam level — does the choice, given your remaining time budget for both essays (13), still allow adequate planning and revision for the second essay.
 
-### Paper Rules, Choice and Selection: CHOICE SIGNALS, FALSE SIGNALS AND RISK FIREWALLS
+### Paper Rules, Choice and Selection: ARGUMENT, EVIDENCE AND COHERENCE FIREWALLS
 
-- Do not convert a locally audited 2024 rule into an unsupported claim about every future paper.
-- Do not quote the garbled 2025 English instruction as clean official wording.
-- Do not select two prompts from the same Section.
-- Do not treat internal B5–B8 labels as stable printed numbering.
-- Do not present a choice matrix or time split as an official UPSC rule.
-- Do not choose by familiarity, emotional appeal or quotation recognition alone.
-- Do not mistake eccentric interpretation for originality.
-- Do not commit when evidence depends on half-remembered figures or attributions.
-- Do not optimise one essay by leaving the second with an unworkable time budget.
-- Do not reverse a viable choice merely because another topic later looks more fashionable.
+- Do not replace paper compliance and risk-aware choice with a generic GS-style catalogue.
+- Do not cross the ownership boundary: prompt decoding belongs to 02/03; detailed drafting belongs to 05-08.
+- Do not use an example without explaining its argumentative function.
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
+- Do not use an unverified quotation, statistic, attribution or anecdote.
+- Do not multiply dimensions that repeat the same claim in new vocabulary.
+- Do not end with aspiration unsupported by the preceding argument.
+- Do not sacrifice the second essay's time budget to perfect the first.
+- Do not mistake novelty of phrasing for originality of thought.
 
-### Paper Rules, Choice and Selection: TWO-SECTION SELECTION AND COMMITMENT SPINE
+### Paper Rules, Choice and Selection: EXAM-EXECUTION AND ANSWER-WRITING SPINE
 
 ```text
-CONFIRM THE DATED ONE-PER-SECTION RULE
--> SCAN ALL FOUR PROMPTS IN EACH SECTION
--> CLASSIFY PHILOSOPHICAL ISSUE OR HYBRID
--> TEST THESIS DIMENSIONS EVIDENCE AND CONCLUSION
--> SCREEN ATTRIBUTION PRINTING AND FACT RISK
--> TEST BOTH ESSAYS AGAINST ONE TIME BUDGET
--> COMMIT BEFORE DRAFTING
+READ THE EXACT PROMPT
+-> DEFINE KEYWORDS RELATION SCOPE AND ASSUMPTION
+-> FORM ONE QUALIFIED THESIS
+-> BRAINSTORM THEN CUT TO DISTINCT ARGUMENT JOBS
+-> MAP CLAIM EVIDENCE ANALYSIS QUALIFICATION AND LINK
+-> STEELMAN COUNTER-VIEW
+-> SYNTHESIZE AND RETURN TO THE CENTRAL ARGUMENT
+-> REVISE FOR FIDELITY FACTS COHERENCE AND TIME
 ```
 
-### Paper Rules, Choice and Selection: LIVE UPSC CHECK AND FUTURE-PAPER CAUTION
+### Paper Rules, Choice and Selection: SOURCE STATUS, CROSS-LINKS AND REVISION TRIGGERS
 
-Rule boundary dated 2026-09-04: use the repository's locally audited 2024–2025 instructions plus the official-scheme duration. Re-check the applicable UPSC notification and paper before asserting a future year's exact rules.
+Live source check dated 2026-09-06: official UPSC routes were attempted and access-blocked; blocked pages support no new claim. UN, WHO and IPCC primary pages were separately checked for cross-theme factual boundaries.
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Official paper boundary
+#### ASCII MASTER FLOW — PANEL 1/12: Paper Rules, Choice and Selection: Prompt and scope
 
 ```ascii-master
-2024 PAPER -> clean two-essay and one-per-section instruction
-2025 PAPER -> garbled English line but two sections remain clear
-SCHEME -> three-hour duration
-FIREWALL -> audited fact is not a prediction of a future paper
+PURPOSE AND SCOPE -> This topic answers two questions before any writing 
+EXAM FACTS / SOURCE BASIS -> The current corpus ledger records 2018–2025 as V1 — 
+EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and 
+EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin
+VERDICT 1 -> Prompt and scope must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 2/12: Section-choice constraint
+#### ASCII MASTER FLOW — PANEL 2/12: Paper Rules, Choice and Selection: Concept hierarchy
 
 ```ascii-master
-SECTION A -> scan four prompts -> choose one
-SECTION B -> scan four prompts -> choose one
-PAIR -> two essays
-INVALID -> both choices from the same Section
+EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and 
+EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin
+EXAM FACTS / SOURCE BASIS — 4 -> Section B at 1–4; 2025 continues Section B at 5–8. T
+EXAM FACTS / SOURCE BASIS — 5 -> bilingually (Hindi then English) , and require one t
+VERDICT 2 -> Concept hierarchy must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 3/12: Paper-layout cautions
+#### ASCII MASTER FLOW — PANEL 3/12: Paper Rules, Choice and Selection: Dimension matrix
 
 ```ascii-master
-BILINGUAL -> Hindi then English
-2024 B NUMBERING -> restarts
-2025 B NUMBERING -> continues
-ACTION -> read headings before relying on numbers
+EXAM FACTS / SOURCE BASIS — 4 -> Section B at 1–4; 2025 continues Section B at 5–8. T
+EXAM FACTS / SOURCE BASIS — 5 -> bilingually (Hindi then English) , and require one t
+EXAM FACTS / SOURCE BASIS — 6 -> header, a 2025 marks line, an author beside any prom
+EXAM FACTS / SOURCE BASIS — 7 -> Practical consequence for choice: because the paper'
+VERDICT 3 -> Dimension matrix must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 4/12: Official versus strategic
+#### ASCII MASTER FLOW — PANEL 4/12: Paper Rules, Choice and Selection: Decision gate
 
 ```ascii-master
-OFFICIAL -> attempt structure and audited wording
-STRATEGY -> scan, score, allocate and commit
-NOT PRINTED -> granular rubric or paragraph count
-RULE -> never promote a heuristic into an instruction
+EXAM FACTS / SOURCE BASIS — 6 -> header, a 2025 marks line, an author beside any prom
+EXAM FACTS / SOURCE BASIS — 7 -> Practical consequence for choice: because the paper'
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: topic choice is a strategic decision m
+BASIC SCAN QUESTIONS -> 1. Can I restate this prompt's core claim in one pla
+VERDICT 4 -> Decision gate must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 5/12: Prompt viability gate
+#### ASCII MASTER FLOW — PANEL 5/12: Paper Rules, Choice and Selection: Mechanism chain
 
 ```ascii-master
-RESTATABLE CLAIM?
-QUALIFIED THESIS?
-DISTINCT DIMENSIONS?
-SAFE EVIDENCE? -> if any answer is no, raise risk
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: topic choice is a strategic decision m
+BASIC SCAN QUESTIONS -> 1. Can I restate this prompt's core claim in one pla
+COMPARISON GRID -> Use a quick grid — not a full essay plan — to compar
+COMPARISON GRID — 2 -> Score honestly; a prompt with weaker fit in two or m
+VERDICT 5 -> Mechanism chain must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 6/12: Familiarity test
+#### ASCII MASTER FLOW — PANEL 6/12: Paper Rules, Choice and Selection: Counter-view and synthesis
 
 ```ascii-master
-FAMILIAR + THESIS-FIT -> usable
-FAMILIAR + FACT STACK -> unsafe
-UNFAMILIAR + CLEAR TENSION -> potentially safer
-DECISION -> tractability outranks comfort
+COMPARISON GRID -> Use a quick grid — not a full essay plan — to compar
+COMPARISON GRID — 2 -> Score honestly; a prompt with weaker fit in two or m
+INDIA-FIRST ILLUSTRATION STARTERS -> Before committing to a prompt, recall — do not inven
+THESIS OPTIONS AND SELECTION -> For each shortlisted prompt, draft one candidate the
+VERDICT 6 -> Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 7/12: Originality boundary
+#### ASCII MASTER FLOW — PANEL 7/12: Paper Rules, Choice and Selection: Close-option distinctions
 
 ```ascii-master
-PLAIN READING -> faithful but contestable
-ORIGINAL MOVE -> qualified connection or synthesis
-ECCENTRIC MOVE -> loses the printed relation
-KEEP -> originality that remains text-bound
+INDIA-FIRST ILLUSTRATION STARTERS -> Before committing to a prompt, recall — do not inven
+THESIS OPTIONS AND SELECTION -> For each shortlisted prompt, draft one candidate the
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: topic choice is best modelled as a port
+CONCEPT DEFINITION AND TAXONOMY -> with visible strain (a warning sign under time press
+VERDICT 7 -> Close-option distinctions must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 8/12: Evidence-risk screen
+#### ASCII MASTER FLOW — PANEL 8/12: Paper Rules, Choice and Selection: Evidence-status ladder
 
 ```ascii-master
-GREEN -> named and safely recallable illustration
-AMBER -> useful but detail uncertain
-RED -> invented number, author or forced example
-CHOICE -> prefer the prompt with stronger evidence safety
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: topic choice is best modelled as a port
+CONCEPT DEFINITION AND TAXONOMY -> with visible strain (a warning sign under time press
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> guarantees writing quality is unsafe — interest with
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> stacking (fact lists) rather than argument; an unfam
+VERDICT 8 -> Evidence-status ladder must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 9/12: Conclusion feasibility
+#### ASCII MASTER FLOW — PANEL 9/12: Paper Rules, Choice and Selection: Cross-scale system
 
 ```ascii-master
-THESIS -> DIMENSIONS -> COUNTER-VIEW
-COUNTER-VIEW -> QUALIFICATION
-QUALIFICATION -> EARNED SYNTHESIS
-FORCED ENDING -> warning that choice may be weak
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> guarantees writing quality is unsafe — interest with
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> stacking (fact lists) rather than argument; an unfam
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> reverse mid-attempt; the hidden assumption in "just 
+LEVELS OF ANALYSIS AND TEMPORAL-SP -> Selection logic should be checked at three levels: (
+VERDICT 9 -> Cross-scale system must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 10/12: Two-essay portfolio
+#### ASCII MASTER FLOW — PANEL 10/12: Paper Rules, Choice and Selection: Argument architecture
 
 ```ascii-master
-ESSAY A -> clarity + depth + evidence
-ESSAY B -> clarity + depth + evidence
-SHARED BUDGET -> planning + drafting + revision
-PAIR TEST -> neither choice should impoverish the other
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> reverse mid-attempt; the hidden assumption in "just 
+LEVELS OF ANALYSIS AND TEMPORAL-SP -> Selection logic should be checked at three levels: (
+PURPOSE AND SCOPE -> This topic answers two questions before any writing 
+EXAM FACTS / SOURCE BASIS -> The current corpus ledger records 2018–2025 as V1 — 
+VERDICT 10 -> Argument architecture must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 11/12: Commitment rule
+#### ASCII MASTER FLOW — PANEL 11/12: Paper Rules, Choice and Selection: Failure and repair gate
 
 ```ascii-master
-BOUNDED SCAN -> viability passed -> commit
-EARLY FAILURE -> switch once before drafting expands
-LATE DOUBT -> return to thesis and evidence map
-DISCIPLINE -> do not chase a fashionable alternative
+PURPOSE AND SCOPE -> This topic answers two questions before any writing 
+EXAM FACTS / SOURCE BASIS -> The current corpus ledger records 2018–2025 as V1 — 
+EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and 
+EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin
+VERDICT 11 -> Failure and repair gate must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 12/12: Selection answer spine
+#### ASCII MASTER FLOW — PANEL 12/12: Paper Rules, Choice and Selection: Complete answer spine
 
 ```ascii-master
-READ RULE -> SCAN EACH SECTION -> CLASSIFY PROMPTS
-TEST THESIS -> TEST DIMENSIONS -> TEST EVIDENCE
-SCREEN RISK -> TEST THE PAIR -> ALLOCATE TIME
-COMMIT -> DECODE OR SCOPE -> PLAN
+EXAM FACTS / SOURCE BASIS — 2 -> one topic from each of the following Sections A and 
+EXAM FACTS / SOURCE BASIS — 3 -> essays, choosing one topic from each of the followin
+EXAM FACTS / SOURCE BASIS — 4 -> Section B at 1–4; 2025 continues Section B at 5–8. T
+EXAM FACTS / SOURCE BASIS — 5 -> bilingually (Hindi then English) , and require one t
+VERDICT 12 -> Complete answer spine must preserve prompt, thesis, evidence and qualification.
 ```

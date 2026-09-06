@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-13",
+      "display_title": "Biotechnology Fundamentals and DBT Missions",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Biotechnology information rail",
+          "structural_type": "process-rail",
+          "ascii_lines": [
+            "BIOLOGICAL INPUT -> gene / cell / tissue / enzyme / organism",
+            "DNA --TRANSCRIPTION--> RNA --TRANSLATION--> PROTEIN",
+            "INTERVENTIONS -> rDNA / PCR / culture / diagnostics / bioprocess",
+            "OUTPUT -> knowledge / service / regulated product",
+            "RULE -> biotechnology is broader than genetic engineering"
+          ],
+          "source_references": [
+            "Biotechnology-platform boundary",
+            "Central-dogma boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Recombinant DNA assembly chain",
+          "structural_type": "assembly-chain",
+          "ascii_lines": [
+            "TARGET GENE -> restriction endonuclease cut",
+            "VECTOR -> plasmid / bacteriophage / Ti-plasmid carrier",
+            "DNA LIGASE -> recombinant construct",
+            "HOST TRANSFORMATION -> marker selection -> expression",
+            "TRAP -> vector, insert, host and product are different"
+          ],
+          "source_references": [
+            "Recombinant-DNA chain",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PCR distinction matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "PCR CORE -> denaturation -> annealing -> extension",
+            "THERMOSTABLE POLYMERASE -> repeated DNA copying",
+            "REVERSE-TRANSCRIPTION PCR -> RNA first converted to cDNA",
+            "REAL-TIME PCR -> fluorescence measured during amplification",
+            "RULE -> template conversion and detection timing are separate axes"
+          ],
+          "source_references": [
+            "PCR-RT-PCR boundary",
+            "Molecular-diagnostics boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Bioprocess scale rail",
+          "structural_type": "scale-up-rail",
+          "ascii_lines": [
+            "STRAIN / CELL LINE + MEDIUM -> upstream preparation",
+            "BIOREACTOR -> pH / temperature / oxygen / sterility control",
+            "HARVEST -> downstream recovery and purification",
+            "QUALITY CONTROL -> identity / purity / reproducibility",
+            "LAB SUCCESS != PILOT != COMMERCIAL MANUFACTURE"
+          ],
+          "source_references": [
+            "Fermentation-bioprocess chain",
+            "Biofoundry-scale-up boundary",
+            "Status-and-number firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Culture and potency map",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "PLANT EXPLANT -> sterile medium -> callus / shoots / roots",
+            "TOTIPOTENCY -> suitable cell can regenerate whole plant",
+            "EMBRYONIC STEM CELL -> pluripotent",
+            "ADULT STEM CELL -> usually multipotent / tissue-restricted",
+            "iPSC -> somatic cell reprogrammed to pluripotency"
+          ],
+          "source_references": [
+            "Tissue-culture-totipotency boundary",
+            "Stem-cell-potency boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Gene therapy and diagnostics twin rail",
+          "structural_type": "dual-rail",
+          "ascii_lines": [
+            "THERAPY -> add / replace / silence / edit disease-relevant sequence",
+            "DELIVERY -> engineered viral vector or lipid nanoparticle",
+            "DIAGNOSTIC -> sample -> extraction -> marker detection -> interpretation",
+            "SOMATIC != GERMLINE; MARKER != CLINICAL OUTCOME",
+            "RULE -> mechanism, delivery, validation and status all matter"
+          ],
+          "source_references": [
+            "Gene-therapy boundary",
+            "Molecular-diagnostics boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Biotechnology institution router",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DBT / MINISTRY OF S&T -> policy, missions and research support",
+            "BIRAC -> industry-academia translation and enterprise support",
+            "ICMR / CSIR / ICAR -> domain-specific research systems",
+            "CDSCO -> drugs and vaccines; GEAC -> GMO environmental release",
+            "RULE -> funder, performer, interface and regulator are distinct"
+          ],
+          "source_references": [
+            "DBT-BIRAC boundary",
+            "Institutional-router boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "BioE3 six-sector wheel",
+          "structural_type": "six-sector-wheel",
+          "ascii_lines": [
+            "1 BIO-BASED CHEMICALS AND ENZYMES",
+            "2 FUNCTIONAL FOODS AND SMART PROTEINS",
+            "3 PRECISION BIOTHERAPEUTICS",
+            "4 CLIMATE-RESILIENT AGRICULTURE",
+            "5 CARBON CAPTURE AND ITS UTILISATION",
+            "6 FUTURISTIC MARINE AND SPACE RESEARCH"
+          ],
+          "source_references": [
+            "BioE3-six-sector boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Bio-RIDE and GenomeIndia timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "28 FEB 2024 -> DBT announces 10,000 GenomeIndia sequences complete",
+            "24 AUG 2024 -> Cabinet approves BioE3",
+            "19 SEP 2024 -> Cabinet approves Bio-RIDE",
+            "GENOME DATA -> reference and research potential plus safeguards",
+            "APPROVAL / COMPLETION VERB -> preserve exact object and status"
+          ],
+          "source_references": [
+            "Bio-RIDE boundary",
+            "GenomeIndia boundary",
+            "Status-and-number firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Research-to-impact funnel",
+          "structural_type": "translation-funnel",
+          "ascii_lines": [
+            "DISCOVERY -> proof of concept",
+            "BIRAC / INCUBATOR -> translation and enterprise support",
+            "BIOFOUNDRY / PILOT -> reproducibility and process optimisation",
+            "REGULATION / QUALITY / MANUFACTURE -> adoption gateway",
+            "SOCIAL BENEFIT -> affordability, access and fit still required",
+            "MUST REMEMBER: Biotechnology uses genes, cells, tissues, enzymes, microbes and...",
+            "MUST REMEMBER: Biotechnology uses genes, cells, tissues, enzymes, microbes and..."
+          ],
+          "source_references": [
+            "Biofoundry-scale-up boundary",
+            "Biopharma-translation boundary",
+            "Status-and-number firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-13_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PYQ applications matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "BIOPHARMA -> rDNA + culture + bioprocess + quality + access",
+            "MICROBES / FUEL -> digestion + fermentation + biomass conversion",
+            "OBJECTIVE CONCEPTS -> barcode / biofilter / Wolbachia / air DNA",
+            "CLEAN TECH -> bounded contribution to wider energy transition",
+            "2026 -> genetic medicine and GenomeIndia; no provisional key asserted",
+            "CLOSE DISTINCTION: Biotechnology is not only genetic engineering, PCR is not sequencing,...",
+            "CLOSE DISTINCTION: Biotechnology is not only genetic engineering, PCR is not sequencing,..."
+          ],
+          "source_references": [
+            "Biopharma-translation boundary",
+            "Microbes-biofuel boundary",
+            "Objective-biotech-concepts boundary",
+            "Clean-tech-contribution boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-13_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Biotechnology answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> platform and biological information level",
+            "EXPLAIN -> mechanism from laboratory to bioprocess",
+            "MAP -> DBT / BIRAC / research bodies / regulators",
+            "APPLY -> health / agriculture / industry / environment / energy",
+            "QUALIFY -> biosafety, data, scale, affordability and status",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace discovery, validation, scale-up,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace discovery, validation, scale-up,..."
+          ],
+          "source_references": [
+            "Biotechnology-platform boundary",
+            "DBT-BIRAC boundary",
+            "Institutional-router boundary",
+            "Status-and-number firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g2\\science-and-technology-13_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-13_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-13\\g3\\science-and-technology-13_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

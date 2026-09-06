@@ -139,3 +139,50 @@ Technology is therefore neither an automatic equaliser nor an inevitable source 
 **Practice count:** 593 words (title excluded).  
 **Annotation:** The thesis qualifies both sides; paragraphs 2–5 move from benefit to mechanism of exclusion to response; paragraph 6 limits technological claims.  
 **Coaching score:** 87/100 — relevance/thesis 18, organisation 18, development/balance 22, grammar/vocabulary 22, conclusion/count discipline 7.
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Short Essays; clear, correct, concise and orderly expression on a selected general topic.
+- **Canonical ownership:** Owns prompt choice, term decoding, qualified thesis, six-minute planning, continuous argument, paragraph logic, examples, counterargument, conclusion, about-600-word control and revision.
+- **Cross-topic boundary:** Topic 06 owns passage-based response and précis; Topics 01-05 own sentence-level language rules applied during drafting and revision.
+
+### Complete learner and answer route
+
+1. **Choose:** Select the prompt whose terms, tension, thesis and examples can be controlled.
+2. **Decode:** Define key terms in context and locate the hidden contrast or relationship.
+3. **Thesis:** State a qualified arguable position by the end of the introduction.
+4. **Plan:** Build distinct reason, mechanism, consequence, limitation and response moves.
+5. **Introduction:** Enter the issue directly; avoid dictionary openings and decorative quotations.
+6. **Paragraph architecture:** Use claim, explanation, safe example and explicit link to thesis.
+7. **Coherence:** Order paragraphs so each advances rather than repeats the argument.
+8. **Counterargument:** Present a genuine objection or limit and answer or accommodate it.
+9. **Evidence discipline:** Use defensible illustrations and never invent statistics or quotations.
+10. **Style:** Prefer plain formal English, controlled sentence length and precise connectors.
+11. **Word and time control:** Target about 600 words and reserve a final revision window.
+12. **Revision and verdict:** Check thesis, paragraph jobs, grammar, unsupported claims, count and conclusion.
+
+### Authority, variation and hostile-query gate
+
+A model must answer the exact prompt, sustain one qualified thesis, develop distinct paragraphs, use safe examples, engage a real limitation and conclude from the argument without invented facts or quotations.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**decode; qualified thesis; paragraph; counterargument; evidence; coherence; 600 words; revision**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+

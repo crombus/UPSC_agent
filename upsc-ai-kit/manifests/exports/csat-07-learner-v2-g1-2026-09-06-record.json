@@ -1,0 +1,100 @@
+{
+  "record_id": "csat-07:learner-v2:g1",
+  "topic_key": "csat-07",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Interpersonal-and-Communication-Skills",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\learning-sessions\\csat-07\\g1\\csat-07_Complete-Learning-Session_2026-09-06.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\learning-sessions\\csat-07\\g1\\csat-07_Solved-Practice-Workbook_2026-09-06.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\learning-sessions\\csat-07\\g1\\csat-07_Complete-Learning-Session_2026-09-06.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\learning-sessions\\csat-07\\g1\\csat-07_Solved-Practice-Workbook_2026-09-06.md",
+  "generated_on": "2026-09-06",
+  "approved": false,
+  "provenance": {
+    "workflow": "csat-semantic-completeness-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\07_Interpersonal-and-Communication-Skills.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\CSAT\\basic\\07_Interpersonal-and-Communication-Skills.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\07_Interpersonal-Communication-Negotiation-and-Public-Dealing.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\learning-sessions\\csat-07\\g1\\csat-07_Complete-Learning-Session_2026-09-06.md",
+    "canonical_learning_session": "upsc-ai-kit\\knowledge\\CSAT\\learning-sessions\\v2\\subject-wide-syllabus\\csat-07_Learning-Session.md",
+    "canonical_workbook": "upsc-ai-kit\\knowledge\\CSAT\\learning-sessions\\v2\\subject-wide-syllabus\\csat-07_Solved-Workbook.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md",
+      "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md"
+    ],
+    "local_ocr_sources": [
+      "books\\prelima_question_paper_answers\\2024-GS2-CSAT-Set A.pdf",
+      "books\\prelima_question_paper_answers\\Ans-2024-CSAT-GS2.pdf",
+      "books\\prelima_question_paper_answers\\2025-GS2-CSAT-Set A.pdf",
+      "books\\prelima_question_paper_answers\\Ans-2025-CSAT-GS2.pdf",
+      "books\\prelima_question_paper_answers\\2026-GS2-CSAT-Set A.pdf",
+      "books\\prelima_question_paper_answers\\Ans-2026-CSAT-GS2-Provisional.pdf"
+    ],
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-06",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\CSAT\\basic\\07_Interpersonal-and-Communication-Skills.md": "ad4a967efa1c0ce8ac063f6753fdcfb7089df64507f733f3bbfac5a6787727bb",
+      "upsc-ai-kit\\knowledge\\CSAT\\advanced\\07_Interpersonal-Communication-Negotiation-and-Public-Dealing.md": "cbe4f771642b55073455b585873be12689deae63f2e0508b595f7e3179cac067",
+      "upsc-ai-kit\\knowledge\\CSAT\\00_Master-Framework.md": "aaa2016904629d268db79a5798150ef8b9a1386fd1edb2ec737062f2cc9e3fcf",
+      "upsc-ai-kit\\knowledge\\CSAT\\00_Question-Audit-Ledger.md": "fbecba6a750ae88aba541dd1ef1379e6e73841ac7a4285b99bec8fd59bea7e6f",
+      "upsc-ai-kit\\knowledge\\CSAT\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "80dd81eb9ccd7e977570eb86cac69418178dc665d981094c6438a95ca4b8b8a8",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2018-2023.md": "d95a0c5b9b2629743056a132f9a4bf3e9df27b2c25486d3e3708e13afa07fdfc",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2024-2025.md": "884f5586c2cb07ab2eab1239bb34796d1e07b8f83bb5968cfb35d59598738a9c",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-CSAT-2026.md": "f6b36893d8296d3c6d1e895f3bdfd67a0500a9f675a5b75a78c906dcdc44f5d0",
+      "books\\prelima_question_paper_answers\\2024-GS2-CSAT-Set A.pdf": "4bc6d46ded096881ccfb3dd19ee8fdbb9186e9d613896b2a473e733b6b095095",
+      "books\\prelima_question_paper_answers\\Ans-2024-CSAT-GS2.pdf": "8d7621b4ef0e8c3be9c71324ec2daf71b0ecd12c5bb334f7f2c4ab645c2863a9",
+      "books\\prelima_question_paper_answers\\2025-GS2-CSAT-Set A.pdf": "7691de31543ec41c907fcd731ca7b67e33480ae082eaf7a40f53a9cfe65b3dc1",
+      "books\\prelima_question_paper_answers\\Ans-2025-CSAT-GS2.pdf": "36d2e54141333642d011aa4a8a6a1be065d787771f773c54904b3a2a427bfe70",
+      "books\\prelima_question_paper_answers\\2026-GS2-CSAT-Set A.pdf": "0a5a6ecb4702769ae58bccc0a13db589c8363195ce0fa304fb1f5bda12152106",
+      "books\\prelima_question_paper_answers\\Ans-2026-CSAT-GS2-Provisional.pdf": "f49d5b8cee132bd154a343f7d416519ea22b1fe610c532a4f25b5cbd6d8d43a5"
+    },
+    "canonical_owner_hash_before": "5c8c6e7c8d7d27183693e54e5c124a69f6a066bfae3df7ba54496ce09ff7167f",
+    "canonical_owner_hash_after": "ad4a967efa1c0ce8ac063f6753fdcfb7089df64507f733f3bbfac5a6787727bb",
+    "practice_profile": "48 deterministic topic-specific MCQs in diagnostic, graded, remedial and timed blocks; complete explanations; verified non-verbatim 2024-2026 PYQ demand/key ledger.",
+    "pyq_status_note": "2024-2025 keys are locally supplied and not certified final here; 2026 is explicitly provisional; 2018-2023 official keys are unavailable locally and no key is inferred.",
+    "question_recomputation": "All 48 generated answers recomputed from stored parameters; RC support anchors checked against passage text.",
+    "mcq_keys": "strict A-B-C-D rotation"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "csat-07:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-06",
+    "validator": "tools/csat_semantic_runtime.py + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1",
+    "master_image": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\ascii-master.txt",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\CSAT\\Subject-Wide-Syllabus\\flowcharts\\csat-07\\carvaka-g1\\ascii-master.pdf",
+    "core_stage_count": 12,
+    "graphical_stage_count": 12,
+    "tiled_page_count": 4,
+    "approval": false,
+    "same_master": true
+  },
+  "refresh_profile": "csat-semantic-completeness"
+}

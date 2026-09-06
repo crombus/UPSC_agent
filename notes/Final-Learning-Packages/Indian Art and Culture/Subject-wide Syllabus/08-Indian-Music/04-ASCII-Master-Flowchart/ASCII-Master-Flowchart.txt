@@ -1,89 +1,170 @@
-ASCII MASTER FLOW — PANEL 1/12: Melodic hierarchy
-SAPTASWARA -> shared note base
-THAAT / MELAKARTA -> parent-scale systems
-RAGA -> performed melodic identity
-TALA -> rhythmic cycle framing performance
-MUST REMEMBER: Indian music analysis distinguishes saptaswara, raga, tala, Hindustani thaat,
-  Carnatic melakarta-janya systems, treatise chronology, gharana or sampradaya transmission,
-  instruments and modern institutions.
-MUST REMEMBER: Indian music analysis distinguishes saptaswara, raga, tala, Hindustani thaat,
-  Carnatic melakarta-janya systems, treatise chronology, gharana or sampradaya transmission,
-  instruments and modern institutions.
+INDIAN MUSIC - ASCII MASTER FLOWCHART
+=====================================
 
-ASCII MASTER FLOW — PANEL 2/12: Thaat-raga firewall
-THAAT -> seven-note unsung scale
-RAGA -> phrase, hierarchy and melodic identity
-MELAKARTA -> Carnatic sampurna parent
-JANYA -> derived Carnatic raga
+ASCII PANEL 01/12 - CENTRAL THESIS
+----------------------------------
++--------------------------------------------------------------+
+| INDIAN MUSIC = CODIFIED SOUND + PERFORMANCE GRAMMAR +        |
+| PATRONAGE HISTORY + MODERN CONTINUITY                        |
+|                                                              |
+| READ IN THIS ORDER:                                          |
+| SOUND -> CLASSIFICATION -> FORM -> LINEAGE -> INSTITUTION    |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Two-tradition matrix
-HINDUSTANI -> thaat, gharana, alap and khayal
-CARNATIC -> melakarta, kriti and manodharma
-SHARED -> swara, raga, tala and older theory
-REJECT -> foreign versus pure
+ASCII PANEL 02/12 - SOUND TO NOTE
+---------------------------------
++--------------------------------------------------------------+
+| Nada (musical sound)                                         |
+|    -> Shruti = smallest audible pitch unit / microtone       |
+|    -> Swara = usable note                                    |
+|    -> Saptak / Sargam = Sa Re Ga Ma Pa Dha Ni                |
+| Fixed tonal anchors = Sa, Pa                                 |
+| Variable field = Re, Ga, Ma, Dha, Ni                         |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Treatise contribution chain
-BHARATA -> music with drama and rasa
-MATANGA -> early raga definition
-SHARNGADEVA -> pre-bifurcation synthesis
-VENKATAMAKHIN -> melakarta system
+ASCII PANEL 03/12 - MELODY AND RHYTHM
+-------------------------------------
++--------------------------------------------------------------+
+| RAGA                                                         |
+| - arohana / avarohana                                        |
+| - vadi / samvadi                                             |
+| - pakad / chalan                                             |
+| - rasa / time link                                           |
+|                                                              |
+| THAAT != RAGA                                                |
+| - thaat = unsung parent scale                                |
+| - raga = performed melodic entity                            |
+|                                                              |
+| TALA != LAYA                                                 |
+| - tala = rhythmic cycle                                      |
+| - laya = tempo                                               |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Modern pedagogy shift
-HEREDITARY LINEAGE -> concentrated technique
-PALUSKAR 1901 -> institutional teaching
-BHATKHANDE -> pedagogic classification
-RESULT -> wider access and standardisation
+ASCII PANEL 04/12 - TEXTUAL TIMELINE
+------------------------------------
++--------------------------------------------------------------+
+| Samaveda / chant world                                       |
+| -> Dattilam (22 shrutis; gandharva transition)               |
+| -> Natyashastra (music with drama, shruti, swara, jati)      |
+| -> Brihaddeshi (raga-definition pivot)                       |
+| -> Sangita Ratnakara (pre-bifurcation synthesis)             |
+| -> Chaturdandiprakashika (melakarta logic)                   |
+| -> Bhatkhande / Paluskar (modern pedagogy)                   |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Gharana mechanism
-HOUSEHOLD / LINEAGE -> specialised skill
-PATRON -> court or elite support
-APPRENTICESHIP -> controlled transmission
-NEW MEDIA -> concert, radio and recording
+ASCII PANEL 05/12 - HINDUSTANI / CARNATIC COMPARISON
+----------------------------------------------------
++--------------------------------------------------------------+
+| HINDUSTANI                                                   |
+| - 10 thaats                                                  |
+| - alap / bandish / taan / layakari                           |
+| - court + lineage ecology                                    |
+|                                                              |
+| CARNATIC                                                     |
+| - 72 melakarta + janya                                       |
+| - kriti / varnam / alapana / neraval / RTP                   |
+| - temple + composer + sabha ecology                          |
+|                                                              |
+| COMMON TRAP: Carnatic is NOT improvisation-free.             |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Gharana discriminator
-DAGAR -> Dhrupad
-GWALIOR -> old khayal lineage
-KIRANA -> precise swara
-PATIALA -> thumri and ghazal
+ASCII PANEL 06/12 - HINDUSTANI FORM CLUSTER
+-------------------------------------------
++--------------------------------------------------------------+
+| DHRUPAD                                                      |
+| - older, grave, alap-led                                     |
+| - pakhawaj accompaniment                                     |
+| - vani / gharana memory                                      |
+|                                                              |
+| KHAYAL                                                       |
+| - short bandish                                              |
+| - bada + chhota                                              |
+| - taan-rich flexibility                                      |
+|                                                              |
+| LIGHTER FIELD                                                |
+| thumri / tappa / tarana / ghazal                             |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Aurangzeb correction rail
-COURT SINGING -> curtailed
-INSTRUMENTS -> continued
-WOMEN / NOBLES -> retained patronage
-MUHAMMAD SHAH -> khayal strengthened later
+ASCII PANEL 07/12 - CARNATIC FORM CLUSTER
+-----------------------------------------
++--------------------------------------------------------------+
+| KRITI                                                        |
+| Pallavi -> Anu Pallavi -> Charana                            |
+|                                                              |
+| CONCERT ORDER                                                |
+| Varnam -> Alapana -> Neraval -> Kalpana swara -> main item   |
+| -> Tillana / lighter close                                   |
+|                                                              |
+| HIGH IMPROVISATION FIELD                                     |
+| Ragam -> Tanam -> Pallavi                                    |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Carnatic composer map
-ANNAMACHARYA -> Venkateswara sankirtanas
-PURANDARA DASA -> pedagogic foundation
-TYAGARAJA + DIKSHITAR + SYAMA SASTRI -> Trinity
-VENKATAMAKHIN -> theory and composition
+ASCII PANEL 08/12 - TRANSMISSION AND PATRONAGE
+----------------------------------------------
++--------------------------------------------------------------+
+| GHARANA = LINEAGE + TEACHING + PATRONAGE                     |
+| Dagar / Gwalior / Kirana / Agra / Patiala / Bhendibazaar     |
+|                                                              |
+| GURU-SHISHYA                                                 |
+| discipline, apprenticeship, embodied memory                  |
+|                                                              |
+| AURANGZEB CORRECTION                                         |
+| court singing curtailed != music extinguished                |
+| later continuity: Sadarang / Adarang under Muhammad Shah     |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Instrument mechanism test
-TATA -> vibrating string
-SUSHIRA -> vibrating air column
-AVANADDHA -> stretched membrane
-GHANA -> solid body vibrates
-CLOSE DISTINCTION: A thaat is an unsung seven-note parent scale, a raga has characteristic
-  ascent, descent, hierarchy and phrase, and seventy-two Carnatic melakartas are not
-  Bhatkhande's ten Hindustani thaats.
-CLOSE DISTINCTION: A thaat is an unsung seven-note parent scale, a raga has characteristic
-  ascent, descent, hierarchy and phrase, and seventy-two Carnatic melakartas are not
-  Bhatkhande's ten Hindustani thaats.
+ASCII PANEL 09/12 - CARNATIC COMPOSER RAIL
+------------------------------------------
++--------------------------------------------------------------+
+| Annamacharya (Venkateswara sankirtanas)                      |
+| -> Purandara Dasa ("Pitamaha" honorific)                     |
+| -> Tyagaraja / Muthuswami Dikshitar / Syama Sastri           |
+| -> Kshetrayya / Bhadrachala Ramadasu                         |
+| -> Venkatamakhin                                             |
+| -> Swathi Thirunal + Thanjavur Quartet                       |
+|                                                              |
+| EXAM RULE: ask who was praised and who patronised it.        |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Folk-function map
-PANDAVANI -> epic memory, Chhattisgarh
-PANIHARI -> water and women's labour, Rajasthan
-POWADA -> heroic memory, Maharashtra
-KHONGJOM PARBA -> battle memory, Manipur
-EVIDENCE LIMIT: Bharata, Matanga, Sharngadeva and Venkatamakhin mark different theoretical
-  stages; mood, time and season associations are tradition-specific and neither classical
-  system is culturally pure or improvisation-free.
-EVIDENCE LIMIT: Bharata, Matanga, Sharngadeva and Venkatamakhin mark different theoretical
-  stages; mood, time and season associations are tradition-specific and neither classical
-  system is culturally pure or improvisation-free.
+ASCII PANEL 10/12 - INSTRUMENT FAMILIES
+---------------------------------------
++--------------------------------------------------------------+
+| Tata       -> string vibrates -> sitar / veena / santoor     |
+| Sushira    -> air column     -> bansuri / shehnai / pungi    |
+| Avanaddha  -> membrane       -> tabla / mridangam / dhol     |
+| Ghana      -> body vibrates  -> ghatam / manjira / jaltarang |
+|                                                              |
+| MEMBRANE TEST: struck != drum unless stretched skin sounds.  |
+| GENRE TEST: Sufiana kalam is a genre, not an instrument.     |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Music answer spine
-DEFINE -> note, scale, raga or form
-COMPARE -> grammar, repertoire and patronage
-EVIDENCE -> treatise, gharana, composer or instrument
-QUALIFY -> attribution, key and current-list limits
+ASCII PANEL 11/12 - FOLK / DEVOTIONAL / FUSION
+----------------------------------------------
++--------------------------------------------------------------+
+| Folk memory: Pandavani / Panihari / Maand / Borgeet / Baul   |
+| Devotional spread: Bhajan / Shabad / Qawwali / Haveli        |
+| Sangeet / Sankirtana                                         |
+| Fusion logic: audience overlap + devotional circulation       |
+|                                                              |
+| Mains rule: compare function, setting and memory - not       |
+| "classical superior / folk inferior".                        |
++--------------------------------------------------------------+
+
+ASCII PANEL 12/12 - MODERN CONTINUITY AND PYQ TRAPS
+---------------------------------------------------
++--------------------------------------------------------------+
+| Paluskar -> Gandharva Mahavidyalaya (1901, Lahore)           |
+| Bhatkhande -> Marris College / Music Institute line (1926)   |
+| Prayag Sangeet Samiti (1926)                                 |
+| Sangeet Natak Akademi (1952)                                 |
+| SPIC MACAY (1977)                                            |
+|                                                              |
+| Recognition rail: M.S. Subbulakshmi 1998 -> Ravi Shankar     |
+| 1999 -> Bismillah Khan 2001 -> Bhimsen Joshi 2008            |
+|                                                              |
+| PYQ TRAPS                                                    |
+| - Tyagaraja / Annamacharya chronology                        |
+| - Tansen invention claim caution                             |
+| - Bilawal equivalence                                        |
+| - Mallikarjun Mansur = bounded gap; do NOT guess            |
++--------------------------------------------------------------+

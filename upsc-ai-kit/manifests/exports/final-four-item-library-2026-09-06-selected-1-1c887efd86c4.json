@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T10:22:16+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "9847da1e7f5047f775969ed8c76f1171760a6bbf949967bb1318d03fe64b51b2",
+    "sha256_after": "9847da1e7f5047f775969ed8c76f1171760a6bbf949967bb1318d03fe64b51b2",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Ethics": 1
+  },
+  "sections": {
+    "Ethics — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11741,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2008,
+    "json_count": 5508,
+    "total_bytes": 4269339932,
+    "by_extension": {
+      ".json": 5508,
+      ".md": 2008,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-05",
+      "topic_title": "Emotional Intelligence in Administration",
+      "subject": "Ethics",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 5,
+      "source_record_id": "ethics-05:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "6a35241ab48f4186dd7aa12c9c428eb4e32dc8cf5540b2227823ac285df67fcb",
+          "output_sha256": "6a35241ab48f4186dd7aa12c9c428eb4e32dc8cf5540b2227823ac285df67fcb",
+          "source_output_equal": true,
+          "bytes": 458505
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-05\\g5\\ethics-05_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "9eb5b737bf8ad56904275740761a3e4aedb6932efac9e12114c62d5b211929b4",
+          "output_sha256": "9eb5b737bf8ad56904275740761a3e4aedb6932efac9e12114c62d5b211929b4",
+          "source_output_equal": true,
+          "bytes": 330239
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-05\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "967d6e4593bcd10d416cd66201b8e1ecd4fd52185d810cb1ecd455d0072eb23d",
+          "output_sha256": "967d6e4593bcd10d416cd66201b8e1ecd4fd52185d810cb1ecd455d0072eb23d",
+          "source_output_equal": true,
+          "bytes": 2702317
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-05\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "50f1b94e6ff09644fdff02c26fc8b7e1d4558cd3d7d3f56925a5c43a0375cb03",
+          "output_sha256": "50f1b94e6ff09644fdff02c26fc8b7e1d4558cd3d7d3f56925a5c43a0375cb03",
+          "source_output_equal": true,
+          "bytes": 3529653
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-05\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "564b1ee1f854619bb0ba5b46c613181b680493abb181c9e644f31970984586e8",
+          "output_sha256": "564b1ee1f854619bb0ba5b46c613181b680493abb181c9e644f31970984586e8",
+          "source_output_equal": true,
+          "bytes": 2383191
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-05\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "5c2636f6dae5de437b88379f9c82ab815b3151c43b3078bd60dd324a0e3390a7",
+          "output_sha256": "5c2636f6dae5de437b88379f9c82ab815b3151c43b3078bd60dd324a0e3390a7",
+          "source_output_equal": true,
+          "bytes": 14212
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-05\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "3e10044e5e18738ab42bceca0cf3f5238d6c74c437f879d01466e3dfbabd24ef",
+          "output_sha256": "3e10044e5e18738ab42bceca0cf3f5238d6c74c437f879d01466e3dfbabd24ef",
+          "source_output_equal": true,
+          "source_text_sha256": "5c2636f6dae5de437b88379f9c82ab815b3151c43b3078bd60dd324a0e3390a7",
+          "normalized_text_equal": true,
+          "bytes": 61967
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 31,
+            "maximum_line_characters": 96,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 30,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 30,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 30,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 30,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 30,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 30,
+            "maximum_line_characters": 96,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 31,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 30,
+            "maximum_line_characters": 100,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 69,
+        "solved_practice_workbook": 40,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 69,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 40,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12458
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

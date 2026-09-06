@@ -738,3 +738,47 @@ depth, not a prerequisite for this gate.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** Logical reasoning, analytical ability, decision making, problem solving and data interpretation.
+- **Canonical scope:** Owns series, analogies, coding-decoding, directions, relations, syllogisms, arrangements, ranking, counting, permutations, combinations, probability, tables/charts and scenario logic.
+- **Cross-topic boundary:** Passage inference belongs to Topic 01; algebraic data sufficiency to Topic 05; communication content to Topic 07 even when a matching format is structurally routed here.
+
+### Complete learner route
+
+1. **Logic vocabulary:** Separate implication, converse, contrapositive and equivalence.
+2. **Patterns and series:** Test the simplest stable rule and verify every term.
+3. **Coding-decoding:** Infer a rule from all examples, not one coincidence.
+4. **Directions:** Use coordinates and final displacement.
+5. **Relations:** Build a labelled family graph without assuming gender or generation.
+6. **Syllogisms:** Use set containment and test existential claims carefully.
+7. **Arrangements:** Place fixed constraints before flexible ones.
+8. **Counting:** Apply product, sum, permutation and combination rules with exclusions.
+9. **Probability:** Define equally likely outcomes and conditional sample spaces.
+10. **Data interpretation:** Read labels, units, bases and totals before calculating.
+11. **Decision scenarios:** Separate facts, constraints, objectives and feasible options.
+12. **Verification:** Enumerate small cases, reverse codes and sanity-check totals.
+
+### Verification and hostile-query gate
+
+Logical conclusions are model-checked, counting answers are enumerated for small cases, probabilities use explicit sample spaces, and DI preserves denominator and units.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**syllogism; coding; direction; blood relation; arrangement; permutation; probability; data interpretation**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-15",
+      "display_title": "Vaccines, Monoclonal Antibodies and Biopharma",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Immune-object recognition map",
+          "structural_type": "concept-map",
+          "ascii_lines": [
+            "PATHOGEN / PRODUCT -> contains or presents ANTIGEN",
+            "EPITOPE -> specific recognised part of antigen",
+            "B-CELL RECEPTOR / ANTIBODY -> binds epitope",
+            "T-CELL RECEPTOR -> recognises presented antigen fragment",
+            "IMMUNOGEN -> antigen capable of provoking an immune response"
+          ],
+          "source_references": [
+            "Antigen-antibody boundary",
+            "Adaptive-immune mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Active passive antiviral triad",
+          "structural_type": "three-way-comparison",
+          "ascii_lines": [
+            "VACCINE -> antigen/code -> endogenous response -> memory",
+            "mAb -> ready-made antibody -> direct binding -> temporary effect",
+            "ANTIVIRAL -> replication-step inhibition -> pharmacological action",
+            "ONSET / DURATION / PURPOSE -> compare, never merge"
+          ],
+          "source_references": [
+            "Active-passive-antiviral boundary",
+            "Monoclonal-antibody mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Adaptive immunity process rail",
+          "structural_type": "process-rail",
+          "ascii_lines": [
+            "ANTIGEN PRESENTATION -> lymphocyte activation",
+            "B CELL -> plasma cell -> antibodies",
+            "B / T CELL -> memory populations",
+            "HELPER T CELL -> coordination; CYTOTOXIC T CELL -> cellular killing",
+            "RULE -> antibody titre is not the entire immune response"
+          ],
+          "source_references": [
+            "Adaptive-immune mechanism",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Vaccine platform taxonomy",
+          "structural_type": "branch-matrix",
+          "ascii_lines": [
+            "WHOLE PATHOGEN -> live attenuated | inactivated",
+            "SELECTED MATERIAL -> subunit | toxoid | VLP | conjugate",
+            "GENETIC CODE -> viral vector | mRNA | DNA",
+            "COMPARE -> antigen form | replication | cell location | manufacture",
+            "DO NOT IMPORT -> product approval, efficacy or present availability"
+          ],
+          "source_references": [
+            "Whole-pathogen platform boundary",
+            "Subunit-toxoid-VLP-conjugate boundary",
+            "Vector-mRNA-DNA boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Genetic-platform cellular map",
+          "structural_type": "cell-compartment-map",
+          "ascii_lines": [
+            "VIRAL VECTOR -> engineered carrier delivers antigen code",
+            "mRNA + LNP -> CYTOPLASM -> translation",
+            "DNA -> NUCLEUS -> transcription -> mRNA",
+            "ANTIGEN EXPRESSION -> B/T response -> memory",
+            "TRAP -> active immunity does not mean identical delivery"
+          ],
+          "source_references": [
+            "Vector-mRNA-DNA boundary",
+            "Adjuvant-and-formulation boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Monoclonal antibody production chain",
+          "structural_type": "assembly-chain",
+          "ascii_lines": [
+            "B CELL + MYELOMA -> HYBRIDOMA CLONE",
+            "OR SEQUENCE DISCOVERY -> ANTIBODY ENGINEERING",
+            "RECOMBINANT MAMMALIAN CELL LINE -> EXPRESSION",
+            "HARVEST -> PURIFICATION -> FORMULATION -> FILL-FINISH",
+            "TARGET BINDING != PROVEN CLINICAL BENEFIT"
+          ],
+          "source_references": [
+            "Monoclonal-antibody mechanism",
+            "Hybridoma-recombinant-production boundary",
+            "Antibody-engineering boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Biopharma manufacturing quality system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL",
+            "UPSTREAM -> culture / fermentation / bioreactor",
+            "DOWNSTREAM -> capture / purification / clearance",
+            "FILL-FINISH -> sterile product and packaging",
+            "RELEASE -> identity / purity / potency / sterility / consistency"
+          ],
+          "source_references": [
+            "Biopharma-manufacturing chain",
+            "Quality-and-scale-up boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Cold-chain integrity loop",
+          "structural_type": "control-loop",
+          "ascii_lines": [
+            "VALIDATED STORAGE -> monitored transport -> delivery point",
+            "DATA LOGGER / INDICATOR -> deviation detection",
+            "EXCURSION -> quarantine / assessment / disposition",
+            "CONTINGENCY -> power, equipment, route and stock response",
+            "OUTCOME -> integrity enables access; it does not prove uptake"
+          ],
+          "source_references": [
+            "Cold-chain boundary",
+            "Efficacy-effectiveness-access firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Clinical and regulatory ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PRECLINICAL -> laboratory and animal evidence",
+            "PHASE I -> initial safety / dose",
+            "PHASE II -> expanded dose, safety and response evidence",
+            "PHASE III -> larger-population benefit and safety",
+            "AUTHORISATION -> MANUFACTURE / RELEASE -> PHASE IV SURVEILLANCE"
+          ],
+          "source_references": [
+            "Clinical-development ladder",
+            "CDSCO-NDCTR boundary",
+            "Pharmacovigilance-and-AEFI boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Indian institution router",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "DBT -> biotech policy, missions and research support",
+            "BIRAC -> translation, enterprise and mission implementation",
+            "ICMR -> biomedical research and evidence",
+            "CDSCO / DCGI -> trials and new-drug / biologic regulation",
+            "IPC / PvPI -> pharmacovigilance coordination and safety learning",
+            "MUST REMEMBER: Vaccines train active immunity through antigen delivery, whereas...",
+            "MUST REMEMBER: Vaccines train active immunity through antigen delivery, whereas..."
+          ],
+          "source_references": [
+            "CDSCO-NDCTR boundary",
+            "DBT-BIRAC-ICMR boundary",
+            "Mission-and-policy status boundary",
+            "Pharmacovigilance-and-AEFI boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-15_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Biosimilar comparability pyramid",
+          "structural_type": "evidence-pyramid",
+          "ascii_lines": [
+            "FOUNDATION -> extensive analytical and quality comparability",
+            "NEXT -> functional and appropriate non-clinical comparison",
+            "NEXT -> justified clinical PK/PD, efficacy, safety, immunogenicity",
+            "AFTER USE -> pharmacovigilance and traceability",
+            "RULE -> BIOSIMILAR != GENERIC != AUTOMATIC INTERCHANGEABILITY",
+            "CLOSE DISTINCTION: Antigen is not antibody, active immunity is not passive immunity,...",
+            "CLOSE DISTINCTION: Antigen is not antibody, active immunity is not passive immunity,..."
+          ],
+          "source_references": [
+            "Biosimilar-generic boundary",
+            "Pharmacovigilance-and-AEFI boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-15_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Biopharma claim and answer firewall",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> immune mechanism and product category",
+            "CLASSIFY -> platform / mAb / biosimilar",
+            "TRACE -> trial + regulation + manufacturing + cold chain",
+            "MAP -> CDSCO / DBT / BIRAC / ICMR / PvPI",
+            "QUALIFY -> efficacy != effectiveness != approval != access != impact",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State platform or molecule, target,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State platform or molecule, target,..."
+          ],
+          "source_references": [
+            "Antigen-antibody boundary",
+            "CDSCO-NDCTR boundary",
+            "DBT-BIRAC-ICMR boundary",
+            "Efficacy-effectiveness-access firewall",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g2\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-15_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\g3\\science-and-technology-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

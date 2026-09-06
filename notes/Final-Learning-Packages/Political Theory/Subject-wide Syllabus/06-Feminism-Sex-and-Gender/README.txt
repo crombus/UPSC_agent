@@ -5,8 +5,8 @@ Topic: Feminism, Sex and Gender
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 06
-Source record ID: political-theory-06:learner-v2:g6
-Source generation: 6
+Source record ID: political-theory-06:learner-v2:g7
+Source generation: 7
 Approval: Approval pending
 
 Deliverables

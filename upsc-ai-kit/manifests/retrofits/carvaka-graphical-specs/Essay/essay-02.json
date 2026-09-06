@@ -5,16 +5,16 @@
   "topic_key": "essay-02",
   "subject": "Essay",
   "title": "PHILOSOPHICAL QUOTE DECODING",
-  "short_route": "DECODING START → THREE-LAYER READING → OPERATOR MATRIX → METAPHOR BRIDGE → TENSION ENGINE → SCOPE LADDER",
+  "short_route": "PHILOSOPHICAL QUOTE DECODING: PROMPT → PHILOSOPHICAL QUOTE DECODING: CONCEPT → PHILOSOPHICAL QUOTE DECODING: DIMENSION → PHILOSOPHICAL QUOTE DECODING: DECISION → PHILOSOPHICAL QUOTE DECODING: MECHANISM → PHILOSOPHICAL QUOTE DECODING: COUNTER-VIEW",
   "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
   "status": {
     "approved": false,
     "review": "PENDING USER REVIEW",
-    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
   },
   "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-02_Learning-Session.md",
-  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-02-2026-09-04-sequential.json",
-  "ascii_spec_sha256": "dafd5ec63313ea2bdd96fd842104de1918c4b5076a9153bb835f992d877e54f0",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-02-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "8eade6b7b845fc6c38c787720f3cbd1ed2d51a683cf0343084b90640959a8631",
   "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
   "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
   "design_contract": {
@@ -29,40 +29,49 @@
     {
       "id": "00",
       "role": "core",
-      "title": "DECODING START",
+      "title": "PHILOSOPHICAL QUOTE DECODING: PROMPT AND SCOPE",
       "structural_type": "process-flow",
       "layout": "process",
       "pills": [
         {
-          "text": "DECODING START",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "PRINTED PROMPT",
+          "text": "PROMPT AND SCOPE",
           "role": "outcome"
         },
         {
-          "text": "CONTENT WORDS",
+          "text": "PURPOSE AND SCOPE",
           "role": "comparison"
         },
         {
-          "text": "PLAIN MEANINGS",
+          "text": "MOST PROMPTS IN BOTH AUDITED YEARS ARE SINGLE-SENTEN",
           "role": "evidence"
         },
         {
-          "text": "RELATION OR OPERATOR",
+          "text": "EXAM FACTS",
           "role": "primary"
         },
         {
-          "text": "WORKING PROPOSITION",
-          "role": "outcome"
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "ATTRIBUTION ; THE FULL 100-PROMPT LEDGER, WITH EACH",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "PRINTED PROMPT",
-        "CONTENT WORDS → PLAIN MEANINGS",
-        "RELATION OR OPERATOR",
-        "WORKING PROPOSITION"
+        "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten",
+        "EXAM FACTS / SOURCE BASIS → attribution ; the full 100-prompt ledger, with each",
+        "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of",
+        "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -70,68 +79,82 @@
           "heading": "PRINTED PROMPT / STARTING CLAIM",
           "role": "evidence",
           "items": [
-            "PRINTED PROMPT",
-            "CONTENT WORDS → PLAIN MEANINGS"
+            "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten",
+            "EXAM FACTS / SOURCE BASIS → attribution ; the full 100-prompt ledger, with each"
           ]
         },
         {
           "heading": "DECODING / SCOPING / ARGUMENT MOVE",
           "role": "mechanism",
           "items": [
-            "RELATION OR OPERATOR",
-            "WORKING PROPOSITION"
+            "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of the fu",
+            "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that \"futures\" (pl"
           ]
         },
         {
           "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
           "role": "caution",
           "items": [
-            "PRINTED PROMPT",
-            "CONTENT WORDS → PLAIN MEANINGS"
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "CONTENT WORDS → PLAIN MEANINGS; RELATION OR OPERATOR; WORKING PROPOSITION.",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Free-standing proposition",
-        "Content-word inventory",
-        "Relation or operator"
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3"
       ]
     },
     {
       "id": "01",
       "role": "core",
-      "title": "THREE-LAYER READING",
+      "title": "PHILOSOPHICAL QUOTE DECODING: CONCEPT HIERARCHY",
       "structural_type": "hierarchy",
       "layout": "hierarchy",
       "pills": [
         {
-          "text": "THREE-LAYER READING",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "WHAT THE SENTENCE DIRECTLY SAYS",
+          "text": "CONCEPT HIERARCHY",
           "role": "outcome"
         },
         {
-          "text": "WHAT THE IMAGE CARRIES",
+          "text": "EXAM FACTS",
           "role": "comparison"
         },
         {
-          "text": "WHAT VALUE OR STANDARD IS IMPLIED",
+          "text": "SOURCE BASIS — 2",
           "role": "evidence"
         },
         {
-          "text": "LAYERS MUST REMAIN CONNECTED",
+          "text": "OFFICIAL PDFS, 2024-A2 PRINTS \"THE EMPIRES OF THE FU",
           "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 3",
+          "role": "evidence"
+        },
+        {
+          "text": "OF THE SENTENCE; AN ESSAY ARGUING THAT \"FUTURES\" (PL",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 4",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "LITERAL → what the sentence directly says",
-        "METAPHORICAL → what the image carries",
-        "NORMATIVE → what value or standard is implied",
-        "RULE → layers must remain connected"
+        "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of",
+        "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that",
+        "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its",
+        "PHILOSOPHICAL PROMPT VS. ISSUE PRO → Deciding this in the first thirty seconds saves the",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -139,68 +162,82 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "LITERAL → what the sentence directly says",
-            "METAPHORICAL → what the image carries"
+            "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of the fu",
+            "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that \"futures\" (pl"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "NORMATIVE → what value or standard is implied",
-            "RULE → layers must remain connected"
+            "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its o",
+            "PHILOSOPHICAL PROMPT VS. ISSUE PRO → Deciding this in the first thirty seconds saves the"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "LITERAL → what the sentence directly says",
-            "METAPHORICAL → what the image carries"
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of the fu"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "NORMATIVE → what value or standard is implied.",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Literal layer",
-        "Metaphorical layer",
-        "Normative layer"
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3",
+        "Exam facts / source basis — 4",
+        "Philosophical prompt vs. issue prompt — which method applies"
       ]
     },
     {
       "id": "02",
       "role": "core",
-      "title": "OPERATOR MATRIX",
+      "title": "PHILOSOPHICAL QUOTE DECODING: DIMENSION MATRIX",
       "structural_type": "matrix",
       "layout": "matrix",
       "pills": [
         {
-          "text": "OPERATOR MATRIX",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "X PRODUCES Y",
+          "text": "DIMENSION MATRIX",
           "role": "outcome"
         },
         {
-          "text": "X MATTERS MORE OR LESS THAN Y",
+          "text": "EXAM FACTS",
           "role": "comparison"
         },
         {
-          "text": "X IS THE MEANING OF Y",
+          "text": "SOURCE BASIS — 4",
           "role": "evidence"
         },
         {
-          "text": "SURFACE CONFLICT REVEALS A DEEPER RELATION",
+          "text": "FREE-STANDING PROPOSITION TO BE INTERPRETED ON ITS O",
           "role": "primary"
+        },
+        {
+          "text": "PHILOSOPHICAL PROMPT VS. ISSUE PRO",
+          "role": "comparison"
+        },
+        {
+          "text": "DECIDING THIS IN THE FIRST THIRTY SECONDS SAVES THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE BOUNDARY IS NOT ALWAYS CLEAN",
+          "role": "caution"
         }
       ],
       "sequence": [
-        "CAUSAL → X produces Y",
-        "COMPARATIVE → X matters more or less than Y",
-        "DEFINITIONAL → X is the meaning of Y",
-        "PARADOXICAL → surface conflict reveals a deeper relation"
+        "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its",
+        "PHILOSOPHICAL PROMPT VS. ISSUE PRO → Deciding this in the first thirty seconds saves the",
+        "PHILOSOPHICAL PROMPT VS. ISSUE PRO → The boundary is not always clean: a prompt can",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: decoding means finding the operative t",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [
         [
@@ -209,14 +246,14 @@
           "DRIFT / EVIDENCE / RULE LIMIT"
         ],
         [
-          "CAUSAL → X produces Y",
-          "DEFINITIONAL → X is the meaning of Y",
-          "CAUSAL → X produces Y"
+          "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its o",
+          "PHILOSOPHICAL PROMPT VS. ISSUE PRO → The boundary is not always clean: a prompt can be me",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
         ],
         [
-          "COMPARATIVE → X matters more or less than Y",
-          "PARADOXICAL → surface conflict reveals a deeper relation",
-          "COMPARATIVE → X matters more or less than Y"
+          "PHILOSOPHICAL PROMPT VS. ISSUE PRO → Deciding this in the first thirty seconds saves the",
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: decoding means finding the operative t",
+          "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its o"
         ]
       ],
       "groups": [
@@ -224,159 +261,82 @@
           "heading": "PROMPT / METHOD MOVE",
           "role": "primary",
           "items": [
-            "CAUSAL → X produces Y",
-            "COMPARATIVE → X matters more or less than Y"
+            "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its o",
+            "PHILOSOPHICAL PROMPT VS. ISSUE PRO → Deciding this in the first thirty seconds saves the"
           ]
         },
         {
           "heading": "DECISIVE ESSAY DISTINCTION",
           "role": "comparison",
           "items": [
-            "DEFINITIONAL → X is the meaning of Y",
-            "PARADOXICAL → surface conflict reveals a deeper relation"
+            "PHILOSOPHICAL PROMPT VS. ISSUE PRO → The boundary is not always clean: a prompt can be me",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: decoding means finding the operative t"
           ]
         },
         {
           "heading": "DRIFT / EVIDENCE / RULE LIMIT",
           "role": "caution",
           "items": [
-            "CAUSAL → X produces Y",
-            "COMPARATIVE → X matters more or less than Y"
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its o"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "PARADOXICAL → surface conflict reveals a deeper relation.",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Relation or operator",
-        "Paradox"
+        "Exam facts / source basis — 4",
+        "Philosophical prompt vs. issue prompt — which method applies",
+        "Philosophical prompt vs. issue prompt — which method applies — 2",
+        "The central idea and common misreading"
       ]
     },
     {
       "id": "03",
       "role": "core",
-      "title": "METAPHOR BRIDGE",
-      "structural_type": "comparison-table",
-      "layout": "matrix",
+      "title": "PHILOSOPHICAL QUOTE DECODING: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
       "pills": [
         {
-          "text": "METAPHOR BRIDGE",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "IMAGE NAMED IN THE SENTENCE",
+          "text": "DECISION GATE",
           "role": "outcome"
         },
         {
-          "text": "SUBJECT ILLUMINATED BY THE IMAGE",
+          "text": "PHILOSOPHICAL PROMPT VS. ISSUE PRO",
           "role": "comparison"
         },
         {
-          "text": "SHARED STRUCTURE OR MECHANISM",
-          "role": "mechanism"
-        },
-        {
-          "text": "NO EXTENSION WITHOUT TEXTUAL SUPPORT",
+          "text": "THE BOUNDARY IS NOT ALWAYS CLEAN",
           "role": "caution"
-        }
-      ],
-      "sequence": [
-        "VEHICLE → image named in the sentence",
-        "TENOR → subject illuminated by the image",
-        "BRIDGE → shared structure or mechanism",
-        "LIMIT → no extension without textual support"
-      ],
-      "matrix": [
-        [
-          "PROMPT / METHOD MOVE",
-          "DECISIVE ESSAY DISTINCTION",
-          "DRIFT / EVIDENCE / RULE LIMIT"
-        ],
-        [
-          "VEHICLE → image named in the sentence",
-          "BRIDGE → shared structure or mechanism",
-          "VEHICLE → image named in the sentence"
-        ],
-        [
-          "TENOR → subject illuminated by the image",
-          "LIMIT → no extension without textual support",
-          "TENOR → subject illuminated by the image"
-        ]
-      ],
-      "groups": [
-        {
-          "heading": "PROMPT / METHOD MOVE",
-          "role": "primary",
-          "items": [
-            "VEHICLE → image named in the sentence",
-            "TENOR → subject illuminated by the image"
-          ]
         },
         {
-          "heading": "DECISIVE ESSAY DISTINCTION",
-          "role": "comparison",
-          "items": [
-            "BRIDGE → shared structure or mechanism",
-            "LIMIT → no extension without textual support"
-          ]
-        },
-        {
-          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
-          "role": "caution",
-          "items": [
-            "VEHICLE → image named in the sentence",
-            "TENOR → subject illuminated by the image"
-          ]
-        }
-      ],
-      "mechanism_strip": "",
-      "answer_line": "BRIDGE → shared structure or mechanism; LIMIT → no extension without textual support.",
-      "source_references": [
-        "Metaphorical layer",
-        "Mechanism"
-      ]
-    },
-    {
-      "id": "04",
-      "role": "core",
-      "title": "TENSION ENGINE",
-      "structural_type": "dialectic",
-      "layout": "columns",
-      "pills": [
-        {
-          "text": "TENSION ENGINE",
+          "text": "A PROMPT CAN BE ME",
           "role": "primary"
         },
         {
-          "text": "TERM A",
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
           "role": "outcome"
         },
         {
-          "text": "PRESSURE OR VALUE",
+          "text": "CENTRAL IDEA",
           "role": "comparison"
         },
         {
-          "text": "TERM B",
+          "text": "DECODING MEANS FINDING THE OPERATIVE T",
           "role": "evidence"
-        },
-        {
-          "text": "RIVAL PRESSURE OR VALUE",
-          "role": "primary"
-        },
-        {
-          "text": "NEITHER SIDE IS MERELY DECORATIVE",
-          "role": "outcome"
-        },
-        {
-          "text": "CONDITION UNDER WHICH EACH INSIGHT HOLDS",
-          "role": "comparison"
         }
       ],
       "sequence": [
-        "TERM A → pressure or value",
-        "TERM B → rival pressure or value",
-        "TENSION → neither side is merely decorative",
-        "SYNTHESIS → condition under which each insight holds"
+        "PHILOSOPHICAL PROMPT VS. ISSUE PRO → The boundary is not always clean: a prompt can",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: decoding means finding the operative t",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the literal claim of the sentence? 2. Wha",
+        "CLAIM–ASSUMPTION–SCOPE–EXCEPTION T → This prevents a universal-sounding aphorism from bec",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -384,71 +344,82 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "TERM A → pressure or value",
-            "TERM B → rival pressure or value"
+            "PHILOSOPHICAL PROMPT VS. ISSUE PRO → The boundary is not always clean: a prompt can be me",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: decoding means finding the operative t"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "TENSION → neither side is merely decorative",
-            "SYNTHESIS → condition under which each insight holds"
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the literal claim of the sentence? 2. Wha",
+            "CLAIM–ASSUMPTION–SCOPE–EXCEPTION T → This prevents a universal-sounding aphorism from bec"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "TERM A → pressure or value",
-            "TERM B → rival pressure or value"
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "PHILOSOPHICAL PROMPT VS. ISSUE PRO → The boundary is not always clean: a prompt can be me"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "SYNTHESIS → condition under which each insight holds.",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Operative tension",
-        "Normative layer"
+        "Philosophical prompt vs. issue prompt — which method applies — 2",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Claim–assumption–scope–exception test"
       ]
     },
     {
-      "id": "05",
+      "id": "04",
       "role": "core",
-      "title": "SCOPE LADDER",
-      "structural_type": "status-ladder",
-      "layout": "hierarchy",
+      "title": "PHILOSOPHICAL QUOTE DECODING: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
       "pills": [
         {
-          "text": "SCOPE LADDER",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "CONDUCT AND EXPERIENCE",
-          "role": "outcome"
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
         },
         {
-          "text": "INCENTIVES AND RULES",
+          "text": "BASIC DECOMPOSITION QUESTIONS",
           "role": "comparison"
         },
         {
-          "text": "STATE OR WORLD",
-          "role": "institution"
+          "text": "1. WHAT IS THE LITERAL CLAIM OF THE SENTENCE?",
+          "role": "evidence"
         },
         {
-          "text": "POLICY AND ORDER",
+          "text": "CLAIM–ASSUMPTION–SCOPE–EXCEPTION T",
           "role": "primary"
         },
         {
-          "text": "LONG-RUN PATTERN",
+          "text": "THIS PREVENTS A UNIVERSAL-SOUNDING APHORISM FROM BEC",
           "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR EACH DECODED TENSION, RECALL (NOT INVENT) ONE IN",
+          "role": "caution"
         }
       ],
       "sequence": [
-        "INDIVIDUAL → conduct and experience",
-        "INSTITUTION → incentives and rules",
-        "STATE OR WORLD → policy and order",
-        "CIVILISATION → long-run pattern"
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the literal claim of the sentence? 2. Wha",
+        "CLAIM–ASSUMPTION–SCOPE–EXCEPTION T → This prevents a universal-sounding aphorism from bec",
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each decoded tension, recall (not invent) one In",
+        "THESIS OPTIONS AND SELECTION → From the decoded tension, draft two or three alterna",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -456,67 +427,82 @@
           "heading": "PRINTED PROMPT / STARTING CLAIM",
           "role": "evidence",
           "items": [
-            "INDIVIDUAL → conduct and experience",
-            "INSTITUTION → incentives and rules"
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the literal claim of the sentence? 2. Wha",
+            "CLAIM–ASSUMPTION–SCOPE–EXCEPTION T → This prevents a universal-sounding aphorism from bec"
           ]
         },
         {
           "heading": "DECODING / SCOPING / ARGUMENT MOVE",
           "role": "mechanism",
           "items": [
-            "STATE OR WORLD → policy and order",
-            "CIVILISATION → long-run pattern"
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each decoded tension, recall (not invent) one In",
+            "THESIS OPTIONS AND SELECTION → From the decoded tension, draft two or three alterna"
           ]
         },
         {
           "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
           "role": "caution",
           "items": [
-            "INDIVIDUAL → conduct and experience",
-            "INSTITUTION → incentives and rules"
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the literal claim of the sentence? 2. Wha"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "STATE OR WORLD → policy and order; CIVILISATION → long-run pattern.",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Scope",
-        "Scale test"
+        "Basic decomposition questions",
+        "Claim–assumption–scope–exception test",
+        "India-first illustration starters",
+        "Thesis options and selection"
       ]
     },
     {
-      "id": "06",
+      "id": "05",
       "role": "core",
-      "title": "ASSUMPTION TEST",
-      "structural_type": "decision-tree",
-      "layout": "hierarchy",
+      "title": "PHILOSOPHICAL QUOTE DECODING: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
       "pills": [
         {
-          "text": "ASSUMPTION TEST",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "WHAT IS ASSERTED",
+          "text": "COUNTER-VIEW AND SYNTHESIS",
           "role": "outcome"
         },
         {
-          "text": "WHAT MUST BE TRUE",
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
           "role": "comparison"
         },
         {
-          "text": "WHERE IT PLAUSIBLY HOLDS",
-          "role": "evidence"
+          "text": "FOR EACH DECODED TENSION, RECALL (NOT INVENT) ONE IN",
+          "role": "caution"
         },
         {
-          "text": "WHAT LIMITS IT",
+          "text": "THESIS OPTIONS AND SELECTION",
           "role": "primary"
+        },
+        {
+          "text": "FROM THE DECODED TENSION, DRAFT TWO OR THREE ALTERNA",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "A DECODED APHORISM TYPICALLY SUPPORTS",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "CLAIM → what is asserted",
-        "ASSUMPTION → what must be true",
-        "SCOPE → where it plausibly holds",
-        "EXCEPTION → what limits it"
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each decoded tension, recall (not invent) one In",
+        "THESIS OPTIONS AND SELECTION → From the decoded tension, draft two or three alterna",
+        "SIMPLE ESSAY ARCHITECTURE → A decoded aphorism typically supports: one paragraph",
+        "OPENING, BODY AND CLOSURE MOVES → A safe opening states the literal sentence's tension",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -524,72 +510,82 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "CLAIM → what is asserted",
-            "ASSUMPTION → what must be true"
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each decoded tension, recall (not invent) one In",
+            "THESIS OPTIONS AND SELECTION → From the decoded tension, draft two or three alterna"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "SCOPE → where it plausibly holds",
-            "EXCEPTION → what limits it"
+            "SIMPLE ESSAY ARCHITECTURE → A decoded aphorism typically supports: one paragraph",
+            "OPENING, BODY AND CLOSURE MOVES → A safe opening states the literal sentence's tension"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "CLAIM → what is asserted",
-            "ASSUMPTION → what must be true"
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each decoded tension, recall (not invent) one In"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "SCOPE → where it plausibly holds; EXCEPTION → what limits it.",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Hidden assumption",
-        "Scope",
-        "Exception"
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves"
       ]
     },
     {
-      "id": "07",
+      "id": "06",
       "role": "core",
-      "title": "COUNTER-READING TEST",
+      "title": "PHILOSOPHICAL QUOTE DECODING: CLOSE-OPTION DISTINCTIONS",
       "structural_type": "comparison-table",
       "layout": "matrix",
       "pills": [
         {
-          "text": "COUNTER-READING TEST",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "READING ONE",
+          "text": "CLOSE-OPTION DISTINCTIONS",
           "role": "outcome"
         },
         {
-          "text": "FAITHFUL AND GENERATIVE?",
+          "text": "SIMPLE ESSAY ARCHITECTURE",
           "role": "comparison"
         },
         {
-          "text": "READING TWO",
+          "text": "A DECODED APHORISM TYPICALLY SUPPORTS",
           "role": "evidence"
         },
         {
-          "text": "MECHANISM, SCOPE AND EXCEPTION",
-          "role": "mechanism"
+          "text": "ONE PARAGRAPH",
+          "role": "primary"
         },
         {
-          "text": "STRONGER TEXT-BOUND INTERPRETATION",
+          "text": "OPENING, BODY AND CLOSURE MOVES",
           "role": "outcome"
+        },
+        {
+          "text": "A SAFE OPENING STATES THE LITERAL SENTENCE'S TENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "READING ONE → faithful and generative?",
-        "READING TWO → faithful and generative?",
-        "COMPARE → mechanism, scope and exception",
-        "CHOOSE → stronger text-bound interpretation"
+        "SIMPLE ESSAY ARCHITECTURE → A decoded aphorism typically supports: one paragraph",
+        "OPENING, BODY AND CLOSURE MOVES → A safe opening states the literal sentence's tension",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an aphorism is best treated as a compre",
+        "CONCEPT DEFINITION AND TAXONOMY → water\"): requires identifying the vehicle (empire, w",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [
         [
@@ -598,14 +594,14 @@
           "DRIFT / EVIDENCE / RULE LIMIT"
         ],
         [
-          "READING ONE → faithful and generative?",
-          "COMPARE → mechanism, scope and exception",
-          "READING ONE → faithful and generative?"
+          "SIMPLE ESSAY ARCHITECTURE → A decoded aphorism typically supports: one paragraph",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an aphorism is best treated as a compre",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
         ],
         [
-          "READING TWO → faithful and generative?",
-          "CHOOSE → stronger text-bound interpretation",
-          "READING TWO → faithful and generative?"
+          "OPENING, BODY AND CLOSURE MOVES → A safe opening states the literal sentence's tension",
+          "CONCEPT DEFINITION AND TAXONOMY → water\"): requires identifying the vehicle (empire, w",
+          "SIMPLE ESSAY ARCHITECTURE → A decoded aphorism typically supports: one paragraph"
         ]
       ],
       "groups": [
@@ -613,76 +609,165 @@
           "heading": "PROMPT / METHOD MOVE",
           "role": "primary",
           "items": [
-            "READING ONE → faithful and generative?",
-            "READING TWO → faithful and generative?"
+            "SIMPLE ESSAY ARCHITECTURE → A decoded aphorism typically supports: one paragraph",
+            "OPENING, BODY AND CLOSURE MOVES → A safe opening states the literal sentence's tension"
           ]
         },
         {
           "heading": "DECISIVE ESSAY DISTINCTION",
           "role": "comparison",
           "items": [
-            "COMPARE → mechanism, scope and exception",
-            "CHOOSE → stronger text-bound interpretation"
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an aphorism is best treated as a compre",
+            "CONCEPT DEFINITION AND TAXONOMY → water\"): requires identifying the vehicle (empire, w"
           ]
         },
         {
           "heading": "DRIFT / EVIDENCE / RULE LIMIT",
           "role": "caution",
           "items": [
-            "READING ONE → faithful and generative?",
-            "READING TWO → faithful and generative?"
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "SIMPLE ESSAY ARCHITECTURE → A decoded aphorism typically supports: one paragraph"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "COMPARE → mechanism, scope and exception; CHOOSE → stronger text-bound interpretation.",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Counter-reading",
-        "Mechanism",
-        "Scale test"
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PHILOSOPHICAL QUOTE DECODING: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PHILOSOPHICAL QUOTE DECODING",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "AN APHORISM IS BEST TREATED AS A COMPRE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "REQUIRES IDENTIFYING THE VEHICLE (EMPIRE, W",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "THE COST OF DOING NOTHING\")",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an aphorism is best treated as a compre",
+        "CONCEPT DEFINITION AND TAXONOMY → water\"): requires identifying the vehicle (empire, w",
+        "CONCEPT DEFINITION AND TAXONOMY — → the cost of doing nothing\"): requires identifying th",
+        "CONCEPT DEFINITION AND TAXONOMY — → is natural wealth\"): asserts an identity between two",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an aphorism is best treated as a compre",
+            "CONCEPT DEFINITION AND TAXONOMY → water\"): requires identifying the vehicle (empire, w"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → the cost of doing nothing\"): requires identifying th",
+            "CONCEPT DEFINITION AND TAXONOMY — → is natural wealth\"): asserts an identity between two"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an aphorism is best treated as a compre"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Concept definition and taxonomy — 3"
       ]
     },
     {
       "id": "08",
       "role": "core",
-      "title": "THESIS ALTERNATIVES",
-      "structural_type": "branch-map",
-      "layout": "hierarchy",
+      "title": "PHILOSOPHICAL QUOTE DECODING: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
       "pills": [
         {
-          "text": "THESIS ALTERNATIVES",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "DECODED TENSION",
+          "text": "CROSS-SCALE SYSTEM",
           "role": "outcome"
         },
         {
-          "text": "BRANCH A",
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
           "role": "comparison"
         },
         {
-          "text": "THESIS WITH ONE MECHANISM",
-          "role": "mechanism"
+          "text": "THE COST OF DOING NOTHING\")",
+          "role": "evidence"
         },
         {
-          "text": "BRANCH B",
+          "text": "REQUIRES IDENTIFYING TH",
           "role": "primary"
         },
         {
-          "text": "THESIS WITH ANOTHER MECHANISM",
-          "role": "mechanism"
+          "text": "IS NATURAL WEALTH\")",
+          "role": "outcome"
         },
         {
-          "text": "DEFENSIBLE CLAIM WITH EXPLICIT QUALIFICATION",
+          "text": "ASSERTS AN IDENTITY BETWEEN TWO",
           "role": "comparison"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "DECODED TENSION",
-        "BRANCH A → thesis with one mechanism",
-        "BRANCH B → thesis with another mechanism",
-        "SELECT → defensible claim with explicit qualification"
+        "CONCEPT DEFINITION AND TAXONOMY — → the cost of doing nothing\"): requires identifying th",
+        "CONCEPT DEFINITION AND TAXONOMY — → is natural wealth\"): asserts an identity between two",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → Every aphorism in the audited corpus carries at leas",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each aphorism, check whether the operative tensi",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -690,68 +775,82 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "DECODED TENSION",
-            "BRANCH A → thesis with one mechanism"
+            "CONCEPT DEFINITION AND TAXONOMY — → the cost of doing nothing\"): requires identifying th",
+            "CONCEPT DEFINITION AND TAXONOMY — → is natural wealth\"): asserts an identity between two"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "BRANCH B → thesis with another mechanism",
-            "SELECT → defensible claim with explicit qualification"
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → Every aphorism in the audited corpus carries at leas",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each aphorism, check whether the operative tensi"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "DECODED TENSION",
-            "BRANCH A → thesis with one mechanism"
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → the cost of doing nothing\"): requires identifying th"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "BRANCH B → thesis with another mechanism; SELECT → defensible claim with explicit qualification.",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Thesis alternatives",
-        "Mechanism",
-        "Exception"
+        "Concept definition and taxonomy — 2",
+        "Concept definition and taxonomy — 3",
+        "Tension pairs and hidden assumptions",
+        "Levels of analysis and temporal-spatial scale"
       ]
     },
     {
       "id": "09",
       "role": "core",
-      "title": "CASE TESTING",
-      "structural_type": "feedback-loop",
-      "layout": "process",
+      "title": "PHILOSOPHICAL QUOTE DECODING: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
       "pills": [
         {
-          "text": "CASE TESTING",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "INSTANTIATES THE CLAIM",
+          "text": "ARGUMENT ARCHITECTURE",
           "role": "outcome"
         },
         {
-          "text": "EXPOSES A LIMIT",
-          "role": "caution"
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
         },
         {
-          "text": "CONSEQUENCE CHANGES THE STARTING CONDITION",
+          "text": "EVERY APHORISM IN THE AUDITED CORPUS CARRIES AT LEAS",
           "role": "evidence"
         },
         {
-          "text": "REFINE SCOPE OR MECHANISM",
-          "role": "mechanism"
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "FOR EACH APHORISM, CHECK WHETHER THE OPERATIVE TENSI",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOST PROMPTS IN BOTH AUDITED YEARS ARE SINGLE-SENTEN",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "EXAMPLE → instantiates the claim",
-        "COUNTEREXAMPLE → exposes a limit",
-        "FEEDBACK → consequence changes the starting condition",
-        "REVISION → refine scope or mechanism"
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → Every aphorism in the audited corpus carries at leas",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each aphorism, check whether the operative tensi",
+        "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten",
+        "EXAM FACTS / SOURCE BASIS → attribution ; the full 100-prompt ledger, with each",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -759,148 +858,82 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "EXAMPLE → instantiates the claim",
-            "COUNTEREXAMPLE → exposes a limit"
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → Every aphorism in the audited corpus carries at leas",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → For each aphorism, check whether the operative tensi"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "FEEDBACK → consequence changes the starting condition",
-            "REVISION → refine scope or mechanism"
+            "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten",
+            "EXAM FACTS / SOURCE BASIS → attribution ; the full 100-prompt ledger, with each"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "EXAMPLE → instantiates the claim",
-            "COUNTEREXAMPLE → exposes a limit"
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → Every aphorism in the audited corpus carries at leas"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "FEEDBACK → consequence changes the starting condition; REVISION → refine scope or mechanism.",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Examples",
-        "Counterexamples",
-        "Feedback"
+        "Tension pairs and hidden assumptions",
+        "Levels of analysis and temporal-spatial scale",
+        "Purpose and scope",
+        "Exam facts / source basis"
       ]
     },
     {
       "id": "10",
       "role": "core",
-      "title": "ATTRIBUTION FIREWALL",
-      "structural_type": "firewall",
+      "title": "PHILOSOPHICAL QUOTE DECODING: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
       "layout": "hierarchy",
       "pills": [
         {
-          "text": "ATTRIBUTION FIREWALL",
+          "text": "PHILOSOPHICAL QUOTE DECODING",
           "role": "primary"
         },
         {
-          "text": "PAPER PRINTS NO AUTHOR",
-          "role": "caution"
-        },
-        {
-          "text": "DO NOT SUPPLY ONE",
-          "role": "caution"
-        },
-        {
-          "text": "NO BIOGRAPHY",
-          "role": "caution"
-        },
-        {
-          "text": "NO INTENT CAN BE INFERRED",
-          "role": "caution"
-        },
-        {
-          "text": "PROMPT WORDING",
+          "text": "FAILURE AND REPAIR GATE",
           "role": "outcome"
         },
         {
-          "text": "SUFFICIENT INTERPRETIVE ANCHOR",
+          "text": "PURPOSE AND SCOPE",
           "role": "comparison"
         },
         {
-          "text": "PRIMARY CHECK",
+          "text": "MOST PROMPTS IN BOTH AUDITED YEARS ARE SINGLE-SENTEN",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "ATTRIBUTION ; THE FULL 100-PROMPT LEDGER, WITH EACH",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
           "role": "evidence"
         }
       ],
       "sequence": [
-        "PAPER PRINTS NO AUTHOR → do not supply one",
-        "NO BIOGRAPHY → no intent can be inferred",
-        "PROMPT WORDING → sufficient interpretive anchor",
-        "PRIMARY CHECK → required before any attribution"
-      ],
-      "matrix": [],
-      "groups": [
-        {
-          "heading": "PROMPT / METHOD MOVE",
-          "role": "primary",
-          "items": [
-            "PAPER PRINTS NO AUTHOR → do not supply one",
-            "NO BIOGRAPHY → no intent can be inferred"
-          ]
-        },
-        {
-          "heading": "DECISIVE ESSAY DISTINCTION",
-          "role": "comparison",
-          "items": [
-            "PROMPT WORDING → sufficient interpretive anchor",
-            "PRIMARY CHECK → required before any attribution"
-          ]
-        },
-        {
-          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
-          "role": "caution",
-          "items": [
-            "PAPER PRINTS NO AUTHOR → do not supply one",
-            "NO BIOGRAPHY → no intent can be inferred"
-          ]
-        }
-      ],
-      "mechanism_strip": "",
-      "answer_line": "NO BIOGRAPHY → no intent can be inferred.",
-      "source_references": [
-        "Attribution firewall",
-        "Free-standing proposition"
-      ]
-    },
-    {
-      "id": "11",
-      "role": "synthesis",
-      "title": "DECODING ANSWER SPINE",
-      "structural_type": "answer-spine",
-      "layout": "synthesis",
-      "pills": [
-        {
-          "text": "DECODING ANSWER SPINE",
-          "role": "primary"
-        },
-        {
-          "text": "LITERAL LAYER",
-          "role": "outcome"
-        },
-        {
-          "text": "METAPHOR OR NORMATIVE LAYER",
-          "role": "comparison"
-        },
-        {
-          "text": "THESIS OPTIONS",
-          "role": "evidence"
-        },
-        {
-          "text": "CASE TEST",
-          "role": "primary"
-        }
-      ],
-      "sequence": [
-        "WORDS → OPERATOR → LITERAL LAYER",
-        "METAPHOR OR NORMATIVE LAYER → TENSION",
-        "SCOPE → ASSUMPTION → EXCEPTION",
-        "COUNTER-READING → THESIS OPTIONS → CASE TEST"
+        "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten",
+        "EXAM FACTS / SOURCE BASIS → attribution ; the full 100-prompt ledger, with each",
+        "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of",
+        "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -908,33 +941,117 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "WORDS → OPERATOR → LITERAL LAYER",
-            "METAPHOR OR NORMATIVE LAYER → TENSION"
+            "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten",
+            "EXAM FACTS / SOURCE BASIS → attribution ; the full 100-prompt ledger, with each"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "SCOPE → ASSUMPTION → EXCEPTION",
-            "COUNTER-READING → THESIS OPTIONS → CASE TEST"
+            "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of the fu",
+            "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that \"futures\" (pl"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "WORDS → OPERATOR → LITERAL LAYER",
-            "METAPHOR OR NORMATIVE LAYER → TENSION"
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → Most prompts in both audited years are single-senten"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "SCOPE → ASSUMPTION → EXCEPTION; COUNTER-READING → THESIS OPTIONS → CASE TEST.",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Content-word inventory",
-        "Relation or operator",
-        "Printing-defect firewall"
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PHILOSOPHICAL QUOTE DECODING: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PHILOSOPHICAL QUOTE DECODING",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIAL PDFS, 2024-A2 PRINTS \"THE EMPIRES OF THE FU",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 3",
+          "role": "evidence"
+        },
+        {
+          "text": "OF THE SENTENCE; AN ESSAY ARGUING THAT \"FUTURES\" (PL",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of",
+        "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that",
+        "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its",
+        "PHILOSOPHICAL PROMPT VS. ISSUE PRO → Deciding this in the first thirty seconds saves the",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of the fu",
+            "EXAM FACTS / SOURCE BASIS — 3 → of the sentence; an essay arguing that \"futures\" (pl"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 4 → free-standing proposition to be interpreted on its o",
+            "PHILOSOPHICAL PROMPT VS. ISSUE PRO → Deciding this in the first thirty seconds saves the"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 2 → official PDFs, 2024-A2 prints \"The empires of the fu"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3",
+        "Exam facts / source basis — 4",
+        "Philosophical prompt vs. issue prompt — which method applies"
       ]
     },
     {

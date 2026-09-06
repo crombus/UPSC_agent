@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "essay-16-learner-v2-2026-09-06-validation",
+  "validated_on": "2026-09-06T18:31:00.453380+05:30",
+  "selection": "essay-16",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "tests": {
+    "passed": 8,
+    "scope": "Essay semantic generator, catalogue and validation tests"
+  },
+  "topics": [
+    {
+      "topic_key": "essay-16",
+      "source_generation": 0,
+      "refreshed_generation": 1,
+      "subject": "Essay",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "essay-16",
+      "main_pdf_pages": 76,
+      "workbook_pdf_pages": 35,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 97,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-16-2026-09-06-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          75,
+          75,
+          75,
+          75,
+          75,
+          75,
+          76,
+          76,
+          76,
+          76,
+          76,
+          76
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\flowcharts\\essay-16\\carvaka-g1\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-16\\g1\\essay-16_Complete-Learning-Session_2026-09-06.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-16\\g1\\essay-16_Solved-Practice-Workbook_2026-09-06.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-16\\g1\\essay-16_Complete-Learning-Session_2026-09-06.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-16\\g1\\essay-16_Solved-Practice-Workbook_2026-09-06.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\flowcharts\\essay-16\\carvaka-g1"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 76,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 35,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 4
+    }
+  ]
+}

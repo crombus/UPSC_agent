@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Language, Style and Functional Visuals: Prompt and scope
+PURPOSE AND SCOPE -> This topic covers sentence- and paragraph-level lang
+CORE TERMS IN PLAIN LANGUAGE -> prose would state less clearly — a genuine sequence,
+CORE TERMS IN PLAIN LANGUAGE — 2 -> one sentence already said. Removing it would cost th
+CORE TERMS IN PLAIN LANGUAGE — 3 -> The test is subtractive, not aesthetic. Do not ask "
+VERDICT 1 -> Prompt and scope must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 2/12: Language, Style and Functional Visuals: Concept hierarchy
+CORE TERMS IN PLAIN LANGUAGE — 2 -> one sentence already said. Removing it would cost th
+CORE TERMS IN PLAIN LANGUAGE — 3 -> The test is subtractive, not aesthetic. Do not ask "
+EXAM FACTS / SOURCE BASIS -> visuals/diagrams are permitted or expected within a 
+EXAM FACTS / SOURCE BASIS — 2 -> is that visuals should be rare and only used where t
+VERDICT 2 -> Concept hierarchy must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 3/12: Language, Style and Functional Visuals: Dimension matrix
+EXAM FACTS / SOURCE BASIS -> visuals/diagrams are permitted or expected within a 
+EXAM FACTS / SOURCE BASIS — 2 -> is that visuals should be rare and only used where t
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: clear, precise, moderately plain prose
+BASIC DECOMPOSITION QUESTIONS -> 1. Does this sentence state a specific claim, or doe
+VERDICT 3 -> Dimension matrix must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 4/12: Language, Style and Functional Visuals: Decision gate
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: clear, precise, moderately plain prose
+BASIC DECOMPOSITION QUESTIONS -> 1. Does this sentence state a specific claim, or doe
+6A. EXACT-EXPRESSION REPAIR AND VI -> Before: “The multifarious tapestry of digital societ
+6A. EXACT-EXPRESSION REPAIR AND VI -> After: “Platforms that reward comparison can make so
+VERDICT 4 -> Decision gate must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 5/12: Language, Style and Functional Visuals: Mechanism chain
+6A. EXACT-EXPRESSION REPAIR AND VI -> Before: “The multifarious tapestry of digital societ
+6A. EXACT-EXPRESSION REPAIR AND VI -> After: “Platforms that reward comparison can make so
+6A. EXACT-EXPRESSION REPAIR AND VI -> 1. Its first sentence makes one response-relevant cl
+6A. EXACT-EXPRESSION REPAIR AND VI -> CANDIDATE VISUAL v Gate 1: Does it show a real multi
+VERDICT 5 -> Mechanism chain must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 6/12: Language, Style and Functional Visuals: Counter-view and synthesis
+6A. EXACT-EXPRESSION REPAIR AND VI -> 1. Its first sentence makes one response-relevant cl
+6A. EXACT-EXPRESSION REPAIR AND VI -> CANDIDATE VISUAL v Gate 1: Does it show a real multi
+6A. EXACT-EXPRESSION REPAIR AND VI -> Passing both gates is necessary, not sufficient: the
+INDIA-FIRST ILLUSTRATION STARTERS -> Not directly applicable — see 12 for illustration co
+VERDICT 6 -> Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 7/12: Language, Style and Functional Visuals: Close-option distinctions
+6A. EXACT-EXPRESSION REPAIR AND VI -> Passing both gates is necessary, not sufficient: the
+INDIA-FIRST ILLUSTRATION STARTERS -> Not directly applicable — see 12 for illustration co
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: style quality in this genre is measured
+CONCEPT DEFINITION AND TAXONOMY -> scheme acronyms, bullet lists) into continuous essay
+VERDICT 7 -> Close-option distinctions must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 8/12: Language, Style and Functional Visuals: Evidence-status ladder
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: style quality in this genre is measured
+CONCEPT DEFINITION AND TAXONOMY -> scheme acronyms, bullet lists) into continuous essay
+CONCEPT DEFINITION AND TAXONOMY —  -> process or comparison is genuinely clearer in that f
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> vocabulary signals intellectual depth; in the essay 
+VERDICT 8 -> Evidence-status ladder must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 9/12: Language, Style and Functional Visuals: Cross-scale system
+CONCEPT DEFINITION AND TAXONOMY —  -> process or comparison is genuinely clearer in that f
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> vocabulary signals intellectual depth; in the essay 
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> diagram "adds value"; in fact a diagram that merely 
+LEVELS OF ANALYSIS AND TEMPORAL-SP -> Apply register discipline at three levels: the word 
+VERDICT 9 -> Cross-scale system must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 10/12: Language, Style and Functional Visuals: Argument architecture
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> diagram "adds value"; in fact a diagram that merely 
+LEVELS OF ANALYSIS AND TEMPORAL-SP -> Apply register discipline at three levels: the word 
+PURPOSE AND SCOPE -> This topic covers sentence- and paragraph-level lang
+CORE TERMS IN PLAIN LANGUAGE -> prose would state less clearly — a genuine sequence,
+VERDICT 10 -> Argument architecture must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 11/12: Language, Style and Functional Visuals: Failure and repair gate
+PURPOSE AND SCOPE -> This topic covers sentence- and paragraph-level lang
+CORE TERMS IN PLAIN LANGUAGE -> prose would state less clearly — a genuine sequence,
+CORE TERMS IN PLAIN LANGUAGE — 2 -> one sentence already said. Removing it would cost th
+CORE TERMS IN PLAIN LANGUAGE — 3 -> The test is subtractive, not aesthetic. Do not ask "
+VERDICT 11 -> Failure and repair gate must preserve prompt, thesis, evidence and qualification.
+
+ASCII MASTER FLOW — PANEL 12/12: Language, Style and Functional Visuals: Complete answer spine
+CORE TERMS IN PLAIN LANGUAGE — 2 -> one sentence already said. Removing it would cost th
+CORE TERMS IN PLAIN LANGUAGE — 3 -> The test is subtractive, not aesthetic. Do not ask "
+EXAM FACTS / SOURCE BASIS -> visuals/diagrams are permitted or expected within a 
+EXAM FACTS / SOURCE BASIS — 2 -> is that visuals should be rare and only used where t
+VERDICT 12 -> Complete answer spine must preserve prompt, thesis, evidence and qualification.

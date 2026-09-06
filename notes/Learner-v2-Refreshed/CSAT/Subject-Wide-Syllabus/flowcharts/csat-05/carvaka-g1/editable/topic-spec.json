@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-05",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\05_Algebra-Inequalities-and-Data-Sufficiency.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\05_Algebra-Inequalities-and-Data-Sufficiency.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Expression discipline",
+      "body": "Track signs, brackets, domains and denominators."
+    },
+    {
+      "number": 2,
+      "title": "Linear equations",
+      "body": "Preserve equality through reversible operations."
+    },
+    {
+      "number": 3,
+      "title": "Simultaneous equations",
+      "body": "Use elimination, substitution or option testing."
+    },
+    {
+      "number": 4,
+      "title": "Inequalities",
+      "body": "Reverse the sign only when multiplying or dividing by a negative."
+    },
+    {
+      "number": 5,
+      "title": "Absolute value and surds",
+      "body": "Split valid cases and respect non-negative roots."
+    },
+    {
+      "number": 6,
+      "title": "Word translation",
+      "body": "Define variables and constraints before manipulating."
+    },
+    {
+      "number": 7,
+      "title": "Quantitative comparison",
+      "body": "Compare ranges, not one sample."
+    },
+    {
+      "number": 8,
+      "title": "DS format",
+      "body": "Read the printed verdict options before solving."
+    },
+    {
+      "number": 9,
+      "title": "Necessary and sufficient",
+      "body": "Test each statement alone, then together."
+    },
+    {
+      "number": 10,
+      "title": "Counterexample search",
+      "body": "One second valid value disproves uniqueness."
+    },
+    {
+      "number": 11,
+      "title": "Bounds and optimisation",
+      "body": "Check endpoints, integrality and attainability."
+    },
+    {
+      "number": 12,
+      "title": "Verification",
+      "body": "Substitute, test domains and separate answer value from sufficiency."
+    }
+  ]
+}

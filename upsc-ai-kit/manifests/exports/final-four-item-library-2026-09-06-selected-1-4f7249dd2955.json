@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T10:43:08+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0495f9de775ec17ed0472531806c938e38e8713c8bcb1c30440727b79ed1a257",
+    "sha256_after": "0495f9de775ec17ed0472531806c938e38e8713c8bcb1c30440727b79ed1a257",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Ethics": 1
+  },
+  "sections": {
+    "Ethics — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11801,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 2018,
+    "json_count": 5558,
+    "total_bytes": 4263465032,
+    "by_extension": {
+      ".json": 5558,
+      ".md": 2018,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "ethics-15",
+      "topic_title": "Transparency, RTI and Information Sharing",
+      "subject": "Ethics",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "ethics-15:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g3\\ethics-15_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "29b849326c4c423493b142e4412eed5028235bb7ab81810149daff94fd9c1f15",
+          "output_sha256": "29b849326c4c423493b142e4412eed5028235bb7ab81810149daff94fd9c1f15",
+          "source_output_equal": true,
+          "bytes": 486995
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-15\\g3\\ethics-15_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "be2f671c927382c9641075b32b4895548828546883116c5f3576de4892fc5067",
+          "output_sha256": "be2f671c927382c9641075b32b4895548828546883116c5f3576de4892fc5067",
+          "source_output_equal": true,
+          "bytes": 341686
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-15\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "737eb199f4620fbe8131dc0e28202179d2b1f3d0b536888433537ffa8bd1b9d1",
+          "output_sha256": "737eb199f4620fbe8131dc0e28202179d2b1f3d0b536888433537ffa8bd1b9d1",
+          "source_output_equal": true,
+          "bytes": 2347493
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-15\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f15286d09b0f2bce0354e1a8f50f4827a457d937ec67a3461e090e8c209caf20",
+          "output_sha256": "f15286d09b0f2bce0354e1a8f50f4827a457d937ec67a3461e090e8c209caf20",
+          "source_output_equal": true,
+          "bytes": 3146435
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-15\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "840329f55e78dfc4cc60ba83230b8d015e0dc5ba1742bf091f2f0c4d059282f3",
+          "output_sha256": "840329f55e78dfc4cc60ba83230b8d015e0dc5ba1742bf091f2f0c4d059282f3",
+          "source_output_equal": true,
+          "bytes": 2094688
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "5511d2e822559b01c59ae2782ea9eaf018faef3921275a1d7b8712f3da646d81",
+          "output_sha256": "5511d2e822559b01c59ae2782ea9eaf018faef3921275a1d7b8712f3da646d81",
+          "source_output_equal": true,
+          "bytes": 9200
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Ethics\\ETH\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "6695f5467fe3bdd50d470648595955d9b220986255857734c863a3f1acb5ebf5",
+          "output_sha256": "6695f5467fe3bdd50d470648595955d9b220986255857734c863a3f1acb5ebf5",
+          "source_output_equal": true,
+          "source_text_sha256": "5511d2e822559b01c59ae2782ea9eaf018faef3921275a1d7b8712f3da646d81",
+          "normalized_text_equal": true,
+          "bytes": 59032
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 30,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 30,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 30,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 30,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 29,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 29,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 30,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 29,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 29,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 30,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 30,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 30,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 77,
+        "solved_practice_workbook": 42,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 77,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 42,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12088
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

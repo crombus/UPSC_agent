@@ -1,0 +1,898 @@
+{
+  "schema_version": 1,
+  "subject": "Internal Security",
+  "access_date": "2026-09-06",
+  "generated_at": "2026-09-06T08:46:45.303480+00:00",
+  "topic_count": 12,
+  "result": "passed",
+  "policy": {
+    "authoritative_domains_only": true,
+    "minimum_attempts_per_topic": 3,
+    "minimum_substantive_retrievals_per_topic": 1,
+    "public_policy_safe_non_actionable": true,
+    "failed_intermediates_preserved": true
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-01",
+      "access_date": "2026-09-06",
+      "verification_scope": "constitutional allocation, MHA governance and federal coordination",
+      "attempted": 5,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india/",
+          "outcome": "http_error",
+          "http_status": 308,
+          "error": "HTTP Error 308: Permanent Redirect",
+          "substantive": false
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/centre-state-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/centre-state-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 145718,
+          "sample_sha256": "fdf0e9587cc63bad387b620ddbaf6a2c4301f4901e7afbe3a75f1af61ae82b88",
+          "title": "Centre State Division | Ministry of Home Affairs",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/internal-security-i-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/internal-security-i-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 136686,
+          "sample_sha256": "b5f81bd5296eb39432f7e5d29102f77ad00890aae149f2ceb550a90895aadb8d",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/sites/default/files/AREnglish_24032026.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.mha.gov.in/sites/default/files/AREnglish_24032026.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "39f995310878948954b2964cceaf8ac760ed26ef3dc00517ddc94eca3b6ef409",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-02",
+      "access_date": "2026-09-06",
+      "verification_scope": "counter-terror law, designation, investigation and multilateral control",
+      "attempted": 7,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/1218/1/A2019-16.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/1513",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/counter-terrorism-and-counter-radicalization-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/counter-terrorism-and-counter-radicalization-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 148666,
+          "sample_sha256": "5aef32b1a453579f5d9744d6aa22520cd285bd51e12211470c17f86e9a240f4f",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/sites/default/files/NCTPolicyStrategy.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.nia.gov.in/about-us",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nia.gov.in/about-us",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 52079,
+          "sample_sha256": "6a0fd3537ae81f549973aa14726e97130e0b1e9d07c06f8abc9fedd11227fbf0",
+          "title": "About Us | National Investigation Agency",
+          "substantive": true
+        },
+        {
+          "url": "https://www.un.org/securitycouncil/ctc/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.un.org/securitycouncil/ctc/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 101266,
+          "sample_sha256": "f00ff7a7090820f1483db115a13dac8fad824d4d30f77d8cf1e3734919fbaf0f",
+          "title": "Security Council - Counter-Terrorism Committee (CTC) | Counter-Terrorism Committee Executive Directorate (CTED)",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-03",
+      "access_date": "2026-09-06",
+      "verification_scope": "LWE policy, affected-area status, violence trends and integrated response",
+      "attempted": 6,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/hi",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 121663,
+          "sample_sha256": "855991b2ab80df0880fd34e20a7641f6c1e469d84725ba5ad6193f790ec7cb55",
+          "title": "Home | Ministry of Home Affairs",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/left-wing-extremism-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/left-wing-extremism-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 86442,
+          "sample_sha256": "94d72003a9a1583c17be6a362eeab90ce3dd76abf7083b21e46c088c5481c332",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/index.aspx?reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 6073,
+          "sample_sha256": "d8cbfa66c83ed39b0f7ab2b2642af87c1bd8c1ebc11ab7333f30a76117d632ae",
+          "title": "Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179489",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179489&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 93529,
+          "sample_sha256": "869e26896bb21a7c4e479ab79e1219d062b8df00ce97279f61efd39901516c7a",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292864",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292864&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 341441,
+          "sample_sha256": "8dd1b287423aaa86f4ecb1765011df17e8d948a44eafb253ba1d8e6ebc9446f1",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-04",
+      "access_date": "2026-09-06",
+      "verification_scope": "insurgency, ceasefire/accord status, implementation and peace outcomes",
+      "attempted": 6,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://pib.gov.in/FeaturesDeatils.aspx?NoteId=151186&ModuleId=2",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/FeaturesDeatils.aspx?NoteId=151186&ModuleId=2&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 156988,
+          "sample_sha256": "563160d974bfdc59bf24668e32ddaacb2e34c6a9a1452840d88034adc3588925",
+          "title": "Features | PIB",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/hi",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 121663,
+          "sample_sha256": "855991b2ab80df0880fd34e20a7641f6c1e469d84725ba5ad6193f790ec7cb55",
+          "title": "Home | Ministry of Home Affairs",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/north-east-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/north-east-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 91208,
+          "sample_sha256": "5bbadfb83d861fefb8191f2ad2e3e44d48ea0e9a3b31c73383068b0194ea4dcc",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/sites/default/files/AREnglish_24032026.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.mha.gov.in/sites/default/files/AREnglish_24032026.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "39f995310878948954b2964cceaf8ac760ed26ef3dc00517ddc94eca3b6ef409",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/index.aspx?reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 6073,
+          "sample_sha256": "676d525059d2dffe4623471d2a10b53aca4560d1c2fb45f1219e77c8ffd3f723",
+          "title": "Press Information Bureau",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-05",
+      "access_date": "2026-09-06",
+      "verification_scope": "Jammu and Kashmir legal status, governance and cross-border attribution",
+      "attempted": 4,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1700782",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1700782&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 110641,
+          "sample_sha256": "a9d4e71223a49caee12a4ba0cffa436dbcffe4cc4fd2ecc46d08624f881ff413",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/hi",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 121663,
+          "sample_sha256": "855991b2ab80df0880fd34e20a7641f6c1e469d84725ba5ad6193f790ec7cb55",
+          "title": "Home | Ministry of Home Affairs",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/jammu-kashmir-and-ladakh-affairs",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/jammu-kashmir-and-ladakh-affairs",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 92348,
+          "sample_sha256": "1a58de368c1854e0d60f86974b7b47c08575a349d926f865b10120f69f2555a2",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-06",
+      "access_date": "2026-09-06",
+      "verification_scope": "border typology, guarding mandates, infrastructure and area development",
+      "attempted": 6,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://vvp.mha.gov.in/Home/About",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://vvp.mha.gov.in/Home/About",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 28610,
+          "sample_sha256": "1988ed53d8f70c057d304751ea1b93a4aaf0d04a6650195f65bb21dd27a9511b",
+          "title": "",
+          "substantive": true
+        },
+        {
+          "url": "https://www.bsf.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.bsf.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "79c3df4e1721af9bd65559aaaa3146193fad292f064c0f3101cd70cbbccb7d85",
+          "title": "Border Security Force || BSF",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.itbpolice.nic.in/",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error _ssl.c:990: The handshake operation timed out>",
+          "substantive": false
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/border-management-i-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/border-management-i-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 66829,
+          "sample_sha256": "feafa466a44295b922d37ad1d94ee3d7af5872999d79e0f7ce0c721544908bc1",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/border-management-ii-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/border-management-ii-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 83184,
+          "sample_sha256": "8a79b1b85a3462c3787d7dc43442080006e3345c44a8ab70e869a9d728dededa",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-07",
+      "access_date": "2026-09-06",
+      "verification_scope": "maritime zones, Navy/Coast Guard/coastal-police mandates and coordination",
+      "attempted": 6,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://indiancoastguard.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://indiancoastguard.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 99197,
+          "sample_sha256": "d187561ceefcb9c42077e4a96d0f016d4d5ae57c24c0ca2f9065e2ec34992133",
+          "title": "Official Website of Indian Coast Guard Head Quarters, New Delhi, Ministry of Defence, Government of India.",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1952972",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1952972&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 75285,
+          "sample_sha256": "fcaddc68c7d124d4195a3081f95c3c8a5108f660e0ae47c78a5269f025e50dfd",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1996947",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1996947&reg=48&lang=2",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 86070,
+          "sample_sha256": "b0bf2e6fdf06dbbe2b1a66f2b5aad88e09087e06907d2d8b1da6d7ea6a321253",
+          "title": "Press Release Page | Press Information Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiannavy.nic.in/",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>",
+          "substantive": false
+        },
+        {
+          "url": "https://www.mha.gov.in/en/divisionofmha/border-management-ii-division",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.mha.gov.in/en/divisionofmha/border-management-ii-division",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 83184,
+          "sample_sha256": "8a79b1b85a3462c3787d7dc43442080006e3345c44a8ab70e869a9d728dededa",
+          "title": "Ministry of Home Affairs | Government of India",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-08",
+      "access_date": "2026-09-06",
+      "verification_scope": "cyber incident reporting, CII protection, cybercrime and data governance",
+      "attempted": 7,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://i4c.mha.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://i4c.mha.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 69182,
+          "sample_sha256": "16e0efffcb9cb73680b4820fb9057daac6168024bae027b5f379564042a24ffb",
+          "title": "Indian Cybercrime Coordination Centre",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cert-in.org.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.cert-in.org.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 447,
+          "sample_sha256": "056383dd1ceba2678b8cd66facd351e4c6d74229eedf0bdebcba4c459b54272f",
+          "title": "Indian - Computer Emergency Response Team",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 434961,
+          "sample_sha256": "202c2f3953d792dcfb3ecb3634fc82ab75437ee596de89b8d59a211e8e42431f",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.meity.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.meity.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 3292,
+          "sample_sha256": "9c464735a760702274635bf31a332268e5c59ddefda7590cbfe83a96faa0ecba",
+          "title": "Home",
+          "substantive": true
+        },
+        {
+          "url": "https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 3137,
+          "sample_sha256": "3ac43cf1c317cb7e890eaeedb7a91f068787fd2963b7d2e8de9052c269c335e4",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.nciipc.gov.in/",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-09",
+      "access_date": "2026-09-06",
+      "verification_scope": "platform rules, encrypted communications, disinformation and safeguards",
+      "attempted": 6,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://i4c.mha.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://i4c.mha.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 69182,
+          "sample_sha256": "d9e2e9e88149d9f41dd40eab464789ebdbbc061de34c36b6a625530f6988f5bb",
+          "title": "Indian Cybercrime Coordination Centre",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cert-in.org.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.cert-in.org.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 447,
+          "sample_sha256": "056383dd1ceba2678b8cd66facd351e4c6d74229eedf0bdebcba4c459b54272f",
+          "title": "Indian - Computer Emergency Response Team",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cert-in.org.in/PDF/Advisory_fake_news.pdf",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.cert-in.org.in/PDF/Advisory_fake_news.pdf",
+          "content_type": "text/html",
+          "bytes_sampled": 938,
+          "sample_sha256": "9fc267dbb53551804dd04d985399e22c53d2c45b5c419406ca1cf94f4bd13654",
+          "title": "Cert-In - Home Page",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.meity.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.meity.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 3292,
+          "sample_sha256": "9c464735a760702274635bf31a332268e5c59ddefda7590cbfe83a96faa0ecba",
+          "title": "Home",
+          "substantive": true
+        },
+        {
+          "url": "https://www.meity.gov.in/content/information-technology-intermediary-guidelines-and-digital-media-ethics-code-rules-2021",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.meity.gov.in/content/information-technology-intermediary-guidelines-and-digital-media-ethics-code-rules-2021",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 3061,
+          "sample_sha256": "1834878227e57e5190cf5ba8037c026216e44b2cb1ef0cdd27069207139665fe",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-10",
+      "access_date": "2026-09-06",
+      "verification_scope": "PMLA process, FIU/ED/RBI roles, FATF status and terror financing",
+      "attempted": 6,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://enforcementdirectorate.gov.in/what-we-do",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://fiuindia.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://fiuindia.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 29241,
+          "sample_sha256": "07da027a0d3266109613fd2dd632e48af59df3491038ffdcd6bde2f49ede8d90",
+          "title": "Home | Financial Intelligence Unit | Ministry Of Finance | GoI",
+          "substantive": true
+        },
+        {
+          "url": "https://fiuindia.gov.in/files/AML_Legislation/notification.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://fiuindia.gov.in/files/AML_Legislation/notification.html",
+          "content_type": "text/html",
+          "bytes_sampled": 83611,
+          "sample_sha256": "d2a9485cc651caf41ee651f21f2dd5f9f5302ef87a38557f59b582c4b1468521",
+          "title": "FIU-India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/India-MER-2024.html",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.rbi.org.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.rbi.org.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 152555,
+          "sample_sha256": "a2414db11b505c9d413cdbdf01f6a8f39677a60ce30ee2e9c5cbb6b0c7af02d3",
+          "title": "Home | Official website of Reserve Bank of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "1056de797ad65de96e511b078ea4979af4acc7c70f0370bba4d040879844faca",
+          "title": "Master Directions | Official Website of Reserve Bank of India",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-11",
+      "access_date": "2026-09-06",
+      "verification_scope": "organised crime, narcotics, trafficking, seizures and terror linkages",
+      "attempted": 5,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://narcoticsindia.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://narcoticsindia.nic.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 323369,
+          "sample_sha256": "e9ad8290bc41a2e6f429933f2752db900390c5bbddda73ff24868b16ba201232",
+          "title": "Narcotics Control Bureau",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.interpol.int/Crimes/Organized-crime",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.interpol.int/Crimes/Organized-crime",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 71956,
+          "sample_sha256": "aa09a92cddaaa0eb0556b6a9fa8e9191f2a5b053d3650ed1fa7f7994c12f7188",
+          "title": "Organized crime",
+          "substantive": true
+        },
+        {
+          "url": "https://www.mha.gov.in/en/commoncontent/narco-coordination-centre-ncord",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html",
+          "content_type": "text/html;charset=utf-8",
+          "bytes_sampled": 42245,
+          "sample_sha256": "7bd81a272486d4fe598c27cb527a9bc7cef6ed8f68cb9b3bfdd135a6c654fa25",
+          "title": "United Nations Convention against Transnational Organized Crime",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    },
+    {
+      "topic_key": "internal-security-12",
+      "access_date": "2026-09-06",
+      "verification_scope": "force/agency mandates, intelligence coordination, special powers and rights",
+      "attempted": 8,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://nia.gov.in/about-us",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nia.gov.in/about-us",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 52079,
+          "sample_sha256": "0a6754e92868031eeab412f76ddaeed1cacc703513dce6159a8685c9139348ac",
+          "title": "About Us | National Investigation Agency",
+          "substantive": true
+        },
+        {
+          "url": "https://www.assamrifles.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.assamrifles.gov.in/",
+          "content_type": "text/html",
+          "bytes_sampled": 514,
+          "sample_sha256": "7e686f59a462dd8487c9b6b0a50adc7a5af27f80c72e31aa2b878f620cab91c4",
+          "title": "Assam Rifles-Official Website",
+          "substantive": true
+        },
+        {
+          "url": "https://www.bsf.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.bsf.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "3fe553048dde14d8efd3e9042e2ab0cb7713d0a64ec4bd1179119dbdbe10f2d6",
+          "title": "Border Security Force || BSF",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.indiacode.nic.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 2009,
+          "sample_sha256": "3b64e50fd9a02485b2f452c4090c7ef025bf565e4340256a83cb387b7103318c",
+          "title": "India Code - Site Migration",
+          "substantive": true
+        },
+        {
+          "url": "https://www.itbpolice.nic.in/",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error _ssl.c:990: The handshake operation timed out>",
+          "substantive": false
+        },
+        {
+          "url": "https://www.mha.gov.in/en/commoncontent/intelligence-bureau",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.mha.gov.in/sites/default/files/AnnualReport_2024_25_English.pdf",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.nia.gov.in/about-us",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://nia.gov.in/about-us",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 52079,
+          "sample_sha256": "0a6754e92868031eeab412f76ddaeed1cacc703513dce6159a8685c9139348ac",
+          "title": "About Us | National Investigation Agency",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Retrieval verifies authoritative publisher availability and source integrity. A source supports only the proposition actually stated in its substantive text. Failed/thin pages supply no fact; analytical inference remains labelled.",
+      "safety_control": "Policy, law, institutions and public outcomes only; no classified detail, tactical vulnerability or attack-enabling procedure is inferred or reproduced."
+    }
+  ],
+  "failures": []
+}

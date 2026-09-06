@@ -1,0 +1,1748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g3\\disaster-management-11_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g3\\disaster-management-11_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Forest Fire Risk Management - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 378.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 67,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-11\\g3\\assets\\disaster-management-11_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 527.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 220.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Fire triangle and bounded fire-behaviour grammar as a sequence: identify Fire triangle, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 96,
+      "markdown_body_line_end": 103,
+      "heading": "VISUAL FIRST",
+      "preview": "FIRE TRIANGLE AND BOUNDED FIRE-BEHAVIOUR GRAMMAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 466.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 157,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FIRE TRIANGLE AND BOUNDED FIRE-BEHAVIOUR GRAMMAR",
+      "preview": "START / CONCEPT: FOUNDATION — Fire triangle and bounded fire-behaviour grammar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Surface ground and crown fire distinctions as a sequence: identify Surface fire, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 389.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 322.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 187,
+      "heading": "VISUAL FIRST",
+      "preview": "SURFACE GROUND AND CROWN FIRE DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 240,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SURFACE GROUND AND CROWN FIRE DISTINCTIONS",
+      "preview": "START / CONCEPT: FOUNDATION — Surface ground and crown fire distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 251,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Natural deliberate and accidental ignition as a sequence: identify Ground fire, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 270,
+      "heading": "VISUAL FIRST",
+      "preview": "NATURAL DELIBERATE AND ACCIDENTAL IGNITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NATURAL DELIBERATE AND ACCIDENTAL IGNITION",
+      "preview": "START / CONCEPT: FOUNDATION — Natural deliberate and accidental ignition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 334,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Weather fuel topography and spread interaction as a sequence: identify Crown fire, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 353,
+      "heading": "VISUAL FIRST",
+      "preview": "WEATHER FUEL TOPOGRAPHY AND SPREAD INTERACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 406,
+      "heading": "CLOSING RECALL FLOW - CORE - WEATHER FUEL TOPOGRAPHY AND SPREAD INTERACTION",
+      "preview": "START / CONCEPT: CORE — Weather fuel topography and spread interaction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 417,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Prevention governance and recurrent-use incentives as a sequence: identify Ignition sources, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 436,
+      "heading": "VISUAL FIRST",
+      "preview": "PREVENTION GOVERNANCE AND RECURRENT-USE INCENTIVES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 489,
+      "heading": "CLOSING RECALL FLOW - CORE - PREVENTION GOVERNANCE AND RECURRENT-USE INCENTIVES",
+      "preview": "START / CONCEPT: CORE — Prevention governance and recurrent-use incentives",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read FSI satellite detection danger rating and alert chain as a sequence: identify Weather, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 201.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 522,
+      "heading": "VISUAL FIRST",
+      "preview": "FSI SATELLITE DETECTION DANGER RATING AND ALERT CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 576,
+      "heading": "CLOSING RECALL FLOW - CORE - FSI SATELLITE DETECTION DANGER RATING AND ALERT CHAIN",
+      "preview": "START / CONCEPT: CORE — FSI satellite detection danger rating and alert chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 587,
+      "markdown_body_line_end": 587,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Field verification initial response and escalation as a sequence: identify Topography, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 606,
+      "heading": "VISUAL FIRST",
+      "preview": "FIELD VERIFICATION INITIAL RESPONSE AND ESCALATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 659,
+      "heading": "CLOSING RECALL FLOW - CORE - FIELD VERIFICATION INITIAL RESPONSE AND ESCALATION",
+      "preview": "START / CONCEPT: CORE — Field verification initial response and escalation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Community participation training compensation and accountability as a sequence: identify Prevention governance, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the nex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 689,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNITY PARTICIPATION TRAINING COMPENSATION AND ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 742,
+      "heading": "CLOSING RECALL FLOW - CORE - COMMUNITY PARTICIPATION TRAINING COMPENSATION AND ACCOUNTABILITY",
+      "preview": "START / CONCEPT: CORE — Community participation training compensation and accountability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Fire lines access and maintenance limits as a sequence: identify Detection and FSI, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 265.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 198.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 772,
+      "heading": "VISUAL FIRST",
+      "preview": "FIRE LINES ACCESS AND MAINTENANCE LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 825,
+      "heading": "CLOSING RECALL FLOW - CORE - FIRE LINES ACCESS AND MAINTENANCE LIMITS",
+      "preview": "START / CONCEPT: CORE — Fire lines access and maintenance limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 836,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Prescribed burning as bounded governance as a sequence: identify Initial response, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 855,
+      "heading": "VISUAL FIRST",
+      "preview": "PRESCRIBED BURNING AS BOUNDED GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 908,
+      "heading": "CLOSING RECALL FLOW - CORE - PRESCRIBED BURNING AS BOUNDED GOVERNANCE",
+      "preview": "START / CONCEPT: CORE — Prescribed burning as bounded governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Ecological role versus suppression trade-offs as a sequence: identify Community partnership, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 325.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 244.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 934,
+      "markdown_body_line_end": 941,
+      "heading": "VISUAL FIRST",
+      "preview": "ECOLOGICAL ROLE VERSUS SUPPRESSION TRADE-OFFS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 995,
+      "heading": "CLOSING RECALL FLOW - CORE - ECOLOGICAL ROLE VERSUS SUPPRESSION TRADE-OFFS",
+      "preview": "START / CONCEPT: CORE — Ecological role versus suppression trade-offs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1006,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Smoke health visibility and service continuity as a sequence: identify Prescribed burning boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "SMOKE HEALTH VISIBILITY AND SERVICE CONTINUITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1078,
+      "heading": "CLOSING RECALL FLOW - CORE - SMOKE HEALTH VISIBILITY AND SERVICE CONTINUITY",
+      "preview": "START / CONCEPT: CORE — Smoke health visibility and service continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 295.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 54.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1089,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Wildland-urban interface evacuation and utilities as a sequence: identify Ecology-suppression trade-off, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1104,
+      "markdown_body_line_end": 1108,
+      "heading": "VISUAL FIRST",
+      "preview": "WILDLAND-URBAN INTERFACE EVACUATION AND UTILITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1161,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - WILDLAND-URBAN INTERFACE EVACUATION AND UTILITIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Wildland-urban interface evacuation and utilities",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 409.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1172,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Burnt-area assessment restoration and livelihood recovery as a sequence: identify Smoke and health, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1187,
+      "markdown_body_line_end": 1194,
+      "heading": "VISUAL FIRST",
+      "preview": "BURNT-AREA ASSESSMENT RESTORATION AND LIVELIHOOD RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 652.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1248,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BURNT-AREA ASSESSMENT RESTORATION AND LIVELIHOOD RECOVERY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Burnt-area assessment restoration and livelihood recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PYQ synthesis alert suppression and outcome firewall as a sequence: identify Restoration, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 370.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 304.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1281,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ SYNTHESIS ALERT SUPPRESSION AND OUTCOME FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1325,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Forest-fire causes and impacts; community-based prevention; detection technology (FAST/Large Forest Fire Monitoring); response and reco",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 242.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 118.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1329,
+      "markdown_body_line_end": 1344,
+      "heading": "1. Visual foundation",
+      "preview": "FIRE TRIANGLE: fuel (present) + oxygen (present) + HEAT (the trigger)",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1359,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 571.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 306.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1531,
+      "heading": "13. Core-only answer architecture - detect, suppress, govern fuel",
+      "preview": "**Core firewall:** forest-fire answers require the fire triangle, deliberate/accidental ignition distinction, community incentives and the alert-to-suppression gap. FAST 3.0 alone is not an answer.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 649.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1535,
+      "markdown_body_line_end": 1540,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 627.624
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 385.222
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1558,
+      "markdown_body_line_end": 1575,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ SYNTHESIS ALERT SUPPRESSION AND OUTCOME FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ synthesis alert suppression and outcome firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1042
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2734,
+      "markdown_body_line_end": 2740,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Fire governance design; the wildland-urban interface; ecological trade-offs; data and institutional limits. **Grounded in:** *VisionIAS Value Added",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 409.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 322.224
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2757,
+      "markdown_body_line_end": 2774,
+      "heading": "2. Risk-system analysis",
+      "preview": "COMMUNITY-DEPENDENT FOREST-RESOURCE USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2984,
+      "markdown_body_line_end": 2992,
+      "heading": "Forest Fire Risk Management: PREVENT DETECT VERIFY RESPOND PROTECT HEALTH AND RESTORE SPINE",
+      "preview": "START WITH FUEL HEAT OXYGEN AND CLASSIFY SURFACE GROUND OR CROWN",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 771.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 690.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3002,
+      "markdown_body_line_end": 3007,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Fire triangle and control",
+      "preview": "FUEL + HEAT + OXYGEN -> COMBUSTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 542.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3011,
+      "markdown_body_line_end": 3016,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Fire-type matrix",
+      "preview": "SURFACE -> litter grass shrub layer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3020,
+      "markdown_body_line_end": 3025,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Fire-behaviour triangle",
+      "preview": "WEATHER -> dryness wind humidity temperature",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 343.091
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3029,
+      "markdown_body_line_end": 3034,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Ignition governance map",
+      "preview": "NATURAL -> lightning and source-bounded causes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 269.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3038,
+      "markdown_body_line_end": 3043,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: FSI alert rail",
+      "preview": "1 MODIS / SNPP-VIIRS DETECTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3047,
+      "markdown_body_line_end": 3052,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Initial response chain",
+      "preview": "ALERT -> VERIFY LOCATION AND ACCESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3056,
+      "markdown_body_line_end": 3061,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Community partnership ladder",
+      "preview": "CONSULT ON RESOURCE-USE AND IGNITION DRIVERS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3065,
+      "markdown_body_line_end": 3070,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Fuel-break boundary",
+      "preview": "FIRE LINE -> maintained break in fuel continuity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3074,
+      "markdown_body_line_end": 3079,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Ecology-suppression balance",
+      "preview": "WHAT ECOSYSTEM / FIRE REGIME / SEASON / INTENSITY?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3090,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Smoke and interface map",
+      "preview": "FIRE -> SMOKE / VISIBILITY / TRANSPORT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 346.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3094,
+      "markdown_body_line_end": 3101,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Restoration sequence",
+      "preview": "SAFETY + BURNT AREA / SEVERITY ASSESSMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 251.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3105,
+      "markdown_body_line_end": 3112,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Forest-fire answer spine",
+      "preview": "CLASSIFY FIRE + TRACE IGNITION WEATHER FUEL TOPOGRAPHY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    }
+  ]
+}

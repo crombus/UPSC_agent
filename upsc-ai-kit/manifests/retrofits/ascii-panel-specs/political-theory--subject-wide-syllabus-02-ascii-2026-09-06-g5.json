@@ -1,0 +1,488 @@
+{
+  "schema_version": 2,
+  "benchmark": "Cārvāka-standard continuous master with a topic-specific Political Theory twelve-panel atlas",
+  "generated_on": "2026-09-06",
+  "scope": "Political Theory subject-wide syllabus topic 02",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "english_first": true,
+    "approved": false
+  },
+  "topics": [
+    {
+      "topic_key": "political-theory-02",
+      "title": "Ideology and End of Ideology",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-02\\g5\\topic-02_Complete-Learning-Session_2026-09-06.md",
+      "source_record": "political-theory-02:learner-v2:g5",
+      "approved_master_reference": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png",
+      "benchmark_preservation": "The approved design reference, prior topic artifacts and canonical Political Theory owners remain immutable.",
+      "panels": [
+        {
+          "panel_title": "The Dual Meaning and Political Work of Ideology",
+          "structural_type": "root-axes",
+          "source_references": {
+            "sessions": [
+              1
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Dual Meaning and Political Work of Ideology",
+            "  [1] UPSC repeatedly tests whether a student can distinguish theory from ideology, and",
+            "      neutral analysis from partisan justification; this chapter provides that distinction",
+            "      directly (Gauba, PDF pp.29-31).",
+            "        |",
+            "        v",
+            "  [2] The so-called end of ideology is presented by Gauba as a mid-twentieth-century",
+            "      Western thesis, not as an unquestionable law of political development (Gauba, PDF",
+            "      pp.36-39).",
+            "        |",
+            "        v",
+            "  [3] The chapter also explains why ideologies mobilize people, justify rule, inspire",
+            "      sacrifice and sometimes intensify conflict (Gauba, PDF pp.28-29, 36).",
+            "        |",
+            "        v",
+            "  [4] This topic is the bridge from general theory to specific ideologies such as",
+            "      liberalism, Marxism, socialism, feminism and Gandhism.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> The Dual Meaning and Political Work of Ideology is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Essential Vocabulary of Ideology Critique",
+          "structural_type": "doctrine-map",
+          "source_references": {
+            "sessions": [
+              2
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Essential Vocabulary of Ideology Critique",
+            "  [1] Mannheim's total/particular distinction and relationalism (supplementary vocabulary,",
+            "      no specific page anchor claimed): Mannheim's own work further distinguishes a",
+            "      \"total\" conception of ideology (applied reflexively to all thought, including one's",
+            "      own) from a narrower \"particular\" conception (which accuses only a rival of",
+            "      distortion), and frames the search for more objective knowledge as \"relational\" —",
+            "      perspective-bound but not simply arbitrary — rather than fully relativistic.",
+            "        |",
+            "        v",
+            "  [2] Unit 4 — Claim: all thought, including one's own side's, is socially situated →",
+            "      Named: Karl Mannheim → Significance: generalizes ideology critique beyond",
+            "      class-enemy accusation, useful for balanced/critical answers (Gauba, PDF pp.33-34) →",
+            "      Limitation: the proposed \"free-floating intelligentsia\" synthesis risks confusing",
+            "      origin with validity (§12 intelligentsia caution).",
+            "        |",
+            "        v",
+            "  [3] Two-line enrichment: the chapter neither glorifies ideology nor dismisses it; it",
+            "      asks when commitment becomes distortion and when critique becomes necessary.",
+            "        |",
+            "        v",
+            "  [4] Ideology (set of ideas): A set of ideas accepted as true by a group, party or nation",
+            "      without further examination, often used to justify or denounce a social or political",
+            "      arrangement (Gauba, PDF pp.28-29).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Essential Vocabulary of Ideology Critique is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "The Chapter Spine: Distortion, Mobilisation and Closure",
+          "structural_type": "argument-tree",
+          "source_references": {
+            "sessions": [
+              3
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The Chapter Spine: Distortion, Mobilisation and Closure",
+            "  [1] Marx, Lukacs and Mannheim are then introduced as major analysts of ideology as",
+            "      distortion, class consciousness or social conditioning of knowledge (Gauba, PDF",
+            "      pp.32-34).",
+            "        |",
+            "        v",
+            "  [2] The chapter closes with the end-of-ideology debate, where Bell, Dahrendorf, Lipset,",
+            "      Rostow and Galbraith present historically situated claims about affluent industrial",
+            "      societies and the waning of sharp ideological division (Gauba, PDF pp.37-39).",
+            "        |",
+            "        v",
+            "  [3] The deeper spine is this: ideology can be both a motivating framework and an object",
+            "      of criticism, so the task of theory is neither blind celebration nor lazy dismissal.",
+            "        |",
+            "        v",
+            "  [4] Gauba first explains ideology as action-oriented group belief used to justify power,",
+            "      attack opponents, motivate sacrifice or spur social transformation (Gauba, PDF",
+            "      pp.28-29).",
+            "        |",
+            "        v",
+            "  [5] He then distinguishes political theory from ideology by insisting that theory",
+            "      critically evaluates claims, whereas ideology pursues partisan ends from a committed",
+            "      standpoint (Gauba, PDF pp.29-30).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> The Chapter Spine: Distortion, Mobilisation and Closure is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Theory, Ideology, Utopia and Open Inquiry",
+          "structural_type": "comparison",
+          "source_references": {
+            "sessions": [
+              4
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Theory, Ideology, Utopia and Open Inquiry",
+            "  [1] Utopia: A fascinating but unrealizable vision or set of principles used by Mannheim",
+            "      to contrast with ideology (Gauba, PDF p.34).",
+            "        |",
+            "        v",
+            "  [2] Closed mind vs open mind: Gauba's dimensions table opposes ideology-as-faith to",
+            "      science-of-ideas as critical examination and openness to questioning authority",
+            "      (Gauba, PDF p.32).",
+            "        |",
+            "        v",
+            "  [3] Ideology vs utopia: Mannheim treats both as forms of false consciousness: ideology",
+            "      conserves the status quo, utopia energizes change through unrealizable projection",
+            "      (Gauba, PDF p.34).",
+            "        |",
+            "        v",
+            "  [4] Open society vs totalitarian society: In Popper's contrast, open society allows",
+            "      criticism and revision; totalitarian society claims final truth and mobilizes",
+            "      resources through ideology (Gauba, PDF pp.35-36).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Theory, Ideology, Utopia and Open Inquiry is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "From Tracy and Bacon to Marx and Lenin",
+          "structural_type": "problem-response",
+          "source_references": {
+            "sessions": [
+              5
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "From Tracy and Bacon to Marx and Lenin",
+            "  [1] Tracy, Bacon, Marx, Mannheim, Popper and Arendt represent major stations in the",
+            "      history of thinking about distorted or closed ideas (Gauba, PDF pp.30-36).",
+            "        |",
+            "        v",
+            "  [2] \"Distinguish\": Separate ideology-as-mobilization (Marx/Lenin/Lukács) from",
+            "      ideology-as-totalitarian-closure (Popper/Arendt) from ideology-as-declining-category",
+            "      (end-of-ideology writers).",
+            "        |",
+            "        v",
+            "  [3] Unit 1 — Claim: ideology is false consciousness serving dominant-class interest →",
+            "      Named: Karl Marx → Significance: foundational account of how ideology can mask",
+            "      exploitation as natural order (Gauba, PDF pp.32-33) → Limitation: risks treating all",
+            "      ideology as mere trickery, ignoring Lenin's and Lukács's broader, non-pejorative",
+            "      uses.",
+            "        |",
+            "        v",
+            "  [4] Chain 1 — Objection: \"Marx says ideology is false consciousness, so all ideology is",
+            "      simply false and should be discarded.\" Reply: Lenin's proletarian ideology and",
+            "      Lukács's class consciousness show ideology can also organize legitimate emancipatory",
+            "      politics, and Gauba explicitly notes that oppressed groups' ideologies may express",
+            "      legitimate claims (Gauba, PDF p.36); the accurate generalisation is that ideology is",
+            "      action-oriented belief, not automatically falsehood.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> From Tracy and Bacon to Marx and Lenin is best presented through its central",
+            "             claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Lukacs, Mannheim, Popper and Arendt",
+          "structural_type": "path-consequence",
+          "source_references": {
+            "sessions": [
+              6
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Lukacs, Mannheim, Popper and Arendt",
+            "  [1] Mannheim — situated knowledge: generalizes the point beyond class-enemy accusation:",
+            "      all thought is socially situated; ideology conserves the existing order, utopia",
+            "      energizes change through unrealizable projection, and the \"sociology of knowledge\"",
+            "      studies this social conditioning of ideas as such (Gauba, PDF pp.33-34).",
+            "        |",
+            "        v",
+            "  [2] Intelligentsia caution: Mannheim's proposed route to a more objective synthesis",
+            "      relies on a \"free-floating\" stratum of intellectuals capable of moving between class",
+            "      perspectives; the recorded criticism is that this risks confusing the social origin",
+            "      of knowledge with its validity and can slide into an unaccountable claim to expert",
+            "      authority (Gauba, PDF p.34). Any answer using Mannheim should end with this caution",
+            "      rather than treating his synthesis as an unproblematic solution.",
+            "        |",
+            "        v",
+            "  [3] Nationalism may mobilize sacrifice for freedom, whereas communalism may mobilize",
+            "      hatred and destruction; Gauba uses these contrasts to show ideology's",
+            "      action-orientation (Gauba, PDF p.29).",
+            "        |",
+            "        v",
+            "  [4] Environmentalism is given as an example of an ideology that may challenge",
+            "      destructive arrangements rather than merely defend vested interests (Gauba, PDF",
+            "      p.29).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Lukacs, Mannheim, Popper and Arendt is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "The End-of-Ideology Proponents",
+          "structural_type": "institution-balance",
+          "source_references": {
+            "sessions": [
+              7
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "The End-of-Ideology Proponents",
+            "  [1] Reading proponents and objectors together: technocratic managerialism does not",
+            "      remove ideology from politics; it relocates ideological argument into apparently",
+            "      neutral administrative/technical language. This is exactly why the critics call the",
+            "      \"end of ideology\" thesis self-refuting — a claim of neutrality can itself defend a",
+            "      particular distribution of power.",
+            "        |",
+            "        v",
+            "  [2] W.W. Rostow: cast economic development as a universal, stage-based process not",
+            "      determined by which political ideology a society professed (Gauba, PDF p.38).",
+            "        |",
+            "        v",
+            "  [3] J.K. Galbraith — technocratic managerialism explained: argued industrial societies",
+            "      were converging through centralization, bureaucratization and technocratization,",
+            "      with real power shifting away from ideological political leadership toward a",
+            "      bureaucratic-technocratic managerial elite. This is the chapter's clearest statement",
+            "      of technocratic managerialism: policy is increasingly justified through",
+            "      technical/administrative expertise and organizational efficiency rather than through",
+            "      open ideological argument, so that debate appears to move \"beyond ideology\" even",
+            "      though a particular (managerial) way of allocating power is being naturalized",
+            "      (Gauba, PDF p.38).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> The End-of-Ideology Proponents is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Critics, Technocracy, Comparison and Trap Repair",
+          "structural_type": "dialectic",
+          "source_references": {
+            "sessions": [
+              8
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Critics, Technocracy, Comparison and Trap Repair",
+            "  [1] Qualified thesis formula for this topic: \"Ideology is neither pure falsehood nor a",
+            "      spent historical category; it is a group-accepted, action-oriented idea-set that can",
+            "      mobilize legitimate emancipatory claims as well as dominant-class distortion, and",
+            "      political theory's task is to critically test rather than simply celebrate or",
+            "      dismiss it — including testing the end-of-ideology thesis itself against its own",
+            "      critics.\" Adapt this sentence to the directive word.",
+            "        |",
+            "        v",
+            "  [2] Reading proponents and objectors together: technocratic managerialism does not",
+            "      remove ideology from politics; it relocates ideological argument into apparently",
+            "      neutral administrative/technical language. This is exactly why the critics call the",
+            "      \"end of ideology\" thesis self-refuting — a claim of neutrality can itself defend a",
+            "      particular distribution of power.",
+            "        |",
+            "        v",
+            "  [3] Direct-book anchors used here: PDF pp.28-32 for basic concept and distinction from",
+            "      theory; PDF pp.33-36 for major interpreters (Marx, Lenin, Lukács, Mannheim, Popper,",
+            "      Arendt); PDF pp.37-39 for the end-of-ideology thesis, technocratic managerialism and",
+            "      its critics.",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Critics, Technocracy, Comparison and Trap Repair is best presented through its",
+            "             central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Qualified Thesis and Directive-Specific Architecture",
+          "structural_type": "application-pyq",
+          "source_references": {
+            "sessions": [
+              9
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Qualified Thesis and Directive-Specific Architecture",
+            "  [1] Premises: (a) ideology is a group-accepted idea-set used to justify or denounce a",
+            "      distribution of power (Gauba, PDF pp.28-29); (b) theory critically tests validity",
+            "      while ideology asserts from a committed standpoint (Gauba, PDF pp.29-30); (c)",
+            "      ideology can also mean a \"science of ideas\" studying how ideas form, distort and are",
+            "      purified (Gauba, PDF pp.30-31).",
+            "        |",
+            "        v",
+            "  [2] Mechanism: because ideology's action-orientation makes it useful for mobilization",
+            "      but prone to distortion (Marx's false consciousness, Lukács's class-situated",
+            "      consciousness, Mannheim's total conception), and because a closed ideological system",
+            "      can escalate into totalitarian monopoly over truth (Popper/Arendt), a theory of",
+            "      ideology must (i) explain the distortion/mobilization mechanism, (ii) mark the",
+            "      threshold at which ideology becomes totalitarian closure, and (iii) test any claim",
+            "      that ideology has become historically unnecessary (end-of-ideology) against its own",
+            "      critics (§13).",
+            "        |",
+            "        v",
+            "  [3] Conclusion: ideology neither disappears nor deserves uncritical trust; it remains a",
+            "      permanent feature of politics whose distortions and mobilizing uses must be",
+            "      continuously tested by theory, and even a \"post-ideological,\"",
+            "      technocratic-managerial politics can smuggle in an ideology of its own (Gauba, PDF",
+            "      pp.36, 39).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Qualified Thesis and Directive-Specific Architecture is best presented through",
+            "             its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+          "structural_type": "answer-spine",
+          "source_references": {
+            "sessions": [
+              10
+            ]
+          },
+          "lines": [
+            "CENTRAL FOCUS",
+            "Evidence, Objections, Indian Application and Mark-Scaled Answers",
+            "  [1] Ideology has two meanings in the chapter: group-faith idea-set and science of ideas",
+            "      (Gauba, PDF p.28).",
+            "        |",
+            "        v",
+            "  [2] Political ideology is action-oriented, justificatory and often conflict-producing",
+            "      because different groups defend different value-systems (Gauba, PDF pp.28-29).",
+            "        |",
+            "        v",
+            "  [3] Political theory differs because it critically examines origin, strength, weakness",
+            "      and validity of claims (Gauba, PDF pp.29-30).",
+            "        |",
+            "        v",
+            "  [4] Tracy, Bacon, Marx, Mannheim, Popper and Arendt represent major stations in the",
+            "      history of thinking about distorted or closed ideas (Gauba, PDF pp.30-36).",
+            "        |",
+            "        v",
+            "  [5] End-of-ideology writers claimed that advanced industrial societies were converging",
+            "      and that old ideological conflicts were weakening (Gauba, PDF pp.37-39).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> Evidence, Objections, Indian Application and Mark-Scaled Answers is best",
+            "             presented through its central claim, causal logic, strongest limit and qualified",
+            "             verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "MCQ Remediation and Trap Repair",
+          "structural_type": "close-option-trap-map",
+          "source_references": [
+            "BASIC MCQS / REMEDIATION"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "  [1] Ideology (set of ideas): A set of ideas accepted as true by a group, party or nation",
+            "      without further examination, often used to justify or denounce a social or political",
+            "      arrangement (Gauba, PDF pp.28-29).",
+            "        |",
+            "        v",
+            "  [2] Ideology (science of ideas): A study of how ideas are formed, distorted and purified",
+            "      so that true knowledge may be separated from false knowledge (Gauba, PDF pp.30-31).",
+            "        |",
+            "        v",
+            "  [3] Obscurantism: A deliberate effort to keep things obscure so that people do not know",
+            "      the truth (Gauba, PDF p.29).",
+            "        |",
+            "        v",
+            "  [4] Sociology of knowledge: Inquiry into how knowledge is socially determined,",
+            "      conditioned or distorted; Gauba links the term especially with Mannheim (Gauba, PDF",
+            "      p.31).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> MCQ Remediation and Trap Repair is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        },
+        {
+          "panel_title": "PYQ Ownership and Answer Practice",
+          "structural_type": "integrated-synthesis",
+          "source_references": [
+            "PYQS AND ANSWER PRACTICE"
+          ],
+          "lines": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "  [1] Marx — false consciousness: ideology is consciousness that lags behind material",
+            "      development and helps sustain the dominant class's interest by presenting a",
+            "      sectional arrangement (e.g. private ownership of the means of production) as natural",
+            "      or universal rather than as a historically specific, class-serving arrangement",
+            "      (Gauba, PDF p.32).",
+            "        |",
+            "        v",
+            "  [2] Intelligentsia caution: Mannheim's proposed route to a more objective synthesis",
+            "      relies on a \"free-floating\" stratum of intellectuals capable of moving between class",
+            "      perspectives; the recorded criticism is that this risks confusing the social origin",
+            "      of knowledge with its validity and can slide into an unaccountable claim to expert",
+            "      authority (Gauba, PDF p.34). Any answer using Mannheim should end with this caution",
+            "      rather than treating his synthesis as an unproblematic solution.",
+            "        |",
+            "        v",
+            "  [3] Ideology (set of ideas): A set of ideas accepted as true by a group, party or nation",
+            "      without further examination, often used to justify or denounce a social or political",
+            "      arrangement (Gauba, PDF pp.28-29).",
+            "        |",
+            "        v",
+            "  [4] Ideology (science of ideas): A study of how ideas are formed, distorted and purified",
+            "      so that true knowledge may be separated from false knowledge (Gauba, PDF pp.30-31).",
+            "        |",
+            "        v",
+            "SYNTHESIS -> PYQ Ownership and Answer Practice is best presented through its central claim,",
+            "             causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE -> define precisely -> explain the mechanism -> test the limit ->",
+            "              conclude with a qualified political judgment."
+          ]
+        }
+      ]
+    }
+  ]
+}

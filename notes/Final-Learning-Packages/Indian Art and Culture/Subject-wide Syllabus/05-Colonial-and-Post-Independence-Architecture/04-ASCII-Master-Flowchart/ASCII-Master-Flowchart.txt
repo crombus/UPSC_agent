@@ -1,89 +1,80 @@
-ASCII MASTER FLOW — PANEL 1/12: Colonial sequence
-PORTUGUESE -> church, Baroque and fort
-FRENCH -> Cartesian settlement grid
-BRITISH -> Indo-Gothic public monument
-POST-1911 -> Neo-Classical imperial capital
-MUST REMEMBER: Colonial architecture must separate Portuguese church-fort-patio forms, French
-  Cartesian planning, British Indo-Gothic and Indo-Saracenic programmes, and post-1911
-  imperial New Delhi before post-1947 debates.
-MUST REMEMBER: Colonial architecture must separate Portuguese church-fort-patio forms, French
-  Cartesian planning, British Indo-Gothic and Indo-Saracenic programmes, and post-1911
-  imperial New Delhi before post-1947 debates.
+ASCII MASTER FLOW — PANEL 1/12: CENTRAL THESIS AND CHRONOLOGY
+COLONIAL / POST-INDEPENDENCE ARCHITECTURE
+1535 Diu Fort -> 1605 Bom Jesus -> 1619 Se Cathedral
+-> 1847 St. Paul's -> 1906-1921 Victoria Memorial
+-> 1911 capital transfer -> 1927 old Parliament
+-> 1947 independence -> 1958 Supreme Court
+-> 1972 Hall of Nations -> 1989 Aranya
+-> 2018 Doshi Pritzker -> 2023 new Parliament / Samvidhan Sadan
 
-ASCII MASTER FLOW — PANEL 2/12: Architecture as power
-SPONSOR -> church, company or colonial state
-PLAN -> grid, axis and segregated precinct
-MONUMENT -> authority made visible
-PUBLIC USE -> rule enters daily urban space
+ASCII MASTER FLOW — PANEL 2/12: COLONIAL URBAN PROGRAMME
+port / warehouse -> fort -> church / court / office
+                             |
+                             v
+                   city plan + public monument
+                             |
+                             v
+                architecture as authority, not decor alone
 
-ASCII MASTER FLOW — PANEL 3/12: Indo-Gothic grammar
-GOTHIC -> pointed arch and ribbed vault
-INDIAN -> dome, jaali and turret
-CLIMATE -> balcony and veranda
-RESULT -> colonial revival hybrid
+ASCII MASTER FLOW — PANEL 3/12: PORTUGUESE PHASE
+Iberian style + patio house + Baroque + fortification
+Bom Jesus (1605) | Se Cathedral (1619) | Diu Fort (1535)
+CHAIN: Church strength + maritime defence + coastal settlement
 
-ASCII MASTER FLOW — PANEL 4/12: New Delhi axis
-PROCESSIONAL VISTA -> imperial approach
-SECRETARIAT -> administrative command
-VICEROY'S HOUSE -> elevated authority
-CAPITAL PLAN -> permanence staged in space
+ASCII MASTER FLOW — PANEL 4/12: FRENCH PHASE
+Cartesian grid plan + restrained facade + planned town
+Puducherry | Chandernagore | Mahe | Karaikal | Yanam
+CHAIN: Urban plan itself becomes architecture
 
-ASCII MASTER FLOW — PANEL 5/12: 1947 continuity test
-CHANGE -> sovereign Indian patron
-CONTINUITY -> monumental civic planning
-CHANGE -> national programme and symbolism
-VERDICT -> uneven architectural decolonisation
+ASCII MASTER FLOW — PANEL 5/12: BRITISH INDO-GOTHIC
+pointed arch | ribbed vault | stained glass
++ dome | jaali | balcony | turret
+Victoria Memorial | St. Paul's | Madras High Court | Mysore Palace
+NOTE: colonial Indo-Saracenic here != topic 04's medieval usage
 
-ASCII MASTER FLOW — PANEL 6/12: Postwar architect map
-LE CORBUSIER -> Chandigarh state capital
-DEOLALIKAR -> Supreme Court
-CORREA/KANVINDE -> institutions
-BAKER/DOSHI -> climate, housing and social use
+ASCII MASTER FLOW — PANEL 6/12: PRESIDENCY CITIES AND PUBLIC TYPES
+Bombay/Mumbai -> public ensemble + later Art Deco / Indo-Deco
+Kolkata -> memorial + cathedral
+Madras -> court
+TYPES: church | court | memorial | palace | capital | public office
 
-ASCII MASTER FLOW — PANEL 7/12: Baker mechanism
-LOCAL MATERIAL -> lower embodied cost
-FILLER SLAB -> less steel and cement
-VENTILATION -> thermal comfort
-CLIENT -> affordable housing user
+ASCII MASTER FLOW — PANEL 7/12: IMPERIAL DELHI AFTER 1911
+Neo-Roman / Neo-Classical -> Lutyens + Baker
+axial capital planning -> Rashtrapati Bhavan / Secretariat / Parliament
+1927 old Parliament in imperial capital
+TRAP: Mitaoli influence = debated resemblance, not proof
 
-ASCII MASTER FLOW — PANEL 8/12: Institutional modernisms
-CORREA -> courtyard and open-to-sky space
-KANVINDE -> modern and Brutalist institutions
-DOSHI -> housing and campus urbanism
-COMMON TEST -> climate, use and public purpose
+ASCII MASTER FLOW — PANEL 8/12: 1947 AND CHANDIGARH
+Revivalist / Modernist split + "colonial hangover" critique
+Chandigarh -> Le Corbusier -> India's accession to modernity
+sunscreens + double-skinned roofs + reflecting pools
+BREAK in style, continuity in monumental state planning
 
-ASCII MASTER FLOW — PANEL 9/12: Award precision rail
-DOSHI 1976 -> Padma Shri
-DOSHI 2018 -> Pritzker laureate
-DOSHI 2020 -> Padma Bhushan
-DOSHI 2023 -> Padma Vibhushan, posthumous
+ASCII MASTER FLOW — PANEL 9/12: INDIAN STATE AND INSTITUTIONAL MODERNISM
+G.B. Deolalikar -> Supreme Court (1958)
+Charles Correa -> assembly / museum / civic planning
+Achyut Kanvinde -> IIT Kanpur / National Science Centre / Brutalist line
+CHAIN: Indian authorship enters major republican institutions
 
-ASCII MASTER FLOW — PANEL 10/12: Parliament continuity
-1927 BUILDING -> colonial-era legislature
-2023 BUILDING -> Bimal Patel, main workplace
-OLD BUILDING -> retained as Samvidhan Sadan
-MITAOLI -> debated link to 1927 design
-CLOSE DISTINCTION: Indo-Gothic and Lutyens-Baker Neo-Classical New Delhi are different phases;
-  Chandigarh's modernism and foreign authorship complicate both a simple colonial continuity
-  and a complete indigenous rupture.
-CLOSE DISTINCTION: Indo-Gothic and Lutyens-Baker Neo-Classical New Delhi are different phases;
-  Chandigarh's modernism and foreign authorship complicate both a simple colonial continuity
-  and a complete indigenous rupture.
+ASCII MASTER FLOW — PANEL 10/12: BAKER AND DOSHI
+Laurie Baker -> local material + filler slab + thermal comfort + low cost
+Doshi -> Le Corbusier / Louis Kahn influence transformed
+      -> Aranya | Sangath | IIM Bangalore
+CHAIN: change of client, climate logic and community scale
 
-ASCII MASTER FLOW — PANEL 11/12: Heritage pressure
-MUMBAI ENSEMBLES -> living urban heritage
-URBAN GROWTH -> pressure on setting
-HALL OF NATIONS -> modern-heritage loss
-POLICY -> age and value can diverge
-EVIDENCE LIMIT: Built form organised maritime, railway-city and imperial authority, but
-  post-Independence Revivalist and Modernist categories remain analytical types rather than
-  complete descriptions of every Indian architect.
-EVIDENCE LIMIT: Built form organised maritime, railway-city and imperial authority, but
-  post-Independence Revivalist and Modernist categories remain analytical types rather than
-  complete descriptions of every Indian architect.
+ASCII MASTER FLOW — PANEL 11/12: MODERN HERITAGE AND LIVE CASES
+Raj Rewal -> Hall of Nations (1972 -> demolished 2017) | Asian Games Village
+IIMA Louis Kahn campus -> official restoration / testing / phased repair
+New Parliament 2023 -> old building retained as Samvidhan Sadan
+QUESTION: how should modern India conserve its recent architectural past?
 
-ASCII MASTER FLOW — PANEL 12/12: Modern architecture answer spine
-SEQUENCE -> coloniser and phase
-EVIDENCE -> building, architect and device
-ANALYSE -> power, climate, client and cost
-QUALIFY -> continuity, attribution and conservation
+ASCII MASTER FLOW — PANEL 12/12: UPSC TRAPS AND ANSWER ROUTE
+TRAPS:
+- do not merge topic 04 and topic 05 uses of "Indo-Saracenic"
+- Baker nominated, Doshi won Pritzker
+- Doshi 2020 = Padma Bhushan, not Padma Vibhushan
+- no award claim for Raj Rewal
+- Mitaoli link debated; not about 2023 Parliament
+ROUTE:
+colonial programme -> presidency/public forms -> imperial Delhi
+-> 1947 continuity/change -> architects -> conservation verdict

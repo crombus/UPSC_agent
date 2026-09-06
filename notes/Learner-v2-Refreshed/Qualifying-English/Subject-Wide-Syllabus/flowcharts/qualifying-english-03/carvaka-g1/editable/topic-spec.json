@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-english-03",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\03_Punctuation-and-Capitalisation.md",
+  "source_advanced": null,
+  "stages": [
+    {
+      "number": 1,
+      "title": "Clause map",
+      "body": "Mark independent, dependent, restrictive and supplementary units before punctuating."
+    },
+    {
+      "number": 2,
+      "title": "Introductory commas",
+      "body": "Separate a substantial opening phrase or clause from the main clause."
+    },
+    {
+      "number": 3,
+      "title": "Coordinated clauses",
+      "body": "Use comma plus coordinator, semicolon or full stop rather than a comma splice."
+    },
+    {
+      "number": 4,
+      "title": "Relative information",
+      "body": "Use commas only for removable non-restrictive material."
+    },
+    {
+      "number": 5,
+      "title": "Lists and contrasts",
+      "body": "Use consistent list punctuation and commas that prevent misreading."
+    },
+    {
+      "number": 6,
+      "title": "Semicolon",
+      "body": "Join closely related independent clauses or separate complex list items."
+    },
+    {
+      "number": 7,
+      "title": "Colon",
+      "body": "Introduce an explanation, list or restatement after a complete announcing clause."
+    },
+    {
+      "number": 8,
+      "title": "Dash and brackets",
+      "body": "Use sparingly for interruption, emphasis or parenthetical clarification."
+    },
+    {
+      "number": 9,
+      "title": "Apostrophe",
+      "body": "Distinguish possession, contraction and ordinary plural."
+    },
+    {
+      "number": 10,
+      "title": "Quotation and terminal marks",
+      "body": "Preserve direct speech and question/statement status."
+    },
+    {
+      "number": 11,
+      "title": "Hyphen and ellipsis",
+      "body": "Hyphenate useful compound modifiers; use ellipsis only for omission."
+    },
+    {
+      "number": 12,
+      "title": "Capitalisation audit",
+      "body": "Capitalise proper names and formal titles, not generic importance."
+    }
+  ]
+}

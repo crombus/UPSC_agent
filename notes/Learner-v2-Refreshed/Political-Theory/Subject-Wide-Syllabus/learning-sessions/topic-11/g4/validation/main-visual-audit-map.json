@@ -1,0 +1,413 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-11\\g4\\topic-11_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 36,
+      "heading": "SESSION 1 - Concept Map and Definitions",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Supreme authority of the state, its legal and po",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 313.491
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 145.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 61,
+      "heading": "1. One-screen conceptual map",
+      "preview": "SOVEREIGNTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 144,
+      "heading": "8. Comparison table",
+      "preview": "Distinction | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Distinction",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 555.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 250.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 226,
+      "markdown_body_line_end": 231,
+      "heading": "B. Directive decoder",
+      "preview": "Directive | What it demands here | Trap to avoid",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Directive",
+          "What it demands here",
+          "Trap to avoid"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 274.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 86.29
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owner is Philosophy Paper II — Sovereignty. They are not re-routed to Political Theory; they are included because this topic provides a dir",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 520.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 461.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1154,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 461.624
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 431.156
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1195,
+      "heading": "Solved PYQ 1 - 2022 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it runs each attribute with its argument (Part A), then grades compatibility honestly (Part B), conceding the absolute-vs-bound tension instead of defending or dismissing Bodin wholesale.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 733.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 641.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1199,
+      "markdown_body_line_end": 1199,
+      "heading": "Solved PYQ 1 - 2022 Q2(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 638.724
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 608.256
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1237,
+      "heading": "Solved PYQ 2 - 2023 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it elucidates FALSE/DANGEROUS/UNREAL as the reasons for rejection, adds \"one association among many\" and \"earned allegiance,\" and pre-empts the shared-sovereignty objection.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 137.856
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 45.588
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1241,
+      "markdown_body_line_end": 1241,
+      "heading": "Solved PYQ 2 - 2023 Q2(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1277,
+      "heading": "Solved PYQ 3 - 2024 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it lists concrete insights, argues relevance by theme (capacity, welfare, strategy), and adds the transposition caution instead of claiming ancient monarchy maps directly onto the present.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 361.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 282.956
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1281,
+      "heading": "Solved PYQ 3 - 2024 Q4(b), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Philosophy Paper II — Sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 280.456
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 249.988
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1305,
+      "heading": "Solved PYQ 4 - 2025 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it corrects the attribution explicitly, answers through verified mandala, sadgunya and saptanga material, and distinguishes a cautious conceptual parallel from a fabricated quotation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 428.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 336.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1465,
+      "markdown_body_line_end": 1470,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Classical legal sovereignty, popular sovereignty, and the pl",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 221.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 91.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1475,
+      "markdown_body_line_end": 1490,
+      "heading": "1. One-screen advanced map",
+      "preview": "CLASSICAL LEGAL THEORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 634.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1662,
+      "markdown_body_line_end": 1675,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 215.09
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    }
+  ]
+}

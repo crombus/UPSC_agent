@@ -5,8 +5,8 @@ Topic: Approaches, Behaviouralism and Post-Behaviouralism
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 08
-Source record ID: political-theory-08:learner-v2:g3
-Source generation: 3
+Source record ID: political-theory-08:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

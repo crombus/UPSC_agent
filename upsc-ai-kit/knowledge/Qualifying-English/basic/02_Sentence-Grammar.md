@@ -196,3 +196,50 @@ In **10 minutes**, correct and label:
 [PREP]; 7 accepted, though *provided the workers with meals* is safest
 [VAR]; 8 remove *but* [CONJ]; 9 *Having read the report, I found the errors
 obvious* [MOD]; 10 *turned it down* [PHR].
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; sentence completeness, agreement, tense/aspect, articles/determiners, prepositions, conjunctions, parallelism and modifiers.
+- **Canonical ownership:** Owns clause completeness, subject-verb agreement, tense/aspect/conditionals, article systems, determiner quantity, verb-preposition patterns, phrasal verbs, conjunctions, parallelism and modifier placement.
+- **Cross-topic boundary:** Word-class foundations belong to Topic 01; punctuation choices to Topic 03; correction workflow, voice, narration and transformation to Topic 05.
+
+### Complete learner and answer route
+
+1. **Clause completeness:** Distinguish complete clauses, fragments, comma splices and subordinated units.
+2. **Agreement controller:** Locate the grammatical subject, ignoring interrupting phrases.
+3. **Special agreement:** Handle each/every, number expressions, fractions, there constructions and coordinated subjects.
+4. **Tense timeline:** Place events on a timeline before choosing tense and aspect.
+5. **Conditionals:** Preserve real/unreal time, polarity and result.
+6. **Articles:** Choose a/an by sound, the by identifiability and zero article for general plural/mass reference.
+7. **Determiners:** Control few/a few, little/a little, fewer/less, each/every and other/another.
+8. **Preposition patterns:** Learn verb/adjective/noun plus preposition as complete constructions.
+9. **Phrasal verbs:** Preserve idiomatic meaning and separability.
+10. **Conjunction logic:** Match clause type and avoid double conjunctions.
+11. **Parallelism and comparison:** Coordinate grammatically equivalent units and compare like with like.
+12. **Modifier placement:** Attach opening and internal modifiers to their intended heads.
+
+### Authority, variation and hostile-query gate
+
+Every correction must preserve the intended time relation, polarity and meaning. Where usage varies, label the conservative examination form without calling a standard alternative ungrammatical.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**fragment; subject-verb agreement; aspect; conditionals; article; determiner; phrasal verb; dangling**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+

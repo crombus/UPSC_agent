@@ -1,0 +1,104 @@
+{
+  "record_id": "qualifying-english-05:learner-v2:g1",
+  "topic_key": "qualifying-english-05",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Error Correction and Transformation",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-english-05\\g1\\qualifying-english-05_Complete-Learning-Session_2026-09-06.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-english-05\\g1\\qualifying-english-05_Solved-Practice-Workbook_2026-09-06.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-english-05\\g1\\qualifying-english-05_Complete-Learning-Session_2026-09-06.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-english-05\\g1\\qualifying-english-05_Solved-Practice-Workbook_2026-09-06.md",
+  "generated_on": "2026-09-06",
+  "approved": false,
+  "provenance": {
+    "workflow": "qualifying-english-semantic-completeness-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\05_Error-Correction-and-Transformation.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\05_Error-Correction-and-Transformation.md",
+    "source_advanced": null,
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-english-05\\g1\\qualifying-english-05_Complete-Learning-Session_2026-09-06.md",
+    "canonical_learning_session": "upsc-ai-kit\\knowledge\\Qualifying-English\\learning-sessions\\v2\\subject-wide-syllabus\\qualifying-english-05_Learning-Session.md",
+    "canonical_workbook": "upsc-ai-kit\\knowledge\\Qualifying-English\\learning-sessions\\v2\\subject-wide-syllabus\\qualifying-english-05_Solved-Workbook.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+    ],
+    "local_ocr_sources": [
+      "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+      "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+      "books\\more_previous_papers\\ENGLISH (1).pdf",
+      "books\\more_previous_papers\\English.pdf",
+      "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+      "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+      "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+    ],
+    "public_verification_references": [
+      "https://upsc.gov.in/examinations/previous-question-papers",
+      "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+      "https://owl.purdue.edu/owl/general_writing/punctuation/commas/index.html",
+      "https://dictionary.cambridge.org/grammar/british-grammar/collective-nouns",
+      "https://www.merriam-webster.com/wordplay/singular-nonbinary-they"
+    ],
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-06",
+    "superseded_v1": null,
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\05_Error-Correction-and-Transformation.md": "255750a81ae9876293ace84fb0f498eccf630655ad8f23257efca19d648ac0a5",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md": "6d21958ce3d0da9107bd467ebfffbb56f016d91a1ff5d873d3d2af31b1817d15",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "80723c9ace35be70e1a38f623e6384269824ea68932a696ba97c6381690a9827",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md": "cb5fd830a1a1d8d346d37fde4f27ec00e901b478b37136772246abeaaf538a53",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md": "9e04b1a14020cc7871448842f207b89d9c649293cab9fffd2ed7fb98118b7fb1",
+      "books\\more_previous_papers\\ENGLISH-COMP_0.pdf": "1f7ee1f63cdb7ee42d7880d305c68bdb638c8d11db72c0c2fbdaf82178ab5e4d",
+      "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf": "e846e0d3f074fddbabe3a49a5b4f39c267fc0db65d9c1d9cd1b221d4df1f3a72",
+      "books\\more_previous_papers\\ENGLISH (1).pdf": "9a39159224f2cd6eebb37bbf883da4f2a672e28043cfec4d66f117fe7cf10618",
+      "books\\more_previous_papers\\English.pdf": "3a2094632f1d08d0903dad345cc0e6198383dc5faf23c7ee014db8c190579202",
+      "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf": "911307dd90f7acf30c1da2e6c08e67a65d82269216f651047eca0d35d3de700e",
+      "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf": "b4d826d245300cbbc01974741fa7803fbb33a5b611900381f361a6f76492b9d5",
+      "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf": "48569e552471e4f96bb6f2cfc7dd267fa36cca7c2cb749622dafd1edbc4741a1"
+    },
+    "canonical_owner_hash_before": "2d92fa4ede13bfffb11b26f792c94259afd9c8b491316fb87fbfdf210b275fba",
+    "canonical_owner_hash_after": "255750a81ae9876293ace84fb0f498eccf630655ad8f23257efca19d648ac0a5",
+    "practice_profile": "48 strict-rotation language MCQs plus eight topic-specific constructed-response tasks with complete models.",
+    "pyq_status_note": "Local official papers verify recurring demand and format; no unavailable official answer key or model solution is inferred.",
+    "answer_verification": "Every MCQ key selects its canonical rule statement; accepted variants, passage fidelity and précis/essay constraints are explicitly gated.",
+    "mcq_keys": "strict A-B-C-D rotation"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "qualifying-english-05:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-06",
+    "validator": "tools/qualifying_english_semantic_runtime.py + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1",
+    "master_image": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\ascii-master.txt",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Qualifying-English\\Subject-Wide-Syllabus\\flowcharts\\qualifying-english-05\\carvaka-g1\\ascii-master.pdf",
+    "core_stage_count": 12,
+    "graphical_stage_count": 12,
+    "tiled_page_count": 4,
+    "approval": false,
+    "same_master": true
+  },
+  "refresh_profile": "qualifying-english-semantic-completeness"
+}

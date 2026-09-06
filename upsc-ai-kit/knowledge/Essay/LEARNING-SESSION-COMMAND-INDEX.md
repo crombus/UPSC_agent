@@ -1,33 +1,31 @@
-# Essay Guide Command Index
+# Essay Learning Session Command Index
 
 > **Topics indexed:** 16
 > **Subject method:** Theme interpretation -> dimensions -> evidence/examples -> counter-view -> coherent outline and writing drill.
-> **Format exception:** Essay does not use the GS learning-session or MCQ
-> contract. All 16 topics are combined into one master guide, one
-> question-only workbook and one separate solutions document/PDF.
 
 ## How to use these commands
 
-- **Knowledge:** read the single complete guide for the selected topic.
-- **Practice:** attempt the question-only workbook without opening its solutions.
-- **Solutions:** compare structure, thesis, dimensions, counter-view and conclusion only after writing.
-- **Revision:** return to the guide's consolidated revision section.
+- **Core learning:** copy `Start Essay <number>`. The tutor must analyse the Core owner and cluster it into efficient 45-75 minute blocks instead of following every Markdown heading.
+- **Deep mode is optional:** use `Deep Essay <number>` only for a difficult concept, a direct Mains/PYQ theme, or Core-test accuracy below 70%. It is not a compulsory second reading.
+- **Practice:** use `Test Essay <number>` after Core learning. Answers must not be leaked before submission.
+- **Revision:** use `Revise Essay <number>` for the final register, error log and high-yield distinctions.
+- **Resume:** use `Resume Essay` to continue from saved progress.
+- **Progress:** use `Progress Essay` for completed blocks, accuracy and due revisions.
 
-### Essay-package rule
+### Learning-session rule
 
-The single subject-wide guide remains the master reference and preserves all
-16 Basic and Advanced owners. Do not split it into artificial sessions or
-append objective questions. Essay practice is answer writing: attempt a topic,
-then use the separate solutions document for comparison and correction.
+The complete package remains the master reference. A live session should select all exam-relevant Core material, use advanced material only where it adds marks, run one genuine current-affairs check per integrated block, and end with cumulative retrieval rather than an MCQ after every small heading.
+
+New archives use `learning-sessions/`. `Terminal-Learning-Sessions`, `learning-sessions-v2`, `_learning-sessions` are indexed only as legacy migration aliases; do not create new sessions there.
 
 ## Copy-ready topic commands
 
 | No. | Topic and source status | Core learning | Optional depth | Test | Revision |
 |---:|---|---|---|---|---|
 | 01 | **Paper Rules, Choice and Selection**<br>complete package/session available; `basic/01_Paper-Rules-Choice-and-Selection.md` | `Start Essay 01 - Paper Rules, Choice and Selection` | `Deep Essay 01` | `Test Essay 01` | `Revise Essay 01` |
-| 02 | **Philosophical Quote Decoding**<br>Core owner ready; `basic/02_Philosophical-Quote-Decoding.md` | `Start Essay 02 - Philosophical Quote Decoding` | `Deep Essay 02` | `Test Essay 02` | `Revise Essay 02` |
-| 03 | **Issue-Based Prompt Scoping**<br>Core owner ready; `basic/03_Issue-Based-Prompt-Scoping.md` | `Start Essay 03 - Issue-Based Prompt Scoping` | `Deep Essay 03` | `Test Essay 03` | `Revise Essay 03` |
-| 04 | **Brainstorming and Dimensional Expansion**<br>Core owner ready; `basic/04_Brainstorming-and-Dimensional-Expansion.md` | `Start Essay 04 - Brainstorming and Dimensional Expansion` | `Deep Essay 04` | `Test Essay 04` | `Revise Essay 04` |
+| 02 | **Philosophical Quote Decoding**<br>complete package/session available; `basic/02_Philosophical-Quote-Decoding.md` | `Start Essay 02 - Philosophical Quote Decoding` | `Deep Essay 02` | `Test Essay 02` | `Revise Essay 02` |
+| 03 | **Issue-Based Prompt Scoping**<br>complete package/session available; `basic/03_Issue-Based-Prompt-Scoping.md` | `Start Essay 03 - Issue-Based Prompt Scoping` | `Deep Essay 03` | `Test Essay 03` | `Revise Essay 03` |
+| 04 | **Brainstorming and Dimensional Expansion**<br>complete package/session available; `basic/04_Brainstorming-and-Dimensional-Expansion.md` | `Start Essay 04 - Brainstorming and Dimensional Expansion` | `Deep Essay 04` | `Test Essay 04` | `Revise Essay 04` |
 | 05 | **Thesis, Central Argument and Argument Map**<br>Core owner ready; `basic/05_Thesis-Central-Argument-and-Argument-Map.md` | `Start Essay 05 - Thesis, Central Argument and Argument Map` | `Deep Essay 05` | `Test Essay 05` | `Revise Essay 05` |
 | 06 | **Introductions and Conclusions**<br>Core owner ready; `basic/06_Introductions-and-Conclusions.md` | `Start Essay 06 - Introductions and Conclusions` | `Deep Essay 06` | `Test Essay 06` | `Revise Essay 06` |
 | 07 | **Macro-Structure, Paragraph Flow and Transitions**<br>Core owner ready; `basic/07_Macro-Structure-Paragraph-Flow-and-Transitions.md` | `Start Essay 07 - Macro-Structure, Paragraph Flow and Transitions` | `Deep Essay 07` | `Test Essay 07` | `Revise Essay 07` |

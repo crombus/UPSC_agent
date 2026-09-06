@@ -1,0 +1,1801 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Digital India and India Stack: UPI, Aadhaar - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 37,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 459.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not merge Digital India, India Stack, DPI and a private app.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 286.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 233.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITAL INDIA INDIA STACK DPI AND APP BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 152,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DIGITAL INDIA INDIA STACK DPI AND APP BOUNDARY",
+      "preview": "START / CONCEPT: FOUNDATION — Digital India India Stack DPI and app boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 163,
+      "markdown_body_line_end": 163,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Public digital infrastructure supplies shared protocols and trust rules on which public and private applications operate; a front-end app is a participant or interface, not the payment, identity or data rail itself.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 632.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 182,
+      "heading": "VISUAL FIRST",
+      "preview": "LAYERED PUBLIC INFRASTRUCTURE AND PRIVATE INTERFACES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 370.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 235,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LAYERED PUBLIC INFRASTRUCTURE AND PRIVATE INTERFACES",
+      "preview": "START / CONCEPT: FOUNDATION — Layered public infrastructure and private interfaces",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 246,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aadhaar is a 12-digit residency-linked identity and authentication ecosystem under the Aadhaar Act and UIDAI; it is not proof of citizenship, domicile, date of birth, entitlement or payment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 265.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 198.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 265,
+      "heading": "VISUAL FIRST",
+      "preview": "AADHAAR RESIDENCE IDENTITY AND UIDAI",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 301,
+      "markdown_body_line_end": 318,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - AADHAAR RESIDENCE IDENTITY AND UIDAI",
+      "preview": "START / CONCEPT: FOUNDATION — Aadhaar residence identity and UIDAI",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 329,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Authentication e-KYC and offline verification as a sequence: identify UIDAI-role boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 348,
+      "heading": "VISUAL FIRST",
+      "preview": "AUTHENTICATION E-KYC AND OFFLINE VERIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 384,
+      "markdown_body_line_end": 401,
+      "heading": "CLOSING RECALL FLOW - CORE - AUTHENTICATION E-KYC AND OFFLINE VERIFICATION",
+      "preview": "START / CONCEPT: CORE — Authentication e-KYC and offline verification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 412,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Identity entitlement citizenship and section-seven logic as a sequence: identify Aadhaar-workflow boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 331.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 250.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 431,
+      "heading": "VISUAL FIRST",
+      "preview": "IDENTITY ENTITLEMENT CITIZENSHIP AND SECTION-SEVEN LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 484,
+      "heading": "CLOSING RECALL FLOW - CORE - IDENTITY ENTITLEMENT CITIZENSHIP AND SECTION-SEVEN LOGIC",
+      "preview": "START / CONCEPT: CORE — Identity entitlement citizenship and section-seven logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 113.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 495,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read UPI payment rail and funding instruments as a sequence: identify Identity-entitlement boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 517,
+      "heading": "VISUAL FIRST",
+      "preview": "UPI PAYMENT RAIL AND FUNDING INSTRUMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 554,
+      "markdown_body_line_end": 571,
+      "heading": "CLOSING RECALL FLOW - CORE - UPI PAYMENT RAIL AND FUNDING INSTRUMENTS",
+      "preview": "START / CONCEPT: CORE — UPI payment rail and funding instruments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 582,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NPCI operator RBI regulator and bank roles as a sequence: identify UPI-instrument boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 222.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 155.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 601,
+      "heading": "VISUAL FIRST",
+      "preview": "NPCI OPERATOR RBI REGULATOR AND BANK ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 689.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 654,
+      "heading": "CLOSING RECALL FLOW - CORE - NPCI OPERATOR RBI REGULATOR AND BANK ROLES",
+      "preview": "START / CONCEPT: CORE — NPCI operator RBI regulator and bank roles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 263.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 52.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read UPI IMPS NEFT RTGS AePS BBPS and NACH as a sequence: identify NPCI-RBI boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 684,
+      "heading": "VISUAL FIRST",
+      "preview": "UPI IMPS NEFT RTGS AEPS BBPS AND NACH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - CORE - UPI IMPS NEFT RTGS AEPS BBPS AND NACH",
+      "preview": "START / CONCEPT: CORE — UPI IMPS NEFT RTGS AePS BBPS and NACH",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Account Aggregator consented data-sharing architecture as a sequence: identify Payment-rail boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 275.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 767,
+      "heading": "VISUAL FIRST",
+      "preview": "ACCOUNT AGGREGATOR CONSENTED DATA-SHARING ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 820,
+      "heading": "CLOSING RECALL FLOW - CORE - ACCOUNT AGGREGATOR CONSENTED DATA-SHARING ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — Account Aggregator consented data-sharing architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 335.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 114.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 831,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Consent purpose limitation audit and grievance as a sequence: identify AePS-UPI boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 850,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSENT PURPOSE LIMITATION AUDIT AND GRIEVANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 886,
+      "markdown_body_line_end": 903,
+      "heading": "CLOSING RECALL FLOW - CORE - CONSENT PURPOSE LIMITATION AUDIT AND GRIEVANCE",
+      "preview": "START / CONCEPT: CORE — Consent purpose limitation audit and grievance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 914,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DigiLocker trusted-document layer as a sequence: identify AA-data-blind boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 344.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 278.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 936,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGILOCKER TRUSTED-DOCUMENT LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 973,
+      "markdown_body_line_end": 990,
+      "heading": "CLOSING RECALL FLOW - CORE - DIGILOCKER TRUSTED-DOCUMENT LAYER",
+      "preview": "START / CONCEPT: CORE — DigiLocker trusted-document layer",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1001,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read eSign and electronic trust infrastructure as a sequence: identify DigiLocker-boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1016,
+      "markdown_body_line_end": 1020,
+      "heading": "VISUAL FIRST",
+      "preview": "ESIGN AND ELECTRONIC TRUST INFRASTRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1073,
+      "heading": "CLOSING RECALL FLOW - CORE - ESIGN AND ELECTRONIC TRUST INFRASTRUCTURE",
+      "preview": "START / CONCEPT: CORE — eSign and electronic trust infrastructure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1084,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ONDC OCEN and network unbundling as a sequence: identify eSign-boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1103,
+      "heading": "VISUAL FIRST",
+      "preview": "ONDC OCEN AND NETWORK UNBUNDLING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1156,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ONDC OCEN AND NETWORK UNBUNDLING",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — ONDC OCEN and network unbundling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1167,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FASTag uses RFID tag-reader interaction within the National Electronic Toll Collection architecture; barrierless ANPR combinations and GNSS distance-based tolling are separate pilot or proposed directions unless officially deployed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 321.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 240.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1189,
+      "heading": "VISUAL FIRST",
+      "preview": "FASTAG RFID ANPR AND GNSS STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1226,
+      "markdown_body_line_end": 1243,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FASTAG RFID ANPR AND GNSS STATUS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — FASTag RFID ANPR and GNSS status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1254,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Scale inclusion fraud and volatile-data audit as a sequence: identify Scale-safeguard boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 282.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 216.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1269,
+      "markdown_body_line_end": 1276,
+      "heading": "VISUAL FIRST",
+      "preview": "SCALE INCLUSION FRAUD AND VOLATILE-DATA AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1317,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II + Prelims. **Core area:** Digital public infrastructure, institutional roles and architecture. **Grounded in:** UIDAI About UIDAI (https://uid",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 416.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1331,
+      "heading": "1. Visual foundation",
+      "preview": "Digital India ecosystem",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 394.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 293.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1337,
+      "markdown_body_line_end": 1350,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 228.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 128.69
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1432,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s digital-public-infrastructure model works because it separates identity, payments, consented data sharing and trust/document functions across distinct institutions, allowing interoperability without collapsing the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 407.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 348.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1489,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SCALE INCLUSION FRAUD AND VOLATILE-DATA AUDIT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Scale inclusion fraud and volatile-data audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 401.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2607,
+      "markdown_body_line_end": 2612,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II + Prelims. **Core area:** Digital public infrastructure, regulatory separation and governance debates. **Grounded in:** UIDAI About UIDAI (https://uidai.g",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 409.024
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2616,
+      "markdown_body_line_end": 2627,
+      "heading": "1. Architecture",
+      "preview": "public digital rails",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 387.024
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 276.024
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2644,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 214.69
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2716,
+      "markdown_body_line_end": 2724,
+      "heading": "9. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 446.29
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2735,
+      "markdown_body_line_end": 2735,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s digital-public-infrastructure model is analytically strongest when seen as interoperable but institutionally distinct layers—identity, payments, consented data, document trust and digital signatures—because that m",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 327.09
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 268.222
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2791,
+      "markdown_body_line_end": 2799,
+      "heading": "Digital India and India Stack: UPI, Aadhaar: ANSWER-WRITING SPINE",
+      "preview": "DEFINE DIGITAL INDIA INDIA STACK DPI RAIL AND PRIVATE APP",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 469.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 388.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2809,
+      "markdown_body_line_end": 2815,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Digital ecosystem boundary",
+      "preview": "DIGITAL INDIA -> programme for infrastructure, governance and services",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2825,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Modular stack map",
+      "preview": "IDENTITY -> Aadhaar / UIDAI",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2829,
+      "markdown_body_line_end": 2835,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Aadhaar legal identity card",
+      "preview": "AADHAAR -> 12-digit resident identity number",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2845,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Three Aadhaar workflows",
+      "preview": "AUTHENTICATION -> yes or no match against CIDR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2849,
+      "markdown_body_line_end": 2855,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: UPI transaction chain",
+      "preview": "USER APP -> initiates payment instruction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2865,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Payment-rail matrix",
+      "preview": "UPI -> instant retail payment instruction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2869,
+      "markdown_body_line_end": 2875,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Operator regulator participant",
+      "preview": "NPCI -> operates specified retail rails",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2885,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Account Aggregator flow",
+      "preview": "CUSTOMER -> gives explicit consent",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2889,
+      "markdown_body_line_end": 2895,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Trust layers",
+      "preview": "DIGILOCKER -> access, share and verify trusted documents",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2907,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Open-network extensions",
+      "preview": "ONDC -> open commerce protocol",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2911,
+      "markdown_body_line_end": 2919,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Electronic toll status rail",
+      "preview": "FASTag -> RFID tag-reader architecture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2923,
+      "markdown_body_line_end": 2931,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: DPI claim firewall",
+      "preview": "DEFINE -> programme, rail, app, operator and regulator",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    }
+  ]
+}

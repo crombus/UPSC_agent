@@ -1,0 +1,73 @@
++----------------------------------------------------------------------------------+
+| PANEL 01 — CLAUSE MAP                                                            |
+| Mark independent, dependent, restrictive and supplementary units before          |
+| punctuating.                                                                     |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 02 — INTRODUCTORY COMMAS                                                   |
+| Separate a substantial opening phrase or clause from the main clause.            |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 03 — COORDINATED CLAUSES                                                   |
+| Use comma plus coordinator, semicolon or full stop rather than a comma           |
+| splice.                                                                          |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 04 — RELATIVE INFORMATION                                                  |
+| Use commas only for removable non-restrictive material.                          |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 05 — LISTS AND CONTRASTS                                                   |
+| Use consistent list punctuation and commas that prevent misreading.              |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 06 — SEMICOLON                                                             |
+| Join closely related independent clauses or separate complex list items.         |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 07 — COLON                                                                 |
+| Introduce an explanation, list or restatement after a complete announcing        |
+| clause.                                                                          |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 08 — DASH AND BRACKETS                                                     |
+| Use sparingly for interruption, emphasis or parenthetical clarification.         |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 09 — APOSTROPHE                                                            |
+| Distinguish possession, contraction and ordinary plural.                         |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 10 — QUOTATION AND TERMINAL MARKS                                          |
+| Preserve direct speech and question/statement status.                            |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 11 — HYPHEN AND ELLIPSIS                                                   |
+| Hyphenate useful compound modifiers; use ellipsis only for omission.             |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 12 — CAPITALISATION AUDIT                                                  |
+| Capitalise proper names and formal titles, not generic importance.               |
++----------------------------------------------------------------------------------+

@@ -1,0 +1,2054 @@
+{
+  "schema_version": 1,
+  "subject": "Science and Technology",
+  "access_date": "2026-09-06",
+  "generated_at": "2026-09-06T07:22:13.329321+00:00",
+  "topic_count": 26,
+  "result": "passed",
+  "policy": {
+    "authoritative_domains_only": true,
+    "minimum_attempts_per_topic": 3,
+    "minimum_substantive_retrievals_per_topic": 1,
+    "failed_intermediates_preserved": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-01",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 8,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://www.inspace.gov.in/inspace",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.inspace.gov.in/inspace",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 165581,
+          "sample_sha256": "085bb4c4263d8e430696e4ad69644926617cbf048f5799b43d226041697df434",
+          "title": "IN-SPACe - Indian National Space Promotion and Authorisation Centre - IN-SPACe",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/ASLV.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/ASLV.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 9562,
+          "sample_sha256": "94c4bb65b769785d2fb5f13ed199d7f2b38e96cde9d10c086048b6ef68ea7ae2",
+          "title": "ASLV",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/GSLV_CON.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/GSLV_CON.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 25220,
+          "sample_sha256": "4b91e5555b1e6e2b7c795e981188a71874700372f609136010defb3bcfbc9104",
+          "title": "Geosynchronous Satellite Launch Vehicle Mark II",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/GSLVmk3_CON.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/GSLVmk3_CON.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 20899,
+          "sample_sha256": "3c70ade21b15b2a3b54bb4582cc7b0e3b7f279462f2768bb25f1db0b739819f2",
+          "title": "LVM3(Geosynchronous Satellite Launch Vehicle Mk III)",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Launchers.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Launchers.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 8245,
+          "sample_sha256": "bb70b082afea54e70b41849ae262722626a27a207a8ca37d7e7a3b894d6ff4b6",
+          "title": "Launchers",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/PSLV_CON.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/PSLV_CON.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 26828,
+          "sample_sha256": "de1d343987d2f21849fb2ce43e8350a4db089b85573a9553587344fd7af27cc5",
+          "title": "PSLV",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/SLV.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/SLV.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 16683,
+          "sample_sha256": "bfc868232279333ab7737b062859e1483937d48138f4fa37f5b8c9b474967f27",
+          "title": "SLV",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/sslv_CON.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/sslv_CON.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 14726,
+          "sample_sha256": "f413335a20d5649992053ab098f91036a4c0ff94dc8bd7eeb65bea0cb421e622",
+          "title": "Small Satellite Launch Vehicle",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-02",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 7,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://gagan.aai.aero/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://gagan.aai.aero/gagan/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 23733,
+          "sample_sha256": "19aa9fd07ce8af3b64e9559e8ee0ab4e047c641427f5fc0224d9af9cf2f43d84",
+          "title": "About GAGAN | GAGAN",
+          "substantive": true
+        },
+        {
+          "url": "https://gagan.aai.aero/gagan/content/dgca-certification",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://gagan.aai.aero/gagan/content/dgca-certification",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "d6971fffdd2a6bc338ea1b069bf759c71c9c831b71bb9f2bc8f367eacdcf19b9",
+          "title": "DGCA Certification | GAGAN",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2244977",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.isro.gov.in/Atmanirbhar/L1_band_Navigation_Payload.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Atmanirbhar/L1_band_Navigation_Payload.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 6096,
+          "sample_sha256": "46e6e484e15fbeaefd5af82ddb924b1f97d70c385c3ec1a3d1a3c0ef0e1c3bd7",
+          "title": "L1-band Frame structure in Navigation Payload",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/IRNSS_Programme.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/IRNSS_Programme.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 23746,
+          "sample_sha256": "d70f5588af7de0ea31ac5db11ec47c3428cac8c0993945075a2507e73beefde5",
+          "title": "IRNSS Programme",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/NVS-02-Spacecraft-On-Orbit-Observations.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/NVS-02-Spacecraft-On-Orbit-Observations.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 4754,
+          "sample_sha256": "59a5ad0b5bd829b482951270913ad842c7f16a1f13f1f87bf2447cb43b9046dc",
+          "title": "NVS-02 Spacecraft: On-Orbit Observations and Apex Committee Recommendations",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Navigation.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Navigation.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 6590,
+          "sample_sha256": "59c1e16a3cdb6ae0740bf3fc0d9fb03f4faea022810750f06a53a0a0dce65588",
+          "title": "Navigation",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/SatelliteNavigationServices.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/SatelliteNavigationServices.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 22497,
+          "sample_sha256": "007d1fe1f161581d315344ee165cfeec6eb1b4efe2f2654772d19d66949291db",
+          "title": "Satellite Navigation Services",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-03",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 7,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1540066",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.isro.gov.in/Axiom04_mission_successfully_concluded_return_ISRO_Gaganyatri_ShubhanshuShukla.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Axiom04_mission_successfully_concluded_return_ISRO_Gaganyatri_ShubhanshuShukla.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 24471,
+          "sample_sha256": "63c7d38616b4c7fb60e760fcda74d1aca3c3581e80929e8f301530f5f377a704",
+          "title": "Axiom-4 Mission: A saga of ~12 million kilometers and ~282 orbits aboard ISS",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Chandrayaan-1_science.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Chandrayaan-1_science.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 44022,
+          "sample_sha256": "b6652f692d27c18ad681c9243e63663222b443c230de4878b3b63d83d7f4e516",
+          "title": "Chandrayaan-1_Science",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Gaganyaan.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Gaganyaan.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 16365,
+          "sample_sha256": "b9da9728fbcb88271bf8c2742532450e5047736d587ef2c5f66e3ad961de614e",
+          "title": "Gaganyaan",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/ISRO_EN/Successful_Launch_of_Axiom_Mission.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/ISRO_EN/Successful_Launch_of_Axiom_Mission.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 63291,
+          "sample_sha256": "df1539e6d1a798dcccd927ed7d4613eb48d38d9016d7796472bf2c7b7dbe3d12",
+          "title": "Successful Launch of Axiom Mission 4 (Ax-04) with Indian Astronaut and Ax-04 Mission Pilot Shubhanshu Shukla Onboard SpaceX's Dragon Crew Module",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/ISRO_conducts_Second_Integrated_Air_Drop_Test_for_Gaganyaan.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/ISRO_conducts_Second_Integrated_Air_Drop_Test_for_Gaganyaan.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 7772,
+          "sample_sha256": "6c29103eabbf3085784351b2a827979fd09cc17e85908e1f79f93b69e262879b",
+          "title": "ISRO conducts Second Integrated Air Drop Test (IADT-02) for Gaganyaan",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Integrated_Air_Drop_Test_for_Gaganyaan_Missions.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Integrated_Air_Drop_Test_for_Gaganyaan_Missions.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 12226,
+          "sample_sha256": "66859713788f76920b7332a98051040517afc1618dc2a9bd97835a1fad42ebf4",
+          "title": "ISRO accomplishes first Integrated Air Drop Test for Gaganyaan Missions successfully",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Integrated_Main_Parachute_Air_Drop_Test.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Integrated_Main_Parachute_Air_Drop_Test.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 10880,
+          "sample_sha256": "5ee857e5fc76bb5804595547e6b0d0545d3a6d3a6efa0835d9dd2ffa08ace56a",
+          "title": "ISRO successfully conducts Integrated Main Parachute Air Drop Test (IMAT) for Gaganyaan Programme",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-04",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://bhavini.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://bhavini.nic.in/hi",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 82830,
+          "sample_sha256": "db9441e694f4eb7bba816abe1a0eb16a58ad55ef1fe9801fceb5779c77959388",
+          "title": "मुखपृष्ठ | भाविनि",
+          "substantive": true
+        },
+        {
+          "url": "https://dae.gov.in/acts-rules/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dae.gov.in/acts-rules/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 120456,
+          "sample_sha256": "18dfa0229165b7a0666ae131b34a088aa11a539816351312cceaf20bc066a9ef",
+          "title": "Acts & Rules | Department Of Atomic Energy | India",
+          "substantive": true
+        },
+        {
+          "url": "https://dae.gov.in/faqs-version-2-0-on-clnd-act-2010/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dae.gov.in/faqs-version-2-0-on-clnd-act-2010/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 141310,
+          "sample_sha256": "4fb0af4a6f2c6150621747ef9102a913887aac25bd86677f23a82e3c5795ceff",
+          "title": "FAQs Version 2.0 on CLND Act 2010 | Department Of Atomic Energy | India",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056992",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2087501",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2249783&reg=3&lang=1",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.barc.gov.in/randd/artnp.html",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.barc.gov.in/randd/artnp.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 41709,
+          "sample_sha256": "be54b2699e0cca4e5a0bdcbafba95fc2a023853fc6116a0cf266631212fd48f8",
+          "title": "BARC activities for Indian Nuclear Power Program",
+          "substantive": true
+        },
+        {
+          "url": "https://www.npcil.nic.in/content/328_1_AboutNPCIL.aspx",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.npcil.nic.in/content/328_1_AboutNPCIL.aspx",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 78089,
+          "sample_sha256": "7b8074944780a8d74529b84586eff7b0acf3308540ad0841408b3df5b0a1aaf2",
+          "title": "Home:Nuclear Power Corporation of India Limited",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-05",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 8,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://www.iter.org/few-lines",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/few-lines",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 141045,
+          "sample_sha256": "cdf2d2d13d88793270286bf93d5319c64487267bff060e4b5ca89580741c86ed",
+          "title": "ITER: International Thermonuclear Experimental Reactor",
+          "substantive": true
+        },
+        {
+          "url": "https://www.iter.org/fusion-energy/after-iter",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/fusion-energy/after-iter",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 126595,
+          "sample_sha256": "1562e2e30049c87114ff4e26d4d576f163a86a3335ad23fee1b090e2cc813779",
+          "title": "After ITER",
+          "substantive": true
+        },
+        {
+          "url": "https://www.iter.org/fusion-energy/what-will-iter-do",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/fusion-energy/what-will-iter-do",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 131068,
+          "sample_sha256": "cc2b9ac7e277b1f7f066cc4586334286343cc8af4d708d95cb1638690661d075",
+          "title": "What will ITER do?",
+          "substantive": true
+        },
+        {
+          "url": "https://www.iter.org/node/20687/indias-contributions-iter",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/node/20687/indias-contributions-iter",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 114659,
+          "sample_sha256": "c77e31f9a0751f202d29de54dc89413c837251b2dc1573209cc05bc963710731",
+          "title": "India’s contributions to ITER",
+          "substantive": true
+        },
+        {
+          "url": "https://www.iter.org/node/20687/new-baseline-prioritize-robust-start-exploitation",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/node/20687/new-baseline-prioritize-robust-start-exploitation",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 108663,
+          "sample_sha256": "4dd3165690a1f7253fcedc7602d006682c2a3f3946c8df2408b11fbe6cdf995c",
+          "title": "New baseline to prioritize robust start to exploitation",
+          "substantive": true
+        },
+        {
+          "url": "https://www.iter.org/node/20687/updated-baseline-presented",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/node/20687/updated-baseline-presented",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 126914,
+          "sample_sha256": "408363ec1feb41c83dbc20e07e2f73e8d3e5d9db9df363f3693e8de09aad4abe",
+          "title": "Updated baseline presented",
+          "substantive": true
+        },
+        {
+          "url": "https://www.iter.org/sci/whatisfusion",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/fusion-energy/what-fusion",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 122125,
+          "sample_sha256": "c0d7504bc837d7f869edc91051f5917f31796969f25fcbd16e8c00e7086a5211",
+          "title": "What is Fusion?",
+          "substantive": true
+        },
+        {
+          "url": "https://www.iter.org/sites/default/files/media/2025-06/ic-36_press_release_final2.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.iter.org/sites/default/files/media/2025-06/ic-36_press_release_final2.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "a66817b9a407ea78eece60ca01931ec39c728f5824f6b74be3eeff520963d279",
+          "title": null,
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-06",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://drdo.gov.in/drdo/en/offerings/products/akash",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://drdo.gov.in/drdo/en/offerings/products/akash",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 278947,
+          "sample_sha256": "ba48b36d0b17703b79c37bea5e36a3dfc2ab1f3f305d9b694fd04dfb67457d2c",
+          "title": "Akash | Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://drdo.gov.in/drdo/en/offerings/products/brahmos",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://drdo.gov.in/drdo/en/offerings/products/brahmos",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 278692,
+          "sample_sha256": "52ce65bcde4261cc6b4ad3d22bfcb6528dbe689bba5df40e32229cf4cfaba7b9",
+          "title": "BrahMos | Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://drdo.gov.in/drdo/en/offerings/products/guided-pinaka-rocket-system",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://drdo.gov.in/drdo/en/offerings/products/guided-pinaka-rocket-system",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 278810,
+          "sample_sha256": "c7cb0f5e0381bbcb23f198a0161fda3eceea39a109d88f8171ee43008fb0783e",
+          "title": "Guided Pinaka Rocket System | Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://drdo.gov.in/drdo/en/organisation/about-drdo",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://drdo.gov.in/drdo/en/organisation/about-drdo",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 280362,
+          "sample_sha256": "ae79d005a52ce5a51aecc1e396f7a09aea7e8de047dfc50ba6ef383793d7f611",
+          "title": "About DRDO | Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://drdo.gov.in/drdo/en/organisation/technology-cluster/missiles-and-strategic-systems",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://drdo.gov.in/drdo/en/organisation/technology-cluster/missiles-and-strategic-systems",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 284323,
+          "sample_sha256": "b9667593b89c7c9ea359b26fc027b97ebae074d63492ddbbe061a55631e72773",
+          "title": "Missiles and Strategic Systems | Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2013549",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170979",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209588",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-07",
+      "access_date": "2026-09-06",
+      "attempted": 4,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://srijandefence.gov.in/DashboardForPublic",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://srijandefence.gov.in/DashboardForPublic",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 121989,
+          "sample_sha256": "b9f15141ba97f29d8ceb9271786b3c59f0ad7b6642c8a5874322b41466059be3",
+          "title": "Home : ProductList | Srijan Defence | MOD | Government Of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.ddpmod.gov.in/node/355",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.ddpmod.gov.in/hi/node/355",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 292325,
+          "sample_sha256": "7c0074814575298551e330dd056baa6f7634ab36eb9ad1bd33052c5fe97d700a",
+          "title": "रक्षा अर्जन प्रक्रिया 2020 | डीडीपी",
+          "substantive": true
+        },
+        {
+          "url": "https://www.ddpmod.gov.in/resources/products",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.ddpmod.gov.in/hi/resources/products",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 324583,
+          "sample_sha256": "0ad8eaa1a3a58484837b6c22696e4dd248e654186fd60014b10ed4b1a23a5d9c",
+          "title": "उत्पाद | डीडीपी",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2114546",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-08",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://uidai.gov.in/aadhaar_dashboard/aadhaar_dashboard_Authentication_json/AllAuth_MonthWise.csv",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://uidai.gov.in/en/about-uidai/unique-identification-authority-of-india.html",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 263860,
+          "sample_sha256": "f0f48fd0f5b5c4968c0077ac8ccff5ac09b44473774743d1e9f812628a71bcca",
+          "title": "National Program on Artificial Intelligence - Digital India | Leading the transformation in India for ease of living and digital economy | MeitY, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.npci.org.in/what-we-do/upi/product-overview",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.npci.org.in/what-we-do/upi/product-overview",
+          "content_type": "text/html",
+          "bytes_sampled": 12487,
+          "sample_sha256": "486e9729ce3cd0dc54dd5a43855b7ea8c93519213f372cefcef2017151fe34e6",
+          "title": "National Payments Corporation of India (NPCI) - Enabling digital payments in India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2187686",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2129121",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2162403",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10598",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10598",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 194687,
+          "sample_sha256": "9d0b84d9b0c9961d38778fdaed95e0832d2241215c08b8cc63ed20dd404139cb",
+          "title": "Master Directions - Reserve Bank of India",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-09",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://impact.indiaai.gov.in",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://impact.indiaai.gov.in",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 398401,
+          "sample_sha256": "65052109c446bc3d85d225250763af71a5846f6cb8c5a0d9352508ada3f27f8f",
+          "title": "India AI Impact Summit 2026",
+          "substantive": true
+        },
+        {
+          "url": "https://indiaai.gov.in/article/report-on-ai-governance-guidelines-development",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://indiaai.gov.in/article/report-on-ai-governance-guidelines-development",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "0d9d91101c09b76f25b53abecb1bc117613a972040b8450ac0e49f5052382877",
+          "title": "Report on AI governance guidelines development",
+          "substantive": true
+        },
+        {
+          "url": "https://indiaai.gov.in/article/union-minister-of-electronics-it-railways-and-i-b-announces-the-availability-of-18-000-affordable-ai-compute-units",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://indiaai.gov.in/article/union-minister-of-electronics-it-railways-and-i-b-announces-the-availability-of-18-000-affordable-ai-compute-units",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "a12a84dca3757a1be48d113e0cde3ab3caa318b64b07081dd1223ff690af3f5f",
+          "title": "Union Minister of Electronics &amp; IT, Railways, and I&amp;B announces the availability of 18,000+ affordable AI compute units",
+          "substantive": true
+        },
+        {
+          "url": "https://oecd.ai/en/ai-principles",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://oecd.ai/en/ai-principles",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 135960,
+          "sample_sha256": "1b055c08ff8148bdab44ccd4431bbda57898a05816a5a0ecddd13220e149548d",
+          "title": "AI Principles Overview - OECD.AI",
+          "substantive": true
+        },
+        {
+          "url": "https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 263860,
+          "sample_sha256": "f0f48fd0f5b5c4968c0077ac8ccff5ac09b44473774743d1e9f812628a71bcca",
+          "title": "National Program on Artificial Intelligence - Digital India | Leading the transformation in India for ease of living and digital economy | MeitY, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.digitalindia.gov.in/press_release/meity-unveils-india-ai-governance-guidelines-under-indiaai-mission-to-ensure-safe-inclusive-and-responsible-adoption-of-artificial-intelligence-across-sectors/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.digitalindia.gov.in/press_release/meity-unveils-india-ai-governance-guidelines-under-indiaai-mission-to-ensure-safe-inclusive-and-responsible-adoption-of-artificial-intelligence-across-sectors/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 261748,
+          "sample_sha256": "a88032dbba661bb16c2f5d8fcc6573076f0c9340134d9d7aed32cf070ea788b3",
+          "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors - Digital India | Leading the transformation in India for ease of living and digital economy | MeitY, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2012375",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2086605",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-10",
+      "access_date": "2026-09-06",
+      "attempted": 6,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://dst.gov.in/national-quantum-mission-nqm",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/national-quantum-mission-nqm",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 66283,
+          "sample_sha256": "df443ed3c415c00e75cf140d614001de6cb955fc384373fa945a1c338bfd6f26",
+          "title": "National Quantum Mission (NQM) | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://dst.gov.in/nqm-landmark-t-hubs-announced-lead-indias-quantum-revolution",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/nqm-landmark-t-hubs-announced-lead-indias-quantum-revolution",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 59070,
+          "sample_sha256": "a31b977545e1af835a691533ef2ba31a88b2faa57fd30a64f3e8455f71e0319c",
+          "title": "NQM Landmark: T-Hubs announced to Lead India's Quantum Revolution | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://www.itu.int/en/ITU-T/techwatch/Pages/quantum-information-technology.aspx",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.nist.gov/quantum-information-science",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.nist.gov/quantum-information-science",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 102592,
+          "sample_sha256": "e1471ce7930cfce39a27b855e6fa8570caeb7311cc6ae5d80a5660ef2cf85584",
+          "title": "Quantum information science | NIST",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1917888",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2150820",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-11",
+      "access_date": "2026-09-06",
+      "attempted": 7,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cdac.in/index.aspx?id=tenders_viewpdf&dynamicId=NjA4MzM1OTA=",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cdac.in/index.aspx?id=tenders_viewpdf&dynamicId=NjA4MzM1OTA=",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "062bd59a3d82c6d9089d262d52b74be717815d8ad3367590e1f3308d9ac73cbf",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://ism.gov.in/notifications/press-release",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ism.gov.in/notifications/press-release",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 96935,
+          "sample_sha256": "5c82c70b6ebbc20f78bba868dc8c2aa3b1ee108bc714aabe1e4839e7877e024a",
+          "title": "Press Release | ISM",
+          "substantive": true
+        },
+        {
+          "url": "https://ism.gov.in/schemes/semicon1.0/compound-and-atmp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ism.gov.in/schemes/semicon1.0/compound-and-atmp",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 57803,
+          "sample_sha256": "dde0824ba2bd3b3bfa1d6982861e191ef2d873ab74cffb1bd97ed2c9ba31a711",
+          "title": "Compound Semiconductor & ATMP | India Semiconductor Mission",
+          "substantive": true
+        },
+        {
+          "url": "https://ism.gov.in/schemes/semicon1.0/semiconductor-fab",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ism.gov.in/schemes/semicon1.0/semiconductor-fab",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 56255,
+          "sample_sha256": "ae8c44587c79c26541cf6c3c4f9b7c92feb19aefd479e175cea956da661dbd5f",
+          "title": "Semiconductor Fab | India Semiconductor Mission",
+          "substantive": true
+        },
+        {
+          "url": "https://ism.gov.in/schemes/semicon2.0/index",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ism.gov.in/schemes/semicon2.0/index",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 97131,
+          "sample_sha256": "d9a86a09e75329f1a5b15c234b3511e2c07cfcbf443990020831e181eaedf38c",
+          "title": "Semicon 2.0 | India Semiconductor Mission",
+          "substantive": true
+        },
+        {
+          "url": "https://ism.gov.in/semicon-india-2026",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ism.gov.in/semicon-india-2026",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 192907,
+          "sample_sha256": "c90b78282677755826867e6924e1b4ee20511f8750462ccc3c2acfe663651796",
+          "title": "SEMICON India 2026 | ISM",
+          "substantive": true
+        },
+        {
+          "url": "https://www.meity.gov.in/esdm/pli/",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-12",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://nciipc.gov.in/about_us.html",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>",
+          "substantive": false
+        },
+        {
+          "url": "https://www.cert-in.org.in/Directions70B.jsp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.cert-in.org.in/Directions70B.jsp",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 68206,
+          "sample_sha256": "ae4422410a8d5dfd5e15cb87012b98467d17cecbb656233814825f99b0f6d1c2",
+          "title": "Cert-In - Directions70B",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cert-in.org.in/guidelinesgovtentities.jsp",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.cert-in.org.in/guidelinesgovtentities.jsp",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 67029,
+          "sample_sha256": "50425b2b8ad6ac270ace304ac8e7efe3b15adf48cc2eae7f702ebfcb457dc618",
+          "title": "Cert-In - GuidelineGovt",
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/ViewFileUploaded?path=AC_CEN_45_0_00003_2023-22_1763464807080/rulesindividualfile/&file=dpdprules2025.pdf",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/22037/1/a2023-22.pdf",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.meity.gov.in/static/uploads/2025/11/cc217843dc3bcb37b2b05bcc3b4e031f.pdf",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-13",
+      "access_date": "2026-09-06",
+      "attempted": 6,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://birac.nic.in/biomanufacturing.php",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://birac.nic.in/biomanufacturing.php",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 49166,
+          "sample_sha256": "eae308fb0ba54d9e5e8bdfbb94a49d1f967ca9112d30bc3bd59b4762ca88e952",
+          "title": "BIRAC-Biomanufacturing Initiative",
+          "substantive": true
+        },
+        {
+          "url": "https://birac.nic.in/desc_new.php?id=89",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://birac.nic.in/desc_new.php?id=89",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 40767,
+          "sample_sha256": "919fceee9d105fa4b392a2af739b570438c123c0e1fba98c691e93e884f3271c",
+          "title": "BIRAC-New",
+          "substantive": true
+        },
+        {
+          "url": "https://bmi.dbt.gov.in/biomanufacturing-initiative.php",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://bmi.dbt.gov.in/biomanufacturing-initiative.php",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 51903,
+          "sample_sha256": "14f3404cacf5d45772d6a8cb8647e3ef73d2bf0df5b40698bf56e4016f8e2835",
+          "title": "BioE3 Policy: Accelerating Sustainable Biomanufacturing Initiatives and Bioeconomy Growth in Delhi, India",
+          "substantive": true
+        },
+        {
+          "url": "https://dbt.gov.in/data-view?name=press-release",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dbt.gov.in/data-view?name=press-release",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 50059,
+          "sample_sha256": "9f779c8b4a015ea536df966fbec0307f75e70c9a70c2d815048982f8f9c2861b",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.birac.nic.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.birac.nic.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 123265,
+          "sample_sha256": "0175d2fb1a86c875bfe2b10c65f52f5b8163c82d5f4637d48e1831f523b1d23d",
+          "title": "BIRAC-Home",
+          "substantive": true
+        },
+        {
+          "url": "https://www.birac.nic.in/biomanufacturing.php",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.birac.nic.in/biomanufacturing.php",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 49166,
+          "sample_sha256": "2edce5948e4183ec206489ab1e50573c57c55c327dc376c6bf8b3d9cc314b44b",
+          "title": "BIRAC-Biomanufacturing Initiative",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-14",
+      "access_date": "2026-09-06",
+      "attempted": 6,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "http://geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20260417162625.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "http://geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20260417162625.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 158122,
+          "sample_sha256": "81b96de204144d50ca790d22a547da27515b5e47b9b9b6a854c9381877c4cc45",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "http://geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20260727174712.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "http://geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20260727174712.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 289349,
+          "sample_sha256": "dcb05d43381fa83759772530d4a52cf142001ebb615a94fd9ce04be49443f0fb",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "http://www.geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20221025200345.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "http://www.geacindia.gov.in/Uploads/MoMPublished/MoMPublishedOn20221025200345.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 372988,
+          "sample_sha256": "499ecdbb73ff8e163520847dd2565924389d2c060d024c4acab29c213f2a8e07",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "http://www.geacindia.gov.in/about-geac-india.aspx",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "http://www.geacindia.gov.in/about-geac-india.aspx",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 15350,
+          "sample_sha256": "abc03f9b7bd40710e2906bb5630c0881057133f2e312f5278c20c9a81d965d93",
+          "title": "GEAC",
+          "substantive": true
+        },
+        {
+          "url": "http://www.geacindia.gov.in/approved-products.aspx",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "http://www.geacindia.gov.in/approved-products.aspx",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 26675,
+          "sample_sha256": "8f0250c9fab4c57250cd9425cd33412c8d89214b13ba2e811ecc7ac723655500",
+          "title": "GEAC",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=57727",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-15",
+      "access_date": "2026-09-06",
+      "attempted": 6,
+      "substantive_retrievals": 5,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://birac.nic.in/cfp_view.php?id=67&scheme_type=37",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://birac.nic.in/cfp_view.php?id=67&scheme_type=37",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 48067,
+          "sample_sha256": "3066dceaacab69630577149a52fb8fba89aec31e779878fe036670bfb63e73a0",
+          "title": "BIRAC-Call For Proposal",
+          "substantive": true
+        },
+        {
+          "url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/biologicals/Regulatory_guidelines_for__development_of_Vaccine.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/biologicals/Regulatory_guidelines_for__development_of_Vaccine.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "f422a51da542e90bf516275c7a993b6ed6ebaea349d504c51048216b2b828ce9",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://cdsco.gov.in/opencms/opencms/en/Acts-and-rules/New-Drugs/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cdsco.gov.in/opencms/opencms/en/Acts-and-rules/New-Drugs/",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 61608,
+          "sample_sha256": "6a922ffdd13ec925437c0d9859fcb8993b47a3e9bec405460f67530c5e91b6ed",
+          "title": "Circulars",
+          "substantive": true
+        },
+        {
+          "url": "https://cdsco.gov.in/opencms/opencms/en/biologicals/Vaccines/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cdsco.gov.in/opencms/opencms/en/biologicals/Vaccines/",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 180208,
+          "sample_sha256": "00cee2785c32ede621d32eccdbd8b945d856d911239f27e8a527d4fb08142f59",
+          "title": "Vaccines",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2017169",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.icmr.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.icmr.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 177338,
+          "sample_sha256": "42fb52d34e4feb192b737b3c417b7fb052a255e30e08f5c43ed1f689be21f700",
+          "title": "Home | Indian Council of Medical Research | Government of India",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-16",
+      "access_date": "2026-09-06",
+      "attempted": 4,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://dst.gov.in/callforproposals/call-proposals-advanced-materials-under-npnst",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/callforproposals/call-proposals-advanced-materials-under-npnst",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 55037,
+          "sample_sha256": "ca75787aa653791b1c3cc5d7abbfe416a49606e8c0f9e70e33bef39622c467e6",
+          "title": "Call of Proposals on Advanced Materials under NPNST | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://dst.gov.in/scientific-programmes/mission-nano-science-and-technology-nano-mission",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/scientific-programmes/mission-nano-science-and-technology-nano-mission",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 63497,
+          "sample_sha256": "e64b4afa09ad269a0c435965b4b13bdf9a52ff269aca533c40f23749a3385d85",
+          "title": "National Programme on Nano Science and Technology (Earlier Nano Mission) | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2115965",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.csir.res.in/en/csir-labs-unit",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.csir.res.in/en/csir-labs-unit",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 126159,
+          "sample_sha256": "8fb52a8f832ebf6f812a1ba2a2d97c729cdd2f42464fe3f9a313296844fac037",
+          "title": "CSIR Laboratories/Institutes | Council of Scientific &amp; Industrial Research",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-17",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 8,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ipindia.gov.in/basics-of-trademarks",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ipindia.gov.in/basics-of-trademarks",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 147445,
+          "sample_sha256": "4450b78475894e9e63e5bc763d30aee0a33666ae1b3c5f83eeb1f2361675f3fd",
+          "title": "Basics of Trademarks",
+          "substantive": true
+        },
+        {
+          "url": "https://ipindia.gov.in/gi-filing-process-step-by-step",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ipindia.gov.in/gi-filing-process-step-by-step",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 158218,
+          "sample_sha256": "28d34d4a1ca4d651eb2db20e90ca87ed03570ee469cf74a7b79ddba9d70aebb5",
+          "title": "Filing Process (Step-by-Step)",
+          "substantive": true
+        },
+        {
+          "url": "https://ipindia.gov.in/gi-introduction",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ipindia.gov.in/gi-introduction",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 147674,
+          "sample_sha256": "526bb2fa7a99d0bf3223b53abc4102441ff200eda87ba7d8b34283444fa3b1cc",
+          "title": "Geographical Indications: An Introduction",
+          "substantive": true
+        },
+        {
+          "url": "https://ipindia.gov.in/pages/patents/chapter",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ipindia.gov.in/pages/patents/chapter",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 313726,
+          "sample_sha256": "09a858ed27bb7744ea6f520c0a3d1626d5699e6378f50c581900920e873a56ae",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://ipindia.gov.in/storage/uploads/docs-operator/17e7b633-4b6f-4737-9408-8c8fe72c9cfc.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://ipindia.gov.in/storage/uploads/docs-operator/17e7b633-4b6f-4737-9408-8c8fe72c9cfc.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "e88ca17f41903e47d8b396b64c9e79ef8c50d965b56efd1c118d82bd7a18e7da",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://ipindia.gov.in/storage/uploads/docs-operator/73b5bf10-b04e-4f45-abef-87ff117315dc.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://ipindia.gov.in/storage/uploads/docs-operator/73b5bf10-b04e-4f45-abef-87ff117315dc.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "4397dce7d24ccb52f06c14c104977e7e0f4d420242badc668a87e5583dfdb782",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.wipo.int/en/web/pct-system/pct-contracting-states",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.wipo.int/en/web/pct-system/pct-contracting-states",
+          "content_type": "text/html;charset=UTF-8",
+          "bytes_sampled": 104727,
+          "sample_sha256": "9a50ce8295f8a4afe9f82c425c5b8e2fa37167cb68cb761c264be896ec588f0a",
+          "title": "The PCT now has 159 Contracting States",
+          "substantive": true
+        },
+        {
+          "url": "https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html",
+          "content_type": "text/html",
+          "bytes_sampled": 133717,
+          "sample_sha256": "86dd83b12005e456c9cba4f7d332cd7241ab03348b5e3cda4885b243e82cd1d3",
+          "title": "Global Innovation Index 2025 - GII 2025 results",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-18",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://heavyindustries.gov.in/en/pli-scheme-for-national-programme-on-advanced-chemistry-cell-acc-battery-storage",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://heavyindustries.gov.in/en/pli-scheme-for-national-programme-on-advanced-chemistry-cell-acc-battery-storage",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 65726,
+          "sample_sha256": "77b1f7df50c6e29598502a17428aed47425676deadd9f04153962f1358f7e1e6",
+          "title": "PLI Scheme for National Programme on Advanced Chemistry Cell (Acc) Battery Storage | Ministry of Heavy Industries",
+          "substantive": true
+        },
+        {
+          "url": "https://heavyindustries.gov.in/sites/default/files/2026-07/lsauq_1406.pdf",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://heavyindustries.gov.in/sites/default/files/2026-07/lsauq_1406.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 248663,
+          "sample_sha256": "320be19990dba0aac344b688cd08ee82119c910990ad2f53d142077ac24136af",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://mnre.gov.in/en/national-green-hydrogen-mission/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://mnre.gov.in/en/national-green-hydrogen-mission/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 118376,
+          "sample_sha256": "0974b0f705269ff357bf09f9b152f145a36fe726121a708ba0c1087bac630426",
+          "title": "National Green Hydrogen Mission | MINISTRY OF NEW AND RENEWABLE ENERGY | India",
+          "substantive": true
+        },
+        {
+          "url": "https://mnre.gov.in/en/notice/scheme-guidelines-for-implementation-of-pilot-projects-for-use-of-hydrogen-in-the-transport-sector-under-the-national-green-hydrogen-mission-nghm/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://mnre.gov.in/en/notice/scheme-guidelines-for-implementation-of-pilot-projects-for-use-of-hydrogen-in-the-transport-sector-under-the-national-green-hydrogen-mission-nghm/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 108216,
+          "sample_sha256": "dc234e210b76581f92bd9b726fe4229afd447a67c802e3c82ea4efb357f12d75",
+          "title": "Scheme Guidelines for implementation of Pilot projects for use of Green Hydrogen in the Transport Sector under the National Green Hydrogen Mission (NGHM) | MINISTRY OF NEW AND RENEWABLE ENERGY | India",
+          "substantive": true
+        },
+        {
+          "url": "https://pmedrive.heavyindustries.gov.in/",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1007)>",
+          "substantive": false
+        },
+        {
+          "url": "https://pmedrive.heavyindustries.gov.in/docs/policy_document/2026-03-27%20e-rickshaw%20%26%20e-2w%20extension%20notification.pdf",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1007)>",
+          "substantive": false
+        },
+        {
+          "url": "https://pmedrive.heavyindustries.gov.in/docs/policy_document/257594.pdf",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1007)>",
+          "substantive": false
+        },
+        {
+          "url": "https://pmedrive.heavyindustries.gov.in/docs/policy_document/Extension%20of%20Scheme%20till%2031%2003%202028%20dated%2007%2008%202025.pdf",
+          "outcome": "transport_error",
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1007)>",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-19",
+      "access_date": "2026-09-06",
+      "attempted": 6,
+      "substantive_retrievals": 2,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://digitalsky.aai.aero/faq",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://digitalsky.aai.aero/faq",
+          "content_type": "text/html",
+          "bytes_sampled": 9764,
+          "sample_sha256": "7811aae41a473fdee3707fb2326e0cbc2c50a89586183c2a8f6b035da62f7296",
+          "title": "Welcome to DigitalSky",
+          "substantive": true
+        },
+        {
+          "url": "https://digitalsky.dgca.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://digitalsky.aai.aero/",
+          "content_type": "text/html",
+          "bytes_sampled": 9764,
+          "sample_sha256": "7811aae41a473fdee3707fb2326e0cbc2c50a89586183c2a8f6b035da62f7296",
+          "title": "Welcome to DigitalSky",
+          "substantive": true
+        },
+        {
+          "url": "https://pib.gov.in/PressNoteDetails.aspx?NoteId=153383",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.civilaviation.gov.in/ministry-documents/notifications/pli-scheme-drones-and-drone-components-0",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.civilaviation.gov.in/ministry-documents/rules/drones-rules-2021-dated-25-august-2021",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.civilaviation.gov.in/sites/default/files/2024-04/Drone%20%28Amendment%29%20Rules%2C%202023.pdf",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-20",
+      "access_date": "2026-09-06",
+      "attempted": 7,
+      "substantive_retrievals": 4,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "http://kabilindia.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "http://kabilindia.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 52612,
+          "sample_sha256": "1d5836f0ee0c7b076c77559649b7ecbc151bc04ffa4e433aaf47c580b1a84ac2",
+          "title": "Khanij Bidesh India Ltd. | KABIL India - Joint Venture for Critical Minerals",
+          "substantive": true
+        },
+        {
+          "url": "https://mines.gov.in/admin/download/649d4212cceb01688027666.pdf",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://mines.gov.in/admin/download/649d4212cceb01688027666.pdf",
+          "content_type": "application/pdf",
+          "bytes_sampled": 524288,
+          "sample_sha256": "271179965a82345fc6b2870c7f033c3de7f45ddcc8ea4aecf45559eeb274731b",
+          "title": null,
+          "substantive": true
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/1421/1/A1957-67.pdf",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.kabilindia.in/updates/kabil-achievement",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.kabilindia.in/updates/kabil-achievement",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 48541,
+          "sample_sha256": "c01a6b13316a26f23c794735ea6c17c9a2df1f9eb0fe8965e36eb7a36e666dd2",
+          "title": "New Achievements/Ventures of KABIL",
+          "substantive": true
+        },
+        {
+          "url": "https://www.kabilindia.in/updates/recent-updates",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.kabilindia.in/updates/recent-updates",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 38966,
+          "sample_sha256": "82678906ad4056ec46527ea0de9afbdda917e3383a24c877240b9db26569237f",
+          "title": "Recent Updates – KABIL INDIA",
+          "substantive": true
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2097308",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2112232",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-21",
+      "access_date": "2026-09-06",
+      "attempted": 7,
+      "substantive_retrievals": 7,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://ism.gov.in/schemes/semicon2.0/index",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ism.gov.in/schemes/semicon2.0/index",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 97131,
+          "sample_sha256": "fffa5f9bc8c9bd323cf5249461c30064faf2f33f50fc87d6300196d314316d87",
+          "title": "Semicon 2.0 | India Semiconductor Mission",
+          "substantive": true
+        },
+        {
+          "url": "https://ism.gov.in/semicon-india-2026",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://ism.gov.in/semicon-india-2026",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 192907,
+          "sample_sha256": "73feceafd8567b3b6d8638d8487071ed55efb81b79c71c42c23ebec349b1795d",
+          "title": "SEMICON India 2026 | ISM",
+          "substantive": true
+        },
+        {
+          "url": "https://www.barc.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.barc.gov.in/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 50580,
+          "sample_sha256": "980366d3f6a49b88a7f7c73059f2c74a8622d30265f8ccfb2265c4bc07c5cde3",
+          "title": "Bhabha Atomic Research Centre ( BARC ), Department of Atomic Energy,Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.isro.gov.in/Launchers.html",
+          "outcome": "retrieved",
+          "http_status": 206,
+          "final_url": "https://www.isro.gov.in/Launchers.html",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 8245,
+          "sample_sha256": "bb70b082afea54e70b41849ae262722626a27a207a8ca37d7e7a3b894d6ff4b6",
+          "title": "Launchers",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/physics/2023/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/physics/2023/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 177390,
+          "sample_sha256": "8858d940b8a2f51efe4333066439359eb74bc3d40ec21dc4287da4e90b047924",
+          "title": "Press release: The Nobel Prize in Physics 2023 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/physics/2024/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/physics/2024/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 176621,
+          "sample_sha256": "d6ae6a8b2b109aafd6de8308584d8219c69e79bff61256efc8fb436b487ff031",
+          "title": "Press release: The Nobel Prize in Physics 2024 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/physics/2025/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/physics/2025/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 178189,
+          "sample_sha256": "cbc843fdadb2a720366d8f81b1ea71758bb606d574b428ab5d35aa5a0768e00a",
+          "title": "Press release: Nobel Prize in Physics 2025 - NobelPrize.org",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-22",
+      "access_date": "2026-09-06",
+      "attempted": 5,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://mnre.gov.in/en/national-green-hydrogen-mission/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://mnre.gov.in/en/national-green-hydrogen-mission/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 118376,
+          "sample_sha256": "0974b0f705269ff357bf09f9b152f145a36fe726121a708ba0c1087bac630426",
+          "title": "National Green Hydrogen Mission | MINISTRY OF NEW AND RENEWABLE ENERGY | India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 177781,
+          "sample_sha256": "abef9bdfe4726184c8f0c5b5c85529b80eeac5f93d4dd3552c1e3944d27ceda5",
+          "title": "Press release: The Nobel Prize in Chemistry 2024 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 177440,
+          "sample_sha256": "3bbdc0c2a9fec02d4f7e1a10d20d130a401c3d0985f2643b89aab4a718d91831",
+          "title": "Press release: Nobel Prize in Chemistry 2025 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.unep.org/inc-plastic-pollution",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        },
+        {
+          "url": "https://www.unep.org/inc-plastic-pollution/session-5/documents",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-23",
+      "access_date": "2026-09-06",
+      "attempted": 7,
+      "substantive_retrievals": 7,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://www.icmr.gov.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.icmr.gov.in/",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 177338,
+          "sample_sha256": "c58e67eab6dd8f31667ad015d9ad89f8d35f06bb0902f3488bdb685e3f8d93a7",
+          "title": "Home | Indian Council of Medical Research | Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/medicine/2024/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/medicine/2024/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 186582,
+          "sample_sha256": "33ef7cfd646778d602dc2b3563bc4c45588c6f2e365f39f4e612e45795e9fad5",
+          "title": "Press release: The Nobel Prize in Physiology or Medicine 2024 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 178366,
+          "sample_sha256": "37019131f5b9c3c280f0924fe3ab9eff120ddfd1f686fa4b6c81594eec1c9e19",
+          "title": "Press release: The Nobel Prize in Physiology or Medicine 2025 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.who.int/india",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/india",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 104567,
+          "sample_sha256": "47bbffdfde36c1bfb06b708a973fa31c5b80f1769eee32633766ac3dae7b250a",
+          "title": "WHO India | World Health Organization",
+          "substantive": true
+        },
+        {
+          "url": "https://www.who.int/news/item/08-10-2024-elimination-of-trachoma-as-a-public-health-problem-in-india",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/news/item/08-10-2024-elimination-of-trachoma-as-a-public-health-problem-in-india",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 111947,
+          "sample_sha256": "29dad754d574590ce062e98af23788a3bcc1c5861f58a888cfc70dc53997d09f",
+          "title": "Elimination of trachoma as a public health problem in India",
+          "substantive": true
+        },
+        {
+          "url": "https://www.who.int/publications/m/item/india-polio-transition-snapshot",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/publications/m/item/india-polio-transition-snapshot",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 91392,
+          "sample_sha256": "0e48c2e977a1d2e5025b1b91ef5fa4342fe18c849675dc1c30e7363d599abe6a",
+          "title": "India Polio Transition Snapshot",
+          "substantive": true
+        },
+        {
+          "url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/immunization-analysis-and-insights/global-monitoring/immunization-coverage/who-unicef-estimates-of-national-immunization-coverage",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/immunization-analysis-and-insights/global-monitoring/immunization-coverage/who-unicef-estimates-of-national-immunization-coverage",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 111134,
+          "sample_sha256": "842e57a640a95841e94a24d89c85916c7da92d565dfc4b082339da1bad2769ac",
+          "title": "Immunization Data &amp; Decision Making unit",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-24",
+      "access_date": "2026-09-06",
+      "attempted": 8,
+      "substantive_retrievals": 8,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://anrf.gov.in/page/english/research_grants",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://anrf.gov.in/page/english/research_grants",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 524288,
+          "sample_sha256": "dc9049970b2948e62eeb3e83beba137c4b7d6dcad8b44fab41ea954fdc9e6ddf",
+          "title": "Home: Anusandhan National Research Foundation, Department of Science & Technology, Government of India",
+          "substantive": true
+        },
+        {
+          "url": "https://dst.gov.in/anusandhan-national-research-foundation-anrf",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/anusandhan-national-research-foundation-anrf",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 56193,
+          "sample_sha256": "5576e74340015146f82ce3b0fcf6884657593fcc8f74ce8466bd2899bea3ac45",
+          "title": "Anusandhan National Research Foundation (ANRF) | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://dst.gov.in/anusandhan-national-research-foundation-launches-first-2-initiatives-pmecrg-and-maha-ev-mission",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/anusandhan-national-research-foundation-launches-first-2-initiatives-pmecrg-and-maha-ev-mission",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 58590,
+          "sample_sha256": "ef550779a99839c3ea0ed79b098e61d860bbdc7e97d9c20c5656c06a5c121b64",
+          "title": "Anusandhan National Research Foundation Launches first 2 initiatives: PMECRG and MAHA-EV Mission | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://dst.gov.in/introduction",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/introduction",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 58379,
+          "sample_sha256": "3af8291a28fd450f1dd7f3e9d1d25024a9514dd970ce1efd2bcb4dacc0eda7d8",
+          "title": "Introduction | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://dst.gov.in/st-system-india/science-and-technology-policy-2013",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://dst.gov.in/st-system-india/science-and-technology-policy-2013",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 54880,
+          "sample_sha256": "40c6eb2a5cdd61b4b1093f25e1f80b6778a9e988b69c06ed99ae583e842f05b4",
+          "title": "Science, Technology and Innovation Policy 2013 | Department Of Science & Technology",
+          "substantive": true
+        },
+        {
+          "url": "https://www.csir.res.in/en/News/Call-for-proposals/Announcements/mission-advancement-high-impact-areas-maha-ev-mission-last",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.csir.res.in/en/News/Call-for-proposals/Announcements/mission-advancement-high-impact-areas-maha-ev-mission-last",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 97391,
+          "sample_sha256": "7e4a025bfc77c98727cef9b7009fc6b844c7f4444990778c2a26991a3939b90a",
+          "title": "Mission for Advancement in High-Impact Areas [MAHA] : EV-Mission [Last Date: 25th Nov 2024] | Council of Scientific &amp; Industrial Research",
+          "substantive": true
+        },
+        {
+          "url": "https://www.csir.res.in/en/about-us/about-csir",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.csir.res.in/en/about-us/about-csir",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 108094,
+          "sample_sha256": "4e0451bc1b5f6bff6ae5ecac21401fe6ab32ffb232e6b555792e3a93ce7421ef",
+          "title": "About CSIR | Council of Scientific &amp; Industrial Research",
+          "substantive": true
+        },
+        {
+          "url": "https://www.csir.res.in/en/csir-labs-unit",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.csir.res.in/en/csir-labs-unit",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 126159,
+          "sample_sha256": "8fb52a8f832ebf6f812a1ba2a2d97c729cdd2f42464fe3f9a313296844fac037",
+          "title": "CSIR Laboratories/Institutes | Council of Scientific &amp; Industrial Research",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-25",
+      "access_date": "2026-09-06",
+      "attempted": 5,
+      "substantive_retrievals": 3,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://cdac.in/index.aspx?id=project_details&projectId=NationalSupercomputingMission(NSM",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://cdac.in/index.aspx?id=application_warning",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 37171,
+          "sample_sha256": "9eb6dc2508da97be2e090fa99ac24b88ea5b507e0e98d6b26de46a9c9a492b30",
+          "title": "Report Problems",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cdac.in/index.aspx?id=about",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.cdac.in/index.aspx?id=about",
+          "content_type": "text/html; charset=utf-8",
+          "bytes_sampled": 49252,
+          "sample_sha256": "73391093a832d23f6c64f73753cb1b28cce181c604f9979085d31bc94c86a417",
+          "title": "About C-DAC",
+          "substantive": true
+        },
+        {
+          "url": "https://www.cert-in.org.in/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.cert-in.org.in/",
+          "content_type": "text/html;charset=ISO-8859-1",
+          "bytes_sampled": 447,
+          "sample_sha256": "056383dd1ceba2678b8cd66facd351e4c6d74229eedf0bdebcba4c459b54272f",
+          "title": "Indian - Computer Emergency Response Team",
+          "substantive": true
+        },
+        {
+          "url": "https://www.itu.int/itu-d/sites/cloud-computing/",
+          "outcome": "http_error",
+          "http_status": 404,
+          "error": "HTTP Error 404: Not Found",
+          "substantive": false
+        },
+        {
+          "url": "https://www.meity.gov.in/content/national-supercomputing-mission",
+          "outcome": "http_error",
+          "http_status": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "substantive": false
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    },
+    {
+      "topic_key": "science-and-technology-26",
+      "access_date": "2026-09-06",
+      "attempted": 6,
+      "substantive_retrievals": 6,
+      "status": "passed",
+      "sources": [
+        {
+          "url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 177440,
+          "sample_sha256": "02e6583e98346eb65943d9be585990336203462e753b5183b02cb281d5c9a1ef",
+          "title": "Press release: Nobel Prize in Chemistry 2025 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/lists/all-nobel-laureates-in-physiology-or-medicine/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/lists/all-nobel-laureates-in-physiology-or-medicine/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 160578,
+          "sample_sha256": "396c99678351113c0ca1aa8969c26fd592de20411b5972830cdc14c5e3a83ae7",
+          "title": "All Nobel Prizes in Physiology or Medicine - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-chemistry/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-chemistry/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 160826,
+          "sample_sha256": "6fdc503eb2c9eb0f4842fdfdefc210c80665dafed9de505fef0e28cfe1ecd5ce",
+          "title": "All Nobel Prizes in Chemistry - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 161745,
+          "sample_sha256": "1b2f6f44bfd5b41033fa860a5ccd0ded854931b6fe6706cb7aeeea19a76a232c",
+          "title": "All Nobel Prizes in Physics - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 178366,
+          "sample_sha256": "2a7ae611ab6e76380b3c10b1b7248b099480150cfbad4f13e7d249bbfab21475",
+          "title": "Press release: The Nobel Prize in Physiology or Medicine 2025 - NobelPrize.org",
+          "substantive": true
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/physics/2025/press-release/",
+          "outcome": "retrieved",
+          "http_status": 200,
+          "final_url": "https://www.nobelprize.org/prizes/physics/2025/press-release/",
+          "content_type": "text/html; charset=UTF-8",
+          "bytes_sampled": 178189,
+          "sample_sha256": "8cb70a9866ce0111e5c34512649ce38982e42f1d2d869e211fbf5a4e1afbf517",
+          "title": "Press release: Nobel Prize in Physics 2025 - NobelPrize.org",
+          "substantive": true
+        }
+      ],
+      "claim_control": "Live retrieval verifies publisher availability and dated source integrity only. No quantitative, programme-status or scientific claim is promoted without matching substantive official text."
+    }
+  ],
+  "failures": []
+}

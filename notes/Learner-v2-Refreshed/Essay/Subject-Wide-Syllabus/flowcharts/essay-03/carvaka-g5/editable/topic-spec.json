@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-03",
+  "subject": "Essay",
+  "title": "ISSUE-BASED PROMPT SCOPING",
+  "short_route": "ISSUE-BASED PROMPT SCOPING: PROMPT → ISSUE-BASED PROMPT SCOPING: CONCEPT → ISSUE-BASED PROMPT SCOPING: DIMENSION → ISSUE-BASED PROMPT SCOPING: DECISION → ISSUE-BASED PROMPT SCOPING: MECHANISM → ISSUE-BASED PROMPT SCOPING: COUNTER-VIEW",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g5 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-03\\g5\\essay-03_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-03-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "d4dead2674130c52ecd554a335897c8878f79c55758b41804a6fd84a3112214f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "A CLEAR AUDITED EXAMPLE — 2024-B5, PRINTED AS \"SOCIA",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "PHENOMENON AND ASSERTS A CAUSAL OR EVALUATIVE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER — HEADINGS, \"CAUSES/EFFECTS/MEASURES TAKEN\" L",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia",
+        "CORE TERMS IN PLAIN LANGUAGE → phenomenon and asserts a causal or evaluative claim",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+        "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia",
+            "CORE TERMS IN PLAIN LANGUAGE → phenomenon and asserts a causal or evaluative claim"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+            "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER — HEADINGS, \"CAUSES/EFFECTS/MEASURES TAKEN\" L",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSING OUT' AMONGST THE YOUTH PRECIPITATING DEPRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+        "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress",
+        "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a",
+        "EXAM FACTS / SOURCE BASIS — 3 → unmetaphorical issue-statement; the remaining 15 pro",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+            "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a",
+            "EXAM FACTS / SOURCE BASIS — 3 → unmetaphorical issue-statement; the remaining 15 pro"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "\"PRECIPITATING DEPRESSION AND LONELINESS\" READS AS A",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 3",
+          "role": "evidence"
+        },
+        {
+          "text": "UNMETAPHORICAL ISSUE-STATEMENT; THE REMAINING 15 PRO",
+          "role": "comparison"
+        },
+        {
+          "text": "IS THIS ACTUALLY AN ISSUE PROMPT?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a",
+        "EXAM FACTS / SOURCE BASIS — 3 → unmetaphorical issue-statement; the remaining 15 pro",
+        "IS THIS ACTUALLY AN ISSUE PROMPT? → basic/02, Section 3a, gives the full philosophical-v",
+        "IS THIS ACTUALLY AN ISSUE PROMPT? → Q1 Does the sentence name a real, nameable",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a",
+          "IS THIS ACTUALLY AN ISSUE PROMPT? → basic/02, Section 3a, gives the full philosophical-v",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "EXAM FACTS / SOURCE BASIS — 3 → unmetaphorical issue-statement; the remaining 15 pro",
+          "IS THIS ACTUALLY AN ISSUE PROMPT? → Q1 Does the sentence name a real, nameable phenomeno",
+          "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a",
+            "EXAM FACTS / SOURCE BASIS — 3 → unmetaphorical issue-statement; the remaining 15 pro"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → basic/02, Section 3a, gives the full philosophical-v",
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → Q1 Does the sentence name a real, nameable phenomeno"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3",
+        "Is this actually an issue prompt? — a three-question test",
+        "Is this actually an issue prompt? — a three-question test — 2"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "IS THIS ACTUALLY AN ISSUE PROMPT?",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC/02, SECTION 3A, GIVES THE FULL PHILOSOPHICAL-V",
+          "role": "evidence"
+        },
+        {
+          "text": "Q1 DOES THE SENTENCE NAME A REAL, NAMEABLE PHENOMENO",
+          "role": "primary"
+        },
+        {
+          "text": "Q3 IS THE ONE CANDIDATES SKIP. 2024-A1 (\"FORESTS PRE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IS THIS ACTUALLY AN ISSUE PROMPT? → basic/02, Section 3a, gives the full philosophical-v",
+        "IS THIS ACTUALLY AN ISSUE PROMPT? → Q1 Does the sentence name a real, nameable",
+        "IS THIS ACTUALLY AN ISSUE PROMPT? → Q3 is the one candidates skip. 2024-A1 (\"Forests",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: an issue-based prompt still needs a",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → basic/02, Section 3a, gives the full philosophical-v",
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → Q1 Does the sentence name a real, nameable phenomeno"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → Q3 is the one candidates skip. 2024-A1 (\"Forests pre",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: an issue-based prompt still needs a th"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → basic/02, Section 3a, gives the full philosophical-v"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Is this actually an issue prompt? — a three-question test",
+        "Is this actually an issue prompt? — a three-question test — 2",
+        "Is this actually an issue prompt? — a three-question test — 3",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "IS THIS ACTUALLY AN ISSUE PROMPT?",
+          "role": "comparison"
+        },
+        {
+          "text": "Q3 IS THE ONE CANDIDATES SKIP. 2024-A1 (\"FORESTS PRE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "AN ISSUE-BASED PROMPT STILL NEEDS A TH",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IS THIS ACTUALLY AN ISSUE PROMPT? → Q3 is the one candidates skip. 2024-A1 (\"Forests",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: an issue-based prompt still needs a",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What exact claim is being made — connection cause",
+        "CAUSAL-EVIDENCE-LIMIT CHAIN → PROMPT CLAIM - plausible mechanism - named, verifiab",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → Q3 is the one candidates skip. 2024-A1 (\"Forests pre",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: an issue-based prompt still needs a th"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What exact claim is being made — connection cause",
+            "CAUSAL-EVIDENCE-LIMIT CHAIN → PROMPT CLAIM - plausible mechanism - named, verifiab"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "IS THIS ACTUALLY AN ISSUE PROMPT? → Q3 is the one candidates skip. 2024-A1 (\"Forests pre"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Is this actually an issue prompt? — a three-question test — 3",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Causal-evidence-limit chain"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. WHAT EXACT CLAIM IS BEING MADE — CONNECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "CAUSAL-EVIDENCE-LIMIT CHAIN",
+          "role": "caution"
+        },
+        {
+          "text": "PROMPT CLAIM - PLAUSIBLE MECHANISM - NAMED, VERIFIAB",
+          "role": "mechanism"
+        },
+        {
+          "text": "CAUSAL-EVIDENCE-LIMIT CHAIN — 2",
+          "role": "caution"
+        },
+        {
+          "text": "AN ASSOCIATION IS NOT PROOF OF CAUSATION. IF YOU",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. What exact claim is being made — connection cause",
+        "CAUSAL-EVIDENCE-LIMIT CHAIN → PROMPT CLAIM - plausible mechanism - named, verifiab",
+        "CAUSAL-EVIDENCE-LIMIT CHAIN — 2 → An association is not proof of causation. If you can",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Recall (not invent) a named, verifiable Indian illus",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What exact claim is being made — connection cause",
+            "CAUSAL-EVIDENCE-LIMIT CHAIN → PROMPT CLAIM - plausible mechanism - named, verifiab"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CAUSAL-EVIDENCE-LIMIT CHAIN — 2 → An association is not proof of causation. If you can",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Recall (not invent) a named, verifiable Indian illus"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What exact claim is being made — connection cause"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "Causal-evidence-limit chain",
+        "Causal-evidence-limit chain — 2",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSAL-EVIDENCE-LIMIT CHAIN — 2",
+          "role": "caution"
+        },
+        {
+          "text": "AN ASSOCIATION IS NOT PROOF OF CAUSATION. IF YOU",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "primary"
+        },
+        {
+          "text": "RECALL (NOT INVENT) A NAMED, VERIFIABLE INDIAN ILLUS",
+          "role": "caution"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "AN ISSUE-BASED ESSAY PROMPT DIFFERS FRO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAUSAL-EVIDENCE-LIMIT CHAIN — 2 → An association is not proof of causation. If you can",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Recall (not invent) a named, verifiable Indian illus",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an issue-based essay prompt differs fro",
+        "CONCEPT DEFINITION AND TAXONOMY → (\"FOMO precipitating depression and loneliness\") int",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "CAUSAL-EVIDENCE-LIMIT CHAIN — 2 → An association is not proof of causation. If you can",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an issue-based essay prompt differs fro",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "INDIA-FIRST ILLUSTRATION STARTERS → Recall (not invent) a named, verifiable Indian illus",
+          "CONCEPT DEFINITION AND TAXONOMY → (\"FOMO precipitating depression and loneliness\") int",
+          "CAUSAL-EVIDENCE-LIMIT CHAIN — 2 → An association is not proof of causation. If you can"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "CAUSAL-EVIDENCE-LIMIT CHAIN — 2 → An association is not proof of causation. If you can",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Recall (not invent) a named, verifiable Indian illus"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an issue-based essay prompt differs fro",
+            "CONCEPT DEFINITION AND TAXONOMY → (\"FOMO precipitating depression and loneliness\") int"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "CAUSAL-EVIDENCE-LIMIT CHAIN — 2 → An association is not proof of causation. If you can"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Causal-evidence-limit chain — 2",
+        "India-first illustration starters",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "AN ISSUE-BASED ESSAY PROMPT DIFFERS FRO",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "(\"FOMO PRECIPITATING DEPRESSION AND LONELINESS\") INT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "PROMPT (ON, SAY, URBANISATION, AUTOMATION, OR MISINF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an issue-based essay prompt differs fro",
+        "CONCEPT DEFINITION AND TAXONOMY → (\"FOMO precipitating depression and loneliness\") int",
+        "CONCEPT DEFINITION AND TAXONOMY — → prompt (on, say, urbanisation, automation, or misinf",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → mechanism (FOMO precipitating depression/loneliness)",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an issue-based essay prompt differs fro",
+            "CONCEPT DEFINITION AND TAXONOMY → (\"FOMO precipitating depression and loneliness\") int"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → prompt (on, say, urbanisation, automation, or misinf",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → mechanism (FOMO precipitating depression/loneliness)"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: an issue-based essay prompt differs fro"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "PROMPT (ON, SAY, URBANISATION, AUTOMATION, OR MISINF",
+          "role": "evidence"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM (FOMO PRECIPITATING DEPRESSION/LONELINESS)",
+          "role": "mechanism"
+        },
+        {
+          "text": "HOMOGENEOUS BY THE PROMPT'S PHRASING; AN ADVANCED ES",
+          "role": "comparison"
+        },
+        {
+          "text": "OBSERVED ASSOCIATION BETWEEN USAGE AND DISTRESS IMPL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → prompt (on, say, urbanisation, automation, or misinf",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → mechanism (FOMO precipitating depression/loneliness)",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → homogeneous by the prompt's phrasing; an advanced es",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → observed association between usage and distress impl",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → prompt (on, say, urbanisation, automation, or misinf",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → mechanism (FOMO precipitating depression/loneliness)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → homogeneous by the prompt's phrasing; an advanced es",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → observed association between usage and distress impl"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → prompt (on, say, urbanisation, automation, or misinf"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Tension pairs and hidden assumptions — 3"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "HOMOGENEOUS BY THE PROMPT'S PHRASING; AN ADVANCED ES",
+          "role": "evidence"
+        },
+        {
+          "text": "OBSERVED ASSOCIATION BETWEEN USAGE AND DISTRESS IMPL",
+          "role": "primary"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "A CLEAR AUDITED EXAMPLE — 2024-B5, PRINTED AS \"SOCIA",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → homogeneous by the prompt's phrasing; an advanced es",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → observed association between usage and distress impl",
+        "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia",
+        "CORE TERMS IN PLAIN LANGUAGE → phenomenon and asserts a causal or evaluative claim",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → homogeneous by the prompt's phrasing; an advanced es",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → observed association between usage and distress impl"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia",
+            "CORE TERMS IN PLAIN LANGUAGE → phenomenon and asserts a causal or evaluative claim"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → homogeneous by the prompt's phrasing; an advanced es"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions — 2",
+        "Tension pairs and hidden assumptions — 3",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ISSUE-BASED PROMPT SCOPING: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "A CLEAR AUDITED EXAMPLE — 2024-B5, PRINTED AS \"SOCIA",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "PHENOMENON AND ASSERTS A CAUSAL OR EVALUATIVE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER — HEADINGS, \"CAUSES/EFFECTS/MEASURES TAKEN\" L",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia",
+        "CORE TERMS IN PLAIN LANGUAGE → phenomenon and asserts a causal or evaluative claim",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+        "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia",
+            "CORE TERMS IN PLAIN LANGUAGE → phenomenon and asserts a causal or evaluative claim"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+            "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → A clear audited example — 2024-B5, printed as \"Socia"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ISSUE-BASED PROMPT SCOPING: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ISSUE-BASED PROMPT SCOPING",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER — HEADINGS, \"CAUSES/EFFECTS/MEASURES TAKEN\" L",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "MISSING OUT' AMONGST THE YOUTH PRECIPITATING DEPRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+        "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress",
+        "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a",
+        "EXAM FACTS / SOURCE BASIS — 3 → unmetaphorical issue-statement; the remaining 15 pro",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l",
+            "EXAM FACTS / SOURCE BASIS → Missing Out' amongst the youth precipitating depress"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 2 → \"precipitating depression and loneliness\" reads as a",
+            "EXAM FACTS / SOURCE BASIS — 3 → unmetaphorical issue-statement; the remaining 15 pro"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → answer — headings, \"causes/effects/measures taken\" l"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ISSUE-STATEMENT PROMPT",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMES PHENOMENON + MECHANISM + CONSEQUENCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SCOPE CREEP",
+          "role": "evidence"
+        },
+        {
+          "text": "ESSAY DRIFTS FROM THE SPECIFIC ASSERTED MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "GS-ANSWER COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "HEADINGS, \"CAUSES/EFFECTS/MEASURES\" STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTE THE TAXONOMY IS NOT UNIQUE TO 2024-B5 —",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Issue-statement prompt: names phenomenon + mechanism + consequence",
+            "Scope creep: essay drifts from the specific asserted mechanism",
+            "GS-answer collapse: headings, \"causes/effects/measures\" structure,",
+            "CAUTION: Note the taxonomy is not unique to 2024-B5 — any future issue-style"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Causal specificity vs. generality: the prompt asserts a specific",
+            "Universality vs. distribution: \"the youth\" is treated as",
+            "Correlation vs. mechanism: a common hidden assumption is that",
+            "NOT: Full GS-III/Society answer disguised as an essay (headings,"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Treating \"youth\" as undifferentiated. → Protocol: qualify by",
+            "NOT: Correlation-as-causation without mechanism. → Protocol: state",
+            "NOT: One-sided technology-moralising (either \"social media is simply",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

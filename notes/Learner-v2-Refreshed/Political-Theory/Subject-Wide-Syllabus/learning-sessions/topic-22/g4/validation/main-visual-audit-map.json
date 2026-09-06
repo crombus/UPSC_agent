@@ -1,0 +1,918 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-22\\g4\\topic-22_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "political-theory-22",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 36,
+      "heading": "SESSION 1 - Meaning, Stakes and the Classical Democratic Map",
+      "preview": "**Subject:** Political Theory | **Tier:** Must-Do (foundation) | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Democratic rule, representative institutions, li",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 292.491
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 124.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 55,
+      "heading": "1. One-screen conceptual map",
+      "preview": "DEMOCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1136,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Cross-application ownership note:** These are verified Philosophy Optional questions whose primary owners are Forms of Government, Social and Political Ideals, Sovereignty. They are not re-routed to Political Theory; they are included bec",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 520.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 461.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1138,
+      "heading": "PYQS AND ANSWER PRACTICE",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 461.624
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 431.156
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1181,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it DEFINES liberal democracy exactly (popular rule + constitutional limits + minority protection), answers the \"deeper principles\" half with Ambedkar's political-vs-social-equality thesis, and anchors India w",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1185,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Social and Political Ideals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 694.324
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 663.856
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1231,
+      "heading": "Solved PYQ 2 - 2018 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it treats \"how far\" as a degree question, shows the base-level complementarity AND the marginal conflict, and closes with the justice/fraternity supplement rather than one-sided praise.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 158.856
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 66.588
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1235,
+      "heading": "Solved PYQ 2 - 2018 Q2(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1275,
+      "heading": "Solved PYQ 3 - 2020 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs the achievements/limits balance the stem demands, deploys F10 form-vs-substance as the critical engine, and grades with the form/substance verdict instead of a flat \"yes/no\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 313.424
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 268.756
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1279,
+      "heading": "Solved PYQ 3 - 2020 Q1(b), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 266.256
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 235.788
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1312,
+      "heading": "Solved PYQ 4 - 2021 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks - it answers on two levels (legal yes / constitutional no) and ties incompatibility precisely to derivativeness, division and rights, not to vague \"democracy is different.\"",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 521.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 443.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1316,
+      "markdown_body_line_end": 1316,
+      "heading": "Solved PYQ 4 - 2021 Q1(c), 10 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 440.524
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 410.056
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1348,
+      "heading": "Solved PYQ 5 - 2021 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it separates transferable *principles* from the non-transferable *form*, giving a disciplined \"yes, selectively\" instead of a blanket applicable / not-applicable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 473.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 395.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1352,
+      "heading": "Solved PYQ 5 - 2021 Q3(c), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 392.924
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 362.456
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1408,
+      "heading": "Solved PYQ 6 - 2022 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it reframes propaganda as an attack on opinion-formation (F11), runs two objection/reply chains, lands the REGULATOR'S DILEMMA with structural remedies + F12, keeps India to Art 19(1)(a)/19(2) and RPA 1951 as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 188.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 130.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1412,
+      "markdown_body_line_end": 1412,
+      "heading": "Solved PYQ 6 - 2022 Q4(a), 20 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 127.524
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 97.056
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1456,
+      "heading": "Solved PYQ 7 - 2023 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates form from substance, itemises the challenges with named anchors (F9/F8/Laclau, F11, Michels/F7, F10), pairs each with a structural remedy plus F12, and answers the anti-democratic objection tempo",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 391.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 285.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1460,
+      "markdown_body_line_end": 1460,
+      "heading": "Solved PYQ 7 - 2023 Q4(b), 15 marks",
+      "preview": "**Primary owner:** Philosophy Paper II - Forms of Government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 282.524
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 252.056
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1497,
+      "markdown_body_line_end": 1499,
+      "heading": "Solved PYQ 8 - 2025 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes Plato's TARGET (rule by appetite and opinion, not participation as such), runs the three-claim spine with F1, raises the epistemic objection, and lands the asymmetric verdict the \"Comment on\" directi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 419.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 360.824
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1659,
+      "markdown_body_line_end": 1664,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Political Theory | **Tier:** Advanced | **GS/Optional relevance:** GS-II (Polity & Governance) conceptual foundation; PSIR Optional Paper-1 background. **Core area:** Theoretical reconstruction of modern democracy through repre",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 221.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 91.624
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1669,
+      "markdown_body_line_end": 1694,
+      "heading": "1. One-screen advanced map",
+      "preview": "CLASSICAL IDEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 534.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1739,
+      "markdown_body_line_end": 1746,
+      "heading": "Necessary/sufficient audit",
+      "preview": "Condition | Status | Why",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Condition",
+          "Status",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 557.09
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1918,
+      "markdown_body_line_end": 1935,
+      "heading": "ASCII PANEL 1/12 - Meaning, Stakes and the Classical Democratic Map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1939,
+      "markdown_body_line_end": 1956,
+      "heading": "ASCII PANEL 2/12 - Direct, Representative and Liberal Democracy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1960,
+      "markdown_body_line_end": 1977,
+      "heading": "ASCII PANEL 3/12 - Necessary and Sufficient Democratic Conditions",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1981,
+      "markdown_body_line_end": 1998,
+      "heading": "ASCII PANEL 4/12 - Classical Critics and Comparative Defenders",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2002,
+      "markdown_body_line_end": 2019,
+      "heading": "ASCII PANEL 5/12 - Locke, Mill, Rousseau and Dewey",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2023,
+      "markdown_body_line_end": 2040,
+      "heading": "ASCII PANEL 6/12 - Representation: Territorial, Functional and Normative Models",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2044,
+      "markdown_body_line_end": 2061,
+      "heading": "ASCII PANEL 7/12 - Electoral Translation, Minority Protection and Trap Repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2065,
+      "markdown_body_line_end": 2082,
+      "heading": "ASCII PANEL 8/12 - Revision Spine and Secondary Representation Theory",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2086,
+      "markdown_body_line_end": 2103,
+      "heading": "ASCII PANEL 9/12 - Electoral Trade-offs and Liberal-Democratic Tensions",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 230.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2107,
+      "markdown_body_line_end": 2124,
+      "heading": "ASCII PANEL 10/12 - Answer Architecture, Indian Application and Provenance",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2128,
+      "markdown_body_line_end": 2145,
+      "heading": "ASCII PANEL 11/12 - MCQ Remediation and Trap Repair",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2149,
+      "markdown_body_line_end": 2168,
+      "heading": "ASCII PANEL 12/12 - PYQ Ownership and Answer Practice",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 210.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2172,
+      "markdown_body_line_end": 2185,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 282.29
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2234,
+      "markdown_body_line_end": 2245,
+      "heading": "THINKER AND ATTRIBUTION GRID",
+      "preview": "Thinker / cluster | Safe use | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Thinker / cluster",
+          "Safe use",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 597.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 248.89
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    }
+  ]
+}

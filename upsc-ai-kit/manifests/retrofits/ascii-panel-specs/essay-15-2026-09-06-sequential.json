@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "scope": "Essay semantic learner-v2 Topic 15",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "essay-15",
+      "display_title": "Self-Evaluation and Internal Practice Rubric",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-15_Learning-Session.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Prompt and scope",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CORE PRINCIPLE -> This entire topic is an Internal Essay Practice Rubr",
+            "PURPOSE AND SCOPE -> This topic gives a structured way to review your own",
+            "EXAM FACTS / SOURCE BASIS -> weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 -> official UPSC mark, an examiner's likely score, or a",
+            "VERDICT 1 -> Prompt and scope must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Core principle",
+            "Purpose and scope",
+            "Exam facts / source basis",
+            "Exam facts / source basis — 2"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Concept hierarchy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "EXAM FACTS / SOURCE BASIS -> weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 -> official UPSC mark, an examiner's likely score, or a",
+            "EXAM FACTS / SOURCE BASIS — 3 -> how those 125 marks are distributed within an essay.",
+            "THE CENTRAL IDEA AND COMMON MISREA -> Central idea: self-evaluation is most useful when it",
+            "VERDICT 2 -> Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Exam facts / source basis",
+            "Exam facts / source basis — 2",
+            "Exam facts / source basis — 3",
+            "The central idea and common misreading"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Dimension matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EXAM FACTS / SOURCE BASIS — 3 -> how those 125 marks are distributed within an essay.",
+            "THE CENTRAL IDEA AND COMMON MISREA -> Central idea: self-evaluation is most useful when it",
+            "BASIC DECOMPOSITION QUESTIONS -> 1. Did my essay response the exact prompt, or did it",
+            "DIMENSION-EXPANSION GRID — THE INT -> Score only after writing the paragraph numbers that ",
+            "VERDICT 3 -> Dimension matrix must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Exam facts / source basis — 3",
+            "The central idea and common misreading",
+            "Basic decomposition questions",
+            "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each,"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Decision gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "BASIC DECOMPOSITION QUESTIONS -> 1. Did my essay response the exact prompt, or did it",
+            "DIMENSION-EXPANSION GRID — THE INT -> Score only after writing the paragraph numbers that ",
+            "DIMENSION-EXPANSION GRID — THE INT -> Restated for clarity: this /28 table is the Internal",
+            "INDIA-FIRST ILLUSTRATION STARTERS -> Not directly applicable — see 12 for illustration co",
+            "VERDICT 4 -> Decision gate must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Basic decomposition questions",
+            "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each,",
+            "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each, — 2",
+            "India-first illustration starters"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Mechanism chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "DIMENSION-EXPANSION GRID — THE INT -> Restated for clarity: this /28 table is the Internal",
+            "INDIA-FIRST ILLUSTRATION STARTERS -> Not directly applicable — see 12 for illustration co",
+            "THESIS OPTIONS AND SELECTION -> If dimension 1 (Relevance) or 2 (Depth) scores low, ",
+            "SIMPLE ESSAY ARCHITECTURE -> If dimension 3 (Coherence) scores low, revisit 07's ",
+            "VERDICT 5 -> Mechanism chain must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each, — 2",
+            "India-first illustration starters",
+            "Thesis options and selection",
+            "Simple essay architecture"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Counter-view and synthesis",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "THESIS OPTIONS AND SELECTION -> If dimension 1 (Relevance) or 2 (Depth) scores low, ",
+            "SIMPLE ESSAY ARCHITECTURE -> If dimension 3 (Coherence) scores low, revisit 07's ",
+            "OPENING, BODY AND CLOSURE MOVES -> Score the introduction and conclusion specifically a",
+            "EVIDENCE, QUOTATION AND TIME AUDIT -> An invented fact, unsupported quotation or missed Es",
+            "VERDICT 6 -> Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Thesis options and selection",
+            "Simple essay architecture",
+            "Opening, body and closure moves",
+            "Evidence, quotation and time audit"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Close-option distinctions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "OPENING, BODY AND CLOSURE MOVES -> Score the introduction and conclusion specifically a",
+            "EVIDENCE, QUOTATION AND TIME AUDIT -> An invented fact, unsupported quotation or missed Es",
+            "CORE PRINCIPLE — 2 -> This entire topic, and every scorecard in it, is par",
+            "ADVANCED PROPOSITION AND BOUNDARY -> Proposition: self-evaluation becomes genuinely usefu",
+            "VERDICT 7 -> Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Opening, body and closure moves",
+            "Evidence, quotation and time audit",
+            "Core principle — 2",
+            "Advanced proposition and boundary"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Evidence-status ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "CORE PRINCIPLE — 2 -> This entire topic, and every scorecard in it, is par",
+            "ADVANCED PROPOSITION AND BOUNDARY -> Proposition: self-evaluation becomes genuinely usefu",
+            "CONCEPT DEFINITION AND TAXONOMY -> evidence, originality, balance, language — using bas",
+            "CONCEPT DEFINITION AND TAXONOMY —  -> estimate, choice quality, topic-drift instances, fac",
+            "VERDICT 8 -> Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Core principle — 2",
+            "Advanced proposition and boundary",
+            "Concept definition and taxonomy",
+            "Concept definition and taxonomy — 2"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Cross-scale system",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "CONCEPT DEFINITION AND TAXONOMY -> evidence, originality, balance, language — using bas",
+            "CONCEPT DEFINITION AND TAXONOMY —  -> estimate, choice quality, topic-drift instances, fac",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> low score on one dimension is diagnostic; in fact a ",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> score carries the same weight as an official mark; i",
+            "VERDICT 9 -> Cross-scale system must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Concept definition and taxonomy",
+            "Concept definition and taxonomy — 2",
+            "Tension pairs and hidden assumptions",
+            "Tension pairs and hidden assumptions — 2"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Argument architecture",
+          "structural_type": "argument-map",
+          "ascii_lines": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> low score on one dimension is diagnostic; in fact a ",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO -> score carries the same weight as an official mark; i",
+            "CORE PRINCIPLE -> This entire topic is an Internal Essay Practice Rubr",
+            "PURPOSE AND SCOPE -> This topic gives a structured way to review your own",
+            "VERDICT 10 -> Argument architecture must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Tension pairs and hidden assumptions",
+            "Tension pairs and hidden assumptions — 2",
+            "Core principle",
+            "Purpose and scope"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Failure and repair gate",
+          "structural_type": "quality-gate",
+          "ascii_lines": [
+            "CORE PRINCIPLE -> This entire topic is an Internal Essay Practice Rubr",
+            "PURPOSE AND SCOPE -> This topic gives a structured way to review your own",
+            "EXAM FACTS / SOURCE BASIS -> weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 -> official UPSC mark, an examiner's likely score, or a",
+            "VERDICT 11 -> Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Core principle",
+            "Purpose and scope",
+            "Exam facts / source basis",
+            "Exam facts / source basis — 2"
+          ]
+        },
+        {
+          "title": "Self-Evaluation and Internal Practice Rubric: Complete answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "EXAM FACTS / SOURCE BASIS -> weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 -> official UPSC mark, an examiner's likely score, or a",
+            "EXAM FACTS / SOURCE BASIS — 3 -> how those 125 marks are distributed within an essay.",
+            "THE CENTRAL IDEA AND COMMON MISREA -> Central idea: self-evaluation is most useful when it",
+            "VERDICT 12 -> Complete answer spine must preserve prompt, thesis, evidence and qualification."
+          ],
+          "source_references": [
+            "Exam facts / source basis",
+            "Exam facts / source basis — 2",
+            "Exam facts / source basis — 3",
+            "The central idea and common misreading"
+          ]
+        }
+      ]
+    }
+  ]
+}

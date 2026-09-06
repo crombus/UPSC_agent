@@ -1,12 +1,12 @@
 # Deep Content Review — Science and Technology 08: Digital India and India Stack: UPI, Aadhaar
 
-- **Baseline locked:** `science-and-technology-08:learner-v2:g1` — 95/100
-- **Immutable successor:** `science-and-technology-08:learner-v2:g2` — 98/100
+- **Baseline locked:** `science-and-technology-08:learner-v2:g2` — 97/100
+- **Immutable successor:** `science-and-technology-08:learner-v2:g3` — 98/100
 - **Approval:** false / pending explicit approval
 
 ## Defects reported before repair
 
-- The session lacks an explicit syllabus, evidence-class, contested-claim and approval contract.
+
 
 ## Four-artifact repair and re-review
 
@@ -19,7 +19,7 @@ and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D
 official PYQ wording remains outside that rotation. Both master flows were
 regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
 
-- Session PDF: 92 pages
+- Session PDF: 91 pages
 - Workbook PDF: 49 pages
 - Solved items audited: 8
 - Basic/remedial MCQs audited: 80

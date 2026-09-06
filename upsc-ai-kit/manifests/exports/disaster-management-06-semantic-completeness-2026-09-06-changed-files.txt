@@ -1,0 +1,81 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-06-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\disaster-management-06-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\disaster-management-06-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\disaster-management-06-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\disaster-management-06-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Disaster Management\INDEX.md
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g3\disaster-management-06_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g3\disaster-management-06_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g3\validation\workbook-visual-audit-map.json
+tools\disaster_management_semantic_runtime.py
+tools\finalize_disaster_management_semantic_review.py
+tools\regenerate_disaster_management_deep_review.py
+tools\run_disaster_management_semantic_topic.py
+tools\test_run_disaster_management_semantic_topic.py
+tools\verify_disaster_management_live_sources.py
+upsc-ai-kit\knowledge\Disaster-Management\basic\06_Tsunami-and-Coastal-Hazard-Management.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g3\assets\disaster-management-06_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g3\disaster-management-06_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g3\disaster-management-06_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\manifests\exports\disaster-management-06-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-06-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\disaster-management-06-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-06-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-06-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\disaster-management-authoritative-live-source-audit-2026-09-06.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e745485787d1-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e745485787d1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-06-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-06-g3.json
+upsc-ai-kit\manifests\reviews\disaster-management\06-tsunami-and-coastal-hazard-management-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-06-g3.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

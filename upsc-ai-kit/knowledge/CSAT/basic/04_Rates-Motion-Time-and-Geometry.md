@@ -461,3 +461,47 @@ six-item set.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** Basic numeracy and general mental ability at Class X level.
+- **Canonical scope:** Owns time-work, pipes, speed-distance, relative speed, trains, boats, races, clocks, calendars, elementary geometry, mensuration and unit conversion.
+- **Cross-topic boundary:** Commercial arithmetic belongs to Topic 03; algebraic comparison and sufficiency to Topic 05; spatial direction puzzles to Topic 06.
+
+### Complete learner route
+
+1. **Rate model:** Quantity equals rate multiplied by time.
+2. **Time and work:** Add work rates, not completion times.
+3. **Pipes and leaks:** Treat filling positive and emptying negative.
+4. **Speed and distance:** Match units before using distance equals speed times time.
+5. **Relative motion:** Add opposite-direction speeds and subtract same-direction speeds.
+6. **Trains and boats:** Include object length and current speed correctly.
+7. **Races and tracks:** Use relative distance on linear or circular paths.
+8. **Clocks:** Use the 5.5-degree-per-minute relative hand speed.
+9. **Calendars:** Reduce day shifts modulo seven and handle leap-year rules.
+10. **Geometry:** Use properties before coordinates or formulas.
+11. **Mensuration:** Distinguish length, area and volume units.
+12. **Verification:** Check dimensions, magnitude, endpoints and physical possibility.
+
+### Verification and hostile-query gate
+
+Rate equations retain units. Geometry formulas are derived or decomposed, and generated solutions are checked dimensionally and by direct substitution.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**time and work; pipes; relative speed; train; boat; clock; calendar; mensuration**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

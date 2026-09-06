@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T09:07:25+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\internal-security-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "cc3d5b251ba5fd282205213f538bf15622e70e47621a0d553020f9135640355b",
+    "sha256_after": "cc3d5b251ba5fd282205213f538bf15622e70e47621a0d553020f9135640355b",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Internal Security": 1
+  },
+  "sections": {
+    "Internal Security — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11581,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1980,
+    "json_count": 5376,
+    "total_bytes": 4273414680,
+    "by_extension": {
+      ".json": 5376,
+      ".md": 1980,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-09",
+      "topic_title": "Social Media, Encrypted Messaging and Information Warfare",
+      "subject": "Internal Security",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "internal-security-09:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-09\\g3\\internal-security-09_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "7f18bdaf7d609f531fdcad7ec54519288b4f314487d783764b4801b665ae7b95",
+          "output_sha256": "7f18bdaf7d609f531fdcad7ec54519288b4f314487d783764b4801b665ae7b95",
+          "source_output_equal": true,
+          "bytes": 730930
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-09\\g3\\internal-security-09_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "4df8de13ac680853d8279df4c5ec6b9c712da86abeb6196dbc37677a90ea1f2a",
+          "output_sha256": "4df8de13ac680853d8279df4c5ec6b9c712da86abeb6196dbc37677a90ea1f2a",
+          "source_output_equal": true,
+          "bytes": 568579
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-09\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "3108e225f6cb6548bd342d05879a29a375ebad3a8a6c707bf533c76b58311565",
+          "output_sha256": "3108e225f6cb6548bd342d05879a29a375ebad3a8a6c707bf533c76b58311565",
+          "source_output_equal": true,
+          "bytes": 1950140
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-09\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "9911edca27dfa6131885def0cb2d8d0488744ace6c80608f167059a12babe9b7",
+          "output_sha256": "9911edca27dfa6131885def0cb2d8d0488744ace6c80608f167059a12babe9b7",
+          "source_output_equal": true,
+          "bytes": 2352681
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-09\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "518f2c8e4c8f6f6c89b5ed60196c4065ee2e2f8750e153e153bfe0556feb44e1",
+          "output_sha256": "518f2c8e4c8f6f6c89b5ed60196c4065ee2e2f8750e153e153bfe0556feb44e1",
+          "source_output_equal": true,
+          "bytes": 1711636
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-09\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "3d4ff8c5b9f34fd115dfa4eba90eedb079ec84b498710b9419b96af8ed4adeb1",
+          "output_sha256": "3d4ff8c5b9f34fd115dfa4eba90eedb079ec84b498710b9419b96af8ed4adeb1",
+          "source_output_equal": true,
+          "bytes": 3801
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-09\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "fa7a55e643c6d4bf2f6be4bf94d7df509fc424af17a3d042d34c83d4bae749e7",
+          "output_sha256": "fa7a55e643c6d4bf2f6be4bf94d7df509fc424af17a3d042d34c83d4bae749e7",
+          "source_output_equal": true,
+          "source_text_sha256": "3d4ff8c5b9f34fd115dfa4eba90eedb079ec84b498710b9419b96af8ed4adeb1",
+          "normalized_text_equal": true,
+          "bytes": 56302
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 108,
+        "solved_practice_workbook": 65,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 108,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10812
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

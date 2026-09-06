@@ -5,8 +5,8 @@ Topic: Human Values and Lessons from Leaders
 Subject: Ethics
 Section: Subject-wide Syllabus
 Catalogue number: 02
-Source record ID: ethics-02:learner-v2:g2
-Source generation: 2
+Source record ID: ethics-02:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

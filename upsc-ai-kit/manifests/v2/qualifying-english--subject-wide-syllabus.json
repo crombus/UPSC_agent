@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "variant": "learner-v2",
+  "subject": {
+    "key": "Qualifying-English",
+    "display_name": "Qualifying English"
+  },
+  "section": {
+    "key": "subject-wide-syllabus",
+    "name": "Subject-wide Syllabus",
+    "scope": "official-section",
+    "complete_syllabus_section": true,
+    "syllabus_sources": [
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\LEARNING-SESSION-COMMAND-INDEX.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md"
+    ],
+    "notes": "Authoritative seven-topic Qualifying English catalogue in canonical order."
+  },
+  "topics": [
+    {
+      "topic_key": "qualifying-english-01",
+      "display_title": "Parts of Speech",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 01.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\01_Parts-of-Speech.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\01_Parts-of-Speech.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+        "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+        "books\\more_previous_papers\\ENGLISH (1).pdf",
+        "books\\more_previous_papers\\English.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-english-02",
+      "display_title": "Sentence Grammar",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 02.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\02_Sentence-Grammar.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\02_Sentence-Grammar.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+        "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+        "books\\more_previous_papers\\ENGLISH (1).pdf",
+        "books\\more_previous_papers\\English.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-english-03",
+      "display_title": "Punctuation and Capitalisation",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 03.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\03_Punctuation-and-Capitalisation.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\03_Punctuation-and-Capitalisation.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+        "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+        "books\\more_previous_papers\\ENGLISH (1).pdf",
+        "books\\more_previous_papers\\English.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-english-04",
+      "display_title": "Vocabulary Idioms and Proverbs",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 04.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\04_Vocabulary-Idioms-and-Proverbs.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\04_Vocabulary-Idioms-and-Proverbs.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+        "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+        "books\\more_previous_papers\\ENGLISH (1).pdf",
+        "books\\more_previous_papers\\English.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-english-05",
+      "display_title": "Error Correction and Transformation",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 05.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\05_Error-Correction-and-Transformation.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\05_Error-Correction-and-Transformation.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+        "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+        "books\\more_previous_papers\\ENGLISH (1).pdf",
+        "books\\more_previous_papers\\English.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-english-06",
+      "display_title": "Comprehension and Precis",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 06.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\06_Comprehension-and-Precis.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\06_Comprehension-and-Precis.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+        "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+        "books\\more_previous_papers\\ENGLISH (1).pdf",
+        "books\\more_previous_papers\\English.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    },
+    {
+      "topic_key": "qualifying-english-07",
+      "display_title": "Short Essay Writing",
+      "syllabus_mapping": "Subject-wide Syllabus; catalogue topic 07.",
+      "source_canonical": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\07_Short-Essay-Writing.md",
+      "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\07_Short-Essay-Writing.md",
+      "source_advanced": null,
+      "cross_topic_sources": [
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\00_Master-Framework.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\README.md",
+        "upsc-ai-kit\\knowledge\\Qualifying-English\\subject-wide-package\\Qualifying-English_Practice-Solutions.md"
+      ],
+      "verified_pyq_sources": [
+        "books\\more_previous_papers\\ENGLISH-COMP_0.pdf",
+        "books\\more_previous_papers\\QP-CSM19-EnglishCompulsory.pdf",
+        "books\\more_previous_papers\\ENGLISH (1).pdf",
+        "books\\more_previous_papers\\English.pdf",
+        "books\\more_previous_papers\\QP-CSM-22-ENGLISH-Compl-280922.pdf",
+        "books\\more_previous_papers\\QP-CSM-23-ENGLISH-COMPULSORY-290923.pdf",
+        "books\\more_previous_papers\\ENGLISH-COMPULSORY-QP-CSM-25-010925.pdf"
+      ]
+    }
+  ]
+}

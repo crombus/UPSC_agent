@@ -1,0 +1,1947 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\science-and-technology-24_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-24",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "S&T Institutions: DST, CSIR, ANRF - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 417.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-24\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 393.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 86.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legal form determines accountability and powers, while mandate determines function; an acronym or shared ministry does not make two bodies institutional peers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "INSTITUTIONAL FORMS MANDATES AND ACRONYM DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 162,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INSTITUTIONAL FORMS MANDATES AND ACRONYM DISCIPLINE",
+      "preview": "START / CONCEPT: FOUNDATION — Institutional forms mandates and acronym discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 475.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 234.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 173,
+      "markdown_body_line_end": 173,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DST policy coordination missions and Department identity as a sequence: identify DSIR industrial-research role, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 192,
+      "heading": "VISUAL FIRST",
+      "preview": "DST POLICY COORDINATION MISSIONS AND DEPARTMENT IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 245,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DST POLICY COORDINATION MISSIONS AND DEPARTMENT IDENTITY",
+      "preview": "START / CONCEPT: FOUNDATION — DST policy coordination missions and Department identity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DSIR industrial research technology transfer and CSIR placement as a sequence: identify CSIR legal and research-performing identity, follow the named mechanism to its user or output, and stop at the last verified status rather than ass",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 318.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 275,
+      "heading": "VISUAL FIRST",
+      "preview": "DSIR INDUSTRIAL RESEARCH TECHNOLOGY TRANSFER AND CSIR PLACEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 328,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DSIR INDUSTRIAL RESEARCH TECHNOLOGY TRANSFER AND CSIR PLACEMENT",
+      "preview": "START / CONCEPT: FOUNDATION — DSIR industrial research technology transfer and CSIR placement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 290
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CSIR society governance laboratory network and research performance as a sequence: identify CSIR governance and mandate boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assumi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 365.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 284.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 358,
+      "heading": "VISUAL FIRST",
+      "preview": "CSIR SOCIETY GOVERNANCE LABORATORY NETWORK AND RESEARCH PERFORMANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 411,
+      "heading": "CLOSING RECALL FLOW - CORE - CSIR SOCIETY GOVERNANCE LABORATORY NETWORK AND RESEARCH PERFORMANCE",
+      "preview": "START / CONCEPT: CORE — CSIR society governance laboratory network and research performance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 422,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ANRF Act statutory identity commencement and remit as a sequence: identify ANRF statutory identity and commencement, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 355.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 274.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 441,
+      "heading": "VISUAL FIRST",
+      "preview": "ANRF ACT STATUTORY IDENTITY COMMENCEMENT AND REMIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 494,
+      "heading": "CLOSING RECALL FLOW - CORE - ANRF ACT STATUTORY IDENTITY COMMENCEMENT AND REMIT",
+      "preview": "START / CONCEPT: CORE — ANRF Act statutory identity commencement and remit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 277.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 505,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ANRF Governing Board Executive Council and administrative anchor as a sequence: identify ANRF two-tier governance, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 527,
+      "heading": "VISUAL FIRST",
+      "preview": "ANRF GOVERNING BOARD EXECUTIVE COUNCIL AND ADMINISTRATIVE ANCHOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - CORE - ANRF GOVERNING BOARD EXECUTIVE COUNCIL AND ADMINISTRATIVE ANCHOR",
+      "preview": "START / CONCEPT: CORE — ANRF Governing Board Executive Council and administrative anchor",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 475.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 234.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read SERB repeal succession savings and historical relevance as a sequence: identify ANRF financing-design firewall, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 611,
+      "heading": "VISUAL FIRST",
+      "preview": "SERB REPEAL SUCCESSION SAVINGS AND HISTORICAL RELEVANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 664,
+      "heading": "CLOSING RECALL FLOW - CORE - SERB REPEAL SUCCESSION SAVINGS AND HISTORICAL RELEVANCE",
+      "preview": "START / CONCEPT: CORE — SERB repeal succession savings and historical relevance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ANRF financing design grants fellowships and crowd-in logic as a sequence: identify Grant fellowship and mission-mode distinction, follow the named mechanism to its user or output, and stop at the last verified status rather than assum",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 694,
+      "heading": "VISUAL FIRST",
+      "preview": "ANRF FINANCING DESIGN GRANTS FELLOWSHIPS AND CROWD-IN LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 747,
+      "heading": "CLOSING RECALL FLOW - CORE - ANRF FINANCING DESIGN GRANTS FELLOWSHIPS AND CROWD-IN LOGIC",
+      "preview": "START / CONCEPT: CORE — ANRF financing design grants fellowships and crowd-in logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 264.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 43.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 758,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Curiosity-driven mission-mode translational and strategic research as a sequence: identify Research-to-use pipeline, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 777,
+      "heading": "VISUAL FIRST",
+      "preview": "CURIOSITY-DRIVEN MISSION-MODE TRANSLATIONAL AND STRATEGIC RESEARCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 830,
+      "heading": "CLOSING RECALL FLOW - CORE - CURIOSITY-DRIVEN MISSION-MODE TRANSLATIONAL AND STRATEGIC RESEARCH",
+      "preview": "START / CONCEPT: CORE — Curiosity-driven mission-mode translational and strategic research",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 614.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 383.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Research pipeline universities laboratories industry and standards as a sequence: identify Horizontal versus vertical architecture, follow the named mechanism to its user or output, and stop at the last verified status rather than assu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 229.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 148.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 860,
+      "heading": "VISUAL FIRST",
+      "preview": "RESEARCH PIPELINE UNIVERSITIES LABORATORIES INDUSTRY AND STANDARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 665.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 913,
+      "heading": "CLOSING RECALL FLOW - CORE - RESEARCH PIPELINE UNIVERSITIES LABORATORIES INDUSTRY AND STANDARDS",
+      "preview": "START / CONCEPT: CORE — Research pipeline universities laboratories industry and standards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 289
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 924,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Sectoral mission and agency boundaries - University laboratory industry ecosystem Qualified use: Use horizontal bodies as capacity multipliers, not replacements for vertical missions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 302.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 946,
+      "heading": "VISUAL FIRST",
+      "preview": "HORIZONTAL ARCHITECTURE VERSUS VERTICAL MISSION AGENCIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 1000,
+      "heading": "CLOSING RECALL FLOW - CORE - HORIZONTAL ARCHITECTURE VERSUS VERTICAL MISSION AGENCIES",
+      "preview": "START / CONCEPT: CORE — Horizontal architecture versus vertical mission agencies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1011,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ISRO DAE DBT DRDO MeitY ICMR ICAR and PRIP boundaries as a sequence: identify Named CSIR laboratory function map, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stag",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1030,
+      "heading": "VISUAL FIRST",
+      "preview": "ISRO DAE DBT DRDO MEITY ICMR ICAR AND PRIP BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1083,
+      "heading": "CLOSING RECALL FLOW - CORE - ISRO DAE DBT DRDO MEITY ICMR ICAR AND PRIP BOUNDARIES",
+      "preview": "START / CONCEPT: CORE — ISRO DAE DBT DRDO MeitY ICMR ICAR and PRIP boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1094,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CSIR laboratory examples mandates and translation limits as a sequence: identify ANRF programme-instrument boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1113,
+      "heading": "VISUAL FIRST",
+      "preview": "CSIR LABORATORY EXAMPLES MANDATES AND TRANSLATION LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1166,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CSIR LABORATORY EXAMPLES MANDATES AND TRANSLATION LIMITS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — CSIR laboratory examples mandates and translation limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1177,
+      "markdown_body_line_end": 1177,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PM ECRG MAHA Vigyan Dhara STI policy and status distinctions as a sequence: identify STI policy and Vigyan Dhara boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1199,
+      "heading": "VISUAL FIRST",
+      "preview": "PM ECRG MAHA VIGYAN DHARA STI POLICY AND STATUS DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1253,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PM ECRG MAHA VIGYAN DHARA STI POLICY AND STATUS DISTINCTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PM ECRG MAHA Vigyan Dhara STI policy and status distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1264,
+      "markdown_body_line_end": 1264,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Governance tensions PYQ support and evidence-status ladder as a sequence: identify Conservative PYQ institutional lens, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the nex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 288.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1286,
+      "heading": "VISUAL FIRST",
+      "preview": "GOVERNANCE TENSIONS PYQ SUPPORT AND EVIDENCE-STATUS LADDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims *(with GS-II institutional linkage; highly useful for matching-type questions)*. **Core area:** India’s horizontal science-funding, policy a",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 472.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1355,
+      "heading": "1. Visual foundation",
+      "preview": "MINISTRY OF SCIENCE & TECHNOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 450.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 209.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1363,
+      "heading": "1. Visual foundation",
+      "preview": "Body | What it mainly does | What it is **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Body",
+          "What it mainly does",
+          "What it is **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 627.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1379,
+      "heading": "2. Essential definitions",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 112.69
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1462,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s S&T strength depends not only on glamorous mission agencies but also on a horizontal architecture in which DST sets direction, ANRF funds and coordinates strategic research, and CSIR converts scientific capability",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 325.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 266.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1512,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - GOVERNANCE TENSIONS PYQ SUPPORT AND EVIDENCE-STATUS LADDER",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Governance tensions PYQ support and evidence-status ladder",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 986
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 739.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 348.891
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1517,
+      "markdown_body_line_end": 1525,
+      "heading": "Text, material evidence and dating",
+      "preview": "Evidence | Historical use | Non-negotiable limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Evidence",
+          "Historical use",
+          "Non-negotiable limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 43.29
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1534,
+      "markdown_body_line_end": 1540,
+      "heading": "Historical formation matrix",
+      "preview": "Phase | Development | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase",
+          "Development",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 529.69
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1546,
+      "markdown_body_line_end": 1558,
+      "heading": "Institutions and patronage",
+      "preview": "oral teacher lineage",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 482.69
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 361.69
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2731,
+      "markdown_body_line_end": 2736,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + Prelims *(with strong GS-II governance overlap)*. **Core area:** India’s research-governance architecture, funding reform, lab-network function and coordination",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 151.824
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2744,
+      "markdown_body_line_end": 2751,
+      "heading": "2. Visual foundation",
+      "preview": "Institution / layer | Legal / institutional identity | Main instrument | Best exam label",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Institution / layer",
+          "Legal / institutional identity",
+          "Main instrument",
+          "Best exam label"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 503.89
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2753,
+      "markdown_body_line_end": 2762,
+      "heading": "2. Visual foundation",
+      "preview": "policy steering (DST, a Department)",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 503.89
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 412.89
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2766,
+      "markdown_body_line_end": 2773,
+      "heading": "3. Essential definitions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 390.89
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 160.688
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2837,
+      "markdown_body_line_end": 2845,
+      "heading": "10. CURRENT: Current anchor -> analytical use",
+      "preview": "Verified current anchor | Analytical use in answers",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Verified current anchor",
+          "Analytical use in answers"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 412.69
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2856,
+      "markdown_body_line_end": 2856,
+      "heading": "12. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s S&T future depends not just on flagship missions but on whether its horizontal research architecture — policy through DST, funding through ANRF and laboratory capability through CSIR — can build broad, durable and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 293.49
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 234.622
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2930,
+      "heading": "S&T Institutions: DST, CSIR, ANRF: STATUTE, POLICY, PROGRAMME AND OUTCOME STATUS FIREWALLS",
+      "preview": "NAME LEGAL FORM PARENT BODY MANDATE AND INSTRUMENT BEFORE THE ACRONYM",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 343.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2940,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Institutional form classifier",
+      "preview": "MINISTRY -> political-administrative portfolio",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2956,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Ministry to research network map",
+      "preview": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2960,
+      "markdown_body_line_end": 2966,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: ANRF statutory governance map",
+      "preview": "ANRF ACT 2023 -> statutory foundation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2970,
+      "markdown_body_line_end": 2976,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: SERB to ANRF transition",
+      "preview": "SERB ACT 2008 -> former statutory grant body",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2980,
+      "markdown_body_line_end": 2986,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Funding instrument matrix",
+      "preview": "FELLOWSHIP -> supports person",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2990,
+      "markdown_body_line_end": 2996,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Research-to-use pipeline",
+      "preview": "QUESTION -> BASIC RESEARCH -> EXPERIMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3000,
+      "markdown_body_line_end": 3006,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Horizontal and vertical architecture",
+      "preview": "HORIZONTAL -> DST policy | ANRF funding | DSIR-CSIR capability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3010,
+      "markdown_body_line_end": 3016,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: CSIR laboratory portfolio",
+      "preview": "NPL -> metrology",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3020,
+      "markdown_body_line_end": 3026,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: ANRF programme status ladder",
+      "preview": "PM ECRG -> early-career project support",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3038,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Policy instrument firewall",
+      "preview": "STI POLICY 2013 -> adopted policy owner",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3042,
+      "markdown_body_line_end": 3050,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Research governance balance board",
+      "preview": "AUTONOMY <-> ACCOUNTABILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3062,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ support and evidence rail",
+      "preview": "SPECIALIST PYQ -> specialist science owner",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    }
+  ]
+}

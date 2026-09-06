@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-06",
+      "display_title": "Tsunami and Coastal Hazard Management",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tsunami generation chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "SUDDEN WATER DISPLACEMENT",
+            "EARTHQUAKE | LANDSLIDE | VOLCANIC ACTIVITY",
+            "LONG WAVES -> COASTAL TRANSFORMATION",
+            "RUN-UP + INUNDATION + RETURN FLOW"
+          ],
+          "source_references": [
+            "Tsunami generation",
+            "Shoaling and inundation",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Coastal-hazard firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TSUNAMI -> sudden displacement",
+            "TIDE -> gravitational cycle",
+            "STORM SURGE -> cyclone wind + pressure",
+            "RULE -> different monitoring and response logic"
+          ],
+          "source_references": [
+            "Tide and storm-surge boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Source-to-impact matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SOURCE -> mechanism depth displacement",
+            "PATH -> distance and ocean configuration",
+            "COAST -> bathymetry topography land use",
+            "OUTCOME -> exposure vulnerability and action"
+          ],
+          "source_references": [
+            "Generation is not impact",
+            "Inundation mapping",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Detection-confirmation rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 SEISMIC EVENT ANALYSIS",
+            "2 PRE-RUN MODEL SCENARIO",
+            "3 SEA-LEVEL MONITORING",
+            "4 UPDATED BULLETIN / THREAT STATUS"
+          ],
+          "source_references": [
+            "Detection chain",
+            "Forecast and warning",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "ITEWC authority map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "INCOIS / ITEWC -> analysis and advisory",
+            "IOTWMS / UNESCO-IOC -> regional framework",
+            "STATE / DISTRICT / LOCAL -> protective action",
+            "LOCAL AUTHORITY -> all clear"
+          ],
+          "source_references": [
+            "ITEWC",
+            "Service-provider role",
+            "Local all clear",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Warning-uncertainty ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PRELIMINARY INFORMATION",
+            "MODEL-BASED THREAT",
+            "OBSERVATION-INFORMED UPDATE",
+            "FINAL / THREAT PASSED -> local all-clear check"
+          ],
+          "source_references": [
+            "Forecast and warning",
+            "Local all clear",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Inundation-to-evacuation map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "HAZARD / INUNDATION MAP",
+            "-> ZONE + ROUTE + REFUGE + ASSEMBLY",
+            "-> ACCESSIBLE TRANSPORT + ACCOUNTABILITY",
+            "-> DRILL + FEEDBACK + REVISION"
+          ],
+          "source_references": [
+            "Inundation mapping",
+            "Evacuation chain",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Coastal protection portfolio",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ENGINEERED -> shelters walls breakwaters where justified",
+            "NATURAL -> dunes mangroves forests reefs",
+            "REGULATORY -> CRZ + risk-sensitive siting",
+            "RULE -> layered and location-specific"
+          ],
+          "source_references": [
+            "Coastal regulation",
+            "Natural buffers",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Coastal economy continuity",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "PORT / HARBOUR -> shutdown access reopening",
+            "FISHERIES -> boats landing centres markets",
+            "TOURISM -> visitor warning signage route",
+            "UTILITIES / HOSPITAL -> continuity and safe recovery"
+          ],
+          "source_references": [
+            "Ports and critical facilities",
+            "Fisheries and tourism",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Tsunami Ready cycle",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "MAP RISK -> EDUCATE -> WARN",
+            "EVACUATION MAP + SIGNAGE -> DRILL",
+            "EVALUATE INDICATORS -> RENEW READINESS",
+            "COMMUNITY RECOGNITION -> NOT NATIONAL CERTIFICATION",
+            "MUST REMEMBER: Tsunami risk management links offshore detection, seismic and sea-level...",
+            "MUST REMEMBER: Tsunami risk management links offshore detection, seismic and sea-level..."
+          ],
+          "source_references": [
+            "Community preparedness",
+            "Tsunami Ready boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-06_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Trust under uncertainty",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "THREAT POSSIBLE? -> ISSUE PRECAUTIONARY MESSAGE",
+            "NEW DATA? -> UPDATE / UPGRADE / DOWNGRADE",
+            "EXPLAIN REASON -> PRESERVE TRUST",
+            "LIMITED IMPACT -> NOT AUTOMATIC FALSE-ALARM FAILURE",
+            "CLOSE DISTINCTION: Earthquake detection is not tsunami confirmation;...",
+            "CLOSE DISTINCTION: Earthquake detection is not tsunami confirmation;..."
+          ],
+          "source_references": [
+            "False alarms and uncertainty",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-06_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Tsunami answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE DISPLACEMENT -> TRACE SHOALING AND CONSEQUENCE",
+            "MAP DETECTION MODEL SEA LEVEL BULLETIN AND AUTHORITY",
+            "CONNECT MAP TO EVACUATION BUFFERS PORTS AND LIVELIHOODS",
+            "QUALIFY UNCERTAINTY READINESS RECOVERY AND OUTCOME",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State the issuing agency, bulletin...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State the issuing agency, bulletin..."
+          ],
+          "source_references": [
+            "Recovery and livelihoods",
+            "Warning-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g2\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-06_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\g3\\disaster-management-06_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

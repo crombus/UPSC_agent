@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-09",
+  "subject": "Essay",
+  "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+  "short_route": "EVIDENCE, EXAMPLES, DATA AND → EVIDENCE, EXAMPLES, DATA AND → EVIDENCE, EXAMPLES, DATA AND → EVIDENCE, EXAMPLES, DATA AND → EVIDENCE, EXAMPLES, DATA AND → EVIDENCE, EXAMPLES, DATA AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-09-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "9d484c6447a57fff265f806a899f8c213ead7005390d828ab4f480737afdb2f5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS HOW TO USE EVIDENCE INSIDE AN",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "ABSTRACTION CONCRETE; ON ITS OWN IT ESTABLISHES THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "A DOCUMENTED PATTERN, AN INSTITUTIONAL FACT, A SOURC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa",
+        "CORE TERMS IN PLAIN LANGUAGE → abstraction concrete; on its own it establishes that",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa",
+            "CORE TERMS IN PLAIN LANGUAGE → abstraction concrete; on its own it establishes that"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a sourc",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An analogy illust"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "A DOCUMENTED PATTERN, AN INSTITUTIONAL FACT, A SOURC",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 3",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM IS LIKE REPAIRING A ROOF\"). AN ANALOGY ILLUST",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 4",
+          "role": "comparison"
+        },
+        {
+          "text": "USED WITHOUT NAMING AN AUTHOR UNLESS A PRIMARY/AUTHO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An",
+        "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a",
+        "CORE TERMS IN PLAIN LANGUAGE — 5 → Why the example/evidence/analogy distinction earns m",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a sourc",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An analogy illust"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a primary/autho",
+            "CORE TERMS IN PLAIN LANGUAGE — 5 → Why the example/evidence/analogy distinction earns m"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a sourc"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3",
+        "Core terms in plain language — 4",
+        "Core terms in plain language — 5"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 4",
+          "role": "comparison"
+        },
+        {
+          "text": "USED WITHOUT NAMING AN AUTHOR UNLESS A PRIMARY/AUTHO",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 5",
+          "role": "primary"
+        },
+        {
+          "text": "WHY THE EXAMPLE/EVIDENCE/ANALOGY DISTINCTION EARNS M",
+          "role": "evidence"
+        },
+        {
+          "text": "QUOTATION VS. PARAPHRASE",
+          "role": "comparison"
+        },
+        {
+          "text": "QUOTATION MARKS ARE A PROMISE ABOUT WORDING , NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a",
+        "CORE TERMS IN PLAIN LANGUAGE — 5 → Why the example/evidence/analogy distinction earns m",
+        "QUOTATION VS. PARAPHRASE → Quotation marks are a promise about wording , not me",
+        "EXAM FACTS / SOURCE BASIS → papers and reproduced with their printed defects int",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a primary/autho",
+          "QUOTATION VS. PARAPHRASE → Quotation marks are a promise about wording , not me",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "CORE TERMS IN PLAIN LANGUAGE — 5 → Why the example/evidence/analogy distinction earns m",
+          "EXAM FACTS / SOURCE BASIS → papers and reproduced with their printed defects int",
+          "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a primary/autho"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a primary/autho",
+            "CORE TERMS IN PLAIN LANGUAGE — 5 → Why the example/evidence/analogy distinction earns m"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "QUOTATION VS. PARAPHRASE → Quotation marks are a promise about wording , not me",
+            "EXAM FACTS / SOURCE BASIS → papers and reproduced with their printed defects int"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a primary/autho"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 4",
+        "Core terms in plain language — 5",
+        "Quotation vs. paraphrase",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "QUOTATION VS. PARAPHRASE",
+          "role": "comparison"
+        },
+        {
+          "text": "QUOTATION MARKS ARE A PROMISE ABOUT WORDING , NOT",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "PAPERS AND REPRODUCED WITH THEIR PRINTED DEFECTS INT",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUOTATION VS. PARAPHRASE → Quotation marks are a promise about wording , not me",
+        "EXAM FACTS / SOURCE BASIS → papers and reproduced with their printed defects int",
+        "EXAM FACTS / SOURCE BASIS — 2 → is: quote the prompt exactly, or paraphrase",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: evidence should follow the rule one",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "QUOTATION VS. PARAPHRASE → Quotation marks are a promise about wording , not me",
+            "EXAM FACTS / SOURCE BASIS → papers and reproduced with their printed defects int"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 2 → is: quote the prompt exactly, or paraphrase it faith",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: evidence should follow the rule one cl"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "QUOTATION VS. PARAPHRASE → Quotation marks are a promise about wording , not me"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Quotation vs. paraphrase",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "QUOTE THE PROMPT EXACTLY, OR PARAPHRASE IT FAITH",
+          "role": "primary"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE SHOULD FOLLOW THE RULE ONE CL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS — 2 → is: quote the prompt exactly, or paraphrase",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: evidence should follow the rule one",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example or quotatio",
+        "DIMENSION-EXPANSION GRID → These units model the required chain. “Locally verif",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 2 → is: quote the prompt exactly, or paraphrase it faith",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: evidence should follow the rule one cl"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example or quotatio",
+            "DIMENSION-EXPANSION GRID → These units model the required chain. “Locally verif"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 2 → is: quote the prompt exactly, or paraphrase it faith"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis — 2",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. WHAT SPECIFIC CLAIM DOES THIS EXAMPLE OR QUOTATIO",
+          "role": "evidence"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "primary"
+        },
+        {
+          "text": "THESE UNITS MODEL THE REQUIRED CHAIN. “LOCALLY VERIF",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PREFER INSTITUTIONS, WELL-DOCUMENTED POLICY EPISODES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example or quotatio",
+        "DIMENSION-EXPANSION GRID → These units model the required chain. “Locally verif",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Prefer institutions, well-documented policy episodes",
+        "THESIS OPTIONS AND SELECTION → Choose illustrations that support the specific mecha",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example or quotatio",
+            "DIMENSION-EXPANSION GRID → These units model the required chain. “Locally verif"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → Prefer institutions, well-documented policy episodes",
+            "THESIS OPTIONS AND SELECTION → Choose illustrations that support the specific mecha"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What specific claim does this example or quotatio"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "Dimension-expansion grid",
+        "India-first illustration starters",
+        "Thesis options and selection"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PREFER INSTITUTIONS, WELL-DOCUMENTED POLICY EPISODES",
+          "role": "evidence"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "CHOOSE ILLUSTRATIONS THAT SUPPORT THE SPECIFIC MECHA",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE 09 SUPPLIES USABLE EVIDENCE UNITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA-FIRST ILLUSTRATION STARTERS → Prefer institutions, well-documented policy episodes",
+        "THESIS OPTIONS AND SELECTION → Choose illustrations that support the specific mecha",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 09 supplies usable evidence units",
+        "CONCEPT DEFINITION AND TAXONOMY → confident about from general awareness (an instituti",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "INDIA-FIRST ILLUSTRATION STARTERS → Prefer institutions, well-documented policy episodes",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 09 supplies usable evidence units",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "THESIS OPTIONS AND SELECTION → Choose illustrations that support the specific mecha",
+          "CONCEPT DEFINITION AND TAXONOMY → confident about from general awareness (an instituti",
+          "INDIA-FIRST ILLUSTRATION STARTERS → Prefer institutions, well-documented policy episodes"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → Prefer institutions, well-documented policy episodes",
+            "THESIS OPTIONS AND SELECTION → Choose illustrations that support the specific mecha"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 09 supplies usable evidence units",
+            "CONCEPT DEFINITION AND TAXONOMY → confident about from general awareness (an instituti"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Prefer institutions, well-documented policy episodes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE 09 SUPPLIES USABLE EVIDENCE UNITS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "CONFIDENT ABOUT FROM GENERAL AWARENESS (AN INSTITUTI",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "STATISTICS SIGNALS DEPTH; IN FACT, UNVERIFIABLE ATTR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 09 supplies usable evidence units",
+        "CONCEPT DEFINITION AND TAXONOMY → confident about from general awareness (an instituti",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → statistics signals depth; in fact, unverifiable attr",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → named source is false for general, well-known patter",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 09 supplies usable evidence units",
+            "CONCEPT DEFINITION AND TAXONOMY → confident about from general awareness (an instituti"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → statistics signals depth; in fact, unverifiable attr",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → named source is false for general, well-known patter"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 09 supplies usable evidence units"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "STATISTICS SIGNALS DEPTH; IN FACT, UNVERIFIABLE ATTR",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED SOURCE IS FALSE FOR GENERAL, WELL-KNOWN PATTER",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "outcome"
+        },
+        {
+          "text": "CALIBRATE EVIDENTIARY CONFIDENCE DIFFERENTLY BY CLAI",
+          "role": "comparison"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → statistics signals depth; in fact, unverifiable attr",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → named source is false for general, well-known patter",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Calibrate evidentiary confidence differently by clai",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → Misattributed quotations or invented statistics do n",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → statistics signals depth; in fact, unverifiable attr",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → named source is false for general, well-known patter"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Calibrate evidentiary confidence differently by clai",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → Misattributed quotations or invented statistics do n"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → statistics signals depth; in fact, unverifiable attr"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "comparison"
+        },
+        {
+          "text": "CALIBRATE EVIDENTIARY CONFIDENCE DIFFERENTLY BY CLAI",
+          "role": "evidence"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "MISATTRIBUTED QUOTATIONS OR INVENTED STATISTICS DO N",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS HOW TO USE EVIDENCE INSIDE AN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Calibrate evidentiary confidence differently by clai",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → Misattributed quotations or invented statistics do n",
+        "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa",
+        "CORE TERMS IN PLAIN LANGUAGE → abstraction concrete; on its own it establishes that",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Calibrate evidentiary confidence differently by clai",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → Misattributed quotations or invented statistics do n"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa",
+            "CORE TERMS IN PLAIN LANGUAGE → abstraction concrete; on its own it establishes that"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Calibrate evidentiary confidence differently by clai"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS HOW TO USE EVIDENCE INSIDE AN",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "ABSTRACTION CONCRETE; ON ITS OWN IT ESTABLISHES THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "A DOCUMENTED PATTERN, AN INSTITUTIONAL FACT, A SOURC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa",
+        "CORE TERMS IN PLAIN LANGUAGE → abstraction concrete; on its own it establishes that",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa",
+            "CORE TERMS IN PLAIN LANGUAGE → abstraction concrete; on its own it establishes that"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a sourc",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An analogy illust"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers how to use evidence inside an essa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE, EXAMPLES, DATA AND QUOTATION DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "A DOCUMENTED PATTERN, AN INSTITUTIONAL FACT, A SOURC",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 3",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM IS LIKE REPAIRING A ROOF\"). AN ANALOGY ILLUST",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 4",
+          "role": "comparison"
+        },
+        {
+          "text": "USED WITHOUT NAMING AN AUTHOR UNLESS A PRIMARY/AUTHO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An",
+        "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a",
+        "CORE TERMS IN PLAIN LANGUAGE — 5 → Why the example/evidence/analogy distinction earns m",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a sourc",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → reform is like repairing a roof\"). An analogy illust"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → used without naming an author unless a primary/autho",
+            "CORE TERMS IN PLAIN LANGUAGE — 5 → Why the example/evidence/analogy distinction earns m"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → a documented pattern, an institutional fact, a sourc"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3",
+        "Core terms in plain language — 4",
+        "Core terms in plain language — 5"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFIRMED BY A PRIMARY OR AUTHORITATIVE SOURCE, OR",
+          "role": "evidence"
+        },
+        {
+          "text": "RECALLED-GENERAL CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "A PATTERN THE CANDIDATE IS REASONABLY",
+          "role": "primary"
+        },
+        {
+          "text": "UNVERIFIABLE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "A SPECIFIC NUMBER, DATE, OR \"LATEST\"",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTRIBUTION RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Verified claim: confirmed by a primary or authoritative source, or",
+            "Recalled-general claim: a pattern the candidate is reasonably",
+            "Unverifiable claim: a specific number, date, or \"latest\"",
+            "Attribution risk: the specific risk of naming a wrong author, a"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Erudition vs. accuracy: the assumption that naming authors and",
+            "Completeness vs. safety: the assumption that every claim needs a",
+            "NOT: Guessed authorship attached to any of the 64 V1 prompts. →",
+            "NOT: False precision (a specific invented percentage or date). →"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Evidence-dumping (multiple illustrations per claim). →",
+            "NOT: Over-citation of common-knowledge claims. → Protocol: state",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: A full source/risk ledger discipline for prompts, aphorisms, named quotations and statistics"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

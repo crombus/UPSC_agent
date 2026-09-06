@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-14",
+  "title": "Political Obligation, Resistance and Law",
+  "generation": 4,
+  "generation_date": "2026-09-06",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "political-theory-14:learner-v2:g3",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Political-Theory\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\14_Political-Obligation-Resistance-and-Law.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\14_Political-Obligation-Resistance-and-Law.md",
+  "verified_pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md",
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "learning_contract": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Complete-Learning-Session_2026-09-06.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-14\\g4\\topic-14_Solved-Practice-Workbook_2026-09-06.md",
+  "live_official_sources": [
+    "https://plato.stanford.edu/entries/political-obligation/",
+    "https://pib.gov.in/PressReleasePage.aspx?PRID=2246380&reg=3&lang=2"
+  ],
+  "current_status_control": "Rechecked 2026-09-06 through 3 academic or authoritative source attempts, including 3 substantive references. Failed or thin retrievals support no claim; primary claims, scholarly interpretation and analytical inference remain separate.",
+  "live_sources_rechecked_on": "2026-09-06",
+  "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+  "facts_and_inference_separated": true
+}

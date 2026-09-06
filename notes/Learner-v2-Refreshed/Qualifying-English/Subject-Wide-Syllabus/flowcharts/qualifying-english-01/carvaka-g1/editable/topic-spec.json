@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-english-01",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\01_Parts-of-Speech.md",
+  "source_advanced": null,
+  "stages": [
+    {
+      "number": 1,
+      "title": "Sentence skeleton",
+      "body": "Find the finite verb, subject, object or complement before naming word classes."
+    },
+    {
+      "number": 2,
+      "title": "Functional word classes",
+      "body": "Classify noun, pronoun, verb, adjective, adverb, determiner, preposition and conjunction by use in context."
+    },
+    {
+      "number": 3,
+      "title": "Countability",
+      "body": "Distinguish count, mass and count-shift meanings; use measure expressions where needed."
+    },
+    {
+      "number": 4,
+      "title": "Number and agreement cues",
+      "body": "Handle irregular, zero, plural-only and apparently plural singular nouns."
+    },
+    {
+      "number": 5,
+      "title": "Pronoun case",
+      "body": "Choose subject, object, possessive and reflexive forms by grammatical role."
+    },
+    {
+      "number": 6,
+      "title": "Pronoun reference",
+      "body": "Give every pronoun one clear antecedent and repair ambiguity by recasting."
+    },
+    {
+      "number": 7,
+      "title": "Relative clauses",
+      "body": "Distinguish restrictive from non-restrictive meaning before choosing relative and punctuation."
+    },
+    {
+      "number": 8,
+      "title": "Singular they",
+      "body": "Accept clear modern singular they while preserving verb and noun-number logic."
+    },
+    {
+      "number": 9,
+      "title": "Adjectives and adverbs",
+      "body": "Place modifiers beside their targets and distinguish form from function."
+    },
+    {
+      "number": 10,
+      "title": "Comparison",
+      "body": "Use valid comparative forms and compare like with like."
+    },
+    {
+      "number": 11,
+      "title": "Verb form and transitivity",
+      "body": "Choose principal parts and test object-taking capacity."
+    },
+    {
+      "number": 12,
+      "title": "Editing and timing",
+      "body": "Make the smallest valid correction, flag legitimate variation and verify meaning."
+    }
+  ]
+}

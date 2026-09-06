@@ -5,8 +5,8 @@ Topic: Internal-Security Foundations and Governance
 Subject: Internal Security
 Section: Subject-wide Syllabus
 Catalogue number: 01
-Source record ID: internal-security-01:learner-v2:g3
-Source generation: 3
+Source record ID: internal-security-01:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

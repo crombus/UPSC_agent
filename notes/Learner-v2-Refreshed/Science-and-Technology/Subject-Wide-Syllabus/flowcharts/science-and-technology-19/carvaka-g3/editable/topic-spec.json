@@ -1,0 +1,1118 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-19",
+  "subject": "Science-and-Technology",
+  "title": "DRONES, UAVS AND ROBOTICS POLICY",
+  "short_route": "AIRCRAFT-TO-SYSTEM TERMINOLOGY LADDER → INTEGRATED UAS ARCHITECTURE → FLIGHT-CONTROL FEEDBACK LOOP → PLATFORM CATEGORY COMPARISON → HUMAN-CONTROL CONTINUUM → SWARM COORDINATION MESH",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-19-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "67b150a3408cd439058ad34ff5bcd8796fb09ae13eeb098be032356901b8b7f8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "AIRCRAFT-TO-SYSTEM TERMINOLOGY LADDER",
+      "structural_type": "definition-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AIRCRAFT-TO-SYSTEM TERMINOLOGY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "AIRCRAFT ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "AIRCRAFT + REMOTE STATION + C2 + ASSOCIATED ELEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "REMOTELY PILOTED UAS; PILOT IN COMMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "COLLOQUIAL UMBRELLA",
+          "role": "primary"
+        },
+        {
+          "text": "UNMANNED DOES NOT MEAN AUTONOMOUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "UAV → aircraft only",
+        "UAS → aircraft + remote station + C2 + associated elements",
+        "RPAS → remotely piloted UAS; pilot in command",
+        "DRONE → colloquial umbrella",
+        "RULE → unmanned does not mean autonomous"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "UAV → aircraft only",
+            "UAS → aircraft + remote station + C2 + associated elements"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RPAS → remotely piloted UAS; pilot in command",
+            "DRONE → colloquial umbrella"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → unmanned does not mean autonomous",
+            "UAV → aircraft only"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RPAS → remotely piloted UAS; pilot in command.",
+      "source_references": [
+        "UAV-UAS-RPAS-drone boundary",
+        "Remote operation-automation-autonomy boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INTEGRATED UAS ARCHITECTURE",
+      "structural_type": "systems-stack",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTEGRATED UAS ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "AIRFRAME + POWER + PROPULSION",
+          "role": "mechanism"
+        },
+        {
+          "text": "FLIGHT CONTROLLER + NAVIGATION SENSORS",
+          "role": "comparison"
+        },
+        {
+          "text": "PAYLOAD-DATA LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "REMOTE PILOT STATION OR ONBOARD LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "MISSION CAPABILITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AIRFRAME + POWER + PROPULSION",
+        "FLIGHT CONTROLLER + NAVIGATION SENSORS",
+        "COMMAND / TELEMETRY / PAYLOAD-DATA LINKS",
+        "REMOTE PILOT STATION OR ONBOARD LOGIC",
+        "PAYLOAD → mission capability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "AIRFRAME + POWER + PROPULSION",
+            "FLIGHT CONTROLLER + NAVIGATION SENSORS"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "COMMAND / TELEMETRY / PAYLOAD-DATA LINKS",
+            "REMOTE PILOT STATION OR ONBOARD LOGIC"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "PAYLOAD → mission capability",
+            "AIRFRAME + POWER + PROPULSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REMOTE PILOT STATION OR ONBOARD LOGIC; PAYLOAD → mission capability.",
+      "source_references": [
+        "Integrated UAS component stack",
+        "Navigation-command-link boundary",
+        "Payload-mission-capability link",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FLIGHT-CONTROL FEEDBACK LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FLIGHT-CONTROL FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "DESIRED STATE",
+          "role": "institution"
+        },
+        {
+          "text": "MEASURED STATE",
+          "role": "institution"
+        },
+        {
+          "text": "COMPARE + CORRECT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL SURFACES",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW STATE",
+          "role": "institution"
+        },
+        {
+          "text": "SENSED AGAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMAND / PATH → desired state",
+        "IMU / SENSORS → measured state",
+        "CONTROLLER → compare + correct",
+        "ROTORS / CONTROL SURFACES → physical response",
+        "NEW STATE → sensed again"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "COMMAND / PATH → desired state",
+            "IMU / SENSORS → measured state"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CONTROLLER → compare + correct",
+            "ROTORS / CONTROL SURFACES → physical response"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NEW STATE → sensed again",
+            "COMMAND / PATH → desired state"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROTORS / CONTROL SURFACES → physical response; NEW STATE → sensed again.",
+      "source_references": [
+        "Flight-stabilisation and control chain",
+        "Robotics sensing-actuation-control loop",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PLATFORM CATEGORY COMPARISON",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLATFORM CATEGORY COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "HOVER + CONFINED OPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ROTOR-BORNE FLIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDER-AREA COVERAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "LAUNCH/RECOVERY NEED",
+          "role": "primary"
+        },
+        {
+          "text": "HYBRID VTOL",
+          "role": "outcome"
+        },
+        {
+          "text": "VERTICAL ACCESS + WING CRUISE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATION COMPLEXITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MULTIROTOR → hover + confined operation",
+        "rotor-borne flight",
+        "FIXED-WING → wider-area coverage",
+        "launch/recovery need",
+        "HYBRID VTOL → vertical access + wing cruise"
+      ],
+      "matrix": [
+        [
+          "MULTIROTOR → hover + confined operation",
+          "rotor-borne flight"
+        ],
+        [
+          "FIXED-WING → wider-area coverage",
+          "launch/recovery need"
+        ],
+        [
+          "HYBRID VTOL → vertical access + wing cruise",
+          "integration complexity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MULTIROTOR → hover + confined operation",
+            "rotor-borne flight",
+            "FIXED-WING → wider-area coverage"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "launch/recovery need",
+            "HYBRID VTOL → vertical access + wing cruise",
+            "integration complexity"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "PAYLOAD CHANGES → mass + power + data + control burden",
+            "NO LABEL → universal range/endurance guarantee"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAYLOAD CHANGES → mass + power + data + control burden.",
+      "source_references": [
+        "Payload-mission-capability link",
+        "Multirotor-fixed-wing-hybrid categories",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HUMAN-CONTROL CONTINUUM",
+      "structural_type": "control-continuum",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "HUMAN-CONTROL CONTINUUM",
+          "role": "primary"
+        },
+        {
+          "text": "HUMAN DIRECTLY COMMANDS",
+          "role": "outcome"
+        },
+        {
+          "text": "FIXED SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSES AND SELECTS ACTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "AI SUBSYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "PERCEPTION/DECISION SUPPORT, NOT LEGAL AUTHORITY",
+          "role": "caution"
+        },
+        {
+          "text": "HUMAN OVERSIGHT + DEFINED FALLBACK",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TELEOPERATION → human directly commands",
+        "AUTOMATION → fixed sequence",
+        "AUTONOMY → senses and selects actions",
+        "AI SUBSYSTEM → perception/decision support, not legal authority",
+        "ACCOUNTABILITY → human oversight + defined fallback"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "TELEOPERATION → human directly commands",
+            "AUTOMATION → fixed sequence"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "AUTONOMY → senses and selects actions",
+            "AI SUBSYSTEM → perception/decision support, not legal authority"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "ACCOUNTABILITY → human oversight + defined fallback",
+            "TELEOPERATION → human directly commands"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AI SUBSYSTEM → perception/decision support, not legal authority.",
+      "source_references": [
+        "Remote operation-automation-autonomy boundary",
+        "AI-enabled autonomy boundary",
+        "Safety-reliability-liability chain",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SWARM COORDINATION MESH",
+      "structural_type": "network-mesh",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SWARM COORDINATION MESH",
+          "role": "primary"
+        },
+        {
+          "text": "MULTIPLE AIRCRAFT",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF AND NEIGHBOUR STATE",
+          "role": "institution"
+        },
+        {
+          "text": "SHARED TASK/STATE INFORMATION",
+          "role": "institution"
+        },
+        {
+          "text": "CONTROL RULES",
+          "role": "primary"
+        },
+        {
+          "text": "ALLOCATION + FORMATION + ADAPTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FAILURE TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "LINK LOSS OR MEMBER LOSS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEMBERS → multiple aircraft",
+        "LOCALISATION → self and neighbour state",
+        "COMMUNICATION → shared task/state information",
+        "CONTROL RULES → allocation + formation + adaptation",
+        "FAILURE TEST → link loss or member loss"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MEMBERS → multiple aircraft",
+            "LOCALISATION → self and neighbour state"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "COMMUNICATION → shared task/state information",
+            "CONTROL RULES → allocation + formation + adaptation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "FAILURE TEST → link loss or member loss",
+            "MEMBERS → multiple aircraft"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FAILURE TEST → link loss or member loss.",
+      "source_references": [
+        "Drone-swarm coordination",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "VLOS TO BVLOS ASSURANCE BRIDGE",
+      "structural_type": "risk-bridge",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VLOS TO BVLOS ASSURANCE BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "PILOT MAINTAINS UNAIDED VISUAL CONTACT",
+          "role": "outcome"
+        },
+        {
+          "text": "AIRCRAFT BEYOND VISUAL ENVELOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "RELIABLE C2 + NAVIGATION + DETECT-AND-AVOID",
+          "role": "evidence"
+        },
+        {
+          "text": "LOST LINK + DIVERSION + TERMINATION LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "TRIAL AUTHORISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTINE PERMISSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VLOS → pilot maintains unaided visual contact",
+        "BVLOS → aircraft beyond visual envelope",
+        "BRIDGE → reliable C2 + navigation + detect-and-avoid",
+        "CONTINGENCY → lost link + diversion + termination logic",
+        "STATUS → trial authorisation != routine permission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "VLOS → pilot maintains unaided visual contact",
+            "BVLOS → aircraft beyond visual envelope"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BRIDGE → reliable C2 + navigation + detect-and-avoid",
+            "CONTINGENCY → lost link + diversion + termination logic"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → trial authorisation != routine permission",
+            "VLOS → pilot maintains unaided visual contact"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTINGENCY → lost link + diversion + termination logic.",
+      "source_references": [
+        "VLOS-BVLOS operating boundary",
+        "Approval-to-deployment firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COUNTER-UAS DECISION FUNNEL",
+      "structural_type": "decision-funnel",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COUNTER-UAS DECISION FUNNEL",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY AND MAINTAIN PICTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITY + PROPORTIONALITY + SURROUNDINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "OTHER AUTHORISED RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "JAMMING/SPOOFING CAN AFFECT LEGITIMATE SYSTEMS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DETECT → radar",
+        "IDENTIFY / TRACK → classify and maintain picture",
+        "DECIDE → authority + proportionality + surroundings",
+        "MITIGATE → electronic",
+        "other authorised response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DETECT → radar",
+            "IDENTIFY / TRACK → classify and maintain picture"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DECIDE → authority + proportionality + surroundings",
+            "MITIGATE → electronic"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "other authorised response",
+            "LIMIT → jamming/spoofing can affect legitimate systems"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MITIGATE → electronic | capture | other authorised response.",
+      "source_references": [
+        "Counter-UAS and electronic-countermeasure layers",
+        "Privacy-data-cybersecurity boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CIVILIAN APPLICATION EVIDENCE GRID",
+      "structural_type": "application-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CIVILIAN APPLICATION EVIDENCE GRID",
+          "role": "evidence"
+        },
+        {
+          "text": "WILDLIFE OBSERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DISASTER ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PILOT OR AUTHORISED MISSION, NOT BLANKET SERVICE",
+          "role": "caution"
+        },
+        {
+          "text": "IMAGERY + INTERPRETATION + FIELD VERIFICATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AGRICULTURE → monitor / map / spray",
+        "SCIENCE → volcano / wildlife observation",
+        "GOVERNANCE → survey / inspection / disaster assessment",
+        "LOGISTICS → pilot or authorised mission, not blanket service",
+        "EVIDENCE → imagery + interpretation + field verification"
+      ],
+      "matrix": [
+        [
+          "CONCEPT / ARCHITECTURE",
+          "MECHANISM / APPLICATION",
+          "READINESS / STATUS LIMIT"
+        ],
+        [
+          "AGRICULTURE → monitor / map / spray",
+          "GOVERNANCE → survey / inspection / disaster assessment",
+          "EVIDENCE → imagery + interpretation + field verification"
+        ],
+        [
+          "SCIENCE → volcano / wildlife observation",
+          "LOGISTICS → pilot or authorised mission, not blanket service",
+          "AGRICULTURE → monitor / map / spray"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "AGRICULTURE → monitor / map / spray",
+            "SCIENCE → volcano / wildlife observation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "GOVERNANCE → survey / inspection / disaster assessment",
+            "LOGISTICS → pilot or authorised mission, not blanket service"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE → imagery + interpretation + field verification",
+            "AGRICULTURE → monitor / map / spray"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE → imagery + interpretation + field verification.",
+      "source_references": [
+        "Civilian application and evidence boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SAFETY PRIVACY AND LIABILITY SHIELD",
+      "structural_type": "layered-shield",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SAFETY PRIVACY AND LIABILITY SHIELD",
+          "role": "primary"
+        },
+        {
+          "text": "AIRWORTHINESS + MAINTENANCE + FAILSAFES",
+          "role": "outcome"
+        },
+        {
+          "text": "PILOT + WEATHER + ROUTE + PAYLOAD DISCIPLINE",
+          "role": "comparison"
+        },
+        {
+          "text": "PURPOSE + ACCESS + RETENTION + GEOSPATIAL SENSITIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "C2/NAVIGATION/PAYLOAD-LINK RESILIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "TRACE OPERATOR/SOFTWARE/MANUFACTURER FUNCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "DRONES COMBINE AIRFRAME, PROPULSION, CONTROL, COMMUNICATION/NAVIGATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENGINEERING → airworthiness + maintenance + failsafes",
+        "OPERATIONS → pilot + weather + route + payload discipline",
+        "DATA → purpose + access + retention + geospatial sensitivity",
+        "CYBER → C2/navigation/payload-link resilience",
+        "LIABILITY → trace operator/software/manufacturer function"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ENGINEERING → airworthiness + maintenance + failsafes",
+            "OPERATIONS → pilot + weather + route + payload discipline"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DATA → purpose + access + retention + geospatial sensitivity",
+            "CYBER → C2/navigation/payload-link resilience"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "LIABILITY → trace operator/software/manufacturer function",
+            "MUST REMEMBER: Drones combine airframe, propulsion, control, communication/navigation,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Drones combine airframe, propulsion, control, communication/navigation,.",
+      "source_references": [
+        "Safety-reliability-liability chain",
+        "Privacy-data-cybersecurity boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-19_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIAN GOVERNANCE RESPONSIBILITY MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAN GOVERNANCE RESPONSIBILITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CIVIL REGULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "AIRSPACE AND TRAFFIC SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "AVIATION SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DIGITAL SKY",
+          "role": "primary"
+        },
+        {
+          "text": "WORKFLOW PLATFORM, NOT ATC",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DRONE IS NOT NECESSARILY AUTONOMOUS, REMOTE PILOTING IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MOCA → policy / notification",
+        "DGCA → civil regulation / certification",
+        "AAI / ATC → airspace and traffic services",
+        "BCAS → aviation security",
+        "DIGITAL SKY → workflow platform, not ATC"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MOCA → policy / notification",
+            "DGCA → civil regulation / certification"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "AAI / ATC → airspace and traffic services",
+            "BCAS → aviation security"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DIGITAL SKY → workflow platform, not ATC",
+            "CLOSE DISTINCTION: Drone is not necessarily autonomous, remote piloting is not AI,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Drone is not necessarily autonomous, remote piloting is not AI,.",
+      "source_references": [
+        "Drone Rules category spine",
+        "Digital Sky-airspace-institution boundary",
+        "Certification-registration-pilot-status ladder",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-19_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "APPROVAL-TO-OUTCOME STATUS RAIL",
+      "structural_type": "status-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "APPROVAL-TO-OUTCOME STATUS RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL TEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "TYPE CERTIFICATE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT COMPLIANCE CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORISED OR SUPPORTED ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "NOT OPERATIONAL DEPLOYMENT",
+          "role": "caution"
+        },
+        {
+          "text": "NOT VERIFIED SAFETY, SCALE OR OUTCOME",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RULE / AMENDMENT → legal text",
+        "TYPE CERTIFICATE / UIN / RPC → distinct compliance conditions",
+        "TRIAL / SCHEME / INCENTIVE → authorised or supported route",
+        "PROCUREMENT / DELIVERY → not operational deployment",
+        "DEPLOYMENT → not verified safety, scale or outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "RULE / AMENDMENT → legal text",
+            "TYPE CERTIFICATE / UIN / RPC → distinct compliance conditions"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "TRIAL / SCHEME / INCENTIVE → authorised or supported route",
+            "PROCUREMENT / DELIVERY → not operational deployment"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DEPLOYMENT → not verified safety, scale or outcome",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State platform class, weight/category,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State platform class, weight/category,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State platform class, weight/category,.",
+      "source_references": [
+        "Certification-registration-pilot-status ladder",
+        "Dual-use and industrial-policy boundary",
+        "Approval-to-deployment firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g2\\science-and-technology-19_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-19_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-19\\g3\\science-and-technology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE MOST IMPORTANT ANALYTICAL SPLIT IS BETWEEN AIRFRAME MANUFACTURING",
+          "role": "outcome"
+        },
+        {
+          "text": "THE LATTER DEPENDS ON SENSORS, SOFTWARE, COMMUNICATIONS AND PAYLOAD",
+          "role": "comparison"
+        },
+        {
+          "text": "DRONE POLICY SITS AT THE INTERSECTION OF AVIATION LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "ROBOTICS CAPABILITY IS INCREASINGLY DUAL-USE",
+          "role": "primary"
+        },
+        {
+          "text": "AGRICULTURE SPRAYING AND LOGISTICS CAN COEXIST WITH DEFENCE-SUPPORT OR",
+          "role": "outcome"
+        },
+        {
+          "text": "RULE-MAKING AND SCHEME-LEVEL ANCHOR.",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPLIANCE AND CIVIL-DRONE REGULATORY AUTHORITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The most important analytical split is between airframe manufacturing and mission capability",
+            "the latter depends on sensors, software, communications and payload integration.",
+            "CAUTION: Drone policy sits at the intersection of aviation law, digital governance, privacy, internal security and industrial policy.",
+            "CAUTION: Robotics capability is increasingly dual-use: agriculture spraying and logistics can coexist with defence-support or surveillance relevance."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "MoCA: rule-making and scheme-level anchor.",
+            "DGCA: compliance and civil-drone regulatory authority.",
+            "Digital Sky: public-facing airspace and permission architecture.",
+            "PLI for drones and drone components: industrial push for indigenous ecosystem capability."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Training/certification ecosystem: necessary for safe scaling of operations.",
+            "Agriculture: precision application and monitoring can reduce time and improve coverage.",
+            "Disaster response: rapid imaging and access to difficult terrain improves first-response intelligence.",
+            "Surveying/logistics/infrastructure inspection: drones reduce time and increase reach."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

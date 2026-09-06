@@ -1,0 +1,1117 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-20",
+  "subject": "Science-and-Technology",
+  "title": "EMERGING MATERIALS, RARE EARTHS AND CRITICAL MINERALS",
+  "short_route": "PROPERTY STRUCTURE PROCESSING MAP → ADVANCED MATERIALS FAMILY → REE CLASSIFICATION RAIL → CATEGORY FIREWALL → PERMANENT MAGNET CAPABILITY LADDER → BATTERY MINERAL ROLE MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-20-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "4ca25cda683e13c49bd0b978955f0ff9166344bd9865b99568f9ff9098ede7f5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PROPERTY STRUCTURE PROCESSING MAP",
+      "structural_type": "causal-chain",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PROPERTY STRUCTURE PROCESSING MAP",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOSITION + BONDING",
+          "role": "outcome"
+        },
+        {
+          "text": "INTRINSIC BEHAVIOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "MOLECULAR STRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPERTY PATHWAYS",
+          "role": "primary"
+        },
+        {
+          "text": "MICROSTRUCTURE + DEFECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL PERFORMANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANGES STRUCTURE AND DEFECTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPOSITION + BONDING → intrinsic behaviour",
+        "CRYSTAL / MOLECULAR STRUCTURE → property pathways",
+        "MICROSTRUCTURE + DEFECTS → local performance",
+        "PROCESSING → changes structure and defects",
+        "TEST → strength != stiffness != toughness != hardness"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "COMPOSITION + BONDING → intrinsic behaviour",
+            "CRYSTAL / MOLECULAR STRUCTURE → property pathways"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MICROSTRUCTURE + DEFECTS → local performance",
+            "PROCESSING → changes structure and defects"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TEST → strength != stiffness != toughness != hardness",
+            "COMPOSITION + BONDING → intrinsic behaviour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → strength != stiffness != toughness != hardness.",
+      "source_references": [
+        "Material-property structure",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ADVANCED MATERIALS FAMILY",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ADVANCED MATERIALS FAMILY",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ENGINEERED DEMANDING FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MATRIX + REINFORCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CARBON-FIBRE COMPOSITE",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH SPECIFIC STRENGTH/STIFFNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SMART MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "STIMULUS-RESPONSIVE PROPERTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED MATERIAL → engineered demanding function",
+        "COMPOSITE → matrix + reinforcement",
+        "CARBON-FIBRE COMPOSITE → high specific strength/stiffness",
+        "SMART MATERIAL → stimulus-responsive property",
+        "EXAMPLES → shape-memory alloy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ADVANCED MATERIAL → engineered demanding function",
+            "COMPOSITE → matrix + reinforcement"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CARBON-FIBRE COMPOSITE → high specific strength/stiffness",
+            "SMART MATERIAL → stimulus-responsive property"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAMPLES → shape-memory alloy",
+            "piezoelectric material"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SMART MATERIAL → stimulus-responsive property; EXAMPLES → shape-memory alloy | piezoelectric material.",
+      "source_references": [
+        "Advanced composite and smart materials",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REE CLASSIFICATION RAIL",
+      "structural_type": "classification-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REE CLASSIFICATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "15 LANTHANIDES + SCANDIUM + YTTRIUM",
+          "role": "outcome"
+        },
+        {
+          "text": "HEAVY OWNER EXAMPLES",
+          "role": "comparison"
+        },
+        {
+          "text": "CHIEFLY LIGHT-REE-RICH INDIAN CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "GEOLOGICAL OCCURRENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATED MAGNET INPUT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "REE = 15 LANTHANIDES + SCANDIUM + YTTRIUM",
+        "LIGHT → La",
+        "HEAVY OWNER EXAMPLES → Dy",
+        "MONAZITE → chiefly light-REE-rich Indian context",
+        "TRAP → geological occurrence != separated magnet input"
+      ],
+      "matrix": [
+        [
+          "LIGHT → La",
+          "Ce",
+          "Pr",
+          "Nd"
+        ],
+        [
+          "HEAVY OWNER EXAMPLES → Dy",
+          "Tb",
+          "Y",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "REE = 15 LANTHANIDES + SCANDIUM + YTTRIUM",
+            "LIGHT → La"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HEAVY OWNER EXAMPLES → Dy",
+            "MONAZITE → chiefly light-REE-rich Indian context"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → geological occurrence != separated magnet input",
+            "REE = 15 LANTHANIDES + SCANDIUM + YTTRIUM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → geological occurrence != separated magnet input.",
+      "source_references": [
+        "Rare earth element definition",
+        "Light-heavy REE distinction",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CATEGORY FIREWALL",
+      "structural_type": "venn-boundary",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CATEGORY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CHEMICAL GROUP",
+          "role": "outcome"
+        },
+        {
+          "text": "RARE EARTH ELEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY CATEGORY",
+          "role": "evidence"
+        },
+        {
+          "text": "CRITICAL MINERALS",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "PART D",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPLORATION ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHEMICAL GROUP → rare earth elements",
+        "POLICY CATEGORY → critical minerals",
+        "STATUTORY ROUTE → Part D",
+        "EXPLORATION ROUTE → Seventh Schedule",
+        "LITHIUM / COBALT / NICKEL / GRAPHITE → critical may be, REE no"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "CHEMICAL GROUP → rare earth elements",
+            "POLICY CATEGORY → critical minerals"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STATUTORY ROUTE → Part D",
+            "EXPLORATION ROUTE → Seventh Schedule"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LITHIUM / COBALT / NICKEL / GRAPHITE → critical may be, REE no",
+            "CHEMICAL GROUP → rare earth elements"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LITHIUM / COBALT / NICKEL / GRAPHITE → critical may be, REE no.",
+      "source_references": [
+        "Critical mineral versus rare earth",
+        "Indian mission and policy boundaries",
+        "MMDR exploration and auction distinction",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PERMANENT MAGNET CAPABILITY LADDER",
+      "structural_type": "capability-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PERMANENT MAGNET CAPABILITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "MAGNETIC PERFORMANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH-TEMPERATURE QUALIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ORE → SEPARATION → OXIDE / METAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORE → SEPARATION → OXIDE / METAL",
+        "METAL → ALLOY → MAGNET",
+        "MAGNET → MOTOR / ELECTRONICS / DEFENCE",
+        "Nd → magnetic performance",
+        "Dy / Tb → high-temperature qualification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ORE → SEPARATION → OXIDE / METAL",
+            "METAL → ALLOY → MAGNET"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAGNET → MOTOR / ELECTRONICS / DEFENCE",
+            "Nd → magnetic performance"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "Dy / Tb → high-temperature qualification",
+            "ORE → SEPARATION → OXIDE / METAL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Nd → magnetic performance; Dy / Tb → high-temperature qualification.",
+      "source_references": [
+        "Permanent magnet chain",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BATTERY MINERAL ROLE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BATTERY MINERAL ROLE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CHARGE-CARRIER SYSTEM INPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "NICKEL + COBALT",
+          "role": "comparison"
+        },
+        {
+          "text": "NCA CATHODES",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON LITHIUM-ION ANODE",
+          "role": "primary"
+        },
+        {
+          "text": "NEITHER NICKEL NOR COBALT",
+          "role": "outcome"
+        },
+        {
+          "text": "AVOIDS LITHIUM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LITHIUM → charge-carrier system input",
+        "NICKEL + COBALT → NMC / NCA cathodes",
+        "GRAPHITE → common lithium-ion anode",
+        "LFP → neither nickel nor cobalt",
+        "SODIUM-ION → avoids lithium"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "LITHIUM → charge-carrier system input",
+          "GRAPHITE → common lithium-ion anode",
+          "SODIUM-ION → avoids lithium"
+        ],
+        [
+          "NICKEL + COBALT → NMC / NCA cathodes",
+          "LFP → neither nickel nor cobalt",
+          "LITHIUM → charge-carrier system input"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "LITHIUM → charge-carrier system input",
+            "NICKEL + COBALT → NMC / NCA cathodes"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GRAPHITE → common lithium-ion anode",
+            "LFP → neither nickel nor cobalt"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SODIUM-ION → avoids lithium",
+            "LITHIUM → charge-carrier system input"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NICKEL + COBALT → NMC / NCA cathodes.",
+      "source_references": [
+        "Battery-mineral chemistry boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NAMED APPLICATION PORTFOLIO",
+      "structural_type": "portfolio-wheel",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NAMED APPLICATION PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH-TECH ELECTRONICS",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTRICAL SYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIALISED OPTICS",
+          "role": "evidence"
+        },
+        {
+          "text": "TITANIUM-BEARING MINERALS",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOGRAPHY INPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "RARE-EARTH VALUES + THORIUM-BEARING CONTEXT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GALLIUM / GERMANIUM → high-tech electronics",
+        "COPPER → electrical systems",
+        "REE → magnets",
+        "specialised optics",
+        "TITANIUM-BEARING MINERALS → separate policy / geography input"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "GALLIUM / GERMANIUM → high-tech electronics",
+            "COPPER → electrical systems"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "REE → magnets",
+            "specialised optics"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TITANIUM-BEARING MINERALS → separate policy / geography input",
+            "MONAZITE → rare-earth values + thorium-bearing context"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TITANIUM-BEARING MINERALS → separate policy / geography input.",
+      "source_references": [
+        "Other named uses",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MINE TO TECHNOLOGY VALUE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MINE TO TECHNOLOGY VALUE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RECOVERED FEED WITH PURITY/ECONOMIC LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLORE → ASSESS → DEVELOP → EXTRACT",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFICIATE → SEPARATE / REFINE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXPLORE → ASSESS → DEVELOP → EXTRACT",
+        "BENEFICIATE → SEPARATE / REFINE",
+        "OXIDE / METAL / ALLOY → COMPONENT",
+        "COMPONENT → BATTERY / MAGNET / CHIP / SYSTEM",
+        "RECYCLE → recovered feed with purity/economic limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "EXPLORE → ASSESS → DEVELOP → EXTRACT",
+            "BENEFICIATE → SEPARATE / REFINE"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OXIDE / METAL / ALLOY → COMPONENT",
+            "COMPONENT → BATTERY / MAGNET / CHIP / SYSTEM"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RECYCLE → recovered feed with purity/economic limits",
+            "EXPLORE → ASSESS → DEVELOP → EXTRACT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPONENT → BATTERY / MAGNET / CHIP / SYSTEM.",
+      "source_references": [
+        "Mining-to-component chain",
+        "Resource reserve production refining firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DEPENDENCY HEAT MAP",
+      "structural_type": "stage-risk-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEPENDENCY HEAT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SECURE MINE ALONE IS PARTIAL SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "UPSTREAM → GEOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "MIDSTREAM → SEPARATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UPSTREAM → geology",
+        "MIDSTREAM → separation",
+        "DOWNSTREAM → cell",
+        "ENABLERS → technology",
+        "VERDICT → secure mine alone is partial security"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "UPSTREAM → geology",
+            "MIDSTREAM → separation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DOWNSTREAM → cell",
+            "ENABLERS → technology"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → secure mine alone is partial security",
+            "UPSTREAM → geology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → secure mine alone is partial security.",
+      "source_references": [
+        "Supply concentration and strategic dependency",
+        "Diversification overseas access and stocks",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CIRCULAR MATERIALS LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CIRCULAR MATERIALS LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "RE-ENTER MANUFACTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTITUTE + EFFICIENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "REDUCE PRIMARY-MATERIAL PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "primary"
+        },
+        {
+          "text": "CRITICAL-MINERAL ANALYSIS FOLLOWS GEOLOGY, RESOURCE/RESERVE, MINING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DESIGN → durability",
+        "USE → reuse / remanufacture",
+        "COLLECT → sort → pre-process",
+        "RECOVER → purify → re-enter manufacture",
+        "SUBSTITUTE + EFFICIENCY → reduce primary-material pressure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DESIGN → durability",
+            "USE → reuse / remanufacture"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "COLLECT → sort → pre-process",
+            "RECOVER → purify → re-enter manufacture"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SUBSTITUTE + EFFICIENCY → reduce primary-material pressure",
+            "MUST REMEMBER: Critical-mineral analysis follows geology, resource/reserve, mining,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Critical-mineral analysis follows geology, resource/reserve, mining,.",
+      "source_references": [
+        "Recycling urban mining and substitution",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-20_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MINE-LIFE SAFEGUARD CHAIN",
+      "structural_type": "hazard-remedy-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MINE-LIFE SAFEGUARD CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CUMULATIVE IMPACT + CONSULTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TAILINGS CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "FRA DUE DILIGENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "STABLE DUMPS",
+          "role": "primary"
+        },
+        {
+          "text": "NATIVE RESTORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCE + MONITORING; PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "ACHIEVED OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SITING → cumulative impact + consultation",
+        "OPERATIONS → dust",
+        "tailings controls",
+        "COMMUNITY → FRA due diligence",
+        "RECLAMATION → topsoil"
+      ],
+      "matrix": [
+        [
+          "OPERATIONS → dust",
+          "noise",
+          "water",
+          "tailings controls"
+        ],
+        [
+          "COMMUNITY → FRA due diligence",
+          "disclosure",
+          "grievance",
+          ""
+        ],
+        [
+          "RECLAMATION → topsoil",
+          "stable dumps",
+          "native restoration",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SITING → cumulative impact + consultation",
+            "OPERATIONS → dust",
+            "tailings controls"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMUNITY → FRA due diligence",
+            "RECLAMATION → topsoil",
+            "stable dumps"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "native restoration",
+            "CLOSURE → finance + monitoring; plan != achieved outcome",
+            "CLOSE DISTINCTION: Critical is not necessarily rare, rare earths are not all scarce,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Critical is not necessarily rare, rare earths are not all scarce,.",
+      "source_references": [
+        "Environmental and social impact chain",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-20_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INDIA INSTITUTIONS STATUS AND PYQ RAIL",
+      "structural_type": "institution-status-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INDIA INSTITUTIONS STATUS AND PYQ RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "STATE GRANT + S.11D CENTRAL AUCTION",
+          "role": "institution"
+        },
+        {
+          "text": "DISTINCT ROLES",
+          "role": "comparison"
+        },
+        {
+          "text": "MONAZITE ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "OVERSEAS ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "DEEP-OCEAN EXPLORATION BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NAME MINERAL/MATERIAL, VALUE-CHAIN NODE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MINES → policy",
+        "GSI → survey/explore",
+        "IBM → plans/conservation",
+        "STATE GRANT + s.11D CENTRAL AUCTION → distinct roles",
+        "IREL / DAE → monazite route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MINES → policy",
+            "GSI → survey/explore",
+            "IBM → plans/conservation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "STATE GRANT + s.11D CENTRAL AUCTION → distinct roles",
+            "IREL / DAE → monazite route",
+            "KABIL → overseas route"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "MoES / NIOT / ISA → deep-ocean exploration boundary",
+            "REPORT → LAW → APPROVAL → MOU → EXPLORATION → PRODUCTION → OUTCOME",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name mineral/material, value-chain node,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name mineral/material, value-chain node,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name mineral/material, value-chain node,.",
+      "source_references": [
+        "Indian mission and policy boundaries",
+        "Indian institution map",
+        "MMDR exploration and auction distinction",
+        "Deep-ocean and offshore boundary",
+        "Routed PYQ material tests",
+        "Volatile number and status firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g2\\science-and-technology-20_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-20_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-20\\g3\\science-and-technology-20_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE KEY ADVANCED DISTINCTION IS BETWEEN GEOLOGICAL PRESENCE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "A COUNTRY MAY HAVE RESOURCES BUT STILL REMAIN VULNERABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "THEREFORE, CRITICAL-MINERAL POLICY IS SIMULTANEOUSLY A MINING POLICY, INDUSTRIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "MINISTRY OF MINES",
+          "role": "primary"
+        },
+        {
+          "text": "POLICY AND MISSION-LEVEL ANCHOR.",
+          "role": "outcome"
+        },
+        {
+          "text": "THE NATIONAL GEOSCIENTIFIC SURVEY AND EXPLORATION AGENCY — NOT",
+          "role": "caution"
+        },
+        {
+          "text": "MINING-PLAN APPROVAL, SCIENTIFIC MINING AND MINERAL CONSERVATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The key advanced distinction is between geological presence and usable strategic capability .",
+            "CAUTION: A country may have resources but still remain vulnerable if refining and component manufacturing are concentrated elsewhere.",
+            "CAUTION: Therefore, critical-mineral policy is simultaneously a mining policy, industrial policy, trade policy and strategic policy.",
+            "Ministry of Mines: policy and mission-level anchor."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "GSI: the national geoscientific survey and exploration agency — not the mine developer, lease-granting authority or sectoral regulator.",
+            "IBM: mining-plan approval, scientific mining and mineral conservation",
+            "State governments grant concessions, with the Centre auctioning Part D minerals under s.11D .",
+            "IREL (India) Ltd (DAE): monazite processing for rare earths and thorium."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "KABIL: overseas sourcing/exploration instrument.",
+            "MoES / NIOT — Deep Ocean Mission: seabed polymetallic-nodule exploration under an ISA contract.",
+            "Mineral Security Partnership: plurilateral investment-coordination platform India has joined.",
+            "NCMM: mission framework covering exploration, mining, processing, recycling and stockpiles."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

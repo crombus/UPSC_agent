@@ -16,7 +16,7 @@ from typing import Any
 
 
 _BASE = Path(__file__).with_name("regenerate_indian_society_deep_review.py")
-_BASE_SHA256 = "b68803a9dbc8334c29d4eaa7584d0cd414923df189905c8c3b582299e2ee3b54"
+_BASE_SHA256 = "a3ddcc105b65a513cc45fb28caf0a030a1984bb4611beb96947ed3aa6072cd5d"
 _base_bytes = _BASE.read_bytes()
 if hashlib.sha256(_base_bytes).hexdigest() != _BASE_SHA256:
     raise RuntimeError(
@@ -49,6 +49,19 @@ for _old, _new in (
     if _old not in _source:
         raise RuntimeError(f"Ethics transformation anchor is missing: {_old!r}")
     _source = _source.replace(_old, _new)
+
+# The inherited Indian Art and Culture layer now contains optional authoring
+# hooks for the latest Indian Society topics. Ethics has its own dedicated
+# topic-data generator below, so keep those inherited hooks inert instead of
+# transforming them into non-existent Ethics modules.
+_source = _source.replace(
+    "generate_ethics_common",
+    "generate_indian_society_common",
+)
+_source = _source.replace(
+    "from ethics_11_15_data import (",
+    "from indian_society_11_15_data import (",
+)
 
 _old_tests = """    tests = [
         run_unittest("test_regenerate_ethics_deep_review"),
@@ -92,6 +105,14 @@ if hasattr(sys.stdout, "reconfigure"):
 
 
 DATE = "2026-09-02"
+TOPIC21_AUTHORED_ASCII = (
+    ROOT
+    / "upsc-ai-kit"
+    / "manifests"
+    / "retrofits"
+    / "ascii-panel-specs"
+    / "ethics-21-deep-review-2026-09-02-g2.json"
+)
 SECTION_MANIFEST = (
     ROOT / "upsc-ai-kit" / "manifests" / "v2" / "ethics--subject-wide-syllabus.json"
 )
@@ -579,6 +600,9 @@ def validate_generated(
         "The learner-facing Core has fewer than ten visual gateways.",
         "The learner-facing Core has fewer than fifteen visual gateways.",
         "ASCII/graphical source ledger lacks the three Ethics controls.",
+        "Topic 21 ASCII atlas titles diverge from authored source.",
+        "Topic 21 ASCII atlas body diverges from authored source.",
+        "Topic 21 session/workbook diverges from repaired authoring masters.",
     )
     result["errors"] = [
         error for error in result["errors"] if error not in inherited_visual_errors
@@ -684,9 +708,38 @@ def build_ascii_spec(
         references = panel.get("source_references")
         if not isinstance(references, list):
             panel["source_references"] = [json.dumps(references, ensure_ascii=False)]
-    for panel, lines in zip(
-        (panels[0], panels[9], panels[10]), _wrapped_review_groups(topic)
-    ):
+
+        control_prefixes = (
+            "MUST REMEMBER:",
+            "CLOSE DISTINCTION:",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT:",
+        )
+        current_lines = (
+            str(panel["ascii_text"]).splitlines()
+            if "ascii_text" in panel
+            else list(panel.setdefault("ascii_lines", []))
+        )
+        first_control = next(
+            (
+                index
+                for index, line in enumerate(current_lines)
+                if line.lstrip().startswith(control_prefixes)
+            ),
+            None,
+        )
+        if first_control is not None:
+            current_lines = current_lines[:first_control]
+            if "ascii_text" in panel:
+                panel["ascii_text"] = "\n".join(current_lines)
+            else:
+                panel["ascii_lines"] = current_lines
+    def body_length(panel: dict[str, Any]) -> int:
+        if "ascii_text" in panel:
+            return len(str(panel["ascii_text"]).splitlines())
+        return len(panel.setdefault("ascii_lines", []))
+
+    review_panels = sorted(panels, key=body_length)[:3]
+    for panel, lines in zip(review_panels, _wrapped_review_groups(topic)):
         rendered = (
             str(panel["ascii_text"])
             if "ascii_text" in panel

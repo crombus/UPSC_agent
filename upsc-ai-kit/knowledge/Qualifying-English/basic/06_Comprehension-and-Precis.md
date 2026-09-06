@@ -159,3 +159,50 @@ Online meetings reduce travel and widen access, so they are often treated as sub
 | Independence | Have I rewritten structure and wording where possible? |
 | Coherence | Does it read as connected prose rather than notes? |
 | Correctness | Are grammar, punctuation and title instructions accurate? |
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Comprehension of given passages and Precis Writing.
+- **Canonical ownership:** Owns passage-only comprehension, literal/inferential/tone/purpose/reference/context-vocabulary answers, multipart allocation, précis idea mapping, compression, paraphrase, fidelity, coherence and instruction compliance.
+- **Cross-topic boundary:** Vocabulary form belongs to Topic 04 and sentence correction to Topic 05; Topic 06 applies those skills to supplied prose and does not import outside facts.
+
+### Complete learner and answer route
+
+1. **Read the command:** Identify literal, inference, tone, purpose, reference, context meaning or multipart demand.
+2. **Map the passage:** Mark thesis, reasons, examples, contrasts, qualifications and conclusion.
+3. **Locate support:** Tie each answer to explicit words or a minimally extended inference.
+4. **Control scope:** Reject outside knowledge, overstatement, reversal and half-true options.
+5. **Answer multipart questions:** List every limb and allocate space before drafting.
+6. **Calibrate tone and purpose:** Name stance and function, then support both.
+7. **Précis ratio:** Calculate the instructed target and recount after revision.
+8. **Idea-unit selection:** Keep thesis, major reasons, concessions and verdict; remove illustration and repetition.
+9. **Paraphrase:** Change structure and wording without changing technical meaning.
+10. **Coherence and indirect style:** Connect idea units as independent prose and convert quoted claims where needed.
+11. **Title instruction:** Obey give-title, no-title or no-suggest-title wording literally.
+12. **Final fidelity audit:** Check coverage, compression, independence, coherence, correctness and zero added opinion.
+
+### Authority, variation and hostile-query gate
+
+Every comprehension answer must cite or paraphrase passage support. Every précis must preserve thesis, main reasons, concession and conclusion, add no opinion, obey title instructions and record source-target-final counts.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**literal; inference; tone; purpose; reference; idea unit; one-third; fidelity**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+

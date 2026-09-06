@@ -1,89 +1,178 @@
-ASCII MASTER FLOW — PANEL 1/12: Dramatic root system
-PLOT -> codified progression
-CHARACTER -> Nayaka, Nayika and Vidusaka
-RASA -> audience reception
-STAGE -> ritual opening and convention
-MUST REMEMBER: Performance history joins Natyashastra dramaturgy, lokadharmi and natyadharmi
-  modes, ten rupakas, Sanskrit stage roles and registers, regional folk theatre, four puppet
-  media and post-1947 institutions.
-MUST REMEMBER: Performance history joins Natyashastra dramaturgy, lokadharmi and natyadharmi
-  modes, ten rupakas, Sanskrit stage roles and registers, regional folk theatre, four puppet
-  media and post-1947 institutions.
+ASCII PANEL 1/12 - Central spine
+----------------------------------
+THEATRE, PUPPETRY AND PERFORMANCE TRADITIONS
+---------------------------------------------------------------
+Natya Shastra grammar
+  -> Sanskrit stage vocabulary and convention
+  -> Kutiyattam as living continuity
+  -> Folk theatre as regional public
+  -> Colonial proscenium and modern institutions
+  -> Puppetry by mechanism
+  -> Ritual / martial / secular ecology
+  -> Safeguarding and answer route
 
-ASCII MASTER FLOW — PANEL 2/12: Dramatic-mode firewall
-LOKADHARMI -> realistic daily-life representation
-NATYADHARMI -> stylised symbolic narration
-PERFORMANCE -> may combine both
-TRAP -> do not reverse the pair
+CENTRAL RULE:
+identify the form by mechanism, region or performance ecology,
+then add the evidentiary qualification.
 
-ASCII MASTER FLOW — PANEL 3/12: Sutradhar role chain
-PRELIMINARIES -> ritual preparation
-INTRODUCTION -> time, place and play
-STAGE MANAGEMENT -> performance order
-PUPPETRY -> narrator and holder-of-strings sense
+ASCII PANEL 2/12 - Natya Shastra frame
+----------------------------------------
+NATYA SHASTRA
+Bharata -> Natya Veda -> text + enactment + music + rasa
+                |
+                +-- Lokadharmi = realistic depiction of life
+                +-- Natyadharmi = stylised symbolic narration
 
-ASCII MASTER FLOW — PANEL 4/12: Character-language map
-NAYAKA -> hero type
-NAYIKA -> heroine type
-VIDUSAKA -> comic and satirical friend
-PRAKRIT -> marked speech register
+WRITE:
+theatre is composite performance, not literature alone.
 
-ASCII MASTER FLOW — PANEL 5/12: Decline and survival
-WRITERS SHIFT -> poetry and song
-LANGUAGE BARRIER -> Sanskrit loses reach
-PATRONAGE SHIFT -> court ecology changes
-KUTIYATTAM -> regional living continuity
+DO NOT WRITE:
+one falsely exact date or unchanged continuity across all later forms.
 
-ASCII MASTER FLOW — PANEL 6/12: Folk-theatre arc
-DEVOTIONAL -> early regional themes
-ROMANCE / HERO -> local narrative expansion
-SOCIAL MESSAGE -> post-Independence use
-RULE -> stages overlap by region
+ASCII PANEL 3/12 - Classical vocabulary
+-----------------------------------------
+TEN RUPAKAS
+Nataka | Prakarana | Bhana | Prahasana | Dima
+Vyayoga | Samavakara | Vithi | Ihamriga | Utsrishtikanka
 
-ASCII MASTER FLOW — PANEL 7/12: Modern theatre sequence
-PROSCENIUM -> colonial city and commerce
-1876 ACT -> political control
-PARSI / IPTA -> circulation and mobilisation
-SNA / NSD -> institutional training
+STAGE ROLES
+Sutradhar -> threshold / prayer / announcement
+Nayaka    -> hero
+Nayika    -> heroine
+Vidusaka  -> comic-satirical companion, Prakrit speech
 
-ASCII MASTER FLOW — PANEL 8/12: Puppetry mechanism matrix
-STRING -> suspended marionette
-SHADOW -> cut-out before a lit screen
-ROD -> figure moved from below or behind
-GLOVE -> fingers inside a sleeve body
+EXAM TRAP:
+do not mix genre terms with character or puppet vocabulary.
 
-ASCII MASTER FLOW — PANEL 9/12: String-puppet distinctions
-KATHPUTLI -> legless Rajasthan doll
-KUNDHEI -> jointed Odisha figure
-GOMBEYATTA -> Yakshagana-styled Karnataka figure
-CONTROL -> strings, but different bodies
+ASCII PANEL 4/12 - Convention, archaeology and decline
+--------------------------------------------------------
+SANSKRIT THEATRE
+four-to-seven acts
+ordered opening -> progression -> pause -> conclusion
+rare tragedy / order-restoring closure
+Bharata stage prescription: about 400 persons, two levels, curtains
 
-ASCII MASTER FLOW — PANEL 10/12: Shadow, rod and glove map
-THOLU BOMMALATA -> Andhra shadow
-RAVANA CHHAYA -> Odisha shadow
-PUTUL NACH / YAMPURI -> rod
-PAVAKOOTHU -> Kerala glove
-CLOSE DISTINCTION: Lokadharmi is realistic and natyadharmi stylised; the Sutradhar's classical
-  stage role and puppetry's string-holder-narrator resonance are related but not identical,
-  and puppet forms must retain material and region.
-CLOSE DISTINCTION: Lokadharmi is realistic and natyadharmi stylised; the Sutradhar's classical
-  stage role and puppetry's string-holder-narrator resonance are related but not identical,
-  and puppet forms must retain material and region.
+QUALIFICATION
+prescription != archaeology
+Sitabenga / Jogimara linked to performance by some scholars,
+but 'world's oldest amphitheatre' is disputed.
 
-ASCII MASTER FLOW — PANEL 11/12: Performance vulnerability test
-TEXT SURVIVES? -> archive and teaching
-PERFORMER SURVIVES? -> skill transmission
-AUDIENCE + FUNDING? -> living ecology
-RESPONSE -> form-specific safeguarding
-EVIDENCE LIMIT: Prescriptive dramaturgical conventions are not a census of every performance;
-  Sitabenga-Jogimara priority claims, mask generalisations and falsely exact decline stories
-  require qualification.
-EVIDENCE LIMIT: Prescriptive dramaturgical conventions are not a census of every performance;
-  Sitabenga-Jogimara priority claims, mask generalisations and falsely exact decline stories
-  require qualification.
+DECLINE
+plays -> poems and songs
+difficult Sanskrit / wider Pali-Prakrit use
+changed patronage
 
-ASCII MASTER FLOW — PANEL 12/12: Performance answer spine
-DEFINE -> mode, genre or control mechanism
-TRACE -> patronage and public
-COMPARE -> region, body and institution
-QUALIFY -> convention, continuity and vulnerability
+ASCII PANEL 5/12 - Kutiyattam continuity
+------------------------------------------
+KUTIYATTAM / KOODIYATTAM
+Kerala
+oldest continuing theatre lineage in the source-owned bank
+Sanskrit + Prakrit + Malayalam
+Mizhavu + Edakka
+Nirvahana before story expansion
+
+UNESCO OFFICIAL PAGE
+one of India's oldest living theatrical traditions
+synthesis of Sanskrit classicism and local Kerala practice
+inscribed in 2008 on the Representative List
+
+ASCII PANEL 6/12 - Folk theatre arc
+-------------------------------------
+FOLK THEATRE
+local lifestyle + custom + belief
+         |
+         v
+devotional origins (15th-16th century in many forms)
+         |
+         v
+romance / local heroes
+         |
+         v
+post-Independence social communication
+
+DO NOT WRITE:
+all forms are timelessly unchanged or mapped by fixed ancient state borders.
+
+ASCII PANEL 7/12 - Regional theatres I
+----------------------------------------
+YAKSHAGANA  -> Karnataka / parts of Kerala, Vijayanagara memory,
+               Vaishnava influence, dance-drama energy
+JATRA       -> eastern India, open-air, Chaitanya route,
+               later secular/patriotic themes
+NAUTANKI    -> north India, offshoot of Swang,
+               lyrical dialogue + Nagada
+TAMASHA     -> Maharashtra, humour + erotic charge + Lavani
+BHAVAI      -> Gujarat, dance-rich small plays, pots/pitchers,
+               Nayaka as Sutradhar
+
+ASCII PANEL 8/12 - Regional theatres II
+-----------------------------------------
+ANKIA NAAT / BHAONA -> Assam, Sankardeva field, Sutradhar,
+                       Gayan-Bayan, Brajavali, masks
+THERUKOOTHU         -> Tamil street theatre, epic themes,
+                       song + drama + stage tricks
+SWANG               -> Rajasthan-Haryana-Malwa musical drama
+MAACH               -> Malwa, Rangat Dohas
+BHAND PATHER        -> Jammu and Kashmir, secular satire
+DASHAVATAR          -> Konkan, Vishnu's ten incarnations,
+                       poorva-ranga + uttara-ranga
+
+ASCII PANEL 9/12 - Modern theatre route
+-----------------------------------------
+1775  Calcutta Theatre / New Playhouse
+1876  Dramatic Performances Act
+1850s-1920s  Parsi theatre
+1943  IPTA
+1944  Prithvi Theatre
+1952  Sangeet Natak Akademi
+1969  Kalakshetra Manipur
+1975  NSD independence
+1976  Chorus Repertory Theatre
+
+FIGURES
+Tagore | Girish Chandra Ghosh | Binodini Dasi | Badal Sircar
+K.V. Subbanna / NINASAM | Habib Tanvir | Girish Karnad
+
+ASCII PANEL 10/12 - Puppetry mechanisms
+-----------------------------------------
+STRING -> Kathputli / Kundhei / Gombeyatta
+SHADOW -> Tolpava Kuthu / Ravana Chhaya / Tholu Bommalata /
+          Togalu Gombeyatta
+ROD    -> Yampuri / Putul Nach / Kathi Kundhei
+GLOVE  -> Pavakoothu
+HYBRID -> Bommalattam (rod + string)
+
+FIRST QUESTION:
+how is the figure controlled?
+
+ASCII PANEL 11/12 - Puppet ecology
+------------------------------------
+STRING  = articulated body
+SHADOW  = projected silhouette
+ROD     = larger standing manipulation
+GLOVE   = intimate hand control
+
+PERFORMANCE ECOLOGY
+narrator / Sutradhar
+screen or curtain
+music and rhythm support
+village portability / travelling stage
+
+ARCHIVE VALUE
+Mahabharata + Silappadikaram + Bhagavad Gita metaphor
+
+ASCII PANEL 12/12 - Safeguarding and final answer route
+---------------------------------------------------------
+TWO DECLINE TYPES
+Sanskrit theatre = historical contraction with named causes
+Puppetry         = ongoing audience/funding vulnerability
+
+THEREFORE
+text/documentation alone cannot safeguard a living performance.
+Living forms need performers, pedagogy, repertory and audience.
+
+BOUNDARIES
+Topic 08 -> music systems
+Topic 09 -> dance grammar
+Topic 11 -> literary history
+Topic 14 -> full UNESCO / SNA / NSD ledger

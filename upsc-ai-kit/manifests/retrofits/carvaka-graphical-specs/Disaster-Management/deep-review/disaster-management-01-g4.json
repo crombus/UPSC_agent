@@ -1,0 +1,1074 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-01",
+  "subject": "Disaster-Management",
+  "title": "CONCEPTS, RISK, RESILIENCE AND SENDAI",
+  "short_route": "RISK GRAMMAR → HAZARD-TO-DISASTER THRESHOLD → RISK EQUATION FIREWALL → RESILIENCE CAPABILITIES → PRE-DISASTER DISTINCTIONS → RESPONSE-TO-RECOVERY BRIDGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-01-deep-review-2026-09-06-g4.json",
+  "ascii_spec_sha256": "bccb4ece2f9548a6ca2d51e6cb605183ad2f9da84a9ef5f21a17bb37e3d0345c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RISK GRAMMAR",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RISK GRAMMAR",
+          "role": "caution"
+        },
+        {
+          "text": "POTENTIAL DAMAGING EVENT OR PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PEOPLE AND ASSETS IN HARM'S WAY",
+          "role": "comparison"
+        },
+        {
+          "text": "STRENGTHS AND RESOURCES",
+          "role": "evidence"
+        },
+        {
+          "text": "DISASTER RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HAZARD → potential damaging event or process",
+        "EXPOSURE → people and assets in harm's way",
+        "VULNERABILITY → susceptibility",
+        "CAPACITY → strengths and resources",
+        "INTERACTION → disaster risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "HAZARD → potential damaging event or process",
+            "EXPOSURE → people and assets in harm's way"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "VULNERABILITY → susceptibility",
+            "CAPACITY → strengths and resources"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "INTERACTION → disaster risk",
+            "HAZARD → potential damaging event or process"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXPOSURE → people and assets in harm's way.",
+      "source_references": [
+        "Hazard",
+        "Exposure",
+        "Vulnerability",
+        "Capacity",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HAZARD-TO-DISASTER THRESHOLD",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HAZARD-TO-DISASTER THRESHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "HAZARDOUS EVENT + EXPOSURE + VULNERABILITY MODERATED BY CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SERIOUS DISRUPTION BEYOND COPING",
+          "role": "comparison"
+        },
+        {
+          "text": "SERIOUS DISRUPTION BEYOND COPING → DISASTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HAZARDOUS EVENT + EXPOSURE + VULNERABILITY moderated by capacity",
+        "SERIOUS DISRUPTION BEYOND COPING → DISASTER"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "HAZARDOUS EVENT + EXPOSURE + VULNERABILITY moderated by capacity",
+            "SERIOUS DISRUPTION BEYOND COPING → DISASTER"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HAZARDOUS EVENT + EXPOSURE + VULNERABILITY moderated by capacity",
+            "SERIOUS DISRUPTION BEYOND COPING → DISASTER"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "HAZARDOUS EVENT + EXPOSURE + VULNERABILITY moderated by capacity",
+            "SERIOUS DISRUPTION BEYOND COPING → DISASTER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HAZARDOUS EVENT + EXPOSURE + VULNERABILITY moderated by capacity.",
+      "source_references": [
+        "Disaster threshold",
+        "Risk heuristic",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RISK EQUATION FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RISK EQUATION FIREWALL",
+          "role": "caution"
+        },
+        {
+          "text": "ORGANISE RELATIONSHIPS AND POLICY LEVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT USE",
+          "role": "caution"
+        },
+        {
+          "text": "UNIVERSAL ARITHMETIC PREDICTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "USE → organise relationships and policy levers",
+        "DO NOT USE → universal arithmetic prediction",
+        "REDUCE → exposure / vulnerability",
+        "BUILD → capacity"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "USE → organise relationships and policy levers",
+          "REDUCE → exposure / vulnerability",
+          "USE → organise relationships and policy levers"
+        ],
+        [
+          "DO NOT USE → universal arithmetic prediction",
+          "BUILD → capacity",
+          "DO NOT USE → universal arithmetic prediction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "USE → organise relationships and policy levers",
+            "DO NOT USE → universal arithmetic prediction"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REDUCE → exposure / vulnerability",
+            "BUILD → capacity"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → organise relationships and policy levers",
+            "DO NOT USE → universal arithmetic prediction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REDUCE → exposure / vulnerability; BUILD → capacity.",
+      "source_references": [
+        "Risk heuristic",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RESILIENCE CAPABILITIES",
+      "structural_type": "radial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RESILIENCE CAPABILITIES",
+          "role": "primary"
+        },
+        {
+          "text": "RESIST + ABSORB + ACCOMMODATE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADAPT + TRANSFORM + RECOVER",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESERVE ESSENTIAL FUNCTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOVERY IS NOT AUTOMATIC RESTORATION OF OLD RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESIST + ABSORB + ACCOMMODATE",
+        "ADAPT + TRANSFORM + RECOVER",
+        "PRESERVE ESSENTIAL FUNCTIONS",
+        "TRAP → recovery is not automatic restoration of old risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "RESIST + ABSORB + ACCOMMODATE",
+            "ADAPT + TRANSFORM + RECOVER"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "PRESERVE ESSENTIAL FUNCTIONS",
+            "TRAP → recovery is not automatic restoration of old risk"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RESIST + ABSORB + ACCOMMODATE",
+            "ADAPT + TRANSFORM + RECOVER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → recovery is not automatic restoration of old risk.",
+      "source_references": [
+        "Resilience",
+        "Recovery",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PRE-DISASTER DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRE-DISASTER DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "AVOID RISK WHERE FEASIBLE",
+          "role": "caution"
+        },
+        {
+          "text": "LESSEN ADVERSE IMPACT",
+          "role": "comparison"
+        },
+        {
+          "text": "READINESS TO ANTICIPATE AND ACT",
+          "role": "institution"
+        },
+        {
+          "text": "WHAT CHANGES BEFORE IMPACT?",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PREVENTION → avoid risk where feasible",
+        "MITIGATION → lessen adverse impact",
+        "PREPAREDNESS → readiness to anticipate and act",
+        "QUESTION → what changes before impact?"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "PREVENTION → avoid risk where feasible",
+          "PREPAREDNESS → readiness to anticipate and act",
+          "PREVENTION → avoid risk where feasible"
+        ],
+        [
+          "MITIGATION → lessen adverse impact",
+          "QUESTION → what changes before impact?",
+          "MITIGATION → lessen adverse impact"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "PREVENTION → avoid risk where feasible",
+            "MITIGATION → lessen adverse impact"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PREPAREDNESS → readiness to anticipate and act",
+            "QUESTION → what changes before impact?"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PREVENTION → avoid risk where feasible",
+            "MITIGATION → lessen adverse impact"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PREPAREDNESS → readiness to anticipate and act; QUESTION → what changes before impact?.",
+      "source_references": [
+        "Prevention",
+        "Mitigation",
+        "Preparedness",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RESPONSE-TO-RECOVERY BRIDGE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RESPONSE-TO-RECOVERY BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "IMMEDIATE RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIFE SAFETY AND BASIC NEEDS",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY RECOVERY",
+          "role": "evidence"
+        },
+        {
+          "text": "RESTORE ACCESS AND SERVICES",
+          "role": "primary"
+        },
+        {
+          "text": "REDUCE FUTURE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "BUILD BACK BETTER",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT REPRODUCE VULNERABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IMMEDIATE RESPONSE → life safety and basic needs",
+        "EARLY RECOVERY → restore access and services",
+        "RECONSTRUCTION → reduce future risk",
+        "BUILD BACK BETTER → do not reproduce vulnerability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "IMMEDIATE RESPONSE → life safety and basic needs",
+            "EARLY RECOVERY → restore access and services"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECONSTRUCTION → reduce future risk",
+            "BUILD BACK BETTER → do not reproduce vulnerability"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "IMMEDIATE RESPONSE → life safety and basic needs",
+            "EARLY RECOVERY → restore access and services"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUILD BACK BETTER → do not reproduce vulnerability.",
+      "source_references": [
+        "Response",
+        "Recovery",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DRR OPERATING SCOPE",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DRR OPERATING SCOPE",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENT NEW RISK",
+          "role": "mechanism"
+        },
+        {
+          "text": "REDUCE EXISTING RISK",
+          "role": "evidence"
+        },
+        {
+          "text": "MANAGE RESIDUAL RISK",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK-INFORMED SUSTAINABLE DEVELOPMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PREVENT NEW RISK",
+        "REDUCE EXISTING RISK",
+        "MANAGE RESIDUAL RISK",
+        "LINK → risk-informed sustainable development"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PREVENT NEW RISK",
+            "REDUCE EXISTING RISK"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MANAGE RESIDUAL RISK",
+            "LINK → risk-informed sustainable development"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PREVENT NEW RISK",
+            "REDUCE EXISTING RISK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MANAGE RESIDUAL RISK; LINK → risk-informed sustainable development.",
+      "source_references": [
+        "DRR scope",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RISK-CREATION LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "RISK-CREATION LOOP",
+          "role": "caution"
+        },
+        {
+          "text": "DEVELOPMENT CHOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "HAZARD INTERACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOVERY CHOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "RECREATE OR REDUCE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "FUTURE RESILIENCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEVELOPMENT CHOICE → exposure / vulnerability",
+        "HAZARD INTERACTION → loss",
+        "RECOVERY CHOICE → recreate or reduce risk",
+        "FEEDBACK → future resilience"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEVELOPMENT CHOICE → exposure / vulnerability",
+            "HAZARD INTERACTION → loss"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RECOVERY CHOICE → recreate or reduce risk",
+            "FEEDBACK → future resilience"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DEVELOPMENT CHOICE → exposure / vulnerability",
+            "HAZARD INTERACTION → loss"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECOVERY CHOICE → recreate or reduce risk; FEEDBACK → future resilience.",
+      "source_references": [
+        "Risk creation",
+        "Recovery",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SENDAI ARCHITECTURE",
+      "structural_type": "framework-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SENDAI ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "VOLUNTARY AND NON-BINDING",
+          "role": "outcome"
+        },
+        {
+          "text": "4 PRIORITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNANCE PATHWAY",
+          "role": "evidence"
+        },
+        {
+          "text": "7 TARGETS",
+          "role": "primary"
+        },
+        {
+          "text": "GLOBAL MONITORING FRAME",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTANTIAL REDUCTION OF DISASTER RISK AND LOSSES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "voluntary and non-binding",
+        "4 PRIORITIES → governance pathway",
+        "7 TARGETS → global monitoring frame",
+        "OUTCOME → substantial reduction of disaster risk and losses"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "voluntary and non-binding",
+            "4 PRIORITIES → governance pathway"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "7 TARGETS → global monitoring frame",
+            "OUTCOME → substantial reduction of disaster risk and losses"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "voluntary and non-binding",
+            "4 PRIORITIES → governance pathway"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → substantial reduction of disaster risk and losses.",
+      "source_references": [
+        "Sendai status",
+        "Sendai priorities",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FOUR-PRIORITY RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOUR-PRIORITY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 UNDERSTAND DISASTER RISK",
+          "role": "caution"
+        },
+        {
+          "text": "2 STRENGTHEN RISK GOVERNANCE",
+          "role": "caution"
+        },
+        {
+          "text": "3 INVEST IN DRR FOR RESILIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "4 PREPARE + BUILD BACK BETTER",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "DISASTER RISK JOINS HAZARD, EXPOSURE, VULNERABILITY AND CAPACITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1 UNDERSTAND DISASTER RISK",
+        "2 STRENGTHEN RISK GOVERNANCE",
+        "3 INVEST IN DRR FOR RESILIENCE",
+        "4 PREPARE + BUILD BACK BETTER",
+        "MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 UNDERSTAND DISASTER RISK",
+            "2 STRENGTHEN RISK GOVERNANCE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 INVEST IN DRR FOR RESILIENCE",
+            "4 PREPARE + BUILD BACK BETTER"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity;...",
+            "1 UNDERSTAND DISASTER RISK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity;.",
+      "source_references": [
+        "Sendai priorities",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-01_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SEVEN-TARGET MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SEVEN-TARGET MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "A MORTALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "B AFFECTED PEOPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "C ECONOMIC LOSS/GDP",
+          "role": "evidence"
+        },
+        {
+          "text": "D CRITICAL SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "E NATIONAL/LOCAL STRATEGIES",
+          "role": "outcome"
+        },
+        {
+          "text": "F COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "G MULTI-HAZARD WARNING AND RISK INFORMATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "A mortality",
+        "B affected people",
+        "C economic loss/GDP",
+        "D critical systems",
+        "E national/local strategies"
+      ],
+      "matrix": [
+        [
+          "A mortality",
+          "B affected people"
+        ],
+        [
+          "C economic loss/GDP",
+          "D critical systems"
+        ],
+        [
+          "E national/local strategies",
+          "F cooperation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "A mortality",
+            "B affected people",
+            "C economic loss/GDP"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "D critical systems",
+            "E national/local strategies",
+            "F cooperation"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "G multi-hazard warning and risk information",
+            "CLOSE DISTINCTION: Hazard occurrence is not disaster impact; vulnerability is not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Hazard occurrence is not disaster impact; vulnerability is not.",
+      "source_references": [
+        "Targets A-D",
+        "Targets E-G",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-01_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER AND FRAMEWORK BOUNDARY",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER AND FRAMEWORK BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "MAP RISK COMPONENTS",
+          "role": "caution"
+        },
+        {
+          "text": "LOCATE CYCLE PHASE",
+          "role": "mechanism"
+        },
+        {
+          "text": "APPLY SENDAI PRIORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "LINK ADAPTATION + SDG WITHOUT MERGER",
+          "role": "primary"
+        },
+        {
+          "text": "INPUT IS NOT OUTCOME",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "DEFINE EACH RISK TERM, SHOW THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → MAP RISK COMPONENTS → LOCATE CYCLE PHASE",
+        "APPLY SENDAI PRIORITY / TARGET",
+        "LINK ADAPTATION + SDG WITHOUT MERGER",
+        "QUALIFY → INPUT IS NOT OUTCOME",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DEFINE → MAP RISK COMPONENTS → LOCATE CYCLE PHASE",
+            "APPLY SENDAI PRIORITY / TARGET"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LINK ADAPTATION + SDG WITHOUT MERGER",
+            "QUALIFY → INPUT IS NOT OUTCOME"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the...",
+            "DEFINE → MAP RISK COMPONENTS → LOCATE CYCLE PHASE"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the.",
+      "source_references": [
+        "Framework linkage",
+        "Evidence boundary",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-01_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DRR FIELD OF ACTION, PRECISELY SEQUENCED",
+          "role": "outcome"
+        },
+        {
+          "text": "NDMP 2016'S SELF-ACKNOWLEDGED LIMITATION — VISIONIAS RECORDS IT",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS IS STRUCTURALLY IDENTICAL TO THE SENDAI FRAMEWORK'S OWN",
+          "role": "evidence"
+        },
+        {
+          "text": "THE 2023 MIDTERM REVIEW IS THE POINT AT WHICH",
+          "role": "primary"
+        },
+        {
+          "text": "ATTITUDINAL VULNERABILITY AS A FREQUENTLY UNDER-USED CONCEPT",
+          "role": "outcome"
+        },
+        {
+          "text": "SLOW-ONSET DISASTERS AS AN UNDER-TESTED CATEGORY RELATIVE TO",
+          "role": "comparison"
+        },
+        {
+          "text": "MEASURING RESILIENCE REQUIRES DATA ON CAPACITY , NOT MERELY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "DRR field of action, precisely sequenced: policy/legal",
+            "NDMP 2016's self-acknowledged limitation — VisionIAS records it",
+            "CAUTION: This is structurally identical to the Sendai Framework's own",
+            "The 2023 Midterm Review is the point at which this weakness became"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Attitudinal vulnerability as a frequently under-used concept:",
+            "CAUTION: Slow-onset disasters as an under-tested category relative to",
+            "CAUTION: Measuring resilience requires data on capacity , not merely hazard",
+            "Current-anchor discipline: any claim about India's or the"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "VisionIAS's five-fold vulnerability typology (economic, physical,",
+            "CAUTION: Prevention/mitigation investment versus response readiness is a",
+            "NOT: The \"framework exists, therefore risk is managed\" fallacy.",
+            "CAUTION: Sendai's four priorities are diagnostic categories, not a"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

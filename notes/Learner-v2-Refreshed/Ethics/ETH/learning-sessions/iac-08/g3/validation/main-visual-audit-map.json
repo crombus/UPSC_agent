@@ -1,0 +1,1383 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g3\\ethics-08_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g3\\ethics-08_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "ethics-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 33,
+      "markdown_body_line_end": 43,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 461.49
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 69,
+      "heading": "SESSION 1 - Normative theories and the anatomy of moral action",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** The three classical families of normative ethical theory and their applied use in resolving administrative dilemmas. **Grounded in:** Standard normat",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 674.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 87,
+      "heading": "1. Visual foundation",
+      "preview": "\"Should I do X?\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 650.324
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 519.324
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 102,
+      "heading": "2. Essential definitions",
+      "preview": "Theory | Core claim | Key figure(s)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Theory",
+          "Core claim",
+          "Key figure(s)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 222.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 181,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** A defensible administrative-ethics judgment triangulates duty, consequence and character — deontology sets the non-negotiable floor, consequentialism optimises within that floor, and virtue ethics supplies contextual, pra",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 714.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 655.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 197,
+      "heading": "10. Moral intuition vs moral reasoning (historical demand - primary owner)",
+      "preview": "⚠️ 2023 GS-IV Q4(b) (historical demand, routed here): \"differentiate\" moral intuition from moral reasoning.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 489.924
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 437.456
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 205,
+      "heading": "10. Moral intuition vs moral reasoning (historical demand - primary owner)",
+      "preview": "Aspect | Moral intuition | Moral reasoning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Aspect",
+          "Moral intuition",
+          "Moral reasoning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 437.456
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 94.054
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 225,
+      "heading": "11. Permissibility of doing good absent express prohibition (historical demand)",
+      "preview": "⚠️ 2018 GS-IV Q4(a) (historical demand, routed here): examine whether a public servant may do good beyond what rules require, where no rule expressly prohibits it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 679.791
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 613.124
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 254,
+      "markdown_body_line_end": 256,
+      "heading": "12. Promoted applied-theory dilemmas: triage and Snowden-type disclosure",
+      "preview": "⚠️ These applied dilemmas are treated in full philosophical depth in `advanced/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md`; this Section gives the Section-A-sufficient working version so a 10/20-mark answer does not requ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 292.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 211.356
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 277,
+      "heading": "Snowden-type legal-vs-moral disclosure",
+      "preview": "⚠️ 2018 GS-IV Q12 (historical demand cross-linked from `10`, `22`, `23`): Edward Snowden's 2013 disclosure of classified US government surveillance programmes, framed by him as a moral obligation to inform the public, though it was legally ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 719.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 638.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 305,
+      "heading": "12A. Moral luck: Nagel/Williams taxonomy and administrative application (answer-sufficient)",
+      "preview": "⚠️ This section is written to be self-sufficient for a 10/15-mark theory answer or for the moral-luck dimension of a Section-B case study; `advanced/08` adds further theoretical refinement but is not required to answer at this level.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 317.524
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 236.656
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 319,
+      "heading": "12A. Moral luck: Nagel/Williams taxonomy and administrative application (answer-sufficient)",
+      "preview": "Type | Definition | Administrative illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Type",
+          "Definition",
+          "Administrative illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 581.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 358,
+      "markdown_body_line_end": 358,
+      "heading": "13. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 757.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 704.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 391,
+      "heading": "14. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 349.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 205.422
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 426,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 566.591
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 499.924
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 434,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 448.324
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 351.422
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 439,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 312.222
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 267.554
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 446,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 267.554
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 200.887
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 455,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 633.39
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 461,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 548.59
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 503.922
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1915,
+      "markdown_body_line_end": 1921,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Deep comparative treatment of the three normative theories, their internal variants, and disciplined application to complex administrative dilemmas. **Grounded i",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 693.024
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1926,
+      "markdown_body_line_end": 1941,
+      "heading": "1. Architecture",
+      "preview": "DEONTOLOGY variants          CONSEQUENTIALISM variants        VIRTUE ETHICS variants",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 665.524
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 514.524
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1951,
+      "markdown_body_line_end": 1956,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 408.524
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 119.922
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2044,
+      "markdown_body_line_end": 2046,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 325.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 257.69
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2087,
+      "markdown_body_line_end": 2088,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 353.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2094,
+      "markdown_body_line_end": 2097,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 256.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 86.922
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2103,
+      "markdown_body_line_end": 2103,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 724.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 679.824
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2112,
+      "markdown_body_line_end": 2143,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: 1. Anatomy of a morally appraised action",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 599.824
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 282.824
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2147,
+      "markdown_body_line_end": 2178,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: 2. Deontological duty ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2182,
+      "markdown_body_line_end": 2213,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 3. Consequentialist outcome calculus",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 131.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2217,
+      "markdown_body_line_end": 2248,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: 4. Act utility versus rule utility",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2252,
+      "markdown_body_line_end": 2283,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: 5. Virtue ethics and phronesis wheel",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 131.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2287,
+      "markdown_body_line_end": 2318,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 6. Intuition-to-reason reflective loop",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2322,
+      "markdown_body_line_end": 2352,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 7. Doing good beyond the rulebook",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 141.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2356,
+      "markdown_body_line_end": 2386,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 8. Means-and-ends ethical matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2390,
+      "markdown_body_line_end": 2420,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 9. Scarce-resource triage funnel",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2424,
+      "markdown_body_line_end": 2455,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: 10. Snowden-type disclosure ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2459,
+      "markdown_body_line_end": 2490,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 11. Moral luck taxonomy and vigilance test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 131.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2494,
+      "markdown_body_line_end": 2524,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 12. Context-relative justice review cycle",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2531,
+      "markdown_body_line_end": 2562,
+      "heading": "ASCII PANEL 1/12 - 1. Anatomy of a morally appraised action",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 414.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 103.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2566,
+      "markdown_body_line_end": 2596,
+      "heading": "ASCII PANEL 2/12 - 2. Deontological duty ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2600,
+      "markdown_body_line_end": 2631,
+      "heading": "ASCII PANEL 3/12 - 3. Consequentialist outcome calculus",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 153.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2635,
+      "markdown_body_line_end": 2666,
+      "heading": "ASCII PANEL 4/12 - 4. Act utility versus rule utility",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2670,
+      "markdown_body_line_end": 2700,
+      "heading": "ASCII PANEL 5/12 - 5. Virtue ethics and phronesis wheel",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 153.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2704,
+      "markdown_body_line_end": 2734,
+      "heading": "ASCII PANEL 6/12 - 6. Intuition-to-reason reflective loop",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2738,
+      "markdown_body_line_end": 2768,
+      "heading": "ASCII PANEL 7/12 - 7. Doing good beyond the rulebook",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2772,
+      "markdown_body_line_end": 2802,
+      "heading": "ASCII PANEL 8/12 - 8. Means-and-ends ethical matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2806,
+      "markdown_body_line_end": 2836,
+      "heading": "ASCII PANEL 9/12 - 9. Scarce-resource triage funnel",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2840,
+      "markdown_body_line_end": 2871,
+      "heading": "ASCII PANEL 10/12 - 10. Snowden-type disclosure ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2875,
+      "markdown_body_line_end": 2906,
+      "heading": "ASCII PANEL 11/12 - 11. Moral luck taxonomy and vigilance test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 143.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2910,
+      "markdown_body_line_end": 2940,
+      "heading": "ASCII PANEL 12/12 - 12. Context-relative justice review cycle",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2944,
+      "markdown_body_line_end": 2957,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 181.49
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    }
+  ]
+}

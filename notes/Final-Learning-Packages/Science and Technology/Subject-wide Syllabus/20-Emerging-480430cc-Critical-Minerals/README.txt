@@ -5,8 +5,8 @@ Topic: Emerging Materials, Rare Earths and Critical Minerals
 Subject: Science and Technology
 Section: Subject-wide Syllabus
 Catalogue number: 20
-Source record ID: science-and-technology-20:learner-v2:g2
-Source generation: 2
+Source record ID: science-and-technology-20:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

@@ -5,8 +5,8 @@ Topic: Liberalism and Neoliberalism
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 03
-Source record ID: political-theory-03:learner-v2:g5
-Source generation: 5
+Source record ID: political-theory-03:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

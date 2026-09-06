@@ -167,3 +167,50 @@ In **8 minutes**, supply the requested form or choice:
 *affect* [CONF]; 5 *The accommodation was definitely insufficient.* [SPL];
 6 *abundant* (also *plentiful* in suitable context) [SYN]; 7 must mean
 improperly reducing standards to save resources [IDIOM].
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; precise meaning, collocation, spelling, derivation, synonyms, antonyms, idioms and proverbs in context.
+- **Canonical ownership:** Owns lexical meaning, register, collocation, confusables, spelling, word formation, contextual synonym/antonym choice, idiom meaning and natural proverb use.
+- **Cross-topic boundary:** Topic 01 owns grammatical class foundations; Topic 02 owns sentence constructions; Topic 05 owns mixed correction and transformation.
+
+### Complete learner and answer route
+
+1. **Lexical entry:** Learn headword, class, plain meaning, collocation, contrast and original sentence.
+2. **Meaning in context:** Choose the sense licensed by the sentence, not the first dictionary gloss.
+3. **Register:** Prefer plain contemporary formal English over ornamental or colloquial substitution.
+4. **Collocation:** Learn words with their normal partners.
+5. **Confusables:** Separate similar spelling or sound by meaning and grammar.
+6. **Spelling patterns:** Use families and suffix rules while remembering genuine exceptions.
+7. **British and American variants:** Accept consistent standard variants unless the paper specifies a house style.
+8. **Word formation:** Use the grammatical slot to choose noun, verb, adjective or adverb.
+9. **Synonyms:** Match denotation, intensity and register rather than treating near-synonyms as identical.
+10. **Antonyms:** Keep the grammatical class and contextual dimension.
+11. **Idioms and proverbs:** State conventional meaning and use the expression naturally.
+12. **Retrieval and editing:** Use spaced recall, sentence production and a confusable log under time.
+
+### Authority, variation and hostile-query gate
+
+A vocabulary answer must fit part of speech, local context, collocation and register. Multiple defensible synonyms or spelling variants are accepted where the stem does not narrow them.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**collocation; register; confusable; word formation; synonym; antonym; idiom; proverb**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+

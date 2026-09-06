@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-english-04",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\04_Vocabulary-Idioms-and-Proverbs.md",
+  "source_advanced": null,
+  "stages": [
+    {
+      "number": 1,
+      "title": "Lexical entry",
+      "body": "Learn headword, class, plain meaning, collocation, contrast and original sentence."
+    },
+    {
+      "number": 2,
+      "title": "Meaning in context",
+      "body": "Choose the sense licensed by the sentence, not the first dictionary gloss."
+    },
+    {
+      "number": 3,
+      "title": "Register",
+      "body": "Prefer plain contemporary formal English over ornamental or colloquial substitution."
+    },
+    {
+      "number": 4,
+      "title": "Collocation",
+      "body": "Learn words with their normal partners."
+    },
+    {
+      "number": 5,
+      "title": "Confusables",
+      "body": "Separate similar spelling or sound by meaning and grammar."
+    },
+    {
+      "number": 6,
+      "title": "Spelling patterns",
+      "body": "Use families and suffix rules while remembering genuine exceptions."
+    },
+    {
+      "number": 7,
+      "title": "British and American variants",
+      "body": "Accept consistent standard variants unless the paper specifies a house style."
+    },
+    {
+      "number": 8,
+      "title": "Word formation",
+      "body": "Use the grammatical slot to choose noun, verb, adjective or adverb."
+    },
+    {
+      "number": 9,
+      "title": "Synonyms",
+      "body": "Match denotation, intensity and register rather than treating near-synonyms as identical."
+    },
+    {
+      "number": 10,
+      "title": "Antonyms",
+      "body": "Keep the grammatical class and contextual dimension."
+    },
+    {
+      "number": 11,
+      "title": "Idioms and proverbs",
+      "body": "State conventional meaning and use the expression naturally."
+    },
+    {
+      "number": 12,
+      "title": "Retrieval and editing",
+      "body": "Use spaced recall, sentence production and a confusable log under time."
+    }
+  ]
+}

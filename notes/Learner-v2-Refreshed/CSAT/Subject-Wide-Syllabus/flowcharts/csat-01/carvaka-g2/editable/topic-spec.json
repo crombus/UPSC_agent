@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-01",
+  "generation": 2,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\01_Reading-Comprehension.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\01_Reading-Comprehension.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Passage contract",
+      "body": "Use only the text and the exact stem."
+    },
+    {
+      "number": 2,
+      "title": "Stem taxonomy",
+      "body": "Classify detail, main idea, inference, assumption, tone or statement-set."
+    },
+    {
+      "number": 3,
+      "title": "Claim map",
+      "body": "Separate claim, reason, example, qualifier and contrast."
+    },
+    {
+      "number": 4,
+      "title": "Central idea",
+      "body": "Cover the whole passage without importing a policy leap."
+    },
+    {
+      "number": 5,
+      "title": "Inference",
+      "body": "Choose the least extended conclusion licensed by the words."
+    },
+    {
+      "number": 6,
+      "title": "Assumption",
+      "body": "Negate the hidden bridge and test whether the argument collapses."
+    },
+    {
+      "number": 7,
+      "title": "Tone and purpose",
+      "body": "Read attitude from wording, not from subject matter."
+    },
+    {
+      "number": 8,
+      "title": "Quantifiers",
+      "body": "Preserve some, many, can, must, only, unless and necessary/sufficient."
+    },
+    {
+      "number": 9,
+      "title": "Distractors",
+      "body": "Reject scope creep, reversal, half-truth and outside knowledge."
+    },
+    {
+      "number": 10,
+      "title": "Paired passages",
+      "body": "Map each claim to passage 1, passage 2, both or neither."
+    },
+    {
+      "number": 11,
+      "title": "Timed execution",
+      "body": "Predict, match, eliminate, discriminate and park at the ceiling."
+    },
+    {
+      "number": 12,
+      "title": "Audit and retry",
+      "body": "Quote the supporting phrase and code every miss before retry."
+    }
+  ]
+}

@@ -503,3 +503,47 @@ attempt and qualifying-margin rules in full-paper practice.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** Basic numeracy: numbers and their relations, orders of magnitude, etc. (Class X level).
+- **Canonical scope:** Owns integer classes, divisibility, primes, factors, HCF/LCM, remainders, digits, powers, roots, factorial valuations, recurring decimals, magnitude and number series.
+- **Cross-topic boundary:** Commercial percentages belong to Topic 03; rate contexts to Topic 04; algebraic unknowns and sufficiency to Topic 05; coding/counting structures to Topic 06.
+
+### Complete learner route
+
+1. **Number universe:** Natural, whole, integer, rational, irrational and real numbers.
+2. **Divisibility:** Use prime-factor and digit tests only within their valid base-ten conditions.
+3. **Primes and factors:** Factorise before counting divisors or comparing powers.
+4. **HCF and LCM:** Use gcd-lcm relations with integer and positivity checks.
+5. **Remainders:** Reduce early and preserve the modulus.
+6. **Unit digits:** Use cyclicity and treat exponent-zero cases separately.
+7. **Digits and place value:** Translate reversal and digit count into base-ten equations.
+8. **Powers and factorials:** Use repeated division for prime exponents and trailing zeros.
+9. **Fractions and decimals:** Convert recurring forms through algebra, not memorised guesses.
+10. **Series:** Test differences, ratios, alternation and position rules.
+11. **Magnitude and estimation:** Bound before calculating exactly.
+12. **Verification:** Plug back, check parity, digit count, remainder and order of magnitude.
+
+### Verification and hostile-query gate
+
+Each shortcut is stated with its modulus, parity, cycle or factorisation condition. Deterministic checks recompute every generated answer by direct arithmetic or enumeration.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**divisibility; prime; factor; HCF; LCM; remainder; unit digit; trailing zeros**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

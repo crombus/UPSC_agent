@@ -1,89 +1,69 @@
-ASCII MASTER FLOW — PANEL 1/12: Mauryan art classification
-COURT -> pillars and palace architecture
-NON-COURTLY -> yaksha, terracotta and donors
-CROSSOVER -> royal Ajivika cave dedications
-VERDICT -> useful categories, porous boundary
-MUST REMEMBER: The Mauryan-to-rock-cut sequence distinguishes Ashokan pillars and
-  Barabar-Nagarjuni Ajivika caves, stupa accretion at Sanchi, chaitya-vihara functions, Ajanta
-  phases, Ellora's plural complex and later Jain and Shaiva sites.
-MUST REMEMBER: The Mauryan-to-rock-cut sequence distinguishes Ashokan pillars and
-  Barabar-Nagarjuni Ajivika caves, stupa accretion at Sanchi, chaitya-vihara functions, Ajanta
-  phases, Ellora's plural complex and later Jain and Shaiva sites.
+ASCII MASTER FLOW - PANEL 1/12: Central thesis
+Rock-cut and associated heritage is a layered record of patronage, ritual use,
+inscription and survival, not a list of isolated monuments.
 
-ASCII MASTER FLOW — PANEL 2/12: Ashokan pillar system
-CHUNAR SANDSTONE -> monolithic shaft
-POLISH -> imperial finish
-CAPITAL -> lion, bull or other animal forms
-INSCRIPTION -> message varies by site
+ASCII MASTER FLOW - PANEL 2/12: Two timelines
+ANCIENT: Mauryan pillars + Barabar/Nagarjuni -> Sanchi accretion -> western Deccan
+chaitya-vihara growth -> Ajanta phases -> Udayagiri / Elephanta -> Ellora / Kailasha.
+MODERN: 1851 Sanchi survey -> 1904-05 Oertel at Sarnath -> UNESCO 1983/1987/1989.
 
-ASCII MASTER FLOW — PANEL 3/12: Barabar evidence card
-PLACE -> Jehanabad district, Bihar
-DATE -> third century BCE
-PATRONS -> Ashoka and Dasharatha
-SECT -> Ajivikas, not Buddhists
+ASCII MASTER FLOW - PANEL 3/12: Mauryan frame
+COURT ART -> pillars and palace architecture.
+NON-COURTLY -> yaksha, terracotta, donor production.
+POROUS BOUNDARY -> royal Ajivika cave dedications.
+PILLAR LOGIC -> monolithic shaft + capital + abacus + animal + inscription.
 
-ASCII MASTER FLOW — PANEL 4/12: Stupa anatomy
-ANDA -> relic mound
-VEDIKA + PATH -> boundary and movement
-HARMIKA + CHATTRA -> summit and honour
-TORANA -> narrative gateway
+ASCII MASTER FLOW - PANEL 4/12: Barabar-Nagarjuni
+PLACE -> Jehanabad, Bihar.
+DATE -> 3rd century BCE.
+PATRONS -> Ashoka and Dasharatha.
+SECT -> Ajivikas.
+TECHNIQUE -> polished granite interiors; Lomas Rishi translates wooden forms into rock.
 
-ASCII MASTER FLOW — PANEL 5/12: Sanchi accretion
-MAURYAN -> brick core and pillar
-SUNGA -> enlargement and stone facing
-SATAVAHANA PERIOD -> carved toranas
-GUPTA -> shrines and later additions
+ASCII MASTER FLOW - PANEL 5/12: Stupa and Sanchi
+STUPA -> pre-Buddhist origin, relic and commemorative role.
+PARTS -> anda / vedika / pradakshina patha / harmika / chattra / torana.
+SANCHI -> Mauryan core -> Sunga stone enlargement -> Satavahana toranas -> Gupta afterlife.
+RULE -> write function and phase together.
 
-ASCII MASTER FLOW — PANEL 6/12: Chaitya versus vihara
-CHAITYA -> prayer and assembly
-CHAITYA PLAN -> apse, columns and stupa
-VIHARA -> monastic residence
-RULE -> function explains form
+ASCII MASTER FLOW - PANEL 6/12: Bharhut and Amaravati
+BHARHUT -> Shunga, narrative relief, yaksha-yakshi, aniconic Buddha.
+AMARAVATI -> lower Krishna, Mahachaitya, limestone reliefs, Ayaka pillars.
+CONTROL -> Amaravati's size claim needs caution; Bharhut is not an iconic-Buddha example.
 
-ASCII MASTER FLOW — PANEL 7/12: Ajanta identifier
-WAGHORA RIVER -> horseshoe gorge
-SAHYADRI -> rock-cut setting
-EARLY PHASE -> Satavahana-linked
-LATER PHASE -> Vakataka florescence
+ASCII MASTER FLOW - PANEL 7/12: Chaitya-vihara development
+CHAITYA -> apsidal prayer hall, stupa focus, horseshoe window, nave and aisles.
+VIHARA -> residential hall with cells.
+SITE CHAIN -> Bhaja, Karle, Nasik, Bedsa, Kondane, Pitalkhora.
+NASIK -> 23 caves, water tanks, later Mahayana influence.
 
-ASCII MASTER FLOW — PANEL 8/12: Ellora shared hillside
-BUDDHIST -> monasteries and worship halls
-BRAHMANICAL -> Kailasha among major works
-JAIN -> Digambara cave group
-CHRONOLOGY -> broad sequence with overlap
+ASCII MASTER FLOW - PANEL 8/12: Ajanta
+LOCATION -> Waghora gorge, Sahyadri hills, Maharashtra.
+PHASE 1 -> 2nd-1st c. BCE.
+PHASE 2 -> 5th-6th c. CE.
+FORMS -> chaityagrihas + viharas; unfinished caves preserve technique.
+TRAP -> do not make cave count the analytical point.
 
-ASCII MASTER FLOW — PANEL 9/12: Inscription evidence test
-TEXT -> names patron or claim
-CONTEXT -> monument and language
-GENRE -> grant, edict or eulogy
-SILENCE -> omission limits neutrality
+ASCII MASTER FLOW - PANEL 9/12: Brahmanical cave turn
+UDAYAGIRI (VIDISHA) -> Chandragupta II, Varaha, Gupta inscriptions, early shrine logic.
+ELEPHANTA -> Gharapuri island, Shaiva focus, Sadashiva / Trimurti, UNESCO 1987.
+CAUTION -> Elephanta attribution remains debated.
 
-ASCII MASTER FLOW — PANEL 10/12: Jain architecture scales
-CAVE -> Udayagiri-Khandagiri and Ellora
-TEMPLE -> Dilwara, Ranakpur and Khajuraho
-COLOSSUS -> Shravanabelagola ritual focus
-LANDSCAPE -> Palitana and Shikharji
-CLOSE DISTINCTION: A chaitya is a prayer or assembly hall and a vihara is a residence; a stupa
-  has relic-votive functions and pre-Buddhist antecedents, while Sanchi's Ashokan core, later
-  enlargement, gateways and additions are separate layers.
-CLOSE DISTINCTION: A chaitya is a prayer or assembly hall and a vihara is a residence; a stupa
-  has relic-votive functions and pre-Buddhist antecedents, while Sanchi's Ashokan core, later
-  enlargement, gateways and additions are separate layers.
+ASCII MASTER FLOW - PANEL 10/12: Ellora
+34 CAVES -> 12 Buddhist + 17 Brahmanical + 5 Jain.
+PHASES -> 6th-12th centuries with sequence and overlap.
+CAVE 10 -> Visvakarma chaitya.
+CAVE 16 -> Kailasha, monolithic temple of Krishna I.
+BARODA PLATE -> Elapura / Kailasha corroboration.
 
-ASCII MASTER FLOW — PANEL 11/12: Image-programme transition
-EARLY -> Buddha represented by symbols
-STUPA -> narrative and aniconic programme
-LATER -> anthropomorphic Buddha images
-SHRINE -> figural image joins sacred focus
-EVIDENCE LIMIT: Hathigumpha and donor inscriptions identify claims and patrons but are
-  selective records; Elephanta attribution remains debated and Ellora's Buddhist, Brahmanical
-  and Jain phases overlap.
-EVIDENCE LIMIT: Hathigumpha and donor inscriptions identify claims and patrons but are
-  selective records; Elephanta attribution remains debated and Ellora's Buddhist, Brahmanical
-  and Jain phases overlap.
+ASCII MASTER FLOW - PANEL 11/12: Jain heritage and inscriptions
+UDAYAGIRI-KHANDAGIRI -> Kharavela + Hathigumpha + Jain twin hills.
+BROADER JAIN SET -> Dilwara, Ranakpur, Shravanabelagola, Shatrunjaya, Shikharji.
+INSCRIPTION RULE -> donor or ruler text gives anchors but not total neutrality.
+HATHIGUMPHA -> valued because it speaks and because it omits.
 
-ASCII MASTER FLOW — PANEL 12/12: Rock-cut answer spine
-DEFINE -> excavated, durable architecture
-EVIDENCE -> plan, patron, inscription and style
-COMPARE -> Barabar, Ajanta and Ellora
-QUALIFY -> durable patronage is not all social life
+ASCII MASTER FLOW - PANEL 12/12: 2020 answer spine and traps
+DEFINE -> rock-cut monuments as durable evidence of patronage, ritual plan and technique.
+EVIDENCE -> Barabar / chaitya-vihara / Ajanta or Ellora / Hathigumpha or Baroda plate.
+QUALIFY -> stone preserves durable endowment, not the whole of society.
+AVOID -> cave tour, false precision, one-dynasty attribution, UNESCO-as-ancient-date.

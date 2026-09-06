@@ -429,3 +429,47 @@ commercial-math attempts.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** Basic numeracy at Class X level.
+- **Canonical scope:** Owns ratio, proportion, variation, percentages, averages, mixtures, profit-loss-discount, simple and compound interest, partnership and ages.
+- **Cross-topic boundary:** Pure number properties belong to Topic 02; time-work and motion rates to Topic 04; equation sufficiency to Topic 05.
+
+### Complete learner route
+
+1. **Ratio language:** Convert comparisons into common units and scalable parts.
+2. **Proportion and variation:** Distinguish direct from inverse change.
+3. **Percent foundation:** Percent means per hundred; identify the base before operating.
+4. **Successive change:** Multiply factors; do not add percentages blindly.
+5. **Average:** Use total divided by count and preserve group weights.
+6. **Profit, loss and discount:** Keep CP, SP and MP bases distinct.
+7. **Interest:** Derive SI from principal-rate-time and CI from repeated growth.
+8. **Mixtures:** Use conservation of quantity or alligation with validity checks.
+9. **Partnership:** Profit share follows capital multiplied by time.
+10. **Ages:** Translate one timeline consistently.
+11. **Estimation and options:** Use smart numbers only when ratios remain invariant.
+12. **Verification:** Reverse the change, recompute totals and inspect the percentage base.
+
+### Verification and hostile-query gate
+
+Every formula is derived from part/whole, multiplier, weighted-total or principal-time logic. Generated answers are recomputed with exact fractions before formatting.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**ratio; percentage; weighted average; profit; discount; simple interest; compound interest; alligation**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

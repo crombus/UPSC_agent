@@ -152,7 +152,12 @@ def words(text: str) -> list[str]:
 
 def source_inventory() -> list[Path]:
     actual = sorted(
-        (path for path in SOURCE_ROOT.rglob("*") if path.is_file()),
+        (
+            path
+            for path in SOURCE_ROOT.rglob("*")
+            if path.is_file()
+            and "learning-sessions" not in path.relative_to(SOURCE_ROOT).parts
+        ),
         key=lambda path: rel(path).casefold(),
     )
     expected = sorted(

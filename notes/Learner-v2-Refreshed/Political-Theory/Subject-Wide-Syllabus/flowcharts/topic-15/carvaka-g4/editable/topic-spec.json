@@ -1,0 +1,1136 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-15",
+  "subject": "Political Theory",
+  "title": "POWER, AUTHORITY AND LEGITIMACY",
+  "short_route": "POWER, AUTHORITY, LEGITIMACY AND → POWER FORMS, CORE DISTINCTIONS → WEBER, MARX, GRAMSCI AND → PLURALISM, DEEP POWER, FEMINISM → COMPARISONS, TRAPS, BOUNDARIES AND → THESES, DIRECTIVES AND PERSPECTIVE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-15\\g4\\topic-15_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-15-ascii-2026-09-06-g4.json",
+  "ascii_spec_sha256": "041d8648ce0a465771db098c0048e7f6ce7be8bd0983131b4285e169f495a1e3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POWER, AUTHORITY, LEGITIMACY AND INFLUENCE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "POWER, AUTHORITY, LEGITIMACY AND INFLUENCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] POWER SECURES EFFECTS; AUTHORITY IS POWER ACCEPTED AS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] LEGITIMACY EXPLAINS WILLING COMPLIANCE WHILE INFLUENCE WORKS WITHOUT",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GAUBA'S FORMULA AUTHORITY EQUALS POWER PLUS LEGITIMACY ANCHORS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] CONSENT MUST STILL BE TESTED FOR MANIPULATION, EXCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITY ADDS ACCEPTED RIGHTFULNESS TO THE CAPACITY CALLED POWER.",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Power, Authority, Legitimacy and Influence",
+        "[1] Power secures effects; authority is power accepted as rightful.",
+        "[2] Legitimacy explains willing compliance while influence works without direct force.",
+        "[3] Gauba's formula authority equals power plus legitimacy anchors the topic."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Power, Authority, Legitimacy and Influence",
+            "[1] Power secures effects; authority is power accepted as rightful."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Legitimacy explains willing compliance while influence works without direct force.",
+            "[3] Gauba's formula authority equals power plus legitimacy anchors the topic.",
+            "[4] Consent must still be tested for manipulation, exclusion and unequal resources."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Authority adds accepted rightfulness to the capacity called power.",
+            "ANSWER USE → Define all four adjacent concepts before comparing them."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Authority adds accepted rightfulness to the capacity called power.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "POWER FORMS, CORE DISTINCTIONS AND CHAPTER SPINE",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POWER FORMS, CORE DISTINCTIONS AND CHAPTER SPINE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] POLITICAL, ECONOMIC AND IDEOLOGICAL POWER OPERATE THROUGH DIFFERENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] COERCION THREATENS SANCTIONS; HEGEMONY ORGANISES CONSENT IN CIVIL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] POWER OVER IDENTIFIES DOMINATION; POWER TO IDENTIFIES CAPACITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] A COMPLETE ANSWER ASKS WHO RULES, BY WHAT",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER TRAVELS THROUGH RESOURCES, COERCION, BELIEF AND CAPACITY.",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Power Forms, Core Distinctions and Chapter Spine",
+        "[1] Political, economic and ideological power operate through different resources.",
+        "[2] Coercion threatens sanctions; hegemony organises consent in civil society.",
+        "[3] Power over identifies domination; power to identifies capacity and resistance."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Power Forms, Core Distinctions and Chapter Spine",
+            "[1] Political, economic and ideological power operate through different resources."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Coercion threatens sanctions; hegemony organises consent in civil society.",
+            "[3] Power over identifies domination; power to identifies capacity and resistance.",
+            "[4] A complete answer asks who rules, by what means and with what acceptance."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Power travels through resources, coercion, belief and capacity.",
+            "ANSWER USE → State the mechanism and location rather than only naming a thinker."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → State the mechanism and location rather than only naming a thinker.",
+      "answer_line": "VERDICT → Power travels through resources, coercion, belief and capacity.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WEBER, MARX, GRAMSCI AND CLASSICAL ELITE THEORY",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WEBER, MARX, GRAMSCI AND CLASSICAL ELITE THEORY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] WEBER CLASSIFIES TRADITIONAL, CHARISMATIC AND LEGAL-RATIONAL AUTHORITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MARX AND ENGELS LOCATE POLITICAL POWER IN CLASS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] GRAMSCI ADDS HEGEMONY, CIVIL SOCIETY AND RELATIVE AUTONOMY.",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PARETO, MOSCA, MICHELS AND MILLS ANALYSE DIFFERENT FORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITY, CLASS, HEGEMONY AND ELITE ORGANISATION LOCATE POWER DIFFERENTLY.",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Weber, Marx, Gramsci and Classical Elite Theory",
+        "[1] Weber classifies traditional, charismatic and legal-rational authority.",
+        "[2] Marx and Engels locate political power in class ownership and production.",
+        "[3] Gramsci adds hegemony, civil society and relative autonomy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Weber, Marx, Gramsci and Classical Elite Theory",
+            "[1] Weber classifies traditional, charismatic and legal-rational authority."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Marx and Engels locate political power in class ownership and production.",
+            "[3] Gramsci adds hegemony, civil society and relative autonomy.",
+            "[4] Pareto, Mosca, Michels and Mills analyse different forms of minority rule."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Authority, class, hegemony and elite organisation locate power differently.",
+            "ANSWER USE → Attach every thinker to one mechanism and one limitation."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Attach every thinker to one mechanism and one limitation.",
+      "answer_line": "VERDICT → Authority, class, hegemony and elite organisation locate power differently.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PLURALISM, DEEP POWER, FEMINISM AND CONSTRUCTIVE POWER",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLURALISM, DEEP POWER, FEMINISM AND CONSTRUCTIVE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PARETO AND MOSCA EXPLAIN CIRCULATION AMONG RULING MINORITIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] MICHELS EXPLAINS THE ORGANISATIONAL TENDENCY TOWARD OLIGARCHIC LEADERSHIP.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ELITE TURNOVER CAN COEXIST WITH OLIGARCHY; THE CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] PLURALISM, LUKES, FEMINISM, ARENDT AND MACPHERSON WIDEN THE",
+          "role": "outcome"
+        },
+        {
+          "text": "ELITE CIRCULATION AND ORGANISATIONAL OLIGARCHY CAN COEXIST.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Pluralism, Deep Power, Feminism and Constructive Power",
+        "[1] Pareto and Mosca explain circulation among ruling minorities.",
+        "[2] Michels explains the organisational tendency toward oligarchic leadership.",
+        "[3] Elite turnover can coexist with oligarchy; the claims are not strict opposites."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Michels explains the organisational tendency toward oligarchic leadership.",
+          "VERDICT → Elite circulation and organisational oligarchy can coexist."
+        ],
+        [
+          "Pluralism, Deep Power, Feminism and Constructive Power",
+          "[3] Elite turnover can coexist with oligarchy; the claims are not strict opposites.",
+          "ANSWER USE → Compare personnel turnover with control of organisational machinery."
+        ],
+        [
+          "[1] Pareto and Mosca explain circulation among ruling minorities.",
+          "[4] Pluralism, Lukes, feminism, Arendt and Macpherson widen the power map.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Pluralism, Deep Power, Feminism and Constructive Power",
+            "[1] Pareto and Mosca explain circulation among ruling minorities."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Michels explains the organisational tendency toward oligarchic leadership.",
+            "[3] Elite turnover can coexist with oligarchy; the claims are not strict opposites.",
+            "[4] Pluralism, Lukes, feminism, Arendt and Macpherson widen the power map."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Elite circulation and organisational oligarchy can coexist.",
+            "ANSWER USE → Compare personnel turnover with control of organisational machinery."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Elite circulation and organisational oligarchy can coexist.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COMPARISONS, TRAPS, BOUNDARIES AND SOURCE DISCIPLINE",
+      "structural_type": "problem-response",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARISONS, TRAPS, BOUNDARIES AND SOURCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] VISIBLE DECISIONS FORM THE FIRST DIMENSION OF POWER.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] AGENDA EXCLUSION FORMS THE SECOND; PREFERENCE SHAPING FORMS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE THIRD DIMENSION IS A CONTESTED HYPOTHESIS, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "[4] ARENDT AND MACPHERSON RESTORE COLLECTIVE AND DEVELOPMENTAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "EACH DIMENSION DEEPENS POWER ANALYSIS BUT RAISES A HARDER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Comparisons, Traps, Boundaries and Source Discipline",
+        "[1] Visible decisions form the first dimension of power.",
+        "[2] Agenda exclusion forms the second; preference shaping forms the third.",
+        "[3] The third dimension is a contested hypothesis, not a proven finding."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Agenda exclusion forms the second; preference shaping forms the third.",
+          "VERDICT → Each dimension deepens power analysis but raises a harder evidence burden."
+        ],
+        [
+          "Comparisons, Traps, Boundaries and Source Discipline",
+          "[3] The third dimension is a contested hypothesis, not a proven finding.",
+          "ANSWER USE → Treat preference shaping as a contestable hypothesis, not a finding."
+        ],
+        [
+          "[1] Visible decisions form the first dimension of power.",
+          "[4] Arendt and Macpherson restore collective and developmental power to the analysis.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Comparisons, Traps, Boundaries and Source Discipline",
+            "[1] Visible decisions form the first dimension of power."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Agenda exclusion forms the second; preference shaping forms the third.",
+            "[3] The third dimension is a contested hypothesis, not a proven finding.",
+            "[4] Arendt and Macpherson restore collective and developmental power to the analysis."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Each dimension deepens power analysis but raises a harder evidence burden.",
+            "ANSWER USE → Treat preference shaping as a contestable hypothesis, not a finding."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Each dimension deepens power analysis but raises a harder evidence burden.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THESES, DIRECTIVES AND PERSPECTIVE SELECTION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THESES, DIRECTIVES AND PERSPECTIVE SELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A THESIS MUST DISTINGUISH CAPACITY, RIGHTFULNESS AND WILLING",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DIRECTIVE CONTROL DECIDES WHETHER ONE PERSPECTIVE OR SEVERAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] ELITE ANSWERS SEPARATE CIRCULATION OF PERSONNEL FROM ORGANISATION-LEVEL",
+          "role": "primary"
+        },
+        {
+          "text": "[4] DIGITAL ANSWERS DISTINGUISH PUBLIC, PRIVATE AND HYBRID POWER.",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIRECTIVE CONTROL PREVENTS POWER THEORIES FROM BECOMING AN UNRANKED",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Theses, Directives and Perspective Selection",
+        "[1] A thesis must distinguish capacity, rightfulness and willing compliance.",
+        "[2] Directive control decides whether one perspective or several must be compared.",
+        "[3] Elite answers separate circulation of personnel from organisation-level oligarchy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Theses, Directives and Perspective Selection",
+            "[1] A thesis must distinguish capacity, rightfulness and willing compliance."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Directive control decides whether one perspective or several must be compared.",
+            "[3] Elite answers separate circulation of personnel from organisation-level oligarchy.",
+            "[4] Digital answers distinguish public, private and hybrid power."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Directive control prevents power theories from becoming an unranked list.",
+            "ANSWER USE → Select dimensions and perspectives that answer the exact demand."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Directive control prevents power theories from becoming an unranked list.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ELITE-THEORY DEBATE, EVIDENCE AND MARK SCALING",
+      "structural_type": "institution-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ELITE-THEORY DEBATE, EVIDENCE AND MARK SCALING",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] AUTHORITY IS MORE STABLE THAN FORCE BECAUSE LEGITIMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] LUKES REPLIES THAT APPARENT CONSENT MAY ITSELF BE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] THE OBJECTION IS DIFFICULT TO VERIFY WITHOUT OBSERVABLE",
+          "role": "primary"
+        },
+        {
+          "text": "[4] USE DEFAULTS, EXCLUSIONS AND BARRIERS TO CONTESTATION BEFORE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSENT MAY LEGITIMATE AUTHORITY OR REVEAL HEGEMONY AND HIDDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Elite-Theory Debate, Evidence and Mark Scaling",
+        "[1] Authority is more stable than force because legitimacy lowers coercive costs.",
+        "[2] Lukes replies that apparent consent may itself be shaped by deeper power.",
+        "[3] The objection is difficult to verify without observable mechanisms."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Elite-Theory Debate, Evidence and Mark Scaling",
+            "[1] Authority is more stable than force because legitimacy lowers coercive costs."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Lukes replies that apparent consent may itself be shaped by deeper power.",
+            "[3] The objection is difficult to verify without observable mechanisms.",
+            "[4] Use defaults, exclusions and barriers to contestation before claiming false interests."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Consent may legitimate authority or reveal hegemony and hidden domination.",
+            "ANSWER USE → Test acceptance through contestability, resources and alternatives."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Consent may legitimate authority or reveal hegemony and hidden domination.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DIGITAL POWER: PANOPTICISM, DATA AND THE THREE DIMENSIONS",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DIGITAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "PANOPTICISM, DATA AND THE THREE DIMENSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PANOPTICISM EXPLAINS SELF-POLICING UNDER UNCERTAIN OBSERVATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DATA POWER ADDS ASYMMETRIC KNOWLEDGE, RANKING, PREDICTION AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] FOUCAULT, ZUBOFF AND PARISER ARE EXTENSIONS BEYOND GAUBA",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE M.A.N.A.V. VISION SUPPLIES A CURRENT ETHICAL-GOVERNANCE ANCHOR.",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGITAL POWER EXTENDS CLASSICAL MECHANISMS WITHOUT ERASING PROVENANCE LIMITS.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Digital Power: Panopticism, Data and the Three Dimensions",
+        "[1] Panopticism explains self-policing under uncertain observation.",
+        "[2] Data power adds asymmetric knowledge, ranking, prediction and automated discretion.",
+        "[3] Foucault, Zuboff and Pariser are extensions beyond Gauba and remain paraphrased."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Digital Power: Panopticism, Data and the Three Dimensions",
+            "[1] Panopticism explains self-policing under uncertain observation."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Data power adds asymmetric knowledge, ranking, prediction and automated discretion.",
+            "[3] Foucault, Zuboff and Pariser are extensions beyond Gauba and remain paraphrased.",
+            "[4] The M.A.N.A.V. vision supplies a current ethical-governance anchor."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Digital power extends classical mechanisms without erasing provenance limits.",
+            "ANSWER USE → Mark Foucault, Zuboff and Pariser as later conceptual extensions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Digital power extends classical mechanisms without erasing provenance limits.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SURVEILLANCE ASYMMETRY, CONSENT AND THE PUBLIC-PRIVATE BOUNDARY",
+      "structural_type": "application-pyq",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SURVEILLANCE ASYMMETRY, CONSENT AND THE PUBLIC-PRIVATE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] SURVEILLANCE CAN CHILL ASSOCIATION, HIDE CRITERIA AND AGGREGATE",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] FORMAL CONSENT MAY BE THIN WHEN TERMS ARE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] PLATFORM POWER STRAINS PUBLIC ACCOUNTABILITY AND ORDINARY MARKET",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] LEGITIMATE POWER REQUIRES EXPLANATION, REVIEW AND MEANINGFUL ANSWERABILITY.",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRIVATE AND HYBRID POWER EXPOSE AN ACCOUNTABILITY GAP BEYOND",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Surveillance Asymmetry, Consent and the Public-Private Boundary",
+        "[1] Surveillance can chill association, hide criteria and aggregate minor observations.",
+        "[2] Formal consent may be thin when terms are unread and participation is necessary.",
+        "[3] Platform power strains public accountability and ordinary market exit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Surveillance Asymmetry, Consent and the Public-Private Boundary",
+            "[1] Surveillance can chill association, hide criteria and aggregate minor observations."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Formal consent may be thin when terms are unread and participation is necessary.",
+            "[3] Platform power strains public accountability and ordinary market exit.",
+            "[4] Legitimate power requires explanation, review and meaningful answerability."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Private and hybrid power expose an accountability gap beyond state coercion.",
+            "ANSWER USE → Ask who decides, who can challenge and whether exit is meaningful."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Private and hybrid power expose an accountability gap beyond state coercion.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "OBJECTIONS, PUTTASWAMY BOUNDARY AND DIGITAL ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OBJECTIONS, PUTTASWAMY BOUNDARY AND DIGITAL ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PUTTASWAMY IS USED ONLY AS A STRUCTURED-JUSTIFICATION CONCEPTUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] NO STATUTORY, PROGRAMME OR CURRENT REGULATORY DETAIL IS",
+          "role": "caution"
+        },
+        {
+          "text": "[3] THREE OBJECTIONS TEST VOLUNTARINESS, UNFALSIFIABILITY AND STATE-CENTRISM.",
+          "role": "institution"
+        },
+        {
+          "text": "[4] A GRADED VERDICT SEPARATES TECHNOLOGICAL CAPACITY FROM RIGHTFUL",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURED JUSTIFICATION, NOT TECHNOLOGICAL NOVELTY, IS THE LEGITIMACY TEST.",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Objections, Puttaswamy Boundary and Digital Answer Architecture",
+        "[1] Puttaswamy is used only as a structured-justification conceptual anchor.",
+        "[2] No statutory, programme or current regulatory detail is authored here.",
+        "[3] Three objections test voluntariness, unfalsifiability and state-centrism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Objections, Puttaswamy Boundary and Digital Answer Architecture",
+            "[1] Puttaswamy is used only as a structured-justification conceptual anchor."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] No statutory, programme or current regulatory detail is authored here.",
+            "[3] Three objections test voluntariness, unfalsifiability and state-centrism.",
+            "[4] A graded verdict separates technological capacity from rightful authority."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "VERDICT → Structured justification, not technological novelty, is the legitimacy test.",
+            "ANSWER USE → Conclude with legality, proportionality, explanation and review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Structured justification, not technological novelty, is the legitimacy test.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLOSE OPTIONS TEST POWER VERSUS AUTHORITY AND COERCION",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] THEY SEPARATE WEBER'S TYPES, ELITE MECHANISMS AND THE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MICHELS DOES NOT PROVE PERMANENT, UNCHANGING OLIGARCHY IN",
+          "role": "caution"
+        },
+        {
+          "text": "[4] THIRD-DIMENSIONAL PREFERENCE SHAPING MUST NOT BE ASSERTED AS",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE OPTIONS TURN ON MECHANISM, DEPTH, LOCATION AND SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Close options test power versus authority and coercion versus hegemony.",
+        "[2] They separate Weber's types, elite mechanisms and the three power dimensions.",
+        "[3] Michels does not prove permanent, unchanging oligarchy in every organisation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Close options test power versus authority and coercion versus hegemony."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] They separate Weber's types, elite mechanisms and the three power dimensions.",
+            "[3] Michels does not prove permanent, unchanging oligarchy in every organisation.",
+            "[4] Third-dimensional preference shaping must not be asserted as an established fact."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Close options turn on mechanism, depth, location and source boundary.",
+            "ANSWER USE → Reject overclaims about permanent oligarchy or manufactured preferences."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Close options turn on mechanism, depth, location and source boundary.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NO DIRECTLY OWNED VERIFIED UPSC PYQ IS ASSIGNED",
+          "role": "caution"
+        },
+        {
+          "text": "[2] SIX ORIGINAL QUESTIONS TEST CONCEPTS, ELITE THEORY, PLURALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] A STRONG ANSWER ADDS ARENDT OR MACPHERSON AS",
+          "role": "primary"
+        },
+        {
+          "text": "[4] FINAL RECALL",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY BECOMES AUTHORITY ONLY THROUGH LEGITIMATE ANSWERABILITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "ORIGINAL PRACTICE INTEGRATES CLASSICAL POWER WITH ITS DIGITAL EXTENSION.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] No directly owned verified UPSC PYQ is assigned to this topic.",
+        "[2] Six original questions test concepts, elite theory, pluralism and digital power.",
+        "[3] A strong answer adds Arendt or Macpherson as a constructive counterpoint."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] No directly owned verified UPSC PYQ is assigned to this topic."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Six original questions test concepts, elite theory, pluralism and digital power.",
+            "[3] A strong answer adds Arendt or Macpherson as a constructive counterpoint.",
+            "[4] Final recall: capacity becomes authority only through legitimate answerability."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT → Original practice integrates classical power with its digital extension.",
+            "ANSWER USE → End by separating bare capacity from legitimate and answerable authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Original practice integrates classical power with its digital extension.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

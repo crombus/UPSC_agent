@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-14",
+  "subject": "Essay",
+  "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+  "short_route": "LANGUAGE, STYLE AND FUNCTIONAL → LANGUAGE, STYLE AND FUNCTIONAL → LANGUAGE, STYLE AND FUNCTIONAL → LANGUAGE, STYLE AND FUNCTIONAL → LANGUAGE, STYLE AND FUNCTIONAL → LANGUAGE, STYLE AND FUNCTIONAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-14\\g1\\essay-14_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-14-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "8154be0e05de8e85b63fd5cf75aacd19ea10aa77ee8db2eb12a8fe32d62776bf",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS SENTENCE- AND PARAGRAPH-LEVEL LANG",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "PROSE WOULD STATE LESS CLEARLY — A GENUINE SEQUENCE",
+          "role": "institution"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SENTENCE ALREADY SAID. REMOVING IT WOULD COST TH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang",
+        "CORE TERMS IN PLAIN LANGUAGE → prose would state less clearly — a genuine sequence",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang",
+            "CORE TERMS IN PLAIN LANGUAGE → prose would state less clearly — a genuine sequence,"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would cost th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do not ask \""
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SENTENCE ALREADY SAID. REMOVING IT WOULD COST TH",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 3",
+          "role": "primary"
+        },
+        {
+          "text": "THE TEST IS SUBTRACTIVE, NOT AESTHETIC. DO NOT ASK",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do",
+        "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a",
+        "EXAM FACTS / SOURCE BASIS — 2 → is that visuals should be rare and",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would cost th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do not ask \""
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a",
+            "EXAM FACTS / SOURCE BASIS — 2 → is that visuals should be rare and only used where t"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would cost th"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "VISUALS/DIAGRAMS ARE PERMITTED OR EXPECTED WITHIN A",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "IS THAT VISUALS SHOULD BE RARE AND ONLY USED",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a",
+        "EXAM FACTS / SOURCE BASIS — 2 → is that visuals should be rare and",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: clear, precise, moderately plain prose",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Does this sentence state a specific claim, or doe",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a",
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: clear, precise, moderately plain prose",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "EXAM FACTS / SOURCE BASIS — 2 → is that visuals should be rare and only used where t",
+          "BASIC DECOMPOSITION QUESTIONS → 1. Does this sentence state a specific claim, or doe",
+          "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a",
+            "EXAM FACTS / SOURCE BASIS — 2 → is that visuals should be rare and only used where t"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: clear, precise, moderately plain prose",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Does this sentence state a specific claim, or doe"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "CLEAR, PRECISE, MODERATELY PLAIN PROSE",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. DOES THIS SENTENCE STATE A SPECIFIC CLAIM, OR",
+          "role": "institution"
+        },
+        {
+          "text": "6A. EXACT-EXPRESSION REPAIR AND VI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: clear, precise, moderately plain prose",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Does this sentence state a specific claim, or doe",
+        "6A. EXACT-EXPRESSION REPAIR AND VI → Before: “The multifarious tapestry of digital societ",
+        "6A. EXACT-EXPRESSION REPAIR AND VI → After: “Platforms that reward comparison can make so",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: clear, precise, moderately plain prose",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Does this sentence state a specific claim, or doe"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "6A. EXACT-EXPRESSION REPAIR AND VI → Before: “The multifarious tapestry of digital societ",
+            "6A. EXACT-EXPRESSION REPAIR AND VI → After: “Platforms that reward comparison can make so"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: clear, precise, moderately plain prose"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "6A. Exact-expression repair and visual gates",
+        "6A. Exact-expression repair and visual gates — 2"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "6A. EXACT-EXPRESSION REPAIR AND VI",
+          "role": "comparison"
+        },
+        {
+          "text": "“THE MULTIFARIOUS TAPESTRY OF DIGITAL SOCIET",
+          "role": "evidence"
+        },
+        {
+          "text": "“PLATFORMS THAT REWARD COMPARISON CAN MAKE SO",
+          "role": "primary"
+        },
+        {
+          "text": "1. ITS FIRST SENTENCE MAKES ONE RESPONSE-RELEVANT CL",
+          "role": "outcome"
+        },
+        {
+          "text": "CANDIDATE VISUAL V GATE 1",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES IT SHOW A REAL MULTI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "6A. EXACT-EXPRESSION REPAIR AND VI → Before: “The multifarious tapestry of digital societ",
+        "6A. EXACT-EXPRESSION REPAIR AND VI → After: “Platforms that reward comparison can make so",
+        "6A. EXACT-EXPRESSION REPAIR AND VI → 1. Its first sentence makes one response-relevant cl",
+        "6A. EXACT-EXPRESSION REPAIR AND VI → CANDIDATE VISUAL v Gate 1: Does it show a",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "6A. EXACT-EXPRESSION REPAIR AND VI → Before: “The multifarious tapestry of digital societ",
+            "6A. EXACT-EXPRESSION REPAIR AND VI → After: “Platforms that reward comparison can make so"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "6A. EXACT-EXPRESSION REPAIR AND VI → 1. Its first sentence makes one response-relevant cl",
+            "6A. EXACT-EXPRESSION REPAIR AND VI → CANDIDATE VISUAL v Gate 1: Does it show a real multi"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "6A. EXACT-EXPRESSION REPAIR AND VI → Before: “The multifarious tapestry of digital societ"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "6A. Exact-expression repair and visual gates",
+        "6A. Exact-expression repair and visual gates — 2",
+        "6A. Exact-expression repair and visual gates — 3",
+        "6A. Exact-expression repair and visual gates — 4"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "6A. EXACT-EXPRESSION REPAIR AND VI",
+          "role": "comparison"
+        },
+        {
+          "text": "1. ITS FIRST SENTENCE MAKES ONE RESPONSE-RELEVANT CL",
+          "role": "evidence"
+        },
+        {
+          "text": "CANDIDATE VISUAL V GATE 1",
+          "role": "primary"
+        },
+        {
+          "text": "DOES IT SHOW A REAL MULTI",
+          "role": "outcome"
+        },
+        {
+          "text": "PASSING BOTH GATES IS NECESSARY, NOT SUFFICIENT",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "6A. EXACT-EXPRESSION REPAIR AND VI → 1. Its first sentence makes one response-relevant cl",
+        "6A. EXACT-EXPRESSION REPAIR AND VI → CANDIDATE VISUAL v Gate 1: Does it show a",
+        "6A. EXACT-EXPRESSION REPAIR AND VI → Passing both gates is necessary, not sufficient: the",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "6A. EXACT-EXPRESSION REPAIR AND VI → 1. Its first sentence makes one response-relevant cl",
+            "6A. EXACT-EXPRESSION REPAIR AND VI → CANDIDATE VISUAL v Gate 1: Does it show a real multi"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "6A. EXACT-EXPRESSION REPAIR AND VI → Passing both gates is necessary, not sufficient: the",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "6A. EXACT-EXPRESSION REPAIR AND VI → 1. Its first sentence makes one response-relevant cl"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "6A. Exact-expression repair and visual gates — 3",
+        "6A. Exact-expression repair and visual gates — 4",
+        "6A. Exact-expression repair and visual gates — 5",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6A. EXACT-EXPRESSION REPAIR AND VI",
+          "role": "comparison"
+        },
+        {
+          "text": "PASSING BOTH GATES IS NECESSARY, NOT SUFFICIENT",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "primary"
+        },
+        {
+          "text": "NOT DIRECTLY APPLICABLE — SEE 12 FOR ILLUSTRATION CO",
+          "role": "caution"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "STYLE QUALITY IN THIS GENRE IS MEASURED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "6A. EXACT-EXPRESSION REPAIR AND VI → Passing both gates is necessary, not sufficient: the",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: style quality in this genre is measured",
+        "CONCEPT DEFINITION AND TAXONOMY → scheme acronyms, bullet lists) into continuous essay",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "6A. EXACT-EXPRESSION REPAIR AND VI → Passing both gates is necessary, not sufficient: the",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: style quality in this genre is measured",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co",
+          "CONCEPT DEFINITION AND TAXONOMY → scheme acronyms, bullet lists) into continuous essay",
+          "6A. EXACT-EXPRESSION REPAIR AND VI → Passing both gates is necessary, not sufficient: the"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "6A. EXACT-EXPRESSION REPAIR AND VI → Passing both gates is necessary, not sufficient: the",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: style quality in this genre is measured",
+            "CONCEPT DEFINITION AND TAXONOMY → scheme acronyms, bullet lists) into continuous essay"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "6A. EXACT-EXPRESSION REPAIR AND VI → Passing both gates is necessary, not sufficient: the"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "6A. Exact-expression repair and visual gates — 5",
+        "India-first illustration starters",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "STYLE QUALITY IN THIS GENRE IS MEASURED",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEME ACRONYMS, BULLET LISTS) INTO CONTINUOUS ESSAY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESS OR COMPARISON IS GENUINELY CLEARER IN THAT F",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: style quality in this genre is measured",
+        "CONCEPT DEFINITION AND TAXONOMY → scheme acronyms, bullet lists) into continuous essay",
+        "CONCEPT DEFINITION AND TAXONOMY — → process or comparison is genuinely clearer in that f",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → vocabulary signals intellectual depth; in the essay",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: style quality in this genre is measured",
+            "CONCEPT DEFINITION AND TAXONOMY → scheme acronyms, bullet lists) into continuous essay"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → process or comparison is genuinely clearer in that f",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → vocabulary signals intellectual depth; in the essay"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: style quality in this genre is measured"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESS OR COMPARISON IS GENUINELY CLEARER IN THAT F",
+          "role": "mechanism"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "primary"
+        },
+        {
+          "text": "VOCABULARY SIGNALS INTELLECTUAL DEPTH; IN THE ESSAY",
+          "role": "outcome"
+        },
+        {
+          "text": "DIAGRAM \"ADDS VALUE\"; IN FACT A DIAGRAM THAT MERELY",
+          "role": "comparison"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → process or comparison is genuinely clearer in that f",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → vocabulary signals intellectual depth; in the essay",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → diagram \"adds value\"; in fact a diagram that merely",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Apply register discipline at three levels: the word",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → process or comparison is genuinely clearer in that f",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → vocabulary signals intellectual depth; in the essay"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → diagram \"adds value\"; in fact a diagram that merely",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Apply register discipline at three levels: the word"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → process or comparison is genuinely clearer in that f"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "DIAGRAM \"ADDS VALUE\"; IN FACT A DIAGRAM THAT MERELY",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "APPLY REGISTER DISCIPLINE AT THREE LEVELS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE WORD",
+          "role": "comparison"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → diagram \"adds value\"; in fact a diagram that merely",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Apply register discipline at three levels: the word",
+        "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang",
+        "CORE TERMS IN PLAIN LANGUAGE → prose would state less clearly — a genuine sequence",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → diagram \"adds value\"; in fact a diagram that merely",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Apply register discipline at three levels: the word"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang",
+            "CORE TERMS IN PLAIN LANGUAGE → prose would state less clearly — a genuine sequence,"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → diagram \"adds value\"; in fact a diagram that merely"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS SENTENCE- AND PARAGRAPH-LEVEL LANG",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "PROSE WOULD STATE LESS CLEARLY — A GENUINE SEQUENCE",
+          "role": "institution"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SENTENCE ALREADY SAID. REMOVING IT WOULD COST TH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang",
+        "CORE TERMS IN PLAIN LANGUAGE → prose would state less clearly — a genuine sequence",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang",
+            "CORE TERMS IN PLAIN LANGUAGE → prose would state less clearly — a genuine sequence,"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would cost th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do not ask \""
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers sentence- and paragraph-level lang"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "LANGUAGE, STYLE AND FUNCTIONAL VISUALS",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SENTENCE ALREADY SAID. REMOVING IT WOULD COST TH",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 3",
+          "role": "primary"
+        },
+        {
+          "text": "THE TEST IS SUBTRACTIVE, NOT AESTHETIC. DO NOT ASK",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do",
+        "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a",
+        "EXAM FACTS / SOURCE BASIS — 2 → is that visuals should be rare and",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would cost th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → The test is subtractive, not aesthetic. Do not ask \""
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → visuals/diagrams are permitted or expected within a",
+            "EXAM FACTS / SOURCE BASIS — 2 → is that visuals should be rare and only used where t"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → one sentence already said. Removing it would cost th"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "REGISTER MISMATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPORTING GS-ANSWER CONVENTIONS (HEADINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "EARNED VISUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "A DIAGRAM/TABLE USED BECAUSE THE UNDERLYING",
+          "role": "primary"
+        },
+        {
+          "text": "DECORATIVE VISUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "A DIAGRAM USED TO SIGNAL EFFORT OR VISUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "SOPHISTICATION VS. CLARITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Register mismatch: importing GS-answer conventions (headings,",
+            "Earned visual: a diagram/table used because the underlying",
+            "Decorative visual: a diagram used to signal effort or visual",
+            "Sophistication vs. clarity: the hidden assumption that complex"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Visual appeal vs. genuine clarification: the assumption that any",
+            "NOT: Ornamental vocabulary throughout a draft. → Protocol: run the",
+            "NOT: Decorative visual that fails the Section 6 test. → Protocol:",
+            "NOT: GS-register bleed (headings, bullet points, acronyms) inside the"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Diagnosing register mismatches (GS-answer jargon vs.",
+            "essay prose), and a strict test for when a visual earns its place in a continuous-prose essay.",
+            "Grounded in: audited 2024–2025 UPSC Essay paper corpus (see ../README.md); ../00 Master-Framework.md Section 10."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

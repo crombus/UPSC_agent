@@ -1,0 +1,1203 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-04",
+  "subject": "Political Theory",
+  "title": "MARXISM AND NEO-MARXISM",
+  "short_route": "MARXISM, SCIENTIFIC SOCIALISM AND → THE CLASSICAL MARXIST ARGUMENT → THINKERS, ILLUSTRATIONS AND THE → OWNERSHIP BOUNDARIES AND UPSC → HISTORICAL MATERIALISM WITHOUT MECHANICAL → CLASS, STATE, EXPLOITATION AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-04-ascii-2026-09-06-g5.json",
+  "ascii_spec_sha256": "36f5169654372779c29e242cf552e4596d36c36afa690fcb1287f0dba032b95b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MARXISM, SCIENTIFIC SOCIALISM AND CORE VOCABULARY",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MARXISM, SCIENTIFIC SOCIALISM AND CORE VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MARXISM",
+          "role": "comparison"
+        },
+        {
+          "text": "A SET OF POLITICAL AND ECONOMIC PRINCIPLES FOUNDED BY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CLASSICAL MARXISM",
+          "role": "primary"
+        },
+        {
+          "text": "THE ORIGINAL SCIENTIFIC SYSTEM CENTRED ON PROPERTY, CLASS DIVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] GAUBA PRESENTS CLASSICAL MARXISM THROUGH FOUR MAIN TENETS",
+          "role": "comparison"
+        },
+        {
+          "text": "DIALECTICAL MATERIALISM, HISTORICAL MATERIALISM, CLASS CONFLICT AND SURPLUS VALUE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Marxism, Scientific Socialism and Core Vocabulary",
+        "[1] Marxism: a set of political and economic principles founded by Marx and Engels to",
+        "(PDF p.47)",
+        "[2] Classical Marxism: the original scientific system centred on property, class division, contradiction and revolutionary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Marxism, Scientific Socialism and Core Vocabulary",
+            "[1] Marxism: a set of political and economic principles founded by Marx and Engels to give socialism a",
+            "(PDF p.47)",
+            "[2] Classical Marxism: the original scientific system centred on property, class division, contradiction and revolutionary transformation. (PDF p.47)"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Gauba presents classical Marxism through four main tenets: dialectical materialism, historical materialism, class conflict and surplus value.",
+            "(PDF p.48, p.52)",
+            "[4] Marxism explains why formal legal equality can coexist with deep economic inequality under capitalism. (PDF pp.46-47)",
+            "[5] Neo-Marxism shows why domination cannot be reduced only to factory ownership",
+            "culture, communication and ideology also matter. (PDF pp.53-54)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Marxism, Scientific Socialism and Core Vocabulary is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Marxism, Scientific Socialism and Core Vocabulary is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE CLASSICAL MARXIST ARGUMENT AND ESSENTIAL DISTINCTIONS",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE CLASSICAL MARXIST ARGUMENT AND ESSENTIAL DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLASSICAL MARXISM VS NEO-MARXISM",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSICAL MARXISM EMPHASIZES PROPERTY, CLASS CONTRADICTION AND REVOLUTION; NEO-MARXISM",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GAUBA BEGINS WITH CAPITALISM'S OPPRESSIVE CONDITIONS AND PRESENTS",
+          "role": "primary"
+        },
+        {
+          "text": "(PDF PP.46-47)",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] MARXISM ARGUES THAT PRIVATE PROPERTY IN THE MEANS",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE MODE OF PRODUCTION SHAPES THE SOCIAL STRUCTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Classical Marxist Argument and Essential Distinctions",
+        "[1] Classical Marxism vs neo-Marxism: classical Marxism emphasizes property, class contradiction and revolution",
+        "neo-Marxism widens the lens to ideology, culture and new forms of domination.",
+        "(PDF pp.47, 53-54)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Classical Marxist Argument and Essential Distinctions",
+            "[1] Classical Marxism vs neo-Marxism: classical Marxism emphasizes property, class contradiction and revolution",
+            "neo-Marxism widens the lens to ideology, culture and new forms of domination.",
+            "(PDF pp.47, 53-54)"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "response to the failure of laissez-faire liberalism to deliver real human freedom.",
+            "(PDF pp.46-47)",
+            "[3] Marxism argues that private property in the means of production divides society into dominant and dependent classes with antagonistic interests.",
+            "(PDF p.47)",
+            "[4] The mode of production shapes the social structure"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "(PDF pp.48-50)",
+            "[5] Class struggle continues from slave society to feudalism to capitalism, and Marxism expects a socialist revolution to",
+            "(PDF pp.49-52)",
+            "SYNTHESIS → The Classical Marxist Argument and Essential Distinctions is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Classical Marxist Argument and Essential Distinctions is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THINKERS, ILLUSTRATIONS AND THE THREE-STRAND MATRIX",
+      "structural_type": "argument-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THINKERS, ILLUSTRATIONS AND THE THREE-STRAND MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MARX AND ENGELS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOUNDERS OF MARXISM AND SCIENTIFIC SOCIALISM; THEY TREAT HISTORY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LENIN, ROSA LUXEMBURG AND MAO ZEDONG",
+          "role": "primary"
+        },
+        {
+          "text": "GAUBA LISTS THEM AMONG CHIEF EXPONENTS OF CLASSICAL MARXISM.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] YOUNG MARX",
+          "role": "comparison"
+        },
+        {
+          "text": "GAUBA HIGHLIGHTS THE EARLY HUMANIST MARX ON ALIENATION, FREEDOM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Thinkers, Illustrations and the Three-Strand Matrix",
+        "[1] Marx and Engels: founders of Marxism and scientific socialism; they treat history as struggle",
+        "[2] Lenin, Rosa Luxemburg and Mao Zedong: Gauba lists them among chief exponents of classical",
+        "[3] Young Marx: Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing"
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Young Marx: Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects. (PDF p.47)",
+          "SYNTHESIS → Thinkers, Illustrations and the Three-Strand Matrix is best presented"
+        ],
+        [
+          "Thinkers, Illustrations and the Three-Strand Matrix",
+          "[4] Frankfurt School: Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique. (PDF p.53)",
+          "through its central claim, causal logic, strongest limit and qualified verdict."
+        ],
+        [
+          "[1] Marx and Engels: founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production. (PDF p.47)",
+          "[5] Herbert Marcuse: argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ],
+        [
+          "[2] Lenin, Rosa Luxemburg and Mao Zedong: Gauba lists them among chief exponents of classical Marxism. (PDF p.47)",
+          "(PDF p.54)",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Thinkers, Illustrations and the Three-Strand Matrix",
+            "[1] Marx and Engels: founders of Marxism and scientific socialism; they treat history as struggle rooted in the mode of production. (PDF p.47)",
+            "[2] Lenin, Rosa Luxemburg and Mao Zedong: Gauba lists them among chief exponents of classical Marxism. (PDF p.47)"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[3] Young Marx: Gauba highlights the early humanist Marx on alienation, freedom and capitalism's dehumanizing effects. (PDF p.47)",
+            "[4] Frankfurt School: Adorno, Horkheimer, Marcuse and Habermas extend Marxism through critical theory and ideology critique. (PDF p.53)",
+            "[5] Herbert Marcuse: argues that advanced bourgeois society reduces human beings to one-dimensionality by anaesthetizing discontent through manipulated",
+            "(PDF p.54)"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "SYNTHESIS → Thinkers, Illustrations and the Three-Strand Matrix is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Thinkers, Illustrations and the Three-Strand Matrix is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "OWNERSHIP BOUNDARIES AND UPSC TRAP REPAIR",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OWNERSHIP BOUNDARIES AND UPSC TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] FORCES OF PRODUCTION VS RELATIONS OF PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FORCES INCLUDE MEANS OF PRODUCTION PLUS LABOUR POWER; RELATIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] HUMAN PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLOITATION ROOTED IN OWNERSHIP OF MEANS OF PRODUCTION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] MODE OF PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FORCES OF PRODUCTION (MEANS OF PRODUCTION PLUS LABOUR POWER/TECHNIQUE)",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Ownership Boundaries and UPSC Trap Repair",
+        "[1] Forces of production vs relations of production: forces include means of production plus labour",
+        "relations concern ownership patterns and class relations.",
+        "[2] Human problem: Exploitation rooted in ownership of means of production."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Mode of production: forces of production (means of production plus labour power/technique) combine with relations",
+          "across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba,"
+        ],
+        [
+          "Ownership Boundaries and UPSC Trap Repair",
+          "of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).",
+          "PDF p.49)."
+        ],
+        [
+          "[1] Forces of production vs relations of production: forces include means of production plus labour power",
+          "[4] Fetter/rupture mechanism: when the forces of production (technique, productive capacity) develop beyond what the existing",
+          "SYNTHESIS → Ownership Boundaries and UPSC Trap Repair is best presented"
+        ],
+        [
+          "relations concern ownership patterns and class relations.",
+          "relations of production (ownership patterns) can accommodate, the relations become a fetter on further development",
+          "through its central claim, causal logic, strongest limit and qualified verdict."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Ownership Boundaries and UPSC Trap Repair",
+            "[1] Forces of production vs relations of production: forces include means of production plus labour power",
+            "relations concern ownership patterns and class relations.",
+            "[2] Human problem: Exploitation rooted in ownership of means of production."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[3] Mode of production: forces of production (means of production plus labour power/technique) combine with relations",
+            "of production (ownership patterns and class relations) to form the economic base (Gauba, PDF pp.48-49).",
+            "[4] Fetter/rupture mechanism: when the forces of production (technique, productive capacity) develop beyond what the existing",
+            "relations of production (ownership patterns) can accommodate, the relations become a fetter on further development",
+            "revolution breaks that fetter and replaces one social formation with another"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "across the stage-sequence slave-owning → feudal → capitalist → socialist/communist (Gauba,",
+            "PDF p.49).",
+            "SYNTHESIS → Ownership Boundaries and UPSC Trap Repair is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Ownership Boundaries and UPSC Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HISTORICAL MATERIALISM WITHOUT MECHANICAL DETERMINISM",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "HISTORICAL MATERIALISM WITHOUT MECHANICAL DETERMINISM",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] HISTORICAL MATERIALISM RESTATED AS A MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ECONOMIC RELATIONS OF PRODUCTION, DISTRIBUTION AND EXCHANGE PLAY THE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SHOW CLASS STRUGGLE ACROSS HISTORICAL STAGES AND END",
+          "role": "primary"
+        },
+        {
+          "text": "(PDF PP.49-52)",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] BASE-SUPERSTRUCTURE — NON-MECHANICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "THE BASE IS THE MODE OF PRODUCTION; THE SUPERSTRUCTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Historical Materialism Without Mechanical Determinism",
+        "[1] Historical materialism restated as a mechanism: economic relations of production, distribution and exchange",
+        "play the decisive role in shaping wider social and political life (Gauba, PDF p.48).",
+        "[2] Show class struggle across historical stages and end with proletarian revolution."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Historical Materialism Without Mechanical Determinism",
+            "[1] Historical materialism restated as a mechanism: economic relations of production, distribution and exchange",
+            "play the decisive role in shaping wider social and political life (Gauba, PDF p.48).",
+            "[2] Show class struggle across historical stages and end with proletarian revolution."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "(PDF pp.49-52)",
+            "[3] Base-superstructure — non-mechanical: the base is the mode of production",
+            "the superstructure is law, politics, religion, morals, art and culture.",
+            "Gauba's own neo-Marxist section explicitly records growing recognition of interdependence between base and superstructure, rejecting a crude, one-way,",
+            "[4] Start with Marxism as scientific socialism responding to capitalist exploitation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "(PDF pp.46-47)",
+            "[5] Explain base, superstructure, forces of production and relations of production clearly. (PDF pp.48-49)",
+            "SYNTHESIS → Historical Materialism Without Mechanical Determinism is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Historical Materialism Without Mechanical Determinism is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CLASS, STATE, EXPLOITATION AND ALIENATION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CLASS, STATE, EXPLOITATION AND ALIENATION",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] READ TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPLOITATION (SURPLUS VALUE), DOMINATION (STATE AS CLASS INSTRUMENT) AND",
+          "role": "institution"
+        },
+        {
+          "text": "[2] CLASS",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE PROPERTY IN THE MEANS OF PRODUCTION DIVIDES SOCIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "(OWNING) AND DEPENDENT CLASSES WITH ANTAGONISTIC INTERESTS, DRIVING CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] ALIENATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Class, State, Exploitation and Alienation",
+        "[1] Read together: exploitation (surplus value), domination (state as class instrument) and dehumanization",
+        "(alienation) are three faces of the same underlying property relation, not three unrelated",
+        "Marxist claims — a strong answer connects them rather than listing them separately."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Class, State, Exploitation and Alienation",
+            "[1] Read together: exploitation (surplus value), domination (state as class instrument) and dehumanization",
+            "(alienation) are three faces of the same underlying property relation, not three unrelated",
+            "Marxist claims — a strong answer connects them rather than listing them separately."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Class: private property in the means of production divides society into dominant",
+            "(owning) and dependent classes with antagonistic interests, driving conflict across historical",
+            "stages toward an expected socialist/classless resolution (Gauba, PDF pp.47, 49-52).",
+            "[3] Alienation: the \"Young Marx\"/humanist strain of neo-Marxism centres on alienation, freedom and capitalism's dehumanizing effects on the",
+            "The mechanism: wage-labour separates the worker from the product of labour and from the labour process itself, and,"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Class, State, Exploitation and Alienation is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Class, State, Exploitation and Alienation is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GRAMSCI AND THE FRANKFURT SCHOOL",
+      "structural_type": "institution-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GRAMSCI AND THE FRANKFURT SCHOOL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] ANTONIO GRAMSCI — CROSS-REFERENCED FROM GAUBA'S TREATMENT OF",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPITALIST CLASS POWER IS SECURED NOT ONLY THROUGH THE",
+          "role": "caution"
+        },
+        {
+          "text": "[2] THIS IS A GENUINE NEO-MARXIST DEPARTURE",
+          "role": "primary"
+        },
+        {
+          "text": "GRAMSCI GIVES RELATIVE AUTONOMY TO THE SUPERSTRUCTURE (CULTURE, IDEAS",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] ADORNO, HORKHEIMER, MARCUSE AND HABERMAS ARE NAMED TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "MARXISM THROUGH CRITICAL THEORY AND IDEOLOGY CRITIQUE (GAUBA, PDF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Gramsci and the Frankfurt School",
+        "[1] Antonio Gramsci — cross-referenced from Gauba's treatment of hegemony in the power/authority chapter (Gauba",
+        "rather than from the Marxism chapter's own PDF pp.46-54 range — adds hegemony, civil society",
+        "legitimation to explain why capitalist rule survives through consent as well as coercion: capitalist class"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Gramsci and the Frankfurt School",
+            "[1] Antonio Gramsci — cross-referenced from Gauba's treatment of hegemony in the power/authority chapter (Gauba, PDF pp.306, 309-311),",
+            "rather than from the Marxism chapter's own PDF pp.46-54 range — adds hegemony, civil society and structures of"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "legitimation to explain why capitalist rule survives through consent as well as coercion: capitalist class power is secured",
+            "not only through the coercive state but through cultural and ideological leadership exercised in civil society.",
+            "[2] This is a genuine neo-Marxist departure: Gramsci gives relative autonomy to the superstructure (culture, ideas,",
+            "civil-society institutions) rather than treating it as simply base-determined, extending the non-mechanical base-superstructure point of"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[3] Adorno, Horkheimer, Marcuse and Habermas are named together by Gauba as extending",
+            "Marxism through critical theory and ideology critique (Gauba, PDF p.53).",
+            "SYNTHESIS → Gramsci and the Frankfurt School is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Gramsci and the Frankfurt School is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ALTHUSSER, DEPENDENCY THEORY AND CLASSIFICATION CAUTIONS",
+      "structural_type": "dialectic",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ALTHUSSER, DEPENDENCY THEORY AND CLASSIFICATION CAUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LOUIS ALTHUSSER REPRESENTS THE \"SCIENTIFIC\" STRAIN OF NEO-MARXISM",
+          "role": "comparison"
+        },
+        {
+          "text": "(GAUBA, PDF P.54).",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GAUBA'S OWN TEXT NAMES \"DEPENDENCY THEORISTS\" AS EXTENDING",
+          "role": "primary"
+        },
+        {
+          "text": "ALTHUSSER, DEPENDENCY THEORY AND CLASSIFICATION CAUTIONS IS BEST PRESENTED",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINE PRECISELY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Althusser, Dependency Theory and Classification Cautions",
+        "[1] Louis Althusser represents the \"scientific\" strain of neo-Marxism, resisting a purely humanist Marxism and",
+        "on analysing deep social structures, especially modes of production, rather than centring alienation and consciousness",
+        "(Gauba, PDF p.54)."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Althusser, Dependency Theory and Classification Cautions",
+            "[1] Louis Althusser represents the \"scientific\" strain of neo-Marxism, resisting a purely humanist Marxism and insisting",
+            "on analysing deep social structures, especially modes of production, rather than centring alienation and consciousness"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "(Gauba, PDF p.54).",
+            "[2] Gauba's own text names \"dependency theorists\" as extending the axis of Marxist struggle",
+            "from domestic class conflict to developing nations confronting colonialism and neo-colonialism (Gauba, PDF p.54).",
+            "SYNTHESIS → Althusser, Dependency Theory and Classification Cautions is best presented"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Althusser, Dependency Theory and Classification Cautions is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "OBJECTIONS, QUALIFIED THESIS, EVIDENCE AND DOCTRINE ARCHITECTURE",
+      "structural_type": "application-pyq",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OBJECTIONS, QUALIFIED THESIS, EVIDENCE AND DOCTRINE ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PREMISES",
+          "role": "comparison"
+        },
+        {
+          "text": "(A) PRIVATE PROPERTY IN THE MEANS OF PRODUCTION DIVIDES",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "WHEN FORCES OF PRODUCTION OUTGROW EXISTING RELATIONS OF PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "(GRAMSCI), CRITICAL THEORY (FRANKFURT SCHOOL), STRUCTURAL ANALYSIS (ALTHUSSER) AND",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIONS, QUALIFIED THESIS, EVIDENCE AND DOCTRINE ARCHITECTURE IS BEST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Objections, Qualified Thesis, Evidence and Doctrine Architecture",
+        "[1] Premises: (a) private property in the means of production divides society into antagonistic classes",
+        "(b) the mode of production — forces plus relations of production — forms the base",
+        "(c) productive forces and relations of production can come into conflict (Gauba, PDF p.49)."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Objections, Qualified Thesis, Evidence and Doctrine Architecture",
+            "[1] Premises: (a) private property in the means of production divides society into antagonistic classes (Gauba, PDF p.47)",
+            "(b) the mode of production — forces plus relations of production — forms the base, shaping law, politics",
+            "(c) productive forces and relations of production can come into conflict (Gauba, PDF p.49)."
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Mechanism: when forces of production outgrow existing relations of production, the relations become a fetter that is",
+            "this economic-class mechanism operates through and is reproduced by state power as a class instrument (§13) and is",
+            "Neo-Marxists (§14) extend the mechanism by adding culture/hegemony",
+            "(Gramsci), critical theory (Frankfurt School), structural analysis (Althusser) and international core-periphery relations (dependency theory) as additional",
+            "— not substitute — sites where the same underlying property-based conflict is reproduced or contested."
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "SYNTHESIS → Objections, Qualified Thesis, Evidence and Doctrine Architecture is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Objections, Qualified Thesis, Evidence and Doctrine Architecture is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIAN APPLICATION, MARK-SCALED ANSWERS AND PROPOSITION DISCIPLINE",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDIAN APPLICATION, MARK-SCALED ANSWERS AND PROPOSITION DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] WHEN AN INDIAN POLICY DEBATE IS FRAMED ONLY",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITY/ECONOMY FACTS, NOT ASSERTED HERE.",
+          "role": "caution"
+        },
+        {
+          "text": "[2] THE HABERMAS GENERATION CAVEAT (§14.2) AND THE DEPENDENCY/WORLD-SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PRIMARY SOURCE USED DIRECTLY",
+          "role": "evidence"
+        },
+        {
+          "text": "O. P. GAUBA, AN INTRODUCTION TO POLITICAL THEORY",
+          "role": "comparison"
+        },
+        {
+          "text": "FIFTH EDITION (2009), CH.2, PDF PP.46-54, WITH A CROSS-CHAPTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Indian Application, Mark-Scaled Answers and Proposition Discipline",
+        "[1] When an Indian policy debate is framed only as a technical/administrative matter, the",
+        "non-mechanical base-superstructure relation (§12) and Gramscian hegemony (§14.1) together supply the question of whether",
+        "an apparently neutral legal or administrative arrangement is doing quiet work to protect an"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Indian Application, Mark-Scaled Answers and Proposition Discipline",
+            "[1] When an Indian policy debate is framed only as a technical/administrative matter, the",
+            "non-mechanical base-superstructure relation (§12) and Gramscian hegemony (§14.1) together supply the question of whether",
+            "an apparently neutral legal or administrative arrangement is doing quiet work to protect an"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "existing economic arrangement — to be paired with the candidate's own independently verified",
+            "Polity/Economy facts, not asserted here.",
+            "[2] The Habermas generation caveat (§14.2) and the dependency/world-systems classification caution (§14.4) are flagged specifically because they are",
+            "do not upgrade them to status or attach a specific book title/year/page without independent verification.",
+            "[3] Primary source used directly: O. P. Gauba, An Introduction to Political Theory,"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Fifth Edition (2009), Ch.2, PDF pp.46-54, with a cross-chapter Gramsci anchor at PDF pp.306, 309-311 (power/authority chapter).",
+            "SYNTHESIS → Indian Application, Mark-Scaled Answers and Proposition Discipline is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Indian Application, Mark-Scaled Answers and Proposition Discipline is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MARXISM",
+          "role": "comparison"
+        },
+        {
+          "text": "A SET OF POLITICAL AND ECONOMIC PRINCIPLES FOUNDED BY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CLASSICAL MARXISM",
+          "role": "primary"
+        },
+        {
+          "text": "THE ORIGINAL SCIENTIFIC SYSTEM CENTRED ON PROPERTY, CLASS DIVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] NEO-MARXISM",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER MARXIST THOUGHT THAT STUDIES SUBTLER FORMS OF DOMINANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Marxism: a set of political and economic principles founded by Marx and Engels",
+        "to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.",
+        "[2] Classical Marxism: the original scientific system centred on property, class division, contradiction and revolutionary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Marxism: a set of political and economic principles founded by Marx and Engels"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "to give socialism a scientific basis through historical analysis of conflict between antagonistic classes.",
+            "[2] Classical Marxism: the original scientific system centred on property, class division, contradiction and revolutionary transformation.",
+            "[3] Neo-Marxism: later Marxist thought that studies subtler forms of dominance, alienation and paths to human emancipation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[4] Dialectical materialism: the view that matter, not idea, is fundamental, and that contradictions in material conditions drive development.",
+            "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE CONSISTENCY ARGUMENT. IF THE MEANS OF PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] REFRAME \"FREEDOM\". MARX REJECTS A PURELY NEGATIVE LIBERTY",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CAPACITY TO ENGAGE IN CONSCIOUS, SOCIAL, CREATIVE ACTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "(EVIDENCE P3 -- ESTRANGEMENT FROM PRODUCT, ACTIVITY, SPECIES-BEING AND",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] WHAT THE FREE MARKET VINDICATES IN MARX. CONCENTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE IS BEST PRESENTED THROUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] The consistency argument.",
+        "If the means of production are brought under genuinely social, democratic control, then the structural",
+        "[2] Reframe \"freedom\"."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] The consistency argument.",
+            "If the means of production are brought under genuinely social, democratic control, then the structural coercion of the",
+            "[2] Reframe \"freedom\"."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Marx rejects a purely negative liberty (non-interference) that leaves formal rights operating over radically unequal social conditions.",
+            "His positive ideal is non-domination PLUS self-development: the capacity to engage in conscious, social, creative activity, of which",
+            "(evidence P3 -- estrangement from product, activity, species-being and others).",
+            "[3] What the free market vindicates in Marx.",
+            "Concentration of capital, commodification, precarity, recurrent crises and the ideological normalisation of market relations remain live phenomena the"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "P4 -- structural exploitation through surplus value, argued as a relation, not via the contested price theory).",
+            "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

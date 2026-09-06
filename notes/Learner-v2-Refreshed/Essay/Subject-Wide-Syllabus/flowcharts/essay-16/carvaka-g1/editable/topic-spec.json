@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-16",
+  "subject": "Essay",
+  "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+  "short_route": "PRACTICE LOOPS, PYQ LAB → PRACTICE LOOPS, PYQ LAB → PRACTICE LOOPS, PYQ LAB → PRACTICE LOOPS, PYQ LAB → PRACTICE LOOPS, PYQ LAB → PRACTICE LOOPS, PYQ LAB",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-16\\g1\\essay-16_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-16-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "1c897b85cd0c34b03ff6b3140a19de6872ed3a50041f91207dd520de4dbc3cd1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE PRACTICE ENGINE FOR THE WHOLE",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE TWO ESSAYS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOG; A PARTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold",
+        "CORE TERMS IN PLAIN LANGUAGE → complete two essays → self-evaluate → log; a partial",
+        "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+        "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold",
+            "CORE TERMS IN PLAIN LANGUAGE → complete two essays → self-evaluate → log; a partial"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+            "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1 (64 pr"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL 16 RECENT PROMPTS BELOW ARE QUOTED FROM ../PYQ-C",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CURRENT LEDGER CLASSIFIES 2018–2025 AS V1 (64 PR",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+        "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as",
+        "BASIC DECOMPOSITION QUESTIONS → For any prompt below: (1) which topic files does it",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+            "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1 (64 pr"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as the feed",
+            "BASIC DECOMPOSITION QUESTIONS → For any prompt below: (1) which topic files does it"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICE IS ONLY AS USEFUL AS THE FEED",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "FOR ANY PROMPT BELOW",
+          "role": "comparison"
+        },
+        {
+          "text": "(1) WHICH TOPIC FILES DOES IT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as",
+        "BASIC DECOMPOSITION QUESTIONS → For any prompt below: (1) which topic files does it",
+        "5A. COMPLETE MOCK LOOP, NOT A PART → SELECT one prompt from each Section",
+        "5A. COMPLETE MOCK LOOP, NOT A PART → Use the 25/95/180 checkpoints from 13. A",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as the feed",
+          "5A. COMPLETE MOCK LOOP, NOT A PART → SELECT one prompt from each Section - 10-minute join",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "BASIC DECOMPOSITION QUESTIONS → For any prompt below: (1) which topic files does it",
+          "5A. COMPLETE MOCK LOOP, NOT A PART → Use the 25/95/180 checkpoints from 13. A completed m",
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as the feed"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as the feed",
+            "BASIC DECOMPOSITION QUESTIONS → For any prompt below: (1) which topic files does it"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "5A. COMPLETE MOCK LOOP, NOT A PART → SELECT one prompt from each Section - 10-minute join",
+            "5A. COMPLETE MOCK LOOP, NOT A PART → Use the 25/95/180 checkpoints from 13. A completed m"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as the feed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "5A. Complete mock loop, not a partial-draft substitute",
+        "5A. Complete mock loop, not a partial-draft substitute — 2"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "5A. COMPLETE MOCK LOOP, NOT A PART",
+          "role": "caution"
+        },
+        {
+          "text": "SELECT ONE PROMPT FROM EACH SECTION - 10-MINUTE JOIN",
+          "role": "evidence"
+        },
+        {
+          "text": "USE THE 25/95/180 CHECKPOINTS FROM 13. A COMPLETED M",
+          "role": "primary"
+        },
+        {
+          "text": "5B. ERROR-LOG SCHEMA",
+          "role": "outcome"
+        },
+        {
+          "text": "RECORD A FACT OR QUOTATION RISK EVEN WHEN CORRECTED",
+          "role": "caution"
+        },
+        {
+          "text": "5C. SPACING AND BLIND-TRANSFER CAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "5A. COMPLETE MOCK LOOP, NOT A PART → SELECT one prompt from each Section",
+        "5A. COMPLETE MOCK LOOP, NOT A PART → Use the 25/95/180 checkpoints from 13. A",
+        "5B. ERROR-LOG SCHEMA → Record a fact or quotation risk even when corrected",
+        "5C. SPACING AND BLIND-TRANSFER CAL → Do not read a supplied outline before the Day-7",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "5A. COMPLETE MOCK LOOP, NOT A PART → SELECT one prompt from each Section - 10-minute join",
+            "5A. COMPLETE MOCK LOOP, NOT A PART → Use the 25/95/180 checkpoints from 13. A completed m"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "5B. ERROR-LOG SCHEMA → Record a fact or quotation risk even when corrected",
+            "5C. SPACING AND BLIND-TRANSFER CAL → Do not read a supplied outline before the Day-7 prom"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "5A. COMPLETE MOCK LOOP, NOT A PART → SELECT one prompt from each Section - 10-minute join"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "5A. Complete mock loop, not a partial-draft substitute",
+        "5A. Complete mock loop, not a partial-draft substitute — 2",
+        "5B. Error-log schema",
+        "5C. Spacing and blind-transfer calendar"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "5B. ERROR-LOG SCHEMA",
+          "role": "comparison"
+        },
+        {
+          "text": "RECORD A FACT OR QUOTATION RISK EVEN WHEN CORRECTED",
+          "role": "caution"
+        },
+        {
+          "text": "5C. SPACING AND BLIND-TRANSFER CAL",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT READ A SUPPLIED OUTLINE BEFORE THE DAY-7",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR EACH PROMPT ABOVE, RECALL (DO NOT INVENT) ONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "5B. ERROR-LOG SCHEMA → Record a fact or quotation risk even when corrected",
+        "5C. SPACING AND BLIND-TRANSFER CAL → Do not read a supplied outline before the Day-7",
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each prompt above, recall (do not invent) one In",
+        "THESIS OPTIONS AND SELECTION → Use the interpretive outline above only as a startin",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "5B. ERROR-LOG SCHEMA → Record a fact or quotation risk even when corrected",
+            "5C. SPACING AND BLIND-TRANSFER CAL → Do not read a supplied outline before the Day-7 prom"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each prompt above, recall (do not invent) one In",
+            "THESIS OPTIONS AND SELECTION → Use the interpretive outline above only as a startin"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "5B. ERROR-LOG SCHEMA → Record a fact or quotation risk even when corrected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "5B. Error-log schema",
+        "5C. Spacing and blind-transfer calendar",
+        "India-first illustration starters",
+        "Thesis options and selection"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR EACH PROMPT ABOVE, RECALL (DO NOT INVENT) ONE",
+          "role": "caution"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "USE THE INTERPRETIVE OUTLINE ABOVE ONLY AS A STARTIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERT ANY CHOSEN OUTLINE INTO A FULL PARAGRAPH PLA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA-FIRST ILLUSTRATION STARTERS → For each prompt above, recall (do not invent) one In",
+        "THESIS OPTIONS AND SELECTION → Use the interpretive outline above only as a startin",
+        "SIMPLE ESSAY ARCHITECTURE → Convert any chosen outline into a full paragraph pla",
+        "OPENING, BODY AND CLOSURE MOVES → Practise writing only the opening and closing senten",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each prompt above, recall (do not invent) one In",
+            "THESIS OPTIONS AND SELECTION → Use the interpretive outline above only as a startin"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → Convert any chosen outline into a full paragraph pla",
+            "OPENING, BODY AND CLOSURE MOVES → Practise writing only the opening and closing senten"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "INDIA-FIRST ILLUSTRATION STARTERS → For each prompt above, recall (do not invent) one In"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERT ANY CHOSEN OUTLINE INTO A FULL PARAGRAPH PLA",
+          "role": "evidence"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "primary"
+        },
+        {
+          "text": "PRACTISE WRITING ONLY THE OPENING AND CLOSING SENTEN",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "A PRACTICE SYSTEM IS ONLY AS STRONG AS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIMPLE ESSAY ARCHITECTURE → Convert any chosen outline into a full paragraph pla",
+        "OPENING, BODY AND CLOSURE MOVES → Practise writing only the opening and closing senten",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a practice system is only as strong as",
+        "CONCEPT DEFINITION AND TAXONOMY → qualification, 2–3 dimensions with mechanism, one co",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "SIMPLE ESSAY ARCHITECTURE → Convert any chosen outline into a full paragraph pla",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a practice system is only as strong as",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "OPENING, BODY AND CLOSURE MOVES → Practise writing only the opening and closing senten",
+          "CONCEPT DEFINITION AND TAXONOMY → qualification, 2–3 dimensions with mechanism, one co",
+          "SIMPLE ESSAY ARCHITECTURE → Convert any chosen outline into a full paragraph pla"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → Convert any chosen outline into a full paragraph pla",
+            "OPENING, BODY AND CLOSURE MOVES → Practise writing only the opening and closing senten"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a practice system is only as strong as",
+            "CONCEPT DEFINITION AND TAXONOMY → qualification, 2–3 dimensions with mechanism, one co"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "SIMPLE ESSAY ARCHITECTURE → Convert any chosen outline into a full paragraph pla"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "A PRACTICE SYSTEM IS ONLY AS STRONG AS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFICATION, 2–3 DIMENSIONS WITH MECHANISM, ONE CO",
+          "role": "mechanism"
+        },
+        {
+          "text": "COVERAGE VS",
+          "role": "comparison"
+        },
+        {
+          "text": "COVERAGE VS. DEPTH",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a practice system is only as strong as",
+        "CONCEPT DEFINITION AND TAXONOMY → qualification, 2–3 dimensions with mechanism, one co",
+        "COVERAGE VS → Coverage vs. depth: the hidden assumption that pract",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → prompts once each is sufficient; in fact, revisiting",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a practice system is only as strong as",
+            "CONCEPT DEFINITION AND TAXONOMY → qualification, 2–3 dimensions with mechanism, one co"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "COVERAGE VS → Coverage vs. depth: the hidden assumption that pract",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → prompts once each is sufficient; in fact, revisiting"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a practice system is only as strong as"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Coverage vs",
+        "Tension pairs and hidden assumptions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "COVERAGE VS",
+          "role": "comparison"
+        },
+        {
+          "text": "COVERAGE VS. DEPTH",
+          "role": "comparison"
+        },
+        {
+          "text": "THE HIDDEN ASSUMPTION THAT PRACT",
+          "role": "primary"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "outcome"
+        },
+        {
+          "text": "PROMPTS ONCE EACH IS SUFFICIENT; IN FACT, REVISITING",
+          "role": "comparison"
+        },
+        {
+          "text": "AN OUTLINE FOR A SPECIFIC PROMPT MEANS THE UNDERLYIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COVERAGE VS → Coverage vs. depth: the hidden assumption that pract",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → prompts once each is sufficient; in fact, revisiting",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → an outline for a specific prompt means the underlyin",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track practice at three levels: per-prompt (can I ou",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "COVERAGE VS → Coverage vs. depth: the hidden assumption that pract",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → prompts once each is sufficient; in fact, revisiting"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → an outline for a specific prompt means the underlyin",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track practice at three levels: per-prompt (can I ou"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "COVERAGE VS → Coverage vs. depth: the hidden assumption that pract"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Coverage vs",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "AN OUTLINE FOR A SPECIFIC PROMPT MEANS THE UNDERLYIN",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "TRACK PRACTICE AT THREE LEVELS",
+          "role": "outcome"
+        },
+        {
+          "text": "PER-PROMPT (CAN I OU",
+          "role": "comparison"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → an outline for a specific prompt means the underlyin",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track practice at three levels: per-prompt (can I ou",
+        "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold",
+        "CORE TERMS IN PLAIN LANGUAGE → complete two essays → self-evaluate → log; a partial",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → an outline for a specific prompt means the underlyin",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Track practice at three levels: per-prompt (can I ou"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold",
+            "CORE TERMS IN PLAIN LANGUAGE → complete two essays → self-evaluate → log; a partial"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → an outline for a specific prompt means the underlyin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC IS THE PRACTICE ENGINE FOR THE WHOLE",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE TWO ESSAYS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOG; A PARTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold",
+        "CORE TERMS IN PLAIN LANGUAGE → complete two essays → self-evaluate → log; a partial",
+        "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+        "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold",
+            "CORE TERMS IN PLAIN LANGUAGE → complete two essays → self-evaluate → log; a partial"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+            "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1 (64 pr"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic is the practice engine for the whole fold"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PRACTICE LOOPS, PYQ LAB AND REVISION SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL 16 RECENT PROMPTS BELOW ARE QUOTED FROM ../PYQ-C",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CURRENT LEDGER CLASSIFIES 2018–2025 AS V1 (64 PR",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+        "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as",
+        "BASIC DECOMPOSITION QUESTIONS → For any prompt below: (1) which topic files does it",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C",
+            "EXAM FACTS / SOURCE BASIS — 2 → The current ledger classifies 2018–2025 as V1 (64 pr"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: practice is only as useful as the feed",
+            "BASIC DECOMPOSITION QUESTIONS → For any prompt below: (1) which topic files does it"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS → All 16 recent prompts below are quoted from ../PYQ-C"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DEEP OUTLINE",
+          "role": "outcome"
+        },
+        {
+          "text": "AN INTERPRETIVE PLAN THAT INCLUDES THESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "QUOTATION LEDGER ENTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "PER-PROMPT RECORD OF ATTRIBUTION STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "SPACED REATTEMPT",
+          "role": "outcome"
+        },
+        {
+          "text": "A DELIBERATELY DELAYED RE-PRACTICE OF A PROMPT OR",
+          "role": "comparison"
+        },
+        {
+          "text": "COVERAGE VS. DEPTH",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Deep outline: an interpretive plan that includes thesis,",
+            "Quotation ledger entry: per-prompt record of attribution status",
+            "Spaced reattempt: a deliberately delayed re-practice of a prompt or",
+            "Coverage vs. depth: the hidden assumption that practising all recent 16"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Familiarity vs. transfer: the assumption that being able to recall",
+            "NOT: Practising the same few \"comfortable\" prompts repeatedly. →",
+            "NOT: Logging errors without spaced reattempt. → Protocol: schedule a",
+            "NOT: Attaching an author to a familiar V1 or V2 prompt, or to a remembered"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Grounded in: the 2013-2025 UPSC Essay corpus with per-year verification levels (see ../PYQ-Corpus-2013-2025.md)",
+            "../00 Master-Framework.md Sections 11, 13.",
+            "Tags: verified fact | CAUTION: strategy/inference | dated anchor | NOT: trap/boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

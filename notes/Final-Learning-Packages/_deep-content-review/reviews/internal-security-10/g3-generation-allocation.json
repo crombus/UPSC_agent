@@ -1,0 +1,12 @@
+{
+  "topic_key": "internal-security-10",
+  "allocated_at": "2026-09-06T09:08:05.004452+00:00",
+  "baseline_record_id": "internal-security-10:learner-v2:g2",
+  "new_record_id": "internal-security-10:learner-v2:g3",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "internal-security-10:learner-v2:g2",
+  "live_master_identity": "internal-security-10:learner-v2:g2"
+}

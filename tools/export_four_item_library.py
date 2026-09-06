@@ -849,7 +849,12 @@ def validate_ascii_pdf(text: str, pdf_path: Path) -> dict[str, Any]:
                 ):
                     clipped_pages.append(page_number)
                     break
-            page.get_pixmap(matrix=fitz.Matrix(0.25, 0.25), alpha=False)
+            pixmap = page.get_pixmap(
+                matrix=fitz.Matrix(0.25, 0.25),
+                alpha=False,
+            )
+            del pixmap
+        page = None
     for index, (source_panel, extracted_panel) in enumerate(
         zip(panels, extracted_panels), 1
     ):

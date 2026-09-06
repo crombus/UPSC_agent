@@ -1,0 +1,65 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\internal-security-07-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\internal-security-07-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\internal-security-07-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\internal-security-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Internal Security\INDEX.md
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Internal Security\Subject-wide Syllabus\07-Maritime-and-Coastal-Security\README.txt
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Internal-Security\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Internal-Security\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Internal-Security\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\flowcharts\internal-security-07\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g3\internal-security-07_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g3\internal-security-07_Solved-Practice-Workbook_2026-09-06.pdf
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g3\assets\internal-security-07_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g3\internal-security-07_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Internal-Security\Subject-Wide-Syllabus\learning-sessions\internal-security-07\g3\internal-security-07_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-afcd6617a6b3-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-afcd6617a6b3.json
+upsc-ai-kit\manifests\exports\internal-security-07-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-07-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\internal-security-07-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\internal-security-07-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\internal-security-07-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\internal-security-live-status-snapshot-2026-09-06.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\internal-security-07-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Internal-Security\deep-review\internal-security-07-g3.json
+upsc-ai-kit\manifests\reviews\internal-security\07-maritime-and-coastal-security-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus-content-specs\internal-security-07-g3.json
+upsc-ai-kit\manifests\v2\internal-security--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

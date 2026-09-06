@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "subject": "Qualifying Hindi",
+  "date": "2026-09-06",
+  "result": "failed",
+  "topic_count": 6,
+  "passed": 6,
+  "next_topic_key": null,
+  "next_subject": null,
+  "next_topic": null,
+  "checks": {
+    "catalogue_order": true,
+    "all_topics_passed": true,
+    "all_latest_identities_approval_false": true,
+    "all_generations_approval_false": true,
+    "deliverable_hashes": true,
+    "status_tracker_agreement": true,
+    "targeted_regression": false,
+    "answer_key_rotation_and_language_validation": true,
+    "same_master_graphical_ascii_flow_validation": true,
+    "devanagari_extraction_and_font_embedding": true
+  },
+  "metrics": {
+    "targeted_regression_tests": 88,
+    "main_pages": 95,
+    "workbook_pages": 108,
+    "mcqs": 288,
+    "constructed_response_tasks": 48,
+    "official_paper_demand_rows": 42,
+    "ascii_panels": 72,
+    "graphical_stages": 72,
+    "deterministic_checks": 288
+  },
+  "topics": [
+    {
+      "topic_key": "qualifying-hindi-01",
+      "title": "शब्द भेद",
+      "record_id": "qualifying-hindi-01:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 17,
+      "workbook_pages": 18,
+      "mcqs": 48,
+      "constructed_response_tasks": 8,
+      "official_paper_demand_rows": 7,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "deterministic_checks": 48,
+      "validation": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-01-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-01-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "qualifying-hindi-02",
+      "title": "व्याकरण वर्तनी वाक्य शुद्धि",
+      "record_id": "qualifying-hindi-02:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 17,
+      "workbook_pages": 18,
+      "mcqs": 48,
+      "constructed_response_tasks": 8,
+      "official_paper_demand_rows": 7,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "deterministic_checks": 48,
+      "validation": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-02-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-02-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "qualifying-hindi-03",
+      "title": "शब्दावली मुहावरे लोकोक्तियाँ",
+      "record_id": "qualifying-hindi-03:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 19,
+      "workbook_pages": 18,
+      "mcqs": 48,
+      "constructed_response_tasks": 8,
+      "official_paper_demand_rows": 7,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "deterministic_checks": 48,
+      "validation": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-03-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-03-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "qualifying-hindi-04",
+      "title": "बोध और संक्षेपण",
+      "record_id": "qualifying-hindi-04:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 14,
+      "workbook_pages": 18,
+      "mcqs": 48,
+      "constructed_response_tasks": 8,
+      "official_paper_demand_rows": 7,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "deterministic_checks": 48,
+      "validation": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-04-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-04-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "qualifying-hindi-05",
+      "title": "निबन्ध लेखन",
+      "record_id": "qualifying-hindi-05:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 14,
+      "workbook_pages": 18,
+      "mcqs": 48,
+      "constructed_response_tasks": 8,
+      "official_paper_demand_rows": 7,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "deterministic_checks": 48,
+      "validation": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-05-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-05-semantic-completeness-2026-09-06-changed-files.txt"
+    },
+    {
+      "topic_key": "qualifying-hindi-06",
+      "title": "अनुवाद",
+      "record_id": "qualifying-hindi-06:learner-v2:g1",
+      "generation": 1,
+      "approved": false,
+      "main_pages": 14,
+      "workbook_pages": 18,
+      "mcqs": 48,
+      "constructed_response_tasks": 8,
+      "official_paper_demand_rows": 7,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "deterministic_checks": 48,
+      "validation": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-06-semantic-validation-2026-09-06.json",
+      "inventory": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-06-semantic-completeness-2026-09-06-changed-files.txt"
+    }
+  ],
+  "pdf_devanagari_audits": {
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-01\\g1\\qualifying-hindi-01_Complete-Learning-Session_2026-09-06.pdf": {
+      "devanagari_characters": 23045,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-01\\g1\\qualifying-hindi-01_Solved-Practice-Workbook_2026-09-06.pdf": {
+      "devanagari_characters": 32400,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-02\\g1\\qualifying-hindi-02_Complete-Learning-Session_2026-09-06.pdf": {
+      "devanagari_characters": 22947,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-02\\g1\\qualifying-hindi-02_Solved-Practice-Workbook_2026-09-06.pdf": {
+      "devanagari_characters": 32784,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-03\\g1\\qualifying-hindi-03_Complete-Learning-Session_2026-09-06.pdf": {
+      "devanagari_characters": 25722,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-03\\g1\\qualifying-hindi-03_Solved-Practice-Workbook_2026-09-06.pdf": {
+      "devanagari_characters": 32159,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-04\\g1\\qualifying-hindi-04_Complete-Learning-Session_2026-09-06.pdf": {
+      "devanagari_characters": 20250,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-04\\g1\\qualifying-hindi-04_Solved-Practice-Workbook_2026-09-06.pdf": {
+      "devanagari_characters": 31568,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-05\\g1\\qualifying-hindi-05_Complete-Learning-Session_2026-09-06.pdf": {
+      "devanagari_characters": 21508,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-05\\g1\\qualifying-hindi-05_Solved-Practice-Workbook_2026-09-06.pdf": {
+      "devanagari_characters": 29632,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-06\\g1\\qualifying-hindi-06_Complete-Learning-Session_2026-09-06.pdf": {
+      "devanagari_characters": 16852,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    },
+    "notes\\Learner-v2-Refreshed\\Qualifying-Hindi\\Subject-Wide-Syllabus\\learning-sessions\\qualifying-hindi-06\\g1\\qualifying-hindi-06_Solved-Practice-Workbook_2026-09-06.pdf": {
+      "devanagari_characters": 29419,
+      "fonts": [
+        "AAAAAA+NirmalaUI-0",
+        "AAAAAA+NirmalaUI-Bold-1",
+        "Helvetica",
+        "Times-Roman"
+      ]
+    }
+  },
+  "hash_errors": {},
+  "errors": [
+    "test_regenerate_qualifying_hindi_deep_review: Qualifying-Hindi: guide_sources=12; practice_papers=3; solution_keys=3\nQualifying-Hindi: guide_sources=12; practice_papers=3; solution_keys=3\ntest_authoritative_structure_is_subject_wide_and_exact (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ERROR\ntest_driver_uses_direct_tests_and_direct_nul_inventory (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_g2_record_and_pdfs_pass_when_generated (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_official_scope_and_threshold_discipline_are_explicit (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_solutions_are_one_to_one_and_have_eight_full_models (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_special_package_is_not_registered_as_a_gs_topic (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\ntest_unicode_sources_are_normalized_and_clean (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ERROR\ntest_workbook_is_question_only_independent_and_space_controlled (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests) ... ok\n\n======================================================================\nERROR: test_authoritative_structure_is_subject_wide_and_exact (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\test_regenerate_qualifying_hindi_deep_review.py\", line 15, in test_authoritative_structure_is_subject_wide_and_exact\n    paths = deep.source_inventory()\n  File \"C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\regenerate_qualifying_hindi_deep_review.py\", line 162, in source_inventory\n    raise RuntimeError(\nRuntimeError: Hindi source inventory mismatch: missing=[]; extra=['upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-01_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-01_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-02_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-02_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-03_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-03_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-04_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-04_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-05_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-05_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-06_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-06_Solved-Workbook.md']\n\n======================================================================\nERROR: test_unicode_sources_are_normalized_and_clean (test_regenerate_qualifying_hindi_deep_review.QualifyingHindiDeepReviewTests)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\test_regenerate_qualifying_hindi_deep_review.py\", line 105, in test_unicode_sources_are_normalized_and_clean\n    results = deep.unicode_audit(deep.source_inventory())\n  File \"C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\tools\\regenerate_qualifying_hindi_deep_review.py\", line 162, in source_inventory\n    raise RuntimeError(\nRuntimeError: Hindi source inventory mismatch: missing=[]; extra=['upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-01_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-01_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-02_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-02_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-03_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-03_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-04_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-04_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-05_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-05_Solved-Workbook.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-06_Learning-Session.md', 'upsc-ai-kit\\\\knowledge\\\\Qualifying-Hindi\\\\learning-sessions\\\\v2\\\\subject-wide-syllabus\\\\qualifying-hindi-06_Solved-Workbook.md']\n\n----------------------------------------------------------------------\nRan 8 tests in 1.899s\n\nFAILED (errors=2)\n"
+  ],
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\qualifying-hindi-01-06-semantic-completeness-2026-09-06-changed-files.txt",
+  "changed_file_inventory_count": 230,
+  "changed_file_inventory_all_paths_exist": true
+}

@@ -1,0 +1,1245 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-11",
+  "subject": "Ethics",
+  "title": "ACCOUNTABILITY AND ETHICAL GOVERNANCE",
+  "short_route": "COMPLETE ACCOUNTABILITY RELATIONSHIP → THREE CONTROL LAYERS → RESPONSIBILITY VERSUS ACCOUNTABILITY → POLITICAL AND BUREAUCRATIC BALANCE → CONCURRENT AND EXTERNAL ASSURANCE → SOCIAL AUDIT CYCLE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-11-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "6df19f86483e0a7c0cb8b87aed368a5a6bde0bd162280581a66458068ab03277",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMPLETE ACCOUNTABILITY RELATIONSHIP",
+      "structural_type": "actor-forum-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "COMPLETE ACCOUNTABILITY RELATIONSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. COMPLETE ACCOUNTABILITY RELATIONSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY ACTOR",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ASSIGN RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] NAME FORUM",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] STATE STANDARD",
+          "role": "institution"
+        },
+        {
+          "text": "[5] PROVIDE INFORMATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Complete accountability relationship",
+        "[1] Identify actor",
+        "[2] Assign responsibility",
+        "[3] Name forum"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Complete accountability relationship",
+            "[1] Identify actor",
+            "[2] Assign responsibility",
+            "[3] Name forum"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] State standard",
+            "[5] Provide information",
+            "[6] Demand explanation",
+            "[7] Reach judgment",
+            "[8] Correct, remedy or sanction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Answerability becomes accountability only when review can produce follow-up.",
+            "ANSWER USE → Use to define accountability and distinguish responsibility.",
+            "MUST REMEMBER: Accountability links an actor to a forum with information, questioning,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Answerability becomes accountability only when review can produce follow-up.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE CONTROL LAYERS",
+      "structural_type": "three-layer-control-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THREE CONTROL LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. THREE CONTROL LAYERS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEPARTMENTAL VIGILANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CVO PREVENTIVE CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CVC ADVICE AND SUPERINTENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CBI INVESTIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CAG INDEPENDENT AUDIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Three control layers",
+        "[1] Departmental vigilance",
+        "[2] CVO preventive control",
+        "[3] CVC advice and superintendence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Three control layers",
+            "[1] Departmental vigilance",
+            "[2] CVO preventive control",
+            "[3] CVC advice and superintendence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] CBI investigation",
+            "[5] CAG independent audit",
+            "[6] Legislative scrutiny",
+            "[7] Judicial review",
+            "[8] Citizen social control"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Each layer addresses a different failure mode; none is self-sufficient.",
+            "ANSWER USE → Use to classify institutions before recommending reform.",
+            "CLOSE DISTINCTION: Political, administrative, legal, financial, professional and social..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Each layer addresses a different failure mode; none is self-sufficient.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RESPONSIBILITY VERSUS ACCOUNTABILITY",
+      "structural_type": "two-column-distinction",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESPONSIBILITY VERSUS ACCOUNTABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. RESPONSIBILITY VERSUS ACCOUNTABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RESPONSIBILITY ASSIGNS DUTY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DUTY EXISTS BEFORE SCRUTINY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ROLE IDENTIFIES EXPECTED ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DELEGATION NEEDS CLARITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ACCOUNTABILITY DEMANDS REASONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Responsibility versus accountability",
+        "[1] Responsibility assigns duty",
+        "[2] Duty exists before scrutiny",
+        "[3] Role identifies expected action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Responsibility versus accountability",
+            "[1] Responsibility assigns duty",
+            "[2] Duty exists before scrutiny",
+            "[3] Role identifies expected action"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Delegation needs clarity",
+            "[5] Accountability demands reasons",
+            "[6] Forum tests a standard",
+            "[7] Judgment fixes failure",
+            "[8] Remedy completes the cycle"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Clear responsibility is necessary but does not alone create accountability.",
+            "ANSWER USE → Use for a ten-mark distinction answer.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use Parliament, CAG-PAC, courts, CVC,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Clear responsibility is necessary but does not alone create accountability.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "POLITICAL AND BUREAUCRATIC BALANCE",
+      "structural_type": "dual-accountability-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "POLITICAL AND BUREAUCRATIC BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. POLITICAL AND BUREAUCRATIC BALANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ELECTORAL MANDATE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MINISTERIAL POLICY CHOICE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LEGISLATIVE ANSWERABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] FRANK OFFICIAL ADVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RECORDED DISSENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Political and bureaucratic balance",
+        "[1] Electoral mandate",
+        "[2] Ministerial policy choice",
+        "[3] Legislative answerability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Political and bureaucratic balance",
+            "[1] Electoral mandate",
+            "[2] Ministerial policy choice"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Legislative answerability",
+            "[4] Frank official advice",
+            "[5] Recorded dissent",
+            "[6] Lawful final direction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Impartial execution",
+            "[8] Review of interference",
+            "VERDICT → Democratic direction and professional neutrality must remain mutually accountable.",
+            "ANSWER USE → Use for the 2019 politicisation question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Democratic direction and professional neutrality must remain mutually accountable.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONCURRENT AND EXTERNAL ASSURANCE",
+      "structural_type": "complementary-audit-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONCURRENT AND EXTERNAL ASSURANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. CONCURRENT AND EXTERNAL ASSURANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SET TRANSACTION CONTROLS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FLAG EXCEPTIONS EARLY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] REVIEW DURING DELIVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CORRECT CURRENT LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PRESERVE AUDIT TRAIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Concurrent and external assurance",
+        "[1] Set transaction controls",
+        "[2] Flag exceptions early",
+        "[3] Review during delivery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Concurrent and external assurance",
+            "[1] Set transaction controls",
+            "[2] Flag exceptions early"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Review during delivery",
+            "[4] Correct current loss",
+            "[5] Preserve audit trail",
+            "[6] CAG tests independently"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Legislature examines findings",
+            "[8] Executive reports follow-up",
+            "VERDICT → Internal real-time assurance complements; it never replaces independent scrutiny.",
+            "ANSWER USE → Use in public-fund and audit answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Internal real-time assurance complements; it never replaces independent scrutiny.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SOCIAL AUDIT CYCLE",
+      "structural_type": "verification-to-remedy-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SOCIAL AUDIT CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. SOCIAL AUDIT CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "[1] INDEPENDENT AUDIT UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PROACTIVE LOCAL RECORDS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] WORKER VERIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] WORKSITE VERIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PROTECTED PUBLIC HEARING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Social audit cycle",
+        "[1] Independent audit unit",
+        "[2] Proactive local records",
+        "[3] Worker verification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Social audit cycle",
+            "[1] Independent audit unit",
+            "[2] Proactive local records"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Worker verification",
+            "[4] Worksite verification",
+            "[5] Protected public hearing",
+            "[6] Reasoned findings"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Action-taken report",
+            "[8] Recovery and worker remedy",
+            "VERDICT → Disclosure without independent verification and follow-up is not social audit.",
+            "ANSWER USE → Use for 2021 Q6(a) and MGNREGA cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Disclosure without independent verification and follow-up is not social audit.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SOCIAL CAPITAL BOUNDARY",
+      "structural_type": "bridging-bonding-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL CAPITAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. SOCIAL CAPITAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] TRUST LOWERS PARTICIPATION COST",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] RECIPROCITY SUSTAINS TESTIMONY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] BRIDGING LINKS COMMUNITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] COLLECTIVE MONITORING IMPROVES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] BONDING PROTECTS INSIDERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Social capital boundary",
+        "[1] Trust lowers participation cost",
+        "[2] Reciprocity sustains testimony",
+        "[3] Bridging links communities"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Bridging links communities",
+          "[7] Rights limit social pressure"
+        ],
+        [
+          "7. Social capital boundary",
+          "[4] Collective monitoring improves",
+          "[8] Formal remedy remains necessary"
+        ],
+        [
+          "[1] Trust lowers participation cost",
+          "[5] Bonding protects insiders",
+          "VERDICT → Inclusive social capital helps social control; insular loyalty can defeat it."
+        ],
+        [
+          "[2] Reciprocity sustains testimony",
+          "[6] Faction can intimidate",
+          "ANSWER USE → Use for 2023 Q6(b) with a qualification."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Social capital boundary",
+            "[1] Trust lowers participation cost",
+            "[2] Reciprocity sustains testimony"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Bridging links communities",
+            "[4] Collective monitoring improves",
+            "[5] Bonding protects insiders",
+            "[6] Faction can intimidate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Rights limit social pressure",
+            "[8] Formal remedy remains necessary",
+            "VERDICT → Inclusive social capital helps social control; insular loyalty can defeat it.",
+            "ANSWER USE → Use for 2023 Q6(b) with a qualification."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → Inclusive social capital helps social control; insular loyalty can defeat it.",
+      "answer_line": "ANSWER USE → Use for 2023 Q6(b) with a qualification.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ACCOUNTABLE E-GOVERNANCE",
+      "structural_type": "digital-safeguard-ladder",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACCOUNTABLE E-GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. ACCOUNTABLE E-GOVERNANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ACCESSIBLE SERVICE CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ASSISTED OFFLINE OPTION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] MINIMAL SECURE DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TRACEABLE DECISION LOG",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] INTELLIGIBLE REASONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Accountable e-governance",
+        "[1] Accessible service channel",
+        "[2] Assisted offline option",
+        "[3] Minimal secure data"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Minimal secure data",
+          "[7] Time-bound appeal"
+        ],
+        [
+          "8. Accountable e-governance",
+          "[4] Traceable decision log",
+          "[8] Service correction"
+        ],
+        [
+          "[1] Accessible service channel",
+          "[5] Intelligible reasons",
+          "VERDICT → Technology supports accountability only when exclusion can be reviewed and remedied."
+        ],
+        [
+          "[2] Assisted offline option",
+          "[6] Human exception review",
+          "ANSWER USE → Use for both 2022 Q4 subparts."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Accountable e-governance",
+            "[1] Accessible service channel",
+            "[2] Assisted offline option"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Minimal secure data",
+            "[4] Traceable decision log",
+            "[5] Intelligible reasons",
+            "[6] Human exception review"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Time-bound appeal",
+            "[8] Service correction",
+            "VERDICT → Technology supports accountability only when exclusion can be reviewed and remedied.",
+            "ANSWER USE → Use for both 2022 Q4 subparts."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Technology supports accountability only when exclusion can be reviewed and remedied.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DASHBOARD-TO-ACCOUNTABILITY TEST",
+      "structural_type": "visibility-to-remedy-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DASHBOARD-TO-ACCOUNTABILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. DASHBOARD-TO-ACCOUNTABILITY TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DISPLAY RELIABLE DATA",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY RESPONSIBLE OFFICER",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SET REVIEW THRESHOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] INVESTIGATE ANOMALY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] HEAR AFFECTED CITIZEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Dashboard-to-accountability test",
+        "[1] Display reliable data",
+        "[2] Identify responsible officer",
+        "[3] Set review threshold"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Dashboard-to-accountability test",
+            "[1] Display reliable data",
+            "[2] Identify responsible officer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Set review threshold",
+            "[4] Investigate anomaly",
+            "[5] Hear affected citizen",
+            "[6] Issue reasoned finding"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Correct record or service",
+            "[8] Learn and redesign",
+            "VERDICT → Visibility is evidence; accountability requires judgment, correction and learning.",
+            "ANSWER USE → Use to defeat the dashboard-equals-accountability trap."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → Visibility is evidence; accountability requires judgment, correction and learning.",
+      "answer_line": "ANSWER USE → Use to defeat the dashboard-equals-accountability trap.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MGNREGA RESTORATION SEQUENCE",
+      "structural_type": "record-reconciliation-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MGNREGA RESTORATION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. MGNREGA RESTORATION SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SECURE SCHEME RECORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MATCH JOB CARD AND DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "[3] MATCH MUSTER AND ATTENDANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] MATCH WAGE AND BANK CREDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MATCH SANCTION AND MEASUREMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. MGNREGA restoration sequence",
+        "[1] Secure scheme records",
+        "[2] Match job card and demand",
+        "[3] Match muster and attendance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. MGNREGA restoration sequence",
+            "[1] Secure scheme records",
+            "[2] Match job card and demand"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Match muster and attendance",
+            "[4] Match wage and bank credit",
+            "[5] Match sanction and measurement",
+            "[6] Verify physical asset"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Map approving responsibility",
+            "[8] Restore service and controls",
+            "VERDICT → Reconcile the complete transaction and service chain before fixing responsibility.",
+            "ANSWER USE → Use as the spine for 2025 Q11."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Reconcile the complete transaction and service chain before fixing responsibility.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CORRECTIVE CONSEQUENCE LADDER",
+      "structural_type": "evidence-to-action-ladder",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CORRECTIVE CONSEQUENCE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. CORRECTIVE CONSEQUENCE LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PRESERVE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SEPARATE ERROR FROM MISCONDUCT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] GIVE NOTICE AND HEARING",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CORRECT BENEFICIARY HARM",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RECOVER SUPPORTED LOSS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Corrective consequence ladder",
+        "[1] Preserve evidence",
+        "[2] Separate error from misconduct",
+        "[3] Give notice and hearing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Corrective consequence ladder",
+            "[1] Preserve evidence",
+            "[2] Separate error from misconduct"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Give notice and hearing",
+            "[4] Correct beneficiary harm",
+            "[5] Recover supported loss",
+            "[6] Initiate discipline"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Refer credible offence",
+            "[8] Audit recurrence controls",
+            "VERDICT → Consequence must be evidence-based, proportionate and joined to service remedy.",
+            "ANSWER USE → Use in honest-error, vigilance and fund-leakage answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Consequence must be evidence-based, proportionate and joined to service remedy.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MAINS ANSWER SPINE",
+      "structural_type": "eight-step-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MAINS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. MAINS ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE ACTOR-FORUM RELATIONSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DISTINGUISH RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LOCATE CONTROL LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] NAME FAILURE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "[5] USE INDIAN ILLUSTRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Mains answer spine",
+        "[1] Define actor-forum relationship",
+        "[2] Distinguish responsibility",
+        "[3] Locate control layer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Mains answer spine",
+            "[1] Define actor-forum relationship",
+            "[2] Distinguish responsibility"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Locate control layer",
+            "[4] Name failure mechanism",
+            "[5] Use Indian illustration",
+            "[6] Propose targeted reform"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Add safeguard and limit",
+            "[8] Conclude with remedy",
+            "VERDICT → Mechanism-specific accountability analysis outperforms generic calls for transparency.",
+            "ANSWER USE → Use as the final checklist for theory and case answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Mechanism-specific accountability analysis outperforms generic calls for transparency.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g2\\ethics-11_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-11\\g3\\ethics-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1180 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "ethics-22",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 32,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 461.49
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 83,
+      "heading": "SESSION 1 - Eight-element architecture: from verified facts to residual risk",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV (Section B, Case Studies). **Core area:** A complete, self-sufficient, eight-element architecture for analysing and answering GS-IV case studies across every major c",
+      "metadata": {
+        "line_count": 22
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 485.424
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 114,
+      "heading": "1. Visual foundation - the eight-element case-study architecture",
+      "preview": "ELEMENT 1: FACTS                   ELEMENT 2: STAKEHOLDERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 460.924
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 199.924
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 143,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 126.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1152,
+      "heading": "19. Mains angles",
+      "preview": "**Answer thesis:** A defensible GS-IV case-study answer works through facts, stakeholder and **constraint** mapping, 3+ realistic options, moral-theory evaluation, a six-point ethical check (conflict of interest, legality, public interest, ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 456.591
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 369.324
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1206,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 241.991
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 175.324
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1225,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 144.89
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1241,
+      "markdown_body_line_end": 1241,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 638.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1248,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 638.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 571.556
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1291,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 36,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 519.956
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 456.39
+        }
+      },
+      "pdf_pages": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1331,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 120.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 76.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2845,
+      "markdown_body_line_end": 2851,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV (Section B, Case Studies). **Core area:** Deeper refinement of the case-study architecture — handling nested dilemmas, weighting conflicting checks, and defending a decision aga",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 675.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 573.624
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2856,
+      "markdown_body_line_end": 2872,
+      "heading": "1. Architecture",
+      "preview": "LAYER 1: DECOMPOSE                 LAYER 2: BOUND THE PROBLEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 546.124
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 385.124
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2885,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 312.524
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 46.322
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3010,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 482.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 414.09
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3055,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 432.624
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3061,
+      "markdown_body_line_end": 3098,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 36,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 381.024
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 258.39
+        }
+      },
+      "pdf_pages": [
+        83,
+        84,
+        85,
+        86,
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3138,
+      "markdown_body_line_end": 3138,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 688.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 644.224
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3177,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: 1. Eight-element case-study rail",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 564.224
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 257.424
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3181,
+      "markdown_body_line_end": 3211,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: 2. Constraint gate before option design",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3215,
+      "markdown_body_line_end": 3245,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 3. Six-check evaluation matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3249,
+      "markdown_body_line_end": 3278,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: 4. Conflict-of-interest resolution sequence",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3282,
+      "markdown_body_line_end": 3311,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: 5. Nested dilemma and steelman loop",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3315,
+      "markdown_body_line_end": 3344,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 6. Residual-risk closing formula",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3348,
+      "markdown_body_line_end": 3378,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 7. Written-order response to pressure",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3382,
+      "markdown_body_line_end": 3411,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 8. Whistleblowing and dissent ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3415,
+      "markdown_body_line_end": 3445,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 9. Resignation decision test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3449,
+      "markdown_body_line_end": 3478,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: 10. Scarce-resource triage cycle",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3482,
+      "markdown_body_line_end": 3511,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 11. Domain adaptation map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3515,
+      "markdown_body_line_end": 3544,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 12. Time-bound examiner answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3551,
+      "markdown_body_line_end": 3580,
+      "heading": "ASCII PANEL 1/12 - 1. Eight-element case-study rail",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 424.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 133.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3584,
+      "markdown_body_line_end": 3613,
+      "heading": "ASCII PANEL 2/12 - 2. Constraint gate before option design",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3617,
+      "markdown_body_line_end": 3646,
+      "heading": "ASCII PANEL 3/12 - 3. Six-check evaluation matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3650,
+      "markdown_body_line_end": 3679,
+      "heading": "ASCII PANEL 4/12 - 4. Conflict-of-interest resolution sequence",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3683,
+      "markdown_body_line_end": 3712,
+      "heading": "ASCII PANEL 5/12 - 5. Nested dilemma and steelman loop",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3716,
+      "markdown_body_line_end": 3745,
+      "heading": "ASCII PANEL 6/12 - 6. Residual-risk closing formula",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3749,
+      "markdown_body_line_end": 3779,
+      "heading": "ASCII PANEL 7/12 - 7. Written-order response to pressure",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3783,
+      "markdown_body_line_end": 3812,
+      "heading": "ASCII PANEL 8/12 - 8. Whistleblowing and dissent ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3816,
+      "markdown_body_line_end": 3846,
+      "heading": "ASCII PANEL 9/12 - 9. Resignation decision test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3850,
+      "markdown_body_line_end": 3879,
+      "heading": "ASCII PANEL 10/12 - 10. Scarce-resource triage cycle",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3883,
+      "markdown_body_line_end": 3912,
+      "heading": "ASCII PANEL 11/12 - 11. Domain adaptation map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3916,
+      "markdown_body_line_end": 3945,
+      "heading": "ASCII PANEL 12/12 - 12. Time-bound examiner answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3949,
+      "markdown_body_line_end": 3962,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 103.09
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4134,
+      "markdown_body_line_end": 4134,
+      "heading": "15. EIGHT-LINE ANSWER RECALL",
+      "preview": "**Final thesis:** A high-scoring GS-IV case answer is a bounded administrative decision, not an emotional essay. Verify facts, map visible and silent stakeholders, state hard constraints, compare realistic options, eliminate illegality and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 577.891
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 504.824
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    }
+  ]
+}

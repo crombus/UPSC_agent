@@ -1366,29 +1366,28 @@ Generate learner-v2 topic: Political Theory — Subject-wide Syllabus — Contem
 Generate next 10 learner-v2 topics: Essay — Subject-wide Syllabus
 ```
 
-**Completed:** 4 / 16
+**Completed:** 16 / 16
 
 - ✅ DONE — Paper Rules, Choice and Selection
 - ✅ DONE — Philosophical Quote Decoding
 - ✅ DONE — Issue-Based Prompt Scoping
 - ✅ DONE — Brainstorming and Dimensional Expansion
+- ✅ DONE — Thesis, Central Argument and Argument Map
+- ✅ DONE — Introductions and Conclusions
+- ✅ DONE — Macro-Structure, Paragraph Flow and Transitions
+- ✅ DONE — Argument, Counterargument and Synthesis
+- ✅ DONE — Evidence, Examples, Data and Quotation Discipline
+- ✅ DONE — Ethical and Philosophical Frameworks and Value Conflicts
+- ✅ DONE — Cross-Sector Lenses and Scale
+- ✅ DONE — India-Centric Illustration Bank
+- ✅ DONE — Time Management, Planning and Execution
+- ✅ DONE — Language, Style and Functional Visuals
+- ✅ DONE — Self-Evaluation and Internal Practice Rubric
+- ✅ DONE — Practice Loops, PYQ Lab and Revision System
 
-#### Pending / incomplete queue — 12 topics
+#### Pending / incomplete queue — 0 topics
 
-```text
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Thesis, Central Argument and Argument Map
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Introductions and Conclusions
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Macro-Structure, Paragraph Flow and Transitions
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Argument, Counterargument and Synthesis
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Evidence, Examples, Data and Quotation Discipline
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Ethical and Philosophical Frameworks and Value Conflicts
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Cross-Sector Lenses and Scale
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — India-Centric Illustration Bank
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Time Management, Planning and Execution
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Language, Style and Functional Visuals
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Self-Evaluation and Internal Practice Rubric
-Generate learner-v2 topic: Essay — Subject-wide Syllabus — Practice Loops, PYQ Lab and Revision System
-```
+No planned or incomplete topics remain.
 
 #### Optional completed-topic regeneration
 
@@ -1397,6 +1396,18 @@ Generate learner-v2 topic: Essay — Subject-wide Syllabus — Paper Rules, Choi
 Generate learner-v2 topic: Essay — Subject-wide Syllabus — Philosophical Quote Decoding — Regenerate
 Generate learner-v2 topic: Essay — Subject-wide Syllabus — Issue-Based Prompt Scoping — Regenerate
 Generate learner-v2 topic: Essay — Subject-wide Syllabus — Brainstorming and Dimensional Expansion — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Thesis, Central Argument and Argument Map — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Introductions and Conclusions — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Macro-Structure, Paragraph Flow and Transitions — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Argument, Counterargument and Synthesis — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Evidence, Examples, Data and Quotation Discipline — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Ethical and Philosophical Frameworks and Value Conflicts — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Cross-Sector Lenses and Scale — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — India-Centric Illustration Bank — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Time Management, Planning and Execution — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Language, Style and Functional Visuals — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Self-Evaluation and Internal Practice Rubric — Regenerate
+Generate learner-v2 topic: Essay — Subject-wide Syllabus — Practice Loops, PYQ Lab and Revision System — Regenerate
 ```
 
 <a id="subject-csat"></a>
@@ -1410,21 +1421,32 @@ Generate learner-v2 topic: Essay — Subject-wide Syllabus — Brainstorming and
 Generate next 10 learner-v2 topics: CSAT — Subject-wide Syllabus
 ```
 
-**Completed:** 0 / 8
+**Completed:** 8 / 8
 
-- None.
+- ✅ DONE — Reading-Comprehension
+- ✅ DONE — Number-Systems-and-Number-Sense
+- ✅ DONE — Arithmetic-and-Commercial-Math
+- ✅ DONE — Rates-Motion-Time-and-Geometry
+- ✅ DONE — Algebra-Inequalities-and-Data-Sufficiency
+- ✅ DONE — Logical Reasoning Coding Counting and DI
+- ✅ DONE — Interpersonal-and-Communication-Skills
+- ✅ DONE — General-Mental-Ability-Integrated-Map
 
-#### Pending / incomplete queue — 8 topics
+#### Pending / incomplete queue — 0 topics
+
+No planned or incomplete topics remain.
+
+#### Optional completed-topic regeneration
 
 ```text
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Reading-Comprehension
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Number-Systems-and-Number-Sense
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Arithmetic-and-Commercial-Math
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Rates-Motion-Time-and-Geometry
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Algebra-Inequalities-and-Data-Sufficiency
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Logical Reasoning Coding Counting and DI
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Interpersonal-and-Communication-Skills
-Generate learner-v2 topic: CSAT — Subject-wide Syllabus — General-Mental-Ability-Integrated-Map
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Reading-Comprehension — Regenerate
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Number-Systems-and-Number-Sense — Regenerate
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Arithmetic-and-Commercial-Math — Regenerate
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Rates-Motion-Time-and-Geometry — Regenerate
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Algebra-Inequalities-and-Data-Sufficiency — Regenerate
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Logical Reasoning Coding Counting and DI — Regenerate
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — Interpersonal-and-Communication-Skills — Regenerate
+Generate learner-v2 topic: CSAT — Subject-wide Syllabus — General-Mental-Ability-Integrated-Map — Regenerate
 ```
 
 <a id="subject-qualifying-english"></a>
@@ -1438,20 +1460,30 @@ Generate learner-v2 topic: CSAT — Subject-wide Syllabus — General-Mental-Abi
 Generate next 10 learner-v2 topics: Qualifying English — Subject-wide Syllabus
 ```
 
-**Completed:** 0 / 7
+**Completed:** 7 / 7
 
-- None.
+- ✅ DONE — Parts of Speech
+- ✅ DONE — Sentence Grammar
+- ✅ DONE — Punctuation and Capitalisation
+- ✅ DONE — Vocabulary Idioms and Proverbs
+- ✅ DONE — Error Correction and Transformation
+- ✅ DONE — Comprehension and Precis
+- ✅ DONE — Short Essay Writing
 
-#### Pending / incomplete queue — 7 topics
+#### Pending / incomplete queue — 0 topics
+
+No planned or incomplete topics remain.
+
+#### Optional completed-topic regeneration
 
 ```text
-Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Parts of Speech
-Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Sentence Grammar
-Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Punctuation and Capitalisation
-Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Vocabulary Idioms and Proverbs
-Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Error Correction and Transformation
-Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Comprehension and Precis
-Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Short Essay Writing
+Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Parts of Speech — Regenerate
+Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Sentence Grammar — Regenerate
+Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Punctuation and Capitalisation — Regenerate
+Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Vocabulary Idioms and Proverbs — Regenerate
+Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Error Correction and Transformation — Regenerate
+Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Comprehension and Precis — Regenerate
+Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Short Essay Writing — Regenerate
 ```
 
 <a id="subject-qualifying-hindi"></a>
@@ -1465,19 +1497,28 @@ Generate learner-v2 topic: Qualifying English — Subject-wide Syllabus — Shor
 Generate next 10 learner-v2 topics: Qualifying Hindi — Subject-wide Syllabus
 ```
 
-**Completed:** 0 / 6
+**Completed:** 6 / 6
 
-- None.
+- ✅ DONE — शब्द भेद
+- ✅ DONE — व्याकरण वर्तनी वाक्य शुद्धि
+- ✅ DONE — शब्दावली मुहावरे लोकोक्तियाँ
+- ✅ DONE — बोध और संक्षेपण
+- ✅ DONE — निबन्ध लेखन
+- ✅ DONE — अनुवाद
 
-#### Pending / incomplete queue — 6 topics
+#### Pending / incomplete queue — 0 topics
+
+No planned or incomplete topics remain.
+
+#### Optional completed-topic regeneration
 
 ```text
-Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — शब्द भेद
-Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — व्याकरण वर्तनी वाक्य शुद्धि
-Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — शब्दावली मुहावरे लोकोक्तियाँ
-Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — बोध और संक्षेपण
-Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — निबन्ध लेखन
-Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — अनुवाद
+Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — शब्द भेद — Regenerate
+Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — व्याकरण वर्तनी वाक्य शुद्धि — Regenerate
+Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — शब्दावली मुहावरे लोकोक्तियाँ — Regenerate
+Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — बोध और संक्षेपण — Regenerate
+Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — निबन्ध लेखन — Regenerate
+Generate learner-v2 topic: Qualifying Hindi — Subject-wide Syllabus — अनुवाद — Regenerate
 ```
 
 <a id="subject-philosophy-optional"></a>
@@ -1694,6 +1735,7 @@ Section-level controls may be appended where useful:
 | Subject | Section name | Section key | Pilot / full | Topics | Manifest | Coverage index | Notes index | Workbook index |
 |---|---|---|---|---:|---|---|---|---|
 | Ancient History | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 27 | [`upsc-ai-kit\manifests\v2\ancient-indian-history--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/ancient-indian-history--subject-wide-syllabus.json) | [`notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Ancient-Indian-History/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Ancient-Indian-History/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Ancient-Indian-History/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
+| CSAT | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 8 | [`upsc-ai-kit\manifests\v2\csat--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/csat--subject-wide-syllabus.json) | [`notes\CSAT\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/CSAT/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\CSAT\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/CSAT/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\CSAT\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/CSAT/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
 | Disaster Management | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 18 | [`upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/disaster-management--subject-wide-syllabus.json) | [`notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Disaster-Management/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Disaster-Management/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Disaster-Management/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
 | Economy | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 31 | [`upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/economy--subject-wide-syllabus.json) | [`notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Economy/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Economy/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Economy/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
 | Environment and Ecology | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 28 | [`upsc-ai-kit\manifests\v2\environment-and-ecology--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/environment-and-ecology--subject-wide-syllabus.json) | [`notes\Environment-and-Ecology\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Environment-and-Ecology/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Environment-and-Ecology\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Environment-and-Ecology/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Environment-and-Ecology\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Environment-and-Ecology/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
@@ -1715,6 +1757,8 @@ Section-level controls may be appended where useful:
 | Philosophy Optional | Philosophy Paper II — Socio-Political Philosophy | `paper-ii-socio-political-philosophy` | Full | 10 | [`upsc-ai-kit\manifests\v2\philosophy--paper-ii-socio-political-philosophy.json`](upsc-ai-kit/manifests/v2/philosophy--paper-ii-socio-political-philosophy.json) | [`notes\Philosophy\learning-session-v2\paper-ii-socio-political-philosophy\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Philosophy/learning-session-v2/paper-ii-socio-political-philosophy/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Philosophy\learning-session-v2\paper-ii-socio-political-philosophy\indexes\NOTES-PDF-INDEX.md`](notes/Philosophy/learning-session-v2/paper-ii-socio-political-philosophy/indexes/NOTES-PDF-INDEX.md) | [`notes\Philosophy\learning-session-v2\paper-ii-socio-political-philosophy\indexes\WORKBOOK-PDF-INDEX.md`](notes/Philosophy/learning-session-v2/paper-ii-socio-political-philosophy/indexes/WORKBOOK-PDF-INDEX.md) |
 | Political Theory | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 23 | [`upsc-ai-kit\manifests\v2\political-theory--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/political-theory--subject-wide-syllabus.json) | [`notes\Political-Theory\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Political-Theory/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Political-Theory\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Political-Theory/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Political-Theory\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Political-Theory/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
 | Polity | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 55 | [`upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/polity--subject-wide-syllabus.json) | [`notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Polity/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Polity/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Polity/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
+| Qualifying English | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 7 | [`upsc-ai-kit\manifests\v2\qualifying-english--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/qualifying-english--subject-wide-syllabus.json) | [`notes\Qualifying-English\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Qualifying-English/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Qualifying-English\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Qualifying-English/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Qualifying-English\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Qualifying-English/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
+| Qualifying Hindi | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 6 | [`upsc-ai-kit\manifests\v2\qualifying-hindi--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/qualifying-hindi--subject-wide-syllabus.json) | [`notes\Qualifying-Hindi\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Qualifying-Hindi/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Qualifying-Hindi\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Qualifying-Hindi/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Qualifying-Hindi\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Qualifying-Hindi/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
 | Science and Technology | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 26 | [`upsc-ai-kit\manifests\v2\science-and-technology--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/science-and-technology--subject-wide-syllabus.json) | [`notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Science-and-Technology/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Science-and-Technology/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Science-and-Technology\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Science-and-Technology/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
 | Social Justice | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 17 | [`upsc-ai-kit\manifests\v2\social-justice--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/social-justice--subject-wide-syllabus.json) | [`notes\Social-Justice\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/Social-Justice/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\Social-Justice\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/Social-Justice/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\Social-Justice\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/Social-Justice/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
 | World History | Subject-wide Syllabus | `subject-wide-syllabus` | Full | 21 | [`upsc-ai-kit\manifests\v2\world-history--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/world-history--subject-wide-syllabus.json) | [`notes\World-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md`](notes/World-History/learning-session-v2/subject-wide-syllabus/indexes/TOPIC-COVERAGE-INDEX.md) | [`notes\World-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md`](notes/World-History/learning-session-v2/subject-wide-syllabus/indexes/NOTES-PDF-INDEX.md) | [`notes\World-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md`](notes/World-History/learning-session-v2/subject-wide-syllabus/indexes/WORKBOOK-PDF-INDEX.md) |
@@ -1864,6 +1908,58 @@ Section-level controls may be appended where useful:
 #### 27. Imperial Cholas: State, Society, Economy & Maritime Power
 
 - **Topic key:** `ancient-indian-history-27`
+- **Current state:** **generated — completed, unapproved**
+
+## CSAT — Subject-wide Syllabus
+
+- **Section key:** `subject-wide-syllabus`
+- **Manifest:** [`upsc-ai-kit\manifests\v2\csat--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/csat--subject-wide-syllabus.json)
+- **Command states:** 0 planned · 8 generated/unapproved · 0 approved
+
+**Full-section command (available, not the recommended default):** `Generate learner-v2 section: CSAT — Subject-wide Syllabus`
+
+**Generate or refresh this section's indexes only:** `Generate learner-v2 section: CSAT — Subject-wide Syllabus — Generate index only`
+
+### Topic states in manifest order
+
+#### 1. Reading-Comprehension
+
+- **Topic key:** `csat-01`
+- **Current state:** **generated — completed, unapproved**
+
+#### 2. Number-Systems-and-Number-Sense
+
+- **Topic key:** `csat-02`
+- **Current state:** **generated — completed, unapproved**
+
+#### 3. Arithmetic-and-Commercial-Math
+
+- **Topic key:** `csat-03`
+- **Current state:** **generated — completed, unapproved**
+
+#### 4. Rates-Motion-Time-and-Geometry
+
+- **Topic key:** `csat-04`
+- **Current state:** **generated — completed, unapproved**
+
+#### 5. Algebra-Inequalities-and-Data-Sufficiency
+
+- **Topic key:** `csat-05`
+- **Current state:** **generated — completed, unapproved**
+
+#### 6. Logical Reasoning Coding Counting and DI
+
+- **Topic key:** `csat-06`
+- **Current state:** **generated — completed, unapproved**
+
+#### 7. Interpersonal-and-Communication-Skills
+
+- **Topic key:** `csat-07`
+- **Current state:** **generated — completed, unapproved**
+
+#### 8. General-Mental-Ability-Integrated-Map
+
+- **Topic key:** `csat-08`
 - **Current state:** **generated — completed, unapproved**
 
 ## Disaster Management — Subject-wide Syllabus
@@ -2291,13 +2387,11 @@ Section-level controls may be appended where useful:
 
 - **Section key:** `subject-wide-syllabus`
 - **Manifest:** [`upsc-ai-kit\manifests\v2\essay--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/essay--subject-wide-syllabus.json)
-- **Command states:** 12 planned · 4 generated/unapproved · 0 approved
+- **Command states:** 0 planned · 16 generated/unapproved · 0 approved
 
 **Full-section command (available, not the recommended default):** `Generate learner-v2 section: Essay — Subject-wide Syllabus`
 
 **Generate or refresh this section's indexes only:** `Generate learner-v2 section: Essay — Subject-wide Syllabus — Generate index only`
-
-**Resume a full-section run from the first unfinished topic:** `Generate learner-v2 section: Essay — Subject-wide Syllabus — Start from topic Thesis, Central Argument and Argument Map`
 
 ### Topic states in manifest order
 
@@ -2324,62 +2418,62 @@ Section-level controls may be appended where useful:
 #### 5. Thesis, Central Argument and Argument Map
 
 - **Topic key:** `essay-05`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 6. Introductions and Conclusions
 
 - **Topic key:** `essay-06`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 7. Macro-Structure, Paragraph Flow and Transitions
 
 - **Topic key:** `essay-07`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 8. Argument, Counterargument and Synthesis
 
 - **Topic key:** `essay-08`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 9. Evidence, Examples, Data and Quotation Discipline
 
 - **Topic key:** `essay-09`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 10. Ethical and Philosophical Frameworks and Value Conflicts
 
 - **Topic key:** `essay-10`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 11. Cross-Sector Lenses and Scale
 
 - **Topic key:** `essay-11`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 12. India-Centric Illustration Bank
 
 - **Topic key:** `essay-12`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 13. Time Management, Planning and Execution
 
 - **Topic key:** `essay-13`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 14. Language, Style and Functional Visuals
 
 - **Topic key:** `essay-14`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 15. Self-Evaluation and Internal Practice Rubric
 
 - **Topic key:** `essay-15`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 #### 16. Practice Loops, PYQ Lab and Revision System
 
 - **Topic key:** `essay-16`
-- **Current state:** **planned — not generated**
+- **Current state:** **generated — completed, unapproved**
 
 ## Ethics — Subject-wide Syllabus
 
@@ -4153,6 +4247,95 @@ Section-level controls may be appended where useful:
 #### 55. Constitutional Interpretation Doctrines
 
 - **Topic key:** `polity-55`
+- **Current state:** **generated — completed, unapproved**
+
+## Qualifying English — Subject-wide Syllabus
+
+- **Section key:** `subject-wide-syllabus`
+- **Manifest:** [`upsc-ai-kit\manifests\v2\qualifying-english--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/qualifying-english--subject-wide-syllabus.json)
+- **Command states:** 0 planned · 7 generated/unapproved · 0 approved
+
+**Full-section command (available, not the recommended default):** `Generate learner-v2 section: Qualifying English — Subject-wide Syllabus`
+
+**Generate or refresh this section's indexes only:** `Generate learner-v2 section: Qualifying English — Subject-wide Syllabus — Generate index only`
+
+### Topic states in manifest order
+
+#### 1. Parts of Speech
+
+- **Topic key:** `qualifying-english-01`
+- **Current state:** **generated — completed, unapproved**
+
+#### 2. Sentence Grammar
+
+- **Topic key:** `qualifying-english-02`
+- **Current state:** **generated — completed, unapproved**
+
+#### 3. Punctuation and Capitalisation
+
+- **Topic key:** `qualifying-english-03`
+- **Current state:** **generated — completed, unapproved**
+
+#### 4. Vocabulary Idioms and Proverbs
+
+- **Topic key:** `qualifying-english-04`
+- **Current state:** **generated — completed, unapproved**
+
+#### 5. Error Correction and Transformation
+
+- **Topic key:** `qualifying-english-05`
+- **Current state:** **generated — completed, unapproved**
+
+#### 6. Comprehension and Precis
+
+- **Topic key:** `qualifying-english-06`
+- **Current state:** **generated — completed, unapproved**
+
+#### 7. Short Essay Writing
+
+- **Topic key:** `qualifying-english-07`
+- **Current state:** **generated — completed, unapproved**
+
+## Qualifying Hindi — Subject-wide Syllabus
+
+- **Section key:** `subject-wide-syllabus`
+- **Manifest:** [`upsc-ai-kit\manifests\v2\qualifying-hindi--subject-wide-syllabus.json`](upsc-ai-kit/manifests/v2/qualifying-hindi--subject-wide-syllabus.json)
+- **Command states:** 0 planned · 6 generated/unapproved · 0 approved
+
+**Full-section command (available, not the recommended default):** `Generate learner-v2 section: Qualifying Hindi — Subject-wide Syllabus`
+
+**Generate or refresh this section's indexes only:** `Generate learner-v2 section: Qualifying Hindi — Subject-wide Syllabus — Generate index only`
+
+### Topic states in manifest order
+
+#### 1. शब्द भेद
+
+- **Topic key:** `qualifying-hindi-01`
+- **Current state:** **generated — completed, unapproved**
+
+#### 2. व्याकरण वर्तनी वाक्य शुद्धि
+
+- **Topic key:** `qualifying-hindi-02`
+- **Current state:** **generated — completed, unapproved**
+
+#### 3. शब्दावली मुहावरे लोकोक्तियाँ
+
+- **Topic key:** `qualifying-hindi-03`
+- **Current state:** **generated — completed, unapproved**
+
+#### 4. बोध और संक्षेपण
+
+- **Topic key:** `qualifying-hindi-04`
+- **Current state:** **generated — completed, unapproved**
+
+#### 5. निबन्ध लेखन
+
+- **Topic key:** `qualifying-hindi-05`
+- **Current state:** **generated — completed, unapproved**
+
+#### 6. अनुवाद
+
+- **Topic key:** `qualifying-hindi-06`
 - **Current state:** **generated — completed, unapproved**
 
 ## Science and Technology — Subject-wide Syllabus

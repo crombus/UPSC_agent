@@ -1,0 +1,1748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\disaster-management-04_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Multi-Hazard Early Warning and Disaster Technology - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 30,
+      "markdown_body_line_end": 43,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 330.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 71,
+      "markdown_body_line_end": 71,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\g3\\assets\\disaster-management-04_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 114.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 85,
+      "markdown_body_line_end": 85,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A multi-hazard early warning system is a people-centred chain linking risk knowledge, monitoring and forecasting, authoritative warning, dissemination, preparedness, early action and feedback.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 107,
+      "heading": "VISUAL FIRST",
+      "preview": "PEOPLE-CENTRED END-TO-END WARNING CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 161,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PEOPLE-CENTRED END-TO-END WARNING CHAIN",
+      "preview": "START / CONCEPT: FOUNDATION — People-centred end-to-end warning chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 172,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Risk knowledge and exposure mapping as a sequence: identify Monitoring and forecasting, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 211.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 191,
+      "heading": "VISUAL FIRST",
+      "preview": "RISK KNOWLEDGE AND EXPOSURE MAPPING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 244,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RISK KNOWLEDGE AND EXPOSURE MAPPING",
+      "preview": "START / CONCEPT: FOUNDATION — Risk knowledge and exposure mapping",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 255,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Monitoring observation and forecasting as a sequence: identify Authoritative warning, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 270,
+      "markdown_body_line_end": 274,
+      "heading": "VISUAL FIRST",
+      "preview": "MONITORING OBSERVATION AND FORECASTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 327,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MONITORING OBSERVATION AND FORECASTING",
+      "preview": "START / CONCEPT: FOUNDATION — Monitoring observation and forecasting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 338,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Authoritative warning and uncertainty as a sequence: identify Dissemination, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 353,
+      "markdown_body_line_end": 357,
+      "heading": "VISUAL FIRST",
+      "preview": "AUTHORITATIVE WARNING AND UNCERTAINTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 410,
+      "heading": "CLOSING RECALL FLOW - CORE - AUTHORITATIVE WARNING AND UNCERTAINTY",
+      "preview": "START / CONCEPT: CORE — Authoritative warning and uncertainty",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 421,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Dissemination communication and redundancy as a sequence: identify Preparedness and action, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 440,
+      "heading": "VISUAL FIRST",
+      "preview": "DISSEMINATION COMMUNICATION AND REDUNDANCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 476,
+      "markdown_body_line_end": 493,
+      "heading": "CLOSING RECALL FLOW - CORE - DISSEMINATION COMMUNICATION AND REDUNDANCY",
+      "preview": "START / CONCEPT: CORE — Dissemination communication and redundancy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 504,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Preparedness response and early action as a sequence: identify Last-mile feedback, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 221.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 526,
+      "heading": "VISUAL FIRST",
+      "preview": "PREPAREDNESS RESPONSE AND EARLY ACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 580,
+      "heading": "CLOSING RECALL FLOW - CORE - PREPAREDNESS RESPONSE AND EARLY ACTION",
+      "preview": "START / CONCEPT: CORE — Preparedness response and early action",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 272.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 41.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 591,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Last-mile feedback and outcome metrics as a sequence: identify CWC role, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 610,
+      "heading": "VISUAL FIRST",
+      "preview": "LAST-MILE FEEDBACK AND OUTCOME METRICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 663,
+      "heading": "CLOSING RECALL FLOW - CORE - LAST-MILE FEEDBACK AND OUTCOME METRICS",
+      "preview": "START / CONCEPT: CORE — Last-mile feedback and outcome metrics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read IMD weather and cyclone role as a sequence: identify INCOIS role, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 384.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 318.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 693,
+      "heading": "VISUAL FIRST",
+      "preview": "IMD WEATHER AND CYCLONE ROLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 746,
+      "heading": "CLOSING RECALL FLOW - CORE - IMD WEATHER AND CYCLONE ROLE",
+      "preview": "START / CONCEPT: CORE — IMD weather and cyclone role",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 137.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 757,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CWC river-flood role as a sequence: identify ISRO and NRSC role, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 776,
+      "heading": "VISUAL FIRST",
+      "preview": "CWC RIVER-FLOOD ROLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 829,
+      "heading": "CLOSING RECALL FLOW - CORE - CWC RIVER-FLOOD ROLE",
+      "preview": "START / CONCEPT: CORE — CWC river-flood role",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 529.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 840,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read INCOIS tsunami-warning role as a sequence: identify NDMA and local roles, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 328.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 855,
+      "markdown_body_line_end": 859,
+      "heading": "VISUAL FIRST",
+      "preview": "INCOIS TSUNAMI-WARNING ROLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 912,
+      "heading": "CLOSING RECALL FLOW - CORE - INCOIS TSUNAMI-WARNING ROLE",
+      "preview": "START / CONCEPT: CORE — INCOIS tsunami-warning role",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read ISRO NRSC GIS and remote sensing as a sequence: identify CAP and SACHET, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 945,
+      "heading": "VISUAL FIRST",
+      "preview": "ISRO NRSC GIS AND REMOTE SENSING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 982,
+      "markdown_body_line_end": 999,
+      "heading": "CLOSING RECALL FLOW - CORE - ISRO NRSC GIS AND REMOTE SENSING",
+      "preview": "START / CONCEPT: CORE — ISRO NRSC GIS and remote sensing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1010,
+      "markdown_body_line_end": 1010,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NDMA SACHET and CAP interoperability as a sequence: identify Radar sensors and lead time, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 287.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 206.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1029,
+      "heading": "VISUAL FIRST",
+      "preview": "NDMA SACHET AND CAP INTEROPERABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1082,
+      "heading": "CLOSING RECALL FLOW - CORE - NDMA SACHET AND CAP INTEROPERABILITY",
+      "preview": "START / CONCEPT: CORE — NDMA SACHET and CAP interoperability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 113.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1093,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Doppler radar sensors satellites and lead time as a sequence: identify Drones and crowdsourcing, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1112,
+      "heading": "VISUAL FIRST",
+      "preview": "DOPPLER RADAR SENSORS SATELLITES AND LEAD TIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1165,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DOPPLER RADAR SENSORS SATELLITES AND LEAD TIME",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Doppler radar sensors satellites and lead time",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1176,
+      "markdown_body_line_end": 1176,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Drones AI crowdsourcing privacy and limits as a sequence: identify AI and models, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 221.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1191,
+      "markdown_body_line_end": 1198,
+      "heading": "VISUAL FIRST",
+      "preview": "DRONES AI CROWDSOURCING PRIVACY AND LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1252,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DRONES AI CROWDSOURCING PRIVACY AND LIMITS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Drones AI crowdsourcing privacy and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 272.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 41.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Multi-agency synthesis and technology-outcome boundary as a sequence: identify Privacy and equity, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1278,
+      "markdown_body_line_end": 1285,
+      "heading": "VISUAL FIRST",
+      "preview": "MULTI-AGENCY SYNTHESIS AND TECHNOLOGY-OUTCOME BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1330,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** End-to-end early warning (risk knowledge, detection/ forecast, dissemination, response capability); GIS and satellite applications; CAP",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 511.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1334,
+      "markdown_body_line_end": 1348,
+      "heading": "1. Visual foundation",
+      "preview": "RISK KNOWLEDGE          (hazard/vulnerability data, mapping)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 489.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1364,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 466.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1553,
+      "markdown_body_line_end": 1555,
+      "heading": "13. Core-only answer architecture - warning is an action chain",
+      "preview": "**Core firewall:** an answer passes only if it reaches the at-risk person, an understandable action and a measurable result. Listing radar, apps or satellites alone is a FAIL.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 663.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 597.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1564,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 575.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 280.322
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1585,
+      "markdown_body_line_end": 1602,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MULTI-AGENCY SYNTHESIS AND TECHNOLOGY-OUTCOME BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Multi-agency synthesis and technology-outcome boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2767,
+      "markdown_body_line_end": 2774,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Last-mile and interoperability failures; impact-based versus weather-based forecasting; data ethics and system redundancy. **Grounded in:** *Vision",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 565.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 464.224
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2789,
+      "markdown_body_line_end": 2810,
+      "heading": "2. Risk-system analysis",
+      "preview": "DETECTION CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 344.224
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 133.224
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3033,
+      "heading": "Multi-Hazard Early Warning and Disaster Technology: GEOSPATIAL EMERGING-TECHNOLOGY AND LAST-MILE ANSWER SPINE",
+      "preview": "START WITH RISK KNOWLEDGE AND HAZARD-SPECIFIC LEAD TIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 396.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 315.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3043,
+      "markdown_body_line_end": 3048,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: End-to-end MHEWS rail",
+      "preview": "1 RISK KNOWLEDGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3052,
+      "markdown_body_line_end": 3057,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Risk-knowledge stack",
+      "preview": "HAZARD + EXPOSURE + VULNERABILITY + CAPACITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3061,
+      "markdown_body_line_end": 3066,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Observation-to-warning firewall",
+      "preview": "SENSOR / REPORT -> QUALITY CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3070,
+      "markdown_body_line_end": 3075,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Dissemination redundancy",
+      "preview": "CAP MESSAGE -> SMS / CELL / APP / WEB",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3079,
+      "markdown_body_line_end": 3084,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Warning-to-action test",
+      "preview": "RECEIVED? -> UNDERSTOOD?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3088,
+      "markdown_body_line_end": 3094,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Agency ownership matrix",
+      "preview": "IMD -> WEATHER / CYCLONE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3098,
+      "markdown_body_line_end": 3103,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: CAP and SACHET boundary",
+      "preview": "CAP -> structured message format",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 282.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3107,
+      "markdown_body_line_end": 3112,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Geospatial decision cycle",
+      "preview": "SATELLITE / AERIAL / FIELD DATA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3116,
+      "markdown_body_line_end": 3121,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Sensor-hazard matching",
+      "preview": "DOPPLER RADAR -> WEATHER STRUCTURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3125,
+      "markdown_body_line_end": 3132,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Emerging-technology safeguards",
+      "preview": "DRONE -> local imagery | airspace + safety",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3136,
+      "markdown_body_line_end": 3143,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Failure and redundancy map",
+      "preview": "SENSOR FAIL | POWER FAIL | NETWORK FAIL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3154,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Technology answer spine",
+      "preview": "MAP HAZARD + LEAD TIME -> NAME COMPETENT AGENCY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    }
+  ]
+}

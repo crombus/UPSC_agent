@@ -3,7 +3,7 @@
   "created_at": "2026-08-27T16:13:46+00:00",
   "review_root": "notes\\Final-Learning-Packages\\_deep-content-review",
   "source_master_tracker": "notes\\Final-Learning-Packages\\MASTER-TRACKER.json",
-  "source_master_created_at": "2026-09-06T06:52:12+00:00",
+  "source_master_created_at": "2026-09-06T12:11:57+00:00",
   "topic_count": 483,
   "batch_size": 5,
   "batch_count": 97,
@@ -20381,8 +20381,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\01-Space-Programme-842790e5-Launch-Vehicles",
-      "source_record_id": "science-and-technology-01:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "science-and-technology-01:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20424,9 +20424,9 @@
         "E-ST01-002",
         "E-ST01-003"
       ],
-      "review_started_at": "2026-09-04T09:02:45.407424+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:23:14.760299+00:00",
+      "review_completed_at": "2026-09-06T07:24:51.906223+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Space Programme: ISRO, Organisation and Launch Vehicles"
     },
     {
@@ -20437,8 +20437,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\02-Satellites-NavIC-GAGAN-and-Applications",
-      "source_record_id": "science-and-technology-02:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-02:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20480,9 +20480,9 @@
         "E-ST02-002",
         "E-ST02-003"
       ],
-      "review_started_at": "2026-09-04T09:03:13.052348+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:27:24.136782+00:00",
+      "review_completed_at": "2026-09-06T07:29:05.181430+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Satellites, NavIC, GAGAN and Applications"
     },
     {
@@ -20493,8 +20493,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\03-Human-Spaceflight-cd70c10a-Missions",
-      "source_record_id": "science-and-technology-03:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-03:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20536,9 +20536,9 @@
         "E-ST03-002",
         "E-ST03-003"
       ],
-      "review_started_at": "2026-09-04T09:03:39.484340+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:30:07.187748+00:00",
+      "review_completed_at": "2026-09-06T07:31:48.134469+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Human Spaceflight: Gaganyaan and Planetary Missions"
     },
     {
@@ -20549,8 +20549,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\04-Nuclear-Power-and-the-Three-Stage-Programme",
-      "source_record_id": "science-and-technology-04:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-04:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20592,9 +20592,9 @@
         "E-ST04-002",
         "E-ST04-003"
       ],
-      "review_started_at": "2026-09-04T09:04:07.141020+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:32:46.603468+00:00",
+      "review_completed_at": "2026-09-06T07:34:23.125360+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Nuclear Power and the Three-Stage Programme"
     },
     {
@@ -20605,8 +20605,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\05-Nuclear-Fusion-and-ITER",
-      "source_record_id": "science-and-technology-05:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-05:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20648,9 +20648,9 @@
         "E-ST05-002",
         "E-ST05-003"
       ],
-      "review_started_at": "2026-09-04T09:04:34.044717+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:35:23.229337+00:00",
+      "review_completed_at": "2026-09-06T07:37:02.633435+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Nuclear Fusion and ITER"
     },
     {
@@ -20661,8 +20661,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\06-Defence-R-and-D-DRDO-and-Missile-Systems",
-      "source_record_id": "science-and-technology-06:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-06:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20704,9 +20704,9 @@
         "E-ST06-002",
         "E-ST06-003"
       ],
-      "review_started_at": "2026-09-04T09:05:00.946699+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:38:04.900507+00:00",
+      "review_completed_at": "2026-09-06T07:39:47.579367+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Defence R&D: DRDO and Missile Systems"
     },
     {
@@ -20717,8 +20717,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\07-Defence-d1f18203-and-Procurement",
-      "source_record_id": "science-and-technology-07:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-07:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20760,9 +20760,9 @@
         "E-ST07-002",
         "E-ST07-003"
       ],
-      "review_started_at": "2026-09-04T09:05:27.945367+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:40:50.110117+00:00",
+      "review_completed_at": "2026-09-06T07:42:33.359706+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Defence Indigenisation: Atmanirbhar and Procurement"
     },
     {
@@ -20773,8 +20773,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\08-Digital-India-and-India-Stack-UPI-Aadhaar",
-      "source_record_id": "science-and-technology-08:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-08:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20816,9 +20816,9 @@
         "E-ST08-002",
         "E-ST08-003"
       ],
-      "review_started_at": "2026-09-04T09:05:54.370091+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:43:37.817861+00:00",
+      "review_completed_at": "2026-09-06T07:45:14.814220+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Digital India and India Stack: UPI, Aadhaar"
     },
     {
@@ -20829,8 +20829,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\09-Artificial-Intelligence-Governance-and-IndiaAI",
-      "source_record_id": "science-and-technology-09:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-09:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20872,9 +20872,9 @@
         "E-ST09-002",
         "E-ST09-003"
       ],
-      "review_started_at": "2026-09-04T09:06:20.243169+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:46:13.745768+00:00",
+      "review_completed_at": "2026-09-06T07:48:05.896083+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Artificial Intelligence Governance and IndiaAI"
     },
     {
@@ -20885,8 +20885,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\10-National-Quantum-Mission-and-Quantum-Technology",
-      "source_record_id": "science-and-technology-10:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-10:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20928,9 +20928,9 @@
         "E-ST10-002",
         "E-ST10-003"
       ],
-      "review_started_at": "2026-09-04T09:06:46.857736+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:49:16.331320+00:00",
+      "review_completed_at": "2026-09-06T07:51:03.677347+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — National Quantum Mission and Quantum Technology"
     },
     {
@@ -20941,8 +20941,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\11-Semiconductor-f2f24949-Manufacturing",
-      "source_record_id": "science-and-technology-11:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-11:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -20984,9 +20984,9 @@
         "E-ST11-002",
         "E-ST11-003"
       ],
-      "review_started_at": "2026-09-04T09:07:32.956819+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:52:08.152606+00:00",
+      "review_completed_at": "2026-09-06T07:53:48.290858+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Semiconductor Mission and Electronics Manufacturing"
     },
     {
@@ -20997,8 +20997,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\12-Data-Protection-DPDP-Act-and-Cybersecurity",
-      "source_record_id": "science-and-technology-12:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-12:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21040,9 +21040,9 @@
         "E-ST12-002",
         "E-ST12-003"
       ],
-      "review_started_at": "2026-09-04T09:08:26.559866+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:54:48.578703+00:00",
+      "review_completed_at": "2026-09-06T07:56:29.715455+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Data Protection: DPDP Act and Cybersecurity"
     },
     {
@@ -21053,8 +21053,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\13-Biotechnology-Fundamentals-and-DBT-Missions",
-      "source_record_id": "science-and-technology-13:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-13:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21096,9 +21096,9 @@
         "E-ST13-002",
         "E-ST13-003"
       ],
-      "review_started_at": "2026-09-04T09:09:18.770521+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T07:57:29.819410+00:00",
+      "review_completed_at": "2026-09-06T07:59:07.946148+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Biotechnology Fundamentals and DBT Missions"
     },
     {
@@ -21109,8 +21109,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\14-Genetic-Engineering-GM-Crops-and-CRISPR",
-      "source_record_id": "science-and-technology-14:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-14:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21152,9 +21152,9 @@
         "E-ST14-002",
         "E-ST14-003"
       ],
-      "review_started_at": "2026-09-04T09:10:10.515991+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:00:09.858675+00:00",
+      "review_completed_at": "2026-09-06T08:01:49.040277+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Genetic Engineering: GM Crops and CRISPR"
     },
     {
@@ -21165,8 +21165,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\15-Vaccines-Monoclonal-Antibodies-and-Biopharma",
-      "source_record_id": "science-and-technology-15:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-15:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21208,9 +21208,9 @@
         "E-ST15-002",
         "E-ST15-003"
       ],
-      "review_started_at": "2026-09-04T11:32:52.296618+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:02:50.467671+00:00",
+      "review_completed_at": "2026-09-06T08:04:22.454646+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Vaccines, Monoclonal Antibodies and Biopharma"
     },
     {
@@ -21221,8 +21221,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\16-Nanotechnology-and-Applications",
-      "source_record_id": "science-and-technology-16:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-16:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21264,9 +21264,9 @@
         "E-ST16-002",
         "E-ST16-003"
       ],
-      "review_started_at": "2026-09-04T11:33:33.668095+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:05:23.024339+00:00",
+      "review_completed_at": "2026-09-06T08:07:07.784698+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Nanotechnology and Applications"
     },
     {
@@ -21277,8 +21277,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\17-Intellectual-Property-Rights-and-Patents",
-      "source_record_id": "science-and-technology-17:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-17:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21320,9 +21320,9 @@
         "E-ST17-002",
         "E-ST17-003"
       ],
-      "review_started_at": "2026-09-04T11:34:15.945732+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:08:54.539803+00:00",
+      "review_completed_at": "2026-09-06T08:10:40.369994+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Intellectual Property Rights and Patents"
     },
     {
@@ -21333,8 +21333,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\18-Electric-Vehicles-ce6f0971-Alternative-Fuels",
-      "source_record_id": "science-and-technology-18:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-18:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21376,9 +21376,9 @@
         "E-ST18-002",
         "E-ST18-003"
       ],
-      "review_started_at": "2026-09-04T11:34:56.409685+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:11:46.320993+00:00",
+      "review_completed_at": "2026-09-06T08:13:24.240881+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Electric Vehicles, Batteries and Alternative Fuels"
     },
     {
@@ -21389,8 +21389,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\19-Drones-UAVs-and-Robotics-Policy",
-      "source_record_id": "science-and-technology-19:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-19:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21432,9 +21432,9 @@
         "E-ST19-002",
         "E-ST19-003"
       ],
-      "review_started_at": "2026-09-04T11:35:41.894900+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:14:30.362613+00:00",
+      "review_completed_at": "2026-09-06T08:16:20.669924+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Drones, UAVs and Robotics Policy"
     },
     {
@@ -21445,8 +21445,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\20-Emerging-480430cc-Critical-Minerals",
-      "source_record_id": "science-and-technology-20:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-20:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21488,9 +21488,9 @@
         "E-ST20-002",
         "E-ST20-003"
       ],
-      "review_started_at": "2026-09-04T11:36:32.729899+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:17:31.082183+00:00",
+      "review_completed_at": "2026-09-06T08:19:26.085963+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Emerging Materials, Rare Earths and Critical Minerals"
     },
     {
@@ -21501,8 +21501,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\21-General-Science-Physics-Fundamentals",
-      "source_record_id": "science-and-technology-21:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-21:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21544,9 +21544,9 @@
         "E-ST21-002",
         "E-ST21-003"
       ],
-      "review_started_at": "2026-09-04T11:37:22.128527+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:20:36.248480+00:00",
+      "review_completed_at": "2026-09-06T08:22:29.575496+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — General Science: Physics Fundamentals"
     },
     {
@@ -21557,8 +21557,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\22-General-Science-Chemistry-Fundamentals",
-      "source_record_id": "science-and-technology-22:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-22:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21600,9 +21600,9 @@
         "E-ST22-002",
         "E-ST22-003"
       ],
-      "review_started_at": "2026-09-04T11:38:09.335644+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:23:32.084830+00:00",
+      "review_completed_at": "2026-09-06T08:25:12.925426+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — General Science: Chemistry Fundamentals"
     },
     {
@@ -21613,8 +21613,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\23-General-Science-Biology-and-Physiology",
-      "source_record_id": "science-and-technology-23:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-23:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21656,9 +21656,9 @@
         "E-ST23-002",
         "E-ST23-003"
       ],
-      "review_started_at": "2026-09-04T11:38:48.986042+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:26:15.326764+00:00",
+      "review_completed_at": "2026-09-06T08:27:55.465257+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — General Science: Biology and Physiology"
     },
     {
@@ -21669,8 +21669,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\24-S-and-T-Institutions-DST-CSIR-ANRF",
-      "source_record_id": "science-and-technology-24:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-24:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21712,9 +21712,9 @@
         "E-ST24-002",
         "E-ST24-003"
       ],
-      "review_started_at": "2026-09-04T11:39:27.917897+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:28:57.253567+00:00",
+      "review_completed_at": "2026-09-06T08:30:38.142231+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — S&T Institutions: DST, CSIR, ANRF"
     },
     {
@@ -21725,8 +21725,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\25-Computing-dace250e-and-Cloud",
-      "source_record_id": "science-and-technology-25:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-25:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21768,9 +21768,9 @@
         "E-ST25-002",
         "E-ST25-003"
       ],
-      "review_started_at": "2026-09-04T11:40:14.963831+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:32:06.101978+00:00",
+      "review_completed_at": "2026-09-06T08:33:03.408263+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Computing Fundamentals: Hardware, Software, Networks and Cloud"
     },
     {
@@ -21781,8 +21781,8 @@
       "subject": "Science and Technology",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Science and Technology\\Subject-wide Syllabus\\26-Scientific-fcde18aa-and-Scientists",
-      "source_record_id": "science-and-technology-26:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "science-and-technology-26:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21824,9 +21824,9 @@
         "E-ST26-002",
         "E-ST26-003"
       ],
-      "review_started_at": "2026-09-04T11:40:56.357718+00:00",
-      "review_completed_at": "2026-09-04T11:48:03.749725+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:34:21.599275+00:00",
+      "review_completed_at": "2026-09-06T08:35:18.031778+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Science and Technology — Subject-wide Syllabus — Scientific Discoveries, Nobel Prizes and Scientists"
     },
     {
@@ -21837,8 +21837,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\01-Internal-Security-Foundations-and-Governance",
-      "source_record_id": "internal-security-01:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "internal-security-01:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21871,18 +21871,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST01-001",
-        "MD-ST01-002",
-        "MD-ST01-003"
+        "MD-IS01-001",
+        "MD-IS01-002",
+        "MD-IS01-003"
       ],
       "evidence_ids": [
-        "E-ST01-001",
-        "E-ST01-002",
-        "E-ST01-003"
+        "E-IS01-001",
+        "E-IS01-002",
+        "E-IS01-003"
       ],
-      "review_started_at": "2026-09-04T13:02:45.130017+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:47:03.554412+00:00",
+      "review_completed_at": "2026-09-06T08:47:59.443832+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Internal-Security Foundations and Governance"
     },
     {
@@ -21893,8 +21893,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\02-Terrorism-and-Counter-Terror-Architecture",
-      "source_record_id": "internal-security-02:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-02:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21927,18 +21927,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST02-001",
-        "MD-ST02-002",
-        "MD-ST02-003"
+        "MD-IS02-001",
+        "MD-IS02-002",
+        "MD-IS02-003"
       ],
       "evidence_ids": [
-        "E-ST02-001",
-        "E-ST02-002",
-        "E-ST02-003"
+        "E-IS02-001",
+        "E-IS02-002",
+        "E-IS02-003"
       ],
-      "review_started_at": "2026-09-04T13:03:27.464135+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:48:54.504693+00:00",
+      "review_completed_at": "2026-09-06T08:50:01.258004+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Terrorism and Counter-Terror Architecture"
     },
     {
@@ -21949,8 +21949,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\03-Left-Wing-Extremism-and-Integrated-Response",
-      "source_record_id": "internal-security-03:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-03:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -21983,18 +21983,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST03-001",
-        "MD-ST03-002",
-        "MD-ST03-003"
+        "MD-IS03-001",
+        "MD-IS03-002",
+        "MD-IS03-003"
       ],
       "evidence_ids": [
-        "E-ST03-001",
-        "E-ST03-002",
-        "E-ST03-003"
+        "E-IS03-001",
+        "E-IS03-002",
+        "E-IS03-003"
       ],
-      "review_started_at": "2026-09-04T13:04:08.570816+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:50:46.953594+00:00",
+      "review_completed_at": "2026-09-06T08:51:43.138587+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Left-Wing Extremism and Integrated Response"
     },
     {
@@ -22005,8 +22005,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\04-North-East-Insurgency-and-Peace-Processes",
-      "source_record_id": "internal-security-04:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-04:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22039,18 +22039,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST04-001",
-        "MD-ST04-002",
-        "MD-ST04-003"
+        "MD-IS04-001",
+        "MD-IS04-002",
+        "MD-IS04-003"
       ],
       "evidence_ids": [
-        "E-ST04-001",
-        "E-ST04-002",
-        "E-ST04-003"
+        "E-IS04-001",
+        "E-IS04-002",
+        "E-IS04-003"
       ],
-      "review_started_at": "2026-09-04T13:04:50.723751+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:53:11.681259+00:00",
+      "review_completed_at": "2026-09-06T08:54:45.945414+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — North-East Insurgency and Peace Processes"
     },
     {
@@ -22061,8 +22061,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism",
-      "source_record_id": "internal-security-05:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-05:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22095,18 +22095,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST05-001",
-        "MD-ST05-002",
-        "MD-ST05-003"
+        "MD-IS05-001",
+        "MD-IS05-002",
+        "MD-IS05-003"
       ],
       "evidence_ids": [
-        "E-ST05-001",
-        "E-ST05-002",
-        "E-ST05-003"
+        "E-IS05-001",
+        "E-IS05-002",
+        "E-IS05-003"
       ],
-      "review_started_at": "2026-09-04T13:05:32.970207+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T08:55:35.994618+00:00",
+      "review_completed_at": "2026-09-06T08:59:47.497591+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Jammu & Kashmir and Cross-Border Terrorism"
     },
     {
@@ -22117,8 +22117,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\06-Border-Management-and-Border-Area-Development",
-      "source_record_id": "internal-security-06:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-06:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22151,18 +22151,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST06-001",
-        "MD-ST06-002",
-        "MD-ST06-003"
+        "MD-IS06-001",
+        "MD-IS06-002",
+        "MD-IS06-003"
       ],
       "evidence_ids": [
-        "E-ST06-001",
-        "E-ST06-002",
-        "E-ST06-003"
+        "E-IS06-001",
+        "E-IS06-002",
+        "E-IS06-003"
       ],
-      "review_started_at": "2026-09-04T13:06:15.430744+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:00:27.990829+00:00",
+      "review_completed_at": "2026-09-06T09:01:17.352259+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Border Management and Border Area Development"
     },
     {
@@ -22173,8 +22173,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\07-Maritime-and-Coastal-Security",
-      "source_record_id": "internal-security-07:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-07:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22207,18 +22207,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST07-001",
-        "MD-ST07-002",
-        "MD-ST07-003"
+        "MD-IS07-001",
+        "MD-IS07-002",
+        "MD-IS07-003"
       ],
       "evidence_ids": [
-        "E-ST07-001",
-        "E-ST07-002",
-        "E-ST07-003"
+        "E-IS07-001",
+        "E-IS07-002",
+        "E-IS07-003"
       ],
-      "review_started_at": "2026-09-04T13:06:40.782788+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:02:08.768230+00:00",
+      "review_completed_at": "2026-09-06T09:03:36.224304+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Maritime and Coastal Security"
     },
     {
@@ -22229,8 +22229,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\08-Cyber-Security-CII-and-Cybercrime",
-      "source_record_id": "internal-security-08:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-08:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22263,18 +22263,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST08-001",
-        "MD-ST08-002",
-        "MD-ST08-003"
+        "MD-IS08-001",
+        "MD-IS08-002",
+        "MD-IS08-003"
       ],
       "evidence_ids": [
-        "E-ST08-001",
-        "E-ST08-002",
-        "E-ST08-003"
+        "E-IS08-001",
+        "E-IS08-002",
+        "E-IS08-003"
       ],
-      "review_started_at": "2026-09-04T13:07:05.693111+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:04:26.386577+00:00",
+      "review_completed_at": "2026-09-06T09:05:52.854811+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Cyber Security, CII and Cybercrime"
     },
     {
@@ -22285,8 +22285,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\09-Social-Media-b3ee9b9f-Information-Warfare",
-      "source_record_id": "internal-security-09:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-09:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22319,18 +22319,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST09-001",
-        "MD-ST09-002",
-        "MD-ST09-003"
+        "MD-IS09-001",
+        "MD-IS09-002",
+        "MD-IS09-003"
       ],
       "evidence_ids": [
-        "E-ST09-001",
-        "E-ST09-002",
-        "E-ST09-003"
+        "E-IS09-001",
+        "E-IS09-002",
+        "E-IS09-003"
       ],
-      "review_started_at": "2026-09-04T13:07:31.307350+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:06:35.415232+00:00",
+      "review_completed_at": "2026-09-06T09:07:28.127843+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Social Media, Encrypted Messaging and Information Warfare"
     },
     {
@@ -22341,8 +22341,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\10-Terror-Financing-Money-Laundering-and-FATF",
-      "source_record_id": "internal-security-10:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-10:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22375,18 +22375,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST10-001",
-        "MD-ST10-002",
-        "MD-ST10-003"
+        "MD-IS10-001",
+        "MD-IS10-002",
+        "MD-IS10-003"
       ],
       "evidence_ids": [
-        "E-ST10-001",
-        "E-ST10-002",
-        "E-ST10-003"
+        "E-IS10-001",
+        "E-IS10-002",
+        "E-IS10-003"
       ],
-      "review_started_at": "2026-09-04T13:08:10.734723+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:08:04.572079+00:00",
+      "review_completed_at": "2026-09-06T09:09:00.663311+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Terror Financing, Money Laundering and FATF"
     },
     {
@@ -22397,8 +22397,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\11-Organised-Crime-Narco-Terrorism-and-Trafficking",
-      "source_record_id": "internal-security-11:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-11:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22431,18 +22431,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST11-001",
-        "MD-ST11-002",
-        "MD-ST11-003"
+        "MD-IS11-001",
+        "MD-IS11-002",
+        "MD-IS11-003"
       ],
       "evidence_ids": [
-        "E-ST11-001",
-        "E-ST11-002",
-        "E-ST11-003"
+        "E-IS11-001",
+        "E-IS11-002",
+        "E-IS11-003"
       ],
-      "review_started_at": "2026-09-04T13:08:39.495867+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:09:37.799677+00:00",
+      "review_completed_at": "2026-09-06T09:10:29.367674+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Organised Crime, Narco-Terrorism and Trafficking"
     },
     {
@@ -22453,8 +22453,8 @@
       "subject": "Internal Security",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Internal Security\\Subject-wide Syllabus\\12-Security-Forces-Intelligence-Coordination-and-Rights",
-      "source_record_id": "internal-security-12:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "internal-security-12:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22487,18 +22487,18 @@
       },
       "md_change_required": false,
       "md_change_ids": [
-        "MD-ST12-001",
-        "MD-ST12-002",
-        "MD-ST12-003"
+        "MD-IS12-001",
+        "MD-IS12-002",
+        "MD-IS12-003"
       ],
       "evidence_ids": [
-        "E-ST12-001",
-        "E-ST12-002",
-        "E-ST12-003"
+        "E-IS12-001",
+        "E-IS12-002",
+        "E-IS12-003"
       ],
-      "review_started_at": "2026-09-04T13:09:03.627945+00:00",
-      "review_completed_at": "2026-09-04T13:13:16.881250+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:11:05.223535+00:00",
+      "review_completed_at": "2026-09-06T09:11:56.983176+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local technical, actor, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Internal Security — Subject-wide Syllabus — Security Forces, Intelligence Coordination and Rights"
     },
     {
@@ -22509,8 +22509,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\01-Concepts-Risk-Resilience-and-Sendai",
-      "source_record_id": "disaster-management-01:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "disaster-management-01:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22552,9 +22552,9 @@
         "E-DM01-002",
         "E-DM01-003"
       ],
-      "review_started_at": "2026-09-04T14:02:46.910189+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:22:59.726115+00:00",
+      "review_completed_at": "2026-09-06T09:23:49.406213+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Concepts, Risk, Resilience and Sendai"
     },
     {
@@ -22565,8 +22565,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\02-Indian-Legal-and-Institutional-Architecture",
-      "source_record_id": "disaster-management-02:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-02:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22608,9 +22608,9 @@
         "E-DM02-002",
         "E-DM02-003"
       ],
-      "review_started_at": "2026-09-04T14:04:30.302503+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:25:26.901730+00:00",
+      "review_completed_at": "2026-09-06T09:26:11.396902+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Indian Legal and Institutional Architecture"
     },
     {
@@ -22621,8 +22621,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\03-Community-Based-DRR-and-Inclusive-Protection",
-      "source_record_id": "disaster-management-03:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-03:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22664,9 +22664,9 @@
         "E-DM03-002",
         "E-DM03-003"
       ],
-      "review_started_at": "2026-09-04T14:05:14.866012+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:26:56.042811+00:00",
+      "review_completed_at": "2026-09-06T09:27:45.192930+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Community-Based DRR and Inclusive Protection"
     },
     {
@@ -22677,8 +22677,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\04-Multi-Hazard-Early-Warning-and-Disaster-Technology",
-      "source_record_id": "disaster-management-04:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-04:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22720,9 +22720,9 @@
         "E-DM04-002",
         "E-DM04-003"
       ],
-      "review_started_at": "2026-09-04T14:05:55.050718+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:28:26.593994+00:00",
+      "review_completed_at": "2026-09-06T09:29:48.851945+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Multi-Hazard Early Warning and Disaster Technology"
     },
     {
@@ -22733,8 +22733,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\05-Earthquake-Risk-and-Resilient-Construction",
-      "source_record_id": "disaster-management-05:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-05:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22776,9 +22776,9 @@
         "E-DM05-002",
         "E-DM05-003"
       ],
-      "review_started_at": "2026-09-04T14:06:35.803107+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:30:39.634571+00:00",
+      "review_completed_at": "2026-09-06T09:32:07.598046+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Earthquake Risk and Resilient Construction"
     },
     {
@@ -22789,8 +22789,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\06-Tsunami-and-Coastal-Hazard-Management",
-      "source_record_id": "disaster-management-06:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-06:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22832,9 +22832,9 @@
         "E-DM06-002",
         "E-DM06-003"
       ],
-      "review_started_at": "2026-09-04T14:07:16.461139+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:32:56.582747+00:00",
+      "review_completed_at": "2026-09-06T09:33:54.677904+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Tsunami and Coastal Hazard Management"
     },
     {
@@ -22845,8 +22845,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\07-Cyclones-Storm-Surge-and-Coastal-Preparedness",
-      "source_record_id": "disaster-management-07:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-07:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22888,9 +22888,9 @@
         "E-DM07-002",
         "E-DM07-003"
       ],
-      "review_started_at": "2026-09-04T14:07:59.676816+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:34:49.103966+00:00",
+      "review_completed_at": "2026-09-06T09:36:23.144699+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Cyclones, Storm Surge and Coastal Preparedness"
     },
     {
@@ -22901,8 +22901,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\08-Riverine-Floods-and-Urban-Flood-Resilience",
-      "source_record_id": "disaster-management-08:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-08:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -22944,9 +22944,9 @@
         "E-DM08-002",
         "E-DM08-003"
       ],
-      "review_started_at": "2026-09-04T14:08:39.573941+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:37:23.014898+00:00",
+      "review_completed_at": "2026-09-06T09:38:52.748303+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Riverine Floods and Urban Flood Resilience"
     },
     {
@@ -22957,8 +22957,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\09-Drought-Heat-Waves-and-Slow-Onset-Risk",
-      "source_record_id": "disaster-management-09:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-09:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23000,9 +23000,9 @@
         "E-DM09-002",
         "E-DM09-003"
       ],
-      "review_started_at": "2026-09-04T14:09:20.226280+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:39:47.953579+00:00",
+      "review_completed_at": "2026-09-06T09:40:52.075782+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Drought, Heat Waves and Slow-Onset Risk"
     },
     {
@@ -23013,8 +23013,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\10-Landslides-Avalanches-and-GLOF-Risk",
-      "source_record_id": "disaster-management-10:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-10:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23056,9 +23056,9 @@
         "E-DM10-002",
         "E-DM10-003"
       ],
-      "review_started_at": "2026-09-04T14:10:02.370382+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:42:05.827414+00:00",
+      "review_completed_at": "2026-09-06T09:43:52.780383+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Landslides, Avalanches and GLOF Risk"
     },
     {
@@ -23069,8 +23069,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\11-Forest-Fire-Risk-Management",
-      "source_record_id": "disaster-management-11:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-11:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23112,9 +23112,9 @@
         "E-DM11-002",
         "E-DM11-003"
       ],
-      "review_started_at": "2026-09-04T14:10:43.946162+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:45:00.536316+00:00",
+      "review_completed_at": "2026-09-06T09:46:32.024683+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Forest Fire Risk Management"
     },
     {
@@ -23125,8 +23125,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies",
-      "source_record_id": "disaster-management-12:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-12:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23168,9 +23168,9 @@
         "E-DM12-002",
         "E-DM12-003"
       ],
-      "review_started_at": "2026-09-04T14:11:23.748215+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:47:14.707929+00:00",
+      "review_completed_at": "2026-09-06T09:48:04.217875+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Industrial, Chemical, Nuclear and CBRN Emergencies"
     },
     {
@@ -23181,8 +23181,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\13-Epidemics-and-Public-Health-Emergencies",
-      "source_record_id": "disaster-management-13:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-13:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23224,9 +23224,9 @@
         "E-DM13-002",
         "E-DM13-003"
       ],
-      "review_started_at": "2026-09-04T14:12:03.264670+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:48:47.462085+00:00",
+      "review_completed_at": "2026-09-06T09:49:44.380523+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Epidemics and Public Health Emergencies"
     },
     {
@@ -23237,8 +23237,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\14-Urban-and-Critical-Infrastructure-Resilience",
-      "source_record_id": "disaster-management-14:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-14:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23280,9 +23280,9 @@
         "E-DM14-002",
         "E-DM14-003"
       ],
-      "review_started_at": "2026-09-04T14:12:44.976047+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:50:58.227952+00:00",
+      "review_completed_at": "2026-09-06T09:51:54.258667+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Urban and Critical Infrastructure Resilience"
     },
     {
@@ -23293,8 +23293,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\15-Climate-Risk-Adaptation-and-Loss-and-Damage",
-      "source_record_id": "disaster-management-15:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-15:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23336,9 +23336,9 @@
         "E-DM15-002",
         "E-DM15-003"
       ],
-      "review_started_at": "2026-09-04T14:13:28.965876+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:53:28.561325+00:00",
+      "review_completed_at": "2026-09-06T09:54:51.595694+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Climate Risk, Adaptation and Loss and Damage"
     },
     {
@@ -23349,8 +23349,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\16-Disaster-Finance-d690a5b5-Build-Back-Better",
-      "source_record_id": "disaster-management-16:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-16:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23392,9 +23392,9 @@
         "E-DM16-002",
         "E-DM16-003"
       ],
-      "review_started_at": "2026-09-04T14:14:03.823825+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:55:41.352061+00:00",
+      "review_completed_at": "2026-09-06T09:56:35.226417+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Disaster Finance, Risk Transfer and Build Back Better"
     },
     {
@@ -23405,8 +23405,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\17-Humanitarian-a163aad9-and-Recovery",
-      "source_record_id": "disaster-management-17:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-17:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23448,9 +23448,9 @@
         "E-DM17-002",
         "E-DM17-003"
       ],
-      "review_started_at": "2026-09-04T14:14:28.972023+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:57:13.703197+00:00",
+      "review_completed_at": "2026-09-06T09:58:01.574166+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Humanitarian Logistics, Relief, Rehabilitation and Recovery"
     },
     {
@@ -23461,8 +23461,8 @@
       "subject": "Disaster Management",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Disaster Management\\Subject-wide Syllabus\\18-Governance-Capacity-and-International-Cooperation",
-      "source_record_id": "disaster-management-18:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "disaster-management-18:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23504,9 +23504,9 @@
         "E-DM18-002",
         "E-DM18-003"
       ],
-      "review_started_at": "2026-09-04T14:14:54.470489+00:00",
-      "review_completed_at": "2026-09-04T14:17:00.647458+00:00",
-      "reviewer_notes": "Command-start baseline 95/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
+      "review_started_at": "2026-09-06T09:58:57.641830+00:00",
+      "review_completed_at": "2026-09-06T09:59:44.174847+00:00",
+      "reviewer_notes": "Command-start baseline 97/100; immutable successor 98/100. Basic, substantive canonical provenance, Advanced and routed PYQ/cross-owners remained hash-locked; generation-local hazard, institutional, unit/date/status, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Disaster Management — Subject-wide Syllabus — Governance, Capacity and International Cooperation"
     },
     {
@@ -23517,8 +23517,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\01-Ethics-and-Human-Interface",
-      "source_record_id": "ethics-01:learner-v2:g5",
-      "source_generation": 5,
+      "source_record_id": "ethics-01:learner-v2:g6",
+      "source_generation": 6,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23560,8 +23560,8 @@
         "E-ETH01-002",
         "E-ETH01-003"
       ],
-      "review_started_at": "2026-09-02T12:30:30.539668+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:12:08.965779+00:00",
+      "review_completed_at": "2026-09-06T10:13:20.559277+00:00",
       "reviewer_notes": "Command-start baseline 89/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Ethics and Human Interface"
     },
@@ -23573,8 +23573,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\02-Human-Values-and-Lessons-from-Leaders",
-      "source_record_id": "ethics-02:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-02:learner-v2:g5",
+      "source_generation": 5,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23616,8 +23616,8 @@
         "E-ETH02-002",
         "E-ETH02-003"
       ],
-      "review_started_at": "2026-09-02T12:34:03.093420+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:14:01.428884+00:00",
+      "review_completed_at": "2026-09-06T10:16:46.736392+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Human Values and Lessons from Leaders"
     },
@@ -23629,8 +23629,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\03-Attitude-Content-Structure-and-Persuasion",
-      "source_record_id": "ethics-03:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-03:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23672,8 +23672,8 @@
         "E-ETH03-002",
         "E-ETH03-003"
       ],
-      "review_started_at": "2026-09-02T12:34:41.026495+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:17:43.556613+00:00",
+      "review_completed_at": "2026-09-06T10:18:41.367098+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Attitude: Content, Structure and Persuasion"
     },
@@ -23685,8 +23685,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\04-Aptitude-and-Foundational-Values-for-Civil-Service",
-      "source_record_id": "ethics-04:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-04:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23728,8 +23728,8 @@
         "E-ETH04-002",
         "E-ETH04-003"
       ],
-      "review_started_at": "2026-09-02T12:35:20.314640+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:19:18.625046+00:00",
+      "review_completed_at": "2026-09-06T10:20:36.738644+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Aptitude and Foundational Values for Civil Service"
     },
@@ -23741,8 +23741,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\05-Emotional-Intelligence-in-Administration",
-      "source_record_id": "ethics-05:learner-v2:g4",
-      "source_generation": 4,
+      "source_record_id": "ethics-05:learner-v2:g5",
+      "source_generation": 5,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23784,8 +23784,8 @@
         "E-ETH05-002",
         "E-ETH05-003"
       ],
-      "review_started_at": "2026-09-02T12:35:57.700332+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:21:16.216251+00:00",
+      "review_completed_at": "2026-09-06T10:22:18.315532+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Emotional Intelligence in Administration"
     },
@@ -23797,8 +23797,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\06-Indian-Moral-Thinkers-and-Philosophers",
-      "source_record_id": "ethics-06:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-06:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23840,8 +23840,8 @@
         "E-ETH06-002",
         "E-ETH06-003"
       ],
-      "review_started_at": "2026-09-02T12:39:40.704937+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:22:57.334326+00:00",
+      "review_completed_at": "2026-09-06T10:26:07.521624+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Indian Moral Thinkers and Philosophers"
     },
@@ -23853,8 +23853,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\07-Western-Moral-Philosophers-and-Thinkers",
-      "source_record_id": "ethics-07:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-07:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23896,8 +23896,8 @@
         "E-ETH07-002",
         "E-ETH07-003"
       ],
-      "review_started_at": "2026-09-02T12:40:05.327357+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:26:55.472296+00:00",
+      "review_completed_at": "2026-09-06T10:27:55.323651+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Western Moral Philosophers and Thinkers"
     },
@@ -23909,8 +23909,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\08-Moral-Theories-Deontology-Consequentialism-Virtue-Ethics",
-      "source_record_id": "ethics-08:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-08:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -23952,8 +23952,8 @@
         "E-ETH08-002",
         "E-ETH08-003"
       ],
-      "review_started_at": "2026-09-02T12:40:28.803109+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:28:31.103240+00:00",
+      "review_completed_at": "2026-09-06T10:29:28.325361+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Moral Theories: Deontology, Consequentialism, Virtue Ethics"
     },
@@ -23965,8 +23965,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\09-Public-Service-Values-Status-and-Ethical-Dilemmas",
-      "source_record_id": "ethics-09:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-09:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24008,8 +24008,8 @@
         "E-ETH09-002",
         "E-ETH09-003"
       ],
-      "review_started_at": "2026-09-02T12:40:52.828662+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:30:05.876432+00:00",
+      "review_completed_at": "2026-09-06T10:31:18.991950+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Public Service Values, Status and Ethical Dilemmas"
     },
@@ -24021,8 +24021,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience",
-      "source_record_id": "ethics-10:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-10:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24064,8 +24064,8 @@
         "E-ETH10-002",
         "E-ETH10-003"
       ],
-      "review_started_at": "2026-09-02T12:41:14.671286+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:32:04.581453+00:00",
+      "review_completed_at": "2026-09-06T10:33:26.427118+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Sources of Ethical Guidance: Laws, Rules, Conscience"
     },
@@ -24077,8 +24077,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\11-Accountability-and-Ethical-Governance",
-      "source_record_id": "ethics-11:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-11:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24120,8 +24120,8 @@
         "E-ETH11-002",
         "E-ETH11-003"
       ],
-      "review_started_at": "2026-09-02T12:41:39.827761+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:34:09.547180+00:00",
+      "review_completed_at": "2026-09-06T10:35:26.318795+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Accountability and Ethical Governance"
     },
@@ -24133,8 +24133,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\12-Corporate-Governance-and-International-Ethics",
-      "source_record_id": "ethics-12:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-12:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24176,8 +24176,8 @@
         "E-ETH12-002",
         "E-ETH12-003"
       ],
-      "review_started_at": "2026-09-02T12:42:00.888961+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:36:07.583375+00:00",
+      "review_completed_at": "2026-09-06T10:37:22.692750+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Corporate Governance and International Ethics"
     },
@@ -24189,8 +24189,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\13-Emerging-Ethics-Technology-AI-and-Environment",
-      "source_record_id": "ethics-13:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-13:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24232,8 +24232,8 @@
         "E-ETH13-002",
         "E-ETH13-003"
       ],
-      "review_started_at": "2026-09-02T12:42:22.058739+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:37:57.976125+00:00",
+      "review_completed_at": "2026-09-06T10:39:11.000450+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Emerging Ethics: Technology, AI and Environment"
     },
@@ -24245,8 +24245,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\14-Probity-Concept-and-Philosophical-Basis-of-Governance",
-      "source_record_id": "ethics-14:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-14:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24288,8 +24288,8 @@
         "E-ETH14-002",
         "E-ETH14-003"
       ],
-      "review_started_at": "2026-09-02T12:42:44.422800+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:39:54.295259+00:00",
+      "review_completed_at": "2026-09-06T10:41:11.142583+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Probity: Concept and Philosophical Basis of Governance"
     },
@@ -24301,8 +24301,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\15-Transparency-RTI-and-Information-Sharing",
-      "source_record_id": "ethics-15:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-15:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24344,8 +24344,8 @@
         "E-ETH15-002",
         "E-ETH15-003"
       ],
-      "review_started_at": "2026-09-02T12:43:05.109247+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:41:54.271187+00:00",
+      "review_completed_at": "2026-09-06T10:43:12.731123+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Transparency, RTI and Information Sharing"
     },
@@ -24357,8 +24357,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\16-Codes-of-Ethics-and-Codes-of-Conduct",
-      "source_record_id": "ethics-16:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-16:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24400,8 +24400,8 @@
         "E-ETH16-002",
         "E-ETH16-003"
       ],
-      "review_started_at": "2026-09-02T12:43:30.948139+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:43:58.271422+00:00",
+      "review_completed_at": "2026-09-06T10:45:13.404461+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Codes of Ethics and Codes of Conduct"
     },
@@ -24413,8 +24413,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\17-Citizens-Charters-Work-Culture-and-Service-Delivery",
-      "source_record_id": "ethics-17:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-17:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24456,8 +24456,8 @@
         "E-ETH17-002",
         "E-ETH17-003"
       ],
-      "review_started_at": "2026-09-02T12:43:52.698773+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:45:54.012239+00:00",
+      "review_completed_at": "2026-09-06T10:46:50.791917+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Citizens' Charters, Work Culture and Service Delivery"
     },
@@ -24469,8 +24469,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\18-Utilization-of-Public-Funds-and-Challenges-of-Corruption",
-      "source_record_id": "ethics-18:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-18:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24512,8 +24512,8 @@
         "E-ETH18-002",
         "E-ETH18-003"
       ],
-      "review_started_at": "2026-09-02T12:44:13.617026+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:47:24.554234+00:00",
+      "review_completed_at": "2026-09-06T10:48:39.183640+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Utilization of Public Funds and Challenges of Corruption"
     },
@@ -24525,8 +24525,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\19-Corruption-Legal-Framework",
-      "source_record_id": "ethics-19:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-19:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24568,8 +24568,8 @@
         "E-ETH19-002",
         "E-ETH19-003"
       ],
-      "review_started_at": "2026-09-02T12:44:34.521549+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:49:18.815289+00:00",
+      "review_completed_at": "2026-09-06T10:50:17.027497+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Corruption: Legal Framework"
     },
@@ -24581,8 +24581,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\20-Anti-Corruption-Institutions",
-      "source_record_id": "ethics-20:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-20:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24624,8 +24624,8 @@
         "E-ETH20-002",
         "E-ETH20-003"
       ],
-      "review_started_at": "2026-09-02T12:44:55.396950+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:50:56.879374+00:00",
+      "review_completed_at": "2026-09-06T10:52:07.191201+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Anti-Corruption Institutions"
     },
@@ -24637,8 +24637,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\21-Protecting-Honest-Officials-and-Vigilance-Administration",
-      "source_record_id": "ethics-21:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-21:learner-v2:g5",
+      "source_generation": 5,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24680,8 +24680,8 @@
         "E-ETH21-002",
         "E-ETH21-003"
       ],
-      "review_started_at": "2026-09-02T12:45:16.433954+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:53:25.518255+00:00",
+      "review_completed_at": "2026-09-06T10:57:26.708113+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Protecting Honest Officials and Vigilance Administration"
     },
@@ -24693,8 +24693,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\22-Case-Study-Method-and-Answer-Architecture",
-      "source_record_id": "ethics-22:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-22:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24736,8 +24736,8 @@
         "E-ETH22-002",
         "E-ETH22-003"
       ],
-      "review_started_at": "2026-09-02T12:45:38.373454+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T10:58:21.486281+00:00",
+      "review_completed_at": "2026-09-06T10:59:22.796019+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Case Study Method and Answer Architecture"
     },
@@ -24749,8 +24749,8 @@
       "subject": "Ethics",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Ethics\\Subject-wide Syllabus\\23-Comparative-and-Named-Real-Case-Studies",
-      "source_record_id": "ethics-23:learner-v2:g2",
-      "source_generation": 2,
+      "source_record_id": "ethics-23:learner-v2:g3",
+      "source_generation": 3,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24792,8 +24792,8 @@
         "E-ETH23-002",
         "E-ETH23-003"
       ],
-      "review_started_at": "2026-09-02T12:45:59.876516+00:00",
-      "review_completed_at": "2026-09-02T13:37:57.981244+00:00",
+      "review_started_at": "2026-09-06T11:00:03.468265+00:00",
+      "review_completed_at": "2026-09-06T11:01:04.847320+00:00",
       "reviewer_notes": "Command-start baseline 92/100; immutable successor 98/100. Canonical owners remained hash-locked; generation-local Ethics, answer and dual-flow controls were repaired. Approval remains false.",
       "review_command": "Review final package: Ethics — Subject-wide Syllabus — Comparative and Named Real Case Studies"
     },
@@ -24805,8 +24805,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\01-Nature-and-Significance-of-Political-Theory",
-      "source_record_id": "political-theory-01:learner-v2:g6",
-      "source_generation": 6,
+      "source_record_id": "political-theory-01:learner-v2:g7",
+      "source_generation": 7,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -24833,7 +24833,7 @@
       },
       "issue_counts": {
         "critical": 0,
-        "high": 2,
+        "high": 1,
         "medium": 2,
         "low": 0
       },
@@ -24848,9 +24848,9 @@
         "E-PT01-002",
         "E-PT01-003"
       ],
-      "review_started_at": "2026-08-30T09:19:43.740237+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 87/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:28:54.473517+00:00",
+      "review_completed_at": "2026-09-06T11:31:18.673274+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Nature and Significance of Political Theory"
     },
     {
@@ -24861,63 +24861,7 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\02-Ideology-and-End-of-Ideology",
-      "source_record_id": "political-theory-02:learner-v2:g4",
-      "source_generation": 4,
-      "status": "passed",
-      "artifacts": {
-        "complete_learning_session": "passed",
-        "solved_practice_workbook": "passed",
-        "graphical_flowchart": "passed",
-        "ascii_master_flowchart": "passed",
-        "cross_artifact_reconciliation": "passed"
-      },
-      "scores": {
-        "complete_learning_session": 39,
-        "solved_practice_workbook": 29,
-        "graphical_flowchart": 15,
-        "ascii_master_flowchart": 14,
-        "total": 97
-      },
-      "hard_gates": {
-        "syllabus_core_complete": true,
-        "facts_verified": true,
-        "pyqs_verified": true,
-        "model_answers_marks_worthy": true,
-        "advanced_is_optional": true,
-        "four_artifacts_consistent": true,
-        "current_data_source_dated": true
-      },
-      "issue_counts": {
-        "critical": 0,
-        "high": 2,
-        "medium": 2,
-        "low": 0
-      },
-      "md_change_required": false,
-      "md_change_ids": [
-        "MD-PT02-001",
-        "MD-PT02-002",
-        "MD-PT02-003"
-      ],
-      "evidence_ids": [
-        "E-PT02-001",
-        "E-PT02-002",
-        "E-PT02-003"
-      ],
-      "review_started_at": "2026-08-30T09:22:41.693274+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 87/100; immutable successor 97/100. Approval remains false.",
-      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Ideology and End of Ideology"
-    },
-    {
-      "sequence": 419,
-      "batch": 84,
-      "topic_key": "political-theory-03",
-      "topic_title": "Liberalism and Neoliberalism",
-      "subject": "Political Theory",
-      "section": "Subject-wide Syllabus",
-      "destination_folder": "Political Theory\\Subject-wide Syllabus\\03-Liberalism-and-Neoliberalism",
-      "source_record_id": "political-theory-03:learner-v2:g5",
+      "source_record_id": "political-theory-02:learner-v2:g5",
       "source_generation": 5,
       "status": "passed",
       "artifacts": {
@@ -24945,7 +24889,63 @@
       },
       "issue_counts": {
         "critical": 0,
-        "high": 2,
+        "high": 1,
+        "medium": 2,
+        "low": 0
+      },
+      "md_change_required": false,
+      "md_change_ids": [
+        "MD-PT02-001",
+        "MD-PT02-002",
+        "MD-PT02-003"
+      ],
+      "evidence_ids": [
+        "E-PT02-001",
+        "E-PT02-002",
+        "E-PT02-003"
+      ],
+      "review_started_at": "2026-09-06T11:32:26.261482+00:00",
+      "review_completed_at": "2026-09-06T11:33:23.104651+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
+      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Ideology and End of Ideology"
+    },
+    {
+      "sequence": 419,
+      "batch": 84,
+      "topic_key": "political-theory-03",
+      "topic_title": "Liberalism and Neoliberalism",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "destination_folder": "Political Theory\\Subject-wide Syllabus\\03-Liberalism-and-Neoliberalism",
+      "source_record_id": "political-theory-03:learner-v2:g6",
+      "source_generation": 6,
+      "status": "passed",
+      "artifacts": {
+        "complete_learning_session": "passed",
+        "solved_practice_workbook": "passed",
+        "graphical_flowchart": "passed",
+        "ascii_master_flowchart": "passed",
+        "cross_artifact_reconciliation": "passed"
+      },
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "hard_gates": {
+        "syllabus_core_complete": true,
+        "facts_verified": true,
+        "pyqs_verified": true,
+        "model_answers_marks_worthy": true,
+        "advanced_is_optional": true,
+        "four_artifacts_consistent": true,
+        "current_data_source_dated": true
+      },
+      "issue_counts": {
+        "critical": 0,
+        "high": 1,
         "medium": 2,
         "low": 0
       },
@@ -24960,9 +24960,9 @@
         "E-PT03-002",
         "E-PT03-003"
       ],
-      "review_started_at": "2026-08-30T09:23:16.883634+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 87/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:34:00.761387+00:00",
+      "review_completed_at": "2026-09-06T11:34:50.060299+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Liberalism and Neoliberalism"
     },
     {
@@ -24973,8 +24973,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\04-Marxism-and-Neo-Marxism",
-      "source_record_id": "political-theory-04:learner-v2:g4",
-      "source_generation": 4,
+      "source_record_id": "political-theory-04:learner-v2:g5",
+      "source_generation": 5,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25016,9 +25016,9 @@
         "E-PT04-002",
         "E-PT04-003"
       ],
-      "review_started_at": "2026-08-30T10:00:14.619086+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:35:32.883205+00:00",
+      "review_completed_at": "2026-09-06T11:36:21.416557+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Marxism and Neo-Marxism"
     },
     {
@@ -25029,7 +25029,119 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\05-Socialism-Fascism-Anarchism-and-Gandhism",
-      "source_record_id": "political-theory-05:learner-v2:g4",
+      "source_record_id": "political-theory-05:learner-v2:g5",
+      "source_generation": 5,
+      "status": "passed",
+      "artifacts": {
+        "complete_learning_session": "passed",
+        "solved_practice_workbook": "passed",
+        "graphical_flowchart": "passed",
+        "ascii_master_flowchart": "passed",
+        "cross_artifact_reconciliation": "passed"
+      },
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "hard_gates": {
+        "syllabus_core_complete": true,
+        "facts_verified": true,
+        "pyqs_verified": true,
+        "model_answers_marks_worthy": true,
+        "advanced_is_optional": true,
+        "four_artifacts_consistent": true,
+        "current_data_source_dated": true
+      },
+      "issue_counts": {
+        "critical": 0,
+        "high": 1,
+        "medium": 2,
+        "low": 0
+      },
+      "md_change_required": false,
+      "md_change_ids": [
+        "MD-PT05-001",
+        "MD-PT05-002",
+        "MD-PT05-003"
+      ],
+      "evidence_ids": [
+        "E-PT05-001",
+        "E-PT05-002",
+        "E-PT05-003"
+      ],
+      "review_started_at": "2026-09-06T11:37:00.444502+00:00",
+      "review_completed_at": "2026-09-06T11:37:54.391177+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
+      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Socialism, Fascism, Anarchism and Gandhism"
+    },
+    {
+      "sequence": 422,
+      "batch": 85,
+      "topic_key": "political-theory-06",
+      "topic_title": "Feminism, Sex and Gender",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "destination_folder": "Political Theory\\Subject-wide Syllabus\\06-Feminism-Sex-and-Gender",
+      "source_record_id": "political-theory-06:learner-v2:g7",
+      "source_generation": 7,
+      "status": "passed",
+      "artifacts": {
+        "complete_learning_session": "passed",
+        "solved_practice_workbook": "passed",
+        "graphical_flowchart": "passed",
+        "ascii_master_flowchart": "passed",
+        "cross_artifact_reconciliation": "passed"
+      },
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "hard_gates": {
+        "syllabus_core_complete": true,
+        "facts_verified": true,
+        "pyqs_verified": true,
+        "model_answers_marks_worthy": true,
+        "advanced_is_optional": true,
+        "four_artifacts_consistent": true,
+        "current_data_source_dated": true
+      },
+      "issue_counts": {
+        "critical": 0,
+        "high": 1,
+        "medium": 2,
+        "low": 0
+      },
+      "md_change_required": false,
+      "md_change_ids": [
+        "MD-PT06-001",
+        "MD-PT06-002",
+        "MD-PT06-003"
+      ],
+      "evidence_ids": [
+        "E-PT06-001",
+        "E-PT06-002",
+        "E-PT06-003"
+      ],
+      "review_started_at": "2026-09-06T11:39:04.882619+00:00",
+      "review_completed_at": "2026-09-06T11:40:02.095594+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
+      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Feminism, Sex and Gender"
+    },
+    {
+      "sequence": 423,
+      "batch": 85,
+      "topic_key": "political-theory-07",
+      "topic_title": "Nature of Politics and Communitarianism",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "destination_folder": "Political Theory\\Subject-wide Syllabus\\07-Nature-of-Politics-and-Communitarianism",
+      "source_record_id": "political-theory-07:learner-v2:g4",
       "source_generation": 4,
       "status": "passed",
       "artifacts": {
@@ -25057,119 +25169,7 @@
       },
       "issue_counts": {
         "critical": 0,
-        "high": 2,
-        "medium": 2,
-        "low": 0
-      },
-      "md_change_required": false,
-      "md_change_ids": [
-        "MD-PT05-001",
-        "MD-PT05-002",
-        "MD-PT05-003"
-      ],
-      "evidence_ids": [
-        "E-PT05-001",
-        "E-PT05-002",
-        "E-PT05-003"
-      ],
-      "review_started_at": "2026-08-30T10:00:45.971274+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 87/100; immutable successor 97/100. Approval remains false.",
-      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Socialism, Fascism, Anarchism and Gandhism"
-    },
-    {
-      "sequence": 422,
-      "batch": 85,
-      "topic_key": "political-theory-06",
-      "topic_title": "Feminism, Sex and Gender",
-      "subject": "Political Theory",
-      "section": "Subject-wide Syllabus",
-      "destination_folder": "Political Theory\\Subject-wide Syllabus\\06-Feminism-Sex-and-Gender",
-      "source_record_id": "political-theory-06:learner-v2:g6",
-      "source_generation": 6,
-      "status": "passed",
-      "artifacts": {
-        "complete_learning_session": "passed",
-        "solved_practice_workbook": "passed",
-        "graphical_flowchart": "passed",
-        "ascii_master_flowchart": "passed",
-        "cross_artifact_reconciliation": "passed"
-      },
-      "scores": {
-        "complete_learning_session": 39,
-        "solved_practice_workbook": 29,
-        "graphical_flowchart": 15,
-        "ascii_master_flowchart": 14,
-        "total": 97
-      },
-      "hard_gates": {
-        "syllabus_core_complete": true,
-        "facts_verified": true,
-        "pyqs_verified": true,
-        "model_answers_marks_worthy": true,
-        "advanced_is_optional": true,
-        "four_artifacts_consistent": true,
-        "current_data_source_dated": true
-      },
-      "issue_counts": {
-        "critical": 0,
-        "high": 3,
-        "medium": 2,
-        "low": 0
-      },
-      "md_change_required": false,
-      "md_change_ids": [
-        "MD-PT06-001",
-        "MD-PT06-002",
-        "MD-PT06-003"
-      ],
-      "evidence_ids": [
-        "E-PT06-001",
-        "E-PT06-002",
-        "E-PT06-003"
-      ],
-      "review_started_at": "2026-08-30T10:01:14.472401+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 87/100; immutable successor 97/100. Approval remains false.",
-      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Feminism, Sex and Gender"
-    },
-    {
-      "sequence": 423,
-      "batch": 85,
-      "topic_key": "political-theory-07",
-      "topic_title": "Nature of Politics and Communitarianism",
-      "subject": "Political Theory",
-      "section": "Subject-wide Syllabus",
-      "destination_folder": "Political Theory\\Subject-wide Syllabus\\07-Nature-of-Politics-and-Communitarianism",
-      "source_record_id": "political-theory-07:learner-v2:g3",
-      "source_generation": 3,
-      "status": "passed",
-      "artifacts": {
-        "complete_learning_session": "passed",
-        "solved_practice_workbook": "passed",
-        "graphical_flowchart": "passed",
-        "ascii_master_flowchart": "passed",
-        "cross_artifact_reconciliation": "passed"
-      },
-      "scores": {
-        "complete_learning_session": 39,
-        "solved_practice_workbook": 29,
-        "graphical_flowchart": 15,
-        "ascii_master_flowchart": 14,
-        "total": 97
-      },
-      "hard_gates": {
-        "syllabus_core_complete": true,
-        "facts_verified": true,
-        "pyqs_verified": true,
-        "model_answers_marks_worthy": true,
-        "advanced_is_optional": true,
-        "four_artifacts_consistent": true,
-        "current_data_source_dated": true
-      },
-      "issue_counts": {
-        "critical": 0,
-        "high": 2,
+        "high": 1,
         "medium": 2,
         "low": 0
       },
@@ -25184,9 +25184,9 @@
         "E-PT07-002",
         "E-PT07-003"
       ],
-      "review_started_at": "2026-08-30T10:02:53.479306+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 87/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:40:43.116823+00:00",
+      "review_completed_at": "2026-09-06T11:41:42.344261+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Nature of Politics and Communitarianism"
     },
     {
@@ -25197,8 +25197,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\08-Approaches-Behaviouralism-and-Post-Behaviouralism",
-      "source_record_id": "political-theory-08:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-08:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25225,7 +25225,7 @@
       },
       "issue_counts": {
         "critical": 0,
-        "high": 2,
+        "high": 1,
         "medium": 2,
         "low": 0
       },
@@ -25240,9 +25240,9 @@
         "E-PT08-002",
         "E-PT08-003"
       ],
-      "review_started_at": "2026-08-30T10:03:35.803485+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 87/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:42:23.693537+00:00",
+      "review_completed_at": "2026-09-06T11:43:25.266800+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Approaches, Behaviouralism and Post-Behaviouralism"
     },
     {
@@ -25253,8 +25253,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\09-Interdisciplinary-Political-Analysis",
-      "source_record_id": "political-theory-09:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-09:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25296,9 +25296,9 @@
         "E-PT09-002",
         "E-PT09-003"
       ],
-      "review_started_at": "2026-08-30T10:04:18.352005+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:44:05.779997+00:00",
+      "review_completed_at": "2026-09-06T11:45:01.505922+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Interdisciplinary Political Analysis"
     },
     {
@@ -25309,8 +25309,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\10-State-Civil-Society-Nation-and-Internationalism",
-      "source_record_id": "political-theory-10:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-10:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25352,9 +25352,9 @@
         "E-PT10-002",
         "E-PT10-003"
       ],
-      "review_started_at": "2026-08-30T10:04:57.625864+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:45:48.524209+00:00",
+      "review_completed_at": "2026-09-06T11:46:50.551494+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — State, Civil Society, Nation and Internationalism"
     },
     {
@@ -25365,8 +25365,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\11-Sovereignty-and-Pluralism",
-      "source_record_id": "political-theory-11:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-11:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25408,9 +25408,9 @@
         "E-PT11-002",
         "E-PT11-003"
       ],
-      "review_started_at": "2026-08-30T10:05:39.006566+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:47:32.999616+00:00",
+      "review_completed_at": "2026-09-06T11:48:35.563259+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Sovereignty and Pluralism"
     },
     {
@@ -25421,8 +25421,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\12-Globalisation-and-Challenges-to-Sovereignty",
-      "source_record_id": "political-theory-12:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-12:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25464,9 +25464,9 @@
         "E-PT12-002",
         "E-PT12-003"
       ],
-      "review_started_at": "2026-08-30T10:06:19.942459+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:49:19.014479+00:00",
+      "review_completed_at": "2026-09-06T11:50:24.163354+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Globalisation and Challenges to Sovereignty"
     },
     {
@@ -25477,8 +25477,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\13-Diverse-Perspectives-on-the-State",
-      "source_record_id": "political-theory-13:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-13:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25520,9 +25520,9 @@
         "E-PT13-002",
         "E-PT13-003"
       ],
-      "review_started_at": "2026-08-30T10:06:55.135058+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:51:04.416667+00:00",
+      "review_completed_at": "2026-09-06T11:52:10.729399+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Diverse Perspectives on the State"
     },
     {
@@ -25533,8 +25533,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\14-Political-Obligation-Resistance-and-Law",
-      "source_record_id": "political-theory-14:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-14:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25576,9 +25576,9 @@
         "E-PT14-002",
         "E-PT14-003"
       ],
-      "review_started_at": "2026-08-30T10:07:28.198165+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:52:57.575359+00:00",
+      "review_completed_at": "2026-09-06T11:54:21.283372+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Political Obligation, Resistance and Law"
     },
     {
@@ -25589,8 +25589,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\15-Power-Authority-and-Legitimacy",
-      "source_record_id": "political-theory-15:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-15:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25632,9 +25632,9 @@
         "E-PT15-002",
         "E-PT15-003"
       ],
-      "review_started_at": "2026-08-30T10:08:03.547783+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:55:08.547159+00:00",
+      "review_completed_at": "2026-09-06T11:56:24.199409+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Power, Authority and Legitimacy"
     },
     {
@@ -25645,8 +25645,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\16-Citizenship-and-Its-Critiques",
-      "source_record_id": "political-theory-16:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-16:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25688,9 +25688,9 @@
         "E-PT16-002",
         "E-PT16-003"
       ],
-      "review_started_at": "2026-08-30T10:08:37.183429+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:57:09.637145+00:00",
+      "review_completed_at": "2026-09-06T11:58:27.760178+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Citizenship and Its Critiques"
     },
     {
@@ -25701,8 +25701,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\17-Human-Rights-Civil-Liberties-and-Democratic-Rights",
-      "source_record_id": "political-theory-17:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-17:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25744,9 +25744,9 @@
         "E-PT17-002",
         "E-PT17-003"
       ],
-      "review_started_at": "2026-08-30T10:09:10.264721+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T11:59:14.561221+00:00",
+      "review_completed_at": "2026-09-06T12:00:19.941332+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Human Rights, Civil Liberties and Democratic Rights"
     },
     {
@@ -25757,7 +25757,63 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\18-Liberty-Equality-and-Property",
-      "source_record_id": "political-theory-18:learner-v2:g4",
+      "source_record_id": "political-theory-18:learner-v2:g5",
+      "source_generation": 5,
+      "status": "passed",
+      "artifacts": {
+        "complete_learning_session": "passed",
+        "solved_practice_workbook": "passed",
+        "graphical_flowchart": "passed",
+        "ascii_master_flowchart": "passed",
+        "cross_artifact_reconciliation": "passed"
+      },
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 29,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 97
+      },
+      "hard_gates": {
+        "syllabus_core_complete": true,
+        "facts_verified": true,
+        "pyqs_verified": true,
+        "model_answers_marks_worthy": true,
+        "advanced_is_optional": true,
+        "four_artifacts_consistent": true,
+        "current_data_source_dated": true
+      },
+      "issue_counts": {
+        "critical": 0,
+        "high": 1,
+        "medium": 2,
+        "low": 0
+      },
+      "md_change_required": false,
+      "md_change_ids": [
+        "MD-PT18-001",
+        "MD-PT18-002",
+        "MD-PT18-003"
+      ],
+      "evidence_ids": [
+        "E-PT18-001",
+        "E-PT18-002",
+        "E-PT18-003"
+      ],
+      "review_started_at": "2026-09-06T12:01:06.637739+00:00",
+      "review_completed_at": "2026-09-06T12:02:26.123345+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
+      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Liberty, Equality and Property"
+    },
+    {
+      "sequence": 435,
+      "batch": 87,
+      "topic_key": "political-theory-19",
+      "topic_title": "Justice: Concepts and Dimensions",
+      "subject": "Political Theory",
+      "section": "Subject-wide Syllabus",
+      "destination_folder": "Political Theory\\Subject-wide Syllabus\\19-Justice-Concepts-and-Dimensions",
+      "source_record_id": "political-theory-19:learner-v2:g4",
       "source_generation": 4,
       "status": "passed",
       "artifacts": {
@@ -25785,63 +25841,7 @@
       },
       "issue_counts": {
         "critical": 0,
-        "high": 2,
-        "medium": 2,
-        "low": 0
-      },
-      "md_change_required": false,
-      "md_change_ids": [
-        "MD-PT18-001",
-        "MD-PT18-002",
-        "MD-PT18-003"
-      ],
-      "evidence_ids": [
-        "E-PT18-001",
-        "E-PT18-002",
-        "E-PT18-003"
-      ],
-      "review_started_at": "2026-08-30T10:09:43.981951+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 89/100; immutable successor 97/100. Approval remains false.",
-      "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Liberty, Equality and Property"
-    },
-    {
-      "sequence": 435,
-      "batch": 87,
-      "topic_key": "political-theory-19",
-      "topic_title": "Justice: Concepts and Dimensions",
-      "subject": "Political Theory",
-      "section": "Subject-wide Syllabus",
-      "destination_folder": "Political Theory\\Subject-wide Syllabus\\19-Justice-Concepts-and-Dimensions",
-      "source_record_id": "political-theory-19:learner-v2:g3",
-      "source_generation": 3,
-      "status": "passed",
-      "artifacts": {
-        "complete_learning_session": "passed",
-        "solved_practice_workbook": "passed",
-        "graphical_flowchart": "passed",
-        "ascii_master_flowchart": "passed",
-        "cross_artifact_reconciliation": "passed"
-      },
-      "scores": {
-        "complete_learning_session": 39,
-        "solved_practice_workbook": 29,
-        "graphical_flowchart": 15,
-        "ascii_master_flowchart": 14,
-        "total": 97
-      },
-      "hard_gates": {
-        "syllabus_core_complete": true,
-        "facts_verified": true,
-        "pyqs_verified": true,
-        "model_answers_marks_worthy": true,
-        "advanced_is_optional": true,
-        "four_artifacts_consistent": true,
-        "current_data_source_dated": true
-      },
-      "issue_counts": {
-        "critical": 0,
-        "high": 2,
+        "high": 1,
         "medium": 2,
         "low": 0
       },
@@ -25856,9 +25856,9 @@
         "E-PT19-002",
         "E-PT19-003"
       ],
-      "review_started_at": "2026-08-30T10:11:30.080680+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 89/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T12:03:10.956905+00:00",
+      "review_completed_at": "2026-09-06T12:04:13.543778+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Justice: Concepts and Dimensions"
     },
     {
@@ -25869,8 +25869,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\20-Diverse-Perspectives-on-Justice",
-      "source_record_id": "political-theory-20:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-20:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25912,9 +25912,9 @@
         "E-PT20-002",
         "E-PT20-003"
       ],
-      "review_started_at": "2026-08-30T10:12:03.995589+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T12:04:56.938864+00:00",
+      "review_completed_at": "2026-09-06T12:06:06.430928+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Diverse Perspectives on Justice"
     },
     {
@@ -25925,8 +25925,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\21-Common-Good-and-Community",
-      "source_record_id": "political-theory-21:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-21:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -25953,7 +25953,7 @@
       },
       "issue_counts": {
         "critical": 0,
-        "high": 2,
+        "high": 1,
         "medium": 2,
         "low": 0
       },
@@ -25968,9 +25968,9 @@
         "E-PT21-002",
         "E-PT21-003"
       ],
-      "review_started_at": "2026-08-30T10:12:33.995668+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 89/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T12:06:52.489388+00:00",
+      "review_completed_at": "2026-09-06T12:08:08.111440+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Common Good and Community"
     },
     {
@@ -25981,8 +25981,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\22-Democracy-Representation-and-Liberal-Democracy",
-      "source_record_id": "political-theory-22:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-22:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -26024,9 +26024,9 @@
         "E-PT22-002",
         "E-PT22-003"
       ],
-      "review_started_at": "2026-08-30T10:13:08.819788+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T12:08:54.029653+00:00",
+      "review_completed_at": "2026-09-06T12:10:11.913726+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Democracy, Representation and Liberal Democracy"
     },
     {
@@ -26037,8 +26037,8 @@
       "subject": "Political Theory",
       "section": "Subject-wide Syllabus",
       "destination_folder": "Political Theory\\Subject-wide Syllabus\\23-Contemporary-Democracy-Social-Change-and-Development",
-      "source_record_id": "political-theory-23:learner-v2:g3",
-      "source_generation": 3,
+      "source_record_id": "political-theory-23:learner-v2:g4",
+      "source_generation": 4,
       "status": "passed",
       "artifacts": {
         "complete_learning_session": "passed",
@@ -26080,9 +26080,9 @@
         "E-PT23-002",
         "E-PT23-003"
       ],
-      "review_started_at": "2026-08-30T10:13:47.699292+00:00",
-      "review_completed_at": "2026-08-30T10:17:50.862282+00:00",
-      "reviewer_notes": "Baseline 91/100; immutable successor 97/100. Approval remains false.",
+      "review_started_at": "2026-09-06T12:10:57.005650+00:00",
+      "review_completed_at": "2026-09-06T12:12:04.683685+00:00",
+      "reviewer_notes": "Baseline 97/100; immutable successor 97/100. Approval remains false.",
       "review_command": "Review final package: Political Theory — Subject-wide Syllabus — Contemporary Democracy, Social Change and Development"
     },
     {
@@ -28217,7 +28217,7 @@
       "review_command": "Review final package: Philosophy Optional — Philosophy Paper II — Philosophy of Religion — Nature of Religious Language"
     }
   ],
-  "updated_at": "2026-09-06T06:52:22.245130+00:00",
+  "updated_at": "2026-09-06T12:12:04.683685+00:00",
   "batch_reports": [
     {
       "batch_id": "polity-batch-01",

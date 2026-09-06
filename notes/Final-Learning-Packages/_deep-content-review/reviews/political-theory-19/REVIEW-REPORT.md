@@ -1,17 +1,12 @@
 # Deep Content Review — Political Theory 19: Justice: Concepts and Dimensions
 
-- **Baseline locked:** `political-theory-19:learner-v2:g2` — 89/100
-- **Immutable successor:** `political-theory-19:learner-v2:g3` — 97/100
+- **Baseline locked:** `political-theory-19:learner-v2:g3` — 97/100
+- **Immutable successor:** `political-theory-19:learner-v2:g4` — 97/100
 - **Approval:** false / pending explicit approval
 
 ## Defects reported
 
-- All 19 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.
-- All 19 solved items lack explicit directive-and-demand decoding.
-- All 19 solved items lack an executable mark-scaled compression plan.
-- 2 solved item(s) lack an explicit model-solution label: PYQ 12 — 2025 · 1(b) (10 marks); PYQ 13 — 2023 · Q3(b) (15 marks)
-- 1 model(s) are below the marks-worthy length floor: PYQ 13 — 2023 · Q3(b) (15 marks) (84 words)
-- The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.
+
 
 ## Four-artifact repair and re-review
 

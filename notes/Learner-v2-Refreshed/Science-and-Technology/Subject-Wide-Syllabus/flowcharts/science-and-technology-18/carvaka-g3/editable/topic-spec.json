@@ -1,0 +1,1102 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-18",
+  "subject": "Science-and-Technology",
+  "title": "ELECTRIC VEHICLES, BATTERIES AND ALTERNATIVE FUELS",
+  "short_route": "POWERTRAIN SOURCE-OF-ELECTRICITY MAP → CELL TO PACK SYSTEMS → LITHIUM-ION DISCHARGE RAIL → BATTERY CHEMISTRY DECISION MATRIX → ENERGY AND POWER AXES → AC AND DC CHARGING",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-18-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "4529310d502fcdd8b2410ee1dbe7713bfbece6b07c47794348183e5b8625cfdb",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POWERTRAIN SOURCE-OF-ELECTRICITY MAP",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POWERTRAIN SOURCE-OF-ELECTRICITY MAP",
+          "role": "evidence"
+        },
+        {
+          "text": "BATTERY STORES ALL TRACTION ELECTRICITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ENGINE + REGENERATIVE BRAKING CHARGE NON-PLUG-IN BATTERY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL PLUG + ENGINE BACKUP",
+          "role": "evidence"
+        },
+        {
+          "text": "HYDROGEN FUEL CELL GENERATES ONBOARD ELECTRICITY",
+          "role": "primary"
+        },
+        {
+          "text": "WHERE DOES TRACTION ELECTRICITY ORIGINATE?",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BEV → battery stores all traction electricity",
+        "HEV → engine + regenerative braking charge non-plug-in battery",
+        "PHEV → external plug + engine backup",
+        "FCEV → hydrogen fuel cell generates onboard electricity",
+        "TEST → where does traction electricity originate?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "BEV → battery stores all traction electricity",
+            "HEV → engine + regenerative braking charge non-plug-in battery"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PHEV → external plug + engine backup",
+            "FCEV → hydrogen fuel cell generates onboard electricity"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → where does traction electricity originate?",
+            "BEV → battery stores all traction electricity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FCEV → hydrogen fuel cell generates onboard electricity.",
+      "source_references": [
+        "BEV-HEV-PHEV-FCEV boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CELL TO PACK SYSTEMS HIERARCHY",
+      "structural_type": "nested-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CELL TO PACK SYSTEMS HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTROCHEMICAL UNIT",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUPED CELLS + MECHANICAL INTEGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MODULES/CELLS + ENCLOSURE + BUSBARS + SENSING",
+          "role": "evidence"
+        },
+        {
+          "text": "BMS + CONTACTORS + PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "COOLING/HEATING + PROPAGATION BARRIERS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CELL → electrochemical unit",
+        "MODULE → grouped cells + mechanical integration",
+        "PACK → modules/cells + enclosure + busbars + sensing",
+        "CONTROL → BMS + contactors + protection",
+        "THERMAL → cooling/heating + propagation barriers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CELL → electrochemical unit",
+            "MODULE → grouped cells + mechanical integration"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PACK → modules/cells + enclosure + busbars + sensing",
+            "CONTROL → BMS + contactors + protection"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "THERMAL → cooling/heating + propagation barriers",
+            "CELL → electrochemical unit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PACK → modules/cells + enclosure + busbars + sensing.",
+      "source_references": [
+        "Cell-module-pack hierarchy",
+        "Battery-management system",
+        "Thermal-management system",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LITHIUM-ION DISCHARGE RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LITHIUM-ION DISCHARGE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "RELEASES LI+ DURING DISCHARGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CARRIES IONS",
+          "role": "comparison"
+        },
+        {
+          "text": "BLOCKS DIRECT ELECTRONIC CONTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "RECEIVES LI+ DURING DISCHARGE",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL CIRCUIT",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTRONS POWER MOTOR",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ANODE → releases Li+ during discharge",
+        "ELECTROLYTE → carries ions",
+        "SEPARATOR → blocks direct electronic contact",
+        "CATHODE → receives Li+ during discharge",
+        "EXTERNAL CIRCUIT → electrons power motor"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ANODE → releases Li+ during discharge",
+            "ELECTROLYTE → carries ions"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEPARATOR → blocks direct electronic contact",
+            "CATHODE → receives Li+ during discharge"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "EXTERNAL CIRCUIT → electrons power motor",
+            "ANODE → releases Li+ during discharge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CATHODE → receives Li+ during discharge; EXTERNAL CIRCUIT → electrons power motor.",
+      "source_references": [
+        "Electrochemical core",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BATTERY CHEMISTRY DECISION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BATTERY CHEMISTRY DECISION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "NICKEL-COBALT EXPOSURE; HIGHER-DENSITY DESIGNS",
+          "role": "outcome"
+        },
+        {
+          "text": "NO NICKEL OR COBALT; DIFFERENT DENSITY/SAFETY TRADE-OFF",
+          "role": "caution"
+        },
+        {
+          "text": "CHANGES LITHIUM DEPENDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOLID ELECTROLYTE; PRE-COMMERCIAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "CHEMISTRY DECIDES MINERAL BILL AND ENGINEERING TRADE-OFF",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NMC / NCA → nickel-cobalt exposure; higher-density designs",
+        "LFP → no nickel or cobalt; different density/safety trade-off",
+        "SODIUM-ION → changes lithium dependence",
+        "SOLID-STATE → solid electrolyte; pre-commercial boundary",
+        "RULE → chemistry decides mineral bill and engineering trade-off"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "NMC / NCA → nickel-cobalt exposure; higher-density designs",
+          "SODIUM-ION → changes lithium dependence",
+          "RULE → chemistry decides mineral bill and engineering trade-off"
+        ],
+        [
+          "LFP → no nickel or cobalt; different density/safety trade-off",
+          "SOLID-STATE → solid electrolyte; pre-commercial boundary",
+          "NMC / NCA → nickel-cobalt exposure; higher-density designs"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "NMC / NCA → nickel-cobalt exposure; higher-density designs",
+            "LFP → no nickel or cobalt; different density/safety trade-off"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SODIUM-ION → changes lithium dependence",
+            "SOLID-STATE → solid electrolyte; pre-commercial boundary"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → chemistry decides mineral bill and engineering trade-off",
+            "NMC / NCA → nickel-cobalt exposure; higher-density designs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → chemistry decides mineral bill and engineering trade-off.",
+      "source_references": [
+        "Lithium-ion chemistry boundary",
+        "Next-generation chemistry status",
+        "Critical-mineral and chemistry link",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ENERGY AND POWER AXES",
+      "structural_type": "two-axis-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ENERGY AND POWER AXES",
+          "role": "mechanism"
+        },
+        {
+          "text": "ENERGY DENSITY",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW MUCH ENERGY PER MASS/VOLUME",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER DENSITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "HOW QUICKLY ENERGY IS DELIVERED/ACCEPTED",
+          "role": "primary"
+        },
+        {
+          "text": "ENERGY AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "FAST CHARGE",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER AXIS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ENERGY DENSITY → how much energy per mass/volume",
+        "POWER DENSITY → how quickly energy is delivered/accepted",
+        "RANGE / WEIGHT → energy axis",
+        "ACCELERATION / REGEN / FAST CHARGE → power axis",
+        "TRAP → one metric cannot certify whole-pack performance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ENERGY DENSITY → how much energy per mass/volume",
+            "POWER DENSITY → how quickly energy is delivered/accepted"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "RANGE / WEIGHT → energy axis",
+            "ACCELERATION / REGEN / FAST CHARGE → power axis"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → one metric cannot certify whole-pack performance",
+            "ENERGY DENSITY → how much energy per mass/volume"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → one metric cannot certify whole-pack performance.",
+      "source_references": [
+        "Energy-power density distinction",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AC AND DC CHARGING CONVERSION MAP",
+      "structural_type": "conversion-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AC AND DC CHARGING CONVERSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "GRID AC",
+          "role": "outcome"
+        },
+        {
+          "text": "VEHICLE ONBOARD CHARGER",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATED BATTERY DC",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFBOARD FAST CHARGER",
+          "role": "primary"
+        },
+        {
+          "text": "POWER AND USE CONTEXT",
+          "role": "mechanism"
+        },
+        {
+          "text": "PHYSICAL/ELECTRICAL INTERFACE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNICATION AND CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRID AC → vehicle onboard charger → regulated battery DC",
+        "GRID AC → offboard fast charger → regulated battery DC",
+        "LEVEL → power and use context",
+        "CONNECTOR → physical/electrical interface",
+        "PROTOCOL → communication and control"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "GRID AC → vehicle onboard charger → regulated battery DC",
+            "GRID AC → offboard fast charger → regulated battery DC"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEVEL → power and use context",
+            "CONNECTOR → physical/electrical interface"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "PROTOCOL → communication and control",
+            "GRID AC → vehicle onboard charger → regulated battery DC"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRID AC → offboard fast charger → regulated battery DC.",
+      "source_references": [
+        "Charging level and AC-DC boundary",
+        "Charging standards and interoperability",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CHARGING GOVERNANCE INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CHARGING GOVERNANCE INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "MINISTRY OF POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CHARGING GUIDELINES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONNECTOR AND SAFETY STANDARDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTRICITY-SYSTEM AND ELECTRICAL SAFETY REGULATION",
+          "role": "primary"
+        },
+        {
+          "text": "VEHICLE APPROVAL AND SAFETY",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFICIENCY ROLE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MINISTRY OF POWER → charging guidelines",
+        "BIS → connector and safety standards",
+        "CEA → electricity-system and electrical safety regulation",
+        "MORTH / CMVR → vehicle approval and safety",
+        "BEE → efficiency role"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MINISTRY OF POWER → charging guidelines",
+            "BIS → connector and safety standards"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CEA → electricity-system and electrical safety regulation",
+            "MORTH / CMVR → vehicle approval and safety"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "BEE → efficiency role",
+            "MINISTRY OF POWER → charging guidelines"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MORTH / CMVR → vehicle approval and safety.",
+      "source_references": [
+        "Charging standards and interoperability",
+        "Indian institution and standards map",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BMS AND THERMAL-CONTROL LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BMS AND THERMAL-CONTROL LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATING STATE AND IMBALANCE",
+          "role": "institution"
+        },
+        {
+          "text": "KEEP CELLS IN SUITABLE BAND",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFER OPERATION AND SLOWER DEGRADATION, NOT IMMUNITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SENSE → voltage",
+        "ESTIMATE → operating state and imbalance",
+        "ACT → balance",
+        "COOL / HEAT → keep cells in suitable band",
+        "FEEDBACK → safer operation and slower degradation, not immunity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SENSE → voltage",
+            "ESTIMATE → operating state and imbalance"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ACT → balance",
+            "COOL / HEAT → keep cells in suitable band"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "FEEDBACK → safer operation and slower degradation, not immunity",
+            "SENSE → voltage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEEDBACK → safer operation and slower degradation, not immunity.",
+      "source_references": [
+        "Battery-management system",
+        "Thermal-management system",
+        "Cycle-life and degradation boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DEGRADATION AND SAFETY FAULT TREE",
+      "structural_type": "fault-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEGRADATION AND SAFETY FAULT TREE",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH SOC",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEP CYCLING",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH RATE",
+          "role": "evidence"
+        },
+        {
+          "text": "AGEING PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL HEAT GENERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-HEATING HEAT REMOVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "THERMAL RUNAWAY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HEAT / HIGH SOC / DEEP CYCLING / HIGH RATE → ageing pressure",
+        "DEFECT / ABUSE / SHORT → local heat generation",
+        "SELF-HEATING HEAT REMOVAL → thermal runaway",
+        "CELL EVENT → possible module/pack propagation",
+        "RESPONSE → prevent + detect + contain + emergency action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "HEAT / HIGH SOC / DEEP CYCLING / HIGH RATE → ageing pressure",
+            "DEFECT / ABUSE / SHORT → local heat generation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SELF-HEATING HEAT REMOVAL → thermal runaway",
+            "CELL EVENT → possible module/pack propagation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RESPONSE → prevent + detect + contain + emergency action",
+            "HEAT / HIGH SOC / DEEP CYCLING / HIGH RATE → ageing pressure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESPONSE → prevent + detect + contain + emergency action.",
+      "source_references": [
+        "Cycle-life and degradation boundary",
+        "Thermal-runaway safety chain",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "HYDROGEN MOBILITY CHAIN",
+      "structural_type": "lifecycle-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HYDROGEN MOBILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTION ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "GREY LABEL",
+          "role": "comparison"
+        },
+        {
+          "text": "UPSTREAM BURDEN",
+          "role": "evidence"
+        },
+        {
+          "text": "PEM FUEL CELL",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTROCHEMICAL ELECTRICITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTRIC MOTOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT EXHAUST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRODUCTION ROUTE → green / blue / grey label",
+        "COMPRESSION / TRANSPORT / STORAGE → upstream burden",
+        "PEM FUEL CELL → electrochemical electricity",
+        "ELECTRIC MOTOR → traction",
+        "DIRECT EXHAUST → water + heat; lifecycle remains wider"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PRODUCTION ROUTE → green / blue / grey label",
+            "COMPRESSION / TRANSPORT / STORAGE → upstream burden"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PEM FUEL CELL → electrochemical electricity",
+            "ELECTRIC MOTOR → traction"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "DIRECT EXHAUST → water + heat; lifecycle remains wider",
+            "MUST REMEMBER: Electric mobility separates BEV, HEV, PHEV and fuel-cell architectures;..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Electric mobility separates BEV, HEV, PHEV and fuel-cell architectures;.",
+      "source_references": [
+        "Fuel-cell and hydrogen boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-18_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ALTERNATIVE-FUEL PORTFOLIO",
+      "structural_type": "portfolio-wheel",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ALTERNATIVE-FUEL PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "PETROL-BLEND ENGINE PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "DIESEL-BLEND PATHWAY",
+          "role": "comparison"
+        },
+        {
+          "text": "PURIFIED BIOGAS PATHWAY",
+          "role": "evidence"
+        },
+        {
+          "text": "GASEOUS COMBUSTION FUELS",
+          "role": "primary"
+        },
+        {
+          "text": "HYDROGEN FUEL CELL",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTROCHEMICAL ELECTRIC-DRIVE PATHWAY",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ETHANOL / FLEX-FUEL → petrol-blend engine pathway",
+        "BIODIESEL → diesel-blend pathway",
+        "CBG / SATAT → purified biogas pathway",
+        "CNG / LNG / HCNG → gaseous combustion fuels",
+        "HYDROGEN FUEL CELL → electrochemical electric-drive pathway"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ETHANOL / FLEX-FUEL → petrol-blend engine pathway",
+            "BIODIESEL → diesel-blend pathway"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CBG / SATAT → purified biogas pathway",
+            "CNG / LNG / HCNG → gaseous combustion fuels"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "HYDROGEN FUEL CELL → electrochemical electric-drive pathway",
+            "CLOSE DISTINCTION: Cell is not pack, kW is not kWh, battery capacity is not vehicle..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Cell is not pack, kW is not kWh, battery capacity is not vehicle.",
+      "source_references": [
+        "Alternative-fuel portfolio",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-18_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INDIA TRANSITION AND EVIDENCE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INDIA TRANSITION AND EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "END OF LIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "PM E-DRIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMAND/ECOSYSTEM INSTRUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PM-EBUS SEWA",
+          "role": "primary"
+        },
+        {
+          "text": "NGHM PILOTS",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINCT ROUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TAILPIPE → GRID → MANUFACTURE → END OF LIFE",
+        "MINERALS → CHEMISTRY → RECYCLING / EPR",
+        "PM E-DRIVE → demand/ecosystem instrument",
+        "PLI-AUTO / PLI-ACC / PM-eBUS SEWA / NGHM PILOTS → distinct routes",
+        "APPROVAL → NOTIFICATION → AWARD → COMMISSIONING → DEPLOYMENT → OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "TAILPIPE → GRID → MANUFACTURE → END OF LIFE",
+            "MINERALS → CHEMISTRY → RECYCLING / EPR"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PM E-DRIVE → demand/ecosystem instrument",
+            "PLI-AUTO / PLI-ACC / PM-eBUS SEWA / NGHM PILOTS → distinct routes"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "APPROVAL → NOTIFICATION → AWARD → COMMISSIONING → DEPLOYMENT → OUTCOME",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State vehicle/fuel pathway, chemistry,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State vehicle/fuel pathway, chemistry,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State vehicle/fuel pathway, chemistry,.",
+      "source_references": [
+        "Tailpipe-lifecycle-grid boundary",
+        "Critical-mineral and chemistry link",
+        "Recycling and EPR boundary",
+        "Indian policy-instrument stack",
+        "Announcement-to-deployment firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g2\\science-and-technology-18_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-18_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-18\\g3\\science-and-technology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE QUESTION IS NOT “EV VERSUS NO EV”; IT",
+          "role": "caution"
+        },
+        {
+          "text": "BEVS USUALLY MAKE STRONGEST SENSE WHERE DAILY DRIVING RANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "HYDROGEN MOBILITY IS ANALYTICALLY STRONGER FOR HARD-TO-ELECTRIFY SEGMENTS THAN",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUTINE SMALL PERSONAL TRANSPORT, THOUGH COSTS AND INFRASTRUCTURE REMAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ETHANOL/CNG/LNG MATTER BECAUSE THE MOBILITY TRANSITION IS BROADER THAN",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY OF HEAVY INDUSTRIES",
+          "role": "comparison"
+        },
+        {
+          "text": "PM E-DRIVE AND ACC BATTERY INDUSTRIAL-POLICY ANCHOR.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The question is not “EV versus no EV”; it is which powertrain fits which transport segment .",
+            "CAUTION: BEVs usually make strongest sense where daily driving range is moderate and charging access can be organized.",
+            "CAUTION: Hydrogen mobility is analytically stronger for hard-to-electrify segments than for",
+            "routine small personal transport, though costs and infrastructure remain difficult."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Ethanol/CNG/LNG matter because the mobility transition is broader than battery electrification alone.",
+            "Ministry of Heavy Industries: PM E-DRIVE and ACC battery industrial-policy anchor.",
+            "PM E-DRIVE portal: official implementation interface and public scheme reference.",
+            "ACC battery PLI framework: manufacturing-capacity building, not merely demand subsidy."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Ministry of Power / BEE / BIS / CEA: charging guidelines, standards and power-system interface.",
+            "MNRE: green-hydrogen mission and transport pilot guidelines.",
+            "MoPNG: ethanol-blending and alternative-fuel ecosystem.",
+            "EVs can reduce urban tailpipe emissions and fuel-import vulnerability in selected segments."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

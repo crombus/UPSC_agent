@@ -1,1155 +1,1155 @@
 # Philosophical Quote Decoding — Learner-v2 Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.
+> **Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.
 
 ### SOURCE, PROGRESSION AND OFFICIAL-RULE AUDIT
 
-- **Generation date:** 2026-09-04.
+- **Generation date:** 2026-09-06.
 - **Source order:** canonical Basic owner first; Advanced owner second; Essay master framework, README, official-syllabus map, answer-worthiness audit and revision chart next; PYQ corpus and official OCR papers after that; live official UPSC pages only as a final check.
 - **Basic/Advanced boundary:** complete Basic teaching remains first and Advanced material remains optional and last.
 - **OCR boundary:** Repository Markdown was primary. OCR-searchable official UPSC Essay papers were supplementary only for printed instructions and V1 prompt wording. No author, official model answer, current marks split, phase allocation, paragraph count or scoring rubric was inferred.
 - **Qdrant:** not used; repository Markdown and local official papers were sufficient.
-- **PYQ integrity:** The three cards use exact V1 prompt wording from 2024–2025 and provide method-focused decoding only. No official model answer, author or unique canonical interpretation is claimed.
-- **Live-source boundary:** Official UPSC pages were attempted on 2026-09-04 only to locate paper and notification routes. Exact wording remains controlled by the repository's local V1 audit, and no web attribution or biography was imported.
+- **PYQ integrity:** Three application cards use the repository's explicit V1/V2 status. No unavailable official model answer, marking rubric or attribution is invented.
+- **Live-source boundary:** Live source check dated 2026-09-06: official UPSC routes were attempted and access-blocked; blocked pages support no new claim. UN, WHO and IPCC primary pages were separately checked for cross-theme factual boundaries.
 - **No-formula rule:** strategy, heuristics and practice weights are never presented as official UPSC instructions or marking criteria.
 
 ### LIVE OFFICIAL-SOURCE ATTEMPT LOG
 
-The checks below were made on 2026-09-04. Substantive official text is used only for the proposition it supports; title-only, blocked or thin pages are recorded and supply no factual claim.
+The checks below were made on 2026-09-06. Substantive official text is used only for the proposition it supports; title-only, blocked or thin pages are recorded and supply no factual claim.
 
-- https://upsc.gov.in/examinations/previous-question-papers — attempted 2026-09-04; the official page was access-blocked, so exact prompt wording continues to come only from the repository's V1 paper audit.
-- https://upsc.gov.in/examinations/active-examinations — attempted 2026-09-04; the official page was access-blocked and supplied no attribution, interpretation or current paper instruction.
-- https://upsc.gov.in/sites/default/files/Notif-CSP-2024-Engl-140224.pdf — searched 2026-09-04; the official notification route was logged but was not used to attach authors or canonical meanings to prompts.
+- https://upsc.gov.in/examinations/previous-question-papers — attempted 2026-09-06; official page returned HTTP 403 to the live fetch, so it supports no new wording.
+- https://upsc.gov.in/examinations/active-examinations — attempted 2026-09-06; official page returned HTTP 403 to the live fetch, so it supports no current-paper inference.
+- https://upsc.gov.in/sites/default/files/Notif-CSP-2024-Engl-140224.pdf — searched 2026-09-06; retained only as an official scheme cross-check route, not as an Essay rubric.
 
 ## BASIC LEARNING SESSION
 
-### SESSION 1 — FOUNDATION — Free-standing proposition and content words
+### SESSION 1 — FOUNDATION — Purpose, ownership and prompt fidelity
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Free-standing proposition and content words explains how Free-standing proposition and Content-word inventory combine into one usable Essay-planning move.
+**Plain-language definition:** Purpose, ownership and prompt fidelity explains how Purpose and scope and Exam facts / source basis combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Free-standing proposition and content words should be applied through Free-standing proposition and Content-word inventory, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Purpose, ownership and prompt fidelity should be applied through Purpose and scope and Exam facts / source basis, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Free-standing**
-- **proposition**
-- **content**
-- **words**
-- **Content-word**
-- **inventory**
+- **Purpose**
+- **ownership**
+- **prompt**
+- **fidelity**
+- **scope**
+- **Exam**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 
 #### VISUAL FIRST
 
 ```text
-FREE-STANDING PROPOSITION AND CONTENT WORDS
-01. Free-standing proposition
+PURPOSE, OWNERSHIP AND PROMPT FIDELITY
+01. Purpose and scope
     |
     v
-02. Content-word inventory
-STATUS / CATEGORY FIREWALL -> Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+02. Exam facts / source basis
+STATUS / CATEGORY FIREWALL -> Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test. Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
+Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Free-standing proposition and content words as a sequence: identify Free-standing proposition, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Purpose, ownership and prompt fidelity as a sequence: identify Purpose and scope, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence. This keeps Free-standing proposition and Content-word inventory in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue. This keeps Purpose and scope and Exam facts / source basis in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test.
-- Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
+- Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
+- attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
 
 #### EXAMINER CAUTION
 
-- Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+- Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Free-standing proposition and content words by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Begin with the printed proposition, not a remembered author.
+- **Objective practice:** Apply Purpose, ownership and prompt fidelity by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** State the exact demand and the bounded writing decision.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Free-standing proposition -> Content-word inventory
-- **Qualified use:** Begin with the printed proposition, not a remembered author.
+- **Mechanism chain:** Purpose and scope -> Exam facts / source basis
+- **Qualified use:** State the exact demand and the bounded writing decision.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Free-standing proposition and content words
-EXACT TERMS: Free-standing | proposition | content | words | Content-word | inventory
-MECHANISM / ARGUMENT: connect Free-standing proposition and Content-word inventory without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Begin with the printed proposition, not a remembered author.
-UPSC TRAP / ANSWER-USE: Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+START / CONCEPT: Purpose, ownership and prompt fidelity
+EXACT TERMS: Purpose | ownership | prompt | fidelity | scope | Exam
+MECHANISM / ARGUMENT: connect Purpose and scope and Exam facts / source basis without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: State the exact demand and the bounded writing decision.
+UPSC TRAP / ANSWER-USE: Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 2 — FOUNDATION — Relation and operator types
+### SESSION 2 — FOUNDATION — Purpose and scope
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Relation and operator types explains how Relation or operator combine into one usable Essay-planning move.
+**Plain-language definition:** Purpose and scope explains how Exam facts / source basis — 2 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Relation and operator types should be applied through Relation or operator, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Purpose and scope should be applied through Exam facts / source basis — 2, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Relation**
-- **operator**
-- **types**
-- **prompt's**
-- **operative**
-- **causal**
+- **Purpose**
+- **scope**
+- **Exam**
+- **facts**
+- **basis**
+- **official**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not jump from a literal phrase to an unrelated grand theme.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
 
 #### VISUAL FIRST
 
 ```text
-RELATION AND OPERATOR TYPES
-01. Relation or operator
-STATUS / CATEGORY FIREWALL -> Do not jump from a literal phrase to an unrelated grand theme.
+PURPOSE AND SCOPE
+01. Exam facts / source basis — 2
+STATUS / CATEGORY FIREWALL -> Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
+official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Relation and operator types as a sequence: identify Relation or operator, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Purpose and scope as a sequence: identify Exam facts / source basis — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not jump from a literal phrase to an unrelated grand theme. This keeps Relation or operator in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not cross the ownership boundary: issue-led empirical scoping belongs to 03. This keeps Exam facts / source basis — 2 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
+- official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
 
 #### EXAMINER CAUTION
 
-- Do not jump from a literal phrase to an unrelated grand theme.
+- Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Relation and operator types by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Define the sentence's own terms before importing themes.
+- **Objective practice:** Apply Purpose and scope by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Define operative terms before expanding dimensions.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Relation or operator
-- **Qualified use:** Define the sentence's own terms before importing themes.
+- **Mechanism chain:** Exam facts / source basis — 2
+- **Qualified use:** Define operative terms before expanding dimensions.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Relation and operator types
-EXACT TERMS: Relation | operator | types | prompt's | operative | causal
-MECHANISM / ARGUMENT: connect Relation or operator without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Define the sentence's own terms before importing themes.
-UPSC TRAP / ANSWER-USE: Do not jump from a literal phrase to an unrelated grand theme.
+START / CONCEPT: Purpose and scope
+EXACT TERMS: Purpose | scope | Exam | facts | basis | official
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 2 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Define operative terms before expanding dimensions.
+UPSC TRAP / ANSWER-USE: Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 3 — FOUNDATION — Literal layer before extension
+### SESSION 3 — FOUNDATION — Exam facts / source basis
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Literal layer before extension explains how Literal layer combine into one usable Essay-planning move.
+**Plain-language definition:** Exam facts / source basis explains how Exam facts / source basis — 3 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Literal layer before extension should be applied through Literal layer, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Exam facts / source basis should be applied through Exam facts / source basis — 3, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Literal**
-- **layer**
-- **extension**
-- **records**
-- **what**
+- **Exam**
+- **facts**
+- **basis**
 - **sentence**
+- **arguing**
+- **that**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat metaphorical, normative and empirical layers as interchangeable.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an example without explaining its argumentative function.
 
 #### VISUAL FIRST
 
 ```text
-LITERAL LAYER BEFORE EXTENSION
-01. Literal layer
-STATUS / CATEGORY FIREWALL -> Do not treat metaphorical, normative and empirical layers as interchangeable.
+EXAM FACTS / SOURCE BASIS
+01. Exam facts / source basis — 3
+STATUS / CATEGORY FIREWALL -> Do not use an example without explaining its argumentative function.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
+of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Literal layer before extension as a sequence: identify Literal layer, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis as a sequence: identify Exam facts / source basis — 3, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not treat metaphorical, normative and empirical layers as interchangeable. This keeps Literal layer in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not use an example without explaining its argumentative function. This keeps Exam facts / source basis — 3 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
+- of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
 
 #### EXAMINER CAUTION
 
-- Do not treat metaphorical, normative and empirical layers as interchangeable.
+- Do not use an example without explaining its argumentative function.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Literal layer before extension by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** State exactly what relation the sentence asserts.
+- **Objective practice:** Apply Exam facts / source basis by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Build one qualified thesis and keep it visible.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Literal layer
-- **Qualified use:** State exactly what relation the sentence asserts.
+- **Mechanism chain:** Exam facts / source basis — 3
+- **Qualified use:** Build one qualified thesis and keep it visible.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Literal layer before extension
-EXACT TERMS: Literal | layer | extension | records | what | sentence
-MECHANISM / ARGUMENT: connect Literal layer without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: State exactly what relation the sentence asserts.
-UPSC TRAP / ANSWER-USE: Do not treat metaphorical, normative and empirical layers as interchangeable.
+START / CONCEPT: Exam facts / source basis
+EXACT TERMS: Exam | facts | basis | sentence | arguing | that
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 3 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Build one qualified thesis and keep it visible.
+UPSC TRAP / ANSWER-USE: Do not use an example without explaining its argumentative function.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 4 — CORE — Metaphor vehicle and tenor
+### SESSION 4 — CORE — Exam facts / source basis — 2
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Metaphor vehicle and tenor explains how Metaphorical layer combine into one usable Essay-planning move.
+**Plain-language definition:** Exam facts / source basis — 2 explains how Exam facts / source basis — 4 combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Metaphor vehicle and tenor should be applied through Metaphorical layer, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Exam facts / source basis — 2 should be applied through Exam facts / source basis — 4, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Metaphor**
-- **vehicle**
-- **tenor**
-- **Metaphorical**
-- **layer**
-- **metaphor-carrying**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not mistake paradox-recognition for completed analysis.
-
-#### VISUAL FIRST
-
-```text
-METAPHOR VEHICLE AND TENOR
-01. Metaphorical layer
-STATUS / CATEGORY FIREWALL -> Do not mistake paradox-recognition for completed analysis.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Metaphor vehicle and tenor as a sequence: identify Metaphorical layer, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not mistake paradox-recognition for completed analysis. This keeps Metaphorical layer in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
-
-#### EXAMINER CAUTION
-
-- Do not mistake paradox-recognition for completed analysis.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Metaphor vehicle and tenor by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Use the literal meaning as a continuing anchor.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Metaphorical layer
-- **Qualified use:** Use the literal meaning as a continuing anchor.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Metaphor vehicle and tenor
-EXACT TERMS: Metaphor | vehicle | tenor | Metaphorical | layer | metaphor-carrying
-MECHANISM / ARGUMENT: connect Metaphorical layer without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Use the literal meaning as a continuing anchor.
-UPSC TRAP / ANSWER-USE: Do not mistake paradox-recognition for completed analysis.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 5 — CORE — Normative layer and value claim
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Normative layer and value claim explains how Normative layer combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Normative layer and value claim should be applied through Normative layer, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Normative**
-- **layer**
-- **value**
-- **asks**
-- **what**
-- **standard**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not universalise a reading that survives only at one scale.
-
-#### VISUAL FIRST
-
-```text
-NORMATIVE LAYER AND VALUE CLAIM
-01. Normative layer
-STATUS / CATEGORY FIREWALL -> Do not universalise a reading that survives only at one scale.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Normative layer and value claim as a sequence: identify Normative layer, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not universalise a reading that survives only at one scale. This keeps Normative layer in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
-
-#### EXAMINER CAUTION
-
-- Do not universalise a reading that survives only at one scale.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Normative layer and value claim by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Separate the metaphor's image from its argued subject.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Normative layer
-- **Qualified use:** Separate the metaphor's image from its argued subject.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Normative layer and value claim
-EXACT TERMS: Normative | layer | value | asks | what | standard
-MECHANISM / ARGUMENT: connect Normative layer without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Separate the metaphor's image from its argued subject.
-UPSC TRAP / ANSWER-USE: Do not universalise a reading that survives only at one scale.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 6 — CORE — Operative tension and paradox
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Operative tension and paradox explains how Operative tension and Paradox combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Operative tension and paradox should be applied through Operative tension and Paradox, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Operative**
-- **tension**
-- **paradox**
-- **usable**
-- **decoding**
-- **names**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not let an exception swallow the central proposition.
-
-#### VISUAL FIRST
-
-```text
-OPERATIVE TENSION AND PARADOX
-01. Operative tension
-    |
-    v
-02. Paradox
-STATUS / CATEGORY FIREWALL -> Do not let an exception swallow the central proposition.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Operative tension and paradox as a sequence: identify Operative tension, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not let an exception swallow the central proposition. This keeps Operative tension and Paradox in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
-- An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
-
-#### EXAMINER CAUTION
-
-- Do not let an exception swallow the central proposition.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Operative tension and paradox by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Name the value judgment without turning it into moralising.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Operative tension -> Paradox
-- **Qualified use:** Name the value judgment without turning it into moralising.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Operative tension and paradox
-EXACT TERMS: Operative | tension | paradox | usable | decoding | names
-MECHANISM / ARGUMENT: connect Operative tension and Paradox without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Name the value judgment without turning it into moralising.
-UPSC TRAP / ANSWER-USE: Do not let an exception swallow the central proposition.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 7 — CORE — Scope across levels
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Scope across levels explains how Scope combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Scope across levels should be applied through Scope, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Scope**
-- **across**
-- **levels**
-- **interpretation**
-- **should**
-- **state**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not accept the first interpretation without a counter-reading.
-
-#### VISUAL FIRST
-
-```text
-SCOPE ACROSS LEVELS
-01. Scope
-STATUS / CATEGORY FIREWALL -> Do not accept the first interpretation without a counter-reading.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Scope across levels as a sequence: identify Scope, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not accept the first interpretation without a counter-reading. This keeps Scope in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
-
-#### EXAMINER CAUTION
-
-- Do not accept the first interpretation without a counter-reading.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Scope across levels by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Turn the sentence into a contestable tension.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Scope
-- **Qualified use:** Turn the sentence into a contestable tension.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Scope across levels
-EXACT TERMS: Scope | across | levels | interpretation | should | state
-MECHANISM / ARGUMENT: connect Scope without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Turn the sentence into a contestable tension.
-UPSC TRAP / ANSWER-USE: Do not accept the first interpretation without a counter-reading.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 8 — CORE — Hidden assumption
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Hidden assumption explains how Hidden assumption combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Hidden assumption should be applied through Hidden assumption, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Hidden**
-- **assumption**
-- **compressed**
+- **Exam**
+- **facts**
+- **basis**
+- **free-standing**
 - **proposition**
-- **normally**
-- **relies**
+- **interpreted**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use examples as decoration or proof by anecdote.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat a pedagogical scaffold as an official UPSC marking rule.
 
 #### VISUAL FIRST
 
 ```text
-HIDDEN ASSUMPTION
-01. Hidden assumption
-STATUS / CATEGORY FIREWALL -> Do not use examples as decoration or proof by anecdote.
+EXAM FACTS / SOURCE BASIS — 2
+01. Exam facts / source basis — 4
+STATUS / CATEGORY FIREWALL -> Do not treat a pedagogical scaffold as an official UPSC marking rule.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
+free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Hidden assumption as a sequence: identify Hidden assumption, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis — 2 as a sequence: identify Exam facts / source basis — 4, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not use examples as decoration or proof by anecdote. This keeps Hidden assumption in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not treat a pedagogical scaffold as an official UPSC marking rule. This keeps Exam facts / source basis — 4 in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
+- free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
 
 #### EXAMINER CAUTION
 
-- Do not use examples as decoration or proof by anecdote.
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Hidden assumption by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Explain why the apparent contradiction is analytically useful.
+- **Objective practice:** Apply Exam facts / source basis — 2 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Give every paragraph one argumentative job.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Hidden assumption
-- **Qualified use:** Explain why the apparent contradiction is analytically useful.
+- **Mechanism chain:** Exam facts / source basis — 4
+- **Qualified use:** Give every paragraph one argumentative job.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Hidden assumption
-EXACT TERMS: Hidden | assumption | compressed | proposition | normally | relies
-MECHANISM / ARGUMENT: connect Hidden assumption without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Explain why the apparent contradiction is analytically useful.
-UPSC TRAP / ANSWER-USE: Do not use examples as decoration or proof by anecdote.
+START / CONCEPT: Exam facts / source basis — 2
+EXACT TERMS: Exam | facts | basis | free-standing | proposition | interpreted
+MECHANISM / ARGUMENT: connect Exam facts / source basis — 4 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Give every paragraph one argumentative job.
+UPSC TRAP / ANSWER-USE: Do not treat a pedagogical scaffold as an official UPSC marking rule.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 9 — CORE — Exception and qualification
+### SESSION 5 — CORE — Exam facts / source basis — 3
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Exception and qualification explains how Exception combine into one usable Essay-planning move.
+**Plain-language definition:** Exam facts / source basis — 3 explains how Philosophical prompt vs. issue prompt — which method applies combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Exception and qualification should be applied through Exception, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Exam facts / source basis — 3 should be applied through Philosophical prompt vs. issue prompt — which method applies, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Exception**
-- **qualification**
-- **Universal**
-- **wording**
-- **usually**
-- **handled**
+- **Exam**
+- **facts**
+- **basis**
+- **Philosophical**
+- **prompt**
+- **issue**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not invent attribution, biography or contextual intent.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not let a counter-view replace the thesis; use it to qualify the thesis.
 
 #### VISUAL FIRST
 
 ```text
-EXCEPTION AND QUALIFICATION
-01. Exception
-STATUS / CATEGORY FIREWALL -> Do not invent attribution, biography or contextual intent.
+EXAM FACTS / SOURCE BASIS — 3
+01. Philosophical prompt vs. issue prompt — which method applies
+STATUS / CATEGORY FIREWALL -> Do not let a counter-view replace the thesis; use it to qualify the thesis.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
+Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Exception and qualification as a sequence: identify Exception, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis — 3 as a sequence: identify Philosophical prompt vs. issue prompt — which method applies, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not invent attribution, biography or contextual intent. This keeps Exception in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not let a counter-view replace the thesis; use it to qualify the thesis. This keeps Philosophical prompt vs. issue prompt — which method applies in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
+- Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
 
 #### EXAMINER CAUTION
 
-- Do not invent attribution, biography or contextual intent.
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Exception and qualification by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Extend only to scales the wording can support.
+- **Objective practice:** Apply Exam facts / source basis — 3 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Join a named illustration to its mechanism.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Exception
-- **Qualified use:** Extend only to scales the wording can support.
+- **Mechanism chain:** Philosophical prompt vs. issue prompt — which method applies
+- **Qualified use:** Join a named illustration to its mechanism.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Exception and qualification
-EXACT TERMS: Exception | qualification | Universal | wording | usually | handled
-MECHANISM / ARGUMENT: connect Exception without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Extend only to scales the wording can support.
-UPSC TRAP / ANSWER-USE: Do not invent attribution, biography or contextual intent.
+START / CONCEPT: Exam facts / source basis — 3
+EXACT TERMS: Exam | facts | basis | Philosophical | prompt | issue
+MECHANISM / ARGUMENT: connect Philosophical prompt vs. issue prompt — which method applies without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Join a named illustration to its mechanism.
+UPSC TRAP / ANSWER-USE: Do not let a counter-view replace the thesis; use it to qualify the thesis.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 10 — CORE — Counter-reading test
+### SESSION 6 — CORE — Exam facts / source basis — 4
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Counter-reading test explains how Counter-reading combine into one usable Essay-planning move.
+**Plain-language definition:** Exam facts / source basis — 4 explains how Philosophical prompt vs. issue prompt — which method applies — 2 and The central idea and common misreading combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Counter-reading test should be applied through Counter-reading, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Exam facts / source basis — 4 should be applied through Philosophical prompt vs. issue prompt — which method applies — 2 and The central idea and common misreading, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Counter-reading**
-- **test**
-- **serious**
-- **alternative**
-- **reading**
-- **tests**
+- **Exam**
+- **facts**
+- **basis**
+- **Philosophical**
+- **prompt**
+- **issue**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not build meaning from an audited printing defect.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an unverified quotation, statistic, attribution or anecdote.
 
 #### VISUAL FIRST
 
 ```text
-COUNTER-READING TEST
-01. Counter-reading
-STATUS / CATEGORY FIREWALL -> Do not build meaning from an audited printing defect.
+EXAM FACTS / SOURCE BASIS — 4
+01. Philosophical prompt vs. issue prompt — which method applies — 2
+    |
+    v
+02. The central idea and common misreading
+STATUS / CATEGORY FIREWALL -> Do not use an unverified quotation, statistic, attribution or anecdote.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
+The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases. Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Counter-reading test as a sequence: identify Counter-reading, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Exam facts / source basis — 4 as a sequence: identify Philosophical prompt vs. issue prompt — which method applies — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not build meaning from an audited printing defect. This keeps Counter-reading in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not use an unverified quotation, statistic, attribution or anecdote. This keeps Philosophical prompt vs. issue prompt — which method applies — 2 and The central idea and common misreading in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
+- The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases.
+- Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
 
 #### EXAMINER CAUTION
 
-- Do not build meaning from an audited printing defect.
+- Do not use an unverified quotation, statistic, attribution or anecdote.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Counter-reading test by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Make the premise visible and test it.
+- **Objective practice:** Apply Exam facts / source basis — 4 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use a counter-case to refine, not derail, the thesis.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Counter-reading
-- **Qualified use:** Make the premise visible and test it.
+- **Mechanism chain:** Philosophical prompt vs. issue prompt — which method applies — 2 -> The central idea and common misreading
+- **Qualified use:** Use a counter-case to refine, not derail, the thesis.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Counter-reading test
-EXACT TERMS: Counter-reading | test | serious | alternative | reading | tests
-MECHANISM / ARGUMENT: connect Counter-reading without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Make the premise visible and test it.
-UPSC TRAP / ANSWER-USE: Do not build meaning from an audited printing defect.
+START / CONCEPT: Exam facts / source basis — 4
+EXACT TERMS: Exam | facts | basis | Philosophical | prompt | issue
+MECHANISM / ARGUMENT: connect Philosophical prompt vs. issue prompt — which method applies — 2 and The central idea and common misreading without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use a counter-case to refine, not derail, the thesis.
+UPSC TRAP / ANSWER-USE: Do not use an unverified quotation, statistic, attribution or anecdote.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 11 — CORE — Thesis alternatives and mechanism
+### SESSION 7 — CORE — Philosophical prompt vs. issue prompt — which method applies
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Thesis alternatives and mechanism explains how Thesis alternatives and Mechanism combine into one usable Essay-planning move.
+**Plain-language definition:** Philosophical prompt vs. issue prompt — which method applies explains how Basic decomposition questions combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Thesis alternatives and mechanism should be applied through Thesis alternatives and Mechanism, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Philosophical prompt vs. issue prompt — which method applies should be applied through Basic decomposition questions, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
+- **Philosophical**
+- **prompt**
+- **issue**
+- **method**
+- **applies**
+- **Basic**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not multiply dimensions that repeat the same claim in new vocabulary.
+
+#### VISUAL FIRST
+
+```text
+PHILOSOPHICAL PROMPT VS. ISSUE PROMPT — WHICH METHOD APPLIES
+01. Basic decomposition questions
+STATUS / CATEGORY FIREWALL -> Do not multiply dimensions that repeat the same claim in new vocabulary.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Philosophical prompt vs. issue prompt — which method applies as a sequence: identify Basic decomposition questions, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not multiply dimensions that repeat the same claim in new vocabulary. This keeps Basic decomposition questions in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+
+#### EXAMINER CAUTION
+
+- Do not multiply dimensions that repeat the same claim in new vocabulary.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Philosophical prompt vs. issue prompt — which method applies by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Sequence paragraphs through explicit logical bridges.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Basic decomposition questions
+- **Qualified use:** Sequence paragraphs through explicit logical bridges.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Philosophical prompt vs. issue prompt — which method applies
+EXACT TERMS: Philosophical | prompt | issue | method | applies | Basic
+MECHANISM / ARGUMENT: connect Basic decomposition questions without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Sequence paragraphs through explicit logical bridges.
+UPSC TRAP / ANSWER-USE: Do not multiply dimensions that repeat the same claim in new vocabulary.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 8 — CORE — Philosophical prompt vs. issue prompt — which method applies — 2
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Philosophical prompt vs. issue prompt — which method applies — 2 explains how Claim–assumption–scope–exception test combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Philosophical prompt vs. issue prompt — which method applies — 2 should be applied through Claim–assumption–scope–exception test, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Philosophical**
+- **prompt**
+- **issue**
+- **method**
+- **applies**
+- **assumption**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not end with aspiration unsupported by the preceding argument.
+
+#### VISUAL FIRST
+
+```text
+PHILOSOPHICAL PROMPT VS. ISSUE PROMPT — WHICH METHOD APPLIES — 2
+01. Claim–assumption–scope–exception test
+STATUS / CATEGORY FIREWALL -> Do not end with aspiration unsupported by the preceding argument.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Philosophical prompt vs. issue prompt — which method applies — 2 as a sequence: identify Claim–assumption–scope–exception test, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not end with aspiration unsupported by the preceding argument. This keeps Claim–assumption–scope–exception test in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
+
+#### EXAMINER CAUTION
+
+- Do not end with aspiration unsupported by the preceding argument.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Philosophical prompt vs. issue prompt — which method applies — 2 by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Move across actor, scale and time only when the claim changes.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Claim–assumption–scope–exception test
+- **Qualified use:** Move across actor, scale and time only when the claim changes.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Philosophical prompt vs. issue prompt — which method applies — 2
+EXACT TERMS: Philosophical | prompt | issue | method | applies | assumption
+MECHANISM / ARGUMENT: connect Claim–assumption–scope–exception test without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Move across actor, scale and time only when the claim changes.
+UPSC TRAP / ANSWER-USE: Do not end with aspiration unsupported by the preceding argument.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 9 — CORE — The central idea and common misreading
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** The central idea and common misreading explains how India-first illustration starters combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> The central idea and common misreading should be applied through India-first illustration starters, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **central**
+- **idea**
+- **common**
+- **misreading**
+- **India-first**
+- **illustration**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not sacrifice the second essay's time budget to perfect the first.
+
+#### VISUAL FIRST
+
+```text
+THE CENTRAL IDEA AND COMMON MISREADING
+01. India-first illustration starters
+STATUS / CATEGORY FIREWALL -> Do not sacrifice the second essay's time budget to perfect the first.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read The central idea and common misreading as a sequence: identify India-first illustration starters, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not sacrifice the second essay's time budget to perfect the first. This keeps India-first illustration starters in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
+
+#### EXAMINER CAUTION
+
+- Do not sacrifice the second essay's time budget to perfect the first.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply The central idea and common misreading by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use ethical nuance without moralising.
+
+#### MINI RECAP
+
+- **Mechanism chain:** India-first illustration starters
+- **Qualified use:** Use ethical nuance without moralising.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: The central idea and common misreading
+EXACT TERMS: central | idea | common | misreading | India-first | illustration
+MECHANISM / ARGUMENT: connect India-first illustration starters without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use ethical nuance without moralising.
+UPSC TRAP / ANSWER-USE: Do not sacrifice the second essay's time budget to perfect the first.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 10 — CORE — Basic decomposition questions
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Basic decomposition questions explains how Thesis options and selection combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Basic decomposition questions should be applied through Thesis options and selection, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Basic**
+- **decomposition**
+- **questions**
 - **Thesis**
-- **alternatives**
-- **mechanism**
-- **Drafting**
-- **three**
-- **possible**
+- **options**
+- **selection**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not mistake novelty of phrasing for originality of thought.
 
 #### VISUAL FIRST
 
 ```text
-THESIS ALTERNATIVES AND MECHANISM
-01. Thesis alternatives
-    |
-    v
-02. Mechanism
-STATUS / CATEGORY FIREWALL -> Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+BASIC DECOMPOSITION QUESTIONS
+01. Thesis options and selection
+STATUS / CATEGORY FIREWALL -> Do not mistake novelty of phrasing for originality of thought.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
+From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Thesis alternatives and mechanism as a sequence: identify Thesis alternatives, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Basic decomposition questions as a sequence: identify Thesis options and selection, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence. This keeps Thesis alternatives and Mechanism in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not mistake novelty of phrasing for originality of thought. This keeps Thesis options and selection in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
-- The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
+- From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
 
 #### EXAMINER CAUTION
 
-- Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+- Do not mistake novelty of phrasing for originality of thought.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Thesis alternatives and mechanism by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Qualify universal language without dissolving it.
+- **Objective practice:** Apply Basic decomposition questions by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Preserve factual and quotation integrity.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Thesis alternatives -> Mechanism
-- **Qualified use:** Qualify universal language without dissolving it.
+- **Mechanism chain:** Thesis options and selection
+- **Qualified use:** Preserve factual and quotation integrity.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Thesis alternatives and mechanism
-EXACT TERMS: Thesis | alternatives | mechanism | Drafting | three | possible
-MECHANISM / ARGUMENT: connect Thesis alternatives and Mechanism without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Qualify universal language without dissolving it.
-UPSC TRAP / ANSWER-USE: Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
+START / CONCEPT: Basic decomposition questions
+EXACT TERMS: Basic | decomposition | questions | Thesis | options | selection
+MECHANISM / ARGUMENT: connect Thesis options and selection without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Preserve factual and quotation integrity.
+UPSC TRAP / ANSWER-USE: Do not mistake novelty of phrasing for originality of thought.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 12 — CORE — Scale test
+### SESSION 11 — CORE — Claim–assumption–scope–exception test
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Scale test explains how Scale test combine into one usable Essay-planning move.
+**Plain-language definition:** Claim–assumption–scope–exception test explains how Simple essay architecture and Opening, body and closure moves combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Scale test should be applied through Scale test, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> Claim–assumption–scope–exception test should be applied through Simple essay architecture and Opening, body and closure moves, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Scale**
+- **assumption**
+- **scope**
+- **exception**
 - **test**
-- **reading**
-- **should**
-- **tested**
-- **across**
+- **Simple**
+- **architecture**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not jump from a literal phrase to an unrelated grand theme.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 
 #### VISUAL FIRST
 
 ```text
-SCALE TEST
-01. Scale test
-STATUS / CATEGORY FIREWALL -> Do not jump from a literal phrase to an unrelated grand theme.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Scale test as a sequence: identify Scale test, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not jump from a literal phrase to an unrelated grand theme. This keeps Scale test in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
-
-#### EXAMINER CAUTION
-
-- Do not jump from a literal phrase to an unrelated grand theme.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Scale test by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Prefer the reading that is faithful, defensible and generative.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Scale test
-- **Qualified use:** Prefer the reading that is faithful, defensible and generative.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Scale test
-EXACT TERMS: Scale | test | reading | should | tested | across
-MECHANISM / ARGUMENT: connect Scale test without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Prefer the reading that is faithful, defensible and generative.
-UPSC TRAP / ANSWER-USE: Do not jump from a literal phrase to an unrelated grand theme.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 13 — CORE SYNTHESIS — Examples as claim tests
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Examples as claim tests explains how Examples combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Examples as claim tests should be applied through Examples, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Examples**
-- **tests**
-- **should**
-- **instantiate**
-- **decoded**
-- **chosen**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat metaphorical, normative and empirical layers as interchangeable.
-
-#### VISUAL FIRST
-
-```text
-EXAMPLES AS CLAIM TESTS
-01. Examples
-STATUS / CATEGORY FIREWALL -> Do not treat metaphorical, normative and empirical layers as interchangeable.
-```
-
-*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
-
-#### CORE EXPLANATION
-
-Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
-
-#### SIMPLE SYSTEM EXAMPLE
-
-Read Examples as claim tests as a sequence: identify Examples, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
-
-#### TECHNICAL DISTINCTION
-
-The decisive boundary is Do not treat metaphorical, normative and empirical layers as interchangeable. This keeps Examples in the correct prompt, method, argument and evidence category.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
-
-#### EXAMINER CAUTION
-
-- Do not treat metaphorical, normative and empirical layers as interchangeable.
-
-#### EXAM LINK
-
-- **Objective practice:** Apply Examples as claim tests by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Compare thesis options before choosing one.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Examples
-- **Qualified use:** Compare thesis options before choosing one.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Examples as claim tests
-EXACT TERMS: Examples | tests | should | instantiate | decoded | chosen
-MECHANISM / ARGUMENT: connect Examples without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Compare thesis options before choosing one.
-UPSC TRAP / ANSWER-USE: Do not treat metaphorical, normative and empirical layers as interchangeable.
-ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
-```
-
-### SESSION 14 — CORE SYNTHESIS — Counterexamples and feedback
-
-#### METHOD MOVE / WHAT THIS DOES
-
-**Plain-language definition:** Counterexamples and feedback explains how Counterexamples and Feedback combine into one usable Essay-planning move.
-
-**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Counterexamples and feedback should be applied through Counterexamples and Feedback, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Counterexamples**
-- **feedback**
-- **counterexample**
-- **identifies**
-- **condition**
-- **should**
-
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not mistake paradox-recognition for completed analysis.
-
-#### VISUAL FIRST
-
-```text
-COUNTEREXAMPLES AND FEEDBACK
-01. Counterexamples
+CLAIM–ASSUMPTION–SCOPE–EXCEPTION TEST
+01. Simple essay architecture
     |
     v
-02. Feedback
-STATUS / CATEGORY FIREWALL -> Do not mistake paradox-recognition for completed analysis.
+02. Opening, body and closure moves
+STATUS / CATEGORY FIREWALL -> Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
+A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Counterexamples and feedback as a sequence: identify Counterexamples, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read Claim–assumption–scope–exception test as a sequence: identify Simple essay architecture, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not mistake paradox-recognition for completed analysis. This keeps Counterexamples and Feedback in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue. This keeps Simple essay architecture and Opening, body and closure moves in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
-- Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
+- A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
+- A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
 
 #### EXAMINER CAUTION
 
-- Do not mistake paradox-recognition for completed analysis.
+- Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Counterexamples and feedback by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Use cases and counter-cases to test mechanism and limits.
+- **Objective practice:** Apply Claim–assumption–scope–exception test by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Import GS knowledge selectively and analytically.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Counterexamples -> Feedback
-- **Qualified use:** Use cases and counter-cases to test mechanism and limits.
+- **Mechanism chain:** Simple essay architecture -> Opening, body and closure moves
+- **Qualified use:** Import GS knowledge selectively and analytically.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Counterexamples and feedback
-EXACT TERMS: Counterexamples | feedback | counterexample | identifies | condition | should
-MECHANISM / ARGUMENT: connect Counterexamples and Feedback without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Use cases and counter-cases to test mechanism and limits.
-UPSC TRAP / ANSWER-USE: Do not mistake paradox-recognition for completed analysis.
+START / CONCEPT: Claim–assumption–scope–exception test
+EXACT TERMS: assumption | scope | exception | test | Simple | architecture
+MECHANISM / ARGUMENT: connect Simple essay architecture and Opening, body and closure moves without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Import GS knowledge selectively and analytically.
+UPSC TRAP / ANSWER-USE: Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
-### SESSION 15 — CORE SYNTHESIS — Attribution and printing-defect firewalls
+### SESSION 12 — CORE — GS knowledge without a GS answer
 
 #### METHOD MOVE / WHAT THIS DOES
 
-**Plain-language definition:** Attribution and printing-defect firewalls explains how Attribution firewall and Printing-defect firewall combine into one usable Essay-planning move.
+**Plain-language definition:** GS knowledge without a GS answer explains how Advanced proposition and boundary combine into one usable Essay-planning move.
 
 **Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Attribution and printing-defect firewalls should be applied through Attribution firewall and Printing-defect firewall, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+> GS knowledge without a GS answer should be applied through Advanced proposition and boundary, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Attribution**
-- **printing-defect**
-- **firewalls**
-- **firewall**
-- **invent**
-- **author**
+- **knowledge**
+- **Advanced**
+- **proposition**
+- **boundary**
+- **aphorism**
+- **best**
 
-**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not universalise a reading that survives only at one scale.
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
 
 #### VISUAL FIRST
 
 ```text
-ATTRIBUTION AND PRINTING-DEFECT FIREWALLS
-01. Attribution firewall
-    |
-    v
-02. Printing-defect firewall
-STATUS / CATEGORY FIREWALL -> Do not universalise a reading that survives only at one scale.
+GS KNOWLEDGE WITHOUT A GS ANSWER
+01. Advanced proposition and boundary
+STATUS / CATEGORY FIREWALL -> Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
 ```
 
 *The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
 
 #### CORE EXPLANATION
 
-Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant. Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal.
+Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
 
 #### SIMPLE SYSTEM EXAMPLE
 
-Read Attribution and printing-defect firewalls as a sequence: identify Attribution firewall, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+Read GS knowledge without a GS answer as a sequence: identify Advanced proposition and boundary, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
 
 #### TECHNICAL DISTINCTION
 
-The decisive boundary is Do not universalise a reading that survives only at one scale. This keeps Attribution firewall and Printing-defect firewall in the correct prompt, method, argument and evidence category.
+The decisive boundary is Do not cross the ownership boundary: issue-led empirical scoping belongs to 03. This keeps Advanced proposition and boundary in the correct prompt, method, argument and evidence category.
 
 #### NAMED EVIDENCE AND MECHANISM
 
-- Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant.
-- Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal.
+- Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
 
 #### EXAMINER CAUTION
 
-- Do not universalise a reading that survives only at one scale.
+- Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
 
 #### EXAM LINK
 
-- **Objective practice:** Apply Attribution and printing-defect firewalls by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
-- **Essay application:** Quote exactly while refusing invented context.
+- **Objective practice:** Apply GS knowledge without a GS answer by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Use narrative or analogy only when it advances the proposition.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Attribution firewall -> Printing-defect firewall
-- **Qualified use:** Quote exactly while refusing invented context.
+- **Mechanism chain:** Advanced proposition and boundary
+- **Qualified use:** Use narrative or analogy only when it advances the proposition.
 
 #### CLOSING RECALL FLOW
 
 ```closure-flow
-START / CONCEPT: Attribution and printing-defect firewalls
-EXACT TERMS: Attribution | printing-defect | firewalls | firewall | invent | author
-MECHANISM / ARGUMENT: connect Attribution firewall and Printing-defect firewall without changing the prompt or evidence status
-CONSEQUENCE / CONTRAST: Quote exactly while refusing invented context.
-UPSC TRAP / ANSWER-USE: Do not universalise a reading that survives only at one scale.
+START / CONCEPT: GS knowledge without a GS answer
+EXACT TERMS: knowledge | Advanced | proposition | boundary | aphorism | best
+MECHANISM / ARGUMENT: connect Advanced proposition and boundary without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Use narrative or analogy only when it advances the proposition.
+UPSC TRAP / ANSWER-USE: Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 13 — CORE SYNTHESIS — Narrative and reflective control
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Narrative and reflective control explains how Concept definition and taxonomy combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Narrative and reflective control should be applied through Concept definition and taxonomy, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Narrative**
+- **reflective**
+- **control**
+- **definition**
+- **taxonomy**
+- **water**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not use an example without explaining its argumentative function.
+
+#### VISUAL FIRST
+
+```text
+NARRATIVE AND REFLECTIVE CONTROL
+01. Concept definition and taxonomy
+STATUS / CATEGORY FIREWALL -> Do not use an example without explaining its argumentative function.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Narrative and reflective control as a sequence: identify Concept definition and taxonomy, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not use an example without explaining its argumentative function. This keeps Concept definition and taxonomy in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
+
+#### EXAMINER CAUTION
+
+- Do not use an example without explaining its argumentative function.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Narrative and reflective control by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Protect balance, originality and coherence together.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Concept definition and taxonomy
+- **Qualified use:** Protect balance, originality and coherence together.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Narrative and reflective control
+EXACT TERMS: Narrative | reflective | control | definition | taxonomy | water
+MECHANISM / ARGUMENT: connect Concept definition and taxonomy without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Protect balance, originality and coherence together.
+UPSC TRAP / ANSWER-USE: Do not use an example without explaining its argumentative function.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 14 — CORE SYNTHESIS — Timed execution and word management
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Timed execution and word management explains how Concept definition and taxonomy — 2 and Concept definition and taxonomy — 3 combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Timed execution and word management should be applied through Concept definition and taxonomy — 2 and Concept definition and taxonomy — 3, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Timed**
+- **execution**
+- **word**
+- **management**
+- **definition**
+- **taxonomy**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### VISUAL FIRST
+
+```text
+TIMED EXECUTION AND WORD MANAGEMENT
+01. Concept definition and taxonomy — 2
+    |
+    v
+02. Concept definition and taxonomy — 3
+STATUS / CATEGORY FIREWALL -> Do not treat a pedagogical scaffold as an official UPSC marking rule.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Timed execution and word management as a sequence: identify Concept definition and taxonomy — 2, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not treat a pedagogical scaffold as an official UPSC marking rule. This keeps Concept definition and taxonomy — 2 and Concept definition and taxonomy — 3 in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
+- is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
+
+#### EXAMINER CAUTION
+
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Timed execution and word management by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Fit planning, drafting and revision inside the paper budget.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Concept definition and taxonomy — 2 -> Concept definition and taxonomy — 3
+- **Qualified use:** Fit planning, drafting and revision inside the paper budget.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Timed execution and word management
+EXACT TERMS: Timed | execution | word | management | definition | taxonomy
+MECHANISM / ARGUMENT: connect Concept definition and taxonomy — 2 and Concept definition and taxonomy — 3 without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Fit planning, drafting and revision inside the paper budget.
+UPSC TRAP / ANSWER-USE: Do not treat a pedagogical scaffold as an official UPSC marking rule.
+ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
+```
+
+### SESSION 15 — CORE SYNTHESIS — Sustained central-argument execution
+
+#### METHOD MOVE / WHAT THIS DOES
+
+**Plain-language definition:** Sustained central-argument execution explains how Tension pairs and hidden assumptions and Levels of analysis and temporal-spatial scale combine into one usable Essay-planning move.
+
+**Technical definition:** The learner fixes the printed prompt, its relationship or demand, the defensible scope, the argument function and the evidence boundary before drafting prose.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Sustained central-argument execution should be applied through Tension pairs and hidden assumptions and Levels of analysis and temporal-spatial scale, while preserving the difference between official paper instruction and strategy, prompt wording and interpretation, example and evidence, breadth and coherence.
+
+#### MUST-WRITE KEYWORDS
+
+- **Sustained**
+- **central-argument**
+- **execution**
+- **Tension**
+- **pairs**
+- **hidden**
+
+**How to use them:** Define the first three terms, trace the relationship with the next two, and attach the final term to the exact claim, example and qualification. Qualification: Do not let a counter-view replace the thesis; use it to qualify the thesis.
+
+#### VISUAL FIRST
+
+```text
+SUSTAINED CENTRAL-ARGUMENT EXECUTION
+01. Tension pairs and hidden assumptions
+    |
+    v
+02. Levels of analysis and temporal-spatial scale
+STATUS / CATEGORY FIREWALL -> Do not let a counter-view replace the thesis; use it to qualify the thesis.
+```
+
+*The rail fixes the prompt-to-argument sequence and claim boundary before explanation.*
+
+#### CORE EXPLANATION
+
+Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
+
+#### SIMPLE SYSTEM EXAMPLE
+
+Read Sustained central-argument execution as a sequence: identify Tension pairs and hidden assumptions, follow the method through the printed proposition, and stop before adding a rule, attribution, fact or inference the audited sources do not support.
+
+#### TECHNICAL DISTINCTION
+
+The decisive boundary is Do not let a counter-view replace the thesis; use it to qualify the thesis. This keeps Tension pairs and hidden assumptions and Levels of analysis and temporal-spatial scale in the correct prompt, method, argument and evidence category.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing
+- For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
+
+#### EXAMINER CAUTION
+
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
+
+#### EXAM LINK
+
+- **Objective practice:** Apply Sustained central-argument execution by distinguishing the correct Essay-method move from nearby but invalid shortcuts; no factual-trivia recall is being tested.
+- **Essay application:** Return to a transformed thesis in the conclusion.
+
+#### MINI RECAP
+
+- **Mechanism chain:** Tension pairs and hidden assumptions -> Levels of analysis and temporal-spatial scale
+- **Qualified use:** Return to a transformed thesis in the conclusion.
+
+#### CLOSING RECALL FLOW
+
+```closure-flow
+START / CONCEPT: Sustained central-argument execution
+EXACT TERMS: Sustained | central-argument | execution | Tension | pairs | hidden
+MECHANISM / ARGUMENT: connect Tension pairs and hidden assumptions and Levels of analysis and temporal-spatial scale without changing the prompt or evidence status
+CONSEQUENCE / CONTRAST: Return to a transformed thesis in the conclusion.
+UPSC TRAP / ANSWER-USE: Do not let a counter-view replace the thesis; use it to qualify the thesis.
 ANSWER-GRABBING FORMULATION: a scaffold is useful only while it serves the exact proposition and remains qualified
 ```
 
@@ -1337,930 +1337,1005 @@ sign of shallow decoding)?
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+#### Semantic-completeness repair — 6 September 2026
+
+##### Hostile coverage verdict and ownership
+
+This owner is responsible for **literal, conceptual and relational decoding of aphorisms**. Its irreducible coverage is:
+keywords; metaphor; hidden premise; tension; qualified reading. The canonical boundary is explicit:
+issue-led empirical scoping belongs to 03. Cross-topic material may supply evidence, but it must not displace
+this topic's writing skill or convert the essay into a GS answer.
+
+##### Prompt-fidelity and central-argument gate
+
+Before drafting, restate the exact prompt, identify its keywords, relation,
+scope and hidden assumption, then write one qualified thesis. Every paragraph
+must perform a distinct argumentative job for that thesis through
+**claim → named evidence/example → analysis → qualification → link**.
+Narrative, analogy and reflection are admissible only when they advance that
+argument. A list of sectors, schemes or facts is not an essay.
+
+##### Theme-transfer and originality gate
+
+Transfer GS knowledge selectively across these recurring Essay domains:
+philosophical/abstract; society and social justice; polity, democracy and governance; economy and development; science and technology; environment; education and health; women and youth; culture and history; international relations and peace; ethics and values. For each chosen lens, explain the mechanism and distribution of
+effects, test a counter-case and return to the proposition. Originality means
+a faithful but non-obvious connection, distinction or synthesis; it does not
+mean eccentric interpretation, ornamental quotation or invented anecdote.
+
+##### Model-answer and execution gate
+
+A complete 1000–1200-word practice essay should normally establish the problem,
+define operative terms, state the central thesis, develop three to five linked
+argument clusters, steelman the strongest objection, synthesize rather than
+split the difference, and conclude by deepening the opening claim. Planning,
+drafting and revision must fit the shared three-hour, two-essay budget. Exact
+time splits remain strategy, not an official UPSC rule.
+
+##### Verification and source-status gate
+
+Facts, constitutional or legal references, schemes, events, data, scientific
+claims, thinker attributions and quotations require a traceable source and
+access date. If exact wording or attribution is not verified, paraphrase it and
+label it as interpretation. The locally audited 2018–2025 Essay papers remain
+V1; 2013–2017 prompts remain V2 until checked against official papers. Failed
+or blocked live retrievals support no claim.
+
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which option applies Free-standing proposition as an Essay-method distinction?
+### Q1. Which option applies Purpose and scope as an Essay-method distinction?
 
-A. An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test.
-B. Treat Free-standing proposition as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Free-standing proposition with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Free-standing proposition to add more headings or dimensions without testing coherence.
-
-**Answer: A.**
-**Explanation:** An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q2. Which use of Free-standing proposition stays closest to the printed prompt?
-
-A. Apply Free-standing proposition only after drafting, when topic drift can no longer be prevented.
-B. An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test.
-C. Use Free-standing proposition while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Free-standing proposition regardless of thesis fit.
-
-**Answer: B.**
-**Explanation:** An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q3. Which statement preserves the strategy-versus-official-rule boundary for Free-standing proposition?
-
-A. Present Free-standing proposition as an official marking rule rather than a pedagogical scaffold.
-B. Use Free-standing proposition to avoid stating a serious counter-case or qualification.
-C. An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test.
-D. Support Free-standing proposition with an unverified statistic, attribution or current claim.
-
-**Answer: C.**
-**Explanation:** An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q4. Which option avoids the standard Essay-method trap about Free-standing proposition?
-
-A. Maximise the number of outputs produced by Free-standing proposition, even if they repeat one claim.
-B. Allow an exception discovered through Free-standing proposition to replace the central proposition.
-C. Silently tidy the printed prompt before applying Free-standing proposition to make it easier to answer.
-D. An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test.
-
-**Answer: D.**
-**Explanation:** An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
-
-### Q5. Which option applies Content-word inventory as an Essay-method distinction?
-
-A. Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
-B. Treat Content-word inventory as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Content-word inventory with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Content-word inventory to add more headings or dimensions without testing coherence.
+A. Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
+B. Treat Purpose and scope as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Purpose and scope with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Purpose and scope to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q6. Which use of Content-word inventory stays closest to the printed prompt?
+### Q2. Which use of Purpose and scope stays closest to the printed prompt?
 
-A. Apply Content-word inventory only after drafting, when topic drift can no longer be prevented.
-B. Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
-C. Use Content-word inventory while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Content-word inventory regardless of thesis fit.
+A. Apply Purpose and scope only after drafting, when topic drift can no longer be prevented.
+B. Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
+C. Use Purpose and scope while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Purpose and scope regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q7. Which statement preserves the strategy-versus-official-rule boundary for Content-word inventory?
+### Q3. Which statement preserves the strategy-versus-official-rule boundary for Purpose and scope?
 
-A. Present Content-word inventory as an official marking rule rather than a pedagogical scaffold.
-B. Use Content-word inventory to avoid stating a serious counter-case or qualification.
-C. Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
-D. Support Content-word inventory with an unverified statistic, attribution or current claim.
+A. Present Purpose and scope as an official marking rule rather than a pedagogical scaffold.
+B. Use Purpose and scope to avoid stating a serious counter-case or qualification.
+C. Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
+D. Support Purpose and scope with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q8. Which option avoids the standard Essay-method trap about Content-word inventory?
+### Q4. Which option avoids the standard Essay-method trap about Purpose and scope?
 
-A. Maximise the number of outputs produced by Content-word inventory, even if they repeat one claim.
-B. Allow an exception discovered through Content-word inventory to replace the central proposition.
-C. Silently tidy the printed prompt before applying Content-word inventory to make it easier to answer.
-D. Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
+A. Maximise the number of outputs produced by Purpose and scope, even if they repeat one claim.
+B. Allow an exception discovered through Purpose and scope to replace the central proposition.
+C. Silently tidy the printed prompt before applying Purpose and scope to make it easier to answer.
+D. Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
 
 **Answer: D.**
-**Explanation:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q9. Which option applies Relation or operator as an Essay-method distinction?
+### Q5. Which option applies Exam facts / source basis as an Essay-method distinction?
 
-A. The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
-B. Treat Relation or operator as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Relation or operator with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Relation or operator to add more headings or dimensions without testing coherence.
+A. attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
+B. Treat Exam facts / source basis as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q10. Which use of Relation or operator stays closest to the printed prompt?
+### Q6. Which use of Exam facts / source basis stays closest to the printed prompt?
 
-A. Apply Relation or operator only after drafting, when topic drift can no longer be prevented.
-B. The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
-C. Use Relation or operator while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Relation or operator regardless of thesis fit.
+A. Apply Exam facts / source basis only after drafting, when topic drift can no longer be prevented.
+B. attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
+C. Use Exam facts / source basis while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q11. Which statement preserves the strategy-versus-official-rule boundary for Relation or operator?
+### Q7. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis?
 
-A. Present Relation or operator as an official marking rule rather than a pedagogical scaffold.
-B. Use Relation or operator to avoid stating a serious counter-case or qualification.
-C. The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
-D. Support Relation or operator with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis to avoid stating a serious counter-case or qualification.
+C. attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
+D. Support Exam facts / source basis with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q12. Which option avoids the standard Essay-method trap about Relation or operator?
+### Q8. Which option avoids the standard Essay-method trap about Exam facts / source basis?
 
-A. Maximise the number of outputs produced by Relation or operator, even if they repeat one claim.
-B. Allow an exception discovered through Relation or operator to replace the central proposition.
-C. Silently tidy the printed prompt before applying Relation or operator to make it easier to answer.
-D. The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
+A. Maximise the number of outputs produced by Exam facts / source basis, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis to make it easier to answer.
+D. attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
 
 **Answer: D.**
-**Explanation:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q13. Which option applies Literal layer as an Essay-method distinction?
+### Q9. Which option applies Exam facts / source basis — 2 as an Essay-method distinction?
 
-A. The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
-B. Treat Literal layer as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Literal layer with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Literal layer to add more headings or dimensions without testing coherence.
+A. official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
+B. Treat Exam facts / source basis — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q14. Which use of Literal layer stays closest to the printed prompt?
+### Q10. Which use of Exam facts / source basis — 2 stays closest to the printed prompt?
 
-A. Apply Literal layer only after drafting, when topic drift can no longer be prevented.
-B. The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
-C. Use Literal layer while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Literal layer regardless of thesis fit.
+A. Apply Exam facts / source basis — 2 only after drafting, when topic drift can no longer be prevented.
+B. official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
+C. Use Exam facts / source basis — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q15. Which statement preserves the strategy-versus-official-rule boundary for Literal layer?
+### Q11. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 2?
 
-A. Present Literal layer as an official marking rule rather than a pedagogical scaffold.
-B. Use Literal layer to avoid stating a serious counter-case or qualification.
-C. The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
-D. Support Literal layer with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 2 to avoid stating a serious counter-case or qualification.
+C. official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
+D. Support Exam facts / source basis — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q16. Which option avoids the standard Essay-method trap about Literal layer?
+### Q12. Which option avoids the standard Essay-method trap about Exam facts / source basis — 2?
 
-A. Maximise the number of outputs produced by Literal layer, even if they repeat one claim.
-B. Allow an exception discovered through Literal layer to replace the central proposition.
-C. Silently tidy the printed prompt before applying Literal layer to make it easier to answer.
-D. The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
+A. Maximise the number of outputs produced by Exam facts / source basis — 2, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 2 to make it easier to answer.
+D. official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
 
 **Answer: D.**
-**Explanation:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q17. Which option applies Metaphorical layer as an Essay-method distinction?
+### Q13. Which option applies Exam facts / source basis — 3 as an Essay-method distinction?
 
-A. A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
-B. Treat Metaphorical layer as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Metaphorical layer with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Metaphorical layer to add more headings or dimensions without testing coherence.
+A. of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
+B. Treat Exam facts / source basis — 3 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 3 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 3 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q18. Which use of Metaphorical layer stays closest to the printed prompt?
+### Q14. Which use of Exam facts / source basis — 3 stays closest to the printed prompt?
 
-A. Apply Metaphorical layer only after drafting, when topic drift can no longer be prevented.
-B. A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
-C. Use Metaphorical layer while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Metaphorical layer regardless of thesis fit.
+A. Apply Exam facts / source basis — 3 only after drafting, when topic drift can no longer be prevented.
+B. of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
+C. Use Exam facts / source basis — 3 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 3 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q19. Which statement preserves the strategy-versus-official-rule boundary for Metaphorical layer?
+### Q15. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 3?
 
-A. Present Metaphorical layer as an official marking rule rather than a pedagogical scaffold.
-B. Use Metaphorical layer to avoid stating a serious counter-case or qualification.
-C. A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
-D. Support Metaphorical layer with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 3 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 3 to avoid stating a serious counter-case or qualification.
+C. of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
+D. Support Exam facts / source basis — 3 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q20. Which option avoids the standard Essay-method trap about Metaphorical layer?
+### Q16. Which option avoids the standard Essay-method trap about Exam facts / source basis — 3?
 
-A. Maximise the number of outputs produced by Metaphorical layer, even if they repeat one claim.
-B. Allow an exception discovered through Metaphorical layer to replace the central proposition.
-C. Silently tidy the printed prompt before applying Metaphorical layer to make it easier to answer.
-D. A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
+A. Maximise the number of outputs produced by Exam facts / source basis — 3, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 3 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 3 to make it easier to answer.
+D. of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
 
 **Answer: D.**
-**Explanation:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q21. Which option applies Normative layer as an Essay-method distinction?
+### Q17. Which option applies Exam facts / source basis — 4 as an Essay-method distinction?
 
-A. The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
-B. Treat Normative layer as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Normative layer with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Normative layer to add more headings or dimensions without testing coherence.
+A. free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
+B. Treat Exam facts / source basis — 4 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Exam facts / source basis — 4 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Exam facts / source basis — 4 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q22. Which use of Normative layer stays closest to the printed prompt?
+### Q18. Which use of Exam facts / source basis — 4 stays closest to the printed prompt?
 
-A. Apply Normative layer only after drafting, when topic drift can no longer be prevented.
-B. The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
-C. Use Normative layer while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Normative layer regardless of thesis fit.
+A. Apply Exam facts / source basis — 4 only after drafting, when topic drift can no longer be prevented.
+B. free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
+C. Use Exam facts / source basis — 4 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Exam facts / source basis — 4 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q23. Which statement preserves the strategy-versus-official-rule boundary for Normative layer?
+### Q19. Which statement preserves the strategy-versus-official-rule boundary for Exam facts / source basis — 4?
 
-A. Present Normative layer as an official marking rule rather than a pedagogical scaffold.
-B. Use Normative layer to avoid stating a serious counter-case or qualification.
-C. The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
-D. Support Normative layer with an unverified statistic, attribution or current claim.
+A. Present Exam facts / source basis — 4 as an official marking rule rather than a pedagogical scaffold.
+B. Use Exam facts / source basis — 4 to avoid stating a serious counter-case or qualification.
+C. free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
+D. Support Exam facts / source basis — 4 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q24. Which option avoids the standard Essay-method trap about Normative layer?
+### Q20. Which option avoids the standard Essay-method trap about Exam facts / source basis — 4?
 
-A. Maximise the number of outputs produced by Normative layer, even if they repeat one claim.
-B. Allow an exception discovered through Normative layer to replace the central proposition.
-C. Silently tidy the printed prompt before applying Normative layer to make it easier to answer.
-D. The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
+A. Maximise the number of outputs produced by Exam facts / source basis — 4, even if they repeat one claim.
+B. Allow an exception discovered through Exam facts / source basis — 4 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Exam facts / source basis — 4 to make it easier to answer.
+D. free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
 
 **Answer: D.**
-**Explanation:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q25. Which option applies Operative tension as an Essay-method distinction?
+### Q21. Which option applies Philosophical prompt vs. issue prompt — which method applies as an Essay-method distinction?
 
-A. A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
-B. Treat Operative tension as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Operative tension with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Operative tension to add more headings or dimensions without testing coherence.
+A. Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
+B. Treat Philosophical prompt vs. issue prompt — which method applies as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Philosophical prompt vs. issue prompt — which method applies with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Philosophical prompt vs. issue prompt — which method applies to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q26. Which use of Operative tension stays closest to the printed prompt?
+### Q22. Which use of Philosophical prompt vs. issue prompt — which method applies stays closest to the printed prompt?
 
-A. Apply Operative tension only after drafting, when topic drift can no longer be prevented.
-B. A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
-C. Use Operative tension while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Operative tension regardless of thesis fit.
+A. Apply Philosophical prompt vs. issue prompt — which method applies only after drafting, when topic drift can no longer be prevented.
+B. Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
+C. Use Philosophical prompt vs. issue prompt — which method applies while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Philosophical prompt vs. issue prompt — which method applies regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q27. Which statement preserves the strategy-versus-official-rule boundary for Operative tension?
+### Q23. Which statement preserves the strategy-versus-official-rule boundary for Philosophical prompt vs. issue prompt — which method applies?
 
-A. Present Operative tension as an official marking rule rather than a pedagogical scaffold.
-B. Use Operative tension to avoid stating a serious counter-case or qualification.
-C. A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
-D. Support Operative tension with an unverified statistic, attribution or current claim.
+A. Present Philosophical prompt vs. issue prompt — which method applies as an official marking rule rather than a pedagogical scaffold.
+B. Use Philosophical prompt vs. issue prompt — which method applies to avoid stating a serious counter-case or qualification.
+C. Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
+D. Support Philosophical prompt vs. issue prompt — which method applies with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q28. Which option avoids the standard Essay-method trap about Operative tension?
+### Q24. Which option avoids the standard Essay-method trap about Philosophical prompt vs. issue prompt — which method applies?
 
-A. Maximise the number of outputs produced by Operative tension, even if they repeat one claim.
-B. Allow an exception discovered through Operative tension to replace the central proposition.
-C. Silently tidy the printed prompt before applying Operative tension to make it easier to answer.
-D. A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
+A. Maximise the number of outputs produced by Philosophical prompt vs. issue prompt — which method applies, even if they repeat one claim.
+B. Allow an exception discovered through Philosophical prompt vs. issue prompt — which method applies to replace the central proposition.
+C. Silently tidy the printed prompt before applying Philosophical prompt vs. issue prompt — which method applies to make it easier to answer.
+D. Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
 
 **Answer: D.**
-**Explanation:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q29. Which option applies Paradox as an Essay-method distinction?
+### Q25. Which option applies Philosophical prompt vs. issue prompt — which method applies — 2 as an Essay-method distinction?
 
-A. An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
-B. Treat Paradox as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Paradox with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Paradox to add more headings or dimensions without testing coherence.
+A. The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases.
+B. Treat Philosophical prompt vs. issue prompt — which method applies — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Philosophical prompt vs. issue prompt — which method applies — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Philosophical prompt vs. issue prompt — which method applies — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q30. Which use of Paradox stays closest to the printed prompt?
+### Q26. Which use of Philosophical prompt vs. issue prompt — which method applies — 2 stays closest to the printed prompt?
 
-A. Apply Paradox only after drafting, when topic drift can no longer be prevented.
-B. An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
-C. Use Paradox while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Paradox regardless of thesis fit.
+A. Apply Philosophical prompt vs. issue prompt — which method applies — 2 only after drafting, when topic drift can no longer be prevented.
+B. The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases.
+C. Use Philosophical prompt vs. issue prompt — which method applies — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Philosophical prompt vs. issue prompt — which method applies — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q31. Which statement preserves the strategy-versus-official-rule boundary for Paradox?
+### Q27. Which statement preserves the strategy-versus-official-rule boundary for Philosophical prompt vs. issue prompt — which method applies — 2?
 
-A. Present Paradox as an official marking rule rather than a pedagogical scaffold.
-B. Use Paradox to avoid stating a serious counter-case or qualification.
-C. An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
-D. Support Paradox with an unverified statistic, attribution or current claim.
+A. Present Philosophical prompt vs. issue prompt — which method applies — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Philosophical prompt vs. issue prompt — which method applies — 2 to avoid stating a serious counter-case or qualification.
+C. The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases.
+D. Support Philosophical prompt vs. issue prompt — which method applies — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q32. Which option avoids the standard Essay-method trap about Paradox?
+### Q28. Which option avoids the standard Essay-method trap about Philosophical prompt vs. issue prompt — which method applies — 2?
 
-A. Maximise the number of outputs produced by Paradox, even if they repeat one claim.
-B. Allow an exception discovered through Paradox to replace the central proposition.
-C. Silently tidy the printed prompt before applying Paradox to make it easier to answer.
-D. An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
+A. Maximise the number of outputs produced by Philosophical prompt vs. issue prompt — which method applies — 2, even if they repeat one claim.
+B. Allow an exception discovered through Philosophical prompt vs. issue prompt — which method applies — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Philosophical prompt vs. issue prompt — which method applies — 2 to make it easier to answer.
+D. The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases.
 
 **Answer: D.**
-**Explanation:** An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q33. Which option applies Scope as an Essay-method distinction?
+### Q29. Which option applies The central idea and common misreading as an Essay-method distinction?
 
-A. The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
-B. Treat Scope as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Scope with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Scope to add more headings or dimensions without testing coherence.
+A. Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
+B. Treat The central idea and common misreading as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace The central idea and common misreading with a familiar adjacent GS topic and maximise factual coverage.
+D. Use The central idea and common misreading to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q34. Which use of Scope stays closest to the printed prompt?
+### Q30. Which use of The central idea and common misreading stays closest to the printed prompt?
 
-A. Apply Scope only after drafting, when topic drift can no longer be prevented.
-B. The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
-C. Use Scope while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Scope regardless of thesis fit.
+A. Apply The central idea and common misreading only after drafting, when topic drift can no longer be prevented.
+B. Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
+C. Use The central idea and common misreading while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine The central idea and common misreading regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q35. Which statement preserves the strategy-versus-official-rule boundary for Scope?
+### Q31. Which statement preserves the strategy-versus-official-rule boundary for The central idea and common misreading?
 
-A. Present Scope as an official marking rule rather than a pedagogical scaffold.
-B. Use Scope to avoid stating a serious counter-case or qualification.
-C. The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
-D. Support Scope with an unverified statistic, attribution or current claim.
+A. Present The central idea and common misreading as an official marking rule rather than a pedagogical scaffold.
+B. Use The central idea and common misreading to avoid stating a serious counter-case or qualification.
+C. Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
+D. Support The central idea and common misreading with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q36. Which option avoids the standard Essay-method trap about Scope?
+### Q32. Which option avoids the standard Essay-method trap about The central idea and common misreading?
 
-A. Maximise the number of outputs produced by Scope, even if they repeat one claim.
-B. Allow an exception discovered through Scope to replace the central proposition.
-C. Silently tidy the printed prompt before applying Scope to make it easier to answer.
-D. The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
+A. Maximise the number of outputs produced by The central idea and common misreading, even if they repeat one claim.
+B. Allow an exception discovered through The central idea and common misreading to replace the central proposition.
+C. Silently tidy the printed prompt before applying The central idea and common misreading to make it easier to answer.
+D. Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
 
 **Answer: D.**
-**Explanation:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q37. Which option applies Hidden assumption as an Essay-method distinction?
+### Q33. Which option applies Basic decomposition questions as an Essay-method distinction?
 
-A. A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
-B. Treat Hidden assumption as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Hidden assumption with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Hidden assumption to add more headings or dimensions without testing coherence.
+A. 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+B. Treat Basic decomposition questions as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Basic decomposition questions with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Basic decomposition questions to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q38. Which use of Hidden assumption stays closest to the printed prompt?
+### Q34. Which use of Basic decomposition questions stays closest to the printed prompt?
 
-A. Apply Hidden assumption only after drafting, when topic drift can no longer be prevented.
-B. A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
-C. Use Hidden assumption while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Hidden assumption regardless of thesis fit.
+A. Apply Basic decomposition questions only after drafting, when topic drift can no longer be prevented.
+B. 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+C. Use Basic decomposition questions while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Basic decomposition questions regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q39. Which statement preserves the strategy-versus-official-rule boundary for Hidden assumption?
+### Q35. Which statement preserves the strategy-versus-official-rule boundary for Basic decomposition questions?
 
-A. Present Hidden assumption as an official marking rule rather than a pedagogical scaffold.
-B. Use Hidden assumption to avoid stating a serious counter-case or qualification.
-C. A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
-D. Support Hidden assumption with an unverified statistic, attribution or current claim.
+A. Present Basic decomposition questions as an official marking rule rather than a pedagogical scaffold.
+B. Use Basic decomposition questions to avoid stating a serious counter-case or qualification.
+C. 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+D. Support Basic decomposition questions with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q40. Which option avoids the standard Essay-method trap about Hidden assumption?
+### Q36. Which option avoids the standard Essay-method trap about Basic decomposition questions?
 
-A. Maximise the number of outputs produced by Hidden assumption, even if they repeat one claim.
-B. Allow an exception discovered through Hidden assumption to replace the central proposition.
-C. Silently tidy the printed prompt before applying Hidden assumption to make it easier to answer.
-D. A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
+A. Maximise the number of outputs produced by Basic decomposition questions, even if they repeat one claim.
+B. Allow an exception discovered through Basic decomposition questions to replace the central proposition.
+C. Silently tidy the printed prompt before applying Basic decomposition questions to make it easier to answer.
+D. 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
 
 **Answer: D.**
-**Explanation:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q41. Which option applies Exception as an Essay-method distinction?
+### Q37. Which option applies Claim–assumption–scope–exception test as an Essay-method distinction?
 
-A. Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
-B. Treat Exception as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Exception with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Exception to add more headings or dimensions without testing coherence.
+A. This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
+B. Treat Claim–assumption–scope–exception test as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Claim–assumption–scope–exception test with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Claim–assumption–scope–exception test to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q42. Which use of Exception stays closest to the printed prompt?
+### Q38. Which use of Claim–assumption–scope–exception test stays closest to the printed prompt?
 
-A. Apply Exception only after drafting, when topic drift can no longer be prevented.
-B. Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
-C. Use Exception while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Exception regardless of thesis fit.
+A. Apply Claim–assumption–scope–exception test only after drafting, when topic drift can no longer be prevented.
+B. This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
+C. Use Claim–assumption–scope–exception test while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Claim–assumption–scope–exception test regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q43. Which statement preserves the strategy-versus-official-rule boundary for Exception?
+### Q39. Which statement preserves the strategy-versus-official-rule boundary for Claim–assumption–scope–exception test?
 
-A. Present Exception as an official marking rule rather than a pedagogical scaffold.
-B. Use Exception to avoid stating a serious counter-case or qualification.
-C. Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
-D. Support Exception with an unverified statistic, attribution or current claim.
+A. Present Claim–assumption–scope–exception test as an official marking rule rather than a pedagogical scaffold.
+B. Use Claim–assumption–scope–exception test to avoid stating a serious counter-case or qualification.
+C. This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
+D. Support Claim–assumption–scope–exception test with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q44. Which option avoids the standard Essay-method trap about Exception?
+### Q40. Which option avoids the standard Essay-method trap about Claim–assumption–scope–exception test?
 
-A. Maximise the number of outputs produced by Exception, even if they repeat one claim.
-B. Allow an exception discovered through Exception to replace the central proposition.
-C. Silently tidy the printed prompt before applying Exception to make it easier to answer.
-D. Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
+A. Maximise the number of outputs produced by Claim–assumption–scope–exception test, even if they repeat one claim.
+B. Allow an exception discovered through Claim–assumption–scope–exception test to replace the central proposition.
+C. Silently tidy the printed prompt before applying Claim–assumption–scope–exception test to make it easier to answer.
+D. This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
 
 **Answer: D.**
-**Explanation:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q45. Which option applies Counter-reading as an Essay-method distinction?
+### Q41. Which option applies India-first illustration starters as an Essay-method distinction?
 
-A. A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
-B. Treat Counter-reading as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Counter-reading with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Counter-reading to add more headings or dimensions without testing coherence.
+A. For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
+B. Treat India-first illustration starters as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace India-first illustration starters with a familiar adjacent GS topic and maximise factual coverage.
+D. Use India-first illustration starters to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q46. Which use of Counter-reading stays closest to the printed prompt?
+### Q42. Which use of India-first illustration starters stays closest to the printed prompt?
 
-A. Apply Counter-reading only after drafting, when topic drift can no longer be prevented.
-B. A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
-C. Use Counter-reading while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Counter-reading regardless of thesis fit.
+A. Apply India-first illustration starters only after drafting, when topic drift can no longer be prevented.
+B. For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
+C. Use India-first illustration starters while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine India-first illustration starters regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q47. Which statement preserves the strategy-versus-official-rule boundary for Counter-reading?
+### Q43. Which statement preserves the strategy-versus-official-rule boundary for India-first illustration starters?
 
-A. Present Counter-reading as an official marking rule rather than a pedagogical scaffold.
-B. Use Counter-reading to avoid stating a serious counter-case or qualification.
-C. A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
-D. Support Counter-reading with an unverified statistic, attribution or current claim.
+A. Present India-first illustration starters as an official marking rule rather than a pedagogical scaffold.
+B. Use India-first illustration starters to avoid stating a serious counter-case or qualification.
+C. For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
+D. Support India-first illustration starters with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q48. Which option avoids the standard Essay-method trap about Counter-reading?
+### Q44. Which option avoids the standard Essay-method trap about India-first illustration starters?
 
-A. Maximise the number of outputs produced by Counter-reading, even if they repeat one claim.
-B. Allow an exception discovered through Counter-reading to replace the central proposition.
-C. Silently tidy the printed prompt before applying Counter-reading to make it easier to answer.
-D. A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
+A. Maximise the number of outputs produced by India-first illustration starters, even if they repeat one claim.
+B. Allow an exception discovered through India-first illustration starters to replace the central proposition.
+C. Silently tidy the printed prompt before applying India-first illustration starters to make it easier to answer.
+D. For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
 
 **Answer: D.**
-**Explanation:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q49. Which option applies Thesis alternatives as an Essay-method distinction?
+### Q45. Which option applies Thesis options and selection as an Essay-method distinction?
 
-A. Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
-B. Treat Thesis alternatives as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Thesis alternatives with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Thesis alternatives to add more headings or dimensions without testing coherence.
+A. From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
+B. Treat Thesis options and selection as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Thesis options and selection with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Thesis options and selection to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q50. Which use of Thesis alternatives stays closest to the printed prompt?
+### Q46. Which use of Thesis options and selection stays closest to the printed prompt?
 
-A. Apply Thesis alternatives only after drafting, when topic drift can no longer be prevented.
-B. Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
-C. Use Thesis alternatives while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Thesis alternatives regardless of thesis fit.
+A. Apply Thesis options and selection only after drafting, when topic drift can no longer be prevented.
+B. From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
+C. Use Thesis options and selection while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Thesis options and selection regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q51. Which statement preserves the strategy-versus-official-rule boundary for Thesis alternatives?
+### Q47. Which statement preserves the strategy-versus-official-rule boundary for Thesis options and selection?
 
-A. Present Thesis alternatives as an official marking rule rather than a pedagogical scaffold.
-B. Use Thesis alternatives to avoid stating a serious counter-case or qualification.
-C. Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
-D. Support Thesis alternatives with an unverified statistic, attribution or current claim.
+A. Present Thesis options and selection as an official marking rule rather than a pedagogical scaffold.
+B. Use Thesis options and selection to avoid stating a serious counter-case or qualification.
+C. From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
+D. Support Thesis options and selection with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q52. Which option avoids the standard Essay-method trap about Thesis alternatives?
+### Q48. Which option avoids the standard Essay-method trap about Thesis options and selection?
 
-A. Maximise the number of outputs produced by Thesis alternatives, even if they repeat one claim.
-B. Allow an exception discovered through Thesis alternatives to replace the central proposition.
-C. Silently tidy the printed prompt before applying Thesis alternatives to make it easier to answer.
-D. Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
+A. Maximise the number of outputs produced by Thesis options and selection, even if they repeat one claim.
+B. Allow an exception discovered through Thesis options and selection to replace the central proposition.
+C. Silently tidy the printed prompt before applying Thesis options and selection to make it easier to answer.
+D. From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
 
 **Answer: D.**
-**Explanation:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q53. Which option applies Mechanism as an Essay-method distinction?
+### Q49. Which option applies Simple essay architecture as an Essay-method distinction?
 
-A. The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
-B. Treat Mechanism as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Mechanism with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Mechanism to add more headings or dimensions without testing coherence.
+A. A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
+B. Treat Simple essay architecture as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Simple essay architecture with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Simple essay architecture to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q54. Which use of Mechanism stays closest to the printed prompt?
+### Q50. Which use of Simple essay architecture stays closest to the printed prompt?
 
-A. Apply Mechanism only after drafting, when topic drift can no longer be prevented.
-B. The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
-C. Use Mechanism while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Mechanism regardless of thesis fit.
+A. Apply Simple essay architecture only after drafting, when topic drift can no longer be prevented.
+B. A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
+C. Use Simple essay architecture while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Simple essay architecture regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q55. Which statement preserves the strategy-versus-official-rule boundary for Mechanism?
+### Q51. Which statement preserves the strategy-versus-official-rule boundary for Simple essay architecture?
 
-A. Present Mechanism as an official marking rule rather than a pedagogical scaffold.
-B. Use Mechanism to avoid stating a serious counter-case or qualification.
-C. The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
-D. Support Mechanism with an unverified statistic, attribution or current claim.
+A. Present Simple essay architecture as an official marking rule rather than a pedagogical scaffold.
+B. Use Simple essay architecture to avoid stating a serious counter-case or qualification.
+C. A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
+D. Support Simple essay architecture with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q56. Which option avoids the standard Essay-method trap about Mechanism?
+### Q52. Which option avoids the standard Essay-method trap about Simple essay architecture?
 
-A. Maximise the number of outputs produced by Mechanism, even if they repeat one claim.
-B. Allow an exception discovered through Mechanism to replace the central proposition.
-C. Silently tidy the printed prompt before applying Mechanism to make it easier to answer.
-D. The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
+A. Maximise the number of outputs produced by Simple essay architecture, even if they repeat one claim.
+B. Allow an exception discovered through Simple essay architecture to replace the central proposition.
+C. Silently tidy the printed prompt before applying Simple essay architecture to make it easier to answer.
+D. A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
 
 **Answer: D.**
-**Explanation:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q57. Which option applies Scale test as an Essay-method distinction?
+### Q53. Which option applies Opening, body and closure moves as an Essay-method distinction?
 
-A. A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
-B. Treat Scale test as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Scale test with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Scale test to add more headings or dimensions without testing coherence.
+A. A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
+B. Treat Opening, body and closure moves as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Opening, body and closure moves with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Opening, body and closure moves to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q58. Which use of Scale test stays closest to the printed prompt?
+### Q54. Which use of Opening, body and closure moves stays closest to the printed prompt?
 
-A. Apply Scale test only after drafting, when topic drift can no longer be prevented.
-B. A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
-C. Use Scale test while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Scale test regardless of thesis fit.
+A. Apply Opening, body and closure moves only after drafting, when topic drift can no longer be prevented.
+B. A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
+C. Use Opening, body and closure moves while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Opening, body and closure moves regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q59. Which statement preserves the strategy-versus-official-rule boundary for Scale test?
+### Q55. Which statement preserves the strategy-versus-official-rule boundary for Opening, body and closure moves?
 
-A. Present Scale test as an official marking rule rather than a pedagogical scaffold.
-B. Use Scale test to avoid stating a serious counter-case or qualification.
-C. A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
-D. Support Scale test with an unverified statistic, attribution or current claim.
+A. Present Opening, body and closure moves as an official marking rule rather than a pedagogical scaffold.
+B. Use Opening, body and closure moves to avoid stating a serious counter-case or qualification.
+C. A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
+D. Support Opening, body and closure moves with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q60. Which option avoids the standard Essay-method trap about Scale test?
+### Q56. Which option avoids the standard Essay-method trap about Opening, body and closure moves?
 
-A. Maximise the number of outputs produced by Scale test, even if they repeat one claim.
-B. Allow an exception discovered through Scale test to replace the central proposition.
-C. Silently tidy the printed prompt before applying Scale test to make it easier to answer.
-D. A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
+A. Maximise the number of outputs produced by Opening, body and closure moves, even if they repeat one claim.
+B. Allow an exception discovered through Opening, body and closure moves to replace the central proposition.
+C. Silently tidy the printed prompt before applying Opening, body and closure moves to make it easier to answer.
+D. A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
 
 **Answer: D.**
-**Explanation:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q61. Which option applies Examples as an Essay-method distinction?
+### Q57. Which option applies Advanced proposition and boundary as an Essay-method distinction?
 
-A. Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
-B. Treat Examples as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Examples with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Examples to add more headings or dimensions without testing coherence.
+A. Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
+B. Treat Advanced proposition and boundary as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Advanced proposition and boundary with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Advanced proposition and boundary to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q62. Which use of Examples stays closest to the printed prompt?
+### Q58. Which use of Advanced proposition and boundary stays closest to the printed prompt?
 
-A. Apply Examples only after drafting, when topic drift can no longer be prevented.
-B. Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
-C. Use Examples while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Examples regardless of thesis fit.
+A. Apply Advanced proposition and boundary only after drafting, when topic drift can no longer be prevented.
+B. Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
+C. Use Advanced proposition and boundary while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Advanced proposition and boundary regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q63. Which statement preserves the strategy-versus-official-rule boundary for Examples?
+### Q59. Which statement preserves the strategy-versus-official-rule boundary for Advanced proposition and boundary?
 
-A. Present Examples as an official marking rule rather than a pedagogical scaffold.
-B. Use Examples to avoid stating a serious counter-case or qualification.
-C. Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
-D. Support Examples with an unverified statistic, attribution or current claim.
+A. Present Advanced proposition and boundary as an official marking rule rather than a pedagogical scaffold.
+B. Use Advanced proposition and boundary to avoid stating a serious counter-case or qualification.
+C. Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
+D. Support Advanced proposition and boundary with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q64. Which option avoids the standard Essay-method trap about Examples?
+### Q60. Which option avoids the standard Essay-method trap about Advanced proposition and boundary?
 
-A. Maximise the number of outputs produced by Examples, even if they repeat one claim.
-B. Allow an exception discovered through Examples to replace the central proposition.
-C. Silently tidy the printed prompt before applying Examples to make it easier to answer.
-D. Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
+A. Maximise the number of outputs produced by Advanced proposition and boundary, even if they repeat one claim.
+B. Allow an exception discovered through Advanced proposition and boundary to replace the central proposition.
+C. Silently tidy the printed prompt before applying Advanced proposition and boundary to make it easier to answer.
+D. Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
 
 **Answer: D.**
-**Explanation:** Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q65. Which option applies Counterexamples as an Essay-method distinction?
+### Q61. Which option applies Concept definition and taxonomy as an Essay-method distinction?
 
-A. A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
-B. Treat Counterexamples as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Counterexamples with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Counterexamples to add more headings or dimensions without testing coherence.
+A. water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
+B. Treat Concept definition and taxonomy as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Concept definition and taxonomy with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Concept definition and taxonomy to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q66. Which use of Counterexamples stays closest to the printed prompt?
+### Q62. Which use of Concept definition and taxonomy stays closest to the printed prompt?
 
-A. Apply Counterexamples only after drafting, when topic drift can no longer be prevented.
-B. A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
-C. Use Counterexamples while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Counterexamples regardless of thesis fit.
+A. Apply Concept definition and taxonomy only after drafting, when topic drift can no longer be prevented.
+B. water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
+C. Use Concept definition and taxonomy while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Concept definition and taxonomy regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q67. Which statement preserves the strategy-versus-official-rule boundary for Counterexamples?
+### Q63. Which statement preserves the strategy-versus-official-rule boundary for Concept definition and taxonomy?
 
-A. Present Counterexamples as an official marking rule rather than a pedagogical scaffold.
-B. Use Counterexamples to avoid stating a serious counter-case or qualification.
-C. A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
-D. Support Counterexamples with an unverified statistic, attribution or current claim.
+A. Present Concept definition and taxonomy as an official marking rule rather than a pedagogical scaffold.
+B. Use Concept definition and taxonomy to avoid stating a serious counter-case or qualification.
+C. water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
+D. Support Concept definition and taxonomy with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q68. Which option avoids the standard Essay-method trap about Counterexamples?
+### Q64. Which option avoids the standard Essay-method trap about Concept definition and taxonomy?
 
-A. Maximise the number of outputs produced by Counterexamples, even if they repeat one claim.
-B. Allow an exception discovered through Counterexamples to replace the central proposition.
-C. Silently tidy the printed prompt before applying Counterexamples to make it easier to answer.
-D. A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
+A. Maximise the number of outputs produced by Concept definition and taxonomy, even if they repeat one claim.
+B. Allow an exception discovered through Concept definition and taxonomy to replace the central proposition.
+C. Silently tidy the printed prompt before applying Concept definition and taxonomy to make it easier to answer.
+D. water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
 
 **Answer: D.**
-**Explanation:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q69. Which option applies Feedback as an Essay-method distinction?
+### Q65. Which option applies Concept definition and taxonomy — 2 as an Essay-method distinction?
 
-A. Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
-B. Treat Feedback as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Feedback with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Feedback to add more headings or dimensions without testing coherence.
+A. the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
+B. Treat Concept definition and taxonomy — 2 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Concept definition and taxonomy — 2 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Concept definition and taxonomy — 2 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q70. Which use of Feedback stays closest to the printed prompt?
+### Q66. Which use of Concept definition and taxonomy — 2 stays closest to the printed prompt?
 
-A. Apply Feedback only after drafting, when topic drift can no longer be prevented.
-B. Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
-C. Use Feedback while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Feedback regardless of thesis fit.
+A. Apply Concept definition and taxonomy — 2 only after drafting, when topic drift can no longer be prevented.
+B. the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
+C. Use Concept definition and taxonomy — 2 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Concept definition and taxonomy — 2 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q71. Which statement preserves the strategy-versus-official-rule boundary for Feedback?
+### Q67. Which statement preserves the strategy-versus-official-rule boundary for Concept definition and taxonomy — 2?
 
-A. Present Feedback as an official marking rule rather than a pedagogical scaffold.
-B. Use Feedback to avoid stating a serious counter-case or qualification.
-C. Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
-D. Support Feedback with an unverified statistic, attribution or current claim.
+A. Present Concept definition and taxonomy — 2 as an official marking rule rather than a pedagogical scaffold.
+B. Use Concept definition and taxonomy — 2 to avoid stating a serious counter-case or qualification.
+C. the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
+D. Support Concept definition and taxonomy — 2 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q72. Which option avoids the standard Essay-method trap about Feedback?
+### Q68. Which option avoids the standard Essay-method trap about Concept definition and taxonomy — 2?
 
-A. Maximise the number of outputs produced by Feedback, even if they repeat one claim.
-B. Allow an exception discovered through Feedback to replace the central proposition.
-C. Silently tidy the printed prompt before applying Feedback to make it easier to answer.
-D. Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
+A. Maximise the number of outputs produced by Concept definition and taxonomy — 2, even if they repeat one claim.
+B. Allow an exception discovered through Concept definition and taxonomy — 2 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Concept definition and taxonomy — 2 to make it easier to answer.
+D. the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
 
 **Answer: D.**
-**Explanation:** Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q73. Which option applies Attribution firewall as an Essay-method distinction?
+### Q69. Which option applies Concept definition and taxonomy — 3 as an Essay-method distinction?
 
-A. Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant.
-B. Treat Attribution firewall as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Attribution firewall with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Attribution firewall to add more headings or dimensions without testing coherence.
+A. is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
+B. Treat Concept definition and taxonomy — 3 as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Concept definition and taxonomy — 3 with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Concept definition and taxonomy — 3 to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q74. Which use of Attribution firewall stays closest to the printed prompt?
+### Q70. Which use of Concept definition and taxonomy — 3 stays closest to the printed prompt?
 
-A. Apply Attribution firewall only after drafting, when topic drift can no longer be prevented.
-B. Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant.
-C. Use Attribution firewall while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Attribution firewall regardless of thesis fit.
+A. Apply Concept definition and taxonomy — 3 only after drafting, when topic drift can no longer be prevented.
+B. is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
+C. Use Concept definition and taxonomy — 3 while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Concept definition and taxonomy — 3 regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q75. Which statement preserves the strategy-versus-official-rule boundary for Attribution firewall?
+### Q71. Which statement preserves the strategy-versus-official-rule boundary for Concept definition and taxonomy — 3?
 
-A. Present Attribution firewall as an official marking rule rather than a pedagogical scaffold.
-B. Use Attribution firewall to avoid stating a serious counter-case or qualification.
-C. Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant.
-D. Support Attribution firewall with an unverified statistic, attribution or current claim.
+A. Present Concept definition and taxonomy — 3 as an official marking rule rather than a pedagogical scaffold.
+B. Use Concept definition and taxonomy — 3 to avoid stating a serious counter-case or qualification.
+C. is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
+D. Support Concept definition and taxonomy — 3 with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q76. Which option avoids the standard Essay-method trap about Attribution firewall?
+### Q72. Which option avoids the standard Essay-method trap about Concept definition and taxonomy — 3?
 
-A. Maximise the number of outputs produced by Attribution firewall, even if they repeat one claim.
-B. Allow an exception discovered through Attribution firewall to replace the central proposition.
-C. Silently tidy the printed prompt before applying Attribution firewall to make it easier to answer.
-D. Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant.
+A. Maximise the number of outputs produced by Concept definition and taxonomy — 3, even if they repeat one claim.
+B. Allow an exception discovered through Concept definition and taxonomy — 3 to replace the central proposition.
+C. Silently tidy the printed prompt before applying Concept definition and taxonomy — 3 to make it easier to answer.
+D. is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
 
 **Answer: D.**
-**Explanation:** Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q77. Which option applies Printing-defect firewall as an Essay-method distinction?
+### Q73. Which option applies Tension pairs and hidden assumptions as an Essay-method distinction?
 
-A. Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal.
-B. Treat Printing-defect firewall as a compulsory UPSC formula even when it distorts the prompt.
-C. Replace Printing-defect firewall with a familiar adjacent GS topic and maximise factual coverage.
-D. Use Printing-defect firewall to add more headings or dimensions without testing coherence.
+A. Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing
+B. Treat Tension pairs and hidden assumptions as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Tension pairs and hidden assumptions with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Tension pairs and hidden assumptions to add more headings or dimensions without testing coherence.
 
 **Answer: A.**
-**Explanation:** Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q78. Which use of Printing-defect firewall stays closest to the printed prompt?
+### Q74. Which use of Tension pairs and hidden assumptions stays closest to the printed prompt?
 
-A. Apply Printing-defect firewall only after drafting, when topic drift can no longer be prevented.
-B. Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal.
-C. Use Printing-defect firewall while dropping the prompt's operator, qualifier or scale.
-D. Let a striking anecdote or quotation determine Printing-defect firewall regardless of thesis fit.
+A. Apply Tension pairs and hidden assumptions only after drafting, when topic drift can no longer be prevented.
+B. Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing
+C. Use Tension pairs and hidden assumptions while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Tension pairs and hidden assumptions regardless of thesis fit.
 
 **Answer: B.**
-**Explanation:** Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q79. Which statement preserves the strategy-versus-official-rule boundary for Printing-defect firewall?
+### Q75. Which statement preserves the strategy-versus-official-rule boundary for Tension pairs and hidden assumptions?
 
-A. Present Printing-defect firewall as an official marking rule rather than a pedagogical scaffold.
-B. Use Printing-defect firewall to avoid stating a serious counter-case or qualification.
-C. Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal.
-D. Support Printing-defect firewall with an unverified statistic, attribution or current claim.
+A. Present Tension pairs and hidden assumptions as an official marking rule rather than a pedagogical scaffold.
+B. Use Tension pairs and hidden assumptions to avoid stating a serious counter-case or qualification.
+C. Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing
+D. Support Tension pairs and hidden assumptions with an unverified statistic, attribution or current claim.
 
 **Answer: C.**
-**Explanation:** Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
-### Q80. Which option avoids the standard Essay-method trap about Printing-defect firewall?
+### Q76. Which option avoids the standard Essay-method trap about Tension pairs and hidden assumptions?
 
-A. Maximise the number of outputs produced by Printing-defect firewall, even if they repeat one claim.
-B. Allow an exception discovered through Printing-defect firewall to replace the central proposition.
-C. Silently tidy the printed prompt before applying Printing-defect firewall to make it easier to answer.
-D. Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal.
+A. Maximise the number of outputs produced by Tension pairs and hidden assumptions, even if they repeat one claim.
+B. Allow an exception discovered through Tension pairs and hidden assumptions to replace the central proposition.
+C. Silently tidy the printed prompt before applying Tension pairs and hidden assumptions to make it easier to answer.
+D. Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing
 
 **Answer: D.**
-**Explanation:** Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+**Explanation:** Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q77. Which option applies Levels of analysis and temporal-spatial scale as an Essay-method distinction?
+
+A. For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
+B. Treat Levels of analysis and temporal-spatial scale as a compulsory UPSC formula even when it distorts the prompt.
+C. Replace Levels of analysis and temporal-spatial scale with a familiar adjacent GS topic and maximise factual coverage.
+D. Use Levels of analysis and temporal-spatial scale to add more headings or dimensions without testing coherence.
+
+**Answer: A.**
+**Explanation:** For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q78. Which use of Levels of analysis and temporal-spatial scale stays closest to the printed prompt?
+
+A. Apply Levels of analysis and temporal-spatial scale only after drafting, when topic drift can no longer be prevented.
+B. For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
+C. Use Levels of analysis and temporal-spatial scale while dropping the prompt's operator, qualifier or scale.
+D. Let a striking anecdote or quotation determine Levels of analysis and temporal-spatial scale regardless of thesis fit.
+
+**Answer: B.**
+**Explanation:** For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q79. Which statement preserves the strategy-versus-official-rule boundary for Levels of analysis and temporal-spatial scale?
+
+A. Present Levels of analysis and temporal-spatial scale as an official marking rule rather than a pedagogical scaffold.
+B. Use Levels of analysis and temporal-spatial scale to avoid stating a serious counter-case or qualification.
+C. For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
+D. Support Levels of analysis and temporal-spatial scale with an unverified statistic, attribution or current claim.
+
+**Answer: C.**
+**Explanation:** For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
+
+### Q80. Which option avoids the standard Essay-method trap about Levels of analysis and temporal-spatial scale?
+
+A. Maximise the number of outputs produced by Levels of analysis and temporal-spatial scale, even if they repeat one claim.
+B. Allow an exception discovered through Levels of analysis and temporal-spatial scale to replace the central proposition.
+C. Silently tidy the printed prompt before applying Levels of analysis and temporal-spatial scale to make it easier to answer.
+D. For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
+
+**Answer: D.**
+**Explanation:** For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text. The other options convert a qualified writing method into an official formula, permit topic drift, or reward quantity without coherence and evidence safety.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
 
-The three cards use exact V1 prompt wording from 2024–2025 and provide method-focused decoding only. No official model answer, author or unique canonical interpretation is claimed.
+Three application cards use the repository's explicit V1/V2 status. No unavailable official model answer, marking rubric or attribution is invented.
 
-### PYQ DEMAND CARD 1 — 2024-A3 Essay
+### PYQ DEMAND CARD 1 — 2025-A3 Essay
 
-**Demand:** There is no path to happiness, Happiness is the path.
+**Demand:** Thought finds a world and creates one also.
 
-**Status:** Exact V1 wording, including the printed comma and capitalised second Happiness.
+**Status:** Exact V1 wording from a local official paper.
 
-**Model solution:** **Content-word inventory:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. **Relation or operator:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. **Literal layer:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. **Operative tension:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. **Hidden assumption:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. **Exception:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. **Thesis alternatives:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. **Printing-defect firewall:** Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
+**Model solution:** **Working thesis:** Thought interprets an inherited reality and simultaneously reshapes it through imagination, institutions and action; its creative power can liberate or dominate depending on evidence, ethics and inclusion. **Perception:** Concepts and language organise experience, helping people notice patterns that would otherwise remain invisible. **Scientific discovery:** Inquiry finds structures already present in nature while theories and technologies create new fields of human possibility. **Political imagination:** Ideas such as liberty, equality and constitutionalism first reinterpret injustice and then build institutions to contest it. **Economic creation:** Entrepreneurship and design transform knowledge into products, work and new forms of exchange. **Counter-view:** Thought is constrained by material conditions and cannot create reality by wish alone; imagination becomes effective through collective action and institutions. This is a repository-authored answer route, not an official model answer.
 
-### PYQ DEMAND CARD 2 — 2025-B5 Essay
+### PYQ DEMAND CARD 2 — 2024-B5 Essay
 
-**Demand:** Muddy water is best cleared by leaving it alone.
+**Demand:** Social media is triggering 'Fear of Missing Out' amongst the youth precipitating depression and loneliness.
 
-**Status:** Exact V1 wording; the card decodes restraint versus intervention without claiming one official reading.
+**Status:** Exact V1 wording from a local official paper.
 
-**Model solution:** **Literal layer:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. **Metaphorical layer:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate. **Operative tension:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. **Scope:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not. **Counter-reading:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival. **Mechanism:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. **Counterexamples:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
+**Model solution:** **Working thesis:** Social media can intensify FOMO by turning social comparison into a continuous, quantified and commercially amplified experience, yet youth distress arises from the interaction of platform design, social conditions and individual vulnerability rather than technology alone. **Comparison architecture:** Curated highlights make ordinary life appear deficient and convert belonging into a visible competition for attention. **Attention economy:** Notifications, streaks and algorithmic recommendation reward repeated checking and make absence feel like social loss. **Loneliness paradox:** High connectivity can coexist with weak intimacy when interaction is performative, fragmented or measured through public approval. **Unequal vulnerability:** Adolescents facing exclusion, academic pressure or weak support systems may experience the same platforms more harmfully. **Counter-view:** Blaming social media alone ignores family stress, unemployment, educational pressure and pre-existing mental-health conditions. This is a repository-authored answer route, not an official model answer.
 
-### PYQ DEMAND CARD 3 — 2024-B6 Essay
+### PYQ DEMAND CARD 3 — 2025-A1 Essay
 
-**Demand:** Nearly all men can stand adversity, but to test the character, give him power.
+**Demand:** Truth knows no color.
 
-**Status:** Exact V1 wording; no author is attached because the paper prints none.
+**Status:** Exact V1 wording from a local official paper.
 
-**Model solution:** **Free-standing proposition:** An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test. **Relation or operator:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. **Normative layer:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question. **Operative tension:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. **Hidden assumption:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. **Exception:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. **Scale test:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. **Attribution firewall:** Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant. This is a method-focused decoding or application card, not an official UPSC model answer and not a claim that only one interpretation is valid.
+**Model solution:** **Working thesis:** Truth should not vary with identity or power, yet access to evidence and credibility is socially unequal; a just search for truth therefore combines common standards with attention to excluded experience. **Evidence:** Public claims need reasons and verification that remain open to challenge. **Equality:** The identity of a speaker should neither disqualify testimony nor exempt it from scrutiny. **History:** Dominant institutions have sometimes silenced evidence carried by marginal groups. **Science:** Reproducibility and correction protect inquiry from authority and prejudice. **Counter-view:** Claims of colour-blind neutrality can preserve unequal power when the conditions of testimony and investigation are ignored. This is a repository-authored answer route, not an official model answer.
+
+### COMPLETE MODEL ESSAYS
+
+
+#### COMPLETE MODEL ESSAY 1 — 2025-A3
+
+**Prompt:** Thought finds a world and creates one also.
+
+**Verification:** V1 — directly verified from a local official UPSC paper.
+
+**Model essay (1000 words):**
+
+“Thought finds a world and creates one also.” is not a decorative slogan but a proposition about how human choices, institutions and consequences relate. Thought interprets an inherited reality and simultaneously reshapes it through imagination, institutions and action; its creative power can liberate or dominate depending on evidence, ethics and inclusion. This reading keeps the discussion centred on the prompt while using keywords, metaphor, hidden premise, tension, qualified reading as a method rather than as visible scaffolding.
+
+At the level of the person, **perception** clarifies the proposition. Concepts and language organise experience, helping people notice patterns that would otherwise remain invisible. A useful illustration is India's constitutional commitment to justice, liberty, equality and fraternity; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The personal insight becomes social, **scientific discovery** clarifies the proposition. Inquiry finds structures already present in nature while theories and technologies create new fields of human possibility. A useful illustration is the Universal Declaration of Human Rights and its common standard of equal dignity; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+Institutions then determine, **political imagination** clarifies the proposition. Ideas such as liberty, equality and constitutionalism first reinterpret injustice and then build institutions to contest it. A useful illustration is India's constitutional system of limited office, judicial review and public accountability; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The argument also changes across time, **economic creation** clarifies the proposition. Entrepreneurship and design transform knowledge into products, work and new forms of exchange. A useful illustration is India's constitutional commitment to justice, liberty, equality and fraternity; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+An Indian and democratic perspective adds, **social construction** clarifies the proposition. Prejudices and stereotypes also create harmful realities by shaping institutions, expectations and self-belief. A useful illustration is India's self-help-group and cooperative experience, which converts association into practical capability; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+The widest test is ethical and intergenerational, **ethical responsibility** clarifies the proposition. Because thought has consequences, creativity must remain open to criticism, evidence and those who bear its costs. A useful illustration is India's educational, scientific and public-health institutions; its value lies not in name-dropping but in showing how an idea becomes capability, incentive, restraint or exclusion. Yet the illustration must remain proportionate: it supports this part of the argument and cannot by itself prove a universal claim. The paragraph therefore returns to the central thesis and prepares the next change of scale.
+
+A serious essay must now confront the strongest objection. Thought is constrained by material conditions and cannot create reality by wish alone; imagination becomes effective through collective action and institutions. This objection deserves to be stated in its strongest form because a weak caricature produces only a ceremonial rebuttal. It changes the argument by identifying the condition under which the prompt fails, becomes incomplete or generates unequal costs. The response is therefore not to abandon the thesis, but to qualify its reach, specify safeguards and distinguish a defensible principle from its simplistic imitation.
+
+The synthesis follows from that qualification. Individual agency matters, but institutions shape the options within which agency operates. Material capacity matters, but dignity and justice determine whether capacity is worthwhile. National action matters, but ecological and international interdependence prevent self-contained solutions. This is why GS knowledge must enter the essay as analysed evidence rather than as a catalogue of constitutional articles, schemes, reports or sectors.
+
+India makes this synthesis concrete because diversity, unequal capability and democratic aspiration coexist at every scale. The Constitution's language of justice, liberty, equality and fraternity supplies a normative direction, but constitutional vocabulary earns its place only when the essay explains a mechanism: how rights restrain power, how public capability widens agency, how local participation corrects distant administration, or how scientific temper enables revision. Likewise, an example from social reform, cooperative action, public health, education, technology or ecology should illuminate one claim rather than stand as a miniature GS note. This discipline allows an India-centric essay to remain reflective and universal without becoming abstract, celebratory or scheme-heavy. It also preserves balance by connecting aspiration to capacity, rights to remedies, and public purpose to accountable implementation.
+
+Human progress depends on thought that sees the world honestly, imagines it differently and accepts responsibility for the world its imagination helps produce. The prompt is thus neither accepted as an absolute nor dissolved into a balanced list. Its insight survives in a more precise form: one that connects character with institutions, freedom with responsibility, innovation with justice, and present action with the future. That sustained central argument gives the essay coherence, while careful evidence, transitions and qualification give it credibility.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish literal, metaphorical and normative layers in philosophical prompts. Answer in about 150 words.
+**Question:** Define the core writing problem in Philosophical Quote Decoding. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Literal layer. **Named evidence/example:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Metaphorical layer. **Named evidence/example:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Normative layer. **Named evidence/example:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Purpose and scope. **Named evidence/example:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis. **Named evidence/example:** attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
-- A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
-- The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
+- Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
+- attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
 
-**Qualified conclusion:** **Claim:** Literal layer. **Named evidence/example:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Metaphorical layer. **Named evidence/example:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Normative layer. **Named evidence/example:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Purpose and scope. **Named evidence/example:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis. **Named evidence/example:** attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain the role of relation or operator in decoding an aphorism. Answer in about 150 words.
+**Question:** Distinguish the valid method from its closest misuse in Philosophical Quote Decoding. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Content-word inventory. **Named evidence/example:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Relation or operator. **Named evidence/example:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Operative tension. **Named evidence/example:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Exam facts / source basis — 2. **Named evidence/example:** official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 3. **Named evidence/example:** of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
-- The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
-- A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
+- official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
+- of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
 
-**Qualified conclusion:** **Claim:** Content-word inventory. **Named evidence/example:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Relation or operator. **Named evidence/example:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Operative tension. **Named evidence/example:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Exam facts / source basis — 2. **Named evidence/example:** official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 3. **Named evidence/example:** of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Show how scope, assumption and exception convert a universal prompt into a defensible reading. Answer in about 250 words.
+**Question:** Apply Philosophical Quote Decoding to one philosophical UPSC Essay prompt. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Scope. **Named evidence/example:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden assumption. **Named evidence/example:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exception. **Named evidence/example:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale test. **Named evidence/example:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Exam facts / source basis — 4. **Named evidence/example:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Philosophical prompt vs. issue prompt — which method applies. **Named evidence/example:** Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Philosophical prompt vs. issue prompt — which method applies — 2. **Named evidence/example:** The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
-- A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
-- Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
-- A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
+- free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
+- Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
+- The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases.
+- Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
 
-**Qualified conclusion:** **Claim:** Scope. **Named evidence/example:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden assumption. **Named evidence/example:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exception. **Named evidence/example:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale test. **Named evidence/example:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Exam facts / source basis — 4. **Named evidence/example:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Philosophical prompt vs. issue prompt — which method applies. **Named evidence/example:** Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Philosophical prompt vs. issue prompt — which method applies — 2. **Named evidence/example:** The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** The central idea and common misreading. **Named evidence/example:** Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Design a counter-reading test for selecting among thesis alternatives. Answer in about 250 words.
+**Question:** Apply Philosophical Quote Decoding to one issue-based or hybrid UPSC Essay prompt. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Counter-reading. **Named evidence/example:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis alternatives. **Named evidence/example:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Mechanism. **Named evidence/example:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counterexamples. **Named evidence/example:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Basic decomposition questions. **Named evidence/example:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Claim–assumption–scope–exception test. **Named evidence/example:** This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** India-first illustration starters. **Named evidence/example:** For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis options and selection. **Named evidence/example:** From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
-- Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
-- The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
-- A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
+- 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+- This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
+- For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
+- From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
 
-**Qualified conclusion:** **Claim:** Counter-reading. **Named evidence/example:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis alternatives. **Named evidence/example:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Mechanism. **Named evidence/example:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counterexamples. **Named evidence/example:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Basic decomposition questions. **Named evidence/example:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Claim–assumption–scope–exception test. **Named evidence/example:** This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** India-first illustration starters. **Named evidence/example:** For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis options and selection. **Named evidence/example:** From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Decode one paradoxical prompt from literal wording to a qualified working thesis. Answer in about 300 words.
+**Question:** Evaluate the limits, counter-cases and repair protocol for Philosophical Quote Decoding. Answer in about 300 words.
 
-**Model thesis:** **Claim:** Content-word inventory. **Named evidence/example:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Relation or operator. **Named evidence/example:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Literal layer. **Named evidence/example:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Operative tension. **Named evidence/example:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Paradox. **Named evidence/example:** An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden assumption. **Named evidence/example:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exception. **Named evidence/example:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis alternatives. **Named evidence/example:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Simple essay architecture. **Named evidence/example:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Opening, body and closure moves. **Named evidence/example:** A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Advanced proposition and boundary. **Named evidence/example:** Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy. **Named evidence/example:** water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
-- The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
-- The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
-- A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
-- An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
-- A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
-- Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
-- Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
+- A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
+- A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
+- Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
+- water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
+- the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
 
-**Qualified conclusion:** **Claim:** Content-word inventory. **Named evidence/example:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Relation or operator. **Named evidence/example:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Literal layer. **Named evidence/example:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Operative tension. **Named evidence/example:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Paradox. **Named evidence/example:** An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Hidden assumption. **Named evidence/example:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exception. **Named evidence/example:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Thesis alternatives. **Named evidence/example:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Simple essay architecture. **Named evidence/example:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Opening, body and closure moves. **Named evidence/example:** A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Advanced proposition and boundary. **Named evidence/example:** Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy. **Named evidence/example:** water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Examine how examples, counterexamples and feedback loops test a philosophical interpretation. Answer in about 300 words.
+**Question:** Construct an examiner-ready answer architecture using Philosophical Quote Decoding. Answer in about 300 words.
 
-**Model thesis:** **Claim:** Mechanism. **Named evidence/example:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale test. **Named evidence/example:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Examples. **Named evidence/example:** Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counterexamples. **Named evidence/example:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Feedback. **Named evidence/example:** Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Model thesis:** **Claim:** Purpose and scope. **Named evidence/example:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 4. **Named evidence/example:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Basic decomposition questions. **Named evidence/example:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Simple essay architecture. **Named evidence/example:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 3. **Named evidence/example:** is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Levels of analysis and temporal-spatial scale. **Named evidence/example:** For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 **Claim → named evidence → analysis → qualification:**
 
-- The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
-- A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
-- Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
-- A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
-- Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
+- Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
+- free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
+- 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+- A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
+- the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
+- is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
+- Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing
+- For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
 
-**Qualified conclusion:** **Claim:** Mechanism. **Named evidence/example:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Scale test. **Named evidence/example:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Examples. **Named evidence/example:** Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Counterexamples. **Named evidence/example:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Feedback. **Named evidence/example:** Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
+**Qualified conclusion:** **Claim:** Purpose and scope. **Named evidence/example:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Exam facts / source basis — 4. **Named evidence/example:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Basic decomposition questions. **Named evidence/example:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible? **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Simple essay architecture. **Named evidence/example:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 2. **Named evidence/example:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good." **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Concept definition and taxonomy — 3. **Named evidence/example:** is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Tension pairs and hidden assumptions. **Named evidence/example:** Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer. **Claim:** Levels of analysis and temporal-spatial scale. **Named evidence/example:** For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text. **Analysis:** This identifies the exact Essay-method move and shows how it keeps the response tied to the printed proposition rather than an adjacent GS topic. **Qualification:** It remains a repository-audited writing scaffold, not an official UPSC rubric, compulsory formula or model answer.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -2437,164 +2512,177 @@ identification is consistent, and log any drift in `16`'s error log.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Philosophical Quote Decoding: WORD, OPERATOR AND THREE-LAYER DECODING MAP
+### Philosophical Quote Decoding: OWNED SKILL AND PROMPT-FIDELITY CONTROLS
 
-1. **Free-standing proposition:** An unattributed philosophical prompt is treated as a proposition to interpret on its own words, not as a quotation-recall test.
-2. **Content-word inventory:** Decoding begins by identifying every content word and stating its plain meaning before extending the sentence.
-3. **Relation or operator:** The prompt's operative relation may be causal, comparative, conditional, definitional, paradoxical or process-versus-outcome.
-4. **Literal layer:** The literal layer records what the sentence says before metaphorical extension and prevents the essay from losing textual contact.
-5. **Metaphorical layer:** A metaphor-carrying aphorism requires separating the image or vehicle from the idea or tenor it is used to illuminate.
-6. **Normative layer:** The normative layer asks what value, standard, duty or conception of a good life the proposition appears to affirm or question.
-7. **Operative tension:** A usable decoding names the opposition or double pull inside the whole sentence, rather than writing generally on one keyword.
-8. **Paradox:** An apparent contradiction may disclose a deeper relationship, but it must be explained rather than admired as clever wording.
-9. **Scope:** The interpretation should state whether the claim operates at individual, institutional, state, global or civilisational scale and where it does not.
-10. **Hidden assumption:** A compressed proposition normally relies on an unstated premise that must be surfaced and tested before becoming a thesis.
-11. **Exception:** Universal wording is usually handled as a strong tendency with a defensible exception, not as an absolute law or an empty truism.
-12. **Counter-reading:** A serious alternative reading tests whether the preferred interpretation is textually faithful and more generative than its rival.
-13. **Thesis alternatives:** Drafting two or three possible theses exposes interpretive choice and prevents premature commitment to the first metaphorical association.
-14. **Mechanism:** The decoded relation needs a conceptual or causal mechanism explaining how one term bears on the other.
-15. **Scale test:** A reading should be tested across scales and retained only where the prompt's own language can sustain the extension.
-16. **Examples:** Examples should instantiate the decoded claim at a chosen scale; they do not substitute for explaining the relation.
-17. **Counterexamples:** A counterexample identifies a limit or condition and should qualify the claim without replacing it with the opposite thesis.
-18. **Feedback:** Where relevant, trace whether the consequence loops back to reinforce, correct or transform the starting condition.
-19. **Attribution firewall:** Do not invent author attribution, a source text or intellectual biography when the paper prints none; prompt wording is sufficient warrant.
-20. **Printing-defect firewall:** Reproduce a V1 prompt as printed but interpret its evident sense; a typographical defect is not a secret philosophical signal.
+1. **Purpose and scope:** Most prompts in both audited years are single-sentence aphorisms (e.g. "Truth knows no color"; "Forests precede civilizations and deserts follow them"). This topic teaches a repeatable method to move from the literal sentence to a defensible essay-ready reading. It does not cover issue-based prompts like 2024-B5 (FOMO) — see 03 — or thesis construction proper — see 05.
+2. **Exam facts / source basis:** attribution ; the full 100-prompt ledger, with each year's verification level, is ../PYQ-Corpus-2013-2025.md.
+3. **Exam facts / source basis — 2:** official PDFs, 2024-A2 prints "The empires of the futures will be the empires of the mind" and 2024-A3 prints "There is no path to happiness , Happiness is the path" — plural "futures", and a comma rather than a semicolon. Coaching reproductions commonly normalise both. Do not.
+4. **Exam facts / source basis — 3:** of the sentence; an essay arguing that "futures" (plural) signals multiple possible futures is answering a question the paper did not ask.
+5. **Exam facts / source basis — 4:** free-standing proposition to be interpreted on its own terms — there is no "correct," externally sourced reading to recall.
+6. **Philosophical prompt vs. issue prompt — which method applies:** Deciding this in the first thirty seconds saves the whole attempt, because the two prompt types need different first moves.
+7. **Philosophical prompt vs. issue prompt — which method applies — 2:** The boundary is not always clean: a prompt can be metaphorical in phrasing and empirical in reference (2024-A1, forests and deserts). Where it is genuinely hybrid, decode first and scope second — decoding a prompt that needed only scoping costs a minute; scoping a prompt that needed decoding produces an essay about the wrong subject. 03, Section 3a, gives a three-question test for the borderline cases.
+8. **The central idea and common misreading:** Central idea: decoding means finding the operative tension , not just restating the sentence in different words. Common misreading: treating the aphorism as a trivia prompt requiring a "clever" literary allusion, or assuming there is one single "official" interpretation to be guessed and matched — there is not; a well-argued, textually faithful reading is what the exam rewards.
+9. **Basic decomposition questions:** 1. What is the literal claim of the sentence? 2. What two ideas or states does the sentence place in relation to each other (e.g. forests/deserts; empires/mind; happiness/path)? 3. Is the relation causal ("precede... follow"), definitional ("is the path"), or comparative ("less than")? 4. What is the most natural non-literal reading that still respects the sentence's own words? 5. What would a contrary reading of the same sentence look like — and why would the straightforward reading still be more defensible?
+10. **Claim–assumption–scope–exception test:** This prevents a universal-sounding aphorism from becoming an absolute essay. The exception qualifies the claim; it must not replace the claim.
+11. **India-first illustration starters:** For each decoded tension, recall (not invent) one Indian institutional, historical or social example that embodies each side of the tension — e.g. forest-cover policy debates for 2024-A1, or a documented public-conduct episode for "supreme art of war... without fighting" (2025-A2). Full verified-example discipline: 12.
+12. **Thesis options and selection:** From the decoded tension, draft two or three alternative thesis sentences, not just one — e.g. for 2024-A3 ("Happiness is the path"): (a) happiness is a by-product of conduct, not an end-state to be chased; (b) policy that treats well-being as a future target rather than a present condition under-serves citizens. Choose the alternative you can qualify and defend most concretely. Full method: 05.
+13. **Simple essay architecture:** A decoded aphorism typically supports: one paragraph establishing the literal-to-extended reading, two to four paragraphs developing distinct dimensions of the tension (see 04), one paragraph testing a counter-reading (see 08 cross-link to counterargument in that topic), and a conclusion resolving the tension into a synthesis. Full architecture: 07.
+14. **Opening, body and closure moves:** A safe opening states the literal sentence's tension in your own words before extending it — this shows the examiner you have engaged with the actual text, not a generic essay on the "topic area." A safe closing returns to that same tension, now resolved by your argument. Full method: 06.
+15. **Advanced proposition and boundary:** Proposition: an aphorism is best treated as a compressed argument with an implicit premise, an implicit scope, and an implicit exception — decoding means making all three explicit before writing. Boundary: this topic does not itself construct the final thesis or argument map (05/08) or select illustrations (12) — it supplies the reading that those stages operate on.
+16. **Concept definition and taxonomy:** water"): requires identifying the vehicle (empire, water) and the tenor (power/knowledge; unresolved conflict/information) separately.
+17. **Concept definition and taxonomy — 2:** the cost of doing nothing"): requires identifying the two compared quantities precisely, not just gesturing at "action is good."
+18. **Concept definition and taxonomy — 3:** is natural wealth"): asserts an identity between two concepts and should be tested for where the identity holds and where it breaks down.
+19. **Tension pairs and hidden assumptions:** Every aphorism in the audited corpus carries at least one hidden assumption worth surfacing
+20. **Levels of analysis and temporal-spatial scale:** For each aphorism, check whether the operative tension holds at every scale or only some: individual (a person's private conduct), institutional (an organisation's incentives), state (public policy), and civilisational (long-run historical pattern). E.g. 2024-A1 (forests/ deserts) is most defensible at the civilisational/ecological scale; forcing it onto a purely individual-psychology reading strains the text.
 
-### Philosophical Quote Decoding: SCOPE, ASSUMPTION, EXCEPTION AND ATTRIBUTION FIREWALLS
+### Philosophical Quote Decoding: ARGUMENT, EVIDENCE AND COHERENCE FIREWALLS
 
-- Do not write an essay on one attractive keyword while ignoring the relation asserted by the sentence.
-- Do not jump from a literal phrase to an unrelated grand theme.
-- Do not treat metaphorical, normative and empirical layers as interchangeable.
-- Do not mistake paradox-recognition for completed analysis.
-- Do not universalise a reading that survives only at one scale.
-- Do not let an exception swallow the central proposition.
-- Do not accept the first interpretation without a counter-reading.
-- Do not use examples as decoration or proof by anecdote.
-- Do not invent attribution, biography or contextual intent.
-- Do not build meaning from an audited printing defect.
+- Do not replace literal, conceptual and relational decoding of aphorisms with a generic GS-style catalogue.
+- Do not cross the ownership boundary: issue-led empirical scoping belongs to 03.
+- Do not use an example without explaining its argumentative function.
+- Do not treat a pedagogical scaffold as an official UPSC marking rule.
+- Do not let a counter-view replace the thesis; use it to qualify the thesis.
+- Do not use an unverified quotation, statistic, attribution or anecdote.
+- Do not multiply dimensions that repeat the same claim in new vocabulary.
+- Do not end with aspiration unsupported by the preceding argument.
+- Do not sacrifice the second essay's time budget to perfect the first.
+- Do not mistake novelty of phrasing for originality of thought.
 
-### Philosophical Quote Decoding: COUNTER-READING TO WORKING-THESIS SPINE
+### Philosophical Quote Decoding: EXAM-EXECUTION AND ANSWER-WRITING SPINE
 
 ```text
-COPY THE PROMPT WORDING ACCURATELY
--> DEFINE CONTENT WORDS AND RELATION
--> STATE LITERAL METAPHORICAL AND NORMATIVE LAYERS
--> NAME THE OPERATIVE TENSION
--> TEST SCALE ASSUMPTION AND EXCEPTION
--> COMPARE THESIS ALTERNATIVES
--> USE EXAMPLE COUNTEREXAMPLE AND QUALIFIED SYNTHESIS
+READ THE EXACT PROMPT
+-> DEFINE KEYWORDS RELATION SCOPE AND ASSUMPTION
+-> FORM ONE QUALIFIED THESIS
+-> BRAINSTORM THEN CUT TO DISTINCT ARGUMENT JOBS
+-> MAP CLAIM EVIDENCE ANALYSIS QUALIFICATION AND LINK
+-> STEELMAN COUNTER-VIEW
+-> SYNTHESIZE AND RETURN TO THE CENTRAL ARGUMENT
+-> REVISE FOR FIDELITY FACTS COHERENCE AND TIME
 ```
 
-### Philosophical Quote Decoding: V1 WORDING AND OFFICIAL-SOURCE LIMIT
+### Philosophical Quote Decoding: SOURCE STATUS, CROSS-LINKS AND REVISION TRIGGERS
 
-Official UPSC pages were attempted on 2026-09-04 only to locate paper and notification routes. Exact wording remains controlled by the repository's local V1 audit, and no web attribution or biography was imported.
+Live source check dated 2026-09-06: official UPSC routes were attempted and access-blocked; blocked pages support no new claim. UN, WHO and IPCC primary pages were separately checked for cross-theme factual boundaries.
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Decoding start
+#### ASCII MASTER FLOW — PANEL 1/12: Philosophical Quote Decoding: Prompt and scope
 
 ```ascii-master
-PRINTED PROMPT
-CONTENT WORDS -> PLAIN MEANINGS
-RELATION OR OPERATOR
-WORKING PROPOSITION
+PURPOSE AND SCOPE -> Most prompts in both audited years are single-senten
+EXAM FACTS / SOURCE BASIS -> attribution ; the full 100-prompt ledger, with each 
+EXAM FACTS / SOURCE BASIS — 2 -> official PDFs, 2024-A2 prints "The empires of the fu
+EXAM FACTS / SOURCE BASIS — 3 -> of the sentence; an essay arguing that "futures" (pl
+VERDICT 1 -> Prompt and scope must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 2/12: Three-layer reading
+#### ASCII MASTER FLOW — PANEL 2/12: Philosophical Quote Decoding: Concept hierarchy
 
 ```ascii-master
-LITERAL -> what the sentence directly says
-METAPHORICAL -> what the image carries
-NORMATIVE -> what value or standard is implied
-RULE -> layers must remain connected
+EXAM FACTS / SOURCE BASIS — 2 -> official PDFs, 2024-A2 prints "The empires of the fu
+EXAM FACTS / SOURCE BASIS — 3 -> of the sentence; an essay arguing that "futures" (pl
+EXAM FACTS / SOURCE BASIS — 4 -> free-standing proposition to be interpreted on its o
+PHILOSOPHICAL PROMPT VS. ISSUE PRO -> Deciding this in the first thirty seconds saves the 
+VERDICT 2 -> Concept hierarchy must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 3/12: Operator matrix
+#### ASCII MASTER FLOW — PANEL 3/12: Philosophical Quote Decoding: Dimension matrix
 
 ```ascii-master
-CAUSAL -> X produces Y
-COMPARATIVE -> X matters more or less than Y
-DEFINITIONAL -> X is the meaning of Y
-PARADOXICAL -> surface conflict reveals a deeper relation
+EXAM FACTS / SOURCE BASIS — 4 -> free-standing proposition to be interpreted on its o
+PHILOSOPHICAL PROMPT VS. ISSUE PRO -> Deciding this in the first thirty seconds saves the 
+PHILOSOPHICAL PROMPT VS. ISSUE PRO -> The boundary is not always clean: a prompt can be me
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: decoding means finding the operative t
+VERDICT 3 -> Dimension matrix must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 4/12: Metaphor bridge
+#### ASCII MASTER FLOW — PANEL 4/12: Philosophical Quote Decoding: Decision gate
 
 ```ascii-master
-VEHICLE -> image named in the sentence
-TENOR -> subject illuminated by the image
-BRIDGE -> shared structure or mechanism
-LIMIT -> no extension without textual support
+PHILOSOPHICAL PROMPT VS. ISSUE PRO -> The boundary is not always clean: a prompt can be me
+THE CENTRAL IDEA AND COMMON MISREA -> Central idea: decoding means finding the operative t
+BASIC DECOMPOSITION QUESTIONS -> 1. What is the literal claim of the sentence? 2. Wha
+CLAIM–ASSUMPTION–SCOPE–EXCEPTION T -> This prevents a universal-sounding aphorism from bec
+VERDICT 4 -> Decision gate must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 5/12: Tension engine
+#### ASCII MASTER FLOW — PANEL 5/12: Philosophical Quote Decoding: Mechanism chain
 
 ```ascii-master
-TERM A -> pressure or value
-TERM B -> rival pressure or value
-TENSION -> neither side is merely decorative
-SYNTHESIS -> condition under which each insight holds
+BASIC DECOMPOSITION QUESTIONS -> 1. What is the literal claim of the sentence? 2. Wha
+CLAIM–ASSUMPTION–SCOPE–EXCEPTION T -> This prevents a universal-sounding aphorism from bec
+INDIA-FIRST ILLUSTRATION STARTERS -> For each decoded tension, recall (not invent) one In
+THESIS OPTIONS AND SELECTION -> From the decoded tension, draft two or three alterna
+VERDICT 5 -> Mechanism chain must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 6/12: Scope ladder
+#### ASCII MASTER FLOW — PANEL 6/12: Philosophical Quote Decoding: Counter-view and synthesis
 
 ```ascii-master
-INDIVIDUAL -> conduct and experience
-INSTITUTION -> incentives and rules
-STATE OR WORLD -> policy and order
-CIVILISATION -> long-run pattern
+INDIA-FIRST ILLUSTRATION STARTERS -> For each decoded tension, recall (not invent) one In
+THESIS OPTIONS AND SELECTION -> From the decoded tension, draft two or three alterna
+SIMPLE ESSAY ARCHITECTURE -> A decoded aphorism typically supports: one paragraph
+OPENING, BODY AND CLOSURE MOVES -> A safe opening states the literal sentence's tension
+VERDICT 6 -> Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 7/12: Assumption test
+#### ASCII MASTER FLOW — PANEL 7/12: Philosophical Quote Decoding: Close-option distinctions
 
 ```ascii-master
-CLAIM -> what is asserted
-ASSUMPTION -> what must be true
-SCOPE -> where it plausibly holds
-EXCEPTION -> what limits it
+SIMPLE ESSAY ARCHITECTURE -> A decoded aphorism typically supports: one paragraph
+OPENING, BODY AND CLOSURE MOVES -> A safe opening states the literal sentence's tension
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: an aphorism is best treated as a compre
+CONCEPT DEFINITION AND TAXONOMY -> water"): requires identifying the vehicle (empire, w
+VERDICT 7 -> Close-option distinctions must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 8/12: Counter-reading test
+#### ASCII MASTER FLOW — PANEL 8/12: Philosophical Quote Decoding: Evidence-status ladder
 
 ```ascii-master
-READING ONE -> faithful and generative?
-READING TWO -> faithful and generative?
-COMPARE -> mechanism, scope and exception
-CHOOSE -> stronger text-bound interpretation
+ADVANCED PROPOSITION AND BOUNDARY -> Proposition: an aphorism is best treated as a compre
+CONCEPT DEFINITION AND TAXONOMY -> water"): requires identifying the vehicle (empire, w
+CONCEPT DEFINITION AND TAXONOMY —  -> the cost of doing nothing"): requires identifying th
+CONCEPT DEFINITION AND TAXONOMY —  -> is natural wealth"): asserts an identity between two
+VERDICT 8 -> Evidence-status ladder must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 9/12: Thesis alternatives
+#### ASCII MASTER FLOW — PANEL 9/12: Philosophical Quote Decoding: Cross-scale system
 
 ```ascii-master
-DECODED TENSION
-BRANCH A -> thesis with one mechanism
-BRANCH B -> thesis with another mechanism
-SELECT -> defensible claim with explicit qualification
+CONCEPT DEFINITION AND TAXONOMY —  -> the cost of doing nothing"): requires identifying th
+CONCEPT DEFINITION AND TAXONOMY —  -> is natural wealth"): asserts an identity between two
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> Every aphorism in the audited corpus carries at leas
+LEVELS OF ANALYSIS AND TEMPORAL-SP -> For each aphorism, check whether the operative tensi
+VERDICT 9 -> Cross-scale system must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 10/12: Case testing
+#### ASCII MASTER FLOW — PANEL 10/12: Philosophical Quote Decoding: Argument architecture
 
 ```ascii-master
-EXAMPLE -> instantiates the claim
-COUNTEREXAMPLE -> exposes a limit
-FEEDBACK -> consequence changes the starting condition
-REVISION -> refine scope or mechanism
+TENSION PAIRS AND HIDDEN ASSUMPTIO -> Every aphorism in the audited corpus carries at leas
+LEVELS OF ANALYSIS AND TEMPORAL-SP -> For each aphorism, check whether the operative tensi
+PURPOSE AND SCOPE -> Most prompts in both audited years are single-senten
+EXAM FACTS / SOURCE BASIS -> attribution ; the full 100-prompt ledger, with each 
+VERDICT 10 -> Argument architecture must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 11/12: Attribution firewall
+#### ASCII MASTER FLOW — PANEL 11/12: Philosophical Quote Decoding: Failure and repair gate
 
 ```ascii-master
-PAPER PRINTS NO AUTHOR -> do not supply one
-NO BIOGRAPHY -> no intent can be inferred
-PROMPT WORDING -> sufficient interpretive anchor
-PRIMARY CHECK -> required before any attribution
+PURPOSE AND SCOPE -> Most prompts in both audited years are single-senten
+EXAM FACTS / SOURCE BASIS -> attribution ; the full 100-prompt ledger, with each 
+EXAM FACTS / SOURCE BASIS — 2 -> official PDFs, 2024-A2 prints "The empires of the fu
+EXAM FACTS / SOURCE BASIS — 3 -> of the sentence; an essay arguing that "futures" (pl
+VERDICT 11 -> Failure and repair gate must preserve prompt, thesis, evidence and qualification.
 ```
 
-#### ASCII MASTER FLOW — PANEL 12/12: Decoding answer spine
+#### ASCII MASTER FLOW — PANEL 12/12: Philosophical Quote Decoding: Complete answer spine
 
 ```ascii-master
-WORDS -> OPERATOR -> LITERAL LAYER
-METAPHOR OR NORMATIVE LAYER -> TENSION
-SCOPE -> ASSUMPTION -> EXCEPTION
-COUNTER-READING -> THESIS OPTIONS -> CASE TEST
+EXAM FACTS / SOURCE BASIS — 2 -> official PDFs, 2024-A2 prints "The empires of the fu
+EXAM FACTS / SOURCE BASIS — 3 -> of the sentence; an essay arguing that "futures" (pl
+EXAM FACTS / SOURCE BASIS — 4 -> free-standing proposition to be interpreted on its o
+PHILOSOPHICAL PROMPT VS. ISSUE PRO -> Deciding this in the first thirty seconds saves the 
+VERDICT 12 -> Complete answer spine must preserve prompt, thesis, evidence and qualification.
 ```

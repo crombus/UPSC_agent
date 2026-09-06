@@ -1,89 +1,62 @@
-ASCII MASTER FLOW — PANEL 1/12: Structural transition
-TRABEATE -> post and lintel
-ARCUATE -> arch, vault and dome
-LIME MORTAR -> stronger wide-span work
-OUTCOME -> coexistence, not replacement
-MUST REMEMBER: Indo-Islamic architecture combines continuing trabeate construction with
-  expanded arcuate geometry, lime mortar, domes, vaults, jaali, calligraphy and regionally
-  adapted Sultanate and Mughal building programmes.
-MUST REMEMBER: Indo-Islamic architecture combines continuing trabeate construction with
-  expanded arcuate geometry, lime mortar, domes, vaults, jaali, calligraphy and regionally
-  adapted Sultanate and Mughal building programmes.
+ASCII MASTER FLOW — PANEL 1/12: Central thesis
+Indo-Islamic architecture is best read as coexistence and adaptation:
+trabeate skills continued while arches, vaults, domes and lime mortar
+expanded structural range under new patronage.
 
-ASCII MASTER FLOW — PANEL 2/12: Synthesis mechanism
-ARCUATE KNOWLEDGE -> new structural range
-LOCAL CRAFT -> trabeate skill and motifs
-REGIONAL MATERIAL -> stone, brick and mortar
-BUILDING INDUSTRY -> hybrid results
+ASCII MASTER FLOW — PANEL 2/12: Structural vocabulary
+trabeate = post and lintel.
+arcuate = arch / vault / dome.
+squinch / pendentive = square chamber to dome transition.
+double dome = high skyline outside, lower ceiling inside.
 
-ASCII MASTER FLOW — PANEL 3/12: Ornament identification
-JAALI -> perforated light screen
-ARABESQUE -> geometric-vegetal continuity
-CHARBAGH -> four-part garden
-PIETRA DURA -> fitted stone inlay
+ASCII MASTER FLOW — PANEL 3/12: Synthesis mechanism
+imported arcuate knowledge + local craftsmen + local stone / brick
++ borrowed motifs + climate response = one hybrid building industry.
+Use labour, material and structure - not communal binaries.
 
-ASCII MASTER FLOW — PANEL 4/12: Sultanate classification
-IMPERIAL -> Slave, Khilji, Tughlaq, Lodi
-BENGAL -> Bangla roof
-JAUNPUR/MALWA -> no universal minar
-BIJAPUR -> bulbous dome experiment
+ASCII MASTER FLOW — PANEL 4/12: Sultanate chronology
+Mamluk -> Qutb and Quwwat complex.
+Khilji -> Alai Darwaza, red sandstone, mature scientific dome.
+Tughlaq -> batter walls, grey stone, fort-mass and water works.
+Lodi -> garden tombs and the early Indian double-dome line.
 
-ASCII MASTER FLOW — PANEL 5/12: Qutb layered monument
-AIBAK -> begins tower
-ILTUTMISH -> substantial completion
-FIROZ SHAH -> upper repair or rebuilding
-LESSON -> one monument, several reigns
+ASCII MASTER FLOW — PANEL 5/12: Qutb complex boundary
+Aibak begins the minar; Iltutmish extends it; Firoz Shah repairs upper work.
+Quwwat-ul-Islam records spolia from 27 Hindu and Jaina temples.
+Use this exact case; do not universalise it to the whole period.
 
-ASCII MASTER FLOW — PANEL 6/12: Spolia evidence boundary
-INSCRIPTION -> records reused material
-COUNT -> twenty-seven temples at this site
-CLAIM -> specific documented reuse
-PROHIBITION -> no period-wide generalisation
+ASCII MASTER FLOW — PANEL 6/12: Provincial schools I
+Bengal -> brick, black basalt, Bangla roof, rain response.
+Jaunpur -> Sharqi screen facade and no minars.
+Gujarat appears here mainly as an influence line, not a full school in this owner.
 
-ASCII MASTER FLOW — PANEL 7/12: Provincial climate map
-BENGAL -> rain-responsive sloping roof
-MALWA -> windows, pavilions and baulis
-JAUNPUR -> screen facade without minars
-BIJAPUR -> Deccani dome geometry
+ASCII MASTER FLOW — PANEL 7/12: Provincial schools II
+Malwa / Mandu -> coloured stone, large windows, airy pavilions, baulis.
+Bijapur / Deccan -> three-arched facade, bulbous dome, Gol Gumbaz.
+Climate, water and court ambition reshape the shared vocabulary.
 
-ASCII MASTER FLOW — PANEL 8/12: Mughal material chronology
-AKBAR -> red sandstone mass
-NUR JAHAN/JAHANGIR -> white marble turn
-SHAH JAHAN -> marble and inlay culmination
-LATER -> regional continuation
+ASCII MASTER FLOW — PANEL 8/12: Mughal beginnings
+Babur -> garden taste and early mosques.
+Sher Shah / Humayun transition -> Qila-i-Kuhna, Sasaram, Dinpanah.
+Humayun's Tomb -> charbagh + high platform + double dome + craft synthesis.
 
-ASCII MASTER FLOW — PANEL 9/12: Fatehpur Sikri boundary
-PLACE -> imperial capital and complex
-IBADAT KHANA -> debate setting
-ARCHITECTURE -> owns spatial evidence
-DOCTRINE -> primary ownership elsewhere
+ASCII MASTER FLOW — PANEL 9/12: Akbar and Fatehpur Sikri
+Akbar -> red sandstone, four-centred arch, Agra Fort.
+Fatehpur Sikri 1571-1585 -> planned capital, water system, Jama Masjid,
+Buland Darwaza, Salim Chishti tomb, Ibadat Khana as built setting.
 
-ASCII MASTER FLOW — PANEL 10/12: Workshop authorship
-PATRON -> Shah Jahan
-SPECIALISTS -> designers and craftsmen
-WORKSHOP -> collective execution
-VERDICT -> no uncontested sole mastermind
-CLOSE DISTINCTION: Arches and domes were not wholly unknown before 1206 and trabeate work did
-  not disappear; Qutb Minar is an accretive Aibak-Iltutmish-Firoz Shah history, not a
-  one-ruler object.
-CLOSE DISTINCTION: Arches and domes were not wholly unknown before 1206 and trabeate work did
-  not disappear; Qutb Minar is an accretive Aibak-Iltutmish-Firoz Shah history, not a
-  one-ruler object.
+ASCII MASTER FLOW — PANEL 10/12: Marble and workshop refinement
+Jahangir / Nur Jahan -> Itmad-ud-Daulah, first all-white-marble Mughal work.
+Shah Jahan -> Taj Mahal, Red Fort, Jama Masjid, Shahjahanabad.
+Ustad Ahmad Lahori may be named, but the Taj is safest as workshop architecture.
 
-ASCII MASTER FLOW — PANEL 11/12: Regional continuation
-RAJPUT -> jharokha and court display
-SIKH -> chhatri, cornice and onion dome
-AWADH -> mortar and imambara scale
-MARATHA -> terrain-based fort network
-EVIDENCE LIMIT: Imported knowledge, indigenous labour, local material and reuse created hybrid
-  construction industries; Quwwat-ul-Islam's documented spolia is a specific case and cannot
-  be universalised to every building.
-EVIDENCE LIMIT: Imported knowledge, indigenous labour, local material and reuse created hybrid
-  construction industries; Quwwat-ul-Islam's documented spolia is a specific case and cannot
-  be universalised to every building.
+ASCII MASTER FLOW — PANEL 11/12: Later continuities
+Aurangzeb phase = fewer imperial commissions, not extinction.
+Rajput -> jharokha and arched cornice.
+Sikh -> chhatri, onion dome, foliated arch.
+Awadh -> mortar-built imambaras and gateways.
 
-ASCII MASTER FLOW — PANEL 12/12: Indo-Islamic answer spine
-DEFINE -> trabeate-arcuate coexistence
-EVIDENCE -> monument, material and workshop
-COMPARE -> provincial and regional solutions
-QUALIFY -> reuse, authorship and terminology
+ASCII MASTER FLOW — PANEL 12/12: PYQ route and traps
+2018 prelims -> Fatehpur / Lucknow materials; answer withheld pending official key.
+2019 Kalyana Mandapa is not owned here - route it to temple architecture.
+Never flatten Indo-Islamic architecture into one ruler, one material or one faith.

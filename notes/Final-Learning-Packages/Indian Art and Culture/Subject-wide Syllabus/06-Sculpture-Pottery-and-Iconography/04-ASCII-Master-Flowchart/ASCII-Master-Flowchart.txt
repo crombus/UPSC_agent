@@ -1,89 +1,149 @@
-ASCII MASTER FLOW — PANEL 1/12: Six-variable reading rail
-MATERIAL -> what carving or casting permits
-POSTURE + ATTRIBUTE -> identity and action
-PATRON + SITE -> commissioned context
-COMPARISON -> similarity, difference and limit
-MUST REMEMBER: Sculpture and pottery must be read through material, technique, posture,
-  attribute, patron and site, from lost-wax casting and pottery sequences to Gandhara,
-  Mathura, Amaravati, Gupta and Chola visual programmes.
-MUST REMEMBER: Sculpture and pottery must be read through material, technique, posture,
-  attribute, patron and site, from lost-wax casting and pottery sequences to Gandhara,
-  Mathura, Amaravati, Gupta and Chola visual programmes.
+ASCII MASTER FLOW — PANEL 1/12: METHOD FIRST
 
-ASCII MASTER FLOW — PANEL 2/12: Lost-wax and label firewall
-WAX MODEL -> clay investment
-HEAT -> wax leaves a cavity
-MOLTEN METAL -> bronze form
-MEANING -> separate from a museum label
+READING CHAIN
+material and technique
+  -> posture / gesture
+  -> attribute / emblem
+  -> patron / inscription
+  -> site context
+  -> cross-site comparison
+  -> supported meaning
+  -> evidence limit
 
-ASCII MASTER FLOW — PANEL 3/12: Pottery chronology
-NEOLITHIC -> coarse hand-made ware
-CHALCOLITHIC -> Ahar, Malwa and Jorwe painted wares
-HARAPPAN / PGW -> separate chronological markers
-NBPW -> fine early historic tableware
+WHY IT MATTERS
+The same motif changes meaning across chronology and setting.
+Description must come before identification, and identification before inference.
+The answer remains strong only if one explicit limit is stated.
 
-ASCII MASTER FLOW — PANEL 4/12: Three-school matrix
-GANDHARA -> grey stone, Buddhist, layered influence
-MATHURA -> red stone, three religions, attributes
-AMARAVATI -> limestone, Buddhist narrative, tribhanga
-RULE -> compare on the same axes
+ASCII MASTER FLOW — PANEL 2/12: HARAPPAN OBJECT BANK
 
-ASCII MASTER FLOW — PANEL 5/12: Aniconic to iconic
-EMPTY THRONE / TREE / WHEEL -> symbolic presence
-DEVOTIONAL CHANGE -> human image becomes central
-GANDHARA + MATHURA -> overlapping early-CE contexts
-CAUTION -> no uncontested sole origin
+HARAPPAN CORPUS
+  steatite -> so-called Pashupati seal / Bearded Priest
+  bronze   -> Dancing Girl / Kalibangan bull
+  terracotta -> female figurines / models
 
-ASCII MASTER FLOW — PANEL 6/12: Gupta bridge
-SARNATH -> cream sandstone
-BODY -> subtle modelling and thin drapery
-SULTANGANJ -> late or post-Gupta caution
-BRIDGE -> restraint before denser temple programmes
+CONTROL RULES
+Undeciphered script blocks certainty about Pashupati, Mother Goddess and Priest-King.
+Lost-wax technique is real continuity; fixed religious meaning is not.
+Cow and lion are absent from the verified Harappan seal-and-terracotta trap bank.
 
-ASCII MASTER FLOW — PANEL 7/12: Nataraja chronology
-AIHOLE -> early known antecedent
-CHOLA -> canonical portable bronze
-TEMPLE PROCESSION -> ritual mobility
-RULE -> peak is not origin
+ASCII MASTER FLOW — PANEL 3/12: POTTERY RAIL
 
-ASCII MASTER FLOW — PANEL 8/12: Nataraja attribute map
-DAMARU / FIRE -> creation and destruction
-ABHAYA / RAISED FOOT -> reassurance and release
-APASMARA -> ignorance subdued
-AUREOLE -> recurring time
+Neolithic coarse ware
+ -> Chalcolithic painted wares (Ahar / Malwa / Jorwe)
+ -> Harappan red ware with black painting
+ -> Painted Grey Ware
+ -> Northern Black Polished Ware
 
-ASCII MASTER FLOW — PANEL 9/12: Lion-bull evidence ladder
-HARAPPAN -> bull visible, meaning unrecoverable
-RAMPURVA -> inscribed lion, uninscribed bull
-SARNATH -> animals inside a Buddhist-imperial system
-TEMPLE -> Nandi, Yali and Vyala gain placed roles
+RULE
+Pottery is strongest for chronology, craft and material culture.
+Pottery alone cannot prove theology, dynasty or language.
 
-ASCII MASTER FLOW — PANEL 10/12: Temple animal placement
-NANDI -> axial pavilion before Shiva
-YALI -> composite guardian on southern pillars
-VYALA -> lion-bodied hybrid at Khajuraho
-DISTINCTION -> building, guardian and motif
-CLOSE DISTINCTION: Gandhara, Mathura and Amaravati differ by material, religious scope and
-  visual grammar; symbolic Buddha representation preceded broadly overlapping Gandhara-Mathura
-  iconic production, so sole-origin claims are unsafe.
-CLOSE DISTINCTION: Gandhara, Mathura and Amaravati differ by material, religious scope and
-  visual grammar; symbolic Buddha representation preceded broadly overlapping Gandhara-Mathura
-  iconic production, so sole-origin claims are unsafe.
+ASCII MASTER FLOW — PANEL 4/12: MAURYAN TO POST-MAURYAN
 
-ASCII MASTER FLOW — PANEL 11/12: Social-evidence test
-FIGURE -> dancer, musician, teacher or couple
-PATRON -> selected what became visible
-CLAIM -> valued activity or ritual idiom
-LIMIT -> not a census of society
-EVIDENCE LIMIT: Pashupati, Mother Goddess and Priest-King are modern Harappan labels; Chola
-  bronzes canonised rather than originated Nataraja, and temple sculpture records
-  patron-selected visibility rather than a social census.
-EVIDENCE LIMIT: Pashupati, Mother Goddess and Priest-King are modern Harappan labels; Chola
-  bronzes canonised rather than originated Nataraja, and temple sculpture records
-  patron-selected visibility rather than a social census.
+IMPERIAL LINE
+pillars -> capitals -> polish -> state authority
 
-ASCII MASTER FLOW — PANEL 12/12: Sculpture answer spine
-DEFINE -> school, object or symbol
-EVIDENCE -> material, posture, attribute and site
-COMPARE -> period or regional workshop
-QUALIFY -> attribution, priority and social inference
+POPULAR / RITUAL LINE
+Yaksha / Yakshi -> fertility / nature cults -> absorption into major traditions
+Shalabhanjika -> auspicious tree figure -> long survival
+Narrative relief -> stupa railings and gateways -> symbolic Buddha presence
+
+VERDICT
+Court art and popular motifs coexist; one does not cancel the other.
+
+ASCII MASTER FLOW — PANEL 5/12: GANDHARA MATHURA AMARAVATI
+
+School | Material clue | Scope | Safest significance
+Gandhara | grey stone / stucco | mainly Buddhist | layered external visual idiom
+Mathura | spotted red sandstone | Buddhist + Hindu + Jain | indigenous shared image grammar
+Amaravati | Krishna-valley relief | mainly Buddhist | dynamic narrative storytelling
+
+FINAL RULE
+Compare on the same axis: material, patronage, visual logic and significance.
+
+ASCII MASTER FLOW — PANEL 6/12: SYMBOL TO IMAGE
+
+EARLY BUDDHIST SYMBOL SET
+empty throne -> Great Renunciation
+Bodhi tree / Vajrasana -> Enlightenment
+wheel / lion / deer -> First Sermon
+stupa -> Parinirvana
+
+SHIFT RULE
+Aniconism is symbolic presence, not absence.
+Anthropomorphic Buddha images emerge in overlapping Gandhara and Mathura contexts.
+
+ASCII MASTER FLOW — PANEL 7/12: GUPTA RESTRAINT
+
+SARNATH IDIOM
+cream-coloured sandstone
+thin drapery
+subtle modelling
+serene controlled face
+
+CAUTION
+Sultanganj copper Buddha is safer as late / post-Gupta.
+Serenity alone is not enough; material and context must agree.
+
+ASCII MASTER FLOW — PANEL 8/12: SOUTH INDIAN PROGRAMME
+
+TEMPLE SURFACE AND RITUAL
+  Kirtimukha -> threshold / decorative force
+  Saptamatrikas -> grouped icon bank
+  musical pillars -> sculptural-performance link
+  Kalyanasundara -> marriage ritual rendered visually
+  bronze icons -> portable processional presence
+
+RULE
+Read motif, grouping and ritual use together.
+
+ASCII MASTER FLOW — PANEL 9/12: NATARAJA TIMELINE
+
+Ravana Phadi, Aihole
+ -> earliest known example in this source bank
+ -> proves pre-Chola antecedent
+Chola bronzes
+ -> lost-wax canonical portable form
+ -> temple procession and ritual visibility
+
+RULE
+Do not mistake the most famous form for the first form.
+
+ASCII MASTER FLOW — PANEL 10/12: ICONOGRAPHIC CODE
+
+mudra -> what the hand says
+attribute / avayudha -> who the figure is
+vehicle / placement -> sectarian and spatial clue
+attendant / grouping -> narrative or ritual context
+posture -> action / mood / sacred mode
+
+VERDICT
+Identification and interpretation are linked, but only through context.
+
+ASCII MASTER FLOW — PANEL 11/12: LION AND BULL ACROSS MEDIA
+
+Harappan bull -> visible, meaning bounded
+Mauryan capitals -> imperial and sacred coding
+Sarnath abacus -> lion and bull in one Buddhist programme
+Nandi mandapa -> Shaiva bull with architectural place
+Yali / Vyala -> leonine-hybrid guardians in later temple surface
+
+RULE
+Motif continuity survives; exact meaning changes.
+
+ASCII MASTER FLOW — PANEL 12/12: FINAL SYNTHESIS
+
+SOCIAL EVIDENCE
+sculpture shows patron-selected visibility,
+ritual, dress, gesture, performance and craft.
+It does not give a full photographic census of society.
+
+TERRACOTTA CONTINUITY
+Harappan figurines / models
+ -> Chandraketugarh craftsmanship
+ -> Gupta plaques
+ -> Bengal terracotta-brick facades
+
+FINAL RULE
+Every answer should end with one honest evidentiary limit.

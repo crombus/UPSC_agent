@@ -1,0 +1,1936 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\g3\\science-and-technology-04_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\g3\\science-and-technology-04_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "science-and-technology-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Nuclear Power and the Three-Stage Programme - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 36,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-04\\g3\\assets\\Teaching-Navigation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 478.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 291.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 224.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 96,
+      "heading": "VISUAL FIRST",
+      "preview": "FISSION HEAT STEAM AND ELECTRICITY CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 150,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FISSION HEAT STEAM AND ELECTRICITY CHAIN",
+      "preview": "START / CONCEPT: FOUNDATION — Fission heat steam and electricity chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 161,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Criticality multiplication and milestone vocabulary as a sequence: identify Control-safety boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 180,
+      "heading": "VISUAL FIRST",
+      "preview": "CRITICALITY MULTIPLICATION AND MILESTONE VOCABULARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 233,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CRITICALITY MULTIPLICATION AND MILESTONE VOCABULARY",
+      "preview": "START / CONCEPT: FOUNDATION — Criticality multiplication and milestone vocabulary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 335.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 104.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not merge control rods, moderator, coolant and containment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 263,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTROL RODS MODERATOR COOLANT AND CONTAINMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CONTROL RODS MODERATOR COOLANT AND CONTAINMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Control rods moderator coolant and containment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Thermal versus fast neutron systems as a sequence: identify Fissile-fertile boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 379.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 312.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 346,
+      "heading": "VISUAL FIRST",
+      "preview": "THERMAL VERSUS FAST NEUTRON SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 399,
+      "heading": "CLOSING RECALL FLOW - CORE - THERMAL VERSUS FAST NEUTRON SYSTEMS",
+      "preview": "START / CONCEPT: CORE — Thermal versus fast neutron systems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 410,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Fissile and fertile material roles as a sequence: identify Stage-1 boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 429,
+      "heading": "VISUAL FIRST",
+      "preview": "FISSILE AND FERTILE MATERIAL ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 482,
+      "heading": "CLOSING RECALL FLOW - CORE - FISSILE AND FERTILE MATERIAL ROLES",
+      "preview": "START / CONCEPT: CORE — Fissile and fertile material roles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Stage 1 PHWR and natural-uranium logic as a sequence: identify Plutonium-stream boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 515,
+      "heading": "VISUAL FIRST",
+      "preview": "STAGE 1 PHWR AND NATURAL-URANIUM LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 569,
+      "heading": "CLOSING RECALL FLOW - CORE - STAGE 1 PHWR AND NATURAL-URANIUM LOGIC",
+      "preview": "START / CONCEPT: CORE — Stage 1 PHWR and natural-uranium logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 37.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 580,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: PFBR-status boundary Qualified use: Show why reprocessing is necessary for the plutonium bridge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 599,
+      "heading": "VISUAL FIRST",
+      "preview": "SPENT FUEL REPROCESSING AND PLUTONIUM BRIDGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 652,
+      "heading": "CLOSING RECALL FLOW - CORE - SPENT FUEL REPROCESSING AND PLUTONIUM BRIDGE",
+      "preview": "START / CONCEPT: CORE — Spent fuel reprocessing and plutonium bridge",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 663,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Stage 2 breeder and fertile blanket logic as a sequence: identify Stage-3 boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 682,
+      "heading": "VISUAL FIRST",
+      "preview": "STAGE 2 BREEDER AND FERTILE BLANKET LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - STAGE 2 BREEDER AND FERTILE BLANKET LOGIC",
+      "preview": "START / CONCEPT: CORE — Stage 2 breeder and fertile blanket logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PFBR institutions design and exact status as a sequence: identify Thorium-U233 boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "PFBR INSTITUTIONS DESIGN AND EXACT STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 818,
+      "heading": "CLOSING RECALL FLOW - CORE - PFBR INSTITUTIONS DESIGN AND EXACT STATUS",
+      "preview": "START / CONCEPT: CORE — PFBR institutions design and exact status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 829,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Stage 3 thorium to U-233 pathway as a sequence: identify Closed-cycle boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 374.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 308.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 848,
+      "heading": "VISUAL FIRST",
+      "preview": "STAGE 3 THORIUM TO U-233 PATHWAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 901,
+      "heading": "CLOSING RECALL FLOW - CORE - STAGE 3 THORIUM TO U-233 PATHWAY",
+      "preview": "START / CONCEPT: CORE — Stage 3 thorium to U-233 pathway",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 137.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 912,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Thorium handling and remote-fabrication constraint as a sequence: identify DAE-BARC boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 934,
+      "heading": "VISUAL FIRST",
+      "preview": "THORIUM HANDLING AND REMOTE-FABRICATION CONSTRAINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW - CORE - THORIUM HANDLING AND REMOTE-FABRICATION CONSTRAINT",
+      "preview": "START / CONCEPT: CORE — Thorium handling and remote-fabrication constraint",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 396.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Closed fuel cycle and breeder scaling as a sequence: identify IGCAR-BHAVINI boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 256.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 189.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1018,
+      "heading": "VISUAL FIRST",
+      "preview": "CLOSED FUEL CYCLE AND BREEDER SCALING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1071,
+      "heading": "CLOSING RECALL FLOW - CORE - CLOSED FUEL CYCLE AND BREEDER SCALING",
+      "preview": "START / CONCEPT: CORE — Closed fuel cycle and breeder scaling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 308.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 97.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1082,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read DAE BARC NPCIL AERB institution map as a sequence: identify Fuel-chain boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1101,
+      "heading": "VISUAL FIRST",
+      "preview": "DAE BARC NPCIL AERB INSTITUTION MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1154,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DAE BARC NPCIL AERB INSTITUTION MAP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — DAE BARC NPCIL AERB institution map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read IGCAR BHAVINI UCIL NFC and IREL chain as a sequence: identify Reactor-type boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 365.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 299.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1187,
+      "heading": "VISUAL FIRST",
+      "preview": "IGCAR BHAVINI UCIL NFC AND IREL CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1241,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - IGCAR BHAVINI UCIL NFC AND IREL CHAIN",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — IGCAR BHAVINI UCIL NFC and IREL chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 272.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 51.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Reactor types legal status and dated nuclear audit as a sequence: identify Legal-status boundary, follow the named mechanism to its user or output, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 418.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 352.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1274,
+      "heading": "VISUAL FIRST",
+      "preview": "REACTOR TYPES LEGAL STATUS AND DATED NUCLEAR AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1314,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Science & Technology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + GS-II (energy policy/international cooperation) + Prelims. **Core area:** Fission basics, Bhabha’s three-stage strategy, reactor types and civil-nuc",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 444.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1330,
+      "heading": "1. Visual foundation",
+      "preview": "FISSION -> heat -> steam -> turbine -> electricity",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 422.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1339,
+      "heading": "1. Visual foundation",
+      "preview": "Reactor type | Coolant / moderator cue | Exam distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Reactor type",
+          "Coolant / moderator cue",
+          "Exam distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 301.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 82.422
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1341,
+      "heading": "1. Visual foundation",
+      "preview": "🔑 **The single most-tested reactor fact:** a **moderator slows neutrons**, so a *fast* reactor has **none**. Heavy water lets India burn natural uranium without enrichment; light water absorbs more neutrons and therefore needs enriched fuel",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1345,
+      "markdown_body_line_end": 1348,
+      "heading": "1. Visual foundation",
+      "preview": "Term | Meaning | Examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 725.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 647.022
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1350,
+      "markdown_body_line_end": 1350,
+      "heading": "1. Visual foundation",
+      "preview": "⚠️ **Thorium is fertile, not fissile.** \"India has huge thorium reserves so it has huge nuclear fuel\" is a half-truth: thorium must first be irradiated in a reactor that already has a fissile driver.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 647.022
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 602.354
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1364,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 580.354
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 264.153
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1452,
+      "markdown_body_line_end": 1452,
+      "heading": "10. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s nuclear-power strategy is not just about producing electricity from uranium; it is a long-horizon fuel-cycle design in which PHWR-led Stage 1 capacity supports breeder-led Stage 2 progression and ultimately aims a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1502,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - REACTOR TYPES LEGAL STATUS AND DATED NUCLEAR AUDIT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Reactor types legal status and dated nuclear audit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1973
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 725.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 294.691
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2601,
+      "markdown_body_line_end": 2605,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Science & Technology | **Tier:** Advanced | **GS Paper:** GS-III + GS-II (energy policy/international cooperation) + Prelims. **Core area:** Fuel-cycle strategy, liability/governance debates, indigenous reactor expansion and lo",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 508.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 151.824
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2613,
+      "markdown_body_line_end": 2623,
+      "heading": "2. Visual foundation",
+      "preview": "RESOURCE LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 632.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 531.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2625,
+      "markdown_body_line_end": 2630,
+      "heading": "2. Visual foundation",
+      "preview": "Advanced distinction | Analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Advanced distinction",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 531.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 410.89
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2634,
+      "markdown_body_line_end": 2646,
+      "heading": "3. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 182.29
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2726,
+      "markdown_body_line_end": 2734,
+      "heading": "9. CURRENT: Current anchor",
+      "preview": "Verified current anchor | Analytical use in answers",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Verified current anchor",
+          "Analytical use in answers"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 540.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 199.89
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2745,
+      "markdown_body_line_end": 2745,
+      "heading": "11. Mains framework / angles",
+      "preview": "**Answer thesis:** India’s nuclear programme is best understood as a strategic fuel-cycle state project in which present PHWR expansion, breeder-reactor progress and long-term thorium ambition are tied together by institutions, liability fr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2813,
+      "markdown_body_line_end": 2821,
+      "heading": "Nuclear Power and the Three-Stage Programme: ANSWER-WRITING SPINE",
+      "preview": "TRACE FISSION HEAT STEAM TURBINE AND ELECTRICITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2831,
+      "markdown_body_line_end": 2837,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Fission-to-grid chain",
+      "preview": "FISSION -> heavy nucleus splits and releases heat plus neutrons",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2841,
+      "markdown_body_line_end": 2847,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Criticality milestone ladder",
+      "preview": "SUBCRITICAL -> chain reaction declines",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 424.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2851,
+      "markdown_body_line_end": 2857,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Core-control function map",
+      "preview": "CONTROL RODS -> absorb neutrons and regulate reactivity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 340.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2861,
+      "markdown_body_line_end": 2867,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Thermal-fast comparison",
+      "preview": "THERMAL REACTOR -> moderated slower-neutron spectrum",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 318.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 256.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2871,
+      "markdown_body_line_end": 2877,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Fissile-fertile conversion map",
+      "preview": "U-235 / PU-239 / U-233 -> fissile materials",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2881,
+      "markdown_body_line_end": 2887,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Three-stage programme rail",
+      "preview": "STAGE 1 -> PHWR, natural uranium and plutonium-bearing spent fuel",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2891,
+      "markdown_body_line_end": 2897,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: PFBR status card",
+      "preview": "DESIGN -> IGCAR fast-reactor and sodium expertise",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2901,
+      "markdown_body_line_end": 2907,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Closed fuel-cycle loop",
+      "preview": "REACTOR IRRADIATION -> changes isotopic composition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2911,
+      "markdown_body_line_end": 2917,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Institutional separation",
+      "preview": "DAE -> governmental policy and strategic umbrella",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2921,
+      "markdown_body_line_end": 2929,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Fuel-and-project chain",
+      "preview": "UCIL -> uranium mining and milling",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2933,
+      "markdown_body_line_end": 2941,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Reactor taxonomy",
+      "preview": "PHWR -> heavy water and natural-uranium Stage-1 role",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2945,
+      "markdown_body_line_end": 2953,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Nuclear answer spine",
+      "preview": "DEFINE -> fission, criticality, fissile, fertile and fuel cycle",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "schema_version": 1,
+  "subject": "Essay",
+  "date": "2026-09-06",
+  "result": "passed",
+  "topics": [
+    {
+      "topic_key": "essay-01",
+      "title": "Paper Rules, Choice and Selection",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-02",
+      "title": "Philosophical Quote Decoding",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-03",
+      "title": "Issue-Based Prompt Scoping",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-04",
+      "title": "Brainstorming and Dimensional Expansion",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-05",
+      "title": "Thesis, Central Argument and Argument Map",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-06",
+      "title": "Introductions and Conclusions",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-07",
+      "title": "Macro-Structure, Paragraph Flow and Transitions",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-08",
+      "title": "Argument, Counterargument and Synthesis",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-09",
+      "title": "Evidence, Examples, Data and Quotation Discipline",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-10",
+      "title": "Ethical and Philosophical Frameworks and Value Conflicts",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-11",
+      "title": "Cross-Sector Lenses and Scale",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-12",
+      "title": "India-Centric Illustration Bank",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-13",
+      "title": "Time Management, Planning and Execution",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-14",
+      "title": "Language, Style and Functional Visuals",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-15",
+      "title": "Self-Evaluation and Internal Practice Rubric",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    },
+    {
+      "topic_key": "essay-16",
+      "title": "Practice Loops, PYQ Lab and Revision System",
+      "access_date": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://upsc.gov.in/examinations/previous-question-papers",
+          "status": "HTTP 403 in live fetch",
+          "use": "No new wording imported; local official OCR remains controlling."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "substantive retrieval",
+          "use": "Primary human-rights and dignity boundary for ethical/social examples."
+        },
+        {
+          "url": "https://www.who.int/about/governance/constitution",
+          "status": "substantive retrieval",
+          "use": "Primary health-right and WHO-constitution boundary."
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "status": "substantive report landing page",
+          "use": "Authoritative climate synthesis route; no unsupported statistic imported."
+        },
+        {
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/15240/1/constitution_of_india.pdf",
+          "status": "HTTP 403 in live fetch",
+          "use": "Blocked retrieval supports no claim; local constitutional owners remain controlling."
+        }
+      ],
+      "facts_and_inference_separated": true,
+      "quotation_policy": "Use quotation marks only for locally verified prompt wording or authoritative primary text; otherwise paraphrase and label."
+    }
+  ]
+}

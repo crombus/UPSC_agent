@@ -1,0 +1,1072 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-15",
+  "subject": "Disaster-Management",
+  "title": "CLIMATE RISK, ADAPTATION AND LOSS AND DAMAGE",
+  "short_route": "CLIMATE RISK EQUATION → ATTRIBUTION FIREWALL → THREE-POLICY MAP → ADAPTATION PATHWAY → RESIDUAL RISK AND LIMITS → AVOID MINIMISE ADDRESS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-15-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "e60714e27605bb5fd365917834d50da91778777d48ed4ae953481043a57fc492",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CLIMATE RISK EQUATION",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CLIMATE RISK EQUATION",
+          "role": "caution"
+        },
+        {
+          "text": "CLIMATE HAZARD",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSURE + VULNERABILITY - CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DISASTER RISK",
+          "role": "caution"
+        },
+        {
+          "text": "HAZARD SIGNAL ALONE DOES NOT FIX LOSS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLIMATE HAZARD / TREND",
+        "EXPOSURE + VULNERABILITY - CAPACITY",
+        "DISASTER RISK",
+        "HAZARD SIGNAL ALONE DOES NOT FIX LOSS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CLIMATE HAZARD / TREND",
+            "EXPOSURE + VULNERABILITY - CAPACITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DISASTER RISK",
+            "HAZARD SIGNAL ALONE DOES NOT FIX LOSS"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLIMATE HAZARD / TREND",
+            "EXPOSURE + VULNERABILITY - CAPACITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISASTER RISK; HAZARD SIGNAL ALONE DOES NOT FIX LOSS.",
+      "source_references": [
+        "Climate disaster risk equation",
+        "Hazard exposure vulnerability",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ATTRIBUTION FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ATTRIBUTION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ANTHROPOGENIC CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-TERM HUMAN-INFLUENCED SHIFT",
+          "role": "comparison"
+        },
+        {
+          "text": "EVENT ATTRIBUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANGED LIKELIHOOD",
+          "role": "primary"
+        },
+        {
+          "text": "LOSS ATTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WHY DID HARM OCCUR?",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VARIABILITY → FLUCTUATION",
+        "ANTHROPOGENIC CHANGE → LONG-TERM HUMAN-INFLUENCED SHIFT",
+        "EVENT ATTRIBUTION → CHANGED LIKELIHOOD / INTENSITY?",
+        "LOSS ATTRIBUTION → WHY DID HARM OCCUR?"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "VARIABILITY → FLUCTUATION",
+          "EVENT ATTRIBUTION → CHANGED LIKELIHOOD / INTENSITY?",
+          "VARIABILITY → FLUCTUATION"
+        ],
+        [
+          "ANTHROPOGENIC CHANGE → LONG-TERM HUMAN-INFLUENCED SHIFT",
+          "LOSS ATTRIBUTION → WHY DID HARM OCCUR?",
+          "ANTHROPOGENIC CHANGE → LONG-TERM HUMAN-INFLUENCED SHIFT"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "VARIABILITY → FLUCTUATION",
+            "ANTHROPOGENIC CHANGE → LONG-TERM HUMAN-INFLUENCED SHIFT"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EVENT ATTRIBUTION → CHANGED LIKELIHOOD / INTENSITY?",
+            "LOSS ATTRIBUTION → WHY DID HARM OCCUR?"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "VARIABILITY → FLUCTUATION",
+            "ANTHROPOGENIC CHANGE → LONG-TERM HUMAN-INFLUENCED SHIFT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVENT ATTRIBUTION → CHANGED LIKELIHOOD / INTENSITY?; LOSS ATTRIBUTION → WHY DID HARM OCCUR?.",
+      "source_references": [
+        "Climate variability and climate change",
+        "Attribution boundary",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THREE-POLICY MAP",
+      "structural_type": "venn-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THREE-POLICY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "REDUCE FUTURE CLIMATE CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADJUST TO IMPACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MANAGE EXISTING",
+          "role": "evidence"
+        },
+        {
+          "text": "PROSPECTIVE DISASTER RISK",
+          "role": "caution"
+        },
+        {
+          "text": "OVERLAP EXISTS; PURPOSES REMAIN DISTINCT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MITIGATION → REDUCE FUTURE CLIMATE CHANGE",
+        "ADAPTATION → ADJUST TO IMPACTS",
+        "DRR → MANAGE EXISTING / PROSPECTIVE DISASTER RISK",
+        "OVERLAP EXISTS; PURPOSES REMAIN DISTINCT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "MITIGATION → REDUCE FUTURE CLIMATE CHANGE",
+            "ADAPTATION → ADJUST TO IMPACTS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DRR → MANAGE EXISTING / PROSPECTIVE DISASTER RISK",
+            "OVERLAP EXISTS; PURPOSES REMAIN DISTINCT"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MITIGATION → REDUCE FUTURE CLIMATE CHANGE",
+            "ADAPTATION → ADJUST TO IMPACTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DRR → MANAGE EXISTING / PROSPECTIVE DISASTER RISK.",
+      "source_references": [
+        "Mitigation adaptation and DRR",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ADAPTATION PATHWAY",
+      "structural_type": "pathway-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ADAPTATION PATHWAY",
+          "role": "primary"
+        },
+        {
+          "text": "INCREMENTAL ADJUSTMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MONITOR THRESHOLDS AND DISTRIBUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSFORMATION IF ACCEPTABLE RISK CANNOT BE MAINTAINED",
+          "role": "caution"
+        },
+        {
+          "text": "AVOID MALADAPTIVE LOCK-IN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INCREMENTAL ADJUSTMENT",
+        "MONITOR THRESHOLDS AND DISTRIBUTION",
+        "TRANSFORMATION IF ACCEPTABLE RISK CANNOT BE MAINTAINED",
+        "AVOID MALADAPTIVE LOCK-IN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "INCREMENTAL ADJUSTMENT",
+            "MONITOR THRESHOLDS AND DISTRIBUTION"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSFORMATION IF ACCEPTABLE RISK CANNOT BE MAINTAINED",
+            "AVOID MALADAPTIVE LOCK-IN"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "INCREMENTAL ADJUSTMENT",
+            "MONITOR THRESHOLDS AND DISTRIBUTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSFORMATION IF ACCEPTABLE RISK CANNOT BE MAINTAINED; AVOID MALADAPTIVE LOCK-IN.",
+      "source_references": [
+        "Incremental adaptation",
+        "Transformational adaptation",
+        "Maladaptation",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RESIDUAL RISK AND LIMITS",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESIDUAL RISK AND LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "RISK AFTER FEASIBLE ACTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "RESIDUAL RISK",
+          "role": "evidence"
+        },
+        {
+          "text": "BARRIER REMOVABLE?",
+          "role": "comparison"
+        },
+        {
+          "text": "SOFT LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NO ADAPTATION OPTION IN SYSTEM?",
+          "role": "caution"
+        },
+        {
+          "text": "HARD LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PREPARE PROTECT FINANCE AND ADDRESS REMAINING HARM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RISK AFTER FEASIBLE ACTION → RESIDUAL RISK",
+        "BARRIER REMOVABLE? → SOFT LIMIT",
+        "NO ADAPTATION OPTION IN SYSTEM? → HARD LIMIT",
+        "PREPARE PROTECT FINANCE AND ADDRESS REMAINING HARM"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "RISK AFTER FEASIBLE ACTION → RESIDUAL RISK",
+            "BARRIER REMOVABLE? → SOFT LIMIT"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "NO ADAPTATION OPTION IN SYSTEM? → HARD LIMIT",
+            "PREPARE PROTECT FINANCE AND ADDRESS REMAINING HARM"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RISK AFTER FEASIBLE ACTION → RESIDUAL RISK",
+            "BARRIER REMOVABLE? → SOFT LIMIT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO ADAPTATION OPTION IN SYSTEM? → HARD LIMIT.",
+      "source_references": [
+        "Residual risk",
+        "Limits to adaptation",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AVOID MINIMISE ADDRESS",
+      "structural_type": "numbered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AVOID MINIMISE ADDRESS",
+          "role": "primary"
+        },
+        {
+          "text": "1 AVERT",
+          "role": "outcome"
+        },
+        {
+          "text": "RISK AVOIDANCE",
+          "role": "caution"
+        },
+        {
+          "text": "2 MINIMISE",
+          "role": "evidence"
+        },
+        {
+          "text": "3 ADDRESS",
+          "role": "primary"
+        },
+        {
+          "text": "REALISED OR RESIDUAL IMPACT",
+          "role": "outcome"
+        },
+        {
+          "text": "LOSS AND DAMAGE IS NOT EVERY DISASTER PAYMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1 AVERT → MITIGATION / RISK AVOIDANCE",
+        "2 MINIMISE → ADAPTATION / DRR",
+        "3 ADDRESS → REALISED OR RESIDUAL IMPACT",
+        "LOSS AND DAMAGE IS NOT EVERY DISASTER PAYMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 AVERT → MITIGATION / RISK AVOIDANCE",
+            "2 MINIMISE → ADAPTATION / DRR"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 ADDRESS → REALISED OR RESIDUAL IMPACT",
+            "LOSS AND DAMAGE IS NOT EVERY DISASTER PAYMENT"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 AVERT → MITIGATION / RISK AVOIDANCE",
+            "2 MINIMISE → ADAPTATION / DRR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOSS AND DAMAGE IS NOT EVERY DISASTER PAYMENT.",
+      "source_references": [
+        "Loss and damage",
+        "Avoid minimise address",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LOSS TAXONOMY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOSS TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "ASSETS OUTPUT INCOME; MONETARY METHOD",
+          "role": "outcome"
+        },
+        {
+          "text": "LIFE HEALTH CULTURE IDENTITY ECOSYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRIBUTION AND BASELINE MATTER",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT FORCE NON-MARKET HARM INTO ONE PRICE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ECONOMIC → ASSETS OUTPUT INCOME; MONETARY METHOD",
+        "NON-ECONOMIC → LIFE HEALTH CULTURE IDENTITY ECOSYSTEMS",
+        "BOTH → DISTRIBUTION AND BASELINE MATTER",
+        "DO NOT FORCE NON-MARKET HARM INTO ONE PRICE"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "ECONOMIC → ASSETS OUTPUT INCOME; MONETARY METHOD",
+          "BOTH → DISTRIBUTION AND BASELINE MATTER",
+          "ECONOMIC → ASSETS OUTPUT INCOME; MONETARY METHOD"
+        ],
+        [
+          "NON-ECONOMIC → LIFE HEALTH CULTURE IDENTITY ECOSYSTEMS",
+          "DO NOT FORCE NON-MARKET HARM INTO ONE PRICE",
+          "NON-ECONOMIC → LIFE HEALTH CULTURE IDENTITY ECOSYSTEMS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ECONOMIC → ASSETS OUTPUT INCOME; MONETARY METHOD",
+            "NON-ECONOMIC → LIFE HEALTH CULTURE IDENTITY ECOSYSTEMS"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BOTH → DISTRIBUTION AND BASELINE MATTER",
+            "DO NOT FORCE NON-MARKET HARM INTO ONE PRICE"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ECONOMIC → ASSETS OUTPUT INCOME; MONETARY METHOD",
+            "NON-ECONOMIC → LIFE HEALTH CULTURE IDENTITY ECOSYSTEMS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DO NOT FORCE NON-MARKET HARM INTO ONE PRICE.",
+      "source_references": [
+        "Economic loss and damage",
+        "Non-economic loss and damage",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "UNFCCC STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "UNFCCC STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "KNOWLEDGE COORDINATION ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SANTIAGO NETWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNICAL-ASSISTANCE LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATIONAL STATUS ONLY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WIM → KNOWLEDGE COORDINATION ACTION / SUPPORT",
+        "SANTIAGO NETWORK → TECHNICAL-ASSISTANCE LAYER",
+        "FUND → DATED GOVERNANCE / ACCESS / OPERATIONAL STATUS ONLY",
+        "DECISION != ACCESS != DISBURSEMENT != OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "WIM → KNOWLEDGE COORDINATION ACTION / SUPPORT",
+            "SANTIAGO NETWORK → TECHNICAL-ASSISTANCE LAYER"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FUND → DATED GOVERNANCE / ACCESS / OPERATIONAL STATUS ONLY",
+            "DECISION != ACCESS != DISBURSEMENT != OUTCOME"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "WIM → KNOWLEDGE COORDINATION ACTION / SUPPORT",
+            "SANTIAGO NETWORK → TECHNICAL-ASSISTANCE LAYER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FUND → DATED GOVERNANCE / ACCESS / OPERATIONAL STATUS ONLY.",
+      "source_references": [
+        "Warsaw International Mechanism",
+        "Santiago Network and fund status",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CLIMATE-SERVICE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLIMATE-SERVICE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CO-DESIGN FOR USER DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNICATE UNCERTAINTY AND ACTION WINDOW",
+          "role": "comparison"
+        },
+        {
+          "text": "USE + FEEDBACK + EVALUATE DECISION OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OBSERVE / MONITOR / FORECAST / PROJECT",
+        "CO-DESIGN FOR USER DECISION",
+        "COMMUNICATE UNCERTAINTY AND ACTION WINDOW",
+        "USE + FEEDBACK + EVALUATE DECISION OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "OBSERVE / MONITOR / FORECAST / PROJECT",
+            "CO-DESIGN FOR USER DECISION"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMUNICATE UNCERTAINTY AND ACTION WINDOW",
+            "USE + FEEDBACK + EVALUATE DECISION OUTCOME"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "OBSERVE / MONITOR / FORECAST / PROJECT",
+            "CO-DESIGN FOR USER DECISION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMUNICATE UNCERTAINTY AND ACTION WINDOW; USE + FEEDBACK + EVALUATE DECISION OUTCOME.",
+      "source_references": [
+        "Climate services",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LOCALLY LED TEST",
+      "structural_type": "accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LOCALLY LED TEST",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL PRIORITIES AND DECISION POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "PREDICTABLE ACCESSIBLE RESOURCES",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL + TECHNICAL KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "INCLUSION GRIEVANCE LEARNING AND ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE ADAPTATION AND DRR OVERLAP WHERE CLIMATE-SENSITIVE HAZARDS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LOCAL PRIORITIES AND DECISION POWER",
+        "PREDICTABLE ACCESSIBLE RESOURCES",
+        "LOCAL + TECHNICAL KNOWLEDGE",
+        "INCLUSION GRIEVANCE LEARNING AND ACCOUNTABILITY",
+        "MUST REMEMBER: Climate adaptation and DRR overlap where climate-sensitive hazards"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "LOCAL PRIORITIES AND DECISION POWER",
+            "PREDICTABLE ACCESSIBLE RESOURCES"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "LOCAL + TECHNICAL KNOWLEDGE",
+            "INCLUSION GRIEVANCE LEARNING AND ACCOUNTABILITY"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Climate adaptation and DRR overlap where climate-sensitive hazards,...",
+            "LOCAL PRIORITIES AND DECISION POWER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Climate adaptation and DRR overlap where climate-sensitive hazards,.",
+      "source_references": [
+        "Locally led adaptation",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-15_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "JUSTICE AND MOBILITY",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "JUSTICE AND MOBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "UNEQUAL EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNEQUAL HARM",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-BORDER MOVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-AUTOMATIC REFUGEE STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTION LIVELIHOOD CULTURE AND DURABLE CHOICES",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLIMATE HAZARD IS NOT DISASTER IMPACT; ADAPTATION IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "UNEQUAL EXPOSURE / CAPACITY → UNEQUAL HARM",
+        "TEMPORARY / PROLONGED / INTERNAL / CROSS-BORDER MOVEMENT",
+        "NON-AUTOMATIC REFUGEE STATUS",
+        "PROTECTION LIVELIHOOD CULTURE AND DURABLE CHOICES",
+        "CLOSE DISTINCTION: Climate hazard is not disaster impact; adaptation is not synonymous"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "UNEQUAL EXPOSURE / CAPACITY → UNEQUAL HARM",
+            "TEMPORARY / PROLONGED / INTERNAL / CROSS-BORDER MOVEMENT"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "NON-AUTOMATIC REFUGEE STATUS",
+            "PROTECTION LIVELIHOOD CULTURE AND DURABLE CHOICES"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Climate hazard is not disaster impact; adaptation is not synonymous...",
+            "UNEQUAL EXPOSURE / CAPACITY → UNEQUAL HARM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Climate hazard is not disaster impact; adaptation is not synonymous.",
+      "source_references": [
+        "Displacement and justice",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-15_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CLIMATE-RISK ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CLIMATE-RISK ANSWER SPINE",
+          "role": "caution"
+        },
+        {
+          "text": "DEFINE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "FIX ATTRIBUTION BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINGUISH MITIGATION ADAPTATION DRR AND ADAPTATION PATHWAYS",
+          "role": "evidence"
+        },
+        {
+          "text": "TRACE RESIDUAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "LOSS AND DAMAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADD CLIMATE SERVICES LOCAL LEADERSHIP + VERIFIED STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE RISK → FIX ATTRIBUTION BOUNDARY",
+        "DISTINGUISH MITIGATION ADAPTATION DRR AND ADAPTATION PATHWAYS",
+        "TRACE RESIDUAL RISK → LOSS AND DAMAGE → JUSTICE",
+        "ADD CLIMATE SERVICES LOCAL LEADERSHIP + VERIFIED STATUS / OUTCOME",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute framework, fund or policy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE RISK → FIX ATTRIBUTION BOUNDARY",
+            "DISTINGUISH MITIGATION ADAPTATION DRR AND ADAPTATION PATHWAYS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "TRACE RESIDUAL RISK → LOSS AND DAMAGE → JUSTICE",
+            "ADD CLIMATE SERVICES LOCAL LEADERSHIP + VERIFIED STATUS / OUTCOME"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute framework, fund or policy...",
+            "DEFINE RISK → FIX ATTRIBUTION BOUNDARY"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute framework, fund or policy...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attribute framework, fund or policy.",
+      "source_references": [
+        "Mechanism-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g2\\disaster-management-15_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-15_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-15\\g3\\disaster-management-15_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "WARSAW MECHANISM'S THREE NAMED FUNCTIONS, PRECISELY STATED",
+          "role": "mechanism"
+        },
+        {
+          "text": "PARIS AGREEMENT ARTICLE 8'S EXPLICIT ANCHORING OF LOSS AND",
+          "role": "institution"
+        },
+        {
+          "text": "NON-REFUGEE LEGAL STATUS AS A STRUCTURAL GOVERNANCE GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA'S DUAL EXPOSURE",
+          "role": "primary"
+        },
+        {
+          "text": "AS A COUNTRY EXPERIENCING BOTH SLOW-ONSET",
+          "role": "outcome"
+        },
+        {
+          "text": "VISIONIAS'S OWN \"SPATIAL VARIATION\" POINT — \"NATURAL DISASTERS IN",
+          "role": "comparison"
+        },
+        {
+          "text": "VISIONIAS DOES NOT DETAIL SPECIFIC CLIMATE-RISK MODELLING OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Warsaw Mechanism's three named functions, precisely stated :",
+            "Paris Agreement Article 8's explicit anchoring of loss and",
+            "CAUTION: Non-refugee legal status as a structural governance gap : because",
+            "CAUTION: India's dual exposure : as a country experiencing both slow-onset"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: VisionIAS's own \"Spatial variation\" point — \"natural disasters in",
+            "CAUTION: VisionIAS does not detail specific climate-risk modelling or",
+            "VisionIAS's named displacement-harm categories (Section 2 of the",
+            "CAUTION: Adaptation investment versus loss-and-damage finance is a genuine"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Domestic displacement-protection legislation versus reliance on",
+            "NOT: The \"the Warsaw Mechanism and Suva Dialogue exist, therefore loss",
+            "CAUTION: Domestic-international coordination gap : VisionIAS's material",
+            "Any current claim about the Loss and Damage Fund's capitalisation,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

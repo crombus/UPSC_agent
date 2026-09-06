@@ -181,3 +181,49 @@ wait one day, then complete a fresh mixed set from the Foundation test. Do not
 move to full-paper practice until two consecutive timed attempts meet this
 gate.
 
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; integrated correction, active/passive voice, narration, meaning-preserving transformation and question tags.
+- **Canonical ownership:** Owns the ordered editing scan, error diagnosis, smallest valid correction, voice, direct/indirect speech, conditional and degree transformations, correlative structures and tags.
+- **Cross-topic boundary:** Topics 01-04 own the underlying rules; Topic 05 integrates them in correction and transformation without duplicating full foundational teaching.
+
+### Complete learner and answer route
+
+1. **Meaning first:** Establish the intended proposition before editing form.
+2. **Finite-verb scan:** Check completeness, agreement and tense before minor wording.
+3. **Noun and pronoun scan:** Check countability, determiners, case, reference and number.
+4. **Pattern scan:** Check prepositions, phrasal verbs, word form, modifiers and parallelism.
+5. **Minimal repair:** Change only the defective element and preserve acceptable wording.
+6. **Voice eligibility:** Confirm a suitable object before forming a passive.
+7. **Voice mechanics:** Preserve tense, aspect, modal and necessary agent.
+8. **Narration purpose:** Choose said, told, asked, requested, advised or ordered by function.
+9. **Backshift and deixis:** Change tense, pronouns, time and place only when context requires.
+10. **Transformation conditions:** Apply no sooner, unless, too-to, despite and degree patterns only when meaning survives.
+11. **Focus and tags:** Preserve only-scope and derive tags from polarity and auxiliary.
+12. **Timed error log:** Code the miss, state the rule, rewrite and retry a fresh item.
+
+### Authority, variation and hostile-query gate
+
+A transformation passes only if tense, polarity, agent, focus, scope and proposition remain equivalent. Accepted variants receive credit and conservative preferences are labelled as preferences.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**smallest valid correction; active; passive voice; reported speech; backshift; transformation; scope; question tag**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+

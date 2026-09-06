@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-english-06",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\06_Comprehension-and-Precis.md",
+  "source_advanced": null,
+  "stages": [
+    {
+      "number": 1,
+      "title": "Read the command",
+      "body": "Identify literal, inference, tone, purpose, reference, context meaning or multipart demand."
+    },
+    {
+      "number": 2,
+      "title": "Map the passage",
+      "body": "Mark thesis, reasons, examples, contrasts, qualifications and conclusion."
+    },
+    {
+      "number": 3,
+      "title": "Locate support",
+      "body": "Tie each answer to explicit words or a minimally extended inference."
+    },
+    {
+      "number": 4,
+      "title": "Control scope",
+      "body": "Reject outside knowledge, overstatement, reversal and half-true options."
+    },
+    {
+      "number": 5,
+      "title": "Answer multipart questions",
+      "body": "List every limb and allocate space before drafting."
+    },
+    {
+      "number": 6,
+      "title": "Calibrate tone and purpose",
+      "body": "Name stance and function, then support both."
+    },
+    {
+      "number": 7,
+      "title": "Précis ratio",
+      "body": "Calculate the instructed target and recount after revision."
+    },
+    {
+      "number": 8,
+      "title": "Idea-unit selection",
+      "body": "Keep thesis, major reasons, concessions and verdict; remove illustration and repetition."
+    },
+    {
+      "number": 9,
+      "title": "Paraphrase",
+      "body": "Change structure and wording without changing technical meaning."
+    },
+    {
+      "number": 10,
+      "title": "Coherence and indirect style",
+      "body": "Connect idea units as independent prose and convert quoted claims where needed."
+    },
+    {
+      "number": 11,
+      "title": "Title instruction",
+      "body": "Obey give-title, no-title or no-suggest-title wording literally."
+    },
+    {
+      "number": 12,
+      "title": "Final fidelity audit",
+      "body": "Check coverage, compression, independence, coherence, correctness and zero added opinion."
+    }
+  ]
+}

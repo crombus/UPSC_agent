@@ -5,8 +5,8 @@ Topic: Liberty, Equality and Property
 Subject: Political Theory
 Section: Subject-wide Syllabus
 Catalogue number: 18
-Source record ID: political-theory-18:learner-v2:g4
-Source generation: 4
+Source record ID: political-theory-18:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

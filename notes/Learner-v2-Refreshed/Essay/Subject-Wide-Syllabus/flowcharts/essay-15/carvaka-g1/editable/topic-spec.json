@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-15",
+  "subject": "Essay",
+  "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+  "short_route": "SELF-EVALUATION AND INTERNAL PRACTICE → SELF-EVALUATION AND INTERNAL PRACTICE → SELF-EVALUATION AND INTERNAL PRACTICE → SELF-EVALUATION AND INTERNAL PRACTICE → SELF-EVALUATION AND INTERNAL PRACTICE → SELF-EVALUATION AND INTERNAL PRACTICE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-15\\g1\\essay-15_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-15-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "b0304a5b143df2875b796624193bd9eac81ecf4dac4f4f4d2b32dd3cb2d29e1a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE PRINCIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS ENTIRE TOPIC IS AN INTERNAL ESSAY PRACTICE RUBR",
+          "role": "evidence"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "primary"
+        },
+        {
+          "text": "THIS TOPIC GIVES A STRUCTURED WAY TO REVIEW YOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr",
+        "PURPOSE AND SCOPE → This topic gives a structured way to review your own",
+        "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+        "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr",
+            "PURPOSE AND SCOPE → This topic gives a structured way to review your own"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score, or a"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core principle",
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "WEIGHTAGE TABLE, OR SCORING GUIDANCE. THE ONLY MARKS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIAL UPSC MARK, AN EXAMINER'S LIKELY SCORE, OR A",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+        "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score",
+        "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: self-evaluation is most useful when it",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score, or a"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within an essay.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: self-evaluation is most useful when it"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 3",
+          "role": "evidence"
+        },
+        {
+          "text": "HOW THOSE 125 MARKS ARE DISTRIBUTED WITHIN AN ESSAY.",
+          "role": "primary"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "SELF-EVALUATION IS MOST USEFUL WHEN IT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: self-evaluation is most useful when it",
+        "BASIC DECOMPOSITION QUESTIONS → 1. Did my essay response the exact prompt, or did it",
+        "DIMENSION-EXPANSION GRID — THE INT → Score only after writing the paragraph numbers that",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within an essay.",
+          "BASIC DECOMPOSITION QUESTIONS → 1. Did my essay response the exact prompt, or did it",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: self-evaluation is most useful when it",
+          "DIMENSION-EXPANSION GRID — THE INT → Score only after writing the paragraph numbers that",
+          "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within an essay."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within an essay.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: self-evaluation is most useful when it"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. Did my essay response the exact prompt, or did it",
+            "DIMENSION-EXPANSION GRID — THE INT → Score only after writing the paragraph numbers that"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within an essay."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis — 3",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each,"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. DID MY ESSAY RESPONSE THE EXACT PROMPT, OR",
+          "role": "evidence"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — THE INT",
+          "role": "primary"
+        },
+        {
+          "text": "SCORE ONLY AFTER WRITING THE PARAGRAPH NUMBERS THAT",
+          "role": "outcome"
+        },
+        {
+          "text": "RESTATED FOR CLARITY",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS /28 TABLE IS THE INTERNAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. Did my essay response the exact prompt, or did it",
+        "DIMENSION-EXPANSION GRID — THE INT → Score only after writing the paragraph numbers that",
+        "DIMENSION-EXPANSION GRID — THE INT → Restated for clarity: this /28 table is the Internal",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. Did my essay response the exact prompt, or did it",
+            "DIMENSION-EXPANSION GRID — THE INT → Score only after writing the paragraph numbers that"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION-EXPANSION GRID — THE INT → Restated for clarity: this /28 table is the Internal",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. Did my essay response the exact prompt, or did it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each,",
+        "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each, — 2",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — THE INT",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTATED FOR CLARITY",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS /28 TABLE IS THE INTERNAL",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT DIRECTLY APPLICABLE — SEE 12 FOR ILLUSTRATION CO",
+          "role": "caution"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIMENSION-EXPANSION GRID — THE INT → Restated for clarity: this /28 table is the Internal",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co",
+        "THESIS OPTIONS AND SELECTION → If dimension 1 (Relevance) or 2 (Depth) scores low",
+        "SIMPLE ESSAY ARCHITECTURE → If dimension 3 (Coherence) scores low, revisit 07's",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "DIMENSION-EXPANSION GRID — THE INT → Restated for clarity: this /28 table is the Internal",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Not directly applicable — see 12 for illustration co"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → If dimension 1 (Relevance) or 2 (Depth) scores low,",
+            "SIMPLE ESSAY ARCHITECTURE → If dimension 3 (Coherence) scores low, revisit 07's"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "DIMENSION-EXPANSION GRID — THE INT → Restated for clarity: this /28 table is the Internal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Dimension-expansion grid — the Internal Essay Practice Rubric (0–4 each, — 2",
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "IF DIMENSION 1 (RELEVANCE) OR 2 (DEPTH) SCORES LOW",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "IF DIMENSION 3 (COHERENCE) SCORES LOW, REVISIT 07'S",
+          "role": "outcome"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "SCORE THE INTRODUCTION AND CONCLUSION SPECIFICALLY A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS OPTIONS AND SELECTION → If dimension 1 (Relevance) or 2 (Depth) scores low",
+        "SIMPLE ESSAY ARCHITECTURE → If dimension 3 (Coherence) scores low, revisit 07's",
+        "OPENING, BODY AND CLOSURE MOVES → Score the introduction and conclusion specifically a",
+        "EVIDENCE, QUOTATION AND TIME AUDIT → An invented fact, unsupported quotation or missed Es",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → If dimension 1 (Relevance) or 2 (Depth) scores low,",
+            "SIMPLE ESSAY ARCHITECTURE → If dimension 3 (Coherence) scores low, revisit 07's"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Score the introduction and conclusion specifically a",
+            "EVIDENCE, QUOTATION AND TIME AUDIT → An invented fact, unsupported quotation or missed Es"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "THESIS OPTIONS AND SELECTION → If dimension 1 (Relevance) or 2 (Depth) scores low,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Evidence, quotation and time audit"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "SCORE THE INTRODUCTION AND CONCLUSION SPECIFICALLY A",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE, QUOTATION AND TIME AUDIT",
+          "role": "evidence"
+        },
+        {
+          "text": "AN INVENTED FACT, UNSUPPORTED QUOTATION OR MISSED ES",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE PRINCIPLE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS ENTIRE TOPIC, AND EVERY SCORECARD IN IT, IS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPENING, BODY AND CLOSURE MOVES → Score the introduction and conclusion specifically a",
+        "EVIDENCE, QUOTATION AND TIME AUDIT → An invented fact, unsupported quotation or missed Es",
+        "CORE PRINCIPLE — 2 → This entire topic, and every scorecard in it, is par",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: self-evaluation becomes genuinely usefu",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "OPENING, BODY AND CLOSURE MOVES → Score the introduction and conclusion specifically a",
+          "CORE PRINCIPLE — 2 → This entire topic, and every scorecard in it, is par",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "EVIDENCE, QUOTATION AND TIME AUDIT → An invented fact, unsupported quotation or missed Es",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: self-evaluation becomes genuinely usefu",
+          "OPENING, BODY AND CLOSURE MOVES → Score the introduction and conclusion specifically a"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Score the introduction and conclusion specifically a",
+            "EVIDENCE, QUOTATION AND TIME AUDIT → An invented fact, unsupported quotation or missed Es"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CORE PRINCIPLE — 2 → This entire topic, and every scorecard in it, is par",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: self-evaluation becomes genuinely usefu"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "OPENING, BODY AND CLOSURE MOVES → Score the introduction and conclusion specifically a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Opening, body and closure moves",
+        "Evidence, quotation and time audit",
+        "Core principle — 2",
+        "Advanced proposition and boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE PRINCIPLE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS ENTIRE TOPIC, AND EVERY SCORECARD IN IT, IS",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "SELF-EVALUATION BECOMES GENUINELY USEFU",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE, ORIGINALITY, BALANCE, LANGUAGE — USING BAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE PRINCIPLE — 2 → This entire topic, and every scorecard in it, is par",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: self-evaluation becomes genuinely usefu",
+        "CONCEPT DEFINITION AND TAXONOMY → evidence, originality, balance, language — using bas",
+        "CONCEPT DEFINITION AND TAXONOMY — → estimate, choice quality, topic-drift instances, fac",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "CORE PRINCIPLE — 2 → This entire topic, and every scorecard in it, is par",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: self-evaluation becomes genuinely usefu"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY → evidence, originality, balance, language — using bas",
+            "CONCEPT DEFINITION AND TAXONOMY — → estimate, choice quality, topic-drift instances, fac"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "CORE PRINCIPLE — 2 → This entire topic, and every scorecard in it, is par"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core principle — 2",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE, ORIGINALITY, BALANCE, LANGUAGE — USING BAS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "primary"
+        },
+        {
+          "text": "ESTIMATE, CHOICE QUALITY, TOPIC-DRIFT INSTANCES, FAC",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "LOW SCORE ON ONE DIMENSION IS DIAGNOSTIC; IN FACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY → evidence, originality, balance, language — using bas",
+        "CONCEPT DEFINITION AND TAXONOMY — → estimate, choice quality, topic-drift instances, fac",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → low score on one dimension is diagnostic; in fact",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → score carries the same weight as an official mark",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY → evidence, originality, balance, language — using bas",
+            "CONCEPT DEFINITION AND TAXONOMY — → estimate, choice quality, topic-drift instances, fac"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → low score on one dimension is diagnostic; in fact a",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → score carries the same weight as an official mark; i"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY → evidence, originality, balance, language — using bas"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "LOW SCORE ON ONE DIMENSION IS DIAGNOSTIC; IN FACT",
+          "role": "evidence"
+        },
+        {
+          "text": "SCORE CARRIES THE SAME WEIGHT AS AN OFFICIAL MARK",
+          "role": "primary"
+        },
+        {
+          "text": "CORE PRINCIPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS ENTIRE TOPIC IS AN INTERNAL ESSAY PRACTICE RUBR",
+          "role": "comparison"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → low score on one dimension is diagnostic; in fact",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → score carries the same weight as an official mark",
+        "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr",
+        "PURPOSE AND SCOPE → This topic gives a structured way to review your own",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → low score on one dimension is diagnostic; in fact a",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → score carries the same weight as an official mark; i"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr",
+            "PURPOSE AND SCOPE → This topic gives a structured way to review your own"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → low score on one dimension is diagnostic; in fact a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Core principle",
+        "Purpose and scope"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE PRINCIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS ENTIRE TOPIC IS AN INTERNAL ESSAY PRACTICE RUBR",
+          "role": "evidence"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "primary"
+        },
+        {
+          "text": "THIS TOPIC GIVES A STRUCTURED WAY TO REVIEW YOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr",
+        "PURPOSE AND SCOPE → This topic gives a structured way to review your own",
+        "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+        "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr",
+            "PURPOSE AND SCOPE → This topic gives a structured way to review your own"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score, or a"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "CORE PRINCIPLE → This entire topic is an Internal Essay Practice Rubr"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core principle",
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SELF-EVALUATION AND INTERNAL PRACTICE RUBRIC",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "WEIGHTAGE TABLE, OR SCORING GUIDANCE. THE ONLY MARKS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIAL UPSC MARK, AN EXAMINER'S LIKELY SCORE, OR A",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+        "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score",
+        "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: self-evaluation is most useful when it",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks",
+            "EXAM FACTS / SOURCE BASIS — 2 → official UPSC mark, an examiner's likely score, or a"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS — 3 → how those 125 marks are distributed within an essay.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: self-evaluation is most useful when it"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS → weightage table, or scoring guidance. The only marks"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CORE SCORECARD (0–4 × 7",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEVANCE, DEPTH, COHERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPLEMENTARY FLAGS (NOT SCORED, TRACKED SEPARATELY)",
+          "role": "caution"
+        },
+        {
+          "text": "LONGITUDINAL LOG",
+          "role": "primary"
+        },
+        {
+          "text": "A RECORD ACROSS MULTIPLE ATTEMPTS USED TO SPOT A",
+          "role": "outcome"
+        },
+        {
+          "text": "SINGLE-ATTEMPT SCORE VS. TREND",
+          "role": "comparison"
+        },
+        {
+          "text": "THE HIDDEN ASSUMPTION THAT ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Core scorecard (0–4 × 7 = /28): relevance, depth, coherence,",
+            "Supplementary flags (not scored, tracked separately): word-range",
+            "Longitudinal log: a record across multiple attempts used to spot a",
+            "Single-attempt score vs. trend: the hidden assumption that one"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Precision vs. false authority: the assumption that a numeric /28",
+            "NOT: Presenting this rubric's score as an official UPSC mark or",
+            "NOT: Single-attempt overreaction (treating one low score as a fixed",
+            "NOT: Self-scoring bias (consistently generous or harsh). → Protocol:"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Extending self-diagnosis with drift/risk/time metrics alongside the seven-dimension",
+            "scorecard, and building a longitudinal self-evaluation practice across multiple attempts.",
+            "Grounded in: audited 2024–2025 UPSC Essay paper corpus (see ../README.md, which confirms neither paper prints a marking rubric)"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

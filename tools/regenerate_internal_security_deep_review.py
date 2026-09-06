@@ -4452,10 +4452,10 @@ def update_review_tracker(
         }
         item["md_change_required"] = False
         item["md_change_ids"] = [
-            f"MD-ST{topic.number:02d}-{index:03d}" for index in range(1, 4)
+            f"MD-IS{topic.number:02d}-{index:03d}" for index in range(1, 4)
         ]
         item["evidence_ids"] = [
-            f"E-ST{topic.number:02d}-{index:03d}" for index in range(1, 4)
+            f"E-IS{topic.number:02d}-{index:03d}" for index in range(1, 4)
         ]
         item["reviewer_notes"] = (
             f"Command-start baseline {result['old_score']}/100; "

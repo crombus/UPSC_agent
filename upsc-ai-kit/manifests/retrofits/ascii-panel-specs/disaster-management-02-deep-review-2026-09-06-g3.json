@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-02",
+      "display_title": "Indian Legal and Institutional Architecture",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Statutory chronology",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "2005 -> DISASTER MANAGEMENT ACT",
+            "2009 -> NATIONAL POLICY",
+            "2016 -> FIRST NDMP | 2019 -> REVISED NDMP",
+            "2025 -> AMENDMENT | IN FORCE 9 APRIL 2025"
+          ],
+          "source_references": [
+            "DM Act foundation",
+            "Current amendment status",
+            "Plan hierarchy",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "National tier",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NDMA -> policy, plans, guidelines",
+            "NEC -> coordination, monitoring, implementation",
+            "NCMC -> major disasters with national ramifications",
+            "HLC -> statutory financial-assistance role"
+          ],
+          "source_references": [
+            "NDMA",
+            "NEC",
+            "NCMC and HLC",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "State tier",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "SDMA -> state policy and State Plan",
+            "SEC -> coordination and monitoring",
+            "STATE DEPARTMENTS -> hazard and sector functions",
+            "STATE FORCE / FUND -> distinct instruments"
+          ],
+          "source_references": [
+            "SDMA",
+            "SEC",
+            "State response force",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "District-local cascade",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DDMA -> District Plan and coordination",
+            "COLLECTOR / MAGISTRATE -> Chair",
+            "ELECTED LOCAL REPRESENTATIVE -> Co-Chair",
+            "PRI / ULB -> last-mile implementation"
+          ],
+          "source_references": [
+            "DDMA",
+            "Local authorities",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "NDRF acronym firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FORCE -> specialist personnel and response teams",
+            "FUND -> eligible response and relief expenditure",
+            "STATE FORCE -> section 44A enabling power",
+            "STATE FUND -> section 48 finance"
+          ],
+          "source_references": [
+            "NDRF force",
+            "NDRF fund",
+            "State response force",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "NIDM knowledge chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "RESEARCH -> DOCUMENTATION -> TRAINING",
+            "CAPACITY BUILDING -> POLICY ADVOCACY",
+            "STATE / LOCAL SUPPORT -> CULTURE OF PREVENTION",
+            "TRAP -> knowledge institute is not response command"
+          ],
+          "source_references": [
+            "NIDM",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "2025 amendment map",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "8A NCMC | 8B HLC",
+            "41A URBAN AUTHORITY | 44A STATE FORCE",
+            "PLAN RESPONSIBILITY + DATABASE DUTIES",
+            "ENACTMENT -> NOTIFICATION -> IMPLEMENTATION -> OUTCOME"
+          ],
+          "source_references": [
+            "Current amendment status",
+            "NCMC and HLC",
+            "Urban authority",
+            "State response force",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Plan responsibility matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "NATIONAL PLAN -> NDMA preparation / approval architecture",
+            "STATE PLAN -> SDMA preparation / approval architecture",
+            "DISTRICT PLAN -> DDMA",
+            "EXECUTIVE COMMITTEES -> implementation and monitoring"
+          ],
+          "source_references": [
+            "Plan responsibility",
+            "Plan hierarchy",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Fund architecture",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "NATIONAL -> response s46 | mitigation s47",
+            "STATE -> response | mitigation",
+            "DISTRICT -> response | mitigation",
+            "RULE -> statutory design is not constitution or expenditure proof"
+          ],
+          "source_references": [
+            "Fund architecture",
+            "Finance coordination",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Federal operating chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NATIONAL GUIDANCE -> STATE ADAPTATION",
+            "DISTRICT PLAN -> LOCAL EXECUTION",
+            "FEEDBACK / DATA -> PLAN REVISION",
+            "BOTTLENECK -> weakest implementation tier",
+            "MUST REMEMBER: The Disaster Management Act, 2005 distributes policy, coordination,...",
+            "MUST REMEMBER: The Disaster Management Act, 2005 distributes policy, coordination,..."
+          ],
+          "source_references": [
+            "Federal cascade",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Evidence-rung ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "ACT -> RULE / NOTIFICATION -> AUTHORITY / PLAN",
+            "ALLOCATION -> RELEASE -> EXPENDITURE",
+            "DEPLOYMENT -> SERVICE DELIVERY -> VERIFIED OUTCOME",
+            "NO AUTOMATIC JUMP BETWEEN RUNGS",
+            "CLOSE DISTINCTION: NDMA is not NEC, NIDM is not NDRF, SDMA is not DDMA, a National Plan...",
+            "CLOSE DISTINCTION: NDMA is not NEC, NIDM is not NDRF, SDMA is not DDMA, a National Plan..."
+          ],
+          "source_references": [
+            "Finance coordination",
+            "Mandate-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Institutional answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CITE CURRENT LAW -> NAME TIER -> STATE MANDATE",
+            "MAP PLAN + FORCE / FUND + LOCAL IMPLEMENTER",
+            "IDENTIFY COORDINATION OR CAPACITY GAP",
+            "QUALIFY ENABLING POWER AND OUTCOME CLAIM",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State the enacted, amended, notified,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State the enacted, amended, notified,..."
+          ],
+          "source_references": [
+            "Federal cascade",
+            "Mandate-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g2\\disaster-management-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-02\\g3\\disaster-management-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

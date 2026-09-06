@@ -1,0 +1,1129 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-22",
+  "subject": "Science-and-Technology",
+  "title": "GENERAL SCIENCE: CHEMISTRY FUNDAMENTALS",
+  "short_route": "ATOM AND PERIODIC IDENTITY → BOND AND FORCE LADDER → STOICHIOMETRIC ACCOUNTING RAIL → STATE AND SOLUTION MATRIX → ACID BASE BUFFER CONTROL → ELECTROCHEMICAL TWO-CELL MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-22-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "b9694a18f5cb9d0b1b53f15017806a9717332d96d0e51d08694fc2d775949cb2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ATOM AND PERIODIC IDENTITY MAP",
+      "structural_type": "nested-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ATOM AND PERIODIC IDENTITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PROTONS + NEUTRONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ATOMIC NUMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "ELEMENT IDENTITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MASS NUMBER",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENT COMPARISON AXES",
+          "role": "outcome"
+        },
+        {
+          "text": "PERIODIC TABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "ATOMIC NUMBER + RECURRING PROPERTIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NUCLEUS → protons + neutrons",
+        "ATOMIC NUMBER → protons → element identity",
+        "MASS NUMBER → protons + neutrons",
+        "ISOTOPE / ISOBAR / ISOTONE → different comparison axes",
+        "PERIODIC TABLE → atomic number + recurring properties"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "NUCLEUS → protons + neutrons",
+            "ATOMIC NUMBER → protons → element identity"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "MASS NUMBER → protons + neutrons",
+            "ISOTOPE / ISOBAR / ISOTONE → different comparison axes"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "PERIODIC TABLE → atomic number + recurring properties",
+            "NUCLEUS → protons + neutrons"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PERIODIC TABLE → atomic number + recurring properties.",
+      "source_references": [
+        "Atomic identity and isotope boundary",
+        "Periodic trends and qualified comparison",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BOND AND FORCE LADDER",
+      "structural_type": "ranked-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BOND AND FORCE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTRON TRANSFER + ION ATTRACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED ELECTRON PAIR",
+          "role": "comparison"
+        },
+        {
+          "text": "DELOCALISED ELECTRONS",
+          "role": "evidence"
+        },
+        {
+          "text": "HYDROGEN BOND",
+          "role": "primary"
+        },
+        {
+          "text": "VAN DER WAALS",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAKER INTERPARTICLE FORCES",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT COLLAPSE BOND AND FORCE CATEGORIES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IONIC → electron transfer + ion attraction",
+        "COVALENT → shared electron pair",
+        "METALLIC → delocalised electrons",
+        "HYDROGEN BOND / VAN DER WAALS → weaker interparticle forces",
+        "TRAP → do not collapse bond and force categories"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "IONIC → electron transfer + ion attraction",
+            "COVALENT → shared electron pair"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METALLIC → delocalised electrons",
+            "HYDROGEN BOND / VAN DER WAALS → weaker interparticle forces"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TRAP → do not collapse bond and force categories",
+            "IONIC → electron transfer + ion attraction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not collapse bond and force categories.",
+      "source_references": [
+        "Ionic covalent metallic and intermolecular distinction",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "STOICHIOMETRIC ACCOUNTING RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STOICHIOMETRIC ACCOUNTING RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "WRITE SPECIES",
+          "role": "outcome"
+        },
+        {
+          "text": "BALANCE EQUATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERT SUPPLIED QUANTITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPARE STOICHIOMETRIC REQUIREMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY LIMITING REAGENT",
+          "role": "outcome"
+        },
+        {
+          "text": "THEORETICAL PRODUCT",
+          "role": "comparison"
+        },
+        {
+          "text": "YIELD, ONLY WITH SUPPLIED DATA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WRITE SPECIES → BALANCE EQUATION",
+        "CONVERT SUPPLIED QUANTITIES → MOLES",
+        "COMPARE STOICHIOMETRIC REQUIREMENT",
+        "IDENTIFY LIMITING REAGENT → THEORETICAL PRODUCT",
+        "ACTUAL / THEORETICAL → YIELD, only with supplied data"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "WRITE SPECIES → BALANCE EQUATION",
+            "CONVERT SUPPLIED QUANTITIES → MOLES"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE STOICHIOMETRIC REQUIREMENT",
+            "IDENTIFY LIMITING REAGENT → THEORETICAL PRODUCT"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "ACTUAL / THEORETICAL → YIELD, only with supplied data",
+            "WRITE SPECIES → BALANCE EQUATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACTUAL / THEORETICAL → YIELD, only with supplied data.",
+      "source_references": [
+        "Mole and stoichiometric accounting",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "STATE AND SOLUTION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATE AND SOLUTION MATRIX",
+          "role": "institution"
+        },
+        {
+          "text": "ARRANGEMENT + MOBILITY + SEPARATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PHASE CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICAL IDENTITY RETAINED",
+          "role": "evidence"
+        },
+        {
+          "text": "MOLECULAR/IONIC DISPERSION",
+          "role": "primary"
+        },
+        {
+          "text": "AMOUNT ON A STATED BASIS",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUILIBRIUM LIMIT UNDER STATED CONDITIONS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOLID / LIQUID / GAS → arrangement + mobility + separation",
+        "PHASE CHANGE → physical identity retained",
+        "SOLUTION → molecular/ionic dispersion",
+        "CONCENTRATION → amount on a stated basis",
+        "SOLUBILITY → equilibrium limit under stated conditions"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "SOLID / LIQUID / GAS → arrangement + mobility + separation",
+          "SOLUTION → molecular/ionic dispersion",
+          "SOLUBILITY → equilibrium limit under stated conditions"
+        ],
+        [
+          "PHASE CHANGE → physical identity retained",
+          "CONCENTRATION → amount on a stated basis",
+          "SOLID / LIQUID / GAS → arrangement + mobility + separation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "SOLID / LIQUID / GAS → arrangement + mobility + separation",
+            "PHASE CHANGE → physical identity retained"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SOLUTION → molecular/ionic dispersion",
+            "CONCENTRATION → amount on a stated basis"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SOLUBILITY → equilibrium limit under stated conditions",
+            "SOLID / LIQUID / GAS → arrangement + mobility + separation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOLID / LIQUID / GAS → arrangement + mobility + separation.",
+      "source_references": [
+        "States phase change and intermolecular forces",
+        "Solutions concentration and solubility boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ACID BASE BUFFER CONTROL LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ACID BASE BUFFER CONTROL LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "ACID DONATES H+ <→ BASE ACCEPTS H PH",
+          "role": "outcome"
+        },
+        {
+          "text": "LOGARITHMIC ACTIVITY MEASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "ACIDIC/BASIC CHARACTER REDUCED",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSUMES LIMITED ADDED ACID/BASE",
+          "role": "primary"
+        },
+        {
+          "text": "SALT SOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "NEUTRAL DEPENDS ON IONS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ACID DONATES H+ <→ BASE ACCEPTS H pH → logarithmic activity measure",
+        "NEUTRALISATION → acidic/basic character reduced",
+        "BUFFER → consumes limited added acid/base",
+        "SALT SOLUTION → acidic / basic / neutral depends on ions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "ACID DONATES H+ <→ BASE ACCEPTS H pH → logarithmic activity measure",
+            "NEUTRALISATION → acidic/basic character reduced"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BUFFER → consumes limited added acid/base",
+            "SALT SOLUTION → acidic / basic / neutral depends on ions"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "ACID DONATES H+ <→ BASE ACCEPTS H pH → logarithmic activity measure",
+            "NEUTRALISATION → acidic/basic character reduced"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SALT SOLUTION → acidic / basic / neutral depends on ions.",
+      "source_references": [
+        "Acids bases neutralisation and pH",
+        "Buffers salts and neutral-point boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ELECTROCHEMICAL TWO-CELL MAP",
+      "structural_type": "split-path",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ELECTROCHEMICAL TWO-CELL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "GALVANIC CELL",
+          "role": "outcome"
+        },
+        {
+          "text": "CHEMICAL ENERGY TO ELECTRICAL ENERGY",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTROLYTIC CELL",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTRICAL ENERGY DRIVES CHEMISTRY",
+          "role": "primary"
+        },
+        {
+          "text": "APPLIED ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "SIGN TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "CELL TYPE CHANGES SIGNS, NOT REACTION LOCATIONS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OXIDATION → anode",
+        "REDUCTION → cathode",
+        "GALVANIC CELL → chemical energy to electrical energy",
+        "ELECTROLYTIC CELL → electrical energy drives chemistry",
+        "CORROSION / PLATING / EXTRACTION → applied routes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "OXIDATION → anode",
+            "REDUCTION → cathode"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GALVANIC CELL → chemical energy to electrical energy",
+            "ELECTROLYTIC CELL → electrical energy drives chemistry"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "CORROSION / PLATING / EXTRACTION → applied routes",
+            "SIGN TRAP → cell type changes signs, not reaction locations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIGN TRAP → cell type changes signs, not reaction locations.",
+      "source_references": [
+        "Oxidation reduction and electrochemical cells",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "KINETICS VERSUS EQUILIBRIUM",
+      "structural_type": "two-axis-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "KINETICS VERSUS EQUILIBRIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "RATE AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLISIONS + ACTIVATION ENERGY",
+          "role": "comparison"
+        },
+        {
+          "text": "ALTERNATIVE LOWER-ENERGY PATHWAY",
+          "role": "evidence"
+        },
+        {
+          "text": "EQUILIBRIUM AXIS",
+          "role": "primary"
+        },
+        {
+          "text": "FORWARD RATE EQUALS REVERSE RATE",
+          "role": "outcome"
+        },
+        {
+          "text": "FASTER APPROACH IN BOTH DIRECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SHIFT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RATE AXIS → collisions + activation energy",
+        "CATALYST → alternative lower-energy pathway",
+        "EQUILIBRIUM AXIS → forward rate equals reverse rate",
+        "CATALYST → faster approach in both directions",
+        "NO SHIFT → equilibrium position unchanged"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "RATE AXIS → collisions + activation energy",
+            "CATALYST → alternative lower-energy pathway"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "EQUILIBRIUM AXIS → forward rate equals reverse rate",
+            "CATALYST → faster approach in both directions"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "NO SHIFT → equilibrium position unchanged",
+            "RATE AXIS → collisions + activation energy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EQUILIBRIUM AXIS → forward rate equals reverse rate.",
+      "source_references": [
+        "Reaction rate catalyst and equilibrium boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ORGANIC AND POLYMER FAMILY TREE",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ORGANIC AND POLYMER FAMILY TREE",
+          "role": "primary"
+        },
+        {
+          "text": "FUNCTIONAL GROUPS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADDITION POLYMER",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SMALL-MOLECULE ELIMINATION",
+          "role": "caution"
+        },
+        {
+          "text": "CONDENSATION POLYMER",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL MOLECULE ELIMINATED",
+          "role": "outcome"
+        },
+        {
+          "text": "THERMOPLASTIC <→ THERMOSET",
+          "role": "comparison"
+        },
+        {
+          "text": "REHEATING BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FUNCTIONAL GROUPS → alcohol",
+        "ADDITION POLYMER → no small-molecule elimination",
+        "CONDENSATION POLYMER → small molecule eliminated",
+        "THERMOPLASTIC <→ THERMOSET → reheating boundary",
+        "HYDROGEL → cross-linked hydrophilic network"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "FUNCTIONAL GROUPS → alcohol",
+            "ADDITION POLYMER → no small-molecule elimination"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CONDENSATION POLYMER → small molecule eliminated",
+            "THERMOPLASTIC <→ THERMOSET → reheating boundary"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "HYDROGEL → cross-linked hydrophilic network",
+            "FUNCTIONAL GROUPS → alcohol"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FUNCTIONAL GROUPS → alcohol | aldehyde | ketone | acid | amine | ester.",
+      "source_references": [
+        "Organic functional-group classification",
+        "Polymer structure and processing classes",
+        "Hydrogel polymer-network route",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MATERIALS STRUCTURE-PROPERTY WHEEL",
+      "structural_type": "portfolio-wheel",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MATERIALS STRUCTURE-PROPERTY WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "TETRAHEDRAL NETWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYERED STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT CARBON ARCHITECTURES",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPOSITION + PROCESSING ALTER PROPERTIES",
+          "role": "primary"
+        },
+        {
+          "text": "SAME ELEMENT CAN YIELD DIFFERENT MATERIAL BEHAVIOUR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIAMOND → tetrahedral network",
+        "GRAPHITE → layered structure",
+        "GRAPHENE / FULLERENE / NANOTUBE → distinct carbon architectures",
+        "ALLOY → composition + processing alter properties",
+        "RULE → same element can yield different material behaviour"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DIAMOND → tetrahedral network",
+            "GRAPHITE → layered structure"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "GRAPHENE / FULLERENE / NANOTUBE → distinct carbon architectures",
+            "ALLOY → composition + processing alter properties"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → same element can yield different material behaviour",
+            "DIAMOND → tetrahedral network"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → same element can yield different material behaviour.",
+      "source_references": [
+        "Carbon allotropes alloys and material properties",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FUEL CONVERSION FAULT TREE",
+      "structural_type": "fault-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FUEL CONVERSION FAULT TREE",
+          "role": "primary"
+        },
+        {
+          "text": "OXIDATION + USEFUL HEAT + POSSIBLE POLLUTANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "INCOMPLETE COMBUSTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENT PRODUCT BURDEN",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTROLLED OXYGEN/STEAM CONVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "CARBON MONOXIDE + HYDROGEN DOMINANT ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "OUTCOME FIREWALL",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCT IS NOT EFFICIENCY OR CLIMATE PROOF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMBUSTION → oxidation + useful heat + possible pollutants",
+        "INCOMPLETE COMBUSTION → different product burden",
+        "GASIFICATION → controlled oxygen/steam conversion",
+        "SYNGAS → carbon monoxide + hydrogen dominant route",
+        "OUTCOME FIREWALL → product is not efficiency or climate proof"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "COMBUSTION → oxidation + useful heat + possible pollutants",
+            "INCOMPLETE COMBUSTION → different product burden"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "GASIFICATION → controlled oxygen/steam conversion",
+            "SYNGAS → carbon monoxide + hydrogen dominant route"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME FIREWALL → product is not efficiency or climate proof",
+            "MUST REMEMBER: Chemistry fundamentals link atomic structure, mole/stoichiometry, bonding,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME FIREWALL → product is not efficiency or climate proof.",
+      "source_references": [
+        "Fuels combustion and gasification boundary",
+        "Coal-gasification routed product boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-22_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ENVIRONMENTAL COMPARTMENT MAP",
+      "structural_type": "compartment-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ENVIRONMENTAL COMPARTMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "OZONE PROTECTIVE ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "OZONE POLLUTANT ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "NUTRIENTS, ACIDS, SALTS, PERSISTENT CHEMICALS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCENTRATION + ROUTE + DURATION + CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "NOT SAFETY, HAZARD OR REGULATION EVIDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ATOM IS NOT MOLECULE, MOLE IS NOT MASS, IONIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRATOSPHERE → ozone protective role",
+        "TROPOSPHERE → ozone pollutant role",
+        "WATER / SOIL → nutrients, acids, salts, persistent chemicals",
+        "EXPOSURE → concentration + route + duration + conditions",
+        "LABEL → not safety, hazard or regulation evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "STRATOSPHERE → ozone protective role",
+            "TROPOSPHERE → ozone pollutant role"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "WATER / SOIL → nutrients, acids, salts, persistent chemicals",
+            "EXPOSURE → concentration + route + duration + conditions"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "LABEL → not safety, hazard or regulation evidence",
+            "CLOSE DISTINCTION: Atom is not molecule, mole is not mass, ionic is not covalent,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Atom is not molecule, mole is not mass, ionic is not covalent,.",
+      "source_references": [
+        "Environmental chemistry compartment map",
+        "Measurement exposure and category firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-22_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND POLICY EVIDENCE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND POLICY EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER POLARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MANY IONIC/POLAR SOLUTES, NOT EVERY SUBSTANCE",
+          "role": "caution"
+        },
+        {
+          "text": "PRESENCE DIFFERS FROM EXPOSURE AND REGULATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MATERIAL CLASS DIFFERS FROM UNIVERSAL PERFORMANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT DEPLOYMENT, OUTCOME, HAZARD OR LAW",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "BALANCE SPECIES, CHARGE AND UNITS; STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "WATER POLARITY → many ionic/polar solutes, not every substance",
+        "BPA / TRICLOSAN → presence differs from exposure and regulation",
+        "HYDROGEL → material class differs from universal performance",
+        "PRINCIPLE → PROCESS → APPLICATION → INSTITUTION",
+        "PAGE / DOCUMENT → not deployment, outcome, hazard or law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "WATER POLARITY → many ionic/polar solutes, not every substance",
+            "BPA / TRICLOSAN → presence differs from exposure and regulation"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HYDROGEL → material class differs from universal performance",
+            "PRINCIPLE → PROCESS → APPLICATION → INSTITUTION"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "PAGE / DOCUMENT → not deployment, outcome, hazard or law",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Balance species, charge and units; state..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Balance species, charge and units; state...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Balance species, charge and units; state.",
+      "source_references": [
+        "Hydrogel polymer-network route",
+        "Water polarity BPA and triclosan boundaries",
+        "Chemistry-to-policy evidence ladder",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g2\\science-and-technology-22_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-22_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-22\\g3\\science-and-technology-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CHEMISTRY, CATALYSIS, MATERIALS AND MOLECULAR RESEARCH.",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTROCHEMISTRY, CORROSION, BATTERIES AND RELATED TRANSLATIONAL TECHNOLOGIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "METALLURGICAL ECOSYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTRACTION, ALLOY BEHAVIOR AND INDUSTRIAL MATERIALS.",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL GREEN HYDROGEN MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "LINKS ELECTROCHEMISTRY, CATALYSTS, STORAGE AND STANDARDS TO DECARBONIZATION STRATEGY.",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEP PLASTICS-TREATY PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CSIR-NCL: chemistry, catalysis, materials and molecular research.",
+            "CSIR-CECRI: electrochemistry, corrosion, batteries and related translational technologies.",
+            "CSIR-NML / metallurgical ecosystem: extraction, alloy behavior and industrial materials.",
+            "National Green Hydrogen Mission: links electrochemistry, catalysts, storage and standards to decarbonization strategy."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "UNEP plastics-treaty process: international governance response to polymer lifecycle issues.",
+            "Fertilizer chemistry is central to food security, soil management and subsidy debates.",
+            "Electrochemistry matters for batteries, plating, corrosion control and hydrogen pathways.",
+            "Polymer chemistry shapes packaging, healthcare disposables, pipes, textiles and waste burdens."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Metallurgy underlies infrastructure, railways, defence, power systems and manufacturing competitiveness.",
+            "Biomolecule chemistry supports diagnostics, therapeutics and industrial biotechnology.",
+            "CAUTION: Limitation 1: chemical utility and environmental externality often move together",
+            "— the same polymer that lowers cost may raise waste-management burden."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

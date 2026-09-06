@@ -1,89 +1,142 @@
-ASCII MASTER FLOW — PANEL 1/12: Composite performance root
-TEXT -> narrative and dialogue
-ENACTMENT -> body, face and gesture
-MUSIC -> melody and rhythm
-RASA -> aesthetic reception
-MUST REMEMBER: Dance requires the Natyashastra composite of text, enactment, music and rasa,
-  then exact separation of nritta, nritya and natya, hasta and karana, classical-form lists,
-  regional forms and institutional recognition.
-MUST REMEMBER: Dance requires the Natyashastra composite of text, enactment, music and rasa,
-  then exact separation of nritta, nritya and natya, hasta and karana, classical-form lists,
-  regional forms and institutional recognition.
+INDIAN DANCE - ASCII MASTER FLOWCHART
+=====================================
 
-ASCII MASTER FLOW — PANEL 2/12: Movement vocabulary
-LASYA -> graceful and expressive quality
-TANDAVA -> vigorous rhythmic quality
-NRITTA -> pure movement
-NRITYA / NATYA -> expression and drama
+ASCII PANEL 01/12 - CENTRAL THESIS
+----------------------------------
++--------------------------------------------------------------+
+| INDIAN DANCE = PERFORMANCE GRAMMAR + REGIONAL FORM +        |
+| PATRONAGE HISTORY + MODERN SAFEGUARDING                     |
+|                                                              |
+| READ IN THIS ORDER:                                          |
+| TEXT -> VOCABULARY -> FORM -> COMMUNITY -> RECOGNITION       |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Gesture firewall
-HASTA / MUDRA -> hand gesture
-KARANA -> whole-body movement unit
-108 -> attached to karanas
-TRAP -> do not convert the number to mudras
+ASCII PANEL 02/12 - NATYA SHASTRA FRAME
+---------------------------------------
++--------------------------------------------------------------+
+| Natya Veda = Paathya + Abhinaya + Geet + Rasa               |
+| Broad safe chronology = late centuries BCE / early CE        |
+|                                                              |
+| RULE: do not give a falsely exact date or shrink Natya       |
+| into "dance steps only".                                     |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Recognition map
-SNA -> eight classical forms
-MINISTRY LIST -> separately includes Chhau
-UNESCO ICH -> safeguarding inscription
-RULE -> three non-interchangeable records
+ASCII PANEL 03/12 - CORE VOCABULARY
+-----------------------------------
++--------------------------------------------------------------+
+| Nritta = pure rhythmic movement                              |
+| Nritya = expression through gesture and emotion              |
+| Natya  = dramatic enactment                                  |
+| Lasya / Tandava = graceful / vigorous emphases               |
+| Bhava -> performed emotion; Rasa -> audience relish          |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Bharatanatyam change
-SADIR / HEREDITARY PRACTICE -> repertory base
-ANTI-NAUTCH -> disruption
-IYER + RUKMINI DEVI -> reconfiguration
-MODERN STAGE -> wider canon and new authority
+ASCII PANEL 04/12 - BODY GRAMMAR AND TRANSMISSION
+-------------------------------------------------
++--------------------------------------------------------------+
+| Hasta / Mudra = codified hand gesture                        |
+| Karana = coordinated whole-body movement unit                |
+| 108 belongs to karanas, NOT to a universal mudra count       |
+|                                                              |
+| Guru -> Shishya -> Sampradaya -> style memory                |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Recital sequence
-ALARIPPU -> opening
-JATISWARAM / SHABDAM -> movement and expression
-VARNAM / PADAM / JAWALI -> developed core
-THILLANA -> rhythmic close
+ASCII PANEL 05/12 - CLASSIFICATION FIREWALL
+-------------------------------------------
++--------------------------------------------------------------+
+| SNA eight classical forms                                    |
+| != Ministry list including Chhau                             |
+| != UNESCO intangible-heritage inscription                    |
+|                                                              |
+| Recognition timeline != practice history                     |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Andhra discriminator
-KUCHIPUDI -> itinerant dance-drama origin
-KUCHELAPURAM -> place-name anchor
-SIDDHENDRA -> association
-BHARATANATYAM -> different solo history
+ASCII PANEL 06/12 - BHARATANATYAM / KUCHIPUDI
+---------------------------------------------
++--------------------------------------------------------------+
+| Bharatanatyam                                                |
+| - Sadir / devadasi line                                      |
+| - Tanjore Quartet recital order                              |
+| - revival via E. Krishna Iyer / Rukmini Devi                |
+|                                                              |
+| Kuchipudi                                                    |
+| - Kuchelapuram + travelling actors                           |
+| - Siddhendra / Bhagavathalu                                  |
+| - Tarangam on brass plate                                    |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Kerala pair
-KATHAKALI -> Attakkatha, make-up, troupe and percussion
-MOHINIYATTAM -> solo lasya and Kasavu
-COMMON -> Kerala performance ecology
-DISTINCTION -> drama versus lyrical solo
+ASCII PANEL 07/12 - KATHAKALI / MOHINIYATTAM
+--------------------------------------------
++--------------------------------------------------------------+
+| Kathakali                                                    |
+| - Ramanattam / Krishnattam line                              |
+| - Attakkatha + Manipravalam                                  |
+| - vesham + eyes / eyebrows + chenda / maddala                |
+|                                                              |
+| Mohiniyattam                                                 |
+| - Kasavu + gentle footwork + dominant Lasya                  |
+| - Vadivelu / Swathi Thirunal / V.N. Menon line               |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Eastern three-form key
-ODISSI -> tribhanga, chowk, mahari and gotipua
-MANIPURI -> pung, raslila and restrained face
-SATTRIYA -> sattra, ankiya nat and mati-akhora
-TRAP -> devotion alone cannot identify
+ASCII PANEL 08/12 - KATHAK / ODISSI
+-----------------------------------
++--------------------------------------------------------------+
+| Kathak                                                       |
+| - Kathika storytellers                                       |
+| - tatkar + chakkars + gharanas                               |
+| - temple + court history                                     |
+|                                                              |
+| Odissi                                                       |
+| - mahari + gotipua continuity                                |
+| - tribhanga + chowk                                          |
+| - mobile sculpture                                           |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Dance-sculpture bridge
-POSE -> movement idiom made visible
-MUDRA -> shared gestural vocabulary
-TEMPLE SITE -> patron-selected sacred context
-LIMIT -> no complete modern choreography proved
-CLOSE DISTINCTION: Lasya and Tandava are movement qualities rather than gender-exclusive
-  rules; 108 refers to karanas, and the Sangeet Natak Akademi eight-form list must not be
-  merged with a Ministry list including Chhau or UNESCO status.
-CLOSE DISTINCTION: Lasya and Tandava are movement qualities rather than gender-exclusive
-  rules; 108 refers to karanas, and the Sangeet Natak Akademi eight-form list must not be
-  merged with a Ministry list including Chhau or UNESCO status.
+ASCII PANEL 09/12 - MANIPURI / SATTRIYA
+---------------------------------------
++--------------------------------------------------------------+
+| Manipuri                                                     |
+| - Ras Leela + pung + veiled restraint                        |
+| - Nagabandha                                                 |
+|                                                              |
+| Sattriya                                                     |
+| - sattra + Sankaradeva                                       |
+| - Borgeet + khol / manjira                                   |
+| - Ankia Naat / Bhaona                                        |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Garba official card
-OCCASION -> Navaratri
-CENTRE -> lit earthen pot or image of Amba
-MOVEMENT -> communal circular dance
-STATUS -> UNESCO ICH 2023, not SNA classical
-EVIDENCE LIMIT: Treatise dates and gesture counts are layered or text-dependent;
-  sculpture-dance links support comparison but do not prove that a surviving pose had one
-  unchanged meaning across periods.
-EVIDENCE LIMIT: Treatise dates and gesture counts are layered or text-dependent;
-  sculpture-dance links support comparison but do not prove that a surviving pose had one
-  unchanged meaning across periods.
+ASCII PANEL 10/12 - FOLK / RITUAL / MARTIAL FIELD
+-------------------------------------------------
++--------------------------------------------------------------+
+| Garba / Dandiya -> Navratri / lamp-pot / sticks              |
+| Bihu / Bagurumba -> Assam / harvest / nature                 |
+| Ghoomar / Kalbelia -> Rajasthan / pirouette / serpent idiom  |
+| Theyyam / Padayani -> ritual embodiment / masks              |
+| Chhau / Paika / Thang-Ta / Perini -> martial memory          |
++--------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Dance answer spine
-DEFINE -> component, form or recognition track
-IDENTIFY -> region and unique discriminator
-ANALYSE -> patronage, revival and community
-QUALIFY -> continuity, sculpture and status
+ASCII PANEL 11/12 - REVIVAL AND MODERN PUBLIC STAGE
+---------------------------------------------------
++--------------------------------------------------------------+
+| temple / court / sattra / hereditary worlds                  |
+| -> anti-nautch / feudal decline / obscurity                  |
+| -> revivalists / critics / institutions                      |
+| -> public stage / festival / academy / UNESCO safeguarding   |
+|                                                              |
+| RULE: revival = preservation + reconfiguration               |
++--------------------------------------------------------------+
+
+ASCII PANEL 12/12 - ANSWER ROUTE AND CAUTIONS
+---------------------------------------------
++--------------------------------------------------------------+
+| Identify forms by discriminating feature:                    |
+| Tarangam / Kasavu / Attakkatha / Tribhanga / Pung / Sattra   |
+|                                                              |
+| Cross-topic rules:                                           |
+| - sculpture shares posture vocabulary                        |
+| - music shares rasa field                                    |
+| - Hallisalasya stays with Painting Topic 07                  |
+|                                                              |
+| Never write: UNESCO = classical, 108 mudras, or             |
+| "unchanged choreography proved by sculpture".                |
++--------------------------------------------------------------+

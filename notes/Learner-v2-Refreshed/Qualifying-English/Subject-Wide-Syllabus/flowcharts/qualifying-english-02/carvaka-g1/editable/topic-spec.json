@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "qualifying-english-02",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\Qualifying-English\\basic\\02_Sentence-Grammar.md",
+  "source_advanced": null,
+  "stages": [
+    {
+      "number": 1,
+      "title": "Clause completeness",
+      "body": "Distinguish complete clauses, fragments, comma splices and subordinated units."
+    },
+    {
+      "number": 2,
+      "title": "Agreement controller",
+      "body": "Locate the grammatical subject, ignoring interrupting phrases."
+    },
+    {
+      "number": 3,
+      "title": "Special agreement",
+      "body": "Handle each/every, number expressions, fractions, there constructions and coordinated subjects."
+    },
+    {
+      "number": 4,
+      "title": "Tense timeline",
+      "body": "Place events on a timeline before choosing tense and aspect."
+    },
+    {
+      "number": 5,
+      "title": "Conditionals",
+      "body": "Preserve real/unreal time, polarity and result."
+    },
+    {
+      "number": 6,
+      "title": "Articles",
+      "body": "Choose a/an by sound, the by identifiability and zero article for general plural/mass reference."
+    },
+    {
+      "number": 7,
+      "title": "Determiners",
+      "body": "Control few/a few, little/a little, fewer/less, each/every and other/another."
+    },
+    {
+      "number": 8,
+      "title": "Preposition patterns",
+      "body": "Learn verb/adjective/noun plus preposition as complete constructions."
+    },
+    {
+      "number": 9,
+      "title": "Phrasal verbs",
+      "body": "Preserve idiomatic meaning and separability."
+    },
+    {
+      "number": 10,
+      "title": "Conjunction logic",
+      "body": "Match clause type and avoid double conjunctions."
+    },
+    {
+      "number": 11,
+      "title": "Parallelism and comparison",
+      "body": "Coordinate grammatically equivalent units and compare like with like."
+    },
+    {
+      "number": 12,
+      "title": "Modifier placement",
+      "body": "Attach opening and internal modifiers to their intended heads."
+    }
+  ]
+}

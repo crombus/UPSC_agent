@@ -5,8 +5,8 @@ Topic: Security Forces, Intelligence Coordination and Rights
 Subject: Internal Security
 Section: Subject-wide Syllabus
 Catalogue number: 12
-Source record ID: internal-security-12:learner-v2:g2
-Source generation: 2
+Source record ID: internal-security-12:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

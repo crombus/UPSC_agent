@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-08",
+      "display_title": "Riverine Floods and Urban Flood Resilience",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Flood-family matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "RIVERINE -> channel / floodplain overflow",
+            "PLUVIAL -> rainfall exceeds local storage / drainage",
+            "FLASH -> rapid concentrated runoff or sudden release",
+            "URBAN / COASTAL -> built catchment or sea interaction"
+          ],
+          "source_references": [
+            "Flood taxonomy",
+            "Riverine flooding",
+            "Pluvial flooding",
+            "Flash flooding",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Catchment-to-city chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RAINFALL + ANTECEDENT MOISTURE + SLOPE / LAND COVER",
+            "TRIBUTARY TIMING + CHANNEL / SEDIMENT CONDITION",
+            "FLOODPLAIN / CITY EXPOSURE",
+            "OUTCOME -> drainage land use warning and capacity"
+          ],
+          "source_references": [
+            "Basin-catchment process",
+            "Urban flooding",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Urban runoff mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IMPERVIOUS SURFACE -> FASTER RUNOFF",
+            "SYNCHRONISED PEAK -> OVERBURDENED DRAIN",
+            "BLOCKAGE / ENCROACHMENT -> BACKFLOW / WATERLOGGING",
+            "DENSE EXPOSURE -> SERVICE AND LIVELIHOOD LOSS"
+          ],
+          "source_references": [
+            "Imperviousness and drainage",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Water-space firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FLOODPLAIN -> room for river expansion",
+            "WETLAND / LAKE -> storage and attenuation",
+            "NATURAL DRAIN -> conveyance path",
+            "ENCROACHMENT -> exposure + lost hydraulic function"
+          ],
+          "source_references": [
+            "Floodplain encroachment",
+            "Wetlands and sponge-city concepts",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Compound coastal flood map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "RIVER FLOW -> ESTUARY",
+            "PLUVIAL RUNOFF -> URBAN DRAIN",
+            "SURGE / TIDE / WAVE -> DOWNSTREAM IMPEDANCE",
+            "COMBINATION -> COMPOUND INUNDATION"
+          ],
+          "source_references": [
+            "Coastal flooding",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "CWC forecast rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 OBSERVE LEVEL / DISCHARGE / INFLOW",
+            "2 ANALYSE AND FORECAST",
+            "3 ISSUE SITE-SPECIFIC CATEGORY / MESSAGE",
+            "4 ADMINISTRATION / PROJECT AUTHORITY ACTS"
+          ],
+          "source_references": [
+            "CWC forecasting",
+            "Site-specific thresholds",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Reservoir governance boundary",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "INFLOW FORECAST + CURRENT STORAGE",
+            "OPERATING RULE / DAM CONDITION / DOWNSTREAM CAPACITY",
+            "GATE DECISION -> TIMELY DOWNSTREAM WARNING",
+            "TRAP -> DAM IS NEITHER GUARANTEE NOR SINGLE CAUSE"
+          ],
+          "source_references": [
+            "Reservoir-operation boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Structural measure test",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DAM / RESERVOIR -> storage and operation limits",
+            "EMBANKMENT -> local protection and breach / transfer risk",
+            "CHANNEL / DIVERSION -> conveyance and downstream effects",
+            "DRAINAGE -> capacity depends on outlet and maintenance"
+          ],
+          "source_references": [
+            "Structural-measure limits",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Urban planning portfolio",
+          "structural_type": "network-map",
+          "ascii_lines": [
+            "MASTER PLAN + FLOODPLAIN ZONING",
+            "DRAIN INVENTORY + CATCHMENT / CONTOUR DESIGN",
+            "SOLID WASTE + WATERWAY / WETLAND PROTECTION",
+            "BUILDING / ROAD / UTILITY DEVELOPMENT CONTROL"
+          ],
+          "source_references": [
+            "Urban planning",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Sponge-city portfolio",
+          "structural_type": "layered-map",
+          "ascii_lines": [
+            "ROOF / PLOT -> capture infiltrate delay",
+            "STREET / PARK -> permeable and detention space",
+            "LAKE / WETLAND -> distributed storage",
+            "MAJOR DRAIN / BASIN -> convey residual flows",
+            "MUST REMEMBER: Flood risk analysis separates riverine, flash, pluvial, coastal, dam-...",
+            "MUST REMEMBER: Flood risk analysis separates riverine, flash, pluvial, coastal, dam-..."
+          ],
+          "source_references": [
+            "Wetlands and sponge-city concepts",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-08_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Inclusive service recovery loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "ACCESSIBLE WARNING -> TRANSPORT -> SHELTER",
+            "RELIEF + HEALTH + GRIEVANCE -> SERVICE RESTORATION",
+            "HOUSING LIVELIHOOD WETLAND AND DRAIN REPAIR",
+            "FEEDBACK -> SAFER PLAN AND INTER-JURISDICTION ACTION",
+            "CLOSE DISTINCTION: Heavy rainfall is not automatically an urban flood; forecast rainfall...",
+            "CLOSE DISTINCTION: Heavy rainfall is not automatically an urban flood; forecast rainfall..."
+          ],
+          "source_references": [
+            "Resilient infrastructure",
+            "Inclusive evacuation and relief",
+            "Recovery and coordination",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-08_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Flood answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY FLOOD -> TRACE CATCHMENT CITY COAST MECHANISM",
+            "MAP CWC FORECAST RESERVOIR DECISION AND LOCAL ACTION",
+            "COMBINE ZONING DRAINAGE WETLANDS STRUCTURES AND UFRMP",
+            "ADD INCLUSION COORDINATION RECOVERY AND OUTCOME QUALIFICATION",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date and unit rainfall, discharge,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date and unit rainfall, discharge,..."
+          ],
+          "source_references": [
+            "Urban Flood Risk Management Programme",
+            "Forecast-outcome firewall",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g2\\disaster-management-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-08_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-08\\g3\\disaster-management-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

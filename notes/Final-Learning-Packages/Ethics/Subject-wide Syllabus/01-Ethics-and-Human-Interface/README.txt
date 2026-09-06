@@ -5,8 +5,8 @@ Topic: Ethics and Human Interface
 Subject: Ethics
 Section: Subject-wide Syllabus
 Catalogue number: 01
-Source record ID: ethics-01:learner-v2:g5
-Source generation: 5
+Source record ID: ethics-01:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

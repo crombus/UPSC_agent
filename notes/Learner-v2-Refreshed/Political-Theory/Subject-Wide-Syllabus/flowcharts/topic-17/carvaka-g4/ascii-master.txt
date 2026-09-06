@@ -1,0 +1,221 @@
+ASCII MASTER FLOW — PANEL 1/12: Human Rights, Civil Liberties and Democratic Rights
+CENTRAL FOCUS
+Human Rights, Civil Liberties and Democratic Rights
+  [1] Human rights attach to persons through dignity and universal moral concern.
+        |
+        v
+  [2] Civil liberties protect legal freedom against arbitrary public power.
+        |
+        v
+  [3] Democratic rights enable citizens to participate in collective self-government.
+        |
+        v
+  [4] The categories overlap but are not arranged in one rigid hierarchy.
+        |
+        v
+VERDICT -> Rights categories overlap because dignity, liberty and participation interdepend.
+ANSWER USE -> Distinguish them through holder, function and duty-bearer.
+
+ASCII MASTER FLOW — PANEL 2/12: Hohfeld and the Negative-Positive Obligation Grid
+CENTRAL FOCUS
+Hohfeld and the Negative-Positive Obligation Grid
+  [1] Hohfeld separates claim, liberty, power and immunity positions.
+        |
+        v
+  [2] Negative duties require restraint; positive duties require protection or provision.
+        |
+        v
+  [3] Most real rights combine both dimensions through institutions and remedies.
+        |
+        v
+  [4] Every answer should identify holder, duty-bearer, content and remedy.
+        |
+        v
+VERDICT -> Negative and positive identify obligation dimensions, not sealed right-types.
+ANSWER USE -> Map every right through Hohfeldian position and required duty.
+
+ASCII MASTER FLOW — PANEL 3/12: Natural, Legal, Historical and Personality Theories
+CENTRAL FOCUS
+Natural, Legal, Historical and Personality Theories
+  [1] Natural-rights theories give claims moral force before legal recognition.
+        |
+        v
+  [2] Legal theories stress public definition, guarantee and enforceability.
+        |
+        v
+  [3] Historical theories ground rights in evolved practices and inheritance.
+        |
+        v
+  [4] Personality theories connect rights to moral development and common good.
+        |
+        v
+VERDICT -> Rights theories separate moral source, legal guarantee, history and personality.
+ANSWER USE -> Compare the source of validity before judging institutional force.
+
+ASCII MASTER FLOW — PANEL 4/12: Locke, Paine, Green and Barker
+CENTRAL FOCUS
+Locke, Paine, Green and Barker
+  [1] Locke grounds resistance in life, liberty, property and limited trust.
+        |
+        v
+  [2] Paine attacks inherited privilege through universal natural equality.
+        |
+        v
+  [3] Green links rights to social recognition and moral self-development.
+        |
+        v
+  [4] Barker joins personality-grounding to legal guarantee without collapsing the two.
+        |
+        v
+VERDICT -> Barker bridges moral purpose and law without proving effective enjoyment.
+ANSWER USE -> Keep validity, recognition, enforceability and realisation distinct.
+
+ASCII MASTER FLOW — PANEL 5/12: Burke, Laski, Marx and Nozick
+CENTRAL FOCUS
+Burke, Laski, Marx and Nozick
+  [1] Burke protects prescriptive inheritance but risks preserving inherited exclusion.
+        |
+        v
+  [2] Laski treats rights as social conditions of personality and common welfare.
+        |
+        v
+  [3] Marx exposes class power beneath formally equal rights.
+        |
+        v
+  [4] Nozick defends side-constraints and an anti-redistributive minimal state.
+        |
+        v
+VERDICT -> Rights can protect agency and still conceal unequal social power.
+ANSWER USE -> Compare welfare, class and libertarian critiques through one dispute.
+
+ASCII MASTER FLOW — PANEL 6/12: Theses, Directives and Rights-Answer Architecture
+CENTRAL FOCUS
+Theses, Directives and Rights-Answer Architecture
+  [1] A thesis should identify the rights theory, obligation structure and enforcement
+      level.
+        |
+        v
+  [2] Directive control determines whether comparison, criticism or application dominates.
+        |
+        v
+  [3] Generations answers must distinguish mnemonic value from historical accuracy.
+        |
+        v
+  [4] Covenant answers must separate immediate duties from progressive realisation.
+        |
+        v
+VERDICT -> Directive fidelity determines the theory, duty and remedy required.
+ANSWER USE -> State the obligation structure in the thesis before examples.
+
+ASCII MASTER FLOW — PANEL 7/12: MacIntyre and Accurate Feminist Critiques
+CENTRAL FOCUS
+MacIntyre and Accurate Feminist Critiques
+  [1] MacIntyre challenges abstract rights-talk from traditions and social practices.
+        |
+        v
+  [2] Feminist critique tests whether neutral rights conceal patriarchal power.
+        |
+        v
+  [3] Firestone foregrounds sex-class and reproductive control.
+        |
+        v
+  [4] Rowbotham joins women's oppression to capitalism, labour and historical struggle.
+        |
+        v
+VERDICT -> Community and feminist critiques expose different limits of abstraction.
+ANSWER USE -> Separate MacIntyre, Firestone and Rowbotham by mechanism.
+
+ASCII MASTER FLOW — PANEL 8/12: Generations of Rights and Indivisibility
+CENTRAL FOCUS
+Generations of Rights and Indivisibility
+  [1] First-generation rights protect civil and political agency but need institutions.
+        |
+        v
+  [2] Second-generation rights contain progressive and immediate obligations.
+        |
+        v
+  [3] Third-generation claims have unequal legal status and enforcement paths.
+        |
+        v
+  [4] Indivisibility means mutual support, not identical duties or remedies.
+        |
+        v
+VERDICT -> Generations organise claims but cannot rank or date them universally.
+ANSWER USE -> Add actual legal status, immediate duties and interdependence.
+
+ASCII MASTER FLOW — PANEL 9/12: Nuremberg, UDHR, ICCPR and ICESCR
+CENTRAL FOCUS
+Nuremberg, UDHR, ICCPR and ICESCR
+  [1] The UDHR is a global standard rather than a treaty with Covenant form.
+        |
+        v
+  [2] ICCPR duties stress respect, ensure and effective remedy.
+        |
+        v
+  [3] ICESCR combines progressive realisation with immediate non-discrimination and steps.
+        |
+        v
+  [4] Nuremberg supplied an accountability precedent, not the whole origin of human
+      rights.
+        |
+        v
+VERDICT -> Human-rights instruments differ in form, duty and enforcement route.
+ANSWER USE -> Distinguish UDHR standard-setting from Covenant obligations.
+
+ASCII MASTER FLOW — PANEL 10/12: Restrictions, Emergencies, Horizontal Effect and Protection
+CENTRAL FOCUS
+Restrictions, Emergencies, Horizontal Effect and Protection
+  [1] Ordinary restrictions require law, permitted aim, necessity and proportionality.
+        |
+        v
+  [2] Emergency derogation is narrower and leaves specified non-derogable rights intact.
+        |
+        v
+  [3] Horizontal harms may require legislation or positive state protection.
+        |
+        v
+  [4] The NHRC detention case is an allegation and response anchor, not an adjudicated
+      finding.
+        |
+        v
+VERDICT -> Lawful limits and emergency derogation require separate structured tests.
+ANSWER USE -> Use the NHRC case only as an allegation and institutional response.
+
+ASCII MASTER FLOW — PANEL 11/12: MCQ Remediation and Trap Repair
+CENTRAL FOCUS
+MCQ Remediation and Trap Repair
+  [1] Close options test moral validity, recognition, enforceability and realisation.
+        |
+        v
+  [2] Civil liberties may protect non-citizens while electoral rights usually depend on
+      citizenship.
+        |
+        v
+  [3] Absolute-right language must be confined to the applicable legal rule and context.
+        |
+        v
+  [4] Social movements can deepen effective rights without themselves replacing legal
+      guarantee.
+        |
+        v
+VERDICT -> Close options turn on legal level, obligation, holder and remedy.
+ANSWER USE -> Reject absolute language unless the specific rule supports it.
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ Ownership and Answer Practice
+CENTRAL FOCUS
+PYQ Ownership and Answer Practice
+  [1] Seven rights PYQs are cross-applied from Individual and State.
+        |
+        v
+  [2] Primary Philosophy ownership remains explicit in every transferred question.
+        |
+        v
+  [3] Six original questions test taxonomy, theories, generations and enforcement.
+        |
+        v
+  [4] Final recall: rights require justification, law, remedy and usable institutional
+      access.
+        |
+        v
+VERDICT -> Rights become real through justification, recognition, remedy and access.
+ANSWER USE -> Preserve Philosophy ownership and end with institutional plurality.

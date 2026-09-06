@@ -1,0 +1,1280 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-06\\g3\\ethics-06_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "ethics-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 37,
+      "markdown_body_line_end": 47,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 697.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 403.89
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 75,
+      "heading": "SESSION 1 - The realist-idealist spectrum in Indian moral thought",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Contributions of Indian moral thinkers and philosophers to public-administration ethics (official UPSC GS-IV syllabus item). **Grounded in:** 2nd ARC",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 660.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 94,
+      "heading": "1. Visual foundation",
+      "preview": "THINKER            CORE ETHICAL IDEA                  ADMINISTRATIVE USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 636.124
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 485.124
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 102,
+      "markdown_body_line_end": 108,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 420.524
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 155.522
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 217,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** Indian moral thought offers both a realist toolkit (Kautilya's opportunity- based controls) and an idealist toolkit (Gandhi, Vivekananda, Basava, Nanak's service-as-duty ethics) — durable governance ethics requires drawin",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 103.791
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 44.924
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 238,
+      "heading": "10. B.R. Ambedkar as a GS-IV moral/political thinker",
+      "preview": "⚠️ Ambedkar is syllabus-eligible as an \"Indian moral thinker\" but is frequently under-used in answers because he is taught primarily under Polity. His *ethics-specific* content — distinct from the constitutional-law detail taught in `Polity",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 573.591
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 492.724
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 245,
+      "heading": "10. B.R. Ambedkar as a GS-IV moral/political thinker",
+      "preview": "Concept | Precise content and attribution",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise content and attribution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 492.724
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 125.722
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 262,
+      "heading": "11. Social capital and good governance",
+      "preview": "⚠️ 2023 GS-IV Q6(b) (historical demand, routed here at the 06/11 boundary): explain social capital and its role in good governance.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 711.391
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 644.724
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 286,
+      "heading": "12. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 349.124
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 296.656
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 319,
+      "heading": "13. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 721.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 577.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 341,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 361.89
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 295.222
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 351,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 581.39
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 358,
+      "markdown_body_line_end": 358,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 507.79
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 463.122
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 365,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 463.122
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 382.254
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 380,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 132.39
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 392,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 614.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 570.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1802,
+      "markdown_body_line_end": 1808,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Indian moral thinkers — deeper comparative analysis, tensions and administrative case application. **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (20",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 520.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 432.824
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1813,
+      "markdown_body_line_end": 1825,
+      "heading": "1. Architecture",
+      "preview": "REALIST REGISTER                              IDEALIST REGISTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 405.324
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 284.324
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1833,
+      "markdown_body_line_end": 1838,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 559.49
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1931,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 717.09
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1967,
+      "markdown_body_line_end": 1968,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 193.49
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 134.622
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1974,
+      "markdown_body_line_end": 1983,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 132.39
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1995,
+      "markdown_body_line_end": 1995,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 614.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 570.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2004,
+      "markdown_body_line_end": 2034,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: 1. Realist-idealist spectrum in Indian moral thought",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 490.224
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 183.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2038,
+      "markdown_body_line_end": 2068,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: 2. Kautilya's anti-corruption control architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2072,
+      "markdown_body_line_end": 2102,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 3. Buddha's Middle Path as a decision-procedure",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2106,
+      "markdown_body_line_end": 2137,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: 4. Gandhi's ethical toolkit: trusteeship, means-ends, Seven Social Sins",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2141,
+      "markdown_body_line_end": 2171,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: 5. Vivekananda's Practical Vedanta and Daridra Narayana",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 141.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2205,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 6. Basava's Kayaka, Dasoha and the Anubhava Mantapa",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2239,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 7. Guru Nanak's three pillars and public-resource ethics",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 151.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2243,
+      "markdown_body_line_end": 2272,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 8. Mahavir's five Mahavratas and Anekantavada",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2305,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 9. Ambedkar's constitutional morality, equality and fraternity",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2309,
+      "markdown_body_line_end": 2339,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: 10. Social capital: bonding versus bridging",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2343,
+      "markdown_body_line_end": 2372,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 11. Eight-thinker comparison matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2376,
+      "markdown_body_line_end": 2406,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 12. PYQ pattern and answer synthesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2442,
+      "heading": "ASCII PANEL 1/12 - 1. Realist-idealist spectrum in Indian moral thought",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 414.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 123.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2446,
+      "markdown_body_line_end": 2476,
+      "heading": "ASCII PANEL 2/12 - 2. Kautilya's anti-corruption control architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2480,
+      "markdown_body_line_end": 2509,
+      "heading": "ASCII PANEL 3/12 - 3. Buddha's Middle Path as a decision-procedure",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2513,
+      "markdown_body_line_end": 2544,
+      "heading": "ASCII PANEL 4/12 - 4. Gandhi's ethical toolkit: trusteeship, means-ends, Seven Social Sins",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2548,
+      "markdown_body_line_end": 2577,
+      "heading": "ASCII PANEL 5/12 - 5. Vivekananda's Practical Vedanta and Daridra Narayana",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2611,
+      "heading": "ASCII PANEL 6/12 - 6. Basava's Kayaka, Dasoha and the Anubhava Mantapa",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2615,
+      "markdown_body_line_end": 2645,
+      "heading": "ASCII PANEL 7/12 - 7. Guru Nanak's three pillars and public-resource ethics",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2649,
+      "markdown_body_line_end": 2678,
+      "heading": "ASCII PANEL 8/12 - 8. Mahavir's five Mahavratas and Anekantavada",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2682,
+      "markdown_body_line_end": 2711,
+      "heading": "ASCII PANEL 9/12 - 9. Ambedkar's constitutional morality, equality and fraternity",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2715,
+      "markdown_body_line_end": 2745,
+      "heading": "ASCII PANEL 10/12 - 10. Social capital: bonding versus bridging",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2749,
+      "markdown_body_line_end": 2778,
+      "heading": "ASCII PANEL 11/12 - 11. Eight-thinker comparison matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2782,
+      "markdown_body_line_end": 2812,
+      "heading": "ASCII PANEL 12/12 - 12. PYQ pattern and answer synthesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2816,
+      "markdown_body_line_end": 2829,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 646.69
+        }
+      },
+      "pdf_pages": [
+        72,
+        73
+      ]
+    }
+  ]
+}

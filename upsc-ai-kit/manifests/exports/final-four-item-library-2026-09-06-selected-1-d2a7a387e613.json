@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T08:59:45+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\internal-security-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "a0bd78756d2f2496d0d1c8650360aa419cc3e9fd976daadcf6c46a1b9d44bf47",
+    "sha256_after": "a0bd78756d2f2496d0d1c8650360aa419cc3e9fd976daadcf6c46a1b9d44bf47",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Internal Security": 1
+  },
+  "sections": {
+    "Internal Security — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11557,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1976,
+    "json_count": 5356,
+    "total_bytes": 4273334095,
+    "by_extension": {
+      ".json": 5356,
+      ".md": 1976,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "internal-security-05",
+      "topic_title": "Jammu & Kashmir and Cross-Border Terrorism",
+      "subject": "Internal Security",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 5,
+      "source_record_id": "internal-security-05:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g3\\internal-security-05_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "49c9eee256fae8094395131ce0ff9002671534db45f65e8ee613dc204bce0cc4",
+          "output_sha256": "49c9eee256fae8094395131ce0ff9002671534db45f65e8ee613dc204bce0cc4",
+          "source_output_equal": true,
+          "bytes": 700760
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g3\\internal-security-05_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "4e16787437848814b65debca2ad6b797d16c2ae8399916dcd52a0b943ebfd5d3",
+          "output_sha256": "4e16787437848814b65debca2ad6b797d16c2ae8399916dcd52a0b943ebfd5d3",
+          "source_output_equal": true,
+          "bytes": 544435
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-05\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "746322f0ef952d2568a7e9f865d14c8efbd1d4420d6eb926ba7c09e338ea313b",
+          "output_sha256": "746322f0ef952d2568a7e9f865d14c8efbd1d4420d6eb926ba7c09e338ea313b",
+          "source_output_equal": true,
+          "bytes": 1920357
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-05\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "cedc78240e14aff15d0a8d3066988bc16d8c19e1aa30b9a63a5292c4b73eeb75",
+          "output_sha256": "cedc78240e14aff15d0a8d3066988bc16d8c19e1aa30b9a63a5292c4b73eeb75",
+          "source_output_equal": true,
+          "bytes": 2316733
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-05\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a41474a806027205a2b454bf5f6b3e94373c58e774ab7be519962f906e5caeb8",
+          "output_sha256": "a41474a806027205a2b454bf5f6b3e94373c58e774ab7be519962f906e5caeb8",
+          "source_output_equal": true,
+          "bytes": 1699514
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-05\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "dbc6603c828f695b56d0a8f4dbe92c74cc7f2cc67c95200099093942685d31d1",
+          "output_sha256": "dbc6603c828f695b56d0a8f4dbe92c74cc7f2cc67c95200099093942685d31d1",
+          "source_output_equal": true,
+          "bytes": 3557
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\flowcharts\\internal-security-05\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Internal Security\\Subject-wide Syllabus\\05-Jammu-and-Kashmir-and-Cross-Border-Terrorism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "738aa17af7bb8cc8538569a0861cd40f1f0a97b8d603ee3e5b2fd5baee09a363",
+          "output_sha256": "738aa17af7bb8cc8538569a0861cd40f1f0a97b8d603ee3e5b2fd5baee09a363",
+          "source_output_equal": true,
+          "source_text_sha256": "dbc6603c828f695b56d0a8f4dbe92c74cc7f2cc67c95200099093942685d31d1",
+          "normalized_text_equal": true,
+          "bytes": 56148
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 102,
+        "solved_practice_workbook": 59,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 102,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 59,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10682
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

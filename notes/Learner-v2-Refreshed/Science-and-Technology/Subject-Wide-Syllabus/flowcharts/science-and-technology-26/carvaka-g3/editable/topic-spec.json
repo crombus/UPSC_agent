@@ -1,0 +1,1095 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-26",
+  "subject": "Science-and-Technology",
+  "title": "SCIENTIFIC DISCOVERIES, NOBEL PRIZES AND SCIENTISTS",
+  "short_route": "MINIMUM PRIZE EVIDENCE CARD → SCIENTIFIC CONTRIBUTION CLASSIFIER → NOBEL CATEGORY MAP → CITATION-TO-OUTCOME STAIRCASE → ATTRIBUTION AND CHRONOLOGY RAIL → PHYSICS 2025 QUANTUM-CIRCUIT MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-26-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "883ee172e6b41f9b1adeb123561d04f42a1c7e699bc763f296934e2f766f88e8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MINIMUM PRIZE EVIDENCE CARD",
+      "structural_type": "evidence-card",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MINIMUM PRIZE EVIDENCE CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "CATEGORY + YEAR",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFICIAL LAUREATE SPELLING",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL CITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MECHANISM + AWARD-TIME AFFILIATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "INDIA LINK",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUS DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONLY IF SOURCED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CATEGORY + YEAR",
+        "OFFICIAL LAUREATE SPELLING",
+        "OFFICIAL CITATION / MOTIVATION",
+        "MECHANISM + AWARD-TIME AFFILIATION",
+        "BIRTH / INDIA LINK / STATUS DATE → only if sourced"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CATEGORY + YEAR",
+            "OFFICIAL LAUREATE SPELLING"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "OFFICIAL CITATION / MOTIVATION",
+            "MECHANISM + AWARD-TIME AFFILIATION"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "BIRTH / INDIA LINK / STATUS DATE → only if sourced",
+            "CATEGORY + YEAR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BIRTH / INDIA LINK / STATUS DATE → only if sourced.",
+      "source_references": [
+        "Minimum prize evidence card",
+        "Laureate institution nationality boundary",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SCIENTIFIC CONTRIBUTION CLASSIFIER",
+      "structural_type": "contribution-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SCIENTIFIC CONTRIBUTION CLASSIFIER",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLANATION AND PREDICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RECORDED PHENOMENON",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROLLED TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "ESTABLISHED PHENOMENON OR RELATION",
+          "role": "primary"
+        },
+        {
+          "text": "DEVICE, PROCESS OR METHOD",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "THEORY → explanation and prediction",
+        "OBSERVATION → recorded phenomenon",
+        "EXPERIMENT → controlled test",
+        "DISCOVERY → established phenomenon or relation",
+        "INVENTION / DEVELOPMENT → device, process or method"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "THEORY → explanation and prediction",
+            "OBSERVATION → recorded phenomenon"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "EXPERIMENT → controlled test",
+            "DISCOVERY → established phenomenon or relation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "INVENTION / DEVELOPMENT → device, process or method",
+            "THEORY → explanation and prediction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INVENTION / DEVELOPMENT → device, process or method.",
+      "source_references": [
+        "Discovery invention theory and observation",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NOBEL CATEGORY MAP",
+      "structural_type": "category-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NOBEL CATEGORY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSIOLOGY OR MEDICINE",
+          "role": "outcome"
+        },
+        {
+          "text": "ORIGINAL FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMIC SCIENCES",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER MEMORIAL PRIZE",
+          "role": "primary"
+        },
+        {
+          "text": "AWARDING INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "PERSON OR ORGANISATION POSSIBLE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PHYSIOLOGY OR MEDICINE",
+        "PEACE → original framework",
+        "ECONOMIC SCIENCES → later memorial prize",
+        "AWARDING INSTITUTION → category-specific",
+        "PEACE → person or organisation possible"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PHYSIOLOGY OR MEDICINE",
+            "PEACE → original framework"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ECONOMIC SCIENCES → later memorial prize",
+            "AWARDING INSTITUTION → category-specific"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "PEACE → person or organisation possible",
+            "PHYSIOLOGY OR MEDICINE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AWARDING INSTITUTION → category-specific; PEACE → person or organisation possible.",
+      "source_references": [
+        "Nobel category architecture",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CITATION-TO-OUTCOME STAIRCASE",
+      "structural_type": "status-staircase",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CITATION-TO-OUTCOME STAIRCASE",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL CITATION",
+          "role": "outcome"
+        },
+        {
+          "text": "POSSIBLE APPLICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ENGINEERING + COMMERCIALIZATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MEASURED POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL OUTCOME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OFFICIAL CITATION",
+        "DISCOVERY / MECHANISM",
+        "POSSIBLE APPLICATION",
+        "ENGINEERING + COMMERCIALIZATION",
+        "MEASURED POLICY / SOCIAL OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "OFFICIAL CITATION",
+            "DISCOVERY / MECHANISM"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "POSSIBLE APPLICATION",
+            "ENGINEERING + COMMERCIALIZATION"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "MEASURED POLICY / SOCIAL OUTCOME",
+            "OFFICIAL CITATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENGINEERING + COMMERCIALIZATION; MEASURED POLICY / SOCIAL OUTCOME.",
+      "source_references": [
+        "Citation-to-policy evidence ladder",
+        "Replication uncertainty and mature evidence",
+        "Prize claim and current-status firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ATTRIBUTION AND CHRONOLOGY RAIL",
+      "structural_type": "chronology-rail",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ATTRIBUTION AND CHRONOLOGY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "PRIOR THEORY",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER AND SEPARATE",
+          "role": "comparison"
+        },
+        {
+          "text": "AWARD YEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCOVERY YEAR AUTOMATICALLY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRIOR THEORY → INSTRUMENT → EXPERIMENT",
+        "PUBLICATION → REPLICATION → AWARD",
+        "PATENT / PRODUCT / DEPLOYMENT → later and separate",
+        "LAUREATE != institution",
+        "AWARD YEAR != discovery year automatically"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PRIOR THEORY → INSTRUMENT → EXPERIMENT",
+            "PUBLICATION → REPLICATION → AWARD"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "PATENT / PRODUCT / DEPLOYMENT → later and separate",
+            "LAUREATE != institution"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "AWARD YEAR != discovery year automatically",
+            "PRIOR THEORY → INSTRUMENT → EXPERIMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PATENT / PRODUCT / DEPLOYMENT → later and separate.",
+      "source_references": [
+        "Laureate institution nationality boundary",
+        "Chronology and attribution discipline",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PHYSICS 2025 QUANTUM-CIRCUIT MAP",
+      "structural_type": "mechanism-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PHYSICS 2025 QUANTUM-CIRCUIT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SUPERCONDUCTING CIRCUIT + JOSEPHSON JUNCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLECTIVE MACROSCOPIC STATE",
+          "role": "institution"
+        },
+        {
+          "text": "QUANTUM TUNNELLING",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIFIC ENERGY AMOUNTS",
+          "role": "primary"
+        },
+        {
+          "text": "FAULT-TOLERANT QUANTUM COMPUTER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SUPERCONDUCTING CIRCUIT + JOSEPHSON JUNCTION",
+        "COLLECTIVE MACROSCOPIC STATE",
+        "BARRIER → quantum tunnelling",
+        "SPECIFIC ENERGY AMOUNTS → quantisation",
+        "DEMONSTRATION != fault-tolerant quantum computer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SUPERCONDUCTING CIRCUIT + JOSEPHSON JUNCTION",
+            "COLLECTIVE MACROSCOPIC STATE"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "BARRIER → quantum tunnelling",
+            "SPECIFIC ENERGY AMOUNTS → quantisation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DEMONSTRATION != fault-tolerant quantum computer",
+            "SUPERCONDUCTING CIRCUIT + JOSEPHSON JUNCTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPECIFIC ENERGY AMOUNTS → quantisation; DEMONSTRATION != fault-tolerant quantum computer.",
+      "source_references": [
+        "Physics 2025 award citation",
+        "Physics 2025 mechanism",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "JOHN CLARKE CLUE RESOLVER",
+      "structural_type": "clue-resolver",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JOHN CLARKE CLUE RESOLVER",
+          "role": "primary"
+        },
+        {
+          "text": "CAMBRIDGE, UNITED KINGDOM",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIVERSITY OF CALIFORNIA, BERKELEY",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICS 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE-THIRD WITH DEVORET AND MARTINIS",
+          "role": "primary"
+        },
+        {
+          "text": "MATCH ALL CLUES",
+          "role": "outcome"
+        },
+        {
+          "text": "THEN IDENTIFY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BORN → Cambridge, United Kingdom",
+        "AFFILIATION → University of California, Berkeley",
+        "CATEGORY / YEAR → Physics 2025",
+        "SHARE → one-third with Devoret and Martinis",
+        "MATCH ALL CLUES → then identify"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "BORN → Cambridge, United Kingdom",
+            "AFFILIATION → University of California, Berkeley"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "CATEGORY / YEAR → Physics 2025",
+            "SHARE → one-third with Devoret and Martinis"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "MATCH ALL CLUES → then identify",
+            "BORN → Cambridge, United Kingdom"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHARE → one-third with Devoret and Martinis; MATCH ALL CLUES → then identify.",
+      "source_references": [
+        "John Clarke biographical route",
+        "Routed PYQ mechanism-first use",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CHEMISTRY 2025 MOF ARCHITECTURE",
+      "structural_type": "material-architecture",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CHEMISTRY 2025 MOF ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "METAL IONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANIC MOLECULES",
+          "role": "comparison"
+        },
+        {
+          "text": "POROUS CRYSTAL",
+          "role": "evidence"
+        },
+        {
+          "text": "BUILDING-BLOCK CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "TUNABLE FUNCTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "METAL IONS → nodes",
+        "ORGANIC MOLECULES → linkers",
+        "POROUS CRYSTAL → cavities",
+        "BUILDING-BLOCK CHANGE → tunable function",
+        "CAPABILITY / APPLICATION != commercialization"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "METAL IONS → nodes",
+            "ORGANIC MOLECULES → linkers"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "POROUS CRYSTAL → cavities",
+            "BUILDING-BLOCK CHANGE → tunable function"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPABILITY / APPLICATION != commercialization",
+            "METAL IONS → nodes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUILDING-BLOCK CHANGE → tunable function; CAPABILITY / APPLICATION != commercialization.",
+      "source_references": [
+        "Chemistry 2025 award citation",
+        "Metal-organic framework mechanism",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MEDICINE 2025 TOLERANCE PATHWAY",
+      "structural_type": "immune-pathway",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MEDICINE 2025 TOLERANCE PATHWAY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL TOLERANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "THYMIC CONTROL LAYER",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATORY T CELLS",
+          "role": "evidence"
+        },
+        {
+          "text": "PERIPHERAL CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "REGULATORY-T-CELL DEVELOPMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-TISSUE PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLINICAL TRIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL TOLERANCE → thymic control layer",
+        "REGULATORY T CELLS → peripheral control",
+        "Foxp3 → regulatory-T-cell development",
+        "SELF-TISSUE PROTECTION → mechanism",
+        "CLINICAL TRIAL != approved therapy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "CENTRAL TOLERANCE → thymic control layer",
+            "REGULATORY T CELLS → peripheral control"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Foxp3 → regulatory-T-cell development",
+            "SELF-TISSUE PROTECTION → mechanism"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "CLINICAL TRIAL != approved therapy",
+            "CENTRAL TOLERANCE → thymic control layer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SELF-TISSUE PROTECTION → mechanism; CLINICAL TRIAL != approved therapy.",
+      "source_references": [
+        "Medicine 2025 award citation",
+        "Peripheral tolerance mechanism",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MICRORNA REGULATION RAIL",
+      "structural_type": "gene-regulation-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MICRORNA REGULATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DNA --TRANSCRIPTION-→ MRNA MICRORNA",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLEMENTARY MRNA BINDING",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTEIN PRODUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "INHIBITED MRNA DEGRADATION",
+          "role": "primary"
+        },
+        {
+          "text": "POSSIBLE ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIAGNOSTIC OR MEDICINE",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DNA --transcription-→ mRNA microRNA → complementary mRNA binding",
+        "PROTEIN PRODUCTION → inhibited mRNA DEGRADATION → possible route",
+        "DISCOVERY != diagnostic or medicine",
+        "MUST REMEMBER: Scientific-history questions separate observation, discovery, theory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DNA --transcription-→ mRNA microRNA → complementary mRNA binding",
+            "PROTEIN PRODUCTION → inhibited mRNA DEGRADATION → possible route"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DISCOVERY != diagnostic or medicine",
+            "MUST REMEMBER: Scientific-history questions separate observation, discovery, theory,..."
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "DNA --transcription-→ mRNA microRNA → complementary mRNA binding",
+            "PROTEIN PRODUCTION → inhibited mRNA DEGRADATION → possible route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Scientific-history questions separate observation, discovery, theory,.",
+      "source_references": [
+        "Medicine 2024 microRNA anchor",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-26_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA-LINKED SCIENTIST CARDS",
+      "structural_type": "three-card-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA-LINKED SCIENTIST CARDS",
+          "role": "primary"
+        },
+        {
+          "text": "RAMAN 1930",
+          "role": "outcome"
+        },
+        {
+          "text": "LIGHT SCATTERING",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMAN EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "KHORANA 1968",
+          "role": "primary"
+        },
+        {
+          "text": "GENETIC CODE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTEIN SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "RAMAKRISHNAN 2009",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAMAN 1930 → light scattering / Raman effect",
+        "KHORANA 1968 → genetic code / protein synthesis",
+        "RAMAKRISHNAN 2009 → ribosome structure and function",
+        "BIRTHPLACE != award-time affiliation",
+        "CITATION != every later application"
+      ],
+      "matrix": [
+        [
+          "CONCEPT / ARCHITECTURE",
+          "MECHANISM / APPLICATION",
+          "READINESS / STATUS LIMIT"
+        ],
+        [
+          "RAMAN 1930 → light scattering / Raman effect",
+          "RAMAKRISHNAN 2009 → ribosome structure and function",
+          "CITATION != every later application"
+        ],
+        [
+          "KHORANA 1968 → genetic code / protein synthesis",
+          "BIRTHPLACE != award-time affiliation",
+          "CLOSE DISTINCTION: Discovery is not invention, theory is not proof beyond revision, award..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "RAMAN 1930 → light scattering / Raman effect",
+            "KHORANA 1968 → genetic code / protein synthesis"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "RAMAKRISHNAN 2009 → ribosome structure and function",
+            "BIRTHPLACE != award-time affiliation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CITATION != every later application",
+            "CLOSE DISTINCTION: Discovery is not invention, theory is not proof beyond revision, award..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KHORANA 1968 → genetic code / protein synthesis.",
+      "source_references": [
+        "Raman prize and mechanism",
+        "Khorana genetic-code prize",
+        "Ramakrishnan ribosome prize",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-26_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND FUTURE-STATUS FIREWALL",
+      "structural_type": "pyq-status-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND FUTURE-STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "2026 Q81",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT BIOGRAPHICAL PRIZE ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "BLUE LED",
+          "role": "evidence"
+        },
+        {
+          "text": "TOPIC 21 DIRECT SCIENCE OWNER",
+          "role": "primary"
+        },
+        {
+          "text": "TOPIC 26",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTRIBUTION + CITATION + MATURITY SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 OFFICIAL AWARDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2026 Q81 → direct biographical prize route",
+        "BOSE-EINSTEIN / BLUE LED → Topic 21 direct science owner",
+        "TOPIC 26 → attribution + citation + maturity support",
+        "2025 OFFICIAL AWARDS → latest completed science anchors",
+        "4 SEP 2026 → no invented 2026 laureates"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "2026 Q81 → direct biographical prize route",
+            "BOSE-EINSTEIN / BLUE LED → Topic 21 direct science owner"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TOPIC 26 → attribution + citation + maturity support",
+            "2025 OFFICIAL AWARDS → latest completed science anchors"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "4 SEP 2026 → no invented 2026 laureates",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use Nobel Foundation or equally..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use Nobel Foundation or equally...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use Nobel Foundation or equally.",
+      "source_references": [
+        "Routed PYQ mechanism-first use",
+        "Prize claim and current-status firewall",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g2\\science-and-technology-26_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-26_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-26\\g3\\science-and-technology-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "USE LAUREATE EXAMPLES TO ILLUSTRATE LONG-HORIZON PUBLIC RESEARCH, INSTRUMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILITY AND THE PATH FROM BASIC SCIENCE TO STRATEGIC",
+          "role": "comparison"
+        },
+        {
+          "text": "AVOID \"NOBEL COUNT\" NATIONALISM.",
+          "role": "evidence"
+        },
+        {
+          "text": "A STRONGER ANSWER EXAMINES RESEARCH FUNDING, UNIVERSITIES, LABORATORY AUTONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "CONNECT TOPIC 24'S FUNDING ARCHITECTURE WITH THE SPECIALIST SCIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCIENCE & TECHNOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "GS PAPER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Use laureate examples to illustrate long-horizon public research, instrumentation, international",
+            "mobility and the path from basic science to strategic technology.",
+            "CAUTION: Avoid \"Nobel count\" nationalism.",
+            "A stronger answer examines research funding, universities, laboratory autonomy, interdisciplinary teams and translation capacity."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Connect Topic 24's funding architecture with the specialist science file that explains the discovery.",
+            "Subject: Science & Technology | Tier: Advanced | GS Paper: GS-III + Prelims.",
+            "Purpose: Convert prize current affairs into deeper scientific reasoning without making optional enrichment necessary for objective-question coverage.",
+            "Analytical lens CAUTION: Major prizes reveal how science moves from a counter-intuitive"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "mechanism to an experimental demonstration and then to a technology platform.",
+            "Deeper distinctions | Distinction | Why it matters | |---|---| | Discovery vs invention | A discovery establishes a phenomenon",
+            "an invention creates a device or process.",
+            "Prize citations may recognise either kind of contribution."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

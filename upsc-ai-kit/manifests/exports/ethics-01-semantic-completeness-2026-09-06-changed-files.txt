@@ -1,0 +1,90 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Ethics\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Ethics\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Ethics\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\ethics-01-g5-to-g6.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\ethics-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\ethics-01-g5-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\ethics-01-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\ethics-01-g6-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g5-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g6-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\g6-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ethics-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Ethics\INDEX.md
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\01-Ethics-and-Human-Interface\README.txt
+notes\Final-Learning-Packages\Ethics\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\ascii-master.pdf
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\ascii-master.txt
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\build-audit.json
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\editable\README.txt
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\master.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\poster.pdf
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\preservation-hashes.json
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\previews\master-overview.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\previews\page-001.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\previews\page-002.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\previews\page-003.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\previews\page-004.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\previews\page-005.png
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\README.txt
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\tiled.pdf
+notes\Learner-v2-Refreshed\Ethics\ETH\flowcharts\iac-01\carvaka-g6\validation-report.txt
+notes\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\ethics-01_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\ethics-01_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\validation\workbook-visual-audit-map.json
+tools\ethics_01_05_data.py
+tools\ethics_06_10_data.py
+tools\ethics_11_15_data.py
+tools\ethics_semantic_runtime.py
+tools\finalize_ethics_semantic_review.py
+tools\generate_ethics_common.py
+tools\regenerate_ethics_deep_review.py
+tools\run_ethics_semantic_topic.py
+tools\test_run_ethics_semantic_topic.py
+tools\verify_ethics_live_sources.py
+upsc-ai-kit\knowledge\Ethics\basic\01_Ethics-and-Human-Interface.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\assets\ethics-01_concept-map_g2.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\assets\ethics-01_main-visual-audit_g2.json
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\assets\ethics-01_workbook-visual-audit_g2.json
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\ethics-01_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ethics\ETH\learning-sessions\iac-01\g6\ethics-01_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\manifests\exports\ethics-01-learner-v2-g6-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\ethics-01-learner-v2-g6-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\ethics-01-learner-v2-g6-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\ethics-01-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\ethics-01-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\ethics-authoritative-live-source-audit-2026-09-06.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-14d496178de1-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-14d496178de1.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ethics-01-deep-review-2026-09-06-g6.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Ethics\deep-review\ethics-01-g6.json
+upsc-ai-kit\manifests\reviews\ethics\01-ethics-and-human-interface-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus-content-specs\ethics-01-g6.json
+upsc-ai-kit\manifests\v2\ethics--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

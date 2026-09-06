@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-06",
+  "subject": "Essay",
+  "title": "INTRODUCTIONS AND CONCLUSIONS",
+  "short_route": "INTRODUCTIONS AND CONCLUSIONS: PROMPT → INTRODUCTIONS AND CONCLUSIONS: CONCEPT → INTRODUCTIONS AND CONCLUSIONS: DIMENSION → INTRODUCTIONS AND CONCLUSIONS: DECISION → INTRODUCTIONS AND CONCLUSIONS: MECHANISM → INTRODUCTIONS AND CONCLUSIONS: COUNTER-VIEW",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-06\\g1\\essay-06_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-06-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "50a2e3e4c92d824589ab74584dc76191f60e2a7044c11b91692b60afc9fa7849",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS ONLY THE ESSAY'S OPENING AND CLOSI",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "PRINTED STRUCTURAL REQUIREMENT FOR INTRODUCTION/CONC",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi",
+        "EXAM FACTS / SOURCE BASIS → printed structural requirement for introduction/conc",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi",
+            "EXAM FACTS / SOURCE BASIS → printed structural requirement for introduction/conc"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "THE INTRODUCTION SHOULD STATE OR CLEAR",
+          "role": "institution"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHAT IS THE PROMPT'S TENSION, IN ONE SENTENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE INTRODUCTION GIVES A PROVISIONAL RESPONSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th",
+        "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r",
+        "PROVISIONAL-RESPONSE / TESTED-RESP → 1. Does the opening promise the argument the body ac",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r",
+            "PROVISIONAL-RESPONSE / TESTED-RESP → 1. Does the opening promise the argument the body ac"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Provisional-response / tested-response alignment check",
+        "Provisional-response / tested-response alignment check — 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INTRODUCTION GIVES A PROVISIONAL RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "IT R",
+          "role": "evidence"
+        },
+        {
+          "text": "1. DOES THE OPENING PROMISE THE ARGUMENT THE BODY",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "outcome"
+        },
+        {
+          "text": "AN OPENING MAY USE A BRIEF, REAL INDIAN REFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r",
+        "PROVISIONAL-RESPONSE / TESTED-RESP → 1. Does the opening promise the argument the body ac",
+        "INDIA-FIRST ILLUSTRATION STARTERS → An opening may use a brief, real Indian reference (a",
+        "THESIS OPTIONS AND SELECTION → The chosen thesis (from 05) should be visible, at le",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r",
+          "INDIA-FIRST ILLUSTRATION STARTERS → An opening may use a brief, real Indian reference (a",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "PROVISIONAL-RESPONSE / TESTED-RESP → 1. Does the opening promise the argument the body ac",
+          "THESIS OPTIONS AND SELECTION → The chosen thesis (from 05) should be visible, at le",
+          "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r",
+            "PROVISIONAL-RESPONSE / TESTED-RESP → 1. Does the opening promise the argument the body ac"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → An opening may use a brief, real Indian reference (a",
+            "THESIS OPTIONS AND SELECTION → The chosen thesis (from 05) should be visible, at le"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Provisional-response / tested-response alignment check",
+        "Provisional-response / tested-response alignment check — 2",
+        "India-first illustration starters",
+        "Thesis options and selection"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "AN OPENING MAY USE A BRIEF, REAL INDIAN REFERENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "THE CHOSEN THESIS (FROM 05) SHOULD BE VISIBLE, AT",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "A WORKABLE SHAPE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA-FIRST ILLUSTRATION STARTERS → An opening may use a brief, real Indian reference (a",
+        "THESIS OPTIONS AND SELECTION → The chosen thesis (from 05) should be visible, at le",
+        "SIMPLE ESSAY ARCHITECTURE → A workable shape: introduction (1 paragraph, tension",
+        "TRAPS AND REPAIR MOVES → Repair: the conclusion should synthesise material al",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → An opening may use a brief, real Indian reference (a",
+            "THESIS OPTIONS AND SELECTION → The chosen thesis (from 05) should be visible, at le"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → A workable shape: introduction (1 paragraph, tension",
+            "TRAPS AND REPAIR MOVES → Repair: the conclusion should synthesise material al"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "INDIA-FIRST ILLUSTRATION STARTERS → An opening may use a brief, real Indian reference (a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Traps and repair moves"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "A WORKABLE SHAPE",
+          "role": "evidence"
+        },
+        {
+          "text": "INTRODUCTION (1 PARAGRAPH, TENSION",
+          "role": "primary"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CONCLUSION SHOULD SYNTHESISE MATERIAL AL",
+          "role": "evidence"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIMPLE ESSAY ARCHITECTURE → A workable shape: introduction (1 paragraph, tension",
+        "TRAPS AND REPAIR MOVES → Repair: the conclusion should synthesise material al",
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any chosen thesis, write only th",
+        "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Read your closing sentence in isolation.",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "SIMPLE ESSAY ARCHITECTURE → A workable shape: introduction (1 paragraph, tension",
+            "TRAPS AND REPAIR MOVES → Repair: the conclusion should synthesise material al"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any chosen thesis, write only th",
+            "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Read your closing sentence in isolation."
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "SIMPLE ESSAY ARCHITECTURE → A workable shape: introduction (1 paragraph, tension"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Simple essay architecture",
+        "Traps and repair moves",
+        "Timed micro-drill and self-check",
+        "Timed micro-drill and self-check — 2"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK",
+          "role": "comparison"
+        },
+        {
+          "text": "5-MINUTE DRILL",
+          "role": "evidence"
+        },
+        {
+          "text": "FOR ANY CHOSEN THESIS, WRITE ONLY TH",
+          "role": "primary"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK —",
+          "role": "outcome"
+        },
+        {
+          "text": "READ YOUR CLOSING SENTENCE IN ISOLATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "SEMANTIC-COMPLETENESS REPAIR — 6 S",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any chosen thesis, write only th",
+        "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Read your closing sentence in isolation.",
+        "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for openings that establis",
+        "SEMANTIC-COMPLETENESS REPAIR — 6 S → Before drafting, restate the exact prompt, identify",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any chosen thesis, write only th",
+            "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Read your closing sentence in isolation."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for openings that establis",
+            "SEMANTIC-COMPLETENESS REPAIR — 6 S → Before drafting, restate the exact prompt, identify"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any chosen thesis, write only th"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Timed micro-drill and self-check",
+        "Timed micro-drill and self-check — 2",
+        "Semantic-completeness repair — 6 September 2026",
+        "Semantic-completeness repair — 6 September 2026 — 2"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SEMANTIC-COMPLETENESS REPAIR — 6 S",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS OWNER IS RESPONSIBLE FOR OPENINGS THAT ESTABLIS",
+          "role": "evidence"
+        },
+        {
+          "text": "BEFORE DRAFTING, RESTATE THE EXACT PROMPT, IDENTIFY",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INTRODUCTION'S JOB IS TO RAISE THE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for openings that establis",
+        "SEMANTIC-COMPLETENESS REPAIR — 6 S → Before drafting, restate the exact prompt, identify",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: the introduction's job is to raise the",
+        "CONCEPT DEFINITION AND TAXONOMY → argument-map cycles (05) into one transformed statem",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for openings that establis",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: the introduction's job is to raise the",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "SEMANTIC-COMPLETENESS REPAIR — 6 S → Before drafting, restate the exact prompt, identify",
+          "CONCEPT DEFINITION AND TAXONOMY → argument-map cycles (05) into one transformed statem",
+          "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for openings that establis"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for openings that establis",
+            "SEMANTIC-COMPLETENESS REPAIR — 6 S → Before drafting, restate the exact prompt, identify"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: the introduction's job is to raise the",
+            "CONCEPT DEFINITION AND TAXONOMY → argument-map cycles (05) into one transformed statem"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for openings that establis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Semantic-completeness repair — 6 September 2026",
+        "Semantic-completeness repair — 6 September 2026 — 2",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE INTRODUCTION'S JOB IS TO RAISE THE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT-MAP CYCLES (05) INTO ONE TRANSFORMED STATEM",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "AMBIGUOUS OPENING IS MORE SOPHISTICATED; IN FACT, AN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: the introduction's job is to raise the",
+        "CONCEPT DEFINITION AND TAXONOMY → argument-map cycles (05) into one transformed statem",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → ambiguous opening is more sophisticated; in fact, an",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → conclusion should mention every point made in the bo",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: the introduction's job is to raise the",
+            "CONCEPT DEFINITION AND TAXONOMY → argument-map cycles (05) into one transformed statem"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → ambiguous opening is more sophisticated; in fact, an",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → conclusion should mention every point made in the bo"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: the introduction's job is to raise the"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "AMBIGUOUS OPENING IS MORE SOPHISTICATED; IN FACT, AN",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUSION SHOULD MENTION EVERY POINT MADE IN THE BO",
+          "role": "primary"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "outcome"
+        },
+        {
+          "text": "FOR PROMPTS WITH A CIVILISATIONAL OR LONG-RUN SCALE",
+          "role": "comparison"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → ambiguous opening is more sophisticated; in fact, an",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → conclusion should mention every point made in the bo",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → For prompts with a civilisational or long-run scale",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → Where the thesis has a distributional dimension (e.g",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → ambiguous opening is more sophisticated; in fact, an",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → conclusion should mention every point made in the bo"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → For prompts with a civilisational or long-run scale",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → Where the thesis has a distributional dimension (e.g"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → ambiguous opening is more sophisticated; in fact, an"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR PROMPTS WITH A CIVILISATIONAL OR LONG-RUN SCALE",
+          "role": "evidence"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "WHERE THE THESIS HAS A DISTRIBUTIONAL DIMENSION (E.G",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS ONLY THE ESSAY'S OPENING AND CLOSI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → For prompts with a civilisational or long-run scale",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → Where the thesis has a distributional dimension (e.g",
+        "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi",
+        "EXAM FACTS / SOURCE BASIS → printed structural requirement for introduction/conc",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → For prompts with a civilisational or long-run scale",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → Where the thesis has a distributional dimension (e.g"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi",
+            "EXAM FACTS / SOURCE BASIS → printed structural requirement for introduction/conc"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → For prompts with a civilisational or long-run scale"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects",
+        "Purpose and scope",
+        "Exam facts / source basis"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS ONLY THE ESSAY'S OPENING AND CLOSI",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "PRINTED STRUCTURAL REQUIREMENT FOR INTRODUCTION/CONC",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi",
+        "EXAM FACTS / SOURCE BASIS → printed structural requirement for introduction/conc",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi",
+            "EXAM FACTS / SOURCE BASIS → printed structural requirement for introduction/conc"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers only the essay's opening and closi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INTRODUCTIONS AND CONCLUSIONS: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTRODUCTIONS AND CONCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "evidence"
+        },
+        {
+          "text": "THE INTRODUCTION SHOULD STATE OR CLEAR",
+          "role": "institution"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHAT IS THE PROMPT'S TENSION, IN ONE SENTENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE INTRODUCTION GIVES A PROVISIONAL RESPONSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th",
+        "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r",
+        "PROVISIONAL-RESPONSE / TESTED-RESP → 1. Does the opening promise the argument the body ac",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the prompt's tension, in one sentence, th"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PROVISIONAL-RESPONSE / TESTED-RESP → The introduction gives a provisional response : it r",
+            "PROVISIONAL-RESPONSE / TESTED-RESP → 1. Does the opening promise the argument the body ac"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: the introduction should state or clear"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Provisional-response / tested-response alignment check",
+        "Provisional-response / tested-response alignment check — 2"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TENSION-RAISING OPENING",
+          "role": "outcome"
+        },
+        {
+          "text": "STATES THE PROMPT'S OPPOSITION CLEARLY",
+          "role": "comparison"
+        },
+        {
+          "text": "SUMMARY CONCLUSION (WEAK)",
+          "role": "evidence"
+        },
+        {
+          "text": "RESTATES EACH BODY PARAGRAPH'S POINT IN",
+          "role": "primary"
+        },
+        {
+          "text": "SYNTHESISING CONCLUSION (STRONG)",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEGRATES THE BODY'S MULTIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTRIGUE VS. CLARITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Tension-raising opening: states the prompt's opposition clearly",
+            "Summary conclusion (weak): restates each body paragraph's point in",
+            "Synthesising conclusion (strong): integrates the body's multiple",
+            "Intrigue vs. clarity: a hidden assumption that an intriguing,"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Comprehensiveness vs. synthesis: the assumption that a \"good\"",
+            "NOT: Pre-stating the full synthesis in the introduction , leaving the",
+            "NOT: Summary conclusion that lists body points without integration. →",
+            "NOT: New, unintegrated illustration or claim in the conclusion. →"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Engineering an introduction that sets up every body cycle without giving away",
+            "the synthesis, and a conclusion that performs real closure work rather than summarising.",
+            "Grounded in: UPSC Essay PYQ corpus — V1 directly verified locally for 2018–2025 and V2 carried-forward practice wording"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

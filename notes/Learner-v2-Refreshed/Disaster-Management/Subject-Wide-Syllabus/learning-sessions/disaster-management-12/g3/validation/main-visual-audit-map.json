@@ -1,0 +1,1748 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g3\\disaster-management-12_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g3\\disaster-management-12_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "disaster-management-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Industrial, Chemical, Nuclear and CBRN Emergencies - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 330.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\g3\\assets\\disaster-management-12_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 425.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 117.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 83,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Industrial chemical nuclear radiological and CBRN distinctions as a sequence: identify Industrial accident, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next st",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 98,
+      "markdown_body_line_end": 105,
+      "heading": "VISUAL FIRST",
+      "preview": "INDUSTRIAL CHEMICAL NUCLEAR RADIOLOGICAL AND CBRN DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 159,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INDUSTRIAL CHEMICAL NUCLEAR RADIOLOGICAL AND CBRN DISTINCTIONS",
+      "preview": "START / CONCEPT: FOUNDATION — Industrial chemical nuclear radiological and CBRN distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 532.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 301.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Industrial life-cycle and process-safety failure chain as a sequence: identify Nuclear and radiological emergency, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 147.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 66.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 189,
+      "heading": "VISUAL FIRST",
+      "preview": "INDUSTRIAL LIFE-CYCLE AND PROCESS-SAFETY FAILURE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 242,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INDUSTRIAL LIFE-CYCLE AND PROCESS-SAFETY FAILURE CHAIN",
+      "preview": "START / CONCEPT: FOUNDATION — Industrial life-cycle and process-safety failure chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NaTech cascading risk and critical lifelines as a sequence: identify CBRN category, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 322.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 272,
+      "heading": "VISUAL FIRST",
+      "preview": "NATECH CASCADING RISK AND CRITICAL LIFELINES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 325,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NATECH CASCADING RISK AND CRITICAL LIFELINES",
+      "preview": "START / CONCEPT: FOUNDATION — NaTech cascading risk and critical lifelines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Factories EPA MSIHC and chemical-accident legal boundaries as a sequence: identify Industrial life cycle, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stag",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 355,
+      "heading": "VISUAL FIRST",
+      "preview": "FACTORIES EPA MSIHC AND CHEMICAL-ACCIDENT LEGAL BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - CORE - FACTORIES EPA MSIHC AND CHEMICAL-ACCIDENT LEGAL BOUNDARIES",
+      "preview": "START / CONCEPT: CORE — Factories EPA MSIHC and chemical-accident legal boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Public Liability no-fault relief and accountability boundary as a sequence: identify Process-safety causes, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next st",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 275.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 194.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 438,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC LIABILITY NO-FAULT RELIEF AND ACCOUNTABILITY BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 491,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC LIABILITY NO-FAULT RELIEF AND ACCOUNTABILITY BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Public Liability no-fault relief and accountability boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 295.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 74.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Atomic Energy DAE AERB and disaster-coordination boundary as a sequence: identify NaTech risk, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 524,
+      "heading": "VISUAL FIRST",
+      "preview": "ATOMIC ENERGY DAE AERB AND DISASTER-COORDINATION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 303.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW - CORE - ATOMIC ENERGY DAE AERB AND DISASTER-COORDINATION BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Atomic Energy DAE AERB and disaster-coordination boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 518.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 287.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read On-site emergency planning and occupier responsibility as a sequence: identify Chemical Accidents Rules, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 133.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 52.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 608,
+      "heading": "VISUAL FIRST",
+      "preview": "ON-SITE EMERGENCY PLANNING AND OCCUPIER RESPONSIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 563.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW - CORE - ON-SITE EMERGENCY PLANNING AND OCCUPIER RESPONSIBILITY",
+      "preview": "START / CONCEPT: CORE — On-site emergency planning and occupier responsibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Off-site planning crisis groups and public protection as a sequence: identify Factories-law boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 317.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "OFF-SITE PLANNING CRISIS GROUPS AND PUBLIC PROTECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 744,
+      "heading": "CLOSING RECALL FLOW - CORE - OFF-SITE PLANNING CRISIS GROUPS AND PUBLIC PROTECTION",
+      "preview": "START / CONCEPT: CORE — Off-site planning crisis groups and public protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 83.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 755,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Regulator local authority district and specialised-response roles as a sequence: identify Public Liability boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 774,
+      "heading": "VISUAL FIRST",
+      "preview": "REGULATOR LOCAL AUTHORITY DISTRICT AND SPECIALISED-RESPONSE ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 827,
+      "heading": "CLOSING RECALL FLOW - CORE - REGULATOR LOCAL AUTHORITY DISTRICT AND SPECIALISED-RESPONSE ROLES",
+      "preview": "START / CONCEPT: CORE — Regulator local authority district and specialised-response roles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 838,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Detection monitoring zoning and protective decisions as a sequence: identify Atomic-energy boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 251.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 170.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 857,
+      "heading": "VISUAL FIRST",
+      "preview": "DETECTION MONITORING ZONING AND PROTECTIVE DECISIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 910,
+      "heading": "CLOSING RECALL FLOW - CORE - DETECTION MONITORING ZONING AND PROTECTIVE DECISIONS",
+      "preview": "START / CONCEPT: CORE — Detection monitoring zoning and protective decisions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Decontamination triage medical referral and surveillance as a sequence: identify On-site plan, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL FIRST",
+      "preview": "DECONTAMINATION TRIAGE MEDICAL REFERRAL AND SURVEILLANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 997,
+      "heading": "CLOSING RECALL FLOW - CORE - DECONTAMINATION TRIAGE MEDICAL REFERRAL AND SURVEILLANCE",
+      "preview": "START / CONCEPT: CORE — Decontamination triage medical referral and surveillance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1008,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Public warning uncertainty rumours and trusted communication as a sequence: identify Role separation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1027,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC WARNING UNCERTAINTY RUMOURS AND TRUSTED COMMUNICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1080,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC WARNING UNCERTAINTY RUMOURS AND TRUSTED COMMUNICATION",
+      "preview": "START / CONCEPT: CORE — Public warning uncertainty rumours and trusted communication",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 292.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 81.691
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Buffer land use transport and vulnerable-population planning as a sequence: identify Detection and protection, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1110,
+      "heading": "VISUAL FIRST",
+      "preview": "BUFFER LAND USE TRANSPORT AND VULNERABLE-POPULATION PLANNING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1163,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BUFFER LAND USE TRANSPORT AND VULNERABLE-POPULATION PLANNING",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Buffer land use transport and vulnerable-population planning",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 276
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1174,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Investigation remediation liability and recovery as a sequence: identify Decontamination and medical care, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 275.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 194.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1196,
+      "heading": "VISUAL FIRST",
+      "preview": "INVESTIGATION REMEDIATION LIABILITY AND RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 681.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1250,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INVESTIGATION REMEDIATION LIABILITY AND RECOVERY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Investigation remediation liability and recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read PYQ synthesis preparedness and outcome firewall as a sequence: identify Liability and recovery, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 308.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 227.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1283,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ SYNTHESIS PREPAREDNESS AND OUTCOME FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Disaster Management | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Industrial/chemical hazard sources; the statutory chemical-accident regime; nuclear/radiological risk and protection principles; oil sp",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 237.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 114.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1343,
+      "heading": "1. Visual foundation",
+      "preview": "PROCESS/SYSTEM FAILURE   NATURAL TRIGGER   SABOTAGE/TERRORISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1359,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 601.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 303.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1524,
+      "heading": "13. Core-only answer architecture - prevention, specialised command and NaTech",
+      "preview": "**Core firewall:** an industrial/CBRN answer must identify the hazard class, prevention control, specialised command, public protection and recovery. It cannot be answered by saying “NDRF should respond.”",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 752.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 686.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1528,
+      "markdown_body_line_end": 1533,
+      "heading": "13.1 Claim-to-evidence bank",
+      "preview": "Claim | Named evidence/example | Significance | Limitation/qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "Significance",
+          "Limitation/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 664.024
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 348.122
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1569,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ SYNTHESIS PREPAREDNESS AND OUTCOME FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ synthesis preparedness and outcome firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2744,
+      "markdown_body_line_end": 2751,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Chemical-accident rules' enforcement depth; crisis-group design; cascading NaTech risk; CBRN coordination and risk communication. **Grounded in:** ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 267.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 180.224
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2786,
+      "heading": "2. Risk-system analysis",
+      "preview": "DENSE STATUTORY REGIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3001,
+      "markdown_body_line_end": 3009,
+      "heading": "Industrial, Chemical, Nuclear and CBRN Emergencies: PREVENT DETECT PROTECT DECONTAMINATE COMMUNICATE RECOVER SPINE",
+      "preview": "CLASSIFY INDUSTRIAL CHEMICAL RADIOLOGICAL NUCLEAR OR BIOLOGICAL HAZARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 560.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 479.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3019,
+      "markdown_body_line_end": 3024,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Hazard-family matrix",
+      "preview": "INDUSTRIAL -> facility / process / transport accident",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 331.491
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 279.691
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3028,
+      "markdown_body_line_end": 3033,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Industrial life-cycle rail",
+      "preview": "1 DESIGN / MATERIAL SELECTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3037,
+      "markdown_body_line_end": 3042,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: NaTech cascade",
+      "preview": "FLOOD QUAKE CYCLONE HEAT OR LIFELINE FAILURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3046,
+      "markdown_body_line_end": 3051,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Chemical-law boundary",
+      "preview": "FACTORIES LAW -> workplace / hazardous-process field",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3055,
+      "markdown_body_line_end": 3060,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Nuclear governance boundary",
+      "preview": "ATOMIC ENERGY FRAMEWORK -> CENTRAL TECHNICAL DOMAIN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3064,
+      "markdown_body_line_end": 3069,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: On-site plan",
+      "preview": "DETECT / ALARM -> INTERNAL COMMAND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3073,
+      "markdown_body_line_end": 3078,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Off-site plan",
+      "preview": "FACILITY INFORMATION -> DISTRICT / LOCAL ASSESSMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3082,
+      "markdown_body_line_end": 3087,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Actor-role matrix",
+      "preview": "OCCUPIER -> prevent control disclose and support",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3091,
+      "markdown_body_line_end": 3096,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Protective-action ladder",
+      "preview": "DETECT / IDENTIFY / MONITOR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3100,
+      "markdown_body_line_end": 3107,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Risk communication card",
+      "preview": "WHAT HAPPENED + OFFICIAL UNCERTAINTY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3118,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Recovery-accountability loop",
+      "preview": "REMEDIATE SITE AND ENVIRONMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3122,
+      "markdown_body_line_end": 3129,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Industrial-CBRN answer spine",
+      "preview": "CLASSIFY HAZARD -> TRACE LIFE-CYCLE / NATECH FAILURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    }
+  ]
+}

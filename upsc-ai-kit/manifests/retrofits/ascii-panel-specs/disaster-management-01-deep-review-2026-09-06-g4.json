@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "disaster-management-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "disaster_management_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "disaster-management-01",
+      "display_title": "Concepts, Risk, Resilience and Sendai",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Risk grammar",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "HAZARD -> potential damaging event or process",
+            "EXPOSURE -> people and assets in harm's way",
+            "VULNERABILITY -> susceptibility",
+            "CAPACITY -> strengths and resources",
+            "INTERACTION -> disaster risk"
+          ],
+          "source_references": [
+            "Hazard",
+            "Exposure",
+            "Vulnerability",
+            "Capacity",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Hazard-to-disaster threshold",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "HAZARDOUS EVENT + EXPOSURE + VULNERABILITY",
+            "                    | moderated by capacity",
+            "                    v",
+            "SERIOUS DISRUPTION BEYOND COPING -> DISASTER"
+          ],
+          "source_references": [
+            "Disaster threshold",
+            "Risk heuristic",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Risk equation firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "USE -> organise relationships and policy levers",
+            "DO NOT USE -> universal arithmetic prediction",
+            "REDUCE -> exposure / vulnerability",
+            "BUILD -> capacity"
+          ],
+          "source_references": [
+            "Risk heuristic",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Resilience capabilities",
+          "structural_type": "radial-map",
+          "ascii_lines": [
+            "RESIST + ABSORB + ACCOMMODATE",
+            "ADAPT + TRANSFORM + RECOVER",
+            "PRESERVE ESSENTIAL FUNCTIONS",
+            "TRAP -> recovery is not automatic restoration of old risk"
+          ],
+          "source_references": [
+            "Resilience",
+            "Recovery",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Pre-disaster distinctions",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PREVENTION -> avoid risk where feasible",
+            "MITIGATION -> lessen adverse impact",
+            "PREPAREDNESS -> readiness to anticipate and act",
+            "QUESTION -> what changes before impact?"
+          ],
+          "source_references": [
+            "Prevention",
+            "Mitigation",
+            "Preparedness",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Response-to-recovery bridge",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IMMEDIATE RESPONSE -> life safety and basic needs",
+            "EARLY RECOVERY -> restore access and services",
+            "RECONSTRUCTION -> reduce future risk",
+            "BUILD BACK BETTER -> do not reproduce vulnerability"
+          ],
+          "source_references": [
+            "Response",
+            "Recovery",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "DRR operating scope",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "PREVENT NEW RISK",
+            "REDUCE EXISTING RISK",
+            "MANAGE RESIDUAL RISK",
+            "LINK -> risk-informed sustainable development"
+          ],
+          "source_references": [
+            "DRR scope",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Risk-creation loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "DEVELOPMENT CHOICE -> exposure / vulnerability",
+            "HAZARD INTERACTION -> loss",
+            "RECOVERY CHOICE -> recreate or reduce risk",
+            "FEEDBACK -> future resilience"
+          ],
+          "source_references": [
+            "Risk creation",
+            "Recovery",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Sendai architecture",
+          "structural_type": "framework-map",
+          "ascii_lines": [
+            "2015-2030 | voluntary and non-binding",
+            "4 PRIORITIES -> governance pathway",
+            "7 TARGETS -> global monitoring frame",
+            "OUTCOME -> substantial reduction of disaster risk and losses"
+          ],
+          "source_references": [
+            "Sendai status",
+            "Sendai priorities",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Four-priority rail",
+          "structural_type": "numbered-rail",
+          "ascii_lines": [
+            "1 UNDERSTAND DISASTER RISK",
+            "2 STRENGTHEN RISK GOVERNANCE",
+            "3 INVEST IN DRR FOR RESILIENCE",
+            "4 PREPARE + BUILD BACK BETTER",
+            "MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity;...",
+            "MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity;..."
+          ],
+          "source_references": [
+            "Sendai priorities",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-01_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Seven-target matrix",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "A mortality | B affected people",
+            "C economic loss/GDP | D critical systems",
+            "E national/local strategies | F cooperation",
+            "G multi-hazard warning and risk information",
+            "CLOSE DISTINCTION: Hazard occurrence is not disaster impact; vulnerability is not...",
+            "CLOSE DISTINCTION: Hazard occurrence is not disaster impact; vulnerability is not..."
+          ],
+          "source_references": [
+            "Targets A-D",
+            "Targets E-G",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-01_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Answer and framework boundary",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> MAP RISK COMPONENTS -> LOCATE CYCLE PHASE",
+            "APPLY SENDAI PRIORITY / TARGET",
+            "LINK ADAPTATION + SDG WITHOUT MERGER",
+            "QUALIFY -> INPUT IS NOT OUTCOME",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the..."
+          ],
+          "source_references": [
+            "Framework linkage",
+            "Evidence boundary",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g3\\disaster-management-01_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-01_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-01\\g4\\disaster-management-01_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

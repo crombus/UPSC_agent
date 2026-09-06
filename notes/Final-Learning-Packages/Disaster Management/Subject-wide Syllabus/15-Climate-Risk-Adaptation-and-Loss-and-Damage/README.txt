@@ -5,8 +5,8 @@ Topic: Climate Risk, Adaptation and Loss and Damage
 Subject: Disaster Management
 Section: Subject-wide Syllabus
 Catalogue number: 15
-Source record ID: disaster-management-15:learner-v2:g2
-Source generation: 2
+Source record ID: disaster-management-15:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

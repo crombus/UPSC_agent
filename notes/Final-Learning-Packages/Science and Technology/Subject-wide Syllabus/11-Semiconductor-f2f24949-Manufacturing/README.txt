@@ -5,8 +5,8 @@ Topic: Semiconductor Mission and Electronics Manufacturing
 Subject: Science and Technology
 Section: Subject-wide Syllabus
 Catalogue number: 11
-Source record ID: science-and-technology-11:learner-v2:g2
-Source generation: 2
+Source record ID: science-and-technology-11:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

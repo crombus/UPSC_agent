@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-04",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\04_Rates-Motion-Time-and-Geometry.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\04_Rates-Motion-Time-and-Geometry.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Rate model",
+      "body": "Quantity equals rate multiplied by time."
+    },
+    {
+      "number": 2,
+      "title": "Time and work",
+      "body": "Add work rates, not completion times."
+    },
+    {
+      "number": 3,
+      "title": "Pipes and leaks",
+      "body": "Treat filling positive and emptying negative."
+    },
+    {
+      "number": 4,
+      "title": "Speed and distance",
+      "body": "Match units before using distance equals speed times time."
+    },
+    {
+      "number": 5,
+      "title": "Relative motion",
+      "body": "Add opposite-direction speeds and subtract same-direction speeds."
+    },
+    {
+      "number": 6,
+      "title": "Trains and boats",
+      "body": "Include object length and current speed correctly."
+    },
+    {
+      "number": 7,
+      "title": "Races and tracks",
+      "body": "Use relative distance on linear or circular paths."
+    },
+    {
+      "number": 8,
+      "title": "Clocks",
+      "body": "Use the 5.5-degree-per-minute relative hand speed."
+    },
+    {
+      "number": 9,
+      "title": "Calendars",
+      "body": "Reduce day shifts modulo seven and handle leap-year rules."
+    },
+    {
+      "number": 10,
+      "title": "Geometry",
+      "body": "Use properties before coordinates or formulas."
+    },
+    {
+      "number": 11,
+      "title": "Mensuration",
+      "body": "Distinguish length, area and volume units."
+    },
+    {
+      "number": 12,
+      "title": "Verification",
+      "body": "Check dimensions, magnitude, endpoints and physical possibility."
+    }
+  ]
+}

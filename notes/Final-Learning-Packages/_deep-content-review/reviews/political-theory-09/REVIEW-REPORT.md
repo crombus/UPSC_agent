@@ -1,15 +1,12 @@
 # Deep Content Review — Political Theory 09: Interdisciplinary Political Analysis
 
-- **Baseline locked:** `political-theory-09:learner-v2:g2` — 91/100
-- **Immutable successor:** `political-theory-09:learner-v2:g3` — 97/100
+- **Baseline locked:** `political-theory-09:learner-v2:g3` — 97/100
+- **Immutable successor:** `political-theory-09:learner-v2:g4` — 97/100
 - **Approval:** false / pending explicit approval
 
 ## Defects reported
 
-- All 6 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.
-- All 6 solved items lack explicit directive-and-demand decoding.
-- All 6 solved items lack an executable mark-scaled compression plan.
-- The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.
+
 
 ## Four-artifact repair and re-review
 
@@ -20,7 +17,7 @@ model, a mark-scaled compression plan, `Why this earns marks` and answer-specifi
 Cārvāka specifications were authored afresh from the repaired session, removing
 the baseline's dangling fragments and preserving the same twelve-stage topic spine.
 
-- Session PDF: 39 pages
+- Session PDF: 38 pages
 - Workbook PDF: 24 pages
 - Solved items: 6
 - Graphical Core stages: 12

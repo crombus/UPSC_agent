@@ -1,0 +1,676 @@
+{
+  "schema_version": 1,
+  "subject": "Political Theory",
+  "access_date": "2026-09-06",
+  "result": "passed",
+  "method": "OCR-searchable local academic texts plus live authoritative/academic retrievals; failed or thin retrievals support no claim.",
+  "local_sources": [
+    {
+      "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+      "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+      "pages": 591
+    },
+    {
+      "path": "books\\philosphy_books\\Socio-Political Philosophy.pdf",
+      "sha256": "6a0fd33a281bded1ea4f08feaaa80d4fff2f3f5d7b0073a27518d48be69ff2e5",
+      "pages": 214
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "political-theory-01",
+      "access_date": "2026-09-06",
+      "attempted": 2,
+      "substantive_retrievals": 2,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://politicalscience.stanford.edu/research/political-theory",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-02",
+      "access_date": "2026-09-06",
+      "attempted": 2,
+      "substantive_retrievals": 2,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://academic.oup.com/edited-volume/34324",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-03",
+      "access_date": "2026-09-06",
+      "attempted": 2,
+      "substantive_retrievals": 2,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/liberalism/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-04",
+      "access_date": "2026-09-06",
+      "attempted": 2,
+      "substantive_retrievals": 2,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/marx/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-05",
+      "access_date": "2026-09-06",
+      "attempted": 2,
+      "substantive_retrievals": 2,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/anarchism/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-06",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/feminism-political/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://news.un.org/en/story/2026/03/1167092",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-07",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/communitarianism/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2290029&reg=3&lang=1",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-08",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/new-revolution-in-political-science/E79F43198009DBC2028DDE958030E36B",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://www.eci.gov.in/statistical-reports",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-09",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://politicalscience.stanford.edu/research/political-theory",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://www.mospi.gov.in/publication/sustainable-development-goals-national-indicator-framework-progress-report-2026",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-10",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/nationalism/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://www.mea.gov.in/press-releases.htm",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-11",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/sovereignty/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://gstcouncil.gov.in/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-12",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/globalization/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jul/doc2026715921801.pdf",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-13",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/political-obligation/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2280427&reg=3&lang=1",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-14",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/political-obligation/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2246380&reg=3&lang=2",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-15",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/authority/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2230282&reg=3&lang=1",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-16",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/citizenship/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://www.eci.gov.in/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-17",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/rights-human/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://nhrc.nic.in/media/press-release/nhrc,-india-takes-suo-motu-cognizance-of-the-reported-illegal-confinement-of-a-minor-boy-as-an-adult-inmate-at-kasna-jail-in-gautam-budh-nagar,-uttar-pradesh-for-more-than-two-months-before-being-shifted-to-a-juvenile-home-",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-18",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/liberty-positive-negative/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://dolr.gov.in/en/about-naksha/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-19",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/justice-distributive/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://socialjustice.gov.in/schemes/28",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-20",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/justice-distributive/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jun/doc2026612890901.pdf",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-21",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/communitarianism/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://www.cooperation.gov.in/en/node/2333",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-22",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/democracy/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026124767401.pdf",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    },
+    {
+      "topic_key": "political-theory-23",
+      "access_date": "2026-09-06",
+      "attempted": 3,
+      "substantive_retrievals": 3,
+      "verification_scope": "Canonical definitions, thinker/text attribution, rival schools, contested interpretation, PYQ ownership and dated application. Primary claims, scholarly interpretation and analytical inference remain distinct.",
+      "sources": [
+        {
+          "type": "local-academic-primary-reference",
+          "path": "books\\philosphy_books\\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf",
+          "sha256": "c44eda7e0b080773a3a4fc1161478e9e1cc66b82154258bd5e9f056187dbbf39",
+          "pages": 591,
+          "substantive": true
+        },
+        {
+          "type": "live-academic-reference",
+          "url": "https://plato.stanford.edu/entries/democracy/",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved or independently located through web_fetch/web_search"
+        },
+        {
+          "type": "authoritative-current-source",
+          "url": "https://impact.indiaai.gov.in/working-groups/inclusion-social-empowerment",
+          "access_date": "2026-09-06",
+          "substantive": true,
+          "status": "retrieved directly, as official PDF, or corroborated through the issuing institution's indexed source; access failures were preserved and support no additional claim"
+        }
+      ]
+    }
+  ]
+}

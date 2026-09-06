@@ -1,0 +1,14 @@
+{
+  "topic_key": "ethics-22",
+  "locked_at": "2026-09-06T10:58:21.486281+00:00",
+  "master_tracker_identity": "ethics-22:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "21f67cdd43c67f6ff4783874b9cb755a82eec51737241b0d62cb8b6704049b0b",
+    "main_pdf": "9f4f4bf391bdba1a8aaf1b0cdb824ef1133782b462b46d57f35a29bb6519a7ef",
+    "workbook": "ca4f24afe872d55094ac09d2913b4b5f3a0d1795cc9da240d851a46e69fc9b79",
+    "graphical_master": "b3d5b888bcd36aa5b8bb4f5e8bddcee492329b6c5c0b4b0479bfe87c7e3bd28d",
+    "ascii_master": "f592e78bf72a47d05f2be8ffcd0247585da58d103e38f4f1f47fabdcb8dc0c6b"
+  }
+}

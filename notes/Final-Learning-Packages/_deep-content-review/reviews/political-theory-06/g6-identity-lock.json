@@ -1,0 +1,14 @@
+{
+  "topic_key": "political-theory-06",
+  "locked_at": "2026-09-06T11:39:04.882619+00:00",
+  "master_tracker_identity": "political-theory-06:learner-v2:g6",
+  "generation": 6,
+  "approval": false,
+  "hashes": {
+    "markdown": "c21599b059136babad96452335d538f5a4893c8af502629c8996f0f45892af8d",
+    "main_pdf": "19b76e7b09e77c1412d9dc3299296a21f85cbc94525f623801d004cc951d0902",
+    "workbook": "3b1413fdf7ef62ae61219003d714d9d8868b36974f1d60d65915cc5167a16c1f",
+    "graphical_master": "eb42c69c5bde6ddd33e895d16f41ae68759162c0694e5de93fc8585c3e253d02",
+    "ascii_master": "fb7ca8f42f184c4c56c135deb01f87badbe17d14b79636faa05133546bbd9d87"
+  }
+}

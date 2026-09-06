@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-06",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\06_Logical-Reasoning-Coding-Counting-and-DI.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\06_Logical-Reasoning-Coding-Counting-and-DI.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Logic vocabulary",
+      "body": "Separate implication, converse, contrapositive and equivalence."
+    },
+    {
+      "number": 2,
+      "title": "Patterns and series",
+      "body": "Test the simplest stable rule and verify every term."
+    },
+    {
+      "number": 3,
+      "title": "Coding-decoding",
+      "body": "Infer a rule from all examples, not one coincidence."
+    },
+    {
+      "number": 4,
+      "title": "Directions",
+      "body": "Use coordinates and final displacement."
+    },
+    {
+      "number": 5,
+      "title": "Relations",
+      "body": "Build a labelled family graph without assuming gender or generation."
+    },
+    {
+      "number": 6,
+      "title": "Syllogisms",
+      "body": "Use set containment and test existential claims carefully."
+    },
+    {
+      "number": 7,
+      "title": "Arrangements",
+      "body": "Place fixed constraints before flexible ones."
+    },
+    {
+      "number": 8,
+      "title": "Counting",
+      "body": "Apply product, sum, permutation and combination rules with exclusions."
+    },
+    {
+      "number": 9,
+      "title": "Probability",
+      "body": "Define equally likely outcomes and conditional sample spaces."
+    },
+    {
+      "number": 10,
+      "title": "Data interpretation",
+      "body": "Read labels, units, bases and totals before calculating."
+    },
+    {
+      "number": 11,
+      "title": "Decision scenarios",
+      "body": "Separate facts, constraints, objectives and feasible options."
+    },
+    {
+      "number": 12,
+      "title": "Verification",
+      "body": "Enumerate small cases, reverse codes and sanity-check totals."
+    }
+  ]
+}

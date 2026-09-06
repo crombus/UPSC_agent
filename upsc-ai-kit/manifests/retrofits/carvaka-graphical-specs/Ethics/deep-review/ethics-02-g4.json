@@ -1,0 +1,1253 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-02",
+  "subject": "Ethics",
+  "title": "HUMAN VALUES AND LESSONS FROM LEADERS",
+  "short_route": "WHERE VALUES COME FROM → TURNING VALUES INTO PUBLIC-SERVICE → GANDHI: KEEPING MEANS AND → LEARNING COURAGE AND CALM → MAHAVIR: MANY-SIDED TRUTH AND → KAUTILYA AND THE DESIGN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-02-deep-review-2026-09-06-g4.json",
+  "ascii_spec_sha256": "2fb103c1e1e6642556be2ea38c992f7997d44907640315e4348c914e5a98269f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHERE VALUES COME FROM AND HOW THEY BECOME CHARACTER",
+      "structural_type": "formation-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WHERE VALUES COME FROM AND HOW THEY BECOME CHARACTER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. WHERE VALUES COME FROM AND HOW THEY BECOME",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] VALUES ARE ENDURING BELIEFS ABOUT WHAT IS WORTHWHILE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FAMILY PROVIDES EARLY MODELS OF HONESTY AND CARE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SCHOOLS TRANSLATE IDEALS INTO REPEATED FAIR PRACTICE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CULTURE AND PEERS CAN REINFORCE OR CORRODE VALUES.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] LEADERS OFFER MEMORABLE EXAMPLES RATHER THAN COMPLETE SOLUTIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Where values come from and how they become character",
+        "[1] Values are enduring beliefs about what is worthwhile.",
+        "[2] Family provides early models of honesty and care.",
+        "[3] Schools translate ideals into repeated fair practice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Where values come from and how they become character",
+            "[1] Values are enduring beliefs about what is worthwhile.",
+            "[2] Family provides early models of honesty and care.",
+            "[3] Schools translate ideals into repeated fair practice."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[5] Leaders offer memorable examples rather than complete solutions.",
+            "[6] Lived hardship can test and revise inherited commitments.",
+            "[7] Institutions reward some conduct and discourage other conduct.",
+            "[8] Internalisation is visible when conduct remains ethical unobserved.",
+            "VERDICT → Values are socially formed, repeatedly tested, and never safely assumed to be fixed."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Human values are learned through family, society, education, institutions, reflection and practice",
+            "lessons from Gandhi, Ambedkar, Buddha, Vivekananda, Savitribai",
+            "Phule, Kalam and administrators require argument, context and limits rather than ornamental quotation.",
+            "MUST REMEMBER: Human values are learned through family, society, education, institutions,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Use as the opening mechanism for value-inculcation answers.",
+      "answer_line": "VERDICT → Values are socially formed, repeatedly tested, and never safely assumed to be fixed.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TURNING VALUES INTO PUBLIC-SERVICE CHOICES",
+      "structural_type": "translation-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TURNING VALUES INTO PUBLIC-SERVICE CHOICES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. TURNING VALUES INTO PUBLIC-SERVICE CHOICES",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] HONESTY REQUIRES ACCURATE RECORDS RATHER THAN FAVOURABLE FIGURES.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] COMPASSION REQUIRES FAIR ACCESS RATHER THAN DISCRETIONARY FAVOUR.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] COURAGE REQUIRES RESISTING IMPROPER PRESSURE THROUGH LAWFUL CHANNELS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SELF-DISCIPLINE REQUIRES REFUSING TEMPTATION UNDER DISCRETION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] DUTY REQUIRES TIMELY AND COMPETENT SERVICE TO CITIZENS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Turning values into public-service choices",
+        "[1] Honesty requires accurate records rather than favourable figures.",
+        "[2] Compassion requires fair access rather than discretionary favour.",
+        "[3] Courage requires resisting improper pressure through lawful channels."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Turning values into public-service choices",
+            "[1] Honesty requires accurate records rather than favourable figures.",
+            "[2] Compassion requires fair access rather than discretionary favour.",
+            "[3] Courage requires resisting improper pressure through lawful channels."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Self-discipline requires refusing temptation under discretion.",
+            "[5] Duty requires timely and competent service to citizens.",
+            "[6] Reasoned records make values reviewable in public office.",
+            "[7] Procedures protect values when pressure becomes intense.",
+            "[8] Citizen outcomes test whether ethical intent became public value."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → A value earns administrative meaning only when it changes a defensible decision.",
+            "ANSWER USE → Convert any abstract value into a named administrative action.",
+            "MUST REMEMBER: Human values are learned through family, society, education, institutions,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A value earns administrative meaning only when it changes a defensible decision.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GANDHI: KEEPING MEANS AND ENDS ETHICALLY CONNECTED",
+      "structural_type": "means-ends-diagnostic",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KEEPING MEANS AND ENDS ETHICALLY CONNECTED",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. GANDHI",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] POLITICS WITHOUT PRINCIPLES DETACHES POWER FROM PUBLIC PURPOSE.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[2] WEALTH WITHOUT WORK DETACHES GAIN FROM FAIR CONTRIBUTION.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PLEASURE OR LEISURE WITHOUT CONSCIENCE DETACHES ENJOYMENT FROM",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] KNOWLEDGE WITHOUT CHARACTER DETACHES LEARNING FROM RESPONSIBILITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] COMMERCE WITHOUT MORALITY DETACHES EXCHANGE FROM FAIRNESS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Gandhi: keeping means and ends ethically connected",
+        "[1] Politics without principles detaches power from public purpose.",
+        "[2] Wealth without work detaches gain from fair contribution.",
+        "[3] Pleasure or leisure without conscience detaches enjoyment from restraint."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Pleasure or leisure without conscience detaches enjoyment from restraint.",
+          "[7] Worship without sacrifice detaches belief from ethical conduct."
+        ],
+        [
+          "3. Gandhi: keeping means and ends ethically connected",
+          "[4] Knowledge without character detaches learning from responsibility.",
+          "[8] ARC prints leisure while the 1925 note uses pleasure."
+        ],
+        [
+          "[1] Politics without principles detaches power from public purpose.",
+          "[5] Commerce without morality detaches exchange from fairness.",
+          "VERDICT → Test not merely whether an end was achieved, but whether its means respected conscience."
+        ],
+        [
+          "[2] Wealth without work detaches gain from fair contribution.",
+          "[6] Science without humanity detaches capability from dignity.",
+          "ANSWER USE → Apply to procurement, data consent, political conduct, or target-driven governance."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Gandhi: keeping means and ends ethically connected",
+            "[1] Politics without principles detaches power from public purpose.",
+            "[2] Wealth without work detaches gain from fair contribution."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Pleasure or leisure without conscience detaches enjoyment from restraint.",
+            "[4] Knowledge without character detaches learning from responsibility.",
+            "[5] Commerce without morality detaches exchange from fairness.",
+            "[6] Science without humanity detaches capability from dignity."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Worship without sacrifice detaches belief from ethical conduct.",
+            "[8] ARC prints leisure while the 1925 note uses pleasure.",
+            "VERDICT → Test not merely whether an end was achieved, but whether its means respected conscience.",
+            "ANSWER USE → Apply to procurement, data consent, political conduct, or target-driven governance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Test not merely whether an end was achieved, but whether its means respected conscience.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LEARNING COURAGE AND CALM FROM INDIAN EXEMPLARS",
+      "structural_type": "paired-lessons",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "LEARNING COURAGE AND CALM FROM INDIAN EXEMPLARS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. LEARNING COURAGE AND CALM FROM INDIAN EXEMPLARS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] VIVEKANANDA FAVOURS LEARNING FROM OTHERS WITHOUT BECOMING THEM.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ADAPTATION PRESERVES A USEFUL REFORM WHILE FITTING LOCAL",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SARDAR PATEL'S UPSC-ATTRIBUTED LINE JOINS FAITH TO STRENGTH.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CONVICTION NEEDS COMPETENCE, COURAGE AND ORGANISED CAPACITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] THIRUVALLUVAR VALUES COMPOSURE AMID ADVERSITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Learning courage and calm from Indian exemplars",
+        "[1] Vivekananda favours learning from others without becoming them.",
+        "[2] Adaptation preserves a useful reform while fitting local conditions.",
+        "[3] Sardar Patel's UPSC-attributed line joins faith to strength."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Learning courage and calm from Indian exemplars",
+            "[1] Vivekananda favours learning from others without becoming them.",
+            "[2] Adaptation preserves a useful reform while fitting local conditions."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Sardar Patel's UPSC-attributed line joins faith to strength.",
+            "[4] Conviction needs competence, courage and organised capacity.",
+            "[5] Thiruvalluvar values composure amid adversity.",
+            "[6] Equanimity improves assessment and communication during crisis."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Calm leadership must still act decisively and lawfully.",
+            "[8] Quotation attribution must not be overstated without primary evidence.",
+            "VERDICT → Learn openly, act capably, and remain composed without confusing calm with inaction.",
+            "ANSWER USE → Use for reform adaptation, disaster leadership, and courage-under-pressure answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Learn openly, act capably, and remain composed without confusing calm with inaction.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MAHAVIR: MANY-SIDED TRUTH AND NON-POSSESSION",
+      "structural_type": "doctrine-to-governance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MANY-SIDED TRUTH AND NON-POSSESSION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. MAHAVIR",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MAHAVIR'S FIVE MAHAVRATAS INCLUDE AHIMSA AND SATYA.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ASTEYA REJECTS TAKING WHAT IS NOT RIGHTFULLY DUE.",
+          "role": "caution"
+        },
+        {
+          "text": "[3] BRAHMACHARYA IS SEPARATELY ENUMERATED IN MAHAVIR'S TRADITION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] APARIGRAHA REQUIRES NON-POSSESSIVENESS AND RESTRAINT.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ANEKANTAVADA TREATS COMPLEX TRUTH-CLAIMS AS MANY-SIDED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Mahavir: many-sided truth and non-possession",
+        "[1] Mahavir's five Mahavratas include Ahimsa and Satya.",
+        "[2] Asteya rejects taking what is not rightfully due.",
+        "[3] Brahmacharya is separately enumerated in Mahavir's tradition."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Mahavir: many-sided truth and non-possession",
+            "[1] Mahavir's five Mahavratas include Ahimsa and Satya.",
+            "[2] Asteya rejects taking what is not rightfully due.",
+            "[3] Brahmacharya is separately enumerated in Mahavir's tradition."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Aparigraha requires non-possessiveness and restraint.",
+            "[5] Anekantavada treats complex truth-claims as many-sided.",
+            "[6] Syadvada requires conditional and standpoint-aware assertion.",
+            "[7] Consultation improves evidence before a public decision.",
+            "[8] Many-sidedness does not cancel moral or legal judgement."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Listen widely and restrain private gain, then decide with reasons.",
+            "ANSWER USE → Apply to land, environment, conflict of interest, and pluralism questions.",
+            "CLOSE DISTINCTION: Anecdote is not doctrine, admired character is not infallibility,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Listen widely and restrain private gain, then decide with reasons.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KAUTILYA AND THE DESIGN OF CORRUPTION CONTROLS",
+      "structural_type": "risk-control-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KAUTILYA AND THE DESIGN OF CORRUPTION CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. KAUTILYA AND THE DESIGN OF CORRUPTION CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] OFFICIALS HANDLING MONEY FACE TEMPTATION LIKE HONEY ON",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CONCEALED EMBEZZLEMENT RESEMBLES FISH DRINKING WATER.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] OPPORTUNITY AND SECRECY MAKE CHARACTER-ONLY SOLUTIONS INADEQUATE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SEPARATION OF DUTIES REDUCES CONCENTRATED DISCRETION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RECONCILIATION AND RISK-BASED AUDIT IMPROVE DETECTABILITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Kautilya and the design of corruption controls",
+        "[1] Officials handling money face temptation like honey on a tongue.",
+        "[2] Concealed embezzlement resembles fish drinking water.",
+        "[3] Opportunity and secrecy make character-only solutions inadequate."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Kautilya and the design of corruption controls",
+            "[1] Officials handling money face temptation like honey on a tongue.",
+            "[2] Concealed embezzlement resembles fish drinking water.",
+            "[3] Opportunity and secrecy make character-only solutions inadequate."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Separation of duties reduces concentrated discretion.",
+            "[5] Reconciliation and risk-based audit improve detectability.",
+            "[6] Transparent criteria constrain arbitrary transfer and reward.",
+            "[7] Wrongful accumulation requires due-process investigation.",
+            "[8] Just wealth creation merits continuity and positive recognition."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Vigilance should reduce opportunity while protecting and rewarding honest service.",
+            "ANSWER USE → Build a balanced anti-corruption paragraph with systems and incentives.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named India-centric episodes only when..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Vigilance should reduce opportunity while protecting and rewarding honest service.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DUTY WITHOUT CRAVING CREDIT: NISHKAMA KARMA",
+      "structural_type": "duty-boundary",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DUTY WITHOUT CRAVING CREDIT",
+          "role": "primary"
+        },
+        {
+          "text": "NISHKAMA KARMA",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. DUTY WITHOUT CRAVING CREDIT",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] NISHKAMA KARMA REQUIRES ACTION WITHOUT ATTACHMENT TO PERSONAL",
+          "role": "primary"
+        },
+        {
+          "text": "[2] IT PRESERVES EFFORT EVEN WHEN RECOGNITION IS UNCERTAIN.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] IT REQUIRES CONCERN FOR WHETHER CITIZENS RECEIVE THE",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] IT REJECTS PERSONAL CREDIT AS THE PURPOSE OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Duty without craving credit: Nishkama karma",
+        "[1] Nishkama karma requires action without attachment to personal fruit.",
+        "[2] It preserves effort even when recognition is uncertain.",
+        "[3] It requires concern for whether citizens receive the service."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Duty without craving credit: Nishkama karma",
+            "[1] Nishkama karma requires action without attachment to personal fruit.",
+            "[2] It preserves effort even when recognition is uncertain."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] It requires concern for whether citizens receive the service.",
+            "[4] It rejects personal credit as the purpose of public work.",
+            "[5] It does not authorise indifference to outcomes.",
+            "[6] It does not require compliance with unlawful orders."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] It does not make chronic burnout an ethical ideal.",
+            "[8] Fulfilment arises from meaningful and accountable service.",
+            "VERDICT → Serve fully, measure public outcomes, and remain unattached to private reward.",
+            "ANSWER USE → Use for duty, responsibility, fulfilment, and work-culture answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Serve fully, measure public outcomes, and remain unattached to private reward.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REFORM THROUGH EDUCATION: SAVITRIBAI PHULE AND KALAM",
+      "structural_type": "bottom-up-institutional",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "REFORM THROUGH EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "SAVITRIBAI PHULE AND KALAM",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "8. REFORM THROUGH EDUCATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] SAVITRIBAI PHULE CO-FOUNDED THE BHIDE WADA GIRLS' SCHOOL",
+          "role": "primary"
+        },
+        {
+          "text": "[2] EDUCATION ATTACKS EXCLUSION THROUGH DURABLE ACCESS AND INSTITUTIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] GENDER EQUALITY NEEDS SAFETY, SUPPORT AND OPPORTUNITY BEYOND",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] KALAM USED A RIGHTEOUSNESS-TO-PEACE ETHICAL CHAIN.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Reform through education: Savitribai Phule and Kalam",
+        "[1] Savitribai Phule co-founded the Bhide Wada girls' school in 1848.",
+        "[2] Education attacks exclusion through durable access and institutions.",
+        "[3] Gender equality needs safety, support and opportunity beyond slogans."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Reform through education: Savitribai Phule and Kalam",
+            "[1] Savitribai Phule co-founded the Bhide Wada girls' school in 1848.",
+            "[2] Education attacks exclusion through durable access and institutions."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Gender equality needs safety, support and opportunity beyond slogans.",
+            "[4] Kalam used a righteousness-to-peace ethical chain.",
+            "[5] Kalam credited that chain to Sathya Sai Baba in 2007.",
+            "[6] Personal integrity can influence family and civic conduct."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Individual virtue alone cannot prove national causation.",
+            "[8] Institutional reform converts aspiration into sustained equality.",
+            "VERDICT → Ethical transformation begins with persons but endures through inclusive institutions.",
+            "ANSWER USE → Use for gender equality, education, social reform, and integrity answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Ethical transformation begins with persons but endures through inclusive institutions.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "HOW TO USE A LEADER WITHOUT HERO-WORSHIP",
+      "structural_type": "exemplar-checklist",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "HOW TO USE A LEADER WITHOUT HERO-WORSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. HOW TO USE A LEADER WITHOUT HERO-WORSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] STATE THE TEACHING PRECISELY BEFORE APPLYING IT.",
+          "role": "institution"
+        },
+        {
+          "text": "[2] IDENTIFY THE PUBLIC VALUE AND COMPETING DUTY INVOLVED.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TRANSLATE THE TEACHING INTO A CONCRETE DECISION RULE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] USE A SPECIFIC INDIAN ADMINISTRATIVE ILLUSTRATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] NAME THE PROCEDURE THAT CHECKS DISCRETIONARY MISUSE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. How to use a leader without hero-worship",
+        "[1] State the teaching precisely before applying it.",
+        "[2] Identify the public value and competing duty involved.",
+        "[3] Translate the teaching into a concrete decision rule."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. How to use a leader without hero-worship",
+            "[1] State the teaching precisely before applying it.",
+            "[2] Identify the public value and competing duty involved."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Translate the teaching into a concrete decision rule.",
+            "[4] Use a specific Indian administrative illustration.",
+            "[5] Name the procedure that checks discretionary misuse.",
+            "[6] Distinguish a source-grounded fact from analytical inference."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Acknowledge a provenance or contextual limitation where relevant.",
+            "[8] Conclude with a qualified rather than absolute verdict.",
+            "VERDICT → An exemplar guides judgement; it does not replace evidence, law, or institutional design.",
+            "ANSWER USE → Use as the quality-control sequence for quotation and thinker answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → An exemplar guides judgement; it does not replace evidence, law, or institutional design.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WRITING QUOTATION ANSWERS THAT EARN GS-IV MARKS",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WRITING QUOTATION ANSWERS THAT EARN GS-IV MARKS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. WRITING QUOTATION ANSWERS THAT EARN GS-IV MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RESTATE THE QUOTATION'S ETHICAL CORE IN ONE CLEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GIVE ONLY THE BRIEF CONTEXT NEEDED FOR THE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TRANSLATE THE IDEA INTO A GOVERNANCE MECHANISM.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] SHOW ONE INDIAN ILLUSTRATION DOING ANALYTICAL WORK.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] EXPLAIN HOW THE MECHANISM BENEFITS CITIZENS OR PUBLIC",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Writing quotation answers that earn GS-IV marks",
+        "[1] Restate the quotation's ethical core in one clear sentence.",
+        "[2] Give only the brief context needed for the present question.",
+        "[3] Translate the idea into a governance mechanism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Writing quotation answers that earn GS-IV marks",
+            "[1] Restate the quotation's ethical core in one clear sentence.",
+            "[2] Give only the brief context needed for the present question.",
+            "[3] Translate the idea into a governance mechanism."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Show one Indian illustration doing analytical work.",
+            "[5] Explain how the mechanism benefits citizens or public trust.",
+            "[6] State the limit, trade-off, or attribution caution.",
+            "[7] Do not replace analysis with a leader's biography.",
+            "[8] Close with an ethical rule joined to institutional safeguards."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Quotation questions reward applied ethics, not memory or reverence.",
+            "ANSWER USE → Follow this sequence for every 10-mark quotation response.",
+            "CLOSE DISTINCTION: Anecdote is not doctrine, admired character is not infallibility, nishkama karma is not indifference to consequences,",
+            "trusteeship is not a substitute for enforceable justice, and anekantavada supports epistemic humility rather than moral paralysis.",
+            "CLOSE DISTINCTION: Anecdote is not doctrine, admired character is not infallibility,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Quotation questions reward applied ethics, not memory or reverence.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ AND TRAP REPAIR",
+      "structural_type": "contrast-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MCQ AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. MCQ AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "[1] INTERNALISATION IS NOT CONDUCT DISPLAYED ONLY FOR APPRAISAL.",
+          "role": "caution"
+        },
+        {
+          "text": "[2] VALUES ARE BROADER THAN OBJECT-SPECIFIC ATTITUDES.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ANEKANTAVADA IS NOT MORAL RELATIVISM OR INDECISION.",
+          "role": "caution"
+        },
+        {
+          "text": "[4] APARIGRAHA IS NOT NEGLECT OF LEGITIMATE PUBLIC SPENDING.",
+          "role": "caution"
+        },
+        {
+          "text": "[5] NISHKAMA KARMA IS NOT INDIFFERENCE TO CITIZEN OUTCOMES.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. MCQ and trap repair",
+        "[1] Internalisation is not conduct displayed only for appraisal.",
+        "[2] Values are broader than object-specific attitudes.",
+        "[3] Anekantavada is not moral relativism or indecision."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[4] Aparigraha is not neglect of legitimate public spending.",
+          "VERDICT → Close options fail when they turn a qualified ethical concept into an absolute claim."
+        ],
+        [
+          "11. MCQ and trap repair",
+          "[5] Nishkama karma is not indifference to citizen outcomes.",
+          "ANSWER USE → Use for prelims elimination and final answer self-audit."
+        ],
+        [
+          "[1] Internalisation is not conduct displayed only for appraisal.",
+          "[6] Kautilya is not a warrant for arbitrary surveillance.",
+          "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named India-centric episodes only when provenance is secure"
+        ],
+        [
+          "[2] Values are broader than object-specific attitudes.",
+          "[7] Gandhi's list has a pleasure and leisure textual variation.",
+          "label tradition-attested sayings, untraceable internet quotations and interpretive applications honestly, and connect each value to an institutional or"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. MCQ and trap repair",
+            "[1] Internalisation is not conduct displayed only for appraisal.",
+            "[2] Values are broader than object-specific attitudes.",
+            "[3] Anekantavada is not moral relativism or indecision."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Aparigraha is not neglect of legitimate public spending.",
+            "[5] Nishkama karma is not indifference to citizen outcomes.",
+            "[6] Kautilya is not a warrant for arbitrary surveillance.",
+            "[7] Gandhi's list has a pleasure and leisure textual variation.",
+            "[8] UPSC attribution does not by itself prove primary provenance."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Close options fail when they turn a qualified ethical concept into an absolute claim.",
+            "ANSWER USE → Use for prelims elimination and final answer self-audit.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named India-centric episodes only when provenance is secure",
+            "label tradition-attested sayings, untraceable internet quotations and interpretive applications honestly, and connect each value to an institutional or",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named India-centric episodes only when..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Use named India-centric episodes only when provenance is secure; label tradition-attested sayings, untraceable internet quotations and interpretive applications honestly, and connect each value to an institutional or behavioural mechanism.",
+      "answer_line": "VERDICT → Close options fail when they turn a qualified ethical concept into an absolute claim.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SYNTHESIS",
+      "structural_type": "integrated-revision-flow",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. PYQ AND ANSWER SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] 2024 TESTED VIVEKANANDA, PATEL AND KANT THROUGH PRESENT-CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] 2025 TESTED THIRUVALLUVAR, WILLIAM JAMES AND VIVEKANANDA QUOTATIONS.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] 2025 ALSO TESTED MAHAVIR'S TEACHINGS AND DEVOTION TO",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] USE TRACEABLE PROVENANCE WHEN THE OWNER PROVIDES IT.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TREAT DISPUTED WORDING AS A UPSC ATTRIBUTION RATHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. PYQ and answer synthesis",
+        "[1] 2024 tested Vivekananda, Patel and Kant through present-context translation.",
+        "[2] 2025 tested Thiruvalluvar, William James and Vivekananda quotations.",
+        "[3] 2025 also tested Mahavir's teachings and devotion to duty."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. PYQ and answer synthesis",
+            "[1] 2024 tested Vivekananda, Patel and Kant through present-context translation.",
+            "[2] 2025 tested Thiruvalluvar, William James and Vivekananda quotations."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] 2025 also tested Mahavir's teachings and devotion to duty.",
+            "[4] Use traceable provenance when the owner provides it.",
+            "[5] Treat disputed wording as a UPSC attribution rather than a primary citation.",
+            "[6] Pair Gandhi's character warning with Kautilya's control design."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Pair Mahavir's consultation with a lawful recorded decision.",
+            "[8] Pair Mission Karmayogi learning reach with conduct-based safeguards.",
+            "VERDICT → The highest-scoring answer moves from idea to mechanism, example, qualification and verdict.",
+            "ANSWER USE → Use as the final revision map before PYQ practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The highest-scoring answer moves from idea to mechanism, example, qualification and verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g2\\ethics-02_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-02\\g4\\ethics-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT OF FREQUENTLY TESTED LEADERS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL TRANSLATION OF VALUE-EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment of frequently tested leaders",
+            "4. Institutional translation of value-education"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

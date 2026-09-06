@@ -5,16 +5,16 @@
   "topic_key": "essay-01",
   "subject": "Essay",
   "title": "PAPER RULES, CHOICE AND SELECTION",
-  "short_route": "OFFICIAL PAPER BOUNDARY → SECTION-CHOICE CONSTRAINT → PAPER-LAYOUT CAUTIONS → OFFICIAL VERSUS STRATEGIC → PROMPT VIABILITY GATE → FAMILIARITY TEST",
+  "short_route": "PAPER RULES, CHOICE AND → PAPER RULES, CHOICE AND → PAPER RULES, CHOICE AND → PAPER RULES, CHOICE AND → PAPER RULES, CHOICE AND → PAPER RULES, CHOICE AND",
   "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
   "status": {
     "approved": false,
     "review": "PENDING USER REVIEW",
-    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+    "line": "Approval: FALSE • Pending user review • source generation g9 and all prior artifacts unchanged"
   },
   "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-01_Learning-Session.md",
-  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-01-2026-09-04-sequential.json",
-  "ascii_spec_sha256": "a9398f843d73557e2a22f88acaaf83cacf775329a1787fd9441a1955c47ad997",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-01-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "ec6fee4061d4514f8b3823fe34d7933d9595e594f94f343a3be0081974fdd4f2",
   "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
   "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
   "design_contract": {
@@ -29,205 +29,215 @@
     {
       "id": "00",
       "role": "core",
-      "title": "OFFICIAL PAPER BOUNDARY",
-      "structural_type": "comparison-table",
-      "layout": "matrix",
+      "title": "PAPER RULES, CHOICE AND SELECTION: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
       "pills": [
         {
-          "text": "OFFICIAL PAPER BOUNDARY",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "2024 PAPER",
+          "text": "PROMPT AND SCOPE",
           "role": "outcome"
         },
         {
-          "text": "CLEAN TWO-ESSAY AND ONE-PER-SECTION INSTRUCTION",
+          "text": "PURPOSE AND SCOPE",
           "role": "comparison"
         },
         {
-          "text": "2025 PAPER",
+          "text": "THIS TOPIC ANSWERS TWO QUESTIONS BEFORE ANY WRITING",
           "role": "evidence"
         },
         {
-          "text": "GARBLED ENGLISH LINE BUT TWO SECTIONS REMAIN CLEAR",
+          "text": "EXAM FACTS",
           "role": "primary"
         },
         {
-          "text": "THREE-HOUR DURATION",
-          "role": "outcome"
+          "text": "SOURCE BASIS",
+          "role": "evidence"
         },
         {
-          "text": "AUDITED FACT IS NOT A PREDICTION OF A FUTURE",
-          "role": "caution"
+          "text": "THE CURRENT CORPUS LEDGER RECORDS 2018–2025 AS V1 —",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "2024 PAPER → clean two-essay and one-per-section instruction",
-        "2025 PAPER → garbled English line but two sections remain clear",
-        "SCHEME → three-hour duration",
-        "FIREWALL → audited fact is not a prediction of a future paper"
+        "PURPOSE AND SCOPE → This topic answers two questions before any writing",
+        "EXAM FACTS / SOURCE BASIS → The current corpus ledger records 2018–2025 as V1 —",
+        "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following",
+        "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
       ],
-      "matrix": [
-        [
-          "PROMPT / METHOD MOVE",
-          "DECISIVE ESSAY DISTINCTION",
-          "DRIFT / EVIDENCE / RULE LIMIT"
-        ],
-        [
-          "2024 PAPER → clean two-essay and one-per-section instruction",
-          "SCHEME → three-hour duration",
-          "2024 PAPER → clean two-essay and one-per-section instruction"
-        ],
-        [
-          "2025 PAPER → garbled English line but two sections remain clear",
-          "FIREWALL → audited fact is not a prediction of a future paper",
-          "2025 PAPER → garbled English line but two sections remain clear"
-        ]
-      ],
+      "matrix": [],
       "groups": [
         {
-          "heading": "PROMPT / METHOD MOVE",
-          "role": "primary",
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
           "items": [
-            "2024 PAPER → clean two-essay and one-per-section instruction",
-            "2025 PAPER → garbled English line but two sections remain clear"
+            "PURPOSE AND SCOPE → This topic answers two questions before any writing",
+            "EXAM FACTS / SOURCE BASIS → The current corpus ledger records 2018–2025 as V1 —"
           ]
         },
         {
-          "heading": "DECISIVE ESSAY DISTINCTION",
-          "role": "comparison",
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
           "items": [
-            "SCHEME → three-hour duration",
-            "FIREWALL → audited fact is not a prediction of a future paper"
+            "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following Sections A and",
+            "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of the followin"
           ]
         },
         {
-          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
           "role": "caution",
           "items": [
-            "2024 PAPER → clean two-essay and one-per-section instruction",
-            "2025 PAPER → garbled English line but two sections remain clear"
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic answers two questions before any writing"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "FIREWALL → audited fact is not a prediction of a future paper.",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "2024 printed instruction",
-        "2025 audited boundary",
-        "Duration boundary"
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3"
       ]
     },
     {
       "id": "01",
       "role": "core",
-      "title": "SECTION-CHOICE CONSTRAINT",
-      "structural_type": "numbered-rail",
-      "layout": "process",
+      "title": "PAPER RULES, CHOICE AND SELECTION: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
       "pills": [
         {
-          "text": "SECTION-CHOICE CONSTRAINT",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "SECTION A",
+          "text": "CONCEPT HIERARCHY",
           "role": "outcome"
         },
         {
-          "text": "SCAN FOUR PROMPTS",
+          "text": "EXAM FACTS",
           "role": "comparison"
         },
         {
-          "text": "CHOOSE ONE",
+          "text": "SOURCE BASIS — 2",
           "role": "evidence"
         },
         {
-          "text": "SECTION B",
+          "text": "ONE TOPIC FROM EACH OF THE FOLLOWING SECTIONS A",
           "role": "primary"
         },
         {
-          "text": "TWO ESSAYS",
-          "role": "outcome"
+          "text": "SOURCE BASIS — 3",
+          "role": "evidence"
         },
         {
-          "text": "BOTH CHOICES FROM THE SAME SECTION",
+          "text": "ESSAYS, CHOOSING ONE TOPIC FROM EACH OF THE FOLLOWIN",
           "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 4",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "SECTION A → scan four prompts → choose one",
-        "SECTION B → scan four prompts → choose one",
-        "PAIR → two essays",
-        "INVALID → both choices from the same Section"
+        "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following",
+        "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of",
+        "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section",
+        "EXAM FACTS / SOURCE BASIS — 5 → bilingually (Hindi then English) , and require",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
         {
-          "heading": "PRINTED PROMPT / STARTING CLAIM",
-          "role": "evidence",
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
           "items": [
-            "SECTION A → scan four prompts → choose one",
-            "SECTION B → scan four prompts → choose one"
+            "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following Sections A and",
+            "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of the followin"
           ]
         },
         {
-          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "PAIR → two essays",
-            "INVALID → both choices from the same Section"
+            "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section B at 5–8. T",
+            "EXAM FACTS / SOURCE BASIS — 5 → bilingually (Hindi then English) , and require one t"
           ]
         },
         {
-          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "SECTION A → scan four prompts → choose one",
-            "SECTION B → scan four prompts → choose one"
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following Sections A and"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "INVALID → both choices from the same Section.",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "One-per-section constraint",
-        "Four-prompt choice set"
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3",
+        "Exam facts / source basis — 4",
+        "Exam facts / source basis — 5"
       ]
     },
     {
       "id": "02",
       "role": "core",
-      "title": "PAPER-LAYOUT CAUTIONS",
+      "title": "PAPER RULES, CHOICE AND SELECTION: DIMENSION MATRIX",
       "structural_type": "matrix",
       "layout": "matrix",
       "pills": [
         {
-          "text": "PAPER-LAYOUT CAUTIONS",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "HINDI THEN ENGLISH",
+          "text": "DIMENSION MATRIX",
           "role": "outcome"
         },
         {
-          "text": "2024 B NUMBERING",
+          "text": "EXAM FACTS",
           "role": "comparison"
         },
         {
-          "text": "2025 B NUMBERING",
+          "text": "SOURCE BASIS — 4",
           "role": "evidence"
         },
         {
-          "text": "READ HEADINGS BEFORE RELYING ON NUMBERS",
+          "text": "SECTION B AT 1–4; 2025 CONTINUES SECTION B AT",
           "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 5",
+          "role": "evidence"
+        },
+        {
+          "text": "BILINGUALLY (HINDI THEN ENGLISH) , AND REQUIRE ONE T",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 6",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "BILINGUAL → Hindi then English",
-        "2024 B NUMBERING → restarts",
-        "2025 B NUMBERING → continues",
-        "ACTION → read headings before relying on numbers"
+        "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section",
+        "EXAM FACTS / SOURCE BASIS — 5 → bilingually (Hindi then English) , and require",
+        "EXAM FACTS / SOURCE BASIS — 6 → header, a 2025 marks line, an author",
+        "EXAM FACTS / SOURCE BASIS — 7 → Practical consequence for choice: because the paper'",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [
         [
@@ -236,14 +246,14 @@
           "DRIFT / EVIDENCE / RULE LIMIT"
         ],
         [
-          "BILINGUAL → Hindi then English",
-          "2025 B NUMBERING → continues",
-          "BILINGUAL → Hindi then English"
+          "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section B at 5–8. T",
+          "EXAM FACTS / SOURCE BASIS — 6 → header, a 2025 marks line, an author beside any prom",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
         ],
         [
-          "2024 B NUMBERING → restarts",
-          "ACTION → read headings before relying on numbers",
-          "2024 B NUMBERING → restarts"
+          "EXAM FACTS / SOURCE BASIS — 5 → bilingually (Hindi then English) , and require one t",
+          "EXAM FACTS / SOURCE BASIS — 7 → Practical consequence for choice: because the paper'",
+          "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section B at 5–8. T"
         ]
       ],
       "groups": [
@@ -251,144 +261,165 @@
           "heading": "PROMPT / METHOD MOVE",
           "role": "primary",
           "items": [
-            "BILINGUAL → Hindi then English",
-            "2024 B NUMBERING → restarts"
+            "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section B at 5–8. T",
+            "EXAM FACTS / SOURCE BASIS — 5 → bilingually (Hindi then English) , and require one t"
           ]
         },
         {
           "heading": "DECISIVE ESSAY DISTINCTION",
           "role": "comparison",
           "items": [
-            "2025 B NUMBERING → continues",
-            "ACTION → read headings before relying on numbers"
+            "EXAM FACTS / SOURCE BASIS — 6 → header, a 2025 marks line, an author beside any prom",
+            "EXAM FACTS / SOURCE BASIS — 7 → Practical consequence for choice: because the paper'"
           ]
         },
         {
           "heading": "DRIFT / EVIDENCE / RULE LIMIT",
           "role": "caution",
           "items": [
-            "BILINGUAL → Hindi then English",
-            "2024 B NUMBERING → restarts"
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section B at 5–8. T"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "ACTION → read headings before relying on numbers.",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Bilingual display",
-        "Numbering instability"
+        "Exam facts / source basis — 4",
+        "Exam facts / source basis — 5",
+        "Exam facts / source basis — 6",
+        "Exam facts / source basis — 7"
       ]
     },
     {
       "id": "03",
       "role": "core",
-      "title": "OFFICIAL VERSUS STRATEGIC",
-      "structural_type": "firewall",
-      "layout": "dialectic",
+      "title": "PAPER RULES, CHOICE AND SELECTION: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
       "pills": [
         {
-          "text": "OFFICIAL VERSUS STRATEGIC",
-          "role": "comparison"
-        },
-        {
-          "text": "ATTEMPT STRUCTURE AND AUDITED WORDING",
-          "role": "outcome"
-        },
-        {
-          "text": "SCAN, SCORE, ALLOCATE AND COMMIT",
-          "role": "comparison"
-        },
-        {
-          "text": "NOT PRINTED",
-          "role": "caution"
-        },
-        {
-          "text": "GRANULAR RUBRIC OR PARAGRAPH COUNT",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "NEVER PROMOTE A HEURISTIC INTO AN INSTRUCTION",
+          "text": "DECISION GATE",
           "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 6",
+          "role": "evidence"
+        },
+        {
+          "text": "HEADER, A 2025 MARKS LINE, AN AUTHOR BESIDE ANY",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE BASIS — 7",
+          "role": "evidence"
+        },
+        {
+          "text": "PRACTICAL CONSEQUENCE FOR CHOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "BECAUSE THE PAPER'",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "OFFICIAL → attempt structure and audited wording",
-        "STRATEGY → scan, score, allocate and commit",
-        "NOT PRINTED → granular rubric or paragraph count",
-        "RULE → never promote a heuristic into an instruction"
+        "EXAM FACTS / SOURCE BASIS — 6 → header, a 2025 marks line, an author",
+        "EXAM FACTS / SOURCE BASIS — 7 → Practical consequence for choice: because the paper'",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: topic choice is a strategic decision",
+        "BASIC SCAN QUESTIONS → 1. Can I restate this prompt's core claim in one pla",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
         {
-          "heading": "PROMPT / METHOD MOVE",
+          "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "OFFICIAL → attempt structure and audited wording",
-            "STRATEGY → scan, score, allocate and commit"
+            "EXAM FACTS / SOURCE BASIS — 6 → header, a 2025 marks line, an author beside any prom",
+            "EXAM FACTS / SOURCE BASIS — 7 → Practical consequence for choice: because the paper'"
           ]
         },
         {
-          "heading": "DECISIVE ESSAY DISTINCTION",
-          "role": "comparison",
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
           "items": [
-            "NOT PRINTED → granular rubric or paragraph count",
-            "RULE → never promote a heuristic into an instruction"
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: topic choice is a strategic decision m",
+            "BASIC SCAN QUESTIONS → 1. Can I restate this prompt's core claim in one pla"
           ]
         },
         {
-          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "OFFICIAL → attempt structure and audited wording",
-            "STRATEGY → scan, score, allocate and commit"
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 6 → header, a 2025 marks line, an author beside any prom"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "RULE → never promote a heuristic into an instruction.",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Rubric boundary",
-        "Rule-strategy firewall",
-        "Time allocation"
+        "Exam facts / source basis — 6",
+        "Exam facts / source basis — 7",
+        "The central idea and common misreading",
+        "Basic scan questions"
       ]
     },
     {
       "id": "04",
       "role": "core",
-      "title": "PROMPT VIABILITY GATE",
-      "structural_type": "process-flow",
+      "title": "PAPER RULES, CHOICE AND SELECTION: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
       "layout": "process",
       "pills": [
         {
-          "text": "PROMPT VIABILITY GATE",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "RESTATABLE CLAIM?",
-          "role": "outcome"
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
         },
         {
-          "text": "QUALIFIED THESIS?",
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
           "role": "comparison"
         },
         {
-          "text": "DISTINCT DIMENSIONS?",
+          "text": "CENTRAL IDEA",
           "role": "evidence"
         },
         {
-          "text": "SAFE EVIDENCE?",
-          "role": "evidence"
+          "text": "TOPIC CHOICE IS A STRATEGIC DECISION M",
+          "role": "primary"
         },
         {
-          "text": "IF ANY ANSWER IS NO, RAISE RISK",
-          "role": "caution"
+          "text": "BASIC SCAN QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. CAN I RESTATE THIS PROMPT'S CORE CLAIM IN",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARISON GRID",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "RESTATABLE CLAIM?",
-        "QUALIFIED THESIS?",
-        "DISTINCT DIMENSIONS?",
-        "SAFE EVIDENCE? → if any answer is no, raise risk"
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: topic choice is a strategic decision",
+        "BASIC SCAN QUESTIONS → 1. Can I restate this prompt's core claim in one pla",
+        "COMPARISON GRID → Use a quick grid — not a full essay plan — to",
+        "COMPARISON GRID — 2 → Score honestly; a prompt with weaker fit in two or",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -396,73 +427,165 @@
           "heading": "PRINTED PROMPT / STARTING CLAIM",
           "role": "evidence",
           "items": [
-            "RESTATABLE CLAIM?",
-            "QUALIFIED THESIS?"
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: topic choice is a strategic decision m",
+            "BASIC SCAN QUESTIONS → 1. Can I restate this prompt's core claim in one pla"
           ]
         },
         {
           "heading": "DECODING / SCOPING / ARGUMENT MOVE",
           "role": "mechanism",
           "items": [
-            "DISTINCT DIMENSIONS?",
-            "SAFE EVIDENCE? → if any answer is no, raise risk"
+            "COMPARISON GRID → Use a quick grid — not a full essay plan — to compar",
+            "COMPARISON GRID — 2 → Score honestly; a prompt with weaker fit in two or m"
           ]
         },
         {
           "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
           "role": "caution",
           "items": [
-            "RESTATABLE CLAIM?",
-            "QUALIFIED THESIS?"
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: topic choice is a strategic decision m"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "SAFE EVIDENCE? → if any answer is no, raise risk.",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Thesis-fit",
-        "Interpretive clarity",
-        "Dimension distinctness",
-        "Evidence availability"
+        "The central idea and common misreading",
+        "Basic scan questions",
+        "Comparison grid",
+        "Comparison grid — 2"
       ]
     },
     {
       "id": "05",
       "role": "core",
-      "title": "FAMILIARITY TEST",
+      "title": "PAPER RULES, CHOICE AND SELECTION: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PAPER RULES, CHOICE AND SELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARISON GRID",
+          "role": "comparison"
+        },
+        {
+          "text": "USE A QUICK GRID — NOT A FULL ESSAY",
+          "role": "caution"
+        },
+        {
+          "text": "COMPARISON GRID — 2",
+          "role": "primary"
+        },
+        {
+          "text": "SCORE HONESTLY; A PROMPT WITH WEAKER FIT IN TWO",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "BEFORE COMMITTING TO A PROMPT, RECALL — DO NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMPARISON GRID → Use a quick grid — not a full essay plan — to",
+        "COMPARISON GRID — 2 → Score honestly; a prompt with weaker fit in two or",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Before committing to a prompt, recall — do not inven",
+        "THESIS OPTIONS AND SELECTION → For each shortlisted prompt, draft one candidate the",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "COMPARISON GRID → Use a quick grid — not a full essay plan — to compar",
+            "COMPARISON GRID — 2 → Score honestly; a prompt with weaker fit in two or m"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "INDIA-FIRST ILLUSTRATION STARTERS → Before committing to a prompt, recall — do not inven",
+            "THESIS OPTIONS AND SELECTION → For each shortlisted prompt, draft one candidate the"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "COMPARISON GRID → Use a quick grid — not a full essay plan — to compar"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Comparison grid",
+        "Comparison grid — 2",
+        "India-first illustration starters",
+        "Thesis options and selection"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PAPER RULES, CHOICE AND SELECTION: CLOSE-OPTION DISTINCTIONS",
       "structural_type": "comparison-table",
       "layout": "matrix",
       "pills": [
         {
-          "text": "FAMILIARITY TEST",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "FAMILIAR + THESIS-FIT",
+          "text": "CLOSE-OPTION DISTINCTIONS",
           "role": "outcome"
         },
         {
-          "text": "FAMILIAR + FACT STACK",
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
           "role": "comparison"
         },
         {
-          "text": "UNFAMILIAR + CLEAR TENSION",
-          "role": "evidence"
+          "text": "BEFORE COMMITTING TO A PROMPT, RECALL — DO NOT",
+          "role": "caution"
         },
         {
-          "text": "POTENTIALLY SAFER",
+          "text": "THESIS OPTIONS AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "TRACTABILITY OUTRANKS COMFORT",
+          "text": "FOR EACH SHORTLISTED PROMPT, DRAFT ONE CANDIDATE THE",
           "role": "outcome"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "TOPIC CHOICE IS BEST MODELLED AS A PORT",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "FAMILIAR + THESIS-FIT → usable",
-        "FAMILIAR + FACT STACK → unsafe",
-        "UNFAMILIAR + CLEAR TENSION → potentially safer",
-        "DECISION → tractability outranks comfort"
+        "INDIA-FIRST ILLUSTRATION STARTERS → Before committing to a prompt, recall — do not inven",
+        "THESIS OPTIONS AND SELECTION → For each shortlisted prompt, draft one candidate the",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: topic choice is best modelled as a port",
+        "CONCEPT DEFINITION AND TAXONOMY → with visible strain (a warning sign under time press",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [
         [
@@ -471,14 +594,14 @@
           "DRIFT / EVIDENCE / RULE LIMIT"
         ],
         [
-          "FAMILIAR + THESIS-FIT → usable",
-          "UNFAMILIAR + CLEAR TENSION → potentially safer",
-          "FAMILIAR + THESIS-FIT → usable"
+          "INDIA-FIRST ILLUSTRATION STARTERS → Before committing to a prompt, recall — do not inven",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: topic choice is best modelled as a port",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
         ],
         [
-          "FAMILIAR + FACT STACK → unsafe",
-          "DECISION → tractability outranks comfort",
-          "FAMILIAR + FACT STACK → unsafe"
+          "THESIS OPTIONS AND SELECTION → For each shortlisted prompt, draft one candidate the",
+          "CONCEPT DEFINITION AND TAXONOMY → with visible strain (a warning sign under time press",
+          "INDIA-FIRST ILLUSTRATION STARTERS → Before committing to a prompt, recall — do not inven"
         ]
       ],
       "groups": [
@@ -486,147 +609,82 @@
           "heading": "PROMPT / METHOD MOVE",
           "role": "primary",
           "items": [
-            "FAMILIAR + THESIS-FIT → usable",
-            "FAMILIAR + FACT STACK → unsafe"
+            "INDIA-FIRST ILLUSTRATION STARTERS → Before committing to a prompt, recall — do not inven",
+            "THESIS OPTIONS AND SELECTION → For each shortlisted prompt, draft one candidate the"
           ]
         },
         {
           "heading": "DECISIVE ESSAY DISTINCTION",
           "role": "comparison",
           "items": [
-            "UNFAMILIAR + CLEAR TENSION → potentially safer",
-            "DECISION → tractability outranks comfort"
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: topic choice is best modelled as a port",
+            "CONCEPT DEFINITION AND TAXONOMY → with visible strain (a warning sign under time press"
           ]
         },
         {
           "heading": "DRIFT / EVIDENCE / RULE LIMIT",
           "role": "caution",
           "items": [
-            "FAMILIAR + THESIS-FIT → usable",
-            "FAMILIAR + FACT STACK → unsafe"
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Before committing to a prompt, recall — do not inven"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "UNFAMILIAR + CLEAR TENSION → potentially safer; DECISION → tractability outranks comfort.",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Familiarity limit",
-        "Thesis-fit"
-      ]
-    },
-    {
-      "id": "06",
-      "role": "core",
-      "title": "ORIGINALITY BOUNDARY",
-      "structural_type": "dialectic",
-      "layout": "hierarchy",
-      "pills": [
-        {
-          "text": "ORIGINALITY BOUNDARY",
-          "role": "primary"
-        },
-        {
-          "text": "PLAIN READING",
-          "role": "outcome"
-        },
-        {
-          "text": "FAITHFUL BUT CONTESTABLE",
-          "role": "comparison"
-        },
-        {
-          "text": "ORIGINAL MOVE",
-          "role": "evidence"
-        },
-        {
-          "text": "QUALIFIED CONNECTION OR SYNTHESIS",
-          "role": "primary"
-        },
-        {
-          "text": "ECCENTRIC MOVE",
-          "role": "outcome"
-        },
-        {
-          "text": "LOSES THE PRINTED RELATION",
-          "role": "comparison"
-        },
-        {
-          "text": "ORIGINALITY THAT REMAINS TEXT-BOUND",
-          "role": "evidence"
-        }
-      ],
-      "sequence": [
-        "PLAIN READING → faithful but contestable",
-        "ORIGINAL MOVE → qualified connection or synthesis",
-        "ECCENTRIC MOVE → loses the printed relation",
-        "KEEP → originality that remains text-bound"
-      ],
-      "matrix": [],
-      "groups": [
-        {
-          "heading": "PROMPT / METHOD MOVE",
-          "role": "primary",
-          "items": [
-            "PLAIN READING → faithful but contestable",
-            "ORIGINAL MOVE → qualified connection or synthesis"
-          ]
-        },
-        {
-          "heading": "DECISIVE ESSAY DISTINCTION",
-          "role": "comparison",
-          "items": [
-            "ECCENTRIC MOVE → loses the printed relation",
-            "KEEP → originality that remains text-bound"
-          ]
-        },
-        {
-          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
-          "role": "caution",
-          "items": [
-            "PLAIN READING → faithful but contestable",
-            "ORIGINAL MOVE → qualified connection or synthesis"
-          ]
-        }
-      ],
-      "mechanism_strip": "",
-      "answer_line": "ECCENTRIC MOVE → loses the printed relation; KEEP → originality that remains text-bound.",
-      "source_references": [
-        "Originality limit",
-        "Interpretive clarity"
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
       ]
     },
     {
       "id": "07",
       "role": "core",
-      "title": "EVIDENCE-RISK SCREEN",
+      "title": "PAPER RULES, CHOICE AND SELECTION: EVIDENCE-STATUS LADDER",
       "structural_type": "status-ladder",
       "layout": "hierarchy",
       "pills": [
         {
-          "text": "EVIDENCE-RISK SCREEN",
-          "role": "caution"
+          "text": "PAPER RULES, CHOICE AND SELECTION",
+          "role": "primary"
         },
         {
-          "text": "NAMED AND SAFELY RECALLABLE ILLUSTRATION",
-          "role": "outcome"
-        },
-        {
-          "text": "USEFUL BUT DETAIL UNCERTAIN",
-          "role": "comparison"
-        },
-        {
-          "text": "INVENTED NUMBER, AUTHOR OR FORCED EXAMPLE",
+          "text": "EVIDENCE-STATUS LADDER",
           "role": "evidence"
         },
         {
-          "text": "PREFER THE PROMPT WITH STRONGER EVIDENCE SAFETY",
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "TOPIC CHOICE IS BEST MODELLED AS A PORT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "WITH VISIBLE STRAIN (A WARNING SIGN UNDER TIME PRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "GUARANTEES WRITING QUALITY IS UNSAFE — INTEREST WITH",
           "role": "evidence"
         }
       ],
       "sequence": [
-        "GREEN → named and safely recallable illustration",
-        "AMBER → useful but detail uncertain",
-        "RED → invented number, author or forced example",
-        "CHOICE → prefer the prompt with stronger evidence safety"
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: topic choice is best modelled as a port",
+        "CONCEPT DEFINITION AND TAXONOMY → with visible strain (a warning sign under time press",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → guarantees writing quality is unsafe — interest with",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → stacking (fact lists) rather than argument; an unfam",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -634,144 +692,165 @@
           "heading": "PRINTED PROMPT / STARTING CLAIM",
           "role": "evidence",
           "items": [
-            "GREEN → named and safely recallable illustration",
-            "AMBER → useful but detail uncertain"
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: topic choice is best modelled as a port",
+            "CONCEPT DEFINITION AND TAXONOMY → with visible strain (a warning sign under time press"
           ]
         },
         {
           "heading": "DECODING / SCOPING / ARGUMENT MOVE",
           "role": "mechanism",
           "items": [
-            "RED → invented number, author or forced example",
-            "CHOICE → prefer the prompt with stronger evidence safety"
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → guarantees writing quality is unsafe — interest with",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → stacking (fact lists) rather than argument; an unfam"
           ]
         },
         {
           "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
           "role": "caution",
           "items": [
-            "GREEN → named and safely recallable illustration",
-            "AMBER → useful but detail uncertain"
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: topic choice is best modelled as a port"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "CHOICE → prefer the prompt with stronger evidence safety.",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Evidence availability",
-        "Risk screening",
-        "Attribution boundary"
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2"
       ]
     },
     {
       "id": "08",
       "role": "core",
-      "title": "CONCLUSION FEASIBILITY",
-      "structural_type": "causal-chain",
-      "layout": "columns",
+      "title": "PAPER RULES, CHOICE AND SELECTION: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
       "pills": [
         {
-          "text": "CONCLUSION FEASIBILITY",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "EARNED SYNTHESIS",
+          "text": "CROSS-SCALE SYSTEM",
           "role": "outcome"
         },
         {
-          "text": "FORCED ENDING",
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
           "role": "comparison"
         },
         {
-          "text": "WARNING THAT CHOICE MAY BE WEAK",
+          "text": "GUARANTEES WRITING QUALITY IS UNSAFE — INTEREST WITH",
+          "role": "evidence"
+        },
+        {
+          "text": "STACKING (FACT LISTS) RATHER THAN ARGUMENT; AN UNFAM",
+          "role": "primary"
+        },
+        {
+          "text": "REVERSE MID-ATTEMPT; THE HIDDEN ASSUMPTION IN \"JUST",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTION LOGIC SHOULD BE CHECKED AT THREE LEVELS",
           "role": "evidence"
         }
       ],
       "sequence": [
-        "THESIS → DIMENSIONS → COUNTER-VIEW",
-        "COUNTER-VIEW → QUALIFICATION",
-        "QUALIFICATION → EARNED SYNTHESIS",
-        "FORCED ENDING → warning that choice may be weak"
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → guarantees writing quality is unsafe — interest with",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → stacking (fact lists) rather than argument; an unfam",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → reverse mid-attempt; the hidden assumption in \"just",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Selection logic should be checked at three levels: (",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
         {
-          "heading": "PRINTED PROMPT / STARTING CLAIM",
-          "role": "evidence",
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
           "items": [
-            "THESIS → DIMENSIONS → COUNTER-VIEW",
-            "COUNTER-VIEW → QUALIFICATION"
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → guarantees writing quality is unsafe — interest with",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → stacking (fact lists) rather than argument; an unfam"
           ]
         },
         {
-          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "QUALIFICATION → EARNED SYNTHESIS",
-            "FORCED ENDING → warning that choice may be weak"
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → reverse mid-attempt; the hidden assumption in \"just",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Selection logic should be checked at three levels: ("
           ]
         },
         {
-          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "THESIS → DIMENSIONS → COUNTER-VIEW",
-            "COUNTER-VIEW → QUALIFICATION"
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → guarantees writing quality is unsafe — interest with"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "FORCED ENDING → warning that choice may be weak.",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Thesis-fit",
-        "Risk screening"
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Tension pairs and hidden assumptions — 3",
+        "Levels of analysis and temporal-spatial scale"
       ]
     },
     {
       "id": "09",
       "role": "core",
-      "title": "TWO-ESSAY PORTFOLIO",
-      "structural_type": "systems-map",
+      "title": "PAPER RULES, CHOICE AND SELECTION: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
       "layout": "spatial",
       "pills": [
         {
-          "text": "TWO-ESSAY PORTFOLIO",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "ESSAY A",
+          "text": "ARGUMENT ARCHITECTURE",
           "role": "outcome"
         },
         {
-          "text": "CLARITY + DEPTH + EVIDENCE",
-          "role": "evidence"
-        },
-        {
-          "text": "ESSAY B",
-          "role": "evidence"
-        },
-        {
-          "text": "SHARED BUDGET",
-          "role": "primary"
-        },
-        {
-          "text": "PLANNING + DRAFTING + REVISION",
-          "role": "outcome"
-        },
-        {
-          "text": "PAIR TEST",
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
           "role": "comparison"
         },
         {
-          "text": "NEITHER CHOICE SHOULD IMPOVERISH THE OTHER",
+          "text": "REVERSE MID-ATTEMPT; THE HIDDEN ASSUMPTION IN \"JUST",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "primary"
+        },
+        {
+          "text": "SELECTION LOGIC SHOULD BE CHECKED AT THREE LEVELS",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC ANSWERS TWO QUESTIONS BEFORE ANY WRITING",
           "role": "evidence"
         }
       ],
       "sequence": [
-        "ESSAY A → clarity + depth + evidence",
-        "ESSAY B → clarity + depth + evidence",
-        "SHARED BUDGET → planning + drafting + revision",
-        "PAIR TEST → neither choice should impoverish the other"
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → reverse mid-attempt; the hidden assumption in \"just",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Selection logic should be checked at three levels: (",
+        "PURPOSE AND SCOPE → This topic answers two questions before any writing",
+        "EXAM FACTS / SOURCE BASIS → The current corpus ledger records 2018–2025 as V1 —",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -779,79 +858,82 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "ESSAY A → clarity + depth + evidence",
-            "ESSAY B → clarity + depth + evidence"
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → reverse mid-attempt; the hidden assumption in \"just",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Selection logic should be checked at three levels: ("
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "SHARED BUDGET → planning + drafting + revision",
-            "PAIR TEST → neither choice should impoverish the other"
+            "PURPOSE AND SCOPE → This topic answers two questions before any writing",
+            "EXAM FACTS / SOURCE BASIS → The current corpus ledger records 2018–2025 as V1 —"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "ESSAY A → clarity + depth + evidence",
-            "ESSAY B → clarity + depth + evidence"
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → reverse mid-attempt; the hidden assumption in \"just"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "PAIR TEST → neither choice should impoverish the other.",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Two-essay portfolio",
-        "Time allocation"
+        "Tension pairs and hidden assumptions — 3",
+        "Levels of analysis and temporal-spatial scale",
+        "Purpose and scope",
+        "Exam facts / source basis"
       ]
     },
     {
       "id": "10",
       "role": "core",
-      "title": "COMMITMENT RULE",
-      "structural_type": "decision-tree",
+      "title": "PAPER RULES, CHOICE AND SELECTION: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
       "layout": "hierarchy",
       "pills": [
         {
-          "text": "COMMITMENT RULE",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "BOUNDED SCAN",
+          "text": "FAILURE AND REPAIR GATE",
           "role": "outcome"
         },
         {
-          "text": "VIABILITY PASSED",
+          "text": "PURPOSE AND SCOPE",
           "role": "comparison"
         },
         {
-          "text": "EARLY FAILURE",
+          "text": "THIS TOPIC ANSWERS TWO QUESTIONS BEFORE ANY WRITING",
           "role": "evidence"
         },
         {
-          "text": "SWITCH ONCE BEFORE DRAFTING EXPANDS",
+          "text": "EXAM FACTS",
           "role": "primary"
         },
         {
-          "text": "LATE DOUBT",
-          "role": "outcome"
-        },
-        {
-          "text": "RETURN TO THESIS AND EVIDENCE MAP",
+          "text": "SOURCE BASIS",
           "role": "evidence"
         },
         {
-          "text": "DO NOT CHASE A FASHIONABLE ALTERNATIVE",
-          "role": "caution"
+          "text": "THE CURRENT CORPUS LEDGER RECORDS 2018–2025 AS V1 —",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 2",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "BOUNDED SCAN → viability passed → commit",
-        "EARLY FAILURE → switch once before drafting expands",
-        "LATE DOUBT → return to thesis and evidence map",
-        "DISCIPLINE → do not chase a fashionable alternative"
+        "PURPOSE AND SCOPE → This topic answers two questions before any writing",
+        "EXAM FACTS / SOURCE BASIS → The current corpus ledger records 2018–2025 as V1 —",
+        "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following",
+        "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -859,79 +941,82 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "BOUNDED SCAN → viability passed → commit",
-            "EARLY FAILURE → switch once before drafting expands"
+            "PURPOSE AND SCOPE → This topic answers two questions before any writing",
+            "EXAM FACTS / SOURCE BASIS → The current corpus ledger records 2018–2025 as V1 —"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "LATE DOUBT → return to thesis and evidence map",
-            "DISCIPLINE → do not chase a fashionable alternative"
+            "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following Sections A and",
+            "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of the followin"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "BOUNDED SCAN → viability passed → commit",
-            "EARLY FAILURE → switch once before drafting expands"
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic answers two questions before any writing"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "DISCIPLINE → do not chase a fashionable alternative.",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Commitment discipline",
-        "Risk screening"
+        "Purpose and scope",
+        "Exam facts / source basis",
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3"
       ]
     },
     {
       "id": "11",
       "role": "synthesis",
-      "title": "SELECTION ANSWER SPINE",
+      "title": "PAPER RULES, CHOICE AND SELECTION: COMPLETE ANSWER SPINE",
       "structural_type": "answer-spine",
       "layout": "synthesis",
       "pills": [
         {
-          "text": "SELECTION ANSWER SPINE",
+          "text": "PAPER RULES, CHOICE AND SELECTION",
           "role": "primary"
         },
         {
-          "text": "READ RULE",
+          "text": "COMPLETE ANSWER SPINE",
           "role": "outcome"
         },
         {
-          "text": "SCAN EACH SECTION",
+          "text": "EXAM FACTS",
           "role": "comparison"
         },
         {
-          "text": "CLASSIFY PROMPTS",
+          "text": "SOURCE BASIS — 2",
           "role": "evidence"
         },
         {
-          "text": "TEST THESIS",
+          "text": "ONE TOPIC FROM EACH OF THE FOLLOWING SECTIONS A",
           "role": "primary"
         },
         {
-          "text": "TEST DIMENSIONS",
-          "role": "outcome"
-        },
-        {
-          "text": "TEST EVIDENCE",
+          "text": "SOURCE BASIS — 3",
           "role": "evidence"
         },
         {
-          "text": "SCREEN RISK",
-          "role": "caution"
+          "text": "ESSAYS, CHOOSING ONE TOPIC FROM EACH OF THE FOLLOWIN",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS — 4",
+          "role": "evidence"
         }
       ],
       "sequence": [
-        "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS",
-        "TEST THESIS → TEST DIMENSIONS → TEST EVIDENCE",
-        "SCREEN RISK → TEST THE PAIR → ALLOCATE TIME",
-        "COMMIT → DECODE OR SCOPE → PLAN"
+        "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following",
+        "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of",
+        "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section",
+        "EXAM FACTS / SOURCE BASIS — 5 → bilingually (Hindi then English) , and require",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
       ],
       "matrix": [],
       "groups": [
@@ -939,33 +1024,34 @@
           "heading": "PROMPT READING / CENTRAL TENSION",
           "role": "primary",
           "items": [
-            "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS",
-            "TEST THESIS → TEST DIMENSIONS → TEST EVIDENCE"
+            "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following Sections A and",
+            "EXAM FACTS / SOURCE BASIS — 3 → essays, choosing one topic from each of the followin"
           ]
         },
         {
           "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
           "role": "mechanism",
           "items": [
-            "SCREEN RISK → TEST THE PAIR → ALLOCATE TIME",
-            "COMMIT → DECODE OR SCOPE → PLAN"
+            "EXAM FACTS / SOURCE BASIS — 4 → Section B at 1–4; 2025 continues Section B at 5–8. T",
+            "EXAM FACTS / SOURCE BASIS — 5 → bilingually (Hindi then English) , and require one t"
           ]
         },
         {
           "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
           "role": "caution",
           "items": [
-            "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS",
-            "TEST THESIS → TEST DIMENSIONS → TEST EVIDENCE"
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS — 2 → one topic from each of the following Sections A and"
           ]
         }
       ],
       "mechanism_strip": "",
-      "answer_line": "READ RULE → SCAN EACH SECTION → CLASSIFY PROMPTS.",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
       "source_references": [
-        "Rule-strategy firewall",
-        "Two-essay portfolio",
-        "Commitment discipline"
+        "Exam facts / source basis — 2",
+        "Exam facts / source basis — 3",
+        "Exam facts / source basis — 4",
+        "Exam facts / source basis — 5"
       ]
     },
     {

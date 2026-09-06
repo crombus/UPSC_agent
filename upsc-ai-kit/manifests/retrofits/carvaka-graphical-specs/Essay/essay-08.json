@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-08",
+  "subject": "Essay",
+  "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+  "short_route": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS → ARGUMENT, COUNTERARGUMENT AND SYNTHESIS → ARGUMENT, COUNTERARGUMENT AND SYNTHESIS → ARGUMENT, COUNTERARGUMENT AND SYNTHESIS → ARGUMENT, COUNTERARGUMENT AND SYNTHESIS → ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Essay\\learning-sessions\\v2\\subject-wide-syllabus\\essay-08_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-08-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "e8430eb0c3d919324574791d5fab4d0337daaacafd84e5f4f3425b449a74957d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC TEACHES THE COUNTER-VIEW/SYNTHESIS STEP O",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "TO YOUR THESIS, STATED FAIRLY AND AT FULL STRENGTH",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ON A FALSE PREMISE, APPLIES ONLY UNDER CONDITIONS TH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o",
+        "CORE TERMS IN PLAIN LANGUAGE → to your thesis, stated fairly and at full strength",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o",
+            "CORE TERMS IN PLAIN LANGUAGE → to your thesis, stated fairly and at full strength,"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under conditions th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid in th"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ON A FALSE PREMISE, APPLIES ONLY UNDER CONDITIONS TH",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 3",
+          "role": "primary"
+        },
+        {
+          "text": "EACH SIDE GOVERNS, INCORPORATING WHAT IS VALID IN TH",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 4",
+          "role": "comparison"
+        },
+        {
+          "text": "COUNTERARGUMENT \"SOME ERRORS ARE IRREVERSIBLE AND CA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid",
+        "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca",
+        "CORE TERMS IN PLAIN LANGUAGE — 5 → Three common collapses: stating a counterargument an",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under conditions th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid in th"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca",
+            "CORE TERMS IN PLAIN LANGUAGE — 5 → Three common collapses: stating a counterargument an"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under conditions th"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3",
+        "Core terms in plain language — 4",
+        "Core terms in plain language — 5"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 4",
+          "role": "comparison"
+        },
+        {
+          "text": "COUNTERARGUMENT \"SOME ERRORS ARE IRREVERSIBLE AND CA",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 5",
+          "role": "primary"
+        },
+        {
+          "text": "THREE COMMON COLLAPSES",
+          "role": "outcome"
+        },
+        {
+          "text": "STATING A COUNTERARGUMENT AN",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca",
+        "CORE TERMS IN PLAIN LANGUAGE — 5 → Three common collapses: stating a counterargument an",
+        "EXAM FACTS / SOURCE BASIS → handled; no official rubric rewards or penalises a s",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is strengthened, not weakened",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca",
+          "EXAM FACTS / SOURCE BASIS → handled; no official rubric rewards or penalises a s",
+          "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "CORE TERMS IN PLAIN LANGUAGE — 5 → Three common collapses: stating a counterargument an",
+          "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is strengthened, not weakened",
+          "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca",
+            "CORE TERMS IN PLAIN LANGUAGE — 5 → Three common collapses: stating a counterargument an"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → handled; no official rubric rewards or penalises a s",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is strengthened, not weakened"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 4",
+        "Core terms in plain language — 5",
+        "Exam facts / source basis",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM FACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE BASIS",
+          "role": "evidence"
+        },
+        {
+          "text": "HANDLED; NO OFFICIAL RUBRIC REWARDS OR PENALISES A S",
+          "role": "caution"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "A THESIS IS STRENGTHENED, NOT WEAKENED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EXAM FACTS / SOURCE BASIS → handled; no official rubric rewards or penalises a s",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is strengthened, not weakened",
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the single strongest objection a fair-min",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration for the counter-view",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "EXAM FACTS / SOURCE BASIS → handled; no official rubric rewards or penalises a s",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a thesis is strengthened, not weakened"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the single strongest objection a fair-min",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration for the counter-view"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "EXAM FACTS / SOURCE BASIS → handled; no official rubric rewards or penalises a s"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Exam facts / source basis",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. WHAT IS THE SINGLE STRONGEST OBJECTION A FAIR-MIN",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "primary"
+        },
+        {
+          "text": "RECALL ONE INDIAN ILLUSTRATION FOR THE COUNTER-VIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "IF THE COUNTER-VIEW TURNS OUT TO BE STRONGER THAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. What is the single strongest objection a fair-min",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration for the counter-view",
+        "THESIS OPTIONS AND SELECTION → If the counter-view turns out to be stronger than yo",
+        "SIMPLE ESSAY ARCHITECTURE → Place the counter-view/synthesis as one distinct par",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the single strongest objection a fair-min",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Recall one Indian illustration for the counter-view"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → If the counter-view turns out to be stronger than yo",
+            "SIMPLE ESSAY ARCHITECTURE → Place the counter-view/synthesis as one distinct par"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. What is the single strongest objection a fair-min"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "IF THE COUNTER-VIEW TURNS OUT TO BE STRONGER THAN",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "PLACE THE COUNTER-VIEW/SYNTHESIS AS ONE DISTINCT PAR",
+          "role": "outcome"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTRODUCE THE COUNTER-VIEW WITH A FAIR, NON-DISMISSI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS OPTIONS AND SELECTION → If the counter-view turns out to be stronger than yo",
+        "SIMPLE ESSAY ARCHITECTURE → Place the counter-view/synthesis as one distinct par",
+        "OPENING, BODY AND CLOSURE MOVES → Introduce the counter-view with a fair, non-dismissi",
+        "TRAPS AND REPAIR MOVES → where a serious objection exists). → Repair: use Sec",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → If the counter-view turns out to be stronger than yo",
+            "SIMPLE ESSAY ARCHITECTURE → Place the counter-view/synthesis as one distinct par"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Introduce the counter-view with a fair, non-dismissi",
+            "TRAPS AND REPAIR MOVES → where a serious objection exists). → Repair: use Sec"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "THESIS OPTIONS AND SELECTION → If the counter-view turns out to be stronger than yo"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Traps and repair moves"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTRODUCE THE COUNTER-VIEW WITH A FAIR, NON-DISMISSI",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "primary"
+        },
+        {
+          "text": "WHERE A SERIOUS OBJECTION EXISTS).",
+          "role": "outcome"
+        },
+        {
+          "text": "USE SEC",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPENING, BODY AND CLOSURE MOVES → Introduce the counter-view with a fair, non-dismissi",
+        "TRAPS AND REPAIR MOVES → where a serious objection exists). → Repair: use Sec",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 08 supplies two simple, evidence-d",
+        "CONCEPT DEFINITION AND TAXONOMY → thesis and counter-claim, but a reframing that shows",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "OPENING, BODY AND CLOSURE MOVES → Introduce the counter-view with a fair, non-dismissi",
+          "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 08 supplies two simple, evidence-d",
+          "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+        ],
+        [
+          "TRAPS AND REPAIR MOVES → where a serious objection exists). → Repair: use Sec",
+          "CONCEPT DEFINITION AND TAXONOMY → thesis and counter-claim, but a reframing that shows",
+          "OPENING, BODY AND CLOSURE MOVES → Introduce the counter-view with a fair, non-dismissi"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Introduce the counter-view with a fair, non-dismissi",
+            "TRAPS AND REPAIR MOVES → where a serious objection exists). → Repair: use Sec"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 08 supplies two simple, evidence-d",
+            "CONCEPT DEFINITION AND TAXONOMY → thesis and counter-claim, but a reframing that shows"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "OPENING, BODY AND CLOSURE MOVES → Introduce the counter-view with a fair, non-dismissi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Opening, body and closure moves",
+        "Traps and repair moves",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE 08 SUPPLIES TWO SIMPLE, EVIDENCE-D",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "THESIS AND COUNTER-CLAIM, BUT A REFRAMING THAT SHOWS",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST WHETHER THE COUNTER-CLAIM OPERATES AT THE SAME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 08 supplies two simple, evidence-d",
+        "CONCEPT DEFINITION AND TAXONOMY → thesis and counter-claim, but a reframing that shows",
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Test whether the counter-claim operates at the same",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → For value-conflict theses (2025-B8 contentment/luxur",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 08 supplies two simple, evidence-d",
+            "CONCEPT DEFINITION AND TAXONOMY → thesis and counter-claim, but a reframing that shows"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Test whether the counter-claim operates at the same",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → For value-conflict theses (2025-B8 contentment/luxur"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: Core 08 supplies two simple, evidence-d"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVELS OF ANALYSIS AND TEMPORAL-SP",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST WHETHER THE COUNTER-CLAIM OPERATES AT THE SAME",
+          "role": "evidence"
+        },
+        {
+          "text": "STAKEHOLDER MAP AND DISTRIBUTIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "FOR VALUE-CONFLICT THESES (2025-B8 CONTENTMENT/LUXUR",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSALITY, MECHANISMS AND FEEDBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "THESIS (MECHANISM A SUPPORTS CLAIM X) V STRONG COUNT",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "LEVELS OF ANALYSIS AND TEMPORAL-SP → Test whether the counter-claim operates at the same",
+        "STAKEHOLDER MAP AND DISTRIBUTIONAL → For value-conflict theses (2025-B8 contentment/luxur",
+        "CAUSALITY, MECHANISMS AND FEEDBACK → THESIS (mechanism A supports claim X) v STRONG COUNT",
+        "CAUSALITY, MECHANISMS AND FEEDBACK → The switching condition (the \"identify the condition",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Test whether the counter-claim operates at the same",
+            "STAKEHOLDER MAP AND DISTRIBUTIONAL → For value-conflict theses (2025-B8 contentment/luxur"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CAUSALITY, MECHANISMS AND FEEDBACK → THESIS (mechanism A supports claim X) v STRONG COUNT",
+            "CAUSALITY, MECHANISMS AND FEEDBACK → The switching condition (the \"identify the condition"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "LEVELS OF ANALYSIS AND TEMPORAL-SP → Test whether the counter-claim operates at the same"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Levels of analysis and temporal-spatial scale",
+        "Stakeholder map and distributional effects",
+        "Causality, mechanisms and feedback loops",
+        "Causality, mechanisms and feedback loops — 2"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSALITY, MECHANISMS AND FEEDBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "THESIS (MECHANISM A SUPPORTS CLAIM X) V STRONG COUNT",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE SWITCHING CONDITION (THE \"IDENTIFY THE CONDITION",
+          "role": "primary"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS TOPIC TEACHES THE COUNTER-VIEW/SYNTHESIS STEP O",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAUSALITY, MECHANISMS AND FEEDBACK → THESIS (mechanism A supports claim X) v STRONG COUNT",
+        "CAUSALITY, MECHANISMS AND FEEDBACK → The switching condition (the \"identify the condition",
+        "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o",
+        "CORE TERMS IN PLAIN LANGUAGE → to your thesis, stated fairly and at full strength",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CAUSALITY, MECHANISMS AND FEEDBACK → THESIS (mechanism A supports claim X) v STRONG COUNT",
+            "CAUSALITY, MECHANISMS AND FEEDBACK → The switching condition (the \"identify the condition"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o",
+            "CORE TERMS IN PLAIN LANGUAGE → to your thesis, stated fairly and at full strength,"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "CAUSALITY, MECHANISMS AND FEEDBACK → THESIS (mechanism A supports claim X) v STRONG COUNT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Causality, mechanisms and feedback loops",
+        "Causality, mechanisms and feedback loops — 2",
+        "Purpose and scope",
+        "Core terms in plain language"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC TEACHES THE COUNTER-VIEW/SYNTHESIS STEP O",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE",
+          "role": "primary"
+        },
+        {
+          "text": "TO YOUR THESIS, STATED FAIRLY AND AT FULL STRENGTH",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ON A FALSE PREMISE, APPLIES ONLY UNDER CONDITIONS TH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o",
+        "CORE TERMS IN PLAIN LANGUAGE → to your thesis, stated fairly and at full strength",
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o",
+            "CORE TERMS IN PLAIN LANGUAGE → to your thesis, stated fairly and at full strength,"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under conditions th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid in th"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic teaches the counter-view/synthesis step o"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "Core terms in plain language",
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ARGUMENT, COUNTERARGUMENT AND SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "ON A FALSE PREMISE, APPLIES ONLY UNDER CONDITIONS TH",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 3",
+          "role": "primary"
+        },
+        {
+          "text": "EACH SIDE GOVERNS, INCORPORATING WHAT IS VALID IN TH",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE TERMS IN PLAIN LANGUAGE — 4",
+          "role": "comparison"
+        },
+        {
+          "text": "COUNTERARGUMENT \"SOME ERRORS ARE IRREVERSIBLE AND CA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under",
+        "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid",
+        "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca",
+        "CORE TERMS IN PLAIN LANGUAGE — 5 → Three common collapses: stating a counterargument an",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under conditions th",
+            "CORE TERMS IN PLAIN LANGUAGE — 3 → each side governs, incorporating what is valid in th"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CORE TERMS IN PLAIN LANGUAGE — 4 → COUNTERARGUMENT \"Some errors are irreversible and ca",
+            "CORE TERMS IN PLAIN LANGUAGE — 5 → Three common collapses: stating a counterargument an"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "CORE TERMS IN PLAIN LANGUAGE — 2 → on a false premise, applies only under conditions th"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Core terms in plain language — 2",
+        "Core terms in plain language — 3",
+        "Core terms in plain language — 4",
+        "Core terms in plain language — 5"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK COUNTER-CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "A MINOR EXCEPTION DRESSED UP AS AN OBJECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONG COUNTER-CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "A GENUINELY OPPOSING MECHANISM OR VALUE THAT",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONDITIONAL LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "THE SPECIFIC CIRCUMSTANCE UNDER WHICH THE",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGHER SYNTHESIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Weak counter-claim: a minor exception dressed up as an objection",
+            "Strong counter-claim: a genuinely opposing mechanism or value that,",
+            "Conditional limit: the specific circumstance under which the",
+            "Higher synthesis: a position that is not a simple average of"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Weak counter-claim dressed as strong (Section 2). → Protocol:",
+            "NOT: Missing switching condition (\"both sides have a point,\" full",
+            "NOT: Asymmetric evidence (thesis illustrated, counter-claim left",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains)."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Core area: Dialectical method — thesis, counter-claim, condition/ limit, higher synthesis — applied",
+            "rigorously across multiple argument cycles rather than as a single token paragraph.",
+            "Grounded in: V1 (2018–2025) UPSC Essay paper corpus (see ../README.md); ../00 Master-Framework.md Section 6.",
+            "Tags: verified fact | CAUTION: strategy/inference | dated anchor | NOT: trap/boundary."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

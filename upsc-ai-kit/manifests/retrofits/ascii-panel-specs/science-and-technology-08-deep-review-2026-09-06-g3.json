@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-08",
+      "display_title": "Digital India and India Stack: UPI, Aadhaar",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Digital ecosystem boundary",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "DIGITAL INDIA -> programme for infrastructure, governance and services",
+            "INDIA STACK -> layered architectural idea",
+            "DPI -> reusable interoperable rails with public rules",
+            "PRIVATE APP -> interface or participant on a rail",
+            "RULE -> these labels cannot be substituted"
+          ],
+          "source_references": [
+            "Programme-DPI boundary",
+            "India-Stack boundary",
+            "DPI-app boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Modular stack map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "IDENTITY -> Aadhaar / UIDAI",
+            "PAYMENTS -> UPI / NPCI under RBI regulation",
+            "FINANCIAL DATA -> Account Aggregator consent flow",
+            "DOCUMENTS / SIGNATURES -> DigiLocker and eSign",
+            "OUTPUT -> interoperable services without one super-database"
+          ],
+          "source_references": [
+            "India-Stack boundary",
+            "DPI-app boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Aadhaar legal identity card",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "AADHAAR -> 12-digit resident identity number",
+            "UIDAI -> statutory authority under MeitY",
+            "AADHAAR ACT -> legal foundation",
+            "NOT PROOF -> citizenship, domicile, entitlement or payment",
+            "RULE -> identity match answers only the identity question"
+          ],
+          "source_references": [
+            "Aadhaar-identity boundary",
+            "UIDAI-role boundary",
+            "Identity-entitlement boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Three Aadhaar workflows",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "AUTHENTICATION -> yes or no match against CIDR",
+            "e-KYC -> permitted demographic return with consent",
+            "OFFLINE VERIFICATION -> QR or XML without CIDR request",
+            "ENTITLEMENT DECISION -> separate legal and administrative step",
+            "TRAP -> one workflow cannot be relabelled as another"
+          ],
+          "source_references": [
+            "Aadhaar-workflow boundary",
+            "Identity-entitlement boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "UPI transaction chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "USER APP -> initiates payment instruction",
+            "UPI / NPCI -> interoperable messaging and switching rail",
+            "BANK OR PERMITTED INSTRUMENT -> funding source",
+            "RBI FRAMEWORK -> payment-system regulation",
+            "RULE -> rail, app, account and regulator are distinct"
+          ],
+          "source_references": [
+            "UPI-rail boundary",
+            "UPI-instrument boundary",
+            "NPCI-RBI boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Payment-rail matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "UPI -> instant retail payment instruction",
+            "IMPS / NEFT / RTGS -> distinct interbank settlement modes",
+            "AePS -> Aadhaar-authenticated correspondent banking",
+            "BBPS / NACH -> bills and recurring bulk mandates",
+            "TRAP -> digital payment does not mean UPI alone"
+          ],
+          "source_references": [
+            "Payment-rail boundary",
+            "AePS-UPI boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Operator regulator participant",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "NPCI -> operates specified retail rails",
+            "RBI -> regulates payment systems",
+            "BANK / PPI ISSUER -> holds or issues funding instrument",
+            "APP PROVIDER -> customer interface",
+            "UIDAI -> separate Aadhaar authority"
+          ],
+          "source_references": [
+            "UIDAI-role boundary",
+            "NPCI-RBI boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Account Aggregator flow",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CUSTOMER -> gives explicit consent",
+            "FIP -> holds regulated financial information",
+            "AA -> retrieves and transfers as a data blind",
+            "FIU -> receives for consented purpose",
+            "RULE -> AA does not own or retain the information"
+          ],
+          "source_references": [
+            "AA-data-blind boundary",
+            "Consent-purpose boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Trust layers",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DIGILOCKER -> access, share and verify trusted documents",
+            "eSIGN -> online electronic signature under trust framework",
+            "AADHAAR -> identity and authentication",
+            "UPI -> payment instruction rail",
+            "RULE -> document, signature, identity and payment stay separate"
+          ],
+          "source_references": [
+            "DigiLocker-boundary",
+            "eSign-boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Open-network extensions",
+          "structural_type": "branch-map",
+          "ascii_lines": [
+            "ONDC -> open commerce protocol",
+            "OCEN -> open credit protocol",
+            "NETWORK LOGIC -> unbundle front ends from shared rules",
+            "APPLICATIONS -> compete on top of protocol",
+            "TRAP -> protocol is not a private marketplace or lender",
+            "MUST REMEMBER: India Stack is layered digital public infrastructure for...",
+            "MUST REMEMBER: India Stack is layered digital public infrastructure for..."
+          ],
+          "source_references": [
+            "ONDC-OCEN boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-08_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Electronic toll status rail",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "FASTag -> RFID tag-reader architecture",
+            "NETC -> clearing and dispute framework",
+            "ANPR-FASTag -> barrierless pilot combination",
+            "GNSS DISTANCE TOLLING -> proposed or pilot direction",
+            "RULE -> do not call a proposal nationwide deployment",
+            "CLOSE DISTINCTION: Aadhaar is not citizenship or universal identity proof, authentication...",
+            "CLOSE DISTINCTION: Aadhaar is not citizenship or universal identity proof, authentication..."
+          ],
+          "source_references": [
+            "FASTag-boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-08_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "DPI claim firewall",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> programme, rail, app, operator and regulator",
+            "TRACE -> identity, payment, consent, document or toll flow",
+            "SEPARATE -> identity from citizenship and entitlement",
+            "PAIR SCALE -> inclusion, fraud, privacy and grievance safeguards",
+            "VERIFY -> monthly official transaction and coverage data",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Map actor, service layer, legal basis,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Map actor, service layer, legal basis,..."
+          ],
+          "source_references": [
+            "Scale-safeguard boundary",
+            "Volatile-data boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g2\\science-and-technology-08_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-08_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-08\\g3\\science-and-technology-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

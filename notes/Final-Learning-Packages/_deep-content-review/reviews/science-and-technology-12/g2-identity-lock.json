@@ -1,0 +1,14 @@
+{
+  "topic_key": "science-and-technology-12",
+  "locked_at": "2026-09-06T07:54:48.578703+00:00",
+  "master_tracker_identity": "science-and-technology-12:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "caac409ab30cd81ff41b0612f5c485cd201710fce0137e60f67617c2bf70d340",
+    "main_pdf": "42865fca3624e2358ff19a057ac056442d300e07525dae8215f247ac4149e641",
+    "workbook": "a8d35dbbf602703a8c3214575a0ce91b46e2fee391db2b406d9c7b9fdc676c3c",
+    "graphical_master": "25d0d44d44bdf11283abc92b4888cbd80ccc839141bf1c9651bc9b560fe38677",
+    "ascii_master": "df55f4e9ef106e844c980605e82a305530c89a454974dedbbc29acdac0ad574c"
+  }
+}

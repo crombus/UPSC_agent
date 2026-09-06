@@ -1,0 +1,1245 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-22",
+  "subject": "Ethics",
+  "title": "CASE STUDY METHOD AND ANSWER ARCHITECTURE",
+  "short_route": "EIGHT-ELEMENT CASE-STUDY RAIL → CONSTRAINT GATE BEFORE OPTION → SIX-CHECK EVALUATION MATRIX → CONFLICT-OF-INTEREST RESOLUTION SEQUENCE → NESTED DILEMMA AND STEELMAN → RESIDUAL-RISK CLOSING FORMULA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-22-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "29a8c8d0865ed97c1e084a913bb16e596ea45394a8f5ec4e06d42f4846f7a7a5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EIGHT-ELEMENT CASE-STUDY RAIL",
+      "structural_type": "eight-stage-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EIGHT-ELEMENT CASE-STUDY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. EIGHT-ELEMENT CASE-STUDY RAIL",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] FACTS",
+          "role": "evidence"
+        },
+        {
+          "text": "GIVEN VERSUS ASSUMED",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] STAKEHOLDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT AND SILENT",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] CONSTRAINTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Eight-element case-study rail",
+        "[1] Facts: given versus assumed",
+        "[2] Stakeholders: direct and silent",
+        "[3] Constraints: hard bounds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Eight-element case-study rail",
+            "[1] Facts: given versus assumed",
+            "[2] Stakeholders: direct and silent",
+            "[3] Constraints: hard bounds"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Options: three or more",
+            "[5] Evaluation: theories and checks",
+            "[6] Decision: decisive reason",
+            "[7] Implementation: actor and message",
+            "[8] Residual risk: monitor and review"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → A case answer is a complete decision process, not a moral reaction.",
+            "ANSWER USE → Use as the universal opening architecture.",
+            "MUST REMEMBER: Every case study requires fact-assumption separation, stakeholder mapping,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A case answer is a complete decision process, not a moral reaction.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONSTRAINT GATE BEFORE OPTION DESIGN",
+      "structural_type": "constraint-funnel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONSTRAINT GATE BEFORE OPTION DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONSTRAINT GATE BEFORE OPTION DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] LEGALITY DEFINES PERMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DELEGATION DEFINES AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] JURISDICTION DEFINES FORUM",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TIME DEFINES URGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] INFORMATION DEFINES CONFIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Constraint gate before option design",
+        "[1] Legality defines permission",
+        "[2] Delegation defines authority",
+        "[3] Jurisdiction defines forum"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Constraint gate before option design",
+            "[1] Legality defines permission",
+            "[2] Delegation defines authority",
+            "[3] Jurisdiction defines forum"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Time defines urgency",
+            "[5] Information defines confidence",
+            "[6] Resources define capacity",
+            "[7] Safety defines tolerable exposure",
+            "[8] Survivors become real options"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Impossible or unlawful proposals should never enter later balancing.",
+            "ANSWER USE → Use before listing options in every administrative case.",
+            "CLOSE DISTINCTION: Hard thresholds such as illegality or serious rights violation differ..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Impossible or unlawful proposals should never enter later balancing.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SIX-CHECK EVALUATION MATRIX",
+      "structural_type": "threshold-weight-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SIX-CHECK EVALUATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. SIX-CHECK EVALUATION MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONFLICT",
+          "role": "evidence"
+        },
+        {
+          "text": "HARD THRESHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "[2] LEGALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] PUBLIC INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] PROPORTIONALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Six-check evaluation matrix",
+        "[1] Conflict: hard threshold",
+        "[2] Legality: hard threshold",
+        "[3] Public interest: weighted"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[4] Proportionality: weighted",
+          "VERDICT → Eliminate first, weigh second and explain what controlled the choice."
+        ],
+        [
+          "3. Six-check evaluation matrix",
+          "[5] Transparency: weighted",
+          "ANSWER USE → Use for the ethical-evaluation element."
+        ],
+        [
+          "[1] Conflict: hard threshold",
+          "[6] Compassion: weighted",
+          "EVIDENCE / AUTHORITY / APPLICATION LIMIT: The model answer must be executable: immediate..."
+        ],
+        [
+          "[2] Legality: hard threshold",
+          "[7] Long-term effects: projected",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Six-check evaluation matrix",
+            "[1] Conflict: hard threshold",
+            "[2] Legality: hard threshold",
+            "[3] Public interest: weighted"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Proportionality: weighted",
+            "[5] Transparency: weighted",
+            "[6] Compassion: weighted",
+            "[7] Long-term effects: projected",
+            "[8] Decisive weight: stated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Eliminate first, weigh second and explain what controlled the choice.",
+            "ANSWER USE → Use for the ethical-evaluation element.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: The model answer must be executable: immediate..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Eliminate first, weigh second and explain what controlled the choice.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CONFLICT-OF-INTEREST RESOLUTION SEQUENCE",
+      "structural_type": "four-step-control-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONFLICT-OF-INTEREST RESOLUTION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. CONFLICT-OF-INTEREST RESOLUTION SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DETECT PERSONAL-INTEREST LINK",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DISCLOSE CONNECTION IN WRITING",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RECUSE FROM THE DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] REFER TO UNTAINTED AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] STATE OBJECTIVE CRITERIA",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Conflict-of-interest resolution sequence",
+        "[1] Detect personal-interest link",
+        "[2] Disclose connection in writing",
+        "[3] Recuse from the decision"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Conflict-of-interest resolution sequence",
+            "[1] Detect personal-interest link",
+            "[2] Disclose connection in writing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Recuse from the decision",
+            "[4] Refer to untainted authority",
+            "[5] State objective criteria",
+            "[6] Apply criteria consistently"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Preserve the scoring trail",
+            "[8] Publish or defend the rationale",
+            "VERDICT → Personal honesty cannot substitute for an unconflicted process.",
+            "ANSWER USE → Use in procurement, licensing and privileged-information cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Personal honesty cannot substitute for an unconflicted process.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NESTED DILEMMA AND STEELMAN LOOP",
+      "structural_type": "decompose-test-recombine",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "NESTED DILEMMA AND STEELMAN LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. NESTED DILEMMA AND STEELMAN LOOP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY DILEMMA ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] RUN COMPACT ETHICAL CHECKS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY DILEMMA TWO",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] RUN COMPACT ETHICAL CHECKS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RECOMBINE COMPATIBLE DECISIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Nested dilemma and steelman loop",
+        "[1] Identify dilemma one",
+        "[2] Run compact ethical checks",
+        "[3] Identify dilemma two"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Nested dilemma and steelman loop",
+            "[1] Identify dilemma one",
+            "[2] Run compact ethical checks"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify dilemma two",
+            "[4] Run compact ethical checks",
+            "[5] Recombine compatible decisions",
+            "[6] State strongest objection"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Absorb valid objection",
+            "[8] Confirm or revise decision",
+            "VERDICT → Decomposition clarifies the problem; steelmanning tests the solution.",
+            "ANSWER USE → Use for dense cases with multiple genuine conflicts."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Decomposition clarifies the problem; steelmanning tests the solution.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RESIDUAL-RISK CLOSING FORMULA",
+      "structural_type": "risk-control-equation",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RESIDUAL-RISK CLOSING FORMULA",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. RESIDUAL-RISK CLOSING FORMULA",
+          "role": "caution"
+        },
+        {
+          "text": "[1] NAME INHERENT DANGER",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LIST PREVENTIVE CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST CONTROL WEAKNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ADD UNCERTAINTY EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] STATE SURVIVING RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Residual-risk closing formula",
+        "[1] Name inherent danger",
+        "[2] List preventive controls",
+        "[3] Test control weakness"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Residual-risk closing formula",
+            "[1] Name inherent danger",
+            "[2] List preventive controls"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Test control weakness",
+            "[4] Add uncertainty exposure",
+            "[5] State surviving risk",
+            "[6] Choose monitoring indicator"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Name accountable authority",
+            "[8] Set review or trigger date",
+            "VERDICT → Residual risk equals inherent risk reduced by controls, with uncertainty retained.",
+            "ANSWER USE → Use as the final paragraph of every solved case."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Residual risk equals inherent risk reduced by controls, with uncertainty retained.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WRITTEN-ORDER RESPONSE TO PRESSURE",
+      "structural_type": "record-escalate-continue",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WRITTEN-ORDER RESPONSE TO PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. WRITTEN-ORDER RESPONSE TO PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY IMPROPER ORAL DIRECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] RECORD ITS SUBSTANCE PROMPTLY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SEEK WRITTEN CONFIRMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] STATE PROFESSIONAL OBJECTION",
+          "role": "institution"
+        },
+        {
+          "text": "[5] PRESERVE SUPPORTING EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Written-order response to pressure",
+        "[1] Identify improper oral direction",
+        "[2] Record its substance promptly",
+        "[3] Seek written confirmation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Written-order response to pressure",
+            "[1] Identify improper oral direction",
+            "[2] Record its substance promptly"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Seek written confirmation",
+            "[4] State professional objection",
+            "[5] Preserve supporting evidence",
+            "[6] Refer through proper hierarchy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Continue lawful substantive duty",
+            "[8] Escalate impropriety if persistent",
+            "VERDICT → Writing fixes responsibility and converts private resistance into institutional accountability.",
+            "ANSWER USE → Use for ministerial, superior and corporate pressure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Writing fixes responsibility and converts private resistance into institutional accountability.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WHISTLEBLOWING AND DISSENT LADDER",
+      "structural_type": "four-rung-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHISTLEBLOWING AND DISSENT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. WHISTLEBLOWING AND DISSENT LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PRESERVE CREDIBLE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] REPORT TO COMPETENT SUPERIOR",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SKIP A COMPROMISED RECIPIENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] USE INDEPENDENT INTERNAL TIER",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] USE AUTHORISED EXTERNAL CHANNEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Whistleblowing and dissent ladder",
+        "[1] Preserve credible evidence",
+        "[2] Report to competent superior",
+        "[3] Skip a compromised recipient"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Whistleblowing and dissent ladder",
+            "[1] Preserve credible evidence",
+            "[2] Report to competent superior"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Skip a compromised recipient",
+            "[4] Use independent internal tier",
+            "[5] Use authorised external channel",
+            "[6] Protect identity and safety"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Consider public disclosure last",
+            "[8] Review retaliation and follow-up",
+            "VERDICT → Escalate only as far as failure and continuing harm require.",
+            "ANSWER USE → Use when loyalty, secrecy and public interest conflict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Escalate only as far as failure and continuing harm require.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RESIGNATION DECISION TEST",
+      "structural_type": "last-resort-gate",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RESIGNATION DECISION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. RESIGNATION DECISION TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RECORD PERSONAL NON-PARTICIPATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] TEST INTERNAL RESISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST INDEPENDENT ESCALATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ASSESS CONTINUING PUBLIC INFLUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ASSESS COMPLICITY FROM REMAINING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Resignation decision test",
+        "[1] Record personal non-participation",
+        "[2] Test internal resistance",
+        "[3] Test independent escalation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Resignation decision test",
+            "[1] Record personal non-participation",
+            "[2] Test internal resistance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Test independent escalation",
+            "[4] Assess continuing public influence",
+            "[5] Assess complicity from remaining",
+            "[6] Assess impact of departure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Define the resignation trigger",
+            "[8] Resign only if net protection rises",
+            "VERDICT → Resignation is ethical only when it protects the public better than principled service.",
+            "ANSWER USE → Use whenever an option list includes exit from office."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Resignation is ethical only when it protects the public better than principled service.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SCARCE-RESOURCE TRIAGE CYCLE",
+      "structural_type": "criteria-review-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SCARCE-RESOURCE TRIAGE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. SCARCE-RESOURCE TRIAGE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "[1] MEASURE ACTUAL SCARCITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PROTECT LAWFUL BASIC MINIMA",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CHOOSE RELEVANT CRITERIA",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PUBLISH CRITERIA IN ADVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ADD VULNERABILITY SAFEGUARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Scarce-resource triage cycle",
+        "[1] Measure actual scarcity",
+        "[2] Protect lawful basic minima",
+        "[3] Choose relevant criteria"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Scarce-resource triage cycle",
+            "[1] Measure actual scarcity",
+            "[2] Protect lawful basic minima"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Choose relevant criteria",
+            "[4] Publish criteria in advance",
+            "[5] Add vulnerability safeguard",
+            "[6] Record each allocation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Provide rapid review route",
+            "[8] Revise as conditions change",
+            "VERDICT → Transparent criteria are ethically superior to hidden case-by-case discretion.",
+            "ANSWER USE → Use for beds, staff, water, relief and compensation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Transparent criteria are ethically superior to hidden case-by-case discretion.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DOMAIN ADAPTATION MAP",
+      "structural_type": "cross-domain-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOMAIN ADAPTATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. DOMAIN ADAPTATION MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "LAWFUL AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "[2] CORPORATE",
+          "role": "outcome"
+        },
+        {
+          "text": "STAKEHOLDER DUTY",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] RESEARCH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Domain adaptation map",
+        "[1] Administration: lawful authority",
+        "[2] Corporate: stakeholder duty",
+        "[3] Research: consent and truth"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Research: consent and truth",
+          "[7] Technology: privacy and harm"
+        ],
+        [
+          "11. Domain adaptation map",
+          "[4] Health: triage and dignity",
+          "[8] Disaster: continuity and compassion"
+        ],
+        [
+          "[1] Administration: lawful authority",
+          "[5] Police: force and due process",
+          "VERDICT → The architecture stays constant while standards, institutions and evidence change."
+        ],
+        [
+          "[2] Corporate: stakeholder duty",
+          "[6] Environment: future generations",
+          "ANSWER USE → Use to transfer the method without copying remedies blindly."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Domain adaptation map",
+            "[1] Administration: lawful authority",
+            "[2] Corporate: stakeholder duty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Research: consent and truth",
+            "[4] Health: triage and dignity",
+            "[5] Police: force and due process",
+            "[6] Environment: future generations"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Technology: privacy and harm",
+            "[8] Disaster: continuity and compassion",
+            "VERDICT → The architecture stays constant while standards, institutions and evidence change.",
+            "ANSWER USE → Use to transfer the method without copying remedies blindly."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The architecture stays constant while standards, institutions and evidence change.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TIME-BOUND EXAMINER ANSWER SPINE",
+      "structural_type": "answer-clock",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TIME-BOUND EXAMINER ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. TIME-BOUND EXAMINER ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MINUTE ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMAND AND FACTS",
+          "role": "primary"
+        },
+        {
+          "text": "[2] MINUTE TWO",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] MINUTE THREE",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] MINUTES FOUR-SIX",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Time-bound examiner answer spine",
+        "[1] Minute one: demand and facts",
+        "[2] Minute two: stakeholders",
+        "[3] Minute three: constraints"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Time-bound examiner answer spine",
+            "[1] Minute one: demand and facts",
+            "[2] Minute two: stakeholders"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Minute three: constraints",
+            "[4] Minutes four-six: options",
+            "[5] Minutes seven-ten: evaluation",
+            "[6] Minutes eleven-twelve: decision"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Minutes thirteen-fourteen: execution",
+            "[8] Minute fifteen: residual risk",
+            "VERDICT → Compress every element; do not sacrifice the ending to an oversized introduction.",
+            "ANSWER USE → Use as a planning clock for a twenty-mark case."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Compress every element; do not sacrifice the ending to an oversized introduction.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g2\\ethics-22_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-22\\g3\\ethics-22_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1241 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-03",
+  "subject": "Ethics",
+  "title": "ATTITUDE: CONTENT, STRUCTURE AND PERSUASION",
+  "short_route": "THE ABC MODEL: WHAT → HOW ATTITUDES FORM: EXPERIENCE → HOVLAND-YALE PERSUASION: SOURCE, MESSAGE → COGNITIVE DISSONANCE: THREE PATHS → THE ATTITUDE-BEHAVIOUR GAP: WHY → PERSUASION, MANIPULATION AND PROPAGANDA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-03-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "127e26ace4cb7a2de6ca5188dc98836df36e0d17e3596f4cf14889c653e06cf7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE ABC MODEL: WHAT ATTITUDE IS MADE OF",
+      "structural_type": "triad-structure",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE ABC MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT ATTITUDE IS MADE OF",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. THE ABC MODEL",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] ATTITUDE IS A STABLE EVALUATIVE DISPOSITION TOWARD A",
+          "role": "primary"
+        },
+        {
+          "text": "[2] THE COGNITIVE COMPONENT HOLDS BELIEFS AND KNOWLEDGE ABOUT",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] THE AFFECTIVE COMPONENT CARRIES EMOTIONAL CHARGE, POSITIVE OR",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE BEHAVIOURAL COMPONENT IS THE PREDISPOSITION TO ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. The ABC model: what attitude is made of",
+        "[1] Attitude is a stable evaluative disposition toward a specific object.",
+        "[2] The cognitive component holds beliefs and knowledge about the object.",
+        "[3] The affective component carries emotional charge, positive or negative."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. The ABC model: what attitude is made of",
+            "[1] Attitude is a stable evaluative disposition toward a specific object.",
+            "[2] The cognitive component holds beliefs and knowledge about the object."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] The affective component carries emotional charge, positive or negative.",
+            "[4] The behavioural component is the predisposition to act toward the object.",
+            "[5] Attitude is object-specific; value is general and cross-situational.",
+            "[6] Belief is a single cognitive claim; attitude is an evaluative stance."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Aptitude is the trainable capacity to perform a role well.",
+            "[8] The ABC model is associated with Rosenberg and Hovland, 1960.",
+            "VERDICT → Attitude has three components; confusing it with value or aptitude costs marks.",
+            "ANSWER USE → Open any attitude question by defining the ABC model and distinguishing it from value."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Attitude has three components; confusing it with value or aptitude costs marks.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HOW ATTITUDES FORM: EXPERIENCE, LEARNING, REINFORCEMENT",
+      "structural_type": "formation-funnel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW ATTITUDES FORM",
+          "role": "primary"
+        },
+        {
+          "text": "EXPERIENCE, LEARNING, REINFORCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "2. HOW ATTITUDES FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] DIRECT EXPERIENCE WITH AN OBJECT CREATES THE STRONGEST",
+          "role": "primary"
+        },
+        {
+          "text": "[2] SOCIAL LEARNING FROM FAMILY, PEERS AND MEDIA SHAPES",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] REINFORCEMENT THROUGH REPEATED OUTCOMES ATTACHES EVALUATIVE CHARGE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] TWO OFFICERS IN THE SAME OFFICE CAN HOLD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. How attitudes form: experience, learning, reinforcement",
+        "[1] Direct experience with an object creates the strongest initial attitude.",
+        "[2] Social learning from family, peers and media shapes evaluative tendencies.",
+        "[3] Reinforcement through repeated outcomes attaches evaluative charge."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. How attitudes form: experience, learning, reinforcement",
+            "[1] Direct experience with an object creates the strongest initial attitude.",
+            "[2] Social learning from family, peers and media shapes evaluative tendencies."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Reinforcement through repeated outcomes attaches evaluative charge.",
+            "[4] Two officers in the same office can hold opposite attitudes toward the same community.",
+            "[5] Formation explains attitude but does not justify it ethically.",
+            "[6] Training can intervene at any formation pathway to reshape attitude."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] The affective component often resists change even when beliefs shift.",
+            "[8] Institutional incentives can reinforce or corrode attitudes over time.",
+            "VERDICT → Attitudes are formed, not born; understanding formation identifies training targets.",
+            "ANSWER USE → Explain why attitudes differ before prescribing a change mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Explain why attitudes differ before prescribing a change mechanism.",
+      "answer_line": "VERDICT → Attitudes are formed, not born; understanding formation identifies training targets.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "HOVLAND-YALE PERSUASION: SOURCE, MESSAGE, AUDIENCE, CHANNEL",
+      "structural_type": "persuasion-engine",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HOVLAND-YALE PERSUASION",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE, MESSAGE, AUDIENCE, CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. HOVLAND-YALE PERSUASION",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] THE COMMUNICATOR'S CREDIBILITY AND EXPERTISE DETERMINE SOURCE EFFECT.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] THE MESSAGE'S CONTENT, FRAMING AND EMOTIONAL TONE SHAPE",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] THE AUDIENCE'S PREDISPOSITIONS DETERMINE RESISTANCE OR OPENNESS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE CHANNEL OR MEDIUM WAS ADDED LATER FROM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Hovland-Yale persuasion: source, message, audience, channel",
+        "[1] The communicator's credibility and expertise determine source effect.",
+        "[2] The message's content, framing and emotional tone shape reception.",
+        "[3] The audience's predispositions determine resistance or openness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Hovland-Yale persuasion: source, message, audience, channel",
+            "[1] The communicator's credibility and expertise determine source effect.",
+            "[2] The message's content, framing and emotional tone shape reception."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] The audience's predispositions determine resistance or openness.",
+            "[4] The channel or medium was added later from wider communication research.",
+            "[5] ASHA workers delivering vernacular vaccination messages illustrate source credibility.",
+            "[6] A gazette notification to illiterate beneficiaries shows audience-channel mismatch."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Algorithmic micro-targeting transforms the audience variable at scale.",
+            "VERDICT → Effective persuasion activates all variables; the channel is not part of the original Yale triad.",
+            "ANSWER USE → Structure any persuasion or campaign-effectiveness answer around these four variables.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Administrative persuasion must disclose..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Effective persuasion activates all variables; the channel is not part of the original Yale triad.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COGNITIVE DISSONANCE: THREE PATHS, ONE ETHICAL RISK",
+      "structural_type": "decision-fork",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COGNITIVE DISSONANCE",
+          "role": "primary"
+        },
+        {
+          "text": "THREE PATHS, ONE ETHICAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "4. COGNITIVE DISSONANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] DISSONANCE ARISES WHEN BEHAVIOUR CONTRADICTS A HELD ATTITUDE.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] PATH A",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGE THE ATTITUDE TO MATCH THE BEHAVIOUR.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] PATH B",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Cognitive dissonance: three paths, one ethical risk",
+        "[1] Dissonance arises when behaviour contradicts a held attitude.",
+        "[2] Path A: change the attitude to match the behaviour.",
+        "[3] Path B: change future behaviour to match the attitude."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Cognitive dissonance: three paths, one ethical risk",
+            "[1] Dissonance arises when behaviour contradicts a held attitude.",
+            "[2] Path A: change the attitude to match the behaviour."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Path B: change future behaviour to match the attitude.",
+            "[4] Path C: add a self-justifying cognition, the rationalisation path.",
+            "[5] Path C is the ethically dangerous one in administration.",
+            "[6] Small compromises rationalised once consolidate into settled practice."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Ethics review and peer accountability interrupt the rationalisation cycle.",
+            "[8] Whistleblower protection supports officers who choose Path B.",
+            "VERDICT → Rationalisation, not dissonance itself, is the ethical risk multiplier.",
+            "ANSWER USE → Use the three-path framework whenever a question involves value erosion or corruption creep."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Rationalisation, not dissonance itself, is the ethical risk multiplier.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE ATTITUDE-BEHAVIOUR GAP: WHY GOOD ATTITUDES FAIL",
+      "structural_type": "gap-bridge",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE ATTITUDE-BEHAVIOUR GAP",
+          "role": "primary"
+        },
+        {
+          "text": "WHY GOOD ATTITUDES FAIL",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "5. THE ATTITUDE-BEHAVIOUR GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] LAPIERE'S 1934 STUDY SHOWED STATED ATTITUDES PREDICTED SPECIFIC",
+          "role": "primary"
+        },
+        {
+          "text": "[2] SITUATIONAL PRESSURE CAN OVERRIDE EVEN STRONGLY HELD POSITIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] INSTITUTIONAL INCENTIVES MAY REWARD CONDUCT THAT CONTRADICTS DECLARED",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] SOCIAL NORMS IN AN OFFICE CAN NORMALISE CONDUCT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. The attitude-behaviour gap: why good attitudes fail",
+        "[1] LaPiere's 1934 study showed stated attitudes predicted specific acts poorly.",
+        "[2] Situational pressure can override even strongly held positive attitudes.",
+        "[3] Institutional incentives may reward conduct that contradicts declared values."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. The attitude-behaviour gap: why good attitudes fail",
+            "[1] LaPiere's 1934 study showed stated attitudes predicted specific acts poorly.",
+            "[2] Situational pressure can override even strongly held positive attitudes."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Institutional incentives may reward conduct that contradicts declared values.",
+            "[4] Social norms in an office can normalise conduct that individuals privately oppose.",
+            "[5] RTI mandates are a binding external constraint closing the transparency gap.",
+            "[6] Audit trails make discretionary acts accountable to evidence."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Whistleblower protection reduces the cost of acting on principled attitudes.",
+            "[8] Attitude is necessary but insufficient; institutional design is the bridge.",
+            "VERDICT → Close the gap with institutional constraint, not more exhortation.",
+            "ANSWER USE → Use as the limitation paragraph in any answer that praises attitude change."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Use as the limitation paragraph in any answer that praises attitude change.",
+      "answer_line": "VERDICT → Close the gap with institutional constraint, not more exhortation.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PERSUASION, MANIPULATION AND PROPAGANDA: THE ETHICAL SPECTRUM",
+      "structural_type": "gradient-bar",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERSUASION, MANIPULATION AND PROPAGANDA",
+          "role": "primary"
+        },
+        {
+          "text": "THE ETHICAL SPECTRUM",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. PERSUASION, MANIPULATION AND PROPAGANDA",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] PERSUASION RESPECTS AUDIENCE AUTONOMY AND RELIES ON TRUTHFUL",
+          "role": "primary"
+        },
+        {
+          "text": "[2] MANIPULATION EXPLOITS COGNITIVE BIASES OR CONCEALS INTENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] PROPAGANDA USES REPETITION AND EMOTIONAL FRAMING AT SCALE",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] SWACHH BHARAT WALL PAINTINGS WITH IDENTIFIED SPONSORSHIP ARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Persuasion, manipulation and propaganda: the ethical spectrum",
+        "[1] Persuasion respects audience autonomy and relies on truthful argument.",
+        "[2] Manipulation exploits cognitive biases or conceals intent.",
+        "[3] Propaganda uses repetition and emotional framing at scale to bypass critical evaluation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Persuasion, manipulation and propaganda: the ethical spectrum",
+            "[1] Persuasion respects audience autonomy and relies on truthful argument.",
+            "[2] Manipulation exploits cognitive biases or conceals intent."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Propaganda uses repetition and emotional framing at scale to bypass critical evaluation.",
+            "[4] Swachh Bharat wall paintings with identified sponsorship are legitimate persuasion.",
+            "[5] Undisclosed paid influencers suppressing criticism cross the manipulation line.",
+            "[6] Fear-based state campaigns without disclosure shade toward propaganda."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] The ethical test is transparency of intent and audience autonomy.",
+            "[8] The same digital channel enables both legitimate information and disinformation.",
+            "VERDICT → Label the practice precisely: persuasion, manipulation or propaganda, then justify.",
+            "ANSWER USE → Apply this spectrum to any social-media, campaign or information-governance question."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → Label the practice precisely: persuasion, manipulation or propaganda, then justify.",
+      "answer_line": "ANSWER USE → Apply this spectrum to any social-media, campaign or information-governance question.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MORAL ATTITUDE VERSUS POLITICAL ATTITUDE",
+      "structural_type": "dual-column-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MORAL ATTITUDE VERSUS POLITICAL ATTITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. MORAL ATTITUDE VERSUS POLITICAL ATTITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MORAL ATTITUDE JUDGES RIGHT AND WRONG ACROSS CONTEXTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] POLITICAL ATTITUDE EVALUATES PARTIES AND POWER CONTESTS; IT",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] CCS CONDUCT RULES 1964, RULE 5 RESTRICTS POLITICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CCS CONDUCT RULES 1964, RULE 7 RESTRICTS ELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] NON-PARTISANSHIP COVERS OFFICIAL CONDUCT, NOT PRIVATE BELIEF OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Moral attitude versus political attitude",
+        "[1] Moral attitude judges right and wrong across contexts; it must be retained.",
+        "[2] Political attitude evaluates parties and power contests; it must be bracketed.",
+        "[3] CCS Conduct Rules 1964, Rule 5 restricts political participation."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] CCS Conduct Rules 1964, Rule 5 restricts political participation.",
+          "[7] Moral objection framed in law and public interest is principled dissent."
+        ],
+        [
+          "7. Moral attitude versus political attitude",
+          "[4] CCS Conduct Rules 1964, Rule 7 restricts election canvassing.",
+          "VERDICT → Retain moral judgement; bracket political preference; distinguish duty from partisanship."
+        ],
+        [
+          "[1] Moral attitude judges right and wrong across contexts; it must be retained.",
+          "[5] Non-partisanship covers official conduct, not private belief or voting.",
+          "ANSWER USE → Use whenever a question tests impartiality, neutrality or the limits of official conduct."
+        ],
+        [
+          "[2] Political attitude evaluates parties and power contests; it must be bracketed.",
+          "[6] Policy awareness and candid briefing are duties, not partisan acts.",
+          "MUST REMEMBER: Attitude has cognitive, affective and behavioural components, while..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Moral attitude versus political attitude",
+            "[1] Moral attitude judges right and wrong across contexts; it must be retained.",
+            "[2] Political attitude evaluates parties and power contests; it must be bracketed."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] CCS Conduct Rules 1964, Rule 5 restricts political participation.",
+            "[4] CCS Conduct Rules 1964, Rule 7 restricts election canvassing.",
+            "[5] Non-partisanship covers official conduct, not private belief or voting.",
+            "[6] Policy awareness and candid briefing are duties, not partisan acts."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Moral objection framed in law and public interest is principled dissent.",
+            "VERDICT → Retain moral judgement; bracket political preference; distinguish duty from partisanship.",
+            "ANSWER USE → Use whenever a question tests impartiality, neutrality or the limits of official conduct.",
+            "MUST REMEMBER: Attitude has cognitive, affective and behavioural components, while..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Retain moral judgement; bracket political preference; distinguish duty from partisanship.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POSITIVE VERSUS NEGATIVE MINDSET IN RULE INTERPRETATION",
+      "structural_type": "dual-lens-panel",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "POSITIVE VERSUS NEGATIVE MINDSET IN RULE INTERPRETATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. POSITIVE VERSUS NEGATIVE MINDSET IN RULE INTERPRETATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] A POSITIVE MINDSET READS RULES WITH THEIR PUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] A NEGATIVE MINDSET TREATS RULES AS OBSTACLES OR",
+          "role": "primary"
+        },
+        {
+          "text": "[3] A FACILITATIVE OFFICER HELPS CORRECT A CURABLE DOCUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] A CYNICAL OFFICER EXPLOITS AMBIGUITY TO DEMAND INFORMAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] POSITIVE INTERPRETATION ENABLES FAIR ACCESS WITHOUT IGNORING MANDATORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Positive versus negative mindset in rule interpretation",
+        "[1] A positive mindset reads rules with their public purpose in view.",
+        "[2] A negative mindset treats rules as obstacles or sources of discretionary power.",
+        "[3] A facilitative officer helps correct a curable document error."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Positive versus negative mindset in rule interpretation",
+            "[1] A positive mindset reads rules with their public purpose in view.",
+            "[2] A negative mindset treats rules as obstacles or sources of discretionary power."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] A facilitative officer helps correct a curable document error.",
+            "[4] A cynical officer exploits ambiguity to demand informal payment.",
+            "[5] Positive interpretation enables fair access without ignoring mandatory conditions.",
+            "[6] Negative interpretation produces delay, denial and extraction."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Stress amplifies the dominant mindset in crisis situations.",
+            "[8] Purposive but accountable reading avoids both literalism and arbitrary benevolence.",
+            "VERDICT → Read rules with purpose, apply with accountability, explain with reasons.",
+            "ANSWER USE → Apply this dual-lens to any question about discretion, mindset or citizen-facing service."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Read rules with purpose, apply with accountability, explain with reasons.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ATTITUDE MALLEABILITY: WILLIAM JAMES AND TRAINING DESIGN",
+      "structural_type": "circular-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ATTITUDE MALLEABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "WILLIAM JAMES AND TRAINING DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "9. ATTITUDE MALLEABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] THE MALLEABILITY PRINCIPLE HOLDS THAT ATTITUDES ARE REVISABLE",
+          "role": "primary"
+        },
+        {
+          "text": "[2] REFLECTION, FIELD IMMERSION AND MENTORING RESHAPE EVALUATIVE STANCES.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] MISSION KARMAYOGI MODULES TARGET COGNITIVE AND AFFECTIVE COMPONENTS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] FOUNDATION-COURSE IMMERSION IN UNDERSERVED COMMUNITIES BUILDS EMPATHY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Attitude malleability: William James and training design",
+        "[1] The malleability principle holds that attitudes are revisable, not fixed.",
+        "[2] Reflection, field immersion and mentoring reshape evaluative stances.",
+        "[3] Mission Karmayogi modules target cognitive and affective components."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Attitude malleability: William James and training design",
+            "[1] The malleability principle holds that attitudes are revisable, not fixed.",
+            "[2] Reflection, field immersion and mentoring reshape evaluative stances."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Mission Karmayogi modules target cognitive and affective components.",
+            "[4] Foundation-course immersion in underserved communities builds empathy.",
+            "[5] Malleability is not victim-blaming: structural constraints need structural reform.",
+            "[6] Periodic refresher training prevents cynicism and value erosion."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Provenance caution: the attributed William James sentence is not traceable to his writings.",
+            "VERDICT → Attitudes can be changed; the change endures only with institutional reinforcement.",
+            "ANSWER USE → Use for any question about training, attitude change, or the William James quotation.",
+            "CLOSE DISTINCTION: Persuasion is reason-giving or influence that preserves agency;..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Attitudes can be changed; the change endures only with institutional reinforcement.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTITUTIONAL CLOSURE: CODES, CONSTRAINTS AND THE RESIDUAL GAP",
+      "structural_type": "complementary-pillars",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL CLOSURE",
+          "role": "primary"
+        },
+        {
+          "text": "CODES, CONSTRAINTS AND THE RESIDUAL GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "10. INSTITUTIONAL CLOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] PERSUASION-BASED REFORM IS SLOWER BUT MORE DURABLE ONCE",
+          "role": "primary"
+        },
+        {
+          "text": "[2] RULE-BASED CONSTRAINT IS FASTER BUT RISKS BOX-TICKING COMPLIANCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] CODE OF ETHICS TARGETS INTERNALISED COMMITMENT; CODE OF",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] RTI, AUDIT TRAILS AND WHISTLEBLOWER PROTECTION ARE BINDING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Institutional closure: codes, constraints and the residual gap",
+        "[1] Persuasion-based reform is slower but more durable once internalised.",
+        "[2] Rule-based constraint is faster but risks box-ticking compliance.",
+        "[3] Code of ethics targets internalised commitment; code of conduct targets external compliance."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Institutional closure: codes, constraints and the residual gap",
+            "[1] Persuasion-based reform is slower but more durable once internalised.",
+            "[2] Rule-based constraint is faster but risks box-ticking compliance."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Code of ethics targets internalised commitment; code of conduct targets external compliance.",
+            "[4] RTI, audit trails and whistleblower protection are binding constraints.",
+            "[5] Training without institutional reform becomes a box-ticking exercise.",
+            "[6] Institutional constraint without attitude change reverts when monitoring relaxes."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] The administrator must calibrate both strategies to the governance context.",
+            "[8] Durable ethical conduct requires values contained within institutions.",
+            "VERDICT → Neither persuasion alone nor constraint alone suffices; both must be calibrated together.",
+            "ANSWER USE → Close any attitude-change answer with the institutional-closure qualification."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → Neither persuasion alone nor constraint alone suffices; both must be calibrated together.",
+      "answer_line": "ANSWER USE → Close any attitude-change answer with the institutional-closure qualification.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TRAP DETECTION: WHAT COSTS MARKS IN ATTITUDE QUESTIONS",
+      "structural_type": "contrast-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRAP DETECTION",
+          "role": "caution"
+        },
+        {
+          "text": "WHAT COSTS MARKS IN ATTITUDE QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "11. TRAP DETECTION",
+          "role": "caution"
+        },
+        {
+          "text": "[1] ATTITUDE AND VALUE ARE RELATED BUT NOT IDENTICAL",
+          "role": "caution"
+        },
+        {
+          "text": "VALUE IS BROADER.",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] POSITIVE ATTITUDE DOES NOT GUARANTEE ETHICAL BEHAVIOUR",
+          "role": "caution"
+        },
+        {
+          "text": "GAP EXISTS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Trap detection: what costs marks in attitude questions",
+        "[1] Attitude and value are related but not identical: value is broader.",
+        "[2] Positive attitude does not guarantee ethical behaviour: gap exists.",
+        "[3] Persuasion is not inherently unethical: it depends on truthfulness."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Persuasion is not inherently unethical: it depends on truthfulness.",
+          "[7] Channel is not part of the original Hovland-Yale 1953 triad."
+        ],
+        [
+          "11. Trap detection: what costs marks in attitude questions",
+          "[4] Strong attitude does not always predict behaviour: situational override.",
+          "[8] Non-partisanship does not require enforced political blankness of mind."
+        ],
+        [
+          "[1] Attitude and value are related but not identical: value is broader.",
+          "[5] Dissonance is not always resolved ethically: rationalisation is common.",
+          "VERDICT → The trap is always an absolute claim where the correct position is qualified."
+        ],
+        [
+          "[2] Positive attitude does not guarantee ethical behaviour: gap exists.",
+          "[6] Persuasion and manipulation are not ethically identical: autonomy differs.",
+          "ANSWER USE → Scan each MCQ option for unqualified absolutes before selecting the answer."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Trap detection: what costs marks in attitude questions",
+            "[1] Attitude and value are related but not identical: value is broader.",
+            "[2] Positive attitude does not guarantee ethical behaviour: gap exists."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Persuasion is not inherently unethical: it depends on truthfulness.",
+            "[4] Strong attitude does not always predict behaviour: situational override.",
+            "[5] Dissonance is not always resolved ethically: rationalisation is common.",
+            "[6] Persuasion and manipulation are not ethically identical: autonomy differs."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Channel is not part of the original Hovland-Yale 1953 triad.",
+            "[8] Non-partisanship does not require enforced political blankness of mind.",
+            "VERDICT → The trap is always an absolute claim where the correct position is qualified.",
+            "ANSWER USE → Scan each MCQ option for unqualified absolutes before selecting the answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The trap is always an absolute claim where the correct position is qualified.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ SYNTHESIS AND ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ SYNTHESIS AND ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. PYQ SYNTHESIS AND ANSWER ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] 2020 Q4(B) TESTED POSITIVE ATTITUDE UNDER STRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "USE ABC MODEL AND CRISIS EXAMPLE.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] 2021 Q4(A) TESTED BUILDING SUITABLE ATTITUDE",
+          "role": "outcome"
+        },
+        {
+          "text": "USE FORMATION PATHWAYS AND TRAINING DESIGN.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] 2022 Q2(A) TESTED POSITIVE VERSUS NEGATIVE MINDSET",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. PYQ synthesis and answer architecture",
+        "[1] 2020 Q4(b) tested positive attitude under stress: use ABC model and crisis example.",
+        "[2] 2021 Q4(a) tested building suitable attitude: use formation pathways and training design.",
+        "[3] 2022 Q2(a) tested positive versus negative mindset: use dual-lens rule-interpretation frame."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. PYQ synthesis and answer architecture",
+            "[1] 2020 Q4(b) tested positive attitude under stress: use ABC model and crisis example.",
+            "[2] 2021 Q4(a) tested building suitable attitude: use formation pathways and training design."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] 2022 Q2(a) tested positive versus negative mindset: use dual-lens rule-interpretation frame.",
+            "[4] 2025 Q3(b) tested William James malleability: use provenance caution and institutional support.",
+            "[5] 2025 Q1(a) tested social-media ethics: use persuasion-at-scale and Hovland-Yale variables.",
+            "[6] Define attitude via ABC before applying it to the scenario."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Always note the attitude-behaviour gap as a qualification.",
+            "VERDICT → Every attitude answer moves from definition to mechanism, example, gap and institutional closure.",
+            "ANSWER USE → Use as the final revision checklist before writing any GS-IV attitude answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Every attitude answer moves from definition to mechanism, example, gap and institutional closure.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g2\\ethics-03_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-03\\g3\\ethics-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND POLICY APPLICATION",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and policy application"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

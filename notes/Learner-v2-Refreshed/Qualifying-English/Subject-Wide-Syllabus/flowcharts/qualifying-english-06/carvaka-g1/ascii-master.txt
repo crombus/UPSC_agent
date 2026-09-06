@@ -1,0 +1,74 @@
++----------------------------------------------------------------------------------+
+| PANEL 01 — READ THE COMMAND                                                      |
+| Identify literal, inference, tone, purpose, reference, context meaning or        |
+| multipart demand.                                                                |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 02 — MAP THE PASSAGE                                                       |
+| Mark thesis, reasons, examples, contrasts, qualifications and conclusion.        |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 03 — LOCATE SUPPORT                                                        |
+| Tie each answer to explicit words or a minimally extended inference.             |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 04 — CONTROL SCOPE                                                         |
+| Reject outside knowledge, overstatement, reversal and half-true options.         |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 05 — ANSWER MULTIPART QUESTIONS                                            |
+| List every limb and allocate space before drafting.                              |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 06 — CALIBRATE TONE AND PURPOSE                                            |
+| Name stance and function, then support both.                                     |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 07 — PRÉCIS RATIO                                                          |
+| Calculate the instructed target and recount after revision.                      |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 08 — IDEA-UNIT SELECTION                                                   |
+| Keep thesis, major reasons, concessions and verdict; remove illustration and     |
+| repetition.                                                                      |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 09 — PARAPHRASE                                                            |
+| Change structure and wording without changing technical meaning.                 |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 10 — COHERENCE AND INDIRECT STYLE                                          |
+| Connect idea units as independent prose and convert quoted claims where          |
+| needed.                                                                          |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 11 — TITLE INSTRUCTION                                                     |
+| Obey give-title, no-title or no-suggest-title wording literally.                 |
++----------------------------------------------------------------------------------+
+        |
+        v
++----------------------------------------------------------------------------------+
+| PANEL 12 — FINAL FIDELITY AUDIT                                                  |
+| Check coverage, compression, independence, coherence, correctness and zero       |
+| added opinion.                                                                   |
++----------------------------------------------------------------------------------+

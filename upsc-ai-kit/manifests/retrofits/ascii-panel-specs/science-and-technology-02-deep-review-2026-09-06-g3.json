@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "science-and-technology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "science_review_controls": true
+  },
+  "topics": [
+    {
+      "topic_key": "science-and-technology-02",
+      "display_title": "Satellites, NavIC, GAGAN and Applications",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Satellite service taxonomy",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "EARTH OBSERVATION -> sensed Earth data and derived products",
+            "COMMUNICATION -> relay through transponders and ground networks",
+            "METEOROLOGY -> imaging, sounding, relay and warning support",
+            "NAVIGATION -> position, navigation and timing signals",
+            "RULE -> payload and service define the class"
+          ],
+          "source_references": [
+            "Satellite-class boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Orbit-service matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GEO -> continuous regional view and fixed ground geometry",
+            "IGSO / GSO -> daily-period geometry with changing sky position",
+            "POLAR LEO -> repeated high-inclination Earth coverage",
+            "SUN-SYNCHRONOUS LEO -> near-constant local-solar-time imaging",
+            "RULE -> orbit enables service but does not name the payload"
+          ],
+          "source_references": [
+            "Orbit-service boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "End-to-end segment chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SPACE SEGMENT -> satellite bus and mission payload",
+            "CONTROL SEGMENT -> tracking, command and health management",
+            "PROCESSING SEGMENT -> correction, calibration or data products",
+            "USER SEGMENT -> receiver, department or operational workflow",
+            "OUTCOME -> useful service only after all segments function"
+          ],
+          "source_references": [
+            "Segment boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Observation-to-decision rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SENSOR -> records reflected or emitted energy",
+            "DOWNLINK -> sends measurements to a ground station",
+            "PROCESSING -> calibration, correction and product generation",
+            "USER AGENCY -> interprets the product",
+            "DECISION -> mapping, crop, water, warning or response action"
+          ],
+          "source_references": [
+            "Remote-sensing chain",
+            "Meteorology chain",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Communication relay loop",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "UPLINK -> terrestrial station sends a signal",
+            "TRANSPONDER -> receives, shifts, amplifies and retransmits",
+            "DOWNLINK -> signal reaches a service footprint",
+            "GROUND NETWORK -> routes content to final users",
+            "RULE -> satellite capacity is not the same as delivered access"
+          ],
+          "source_references": [
+            "Communication chain",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "NavIC system map",
+          "structural_type": "systems-map",
+          "ascii_lines": [
+            "REGIONAL CONSTELLATION -> independent Indian PNT source",
+            "GEO PLUS IGSO DESIGN -> nominal regional geometry",
+            "CONTROL SEGMENT -> orbit and clock monitoring",
+            "USER RECEIVER -> measures signal travel time",
+            "RULE -> nominal design is not dated functional health"
+          ],
+          "source_references": [
+            "NavIC-system boundary",
+            "NavIC-geometry boundary",
+            "PNT-mechanism boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "NavIC service and signal stack",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "SPS -> open positioning service",
+            "RS -> encrypted service for authorised users",
+            "L5 / S -> original signal layers in owner",
+            "L1 -> mass-market interoperability direction",
+            "RULE -> payload support does not prove device adoption"
+          ],
+          "source_references": [
+            "NavIC-service boundary",
+            "Signal-band boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Constellation-health firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LAUNCHED -> cumulative mission count",
+            "INTENDED ORBIT -> orbit-raising completed",
+            "OPERATIONAL -> spacecraft performing a stated function",
+            "PNT CAPABLE -> full navigation service contribution",
+            "MESSAGE BROADCAST -> useful but not equivalent to PNT"
+          ],
+          "source_references": [
+            "Launch-health boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "GAGAN correction chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "REFERENCE STATIONS -> measure GNSS error",
+            "MASTER CONTROL -> computes correction and integrity",
+            "UPLINK STATIONS -> send augmentation message",
+            "GEO PAYLOAD -> rebroadcasts over a wide area",
+            "AIRCRAFT RECEIVER -> applies correction and checks integrity"
+          ],
+          "source_references": [
+            "GAGAN-system boundary",
+            "SBAS architecture",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Accuracy-integrity gate",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ACCURACY -> estimated position close to true position",
+            "INTEGRITY -> warning when information must not be used",
+            "TIME TO ALERT -> warning must arrive within a safe interval",
+            "AVIATION USE -> certification governs operational acceptance",
+            "RULE -> a precise signal without integrity is unsafe",
+            "MUST REMEMBER: Satellite analysis joins orbit, bus, payload, ground segment and...",
+            "MUST REMEMBER: Satellite analysis joins orbit, bus, payload, ground segment and..."
+          ],
+          "source_references": [
+            "Integrity-accuracy boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "SBAS-GBAS institution map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SBAS -> wide-area corrections rebroadcast from satellites",
+            "GBAS -> local airport corrections broadcast from the ground",
+            "ISRO + AAI -> GAGAN development partnership",
+            "AAI -> aviation operational role",
+            "DGCA -> aviation certification role",
+            "CLOSE DISTINCTION: NavIC is India's regional satellite-navigation system, while GAGAN is...",
+            "CLOSE DISTINCTION: NavIC is India's regional satellite-navigation system, while GAGAN is..."
+          ],
+          "source_references": [
+            "SBAS-GBAS boundary",
+            "Institution-role boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Public-value answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY -> observation communication meteorology PNT or augmentation",
+            "TRACE -> space ground processing and user segments",
+            "DISTINGUISH -> NavIC constellation from GAGAN SBAS",
+            "TEST -> standards adoption integrity privacy jamming and spoofing",
+            "VERIFY -> dated health frequency coverage accuracy and certification",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State constellation/service area, orbit,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State constellation/service area, orbit,..."
+          ],
+          "source_references": [
+            "Application-outcome boundary",
+            "Privacy-resilience boundary",
+            "Volatile constellation boundary",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g2\\science-and-technology-02_Complete-Learning-Session_2026-09-04.md",
+            "upsc-ai-kit\\knowledge\\Science-and-Technology\\learning-sessions\\v2\\subject-wide-syllabus\\science-and-technology-02_Learning-Session.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-02\\g3\\science-and-technology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

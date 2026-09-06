@@ -1,0 +1,1106 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-07",
+  "subject": "Essay",
+  "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+  "short_route": "MACRO-STRUCTURE, PARAGRAPH FLOW AND → MACRO-STRUCTURE, PARAGRAPH FLOW AND → MACRO-STRUCTURE, PARAGRAPH FLOW AND → MACRO-STRUCTURE, PARAGRAPH FLOW AND → MACRO-STRUCTURE, PARAGRAPH FLOW AND → MACRO-STRUCTURE, PARAGRAPH FLOW AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-07\\g1\\essay-07_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-07-2026-09-06-sequential.json",
+  "ascii_spec_sha256": "92d1b021557053ddc68dd88943cdcc7dcaa7cdb17ffd1876416765b86df3b5f2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: PROMPT AND SCOPE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PROMPT AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS THE ESSAY'S OVERALL SHAPE AND HOW",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "A 1000–1200-WORD ESSAY TYPICALLY WORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a 1000–1200-word essay typically works",
+        "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have",
+        "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned",
+        "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a 1000–1200-word essay typically works"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have,",
+            "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 1 → Prompt and scope must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: CONCEPT HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONCEPT HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. HOW MANY ARGUMENT-MAP CYCLES (FROM 05) DO I",
+          "role": "evidence"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "primary"
+        },
+        {
+          "text": "THIS BASE PLAN HAS 9 PARAGRAPHS ; ONE OR",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSONAL RESTRAINT LIMITS ABUSE WHEN NOBODY IS WATCH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have",
+        "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned",
+        "DIMENSION-EXPANSION GRID — 2 → PERSONAL RESTRAINT limits abuse when nobody is watch",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Assign one recalled Indian illustration per paragrap",
+        "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have,",
+            "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION-EXPANSION GRID — 2 → PERSONAL RESTRAINT limits abuse when nobody is watch",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Assign one recalled Indian illustration per paragrap"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 2 → Concept hierarchy must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "Dimension-expansion grid",
+        "Dimension-expansion grid — 2",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: DIMENSION MATRIX",
+      "structural_type": "matrix",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIMENSION MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSONAL RESTRAINT LIMITS ABUSE WHEN NOBODY IS WATCH",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA-FIRST ILLUSTRATION STARTERS",
+          "role": "primary"
+        },
+        {
+          "text": "ASSIGN ONE RECALLED INDIAN ILLUSTRATION PER PARAGRAP",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CHOSEN THESIS (05) SHOULD BE TRACEABLE THROUGH E",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIMENSION-EXPANSION GRID — 2 → PERSONAL RESTRAINT limits abuse when nobody is watch",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Assign one recalled Indian illustration per paragrap",
+        "THESIS OPTIONS AND SELECTION → The chosen thesis (05) should be traceable through e",
+        "SIMPLE ESSAY ARCHITECTURE → Use Section 6's grid as a literal paragraph-by-parag",
+        "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "DIMENSION-EXPANSION GRID — 2 → PERSONAL RESTRAINT limits abuse when nobody is watch",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Assign one recalled Indian illustration per paragrap"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → The chosen thesis (05) should be traceable through e",
+            "SIMPLE ESSAY ARCHITECTURE → Use Section 6's grid as a literal paragraph-by-parag"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+            "DIMENSION-EXPANSION GRID — 2 → PERSONAL RESTRAINT limits abuse when nobody is watch"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 3 → Dimension matrix must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Dimension-expansion grid — 2",
+        "India-first illustration starters",
+        "Thesis options and selection",
+        "Simple essay architecture"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: DECISION GATE",
+      "structural_type": "decision-tree",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "DECISION GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "THESIS OPTIONS AND SELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CHOSEN THESIS (05) SHOULD BE TRACEABLE THROUGH E",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE ESSAY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "USE SECTION 6'S GRID AS A LITERAL PARAGRAPH-BY-PARAG",
+          "role": "outcome"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH BODY PARAGRAPH SHOULD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS OPTIONS AND SELECTION → The chosen thesis (05) should be traceable through e",
+        "SIMPLE ESSAY ARCHITECTURE → Use Section 6's grid as a literal paragraph-by-parag",
+        "OPENING, BODY AND CLOSURE MOVES → Each body paragraph should: (a) open with a transiti",
+        "TRAPS AND REPAIR MOVES → Repair: add explicit transitions referencing the pre",
+        "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "THESIS OPTIONS AND SELECTION → The chosen thesis (05) should be traceable through e",
+            "SIMPLE ESSAY ARCHITECTURE → Use Section 6's grid as a literal paragraph-by-parag"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Each body paragraph should: (a) open with a transiti",
+            "TRAPS AND REPAIR MOVES → Repair: add explicit transitions referencing the pre"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+            "THESIS OPTIONS AND SELECTION → The chosen thesis (05) should be traceable through e"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 4 → Decision gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Thesis options and selection",
+        "Simple essay architecture",
+        "Opening, body and closure moves",
+        "Traps and repair moves"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: MECHANISM CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "MECHANISM CHAIN",
+          "role": "mechanism"
+        },
+        {
+          "text": "OPENING, BODY AND CLOSURE MOVES",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH BODY PARAGRAPH SHOULD",
+          "role": "evidence"
+        },
+        {
+          "text": "(A) OPEN WITH A TRANSITI",
+          "role": "primary"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES",
+          "role": "outcome"
+        },
+        {
+          "text": "ADD EXPLICIT TRANSITIONS REFERENCING THE PRE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPENING, BODY AND CLOSURE MOVES → Each body paragraph should: (a) open with a transiti",
+        "TRAPS AND REPAIR MOVES → Repair: add explicit transitions referencing the pre",
+        "TRAPS AND REPAIR MOVES — 2 → → Repair: include a substantive counter-view where i",
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any argument map from 05, write",
+        "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "OPENING, BODY AND CLOSURE MOVES → Each body paragraph should: (a) open with a transiti",
+            "TRAPS AND REPAIR MOVES → Repair: add explicit transitions referencing the pre"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 2 → → Repair: include a substantive counter-view where i",
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any argument map from 05, write"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+            "OPENING, BODY AND CLOSURE MOVES → Each body paragraph should: (a) open with a transiti"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 5 → Mechanism chain must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Opening, body and closure moves",
+        "Traps and repair moves",
+        "Traps and repair moves — 2",
+        "Timed micro-drill and self-check"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: COUNTER-VIEW AND SYNTHESIS",
+      "structural_type": "dialectic",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS AND REPAIR MOVES — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "→ REPAIR",
+          "role": "evidence"
+        },
+        {
+          "text": "INCLUDE A SUBSTANTIVE COUNTER-VIEW WHERE I",
+          "role": "primary"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK",
+          "role": "outcome"
+        },
+        {
+          "text": "5-MINUTE DRILL",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR ANY ARGUMENT MAP FROM 05, WRITE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS AND REPAIR MOVES — 2 → → Repair: include a substantive counter-view where i",
+        "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any argument map from 05, write",
+        "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Could two of your body paragraphs be swa",
+        "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for macro-sequence, paragr",
+        "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "TRAPS AND REPAIR MOVES — 2 → → Repair: include a substantive counter-view where i",
+            "TIMED MICRO-DRILL AND SELF-CHECK → 5-minute drill: For any argument map from 05, write"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Could two of your body paragraphs be swa",
+            "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for macro-sequence, paragr"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+            "TRAPS AND REPAIR MOVES — 2 → → Repair: include a substantive counter-view where i"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 6 → Counter-view and synthesis must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Traps and repair moves — 2",
+        "Timed micro-drill and self-check",
+        "Timed micro-drill and self-check — 2",
+        "Semantic-completeness repair — 6 September 2026"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: CLOSE-OPTION DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLOSE-OPTION DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMED MICRO-DRILL AND SELF-CHECK —",
+          "role": "comparison"
+        },
+        {
+          "text": "COULD TWO OF YOUR BODY PARAGRAPHS BE SWA",
+          "role": "evidence"
+        },
+        {
+          "text": "SEMANTIC-COMPLETENESS REPAIR — 6 S",
+          "role": "primary"
+        },
+        {
+          "text": "THIS OWNER IS RESPONSIBLE FOR MACRO-SEQUENCE, PARAGR",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "A TRANSITION IS STRONG WHEN REMOVING IT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Could two of your body paragraphs be swa",
+        "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for macro-sequence, paragr",
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a transition is strong when removing it",
+        "CONCEPT DEFINITION AND TAXONOMY → specific qualification or claim and shows why it lea",
+        "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Could two of your body paragraphs be swa",
+            "SEMANTIC-COMPLETENESS REPAIR — 6 S → This owner is responsible for macro-sequence, paragr"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a transition is strong when removing it",
+            "CONCEPT DEFINITION AND TAXONOMY → specific qualification or claim and shows why it lea"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+            "TIMED MICRO-DRILL AND SELF-CHECK — → Self-check: Could two of your body paragraphs be swa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 7 → Close-option distinctions must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Timed micro-drill and self-check — 2",
+        "Semantic-completeness repair — 6 September 2026",
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: EVIDENCE-STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED PROPOSITION AND BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "A TRANSITION IS STRONG WHEN REMOVING IT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIFIC QUALIFICATION OR CLAIM AND SHOWS WHY IT LEA",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "PARAGRAPH'S THREE COMPONENTS (CLAIM, DEVELOPMENT, LI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a transition is strong when removing it",
+        "CONCEPT DEFINITION AND TAXONOMY → specific qualification or claim and shows why it lea",
+        "CONCEPT DEFINITION AND TAXONOMY — → paragraph's three components (claim, development, li",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → 1000–1200 words is itself sufficient; in fact each p",
+        "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a transition is strong when removing it",
+            "CONCEPT DEFINITION AND TAXONOMY → specific qualification or claim and shows why it lea"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → paragraph's three components (claim, development, li",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → 1000–1200 words is itself sufficient; in fact each p"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+            "ADVANCED PROPOSITION AND BOUNDARY → Proposition: a transition is strong when removing it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 8 → Evidence-status ladder must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Advanced proposition and boundary",
+        "Concept definition and taxonomy",
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: CROSS-SCALE SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CROSS-SCALE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPT DEFINITION AND TAXONOMY —",
+          "role": "comparison"
+        },
+        {
+          "text": "PARAGRAPH'S THREE COMPONENTS (CLAIM, DEVELOPMENT, LI",
+          "role": "evidence"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "primary"
+        },
+        {
+          "text": "1000–1200 WORDS IS ITSELF SUFFICIENT; IN FACT EACH P",
+          "role": "outcome"
+        },
+        {
+          "text": "UNCONNECTED TOPICS CAN LOOK \"COMPREHENSIVE\" WHILE AC",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTION; IT REAPPEARS HERE AS A SEQUENCING PROBLEM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONCEPT DEFINITION AND TAXONOMY — → paragraph's three components (claim, development, li",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → 1000–1200 words is itself sufficient; in fact each p",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → unconnected topics can look \"comprehensive\" while ac",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → selection; it reappears here as a sequencing problem",
+        "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "CONCEPT DEFINITION AND TAXONOMY — → paragraph's three components (claim, development, li",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → 1000–1200 words is itself sufficient; in fact each p"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → unconnected topics can look \"comprehensive\" while ac",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → selection; it reappears here as a sequencing problem"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+            "CONCEPT DEFINITION AND TAXONOMY — → paragraph's three components (claim, development, li"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 9 → Cross-scale system must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Concept definition and taxonomy — 2",
+        "Tension pairs and hidden assumptions",
+        "Tension pairs and hidden assumptions — 2",
+        "Tension pairs and hidden assumptions — 3"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: ARGUMENT ARCHITECTURE",
+      "structural_type": "argument-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARGUMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TENSION PAIRS AND HIDDEN ASSUMPTIO",
+          "role": "comparison"
+        },
+        {
+          "text": "UNCONNECTED TOPICS CAN LOOK \"COMPREHENSIVE\" WHILE AC",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTION; IT REAPPEARS HERE AS A SEQUENCING PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS TOPIC COVERS THE ESSAY'S OVERALL SHAPE AND HOW",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → unconnected topics can look \"comprehensive\" while ac",
+        "TENSION PAIRS AND HIDDEN ASSUMPTIO → selection; it reappears here as a sequencing problem",
+        "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a 1000–1200-word essay typically works",
+        "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → unconnected topics can look \"comprehensive\" while ac",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → selection; it reappears here as a sequencing problem"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a 1000–1200-word essay typically works"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+            "TENSION PAIRS AND HIDDEN ASSUMPTIO → unconnected topics can look \"comprehensive\" while ac"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 10 → Argument architecture must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Tension pairs and hidden assumptions — 2",
+        "Tension pairs and hidden assumptions — 3",
+        "Purpose and scope",
+        "The central idea and common misreading"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: FAILURE AND REPAIR GATE",
+      "structural_type": "quality-gate",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "FAILURE AND REPAIR GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE AND SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS TOPIC COVERS THE ESSAY'S OVERALL SHAPE AND HOW",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CENTRAL IDEA AND COMMON MISREA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "A 1000–1200-WORD ESSAY TYPICALLY WORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how",
+        "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a 1000–1200-word essay typically works",
+        "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have",
+        "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned",
+        "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how",
+            "THE CENTRAL IDEA AND COMMON MISREA → Central idea: a 1000–1200-word essay typically works"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have,",
+            "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+            "PURPOSE AND SCOPE → This topic covers the essay's overall shape and how"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 11 → Failure and repair gate must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Purpose and scope",
+        "The central idea and common misreading",
+        "Basic decomposition questions",
+        "Dimension-expansion grid"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS: COMPLETE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MACRO-STRUCTURE, PARAGRAPH FLOW AND TRANSITIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPLETE ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC DECOMPOSITION QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. HOW MANY ARGUMENT-MAP CYCLES (FROM 05) DO I",
+          "role": "evidence"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID",
+          "role": "primary"
+        },
+        {
+          "text": "THIS BASE PLAN HAS 9 PARAGRAPHS ; ONE OR",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION-EXPANSION GRID — 2",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSONAL RESTRAINT LIMITS ABUSE WHEN NOBODY IS WATCH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have",
+        "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned",
+        "DIMENSION-EXPANSION GRID — 2 → PERSONAL RESTRAINT limits abuse when nobody is watch",
+        "INDIA-FIRST ILLUSTRATION STARTERS → Assign one recalled Indian illustration per paragrap",
+        "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have,",
+            "DIMENSION-EXPANSION GRID → This base plan has 9 paragraphs ; one or two earned"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "DIMENSION-EXPANSION GRID — 2 → PERSONAL RESTRAINT limits abuse when nobody is watch",
+            "INDIA-FIRST ILLUSTRATION STARTERS → Assign one recalled Indian illustration per paragrap"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+            "BASIC DECOMPOSITION QUESTIONS → 1. How many argument-map cycles (from 05) do I have,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT 12 → Complete answer spine must preserve prompt, thesis, evidence and qualification.",
+      "source_references": [
+        "Basic decomposition questions",
+        "Dimension-expansion grid",
+        "Dimension-expansion grid — 2",
+        "India-first illustration starters"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DECORATIVE CONNECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "\"FURTHERMORE,\" \"MOREOVER,\" \"IN ADDITION\" —",
+          "role": "comparison"
+        },
+        {
+          "text": "LOAD-BEARING TRANSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "REFERENCES THE PREVIOUS PARAGRAPH'S",
+          "role": "primary"
+        },
+        {
+          "text": "PARAGRAPH REPAIR",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PROCESS OF DIAGNOSING WHICH OF A",
+          "role": "mechanism"
+        },
+        {
+          "text": "LENGTH VS. PURPOSEFULNESS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Decorative connective: \"furthermore,\" \"moreover,\" \"in addition\" —",
+            "Load-bearing transition: references the previous paragraph's",
+            "Paragraph repair: the process of diagnosing which of a",
+            "Length vs. purposefulness: the hidden assumption that reaching"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Variety vs. coherence: varying paragraph content across many",
+            "Breadth vs. coherence, structurally: advanced/04 catches this at",
+            "NOT: Reachable word count via padding rather than purposeful",
+            "NOT: Generic connectives standing in for real transitions. →"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: A serious counter-view paragraph missing or too brief. →",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Diagnosing and repairing weak paragraph flow; engineering transitions that carry argumentative weight rather than decorative connectives.",
+            "Grounded in: V1 (2018–2025) UPSC Essay paper corpus (see ../README.md); ../00 Master-Framework.md Section 9."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

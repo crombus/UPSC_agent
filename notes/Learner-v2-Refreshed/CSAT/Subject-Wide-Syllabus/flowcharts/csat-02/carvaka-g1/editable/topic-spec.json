@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "csat-02",
+  "generation": 1,
+  "approved": false,
+  "source_basic": "upsc-ai-kit\\knowledge\\CSAT\\basic\\02_Number-Systems-and-Number-Sense.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\CSAT\\advanced\\02_Number-Systems-and-Number-Sense.md",
+  "stages": [
+    {
+      "number": 1,
+      "title": "Number universe",
+      "body": "Natural, whole, integer, rational, irrational and real numbers."
+    },
+    {
+      "number": 2,
+      "title": "Divisibility",
+      "body": "Use prime-factor and digit tests only within their valid base-ten conditions."
+    },
+    {
+      "number": 3,
+      "title": "Primes and factors",
+      "body": "Factorise before counting divisors or comparing powers."
+    },
+    {
+      "number": 4,
+      "title": "HCF and LCM",
+      "body": "Use gcd-lcm relations with integer and positivity checks."
+    },
+    {
+      "number": 5,
+      "title": "Remainders",
+      "body": "Reduce early and preserve the modulus."
+    },
+    {
+      "number": 6,
+      "title": "Unit digits",
+      "body": "Use cyclicity and treat exponent-zero cases separately."
+    },
+    {
+      "number": 7,
+      "title": "Digits and place value",
+      "body": "Translate reversal and digit count into base-ten equations."
+    },
+    {
+      "number": 8,
+      "title": "Powers and factorials",
+      "body": "Use repeated division for prime exponents and trailing zeros."
+    },
+    {
+      "number": 9,
+      "title": "Fractions and decimals",
+      "body": "Convert recurring forms through algebra, not memorised guesses."
+    },
+    {
+      "number": 10,
+      "title": "Series",
+      "body": "Test differences, ratios, alternation and position rules."
+    },
+    {
+      "number": 11,
+      "title": "Magnitude and estimation",
+      "body": "Bound before calculating exactly."
+    },
+    {
+      "number": 12,
+      "title": "Verification",
+      "body": "Plug back, check parity, digit count, remainder and order of magnitude."
+    }
+  ]
+}

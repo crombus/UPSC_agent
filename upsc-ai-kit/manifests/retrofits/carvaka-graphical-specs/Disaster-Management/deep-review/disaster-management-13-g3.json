@@ -1,0 +1,1102 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-13",
+  "subject": "Disaster-Management",
+  "title": "EPIDEMICS AND PUBLIC HEALTH EMERGENCIES",
+  "short_route": "EPIDEMIOLOGICAL STATUS LADDER → EMERGENCY-STATUS FIREWALL → RISK-ASSESSMENT MAP → SURVEILLANCE-TO-ACTION RAIL → ONE HEALTH TRIANGLE → PREPAREDNESS PORTFOLIO",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-13-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "aced303a9385f759c7cac0f33ca45034d48b85d9ba9151ca7e24e1d878183cf7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EPIDEMIOLOGICAL STATUS LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EPIDEMIOLOGICAL STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL EXCESS OVER EXPECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL EXCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUSTAINED MULTI-COUNTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINENTAL SPREAD",
+          "role": "primary"
+        },
+        {
+          "text": "EXPECTED PERSISTENT PRESENCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OUTBREAK → local excess over expected",
+        "EPIDEMIC → population / regional excess",
+        "PANDEMIC → sustained multi-country / continental spread",
+        "ENDEMIC → expected persistent presence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "OUTBREAK → local excess over expected",
+            "EPIDEMIC → population / regional excess"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PANDEMIC → sustained multi-country / continental spread",
+            "ENDEMIC → expected persistent presence"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTBREAK → local excess over expected",
+            "EPIDEMIC → population / regional excess"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PANDEMIC → sustained multi-country / continental spread; ENDEMIC → expected persistent presence.",
+      "source_references": [
+        "Outbreak",
+        "Epidemic",
+        "Pandemic",
+        "Endemic",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EMERGENCY-STATUS FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EMERGENCY-STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBNATIONAL LEGAL BASIS",
+          "role": "comparison"
+        },
+        {
+          "text": "IHR INTERNATIONAL-CONCERN STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "PANDEMIC EMERGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "AMENDED-IHR HIGHER ALERT",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO COORDINATES",
+          "role": "comparison"
+        },
+        {
+          "text": "STATES RETAIN SOVEREIGN AUTHORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOMESTIC STATUS → national / subnational legal basis",
+        "PHEIC → IHR international-concern status",
+        "PANDEMIC EMERGENCY → amended-IHR higher alert",
+        "WHO COORDINATES → STATES RETAIN SOVEREIGN AUTHORITY"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "DOMESTIC STATUS → national / subnational legal basis",
+          "PANDEMIC EMERGENCY → amended-IHR higher alert",
+          "DOMESTIC STATUS → national / subnational legal basis"
+        ],
+        [
+          "PHEIC → IHR international-concern status",
+          "WHO COORDINATES → STATES RETAIN SOVEREIGN AUTHORITY",
+          "PHEIC → IHR international-concern status"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "DOMESTIC STATUS → national / subnational legal basis",
+            "PHEIC → IHR international-concern status"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PANDEMIC EMERGENCY → amended-IHR higher alert",
+            "WHO COORDINATES → STATES RETAIN SOVEREIGN AUTHORITY"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DOMESTIC STATUS → national / subnational legal basis",
+            "PHEIC → IHR international-concern status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DOMESTIC STATUS → national / subnational legal basis.",
+      "source_references": [
+        "Public-health emergency status",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RISK-ASSESSMENT MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RISK-ASSESSMENT MAP",
+          "role": "caution"
+        },
+        {
+          "text": "HAZARD + TRANSMISSION ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSURE + VULNERABLE GROUPS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERITY + HEALTH-SYSTEM CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "UNCERTAINTY + PLACE",
+          "role": "primary"
+        },
+        {
+          "text": "PROPORTIONATE ACTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AGENT / HAZARD + TRANSMISSION ROUTE",
+        "EXPOSURE + VULNERABLE GROUPS",
+        "SEVERITY + HEALTH-SYSTEM CAPACITY",
+        "UNCERTAINTY + PLACE / TIME → PROPORTIONATE ACTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "AGENT / HAZARD + TRANSMISSION ROUTE",
+            "EXPOSURE + VULNERABLE GROUPS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SEVERITY + HEALTH-SYSTEM CAPACITY",
+            "UNCERTAINTY + PLACE / TIME → PROPORTIONATE ACTION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "AGENT / HAZARD + TRANSMISSION ROUTE",
+            "EXPOSURE + VULNERABLE GROUPS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNCERTAINTY + PLACE / TIME → PROPORTIONATE ACTION.",
+      "source_references": [
+        "Risk assessment",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SURVEILLANCE-TO-ACTION RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SURVEILLANCE-TO-ACTION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 SIGNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "S-P-L REPORTING",
+          "role": "comparison"
+        },
+        {
+          "text": "2 ANALYSE TREND AND VERIFY",
+          "role": "evidence"
+        },
+        {
+          "text": "3 RAPID RESPONSE INVESTIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "4 CONTROL + FEEDBACK TO SURVEILLANCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1 SIGNAL / S-P-L REPORTING",
+        "2 ANALYSE TREND AND VERIFY",
+        "3 RAPID RESPONSE INVESTIGATION",
+        "4 CONTROL + FEEDBACK TO SURVEILLANCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 SIGNAL / S-P-L REPORTING",
+            "2 ANALYSE TREND AND VERIFY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 RAPID RESPONSE INVESTIGATION",
+            "4 CONTROL + FEEDBACK TO SURVEILLANCE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 SIGNAL / S-P-L REPORTING",
+            "2 ANALYSE TREND AND VERIFY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 RAPID RESPONSE INVESTIGATION; 4 CONTROL + FEEDBACK TO SURVEILLANCE.",
+      "source_references": [
+        "Surveillance",
+        "Laboratory confirmation",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ONE HEALTH TRIANGLE",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ONE HEALTH TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "HUMAN HEALTH <→ ANIMAL HEALTH",
+          "role": "outcome"
+        },
+        {
+          "text": "JOINT SURVEILLANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INVESTIGATION; SECTOR OWNERS REMAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HUMAN HEALTH <→ ANIMAL HEALTH",
+        "JOINT SURVEILLANCE / INVESTIGATION; SECTOR OWNERS REMAIN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "HUMAN HEALTH <→ ANIMAL HEALTH",
+            "JOINT SURVEILLANCE / INVESTIGATION; SECTOR OWNERS REMAIN"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "HUMAN HEALTH <→ ANIMAL HEALTH",
+            "JOINT SURVEILLANCE / INVESTIGATION; SECTOR OWNERS REMAIN"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "HUMAN HEALTH <→ ANIMAL HEALTH",
+            "JOINT SURVEILLANCE / INVESTIGATION; SECTOR OWNERS REMAIN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENVIRONMENT; JOINT SURVEILLANCE / INVESTIGATION; SECTOR OWNERS REMAIN.",
+      "source_references": [
+        "One Health",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PREPAREDNESS PORTFOLIO",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PREPAREDNESS PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "WASH VECTOR CONTROL INFECTION PREVENTION IMMUNISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKFORCE LABS STOCKS PLANS TRAINING DRILLS",
+          "role": "comparison"
+        },
+        {
+          "text": "TRUSTED ACCESSIBLE CHANNELS",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUTINE HEALTH AND SOCIAL SERVICES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PREVENT → WASH vector control infection prevention immunisation",
+        "PREPARE → workforce labs stocks plans training drills",
+        "COMMUNICATE → trusted accessible channels",
+        "CONTINUE → routine health and social services"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "PREVENT → WASH vector control infection prevention immunisation",
+          "COMMUNICATE → trusted accessible channels",
+          "PREVENT → WASH vector control infection prevention immunisation"
+        ],
+        [
+          "PREPARE → workforce labs stocks plans training drills",
+          "CONTINUE → routine health and social services",
+          "PREPARE → workforce labs stocks plans training drills"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "PREVENT → WASH vector control infection prevention immunisation",
+            "PREPARE → workforce labs stocks plans training drills"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMMUNICATE → trusted accessible channels",
+            "CONTINUE → routine health and social services"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PREVENT → WASH vector control infection prevention immunisation",
+            "PREPARE → workforce labs stocks plans training drills"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PREPARE → workforce labs stocks plans training drills.",
+      "source_references": [
+        "Prevention and preparedness",
+        "Continuity of essential services",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OUTBREAK-RESPONSE LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OUTBREAK-RESPONSE LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CASE FIND",
+          "role": "outcome"
+        },
+        {
+          "text": "CARE + ISOLATE WHERE INDICATED",
+          "role": "comparison"
+        },
+        {
+          "text": "MANAGE EXPOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNITY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "REASSESS DATA EFFECTS EQUITY AND PROPORTIONALITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "VERIFY → INVESTIGATE → CASE FIND / TEST",
+        "CARE + ISOLATE WHERE INDICATED",
+        "MANAGE EXPOSURE / COMMUNITY RISK",
+        "REASSESS DATA EFFECTS EQUITY AND PROPORTIONALITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "VERIFY → INVESTIGATE → CASE FIND / TEST",
+            "CARE + ISOLATE WHERE INDICATED"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "MANAGE EXPOSURE / COMMUNITY RISK",
+            "REASSESS DATA EFFECTS EQUITY AND PROPORTIONALITY"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → INVESTIGATE → CASE FIND / TEST",
+            "CARE + ISOLATE WHERE INDICATED"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → INVESTIGATE → CASE FIND / TEST.",
+      "source_references": [
+        "Outbreak response",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "QUARANTINE-ISOLATION SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "QUARANTINE-ISOLATION SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "EXPOSED, NOT KNOWN INFECTED",
+          "role": "caution"
+        },
+        {
+          "text": "ILL CASE",
+          "role": "comparison"
+        },
+        {
+          "text": "LAWFUL PROPORTIONATE SUPPORTED AND TIME-BOUNDED",
+          "role": "evidence"
+        },
+        {
+          "text": "LABEL DOES NOT REPLACE CARE OR RIGHTS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "QUARANTINE → exposed, not known infected",
+        "ISOLATION → infected / ill case",
+        "BOTH → lawful proportionate supported and time-bounded",
+        "TRAP → LABEL DOES NOT REPLACE CARE OR RIGHTS"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "QUARANTINE → exposed, not known infected",
+          "BOTH → lawful proportionate supported and time-bounded",
+          "QUARANTINE → exposed, not known infected"
+        ],
+        [
+          "ISOLATION → infected / ill case",
+          "TRAP → LABEL DOES NOT REPLACE CARE OR RIGHTS",
+          "ISOLATION → infected / ill case"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "QUARANTINE → exposed, not known infected",
+            "ISOLATION → infected / ill case"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BOTH → lawful proportionate supported and time-bounded",
+            "TRAP → LABEL DOES NOT REPLACE CARE OR RIGHTS"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "QUARANTINE → exposed, not known infected",
+            "ISOLATION → infected / ill case"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → LABEL DOES NOT REPLACE CARE OR RIGHTS.",
+      "source_references": [
+        "Quarantine versus isolation",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SURGE AND CONTINUITY BALANCE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SURGE AND CONTINUITY BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "STAFF SPACE LAB SUPPLIES REFERRAL TRANSPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTION REST COMMUNICATION SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "ESSENTIAL CARE",
+          "role": "evidence"
+        },
+        {
+          "text": "MATERNAL CHILD CHRONIC EMERGENCY SERVICES",
+          "role": "primary"
+        },
+        {
+          "text": "OUTBREAK CARE WITHOUT AVOIDABLE INDIRECT HARM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SURGE → staff space lab supplies referral transport",
+        "WORKFORCE → protection rest communication support",
+        "ESSENTIAL CARE → maternal child chronic emergency services",
+        "OUTCOME → outbreak care without avoidable indirect harm"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "SURGE → staff space lab supplies referral transport",
+          "ESSENTIAL CARE → maternal child chronic emergency services",
+          "SURGE → staff space lab supplies referral transport"
+        ],
+        [
+          "WORKFORCE → protection rest communication support",
+          "OUTCOME → outbreak care without avoidable indirect harm",
+          "WORKFORCE → protection rest communication support"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SURGE → staff space lab supplies referral transport",
+            "WORKFORCE → protection rest communication support"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ESSENTIAL CARE → maternal child chronic emergency services",
+            "OUTCOME → outbreak care without avoidable indirect harm"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SURGE → staff space lab supplies referral transport",
+            "WORKFORCE → protection rest communication support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → outbreak care without avoidable indirect harm.",
+      "source_references": [
+        "Health-system surge",
+        "Continuity of essential services",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RISK COMMUNICATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RISK COMMUNICATION CHAIN",
+          "role": "caution"
+        },
+        {
+          "text": "KNOWN + UNKNOWN + CHANGING",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WHERE CARE",
+          "role": "evidence"
+        },
+        {
+          "text": "MULTILINGUAL ACCESSIBLE TRUSTED MESSENGERS",
+          "role": "primary"
+        },
+        {
+          "text": "MONITOR RUMOUR STIGMA FEEDBACK AND CORRECT",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC-HEALTH EMERGENCY MANAGEMENT JOINS SURVEILLANCE, RISK ASSESSMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KNOWN + UNKNOWN + CHANGING",
+        "WHO / WHERE / WHAT ACTION / WHERE CARE",
+        "MULTILINGUAL ACCESSIBLE TRUSTED MESSENGERS",
+        "MONITOR RUMOUR STIGMA FEEDBACK AND CORRECT",
+        "MUST REMEMBER: Public-health emergency management joins surveillance, risk assessment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "KNOWN + UNKNOWN + CHANGING",
+            "WHO / WHERE / WHAT ACTION / WHERE CARE"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MULTILINGUAL ACCESSIBLE TRUSTED MESSENGERS",
+            "MONITOR RUMOUR STIGMA FEEDBACK AND CORRECT"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Public-health emergency management joins surveillance, risk assessment,...",
+            "KNOWN + UNKNOWN + CHANGING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Public-health emergency management joins surveillance, risk assessment,.",
+      "source_references": [
+        "Risk communication",
+        "Misinformation and recovery",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-13_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INSTITUTIONAL MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "STANDARD SURVEILLANCE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC HEALTH DELIVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "DM AUTHORITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "CROSS-SECTOR COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL NOTIFICATION AND COOPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CASE IS NOT OUTBREAK; OUTBREAK IS NOT AUTOMATICALLY EPIDEMIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MOHFW / NCDC-IDSP / ICMR → STANDARD SURVEILLANCE EVIDENCE",
+        "STATE / DISTRICT / LOCAL → PUBLIC HEALTH DELIVERY",
+        "DM AUTHORITIES → CROSS-SECTOR COORDINATION",
+        "WHO / IHR → INTERNATIONAL NOTIFICATION AND COOPERATION",
+        "CLOSE DISTINCTION: Case is not outbreak; outbreak is not automatically epidemic or"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "MOHFW / NCDC-IDSP / ICMR → STANDARD SURVEILLANCE EVIDENCE",
+            "STATE / DISTRICT / LOCAL → PUBLIC HEALTH DELIVERY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DM AUTHORITIES → CROSS-SECTOR COORDINATION",
+            "WHO / IHR → INTERNATIONAL NOTIFICATION AND COOPERATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Case is not outbreak; outbreak is not automatically epidemic or...",
+            "MOHFW / NCDC-IDSP / ICMR → STANDARD SURVEILLANCE EVIDENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Case is not outbreak; outbreak is not automatically epidemic or.",
+      "source_references": [
+        "Federal and local roles",
+        "Institutional roles",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-13_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PUBLIC-HEALTH ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PUBLIC-HEALTH ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSESS ROUTE EXPOSURE SEVERITY CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVEIL CONFIRM INVESTIGATE RESPOND AND REASSESS",
+          "role": "evidence"
+        },
+        {
+          "text": "ADD ONE HEALTH SURGE CONTINUITY COMMUNICATION AND EQUITY",
+          "role": "primary"
+        },
+        {
+          "text": "ASSIGN FEDERAL",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL ROLES + VERIFY OUTCOMES",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE STATUS → ASSESS ROUTE EXPOSURE SEVERITY CAPACITY",
+        "SURVEIL CONFIRM INVESTIGATE RESPOND AND REASSESS",
+        "ADD ONE HEALTH SURGE CONTINUITY COMMUNICATION AND EQUITY",
+        "ASSIGN FEDERAL / INTERNATIONAL ROLES + VERIFY OUTCOMES",
+        "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve disease/event definition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE STATUS → ASSESS ROUTE EXPOSURE SEVERITY CAPACITY",
+            "SURVEIL CONFIRM INVESTIGATE RESPOND AND REASSESS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ADD ONE HEALTH SURGE CONTINUITY COMMUNICATION AND EQUITY",
+            "ASSIGN FEDERAL / INTERNATIONAL ROLES + VERIFY OUTCOMES"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve disease/event definition,...",
+            "DEFINE STATUS → ASSESS ROUTE EXPOSURE SEVERITY CAPACITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve disease/event definition,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve disease/event definition,.",
+      "source_references": [
+        "Platform-outcome firewall",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g2\\disaster-management-13_Complete-Learning-Session_2026-09-04.md",
+        "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-13_Learning-Session.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-13\\g3\\disaster-management-13_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NAMED LEGAL-REFORM GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "VISIONIAS STATES THE EPIDEMIC DISEASES",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMAND/CONTROL/COORDINATION GAP NAMED TWICE, HISTORICALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAN-RESOURCE SHORTAGE AS A STRUCTURALLY NAMED, NOT EPISODIC",
+          "role": "caution"
+        },
+        {
+          "text": "ONE HEALTH RELEVANCE IMPLIED BUT NOT NAMED",
+          "role": "caution"
+        },
+        {
+          "text": "THE 2006 AVIAN",
+          "role": "comparison"
+        },
+        {
+          "text": "VISIONIAS DOES NOT DETAIL A SPECIFIC DISEASE-SURVEILLANCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Named legal-reform gap : VisionIAS states the Epidemic Diseases",
+            "CAUTION: Command/control/coordination gap named twice, historically : the",
+            "Human-resource shortage as a structurally named, not episodic,",
+            "CAUTION: One Health relevance implied but not named : the 2006 avian"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: VisionIAS does not detail a specific disease-surveillance",
+            "WHO's Health Emergency Prevention, Preparedness, Response and",
+            "VisionIAS's disease-transmission categories (Section 2 of the basic",
+            "CAUTION: COVID-19's own well-documented differential impact on informal"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Public-health calibration versus law-and-order-style uniform",
+            "CAUTION: Health-system continuity versus outbreak-containment measures :",
+            "NOT: The \"COVID-19 was managed, therefore India's biological-disaster",
+            "CAUTION: Institutional-name confusion risk : using \"NICD\" instead of"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

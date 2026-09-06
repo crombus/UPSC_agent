@@ -1,16 +1,12 @@
 # Deep Content Review — Political Theory 02: Ideology and End of Ideology
 
-- **Baseline locked:** `political-theory-02:learner-v2:g3` — 87/100
-- **Immutable successor:** `political-theory-02:learner-v2:g4` — 97/100
+- **Baseline locked:** `political-theory-02:learner-v2:g4` — 97/100
+- **Immutable successor:** `political-theory-02:learner-v2:g5` — 97/100
 - **Approval:** false / pending explicit approval
 
 ## Defects reported
 
-- All 6 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.
-- All 6 solved items lack explicit directive-and-demand decoding.
-- All 6 solved items lack an executable mark-scaled compression plan.
-- The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.
-- The stored ASCII/graphical source contains 2 conclusive dangling sentence fragment(s), so the flows are not independently safe.
+
 
 ## Four-artifact repair and re-review
 
@@ -21,7 +17,7 @@ model, a mark-scaled compression plan, `Why this earns marks` and answer-specifi
 Cārvāka specifications were authored afresh from the repaired session, removing
 the baseline's dangling fragments and preserving the same twelve-stage topic spine.
 
-- Session PDF: 42 pages
+- Session PDF: 41 pages
 - Workbook PDF: 23 pages
 - Solved items: 6
 - Graphical Core stages: 12
