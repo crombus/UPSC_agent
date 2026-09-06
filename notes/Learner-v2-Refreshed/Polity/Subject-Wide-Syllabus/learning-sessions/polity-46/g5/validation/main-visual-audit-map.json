@@ -1,0 +1,1563 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-46",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 9,
+      "heading": "Administrative Tribunals - Complete Uncompressed Learning Session",
+      "preview": "**Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.  **Answer-writing discipline:*",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 698.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 639.824
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 30,
+      "heading": "Local Owner Gateway",
+      "preview": "**Subject:** Polity | **Tier:** Basic | **GS Paper:** GS-II **Grounded in:** Articles 323-A and 323-B; Administrative Tribunals Act, 1985; *L. Chandra Kumar (1997) v. Union of India* (1997); Tribunal Reforms Act, 2021; *Madras Bar Associati",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 429.424
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 320.156
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 43,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 295.156
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 44.954
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\assets\\polity-46_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 318.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 91,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Snapshot denotes the constitutional rules and institutional links organised around Feature Article 323-A Article 323-B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 322.356
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 255.688
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 114,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Article 323-A | Article 323-B",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Article 323-A",
+          "Article 323-B"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 645.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 135,
+      "heading": "CLOSING RECALL FLOW - SNAPSHOT",
+      "preview": "START / CONCEPT: SNAPSHOT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 623.09
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 412.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core architecture denotes the constitutional rules and institutional links organised around SPECIALISED, FASTER FORUM.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 305.49
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 238.822
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 177,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SPECIALISED, FASTER FORUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 634.691
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 205,
+      "heading": "CLOSING RECALL FLOW - CORE ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 505.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 304.491
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 216,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rationalisation changes institutional location, but does not by itself cure delay or preserve expertise.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 183.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 131.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 257,
+      "markdown_body_line_end": 274,
+      "heading": "CLOSING RECALL FLOW - TRIBUNAL REFORMS ACT, 2021",
+      "preview": "START / CONCEPT: TRIBUNAL REFORMS ACT, 2021",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 277.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 66.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 285,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Verified PYQ application denotes the constitutional rules and institutional links organised around 2025 GS-II Q2 (10 marks, 150 words): “Comment on the need of administrative.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 313,
+      "markdown_body_line_end": 330,
+      "heading": "CLOSING RECALL FLOW - VERIFIED PYQ APPLICATION",
+      "preview": "START / CONCEPT: VERIFIED PYQ APPLICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 341,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Traps denotes the constitutional rules and institutional links organised around Wrong: Tribunal decisions are immune from High Court review. - They are reviewable under.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 379,
+      "heading": "06. 6. Answer architecture (10/15/20-mark support)",
+      "preview": "Purpose: make this Core file independently answer directive-sensitive GS-II questions on tribunals versus ordinary courts, CAT's adjudicatory independence, the 2021 rationalisation, and Lok Adalats versus arbitration — without opening Advan",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 555.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 482.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 400,
+      "heading": "CLOSING RECALL FLOW - TRAPS",
+      "preview": "START / CONCEPT: TRAPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 239.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Exact wording and directive control prevent a generic tribunal essay.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 132.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 80.356
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 436,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand family | Directive signals | Answer spine",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Demand family",
+          "Directive signals",
+          "Answer spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 565.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 333.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 457,
+      "heading": "CLOSING RECALL FLOW - DEMAND AND DIRECTIVE MAP",
+      "preview": "START / CONCEPT: DEMAND AND DIRECTIVE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 311.89
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 120.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 468,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.2 Qualified thesis options denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 510,
+      "heading": "CLOSING RECALL FLOW - QUALIFIED THESIS OPTIONS",
+      "preview": "START / CONCEPT: QUALIFIED THESIS OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 276.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 55.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 521,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.3 Mark-scaled structures denotes the constitutional rules and institutional links organised around Marks Architecture Evidence load.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 544,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Marks | Architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 335.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 202.422
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 565,
+      "heading": "CLOSING RECALL FLOW - MARK-SCALED STRUCTURES",
+      "preview": "START / CONCEPT: MARK-SCALED STRUCTURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 576,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.4 Bank A — Constitutional design and the judicial-review settlement denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 615,
+      "markdown_body_line_end": 632,
+      "heading": "CLOSING RECALL FLOW - BANK A - CONSTITUTIONAL DESIGN AND THE JUDICIAL-REVIEW SETTLEMENT",
+      "preview": "START / CONCEPT: BANK A — CONSTITUTIONAL DESIGN AND THE JUDICIAL-REVIEW SETTLEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 643,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.6 Bank C — Lok Adalats versus arbitration (the ADR distinction) denotes the constitutional rules and institutional links organised around Axis Lok Adalat Arbitration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 332.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 671,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | **Lok Adalat** | **Arbitration**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "**Lok Adalat**",
+          "**Arbitration**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 641.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 499.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 692,
+      "heading": "CLOSING RECALL FLOW - BANK C - LOK ADALATS VERSUS ARBITRATION (THE ADR DISTINCTION)",
+      "preview": "START / CONCEPT: BANK C — LOK ADALATS VERSUS ARBITRATION (THE ADR DISTINCTION)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 298
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 477.29
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 226.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 703,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.7 Mechanism, institutional incentives and consequences denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 100.69
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 746,
+      "heading": "CLOSING RECALL FLOW - MECHANISM, INSTITUTIONAL INCENTIVES AND CONSEQUENCES",
+      "preview": "START / CONCEPT: MECHANISM, INSTITUTIONAL INCENTIVES AND CONSEQUENCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 317.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 96.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 757,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.8 Criticism, counter-argument, variation and implementation constraints denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 783,
+      "markdown_body_line_end": 800,
+      "heading": "CLOSING RECALL FLOW - CRITICISM, COUNTER-ARGUMENT, VARIATION AND IMPLEMENTATION CONSTRAINTS",
+      "preview": "START / CONCEPT: CRITICISM, COUNTER-ARGUMENT, VARIATION AND IMPLEMENTATION CONSTRAINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 811,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.9 Verdict scaffolds denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 351.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 299.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 854,
+      "heading": "CLOSING RECALL FLOW - VERDICT SCAFFOLDS",
+      "preview": "START / CONCEPT: VERDICT SCAFFOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 769
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 641.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 360.491
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 865,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "6.10 Prelims close-option distinctions denotes the constitutional rules and institutional links organised around Confusion pair Correct discrimination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 239.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 173.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 892,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Confusion pair | Correct discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Confusion pair",
+          "Correct discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 622.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 349.09
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 928,
+      "heading": "CLOSING RECALL FLOW - PRELIMS CLOSE-OPTION DISTINCTIONS",
+      "preview": "START / CONCEPT: PRELIMS CLOSE-OPTION DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 528.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 939,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The two enabling Articles share a history of exclusion clauses but differ materially in scope and law-maker.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 389.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 336.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 957,
+      "markdown_body_line_end": 964,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Article 323A | Article 323B",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Article 323A",
+          "Article 323B"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 606.69
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 323A AND 323B: EXACT CONSTITUTIONAL DISTINCTION",
+      "preview": "START / CONCEPT: ARTICLES 323A AND 323B: EXACT CONSTITUTIONAL DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 551.29
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 350.29
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CAT access begins with statutory coverage and ends with constitutional supervision, not an automatic direct appeal to the Supreme Court.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 210.49
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 143.822
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1043,
+      "markdown_body_line_end": 1060,
+      "heading": "CLOSING RECALL FLOW - CAT PROCESS, EXCLUSIONS AND JUDICIAL-REVIEW CHAIN",
+      "preview": "START / CONCEPT: CAT PROCESS, EXCLUSIONS AND JUDICIAL-REVIEW CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 307.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 86.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2113,
+      "markdown_body_line_end": 2119,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Polity | **Tier:** Advanced | **GS Paper:** GS-II **Grounded in:** Laxmikanth's Tribunals chapter (direct check of the local Sixth Revised Edition PDF); Articles 323-A and 323-B; Administrative Tribunals Act, 1985; *S.P. Sampat",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 599.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 511.824
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2123,
+      "markdown_body_line_end": 2127,
+      "heading": "1. Constitutional design",
+      "preview": "Axis | Article 323-A | Article 323-B",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Axis",
+          "Article 323-A",
+          "Article 323-B"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 489.824
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 379.222
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2134,
+      "markdown_body_line_end": 2145,
+      "heading": "2. Need compared with ordinary courts",
+      "preview": "TECHNICAL / HIGH-VOLUME DISPUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 323.822
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 212.822
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2182,
+      "markdown_body_line_end": 2187,
+      "heading": "4. Tribunal Reforms Act, 2021",
+      "preview": "Claimed gain | Counter-risk | Surgical reform",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Claimed gain",
+          "Counter-risk",
+          "Surgical reform"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 525.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 382.29
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2363,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Tribunalisation: specialist justice under constitutional supervision",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 328.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 143.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2367,
+      "markdown_body_line_end": 2386,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Articles 323A and 323B compared",
+      "preview": "ARTICLE 323A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2390,
+      "markdown_body_line_end": 2403,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: CAT jurisdiction and statutory exclusions",
+      "preview": "SECTION 14 COVERAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2407,
+      "markdown_body_line_end": 2425,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: CAT and SAT institutional architecture",
+      "preview": "CAT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2445,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Application, procedure, powers and contempt",
+      "preview": "PROCESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2449,
+      "markdown_body_line_end": 2466,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: L. Chandra Kumar (1997) and the correct review chain",
+      "preview": "ORIGINAL CONSTITUTIONAL DESIGN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2470,
+      "markdown_body_line_end": 2491,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Tribunal-independence doctrine across five decisions",
+      "preview": "Union of India v. R. Gandhi (2010)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 190.091
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2512,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Rationalisation, abolition and access-to-justice consequences",
+      "preview": "2021 RATIONALISATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2537,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: CAT, courts, commissions and ADR distinguished",
+      "preview": "CAT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2541,
+      "markdown_body_line_end": 2558,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Current judicial and legislative status control",
+      "preview": "19 NOVEMBER 2025",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 354.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 179.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2562,
+      "markdown_body_line_end": 2577,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Exact PYQ demand and answer architecture",
+      "preview": "2018 GS-II 15/250",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2602,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC synthesis and reform architecture",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 396.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    }
+  ]
+}

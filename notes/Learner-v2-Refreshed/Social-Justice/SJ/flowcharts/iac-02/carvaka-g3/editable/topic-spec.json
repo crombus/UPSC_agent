@@ -1,0 +1,1166 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-02",
+  "subject": "Social-Justice",
+  "title": "POVERTY, HUNGER, FOOD AND NUTRITION SECURITY",
+  "short_route": "VICIOUS CYCLE → SECURITY TYPES → INDICATOR CARD → STATUTORY ENTITLEMENT CARD → PRICE DISCIPLINE CARD → LIFE-CYCLE PROVISIONS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-02-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "769ec54d0a437a0948fdf992fbd69c4ef8f5d11909262c4a34d4b97469e41fae",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "VICIOUS CYCLE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VICIOUS CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "INCOME AND ASSET DEPRIVATION RESTRICTS THE HOUSEHOLD FOOD BASKET",
+          "role": "outcome"
+        },
+        {
+          "text": "FOOD INSECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CALORIE DEFICIT PLUS PROTEIN AND MICRONUTRIENT DEFICIT",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPAIRED DEVELOPMENT",
+          "role": "primary"
+        },
+        {
+          "text": "COGNITIVE, PHYSICAL AND IMMUNE CAPACITY FALL",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW HUMAN CAPITAL",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHOOLING ATTAINMENT AND PRODUCTIVITY FALL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POVERTY → income and asset deprivation restricts the household food basket",
+        "FOOD INSECURITY: calorie deficit plus protein and micronutrient deficit",
+        "IMPAIRED DEVELOPMENT: cognitive, physical and immune capacity fall",
+        "LOW HUMAN CAPITAL: schooling attainment and productivity fall",
+        "LOW EARNINGS: the deprivation is transmitted to the next generation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POVERTY → income and asset deprivation restricts the household food basket",
+            "FOOD INSECURITY: calorie deficit plus protein and micronutrient deficit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMPAIRED DEVELOPMENT: cognitive, physical and immune capacity fall",
+            "LOW HUMAN CAPITAL: schooling attainment and productivity fall"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOW EARNINGS: the deprivation is transmitted to the next generation",
+            "MUST REMEMBER: Poverty, hunger, food insecurity, undernutrition and malnutrition overlap..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Poverty, hunger, food insecurity, undernutrition and malnutrition overlap.",
+      "source_references": [
+        "The poverty, malnutrition and human-capital vicious cycle",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SECURITY TYPES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SECURITY TYPES",
+          "role": "primary"
+        },
+        {
+          "text": "FOOD SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIABLE ACCESS TO SUFFICIENT, SAFE AND NUTRITIOUS FOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "CARRIED BY",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUTORY FOODGRAIN ENTITLEMENT; A CALORIE AND GRAIN-ACCESS INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NUTRITION SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DIETARY DIVERSITY, MICRONUTRIENTS, CARE PRACTICES, SANITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE DISTRIBUTION SYSTEM CAN WORK WHILE NUTRITION OUTCOMES STAGNATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOOD SECURITY → reliable access to sufficient, safe and nutritious food",
+        "CARRIED BY → statutory foodgrain entitlement; a calorie and grain-access instrument",
+        "NUTRITION SECURITY → dietary diversity, micronutrients, care practices, sanitation",
+        "CONSEQUENCE → the distribution system can work while nutrition outcomes stagnate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOOD SECURITY → reliable access to sufficient, safe and nutritious food",
+          "NUTRITION SECURITY → dietary diversity, micronutrients, care practices, sanitation",
+          "FOOD SECURITY → reliable access to sufficient, safe and nutritious food"
+        ],
+        [
+          "CARRIED BY → statutory foodgrain entitlement; a calorie and grain-access instrument",
+          "CONSEQUENCE → the distribution system can work while nutrition outcomes stagnate",
+          "CARRIED BY → statutory foodgrain entitlement; a calorie and grain-access instrument"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOOD SECURITY → reliable access to sufficient, safe and nutritious food",
+            "CARRIED BY → statutory foodgrain entitlement; a calorie and grain-access instrument"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NUTRITION SECURITY → dietary diversity, micronutrients, care practices, sanitation",
+            "CONSEQUENCE → the distribution system can work while nutrition outcomes stagnate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOOD SECURITY → reliable access to sufficient, safe and nutritious food",
+            "CARRIED BY → statutory foodgrain entitlement; a calorie and grain-access instrument"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → the distribution system can work while nutrition outcomes stagnate.",
+      "source_references": [
+        "Food security against nutrition security",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INDICATOR CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDICATOR CARD",
+          "role": "primary"
+        },
+        {
+          "text": "LOW HEIGHT-FOR-AGE UNDER FIVE; CHRONIC CUMULATIVE DEPRIVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW WEIGHT-FOR-HEIGHT UNDER FIVE; RECENT OR ACUTE SHORTAGE OR",
+          "role": "comparison"
+        },
+        {
+          "text": "HAEMOGLOBIN DEFICIENCY FROM IRON, FOLATE OR VITAMIN B12 SHORTFALL",
+          "role": "evidence"
+        },
+        {
+          "text": "WEIGHT-FOR-HEIGHT BELOW MINUS THREE STANDARD DEVIATIONS; THERAPEUTIC CARE",
+          "role": "primary"
+        },
+        {
+          "text": "MINUS TWO TO MINUS THREE STANDARD DEVIATIONS; COMMUNITY SUPPLEMENTARY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "STUNTING → low height-for-age under five; chronic cumulative deprivation",
+        "WASTING → low weight-for-height under five; recent or acute shortage or illness",
+        "ANAEMIA → haemoglobin deficiency from iron, folate or vitamin B12 shortfall",
+        "SAM → weight-for-height below minus three standard deviations; therapeutic care",
+        "MAM → minus two to minus three standard deviations; community supplementary feeding"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STUNTING → low height-for-age under five; chronic cumulative deprivation",
+          "ANAEMIA → haemoglobin deficiency from iron, folate or vitamin B12 shortfall",
+          "MAM → minus two to minus three standard deviations; community supplementary feeding"
+        ],
+        [
+          "WASTING → low weight-for-height under five; recent or acute shortage or illness",
+          "SAM → weight-for-height below minus three standard deviations; therapeutic care",
+          "STUNTING → low height-for-age under five; chronic cumulative deprivation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STUNTING → low height-for-age under five; chronic cumulative deprivation",
+            "WASTING → low weight-for-height under five; recent or acute shortage or illness"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANAEMIA → haemoglobin deficiency from iron, folate or vitamin B12 shortfall",
+            "SAM → weight-for-height below minus three standard deviations; therapeutic care"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAM → minus two to minus three standard deviations; community supplementary feeding",
+            "STUNTING → low height-for-age under five; chronic cumulative deprivation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAM → minus two to minus three standard deviations; community supplementary feeding.",
+      "source_references": [
+        "Stunting, wasting and anaemia as distinct indicators",
+        "Severe and moderate acute malnutrition and the treatment path",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "STATUTORY ENTITLEMENT CARD",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATUTORY ENTITLEMENT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "5 JULY 2013; A SHIFT FROM A WELFARE TO",
+          "role": "outcome"
+        },
+        {
+          "text": "5 KG PER PERSON PER MONTH PRIORITY; 35 KG",
+          "role": "comparison"
+        },
+        {
+          "text": "COVERAGE RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "UP TO 75 PER CENT RURAL AND 50 PER",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL COUNT",
+          "role": "outcome"
+        },
+        {
+          "text": "MAXIMUM COVERAGE 81.34 CRORE PERSONS; ABOUT 80 CRORE COVERED",
+          "role": "comparison"
+        },
+        {
+          "text": "HEAD OF HOUSEHOLD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENACTED → 5 July 2013; a shift from a welfare to a rights-based approach",
+        "QUANTUM → 5 kg per person per month priority; 35 kg per household per month",
+        "COVERAGE RULE → up to 75 per cent rural and 50 per cent urban population",
+        "OFFICIAL COUNT → maximum coverage 81.34 crore persons; about 80 crore covered at present",
+        "HEAD OF HOUSEHOLD → eldest woman aged 18 or above for issue of the ration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENACTED → 5 July 2013; a shift from a welfare to a rights-based approach",
+            "QUANTUM → 5 kg per person per month priority; 35 kg per household per month Antyodaya"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COVERAGE RULE → up to 75 per cent rural and 50 per cent urban population",
+            "OFFICIAL COUNT → maximum coverage 81.34 crore persons; about 80 crore covered at present"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HEAD OF HOUSEHOLD → eldest woman aged 18 or above for issue of the ration card",
+            "ENACTED → 5 July 2013; a shift from a welfare to a rights-based approach"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COVERAGE RULE → up to 75 per cent rural and 50 per cent urban population.",
+      "source_references": [
+        "The statutory entitlement under the National Food Security Act, 2013",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PRICE DISCIPLINE CARD",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRICE DISCIPLINE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY CEILING",
+          "role": "outcome"
+        },
+        {
+          "text": "RICE 3 RUPEES, WHEAT 2 RUPEES, COARSE GRAINS 1",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT POLICY",
+          "role": "evidence"
+        },
+        {
+          "text": "FREE OF COST TO ANTYODAYA AND PRIORITY HOUSEHOLDS SINCE",
+          "role": "primary"
+        },
+        {
+          "text": "THE WELFARE GRAIN SCHEME WAS MERGED INTO THE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "THE UNION CABINET EXTENDED FREE DISTRIBUTION FOR FIVE YEARS",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER STATE THE CEILING AS THE PRICE A BENEFICIARY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "STATUTORY CEILING → rice 3 rupees, wheat 2 rupees, coarse grains 1 rupee per kilogram",
+        "CURRENT POLICY → free of cost to Antyodaya and priority households since 1 January 2023",
+        "AUTHORITY → the welfare grain scheme was merged into the Act on that date",
+        "EXTENSION → the Union Cabinet extended free distribution for five years to December 2028",
+        "RULE → never state the ceiling as the price a beneficiary currently pays"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STATUTORY CEILING → rice 3 rupees, wheat 2 rupees, coarse grains 1 rupee per kilogram",
+          "AUTHORITY → the welfare grain scheme was merged into the Act on that date",
+          "RULE → never state the ceiling as the price a beneficiary currently pays"
+        ],
+        [
+          "CURRENT POLICY → free of cost to Antyodaya and priority households since 1 January 2023",
+          "EXTENSION → the Union Cabinet extended free distribution for five years to December 2028",
+          "STATUTORY CEILING → rice 3 rupees, wheat 2 rupees, coarse grains 1 rupee per kilogram"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATUTORY CEILING → rice 3 rupees, wheat 2 rupees, coarse grains 1 rupee per kilogram",
+            "CURRENT POLICY → free of cost to Antyodaya and priority households since 1 January 2023"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUTHORITY → the welfare grain scheme was merged into the Act on that date",
+            "EXTENSION → the Union Cabinet extended free distribution for five years to December 2028"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never state the ceiling as the price a beneficiary currently pays",
+            "STATUTORY CEILING → rice 3 rupees, wheat 2 rupees, coarse grains 1 rupee per kilogram"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never state the ceiling as the price a beneficiary currently pays.",
+      "source_references": [
+        "Central Issue Price ceiling against the free-distribution policy",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LIFE-CYCLE PROVISIONS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIFE-CYCLE PROVISIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PREGNANT AND LACTATING WOMEN",
+          "role": "outcome"
+        },
+        {
+          "text": "NUTRITIOUS MEAL FREE OF COST; MATERNITY BENEFIT",
+          "role": "comparison"
+        },
+        {
+          "text": "MATERNITY BENEFIT",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT LESS THAN 6000 RUPEES TO PARTLY COMPENSATE WAGE",
+          "role": "caution"
+        },
+        {
+          "text": "CHILDREN 6 MONTHS TO 14 YEARS",
+          "role": "outcome"
+        },
+        {
+          "text": "MEAL THROUGH ANGANWADI CENTRES AND THROUGH SCHOOLS",
+          "role": "comparison"
+        },
+        {
+          "text": "MALNOURISHED UNDER SIX",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PREGNANT AND LACTATING WOMEN → nutritious meal free of cost; maternity benefit",
+        "MATERNITY BENEFIT → not less than 6000 rupees to partly compensate wage loss",
+        "CHILDREN 6 MONTHS TO 14 YEARS → meal through anganwadi centres and through schools",
+        "MALNOURISHED UNDER SIX → higher nutritional norms are prescribed",
+        "CLOSE DISTINCTION: Poverty incidence is not depth, food availability is not household"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PREGNANT AND LACTATING WOMEN → nutritious meal free of cost; maternity benefit",
+            "MATERNITY BENEFIT → not less than 6000 rupees to partly compensate wage loss"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHILDREN 6 MONTHS TO 14 YEARS → meal through anganwadi centres and through schools",
+            "MALNOURISHED UNDER SIX → higher nutritional norms are prescribed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Poverty incidence is not depth, food availability is not household...",
+            "PREGNANT AND LACTATING WOMEN → nutritious meal free of cost; maternity benefit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Poverty incidence is not depth, food availability is not household.",
+      "source_references": [
+        "The life-cycle approach and the maternity entitlement in the Act",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REMEDY AND RESPONSIBILITY",
+      "structural_type": "root-axes",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REMEDY AND RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "THE ENTITLED PERSON MAY CLAIM A FOOD SECURITY ALLOWANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FOOD SECURITY ALLOWANCE RULES, 2015",
+          "role": "evidence"
+        },
+        {
+          "text": "ALLOCATION, TRANSPORT TO DEPOTS AND ASSISTANCE TO THE FAIR-PRICE",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFICATION, RATION CARDS AND DISTRIBUTION OF THE ENTITLEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTRIBUTE A DELIVERY FAILURE TO A NAMED TIER, NEVER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NON-SUPPLY → the entitled person may claim a food security allowance from the State",
+        "GOVERNED BY → the Food Security Allowance Rules, 2015",
+        "CENTRE → allocation, transport to depots and assistance to the fair-price shop doorstep",
+        "STATES → identification, ration cards and distribution of the entitlement",
+        "USE → attribute a delivery failure to a named tier, never to government in general"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NON-SUPPLY → the entitled person may claim a food security allowance from the State",
+            "GOVERNED BY → the Food Security Allowance Rules, 2015"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CENTRE → allocation, transport to depots and assistance to the fair-price shop doorstep",
+            "STATES → identification, ration cards and distribution of the entitlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → attribute a delivery failure to a named tier, never to government in general",
+            "NON-SUPPLY → the entitled person may claim a food security allowance from the State"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → attribute a delivery failure to a named tier, never to government in general.",
+      "source_references": [
+        "The food security allowance as the statutory remedy",
+        "The joint Centre and State responsibility under the Act",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SERVICE LAYERS BY AGE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SERVICE LAYERS BY AGE",
+          "role": "primary"
+        },
+        {
+          "text": "POSHAN 2.0",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY OF WOMEN AND CHILD DEVELOPMENT; ANGANWADI CENTRES",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS SERVICES",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPPLEMENTARY NUTRITION, GROWTH MONITORING, PRE-SCHOOL, REFERRAL",
+          "role": "primary"
+        },
+        {
+          "text": "PM POSHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY OF EDUCATION; COOKED MEAL IN CLASSES I TO",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS OBJECTIVES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POSHAN 2.0 → Ministry of Women and Child Development; anganwadi centres",
+        "ITS SERVICES → supplementary nutrition, growth monitoring, pre-school, referral",
+        "PM POSHAN → Ministry of Education; cooked meal in Classes I to VIII",
+        "ITS OBJECTIVES → attendance, retention and improved nutritional status",
+        "TRAP → the ministry pairing is reversed in close-option questions"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "POSHAN 2.0 → Ministry of Women and Child Development; anganwadi centres",
+          "PM POSHAN → Ministry of Education; cooked meal in Classes I to VIII",
+          "TRAP → the ministry pairing is reversed in close-option questions"
+        ],
+        [
+          "ITS SERVICES → supplementary nutrition, growth monitoring, pre-school, referral",
+          "ITS OBJECTIVES → attendance, retention and improved nutritional status",
+          "POSHAN 2.0 → Ministry of Women and Child Development; anganwadi centres"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POSHAN 2.0 → Ministry of Women and Child Development; anganwadi centres",
+            "ITS SERVICES → supplementary nutrition, growth monitoring, pre-school, referral"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PM POSHAN → Ministry of Education; cooked meal in Classes I to VIII",
+            "ITS OBJECTIVES → attendance, retention and improved nutritional status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → the ministry pairing is reversed in close-option questions",
+            "POSHAN 2.0 → Ministry of Women and Child Development; anganwadi centres"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → the ministry pairing is reversed in close-option questions.",
+      "source_references": [
+        "Poshan 2.0 and the anganwadi delivery layer",
+        "PM POSHAN and the school nutrition layer",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RATION FORMAT TRADE-OFF",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RATION FORMAT TRADE-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "TAKE-HOME RATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DRY RATION COOKED AT HOME; PREGNANT AND LACTATING WOMEN",
+          "role": "comparison"
+        },
+        {
+          "text": "ALSO FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "CHILDREN BETWEEN SIX MONTHS AND THREE YEARS",
+          "role": "primary"
+        },
+        {
+          "text": "HOT COOKED MEAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVED AT THE ANGANWADI CENTRE OR THE SCHOOL",
+          "role": "comparison"
+        },
+        {
+          "text": "THE HOT MEAL GUARANTEES CONSUMPTION AT THE POINT OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TAKE-HOME RATION → dry ration cooked at home; pregnant and lactating women",
+        "ALSO FOR → children between six months and three years",
+        "HOT COOKED MEAL → served at the anganwadi centre or the school",
+        "GAIN → the hot meal guarantees consumption at the point of delivery",
+        "COST → it needs kitchen and staffing infrastructure; dry ration may be redistributed"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TAKE-HOME RATION → dry ration cooked at home; pregnant and lactating women",
+          "HOT COOKED MEAL → served at the anganwadi centre or the school",
+          "COST → it needs kitchen and staffing infrastructure; dry ration may be redistributed"
+        ],
+        [
+          "ALSO FOR → children between six months and three years",
+          "GAIN → the hot meal guarantees consumption at the point of delivery",
+          "TAKE-HOME RATION → dry ration cooked at home; pregnant and lactating women"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TAKE-HOME RATION → dry ration cooked at home; pregnant and lactating women",
+            "ALSO FOR → children between six months and three years"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOT COOKED MEAL → served at the anganwadi centre or the school",
+            "GAIN → the hot meal guarantees consumption at the point of delivery"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COST → it needs kitchen and staffing infrastructure; dry ration may be redistributed",
+            "TAKE-HOME RATION → dry ration cooked at home; pregnant and lactating women"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COST → it needs kitchen and staffing infrastructure; dry ration may be redistributed.",
+      "source_references": [
+        "Take-home ration against the hot cooked meal",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PORTABILITY MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PORTABILITY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "A MIGRANT IS LISTED ON A STATE-SPECIFIC ROLL AND",
+          "role": "institution"
+        },
+        {
+          "text": "AADHAAR-SEEDED RATION CARD READ AT AN ELECTRONIC POINT-OF-SALE MACHINE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE EXISTING ENTITLEMENT IS DRAWN AT ANY ENABLED FAIR-PRICE",
+          "role": "evidence"
+        },
+        {
+          "text": "IT IS NOT A SEPARATE CARD AND NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "CLAIM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "THE CUMULATIVE TRANSACTION COUNT RISES CONTINUOUSLY AND IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → a migrant is listed on a State-specific roll and loses access on moving",
+        "MECHANISM: Aadhaar-seeded ration card read at an electronic point-of-sale machine",
+        "EFFECT: the existing entitlement is drawn at any enabled fair-price shop",
+        "LIMIT → it is not a separate card and not a separate entitlement",
+        "CLAIM LIMIT → the cumulative transaction count rises continuously and is not fixed here"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROBLEM → a migrant is listed on a State-specific roll and loses access on moving",
+            "MECHANISM: Aadhaar-seeded ration card read at an electronic point-of-sale machine"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EFFECT: the existing entitlement is drawn at any enabled fair-price shop",
+            "LIMIT → it is not a separate card and not a separate entitlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLAIM LIMIT → the cumulative transaction count rises continuously and is not fixed here",
+            "PROBLEM → a migrant is listed on a State-specific roll and loses access on moving"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLAIM LIMIT → the cumulative transaction count rises continuously and is not fixed here.",
+      "source_references": [
+        "Portability and the One Nation One Ration Card mechanism",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CONVERGENCE BANK",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONVERGENCE BANK",
+          "role": "primary"
+        },
+        {
+          "text": "FEEDING, MICRONUTRIENTS, GROWTH MONITORING, BREASTFEEDING SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER AND SANITATION, AGRICULTURE, SOCIAL PROTECTION, GIRLS SCHOOLING",
+          "role": "comparison"
+        },
+        {
+          "text": "THE NATIONAL ANAEMIA STRATEGY USES A SIX-BY-SIX-BY-SIX INTERVENTION DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "REACHES SELECTED MICRONUTRIENT GAPS AT SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "IT CANNOT REPLACE DIETARY DIVERSITY, INFECTION CONTROL, SAFE WATER",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NUTRITION-SPECIFIC → feeding, micronutrients, growth monitoring, breastfeeding support",
+        "NUTRITION-SENSITIVE → water and sanitation, agriculture, social protection, girls schooling",
+        "ANAEMIA → the national anaemia strategy uses a six-by-six-by-six intervention design",
+        "FORTIFICATION → reaches selected micronutrient gaps at scale",
+        "LIMIT → it cannot replace dietary diversity, infection control, safe water or treatment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NUTRITION-SPECIFIC → feeding, micronutrients, growth monitoring, breastfeeding support",
+            "NUTRITION-SENSITIVE → water and sanitation, agriculture, social protection, girls schooling"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANAEMIA → the national anaemia strategy uses a six-by-six-by-six intervention design",
+            "FORTIFICATION → reaches selected micronutrient gaps at scale"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → it cannot replace dietary diversity, infection control, safe water or treatment",
+            "NUTRITION-SPECIFIC → feeding, micronutrients, growth monitoring, breastfeeding support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → it cannot replace dietary diversity, infection control, safe water or treatment.",
+      "source_references": [
+        "Nutrition-specific against nutrition-sensitive interventions",
+        "The intervention bank for breaking the cycle",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DATED OUTCOME AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DATED OUTCOME AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ROUND FIVE 2019-21",
+          "role": "outcome"
+        },
+        {
+          "text": "STUNTING 35.5, WASTING 19.3, CHILD ANAEMIA 67.1 PER CENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUND SIX 2023-24",
+          "role": "evidence"
+        },
+        {
+          "text": "UNDER-FIVE STUNTING 29.3 PER CENT; RELEASED 29 MAY 2026",
+          "role": "primary"
+        },
+        {
+          "text": "ROUND SIX COVERED 715 DISTRICTS AND ABOUT 6.79 LAKH",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME THE ROUND BESIDE EVERY VALUE AND NEVER MERGE",
+          "role": "comparison"
+        },
+        {
+          "text": "AVAILABILITY, ACCESS, ABSORPTION AND UTILISATION, THEN A GRADED VERDICT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROUND FIVE 2019-21 → stunting 35.5, wasting 19.3, child anaemia 67.1 per cent",
+        "ROUND SIX 2023-24 → under-five stunting 29.3 per cent; released 29 May 2026",
+        "SCOPE → round six covered 715 districts and about 6.79 lakh households",
+        "RULE → name the round beside every value and never merge two rounds",
+        "CLOSE → availability, access, absorption and utilisation, then a graded verdict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ROUND FIVE 2019-21 → stunting 35.5, wasting 19.3, child anaemia 67.1 per cent",
+            "ROUND SIX 2023-24 → under-five stunting 29.3 per cent; released 29 May 2026"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCOPE → round six covered 715 districts and about 6.79 lakh households",
+            "RULE → name the round beside every value and never merge two rounds"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → availability, access, absorption and utilisation, then a graded verdict",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use NFSA, PDS/ONORC, ICDS/Saksham Anganwadi,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → availability, access, absorption and utilisation, then a graded verdict.",
+      "source_references": [
+        "Measured outcomes with their survey round attached",
+        "Inclusion, exclusion and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\02_Poverty-Hunger-Food-and-Nutrition-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-02\\g3\\social-justice-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "HIGHEST RETURN ON INTERVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "POSHAN 2.0 (FIRST-1000-DAYS FOCUS), PM POSHAN (SCHOOL",
+          "role": "comparison"
+        },
+        {
+          "text": "WASH CONVERGENCE (SBM, JJM), INCOME SUPPORT (DBT",
+          "role": "evidence"
+        },
+        {
+          "text": "ONORC FOR MIGRANT-WORKER INCLUSION.",
+          "role": "primary"
+        },
+        {
+          "text": "NFSA, 2013",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY ENTITLEMENT; STATE-WISE IDENTIFICATION OF PRIORITY",
+          "role": "institution"
+        },
+        {
+          "text": "POSHAN 2.0",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "highest return on intervention",
+            "Nutrition-specific: Poshan 2.0 (first-1000-days focus), PM POSHAN (school",
+            "Nutrition-sensitive: WASH convergence (SBM, JJM), income support (DBT,",
+            "Portability: ONORC for migrant-worker inclusion."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "NFSA, 2013: Statutory entitlement; state-wise identification of priority",
+            "Poshan 2.0 / Saksham Anganwadi (MWCD): Consolidates ICDS, Poshan Abhiyaan",
+            "PM POSHAN (MoE): Centrally-sponsored scheme with cost-sharing between",
+            "ONORC: Requires Aadhaar seeding of ration cards, ePoS deployment at"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Poshan Tracker (app): Real-time data entry by anganwadi workers for",
+            "2024 GS-II PYQ Q7: The question directly tests the vicious-cycle concept",
+            "CAUTION: ONORC during COVID-19 lockdowns: Enabled migrant workers stranded outside",
+            "CAUTION: NFHS-5 inter-state variation: States like Kerala and Tamil Nadu have low"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

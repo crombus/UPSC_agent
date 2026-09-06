@@ -460,3 +460,27 @@ PRESSURE-GROUP CHAIN
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** NGOs, SHGs and civil-society organisations can aggregate voice, deliver services, build capabilities, innovate, monitor the state and enable collective action, but their legitimacy and effectiveness depend on representation, finance, capacity, transparency and downward accountability.
+- **Indispensable distinction and prerequisite taxonomy:** NGO, voluntary organisation, charitable trust, society, section 8 company, SHG, cooperative and social movement are not synonyms; registration, tax treatment, foreign-contribution regulation and programme partnership use distinct legal or executive frameworks.
+- **Mechanism, implementation and evidence control:** Use Kudumbashree, SEWA, SHG-bank linkage, social movements and disaster-response partnerships with exact institutional qualification; distinguish allegation, suspension, cancellation, judicial finding and final liability, and protect both associational freedom and accountable finance.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: the official FCRA portal continues to carry the 2010 Act as amended in 2020, including the designated receipt account, twenty-percent administrative-expense ceiling and renewal framework. DAY-NRLM partnership does not erase NGO/SHG legal and accountability differences. Sources: https://fcraonline.nic.in/; https://fcraonline.nic.in/home/PDF_Doc/fc_amend_07102020_1.pdf; https://aajeevika.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Six direct General Studies Mains demands are routed to this topic across the audited ledgers, and every routed stem used below was confirmed word for word in the locally held OCR-searchable official question papers. The audited 2024-2025 ledger routes three demands to this Basic owner: the 2024 General Studies Paper-I demand on collaboration between government, non-governmental organisations and the private sector, the 2024 General Studies Paper-II demand on public charitable trusts and inclusive development, and the 2025 General Studies Paper-II demand on civil-society organisations as anti-State against non-State actors. The audited 2018-2023 ledger routes four demands to the Advanced owner - the 2020 demand on micro-finance and self-help groups, the 2021 demand on micro-financing of women's self-help groups against gender inequality, poverty and malnutrition, the 2021 demand on civil society and non-governmental organisations as an alternative public-service-delivery model, and the 2023 demand on civil-society groups and women's representation in state legislatures, the last of which the ledger marks as running primarily to the Social Justice owner with the civil-society link retained - and the Basic owner records that core routing supersedes the older Advanced pointer. Two ownership conflicts are recorded openly rather than resolved by assertion: the 2025 General Studies Paper-II demand on women's social capital, empowerment and gender equity is discussed in this owner's text but is routed by the audited 2024-2025 ledger to the Social Justice women and gender-justice owner, and the 2025 General Studies Paper-II demand on environmental pressure groups is also discussed here but is routed by that ledger to the Polity pressure-groups owner. Both are therefore treated here only as civil-society support material, and no verbatim ownership is claimed for either. No official answer key or marking scheme is held locally for any routed demand, so every model solution below is an authored answer route rather than an official key.

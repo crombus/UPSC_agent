@@ -443,3 +443,27 @@ the draft · unresolved distributional effect.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Participatory governance distributes voice across information, consultation, deliberation, co-production, monitoring and sometimes delegated decision-making; quality depends on inclusion, information, agenda control, representativeness and feedback.
+- **Indispensable distinction and prerequisite taxonomy:** Attendance is not participation, consultation is not consent, public hearing is not referendum, Gram Sabha is not an NGO forum, and crowd-sourced input does not automatically represent silent or digitally excluded groups.
+- **Mechanism, implementation and evidence control:** Use Gram Sabhas, ward committees, participatory planning, social audit and forest-rights processes with legal and territorial qualification; disclose who participates, who decides, how reasons are recorded, how dissent is handled and what appeal or action-taken follows.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: MyGov remains an official citizen-engagement platform and displayed the University Townships consultation dated 10 July-20 August 2026. An invitation, attendance or comment count does not prove representativeness, consent, reasoned response or shared decision power. Sources: https://www.mygov.in/; https://panchayat.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Two direct General Studies Paper-II Mains demands and one applied objective demand are routed to this topic across the audited ledgers, and both routed Mains stems used below were confirmed word for word in the locally held OCR-searchable official question papers. The audited 2018-2023 Mains ledger routes the 2019 demand on the need for cooperation among various service sectors and on partnership in the development process to this topic's Advanced companion, and the Basic owner records expressly that core routing supersedes that older Advanced pointer and holds all marks-bearing content for participation as a governance mechanism, so the demand is answered from the core file. The same ledger routes the 2022 demand on whether increasing dependence on donor agencies reduces the importance of community participation jointly to the development-processes owner and to this owner, because the stem names both the development industry and participation, so the four donor-distortion channels and the five-test grid remain with that owner and only the participation half is supplied here. The audited 2026 Prelims ledger routes an objective demand on participatory resolution of tribal land, waste-management and environmental conflict to this Basic owner; the 2026 Set-A key held locally is provisional, so no option, answer letter or distractor is recorded or inferred. One ownership conflict is recorded openly rather than resolved by assertion, because the 2025 General Studies Paper-II demand on decision-making and problem-solving responsibilities not located close to the source of information and execution is discussed at length in the text of this owner while the audited 2024-2025 Mains ledger routes it to the development-processes owner, so it is solved there and this owner supplies only the subsidiarity and participation half of that answer. No official answer key or marking scheme is held locally for any routed Mains demand, so every model solution below is an authored answer route rather than an official key.

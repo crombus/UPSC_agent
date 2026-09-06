@@ -1485,6 +1485,30 @@ highest relative cost of any registration or disclosure requirement.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Regulatory governance sets rules, licences, standards, monitoring, enforcement, adjudication and review to correct market or systemic failures while protecting rights, competition, stability and public interest.
+- **Indispensable distinction and prerequisite taxonomy:** Independence is protection from improper direction, not immunity from Parliament, courts, audit, reason-giving or due process; ministry, statutory regulator, appellate body, competition authority and sector operator have distinct powers.
+- **Mechanism, implementation and evidence control:** Use RBI, SEBI, TRAI, CERC and CCI only with exact statutory and jurisdictional qualification; map appointment, tenure, finance, consultation, disclosure, enforcement, appeal and judicial review, balancing expertise and credible commitment against capture and democratic deficit.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: CCI's official page continues to state its competition-culture, enforcement, consumer-welfare and growth mandate. Regulators retain statute-specific appointment, finance, enforcement, appeal and judicial-review arrangements; independence is not immunity. Sources: https://www.cci.gov.in/; https://www.sebi.gov.in/; https://www.trai.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One direct General Studies Paper-II Mains demand and two applied objective demands are routed to this topic across the audited ledgers, and the routed Mains stem was confirmed word for word in the locally held OCR-searchable official question papers. The audited 2018-2023 Mains ledger routes the 2023 demand on the role of the Competition Commission of India in containing the abuse of dominant position by multi-national corporations to this Basic owner jointly with the Polity consolidated statutory, regulatory and quasi-judicial bodies owner, so the regulatory-governance content is answered here and the composition and appointment anatomy is cross-linked rather than restated. The audited 2018-2023 Prelims ledger routes the 2018 objective demand on the Food Safety and Standards Act, 2006 and the food-safety authority's structure, and the 2019 objective demand on the Petroleum and Natural Gas Regulatory Board's role and appeals, to this owner jointly with the consolidated Polity owner and the energy owner; the official 2018-2023 Preliminary Examination keys are not held locally, so no option, answer letter or distractor is recorded or inferred for either, and no composition, membership number or appointment authority is asserted for either body. One ownership conflict is recorded openly rather than resolved by assertion: the 2025 General Studies Paper-II demand on the need for administrative tribunals compared with the court system and the impact of the 2021 rationalisation is discussed at length in the text of this owner, but the audited 2024-2025 Mains ledger routes that demand to the Polity administrative-tribunals owner, so it is solved there and this owner supplies only the regulatory-governance half of the tribunal question. No official answer key or marking scheme is held locally for any routed demand, so every model solution below is an authored answer route rather than an official key.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Why independent sectoral regulators exist?

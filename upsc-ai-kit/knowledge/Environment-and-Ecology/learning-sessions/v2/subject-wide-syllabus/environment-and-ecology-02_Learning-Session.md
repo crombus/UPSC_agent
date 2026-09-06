@@ -1246,6 +1246,42 @@ source and date rather than as a static, unchanging number.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** caste as a system of varna ideology,
+  locally ranked jatis, hereditary membership, endogamy, occupational linkage,
+  purity-pollution, social closure, inequality, mobility, association and power.
+  Varna is not jati, caste is not class and ritual rank is not political dominance.
+- **Indispensable sociology:** B.R. Ambedkar's endogamy/reproduction insight,
+  Louis Dumont's hierarchy-purity lens and M.N. Srinivas's Sanskritisation,
+  Westernisation, secularisation, dominant caste and politicisation are used as
+  bounded theories, not timeless descriptions. André Béteille's caste-class-power
+  distinction prevents collapsing three unequal resources into one ladder.
+- **Contemporary mechanism:** occupational decoupling, education, urban labour
+  markets, caste associations, electoral mobilisation and network capital change
+  caste's register while marriage boundaries and discrimination persist unevenly.
+  Compare Dalit, dominant-caste, OBC and intra-jati class/gender positions without
+  treating any category as homogeneous.
+- **Constitutional/legal boundary:** Articles 15, 16, 17 and 46; political
+  representation provisions; and Articles 341, 342 and 342A define distinct legal
+  routes. Their detailed doctrine, reservation quantum and case law remain with
+  Polity/Social Justice. The Special Marriage Act, 1954 is a civil route, not proof
+  of social acceptance.
+- **Data/source control:** Census 2027 caste enumeration is prospective. It supplies
+  no caste population, income, marriage or mobility figure as of 5 September 2026.
+  Aggregate associations never establish caste causation or uniform regional
+  experience.
+- **Cross-owner boundary:** Topic 01 owns diversity, Topic 04 kinship/marriage,
+  Topic 05 rural power and Topic 07 women. Population, empowerment and poverty
+  remain Topics 06, 08 and 09 respectively.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were tested for definitions, thinkers, reproduction
+  mechanisms, change theories, counter-cases, regional/intersectional variation
+  and legal-data limits.
+- **Verified PYQ ownership, 2018-2026:** direct GS-I demands are 2018 Q8, 2020
+  Q6, 2022 Q7, 2023 Q18 and 2024 Q9. No official 2026 GS-I paper was available
+  when checked on 5 September 2026, so none is invented.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Biogeochemical cycle?

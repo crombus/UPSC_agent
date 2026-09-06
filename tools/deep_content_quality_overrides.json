@@ -3758,7 +3758,7 @@
         },
         "ARTICLE 161 COMPARED WITH ARTICLE 72": {
           "plain": "Articles 161 and 72 confer executive clemency over different offence fields and sentence categories.",
-          "technical": "The Governor acts for offences within State executive power, cannot exercise court-martial clemency and cannot pardon a death sentence, though suspension, remission or commutation remain possible.",
+          "technical": "The Governor acts for offences within State executive power and may pardon a death sentence within that field, but cannot exercise court-martial clemency. The President separately covers court-martial cases and every death sentence.",
           "opening": "Clemency comparison must separate offence field, court martial and the precise treatment of a death sentence.",
           "keywords": [
             "Article 161",
@@ -3769,7 +3769,7 @@
           ],
           "mechanism": "The relevant Council advises the constitutional head, whose order remains reviewable for recognised constitutional defects.",
           "consequence": "Clemency tempers punishment while preserving federal allocation and rule-of-law controls.",
-          "trap": "Do not say the Governor has no power over a death sentence; the missing power is pardon, not suspension, remission or commutation."
+          "trap": "Do not say the Governor cannot pardon a death sentence. Article 161 permits pardon within the State offence-law field; the missing limb is court-martial and the President's separate power over every death sentence."
         },
         "CHIEF MINISTER: CONSTITUTIONAL POSITION AND POWERS": {
           "plain": "The Chief Minister leads the State government because Assembly confidence sustains the Council of Ministers.",
@@ -3859,7 +3859,7 @@
           ],
           "mechanism": "Compare appointment, tenure, advice, discretion, veto, ordinance, pardon, immunity and removal one axis at a time.",
           "consequence": "The method reveals common responsible-government logic and distinct federal functions.",
-          "trap": "The President can pardon a death sentence and court-martial punishment; the Governor cannot exercise those same limbs."
+          "trap": "The President covers court-martial and every death sentence; the Governor may pardon a death sentence only within the State offence-law field and has no court-martial limb."
         },
         "DUAL ROLE, FEDERAL FRICTION AND INSTITUTIONAL INCENTIVES": {
           "plain": "Union appointment and State-facing powers place the Governor at a recurring federal junction.",

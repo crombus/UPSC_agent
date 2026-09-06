@@ -245,3 +245,38 @@ Geography → Human Geography → Planning Regions & Spatial Inequality
 > without attributing it to intent, and it justifies basin- and cluster-based instruments.
 > **Limitation:** administrative units carry democratic accountability and fiscal authority that
 > functional regions lack, so they cannot simply be replaced.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** formal, functional and planning regions; regional
+  inequality and convergence; cumulative causation, spread/backwash,
+  growth-pole, core-periphery, balanced/unbalanced and agropolitan strategies;
+  India's planning chronology and spatial interventions.
+- **Theory/model control:** Myrdal, Perroux, Hirschman, Friedmann and
+  agropolitan approaches retain assumptions and transmission mechanisms.
+  A growth node produces spread only through labour, supplier, market,
+  infrastructure and fiscal linkages; convergence is an empirical result.
+- **Institutional chronology:** Five Year Plans ran from the First Plan
+  (1951-56) through the Twelfth Plan period (2012-17). The Planning
+  Commission was replaced by NITI Aayog in 2015; NITI strategy, Finance
+  Commission transfers, CSS and constitutional district/local planning are
+  not synonyms.
+- **Scale/map control:** Damodar Valley, NCR, Dandakaranya, command areas,
+  hill/tribal regions, Aspirational Districts/Blocks and freight-industrial
+  corridors are mapped by node, hinterland, administrative scale and
+  intended linkage.
+- **Date/data control:** SDG India Index 2023-24 and programme dashboards are
+  dated monitoring instruments, not timeless regional-income series.
+  Rankings, delta scores, selections, sanctions and outcomes require their
+  own reference period and coverage.
+- **Distribution/control trap:** infrastructure investment differs from
+  inclusive regional development; corridor notification from operation;
+  district targeting from proof of causal impact; balanced development from
+  equal allocation.
+- **Boundary:** Economy owns macro planning and public finance; Governance
+  owns implementation architecture. Geography owns regionalisation, spatial
+  inequality, location/linkage mechanisms and map-based evaluation.
+- **Verified PYQ ownership, 2018-2026:** audited central ledgers contain no
+  direct Topic 29 route. AI/GIS locational planning and federal/local
+  development questions remain with their routed owners; no direct PYQ is
+  fabricated.

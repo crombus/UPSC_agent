@@ -221,3 +221,27 @@ quality, aggregation, finance, logistics and enforceable settlement operate toge
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** APMC regulation, e-NAM, FPO aggregation, warehousing, grading, logistics and processing shape price discovery and farmer market access across state-regulated agricultural value chains.
+- **Indispensable distinction and prerequisite taxonomy:** APMC is not a single national statute, e-NAM listing is not integrated trade, FPO registration is not commercial viability, mandi fee is not MSP, and shorter chain does not guarantee higher farm-gate share.
+- **Mechanism, implementation and evidence control:** Map state law, market licence, assaying, payment, logistics and dispute resolution; use platform figures only with date/denominator and distinguish onboarding, transaction, settlement and realised outcome.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The SFAC FAQ was substantively retrievable and supports the legal-form and member-service anchors. The e-NAM portal failed to load, so all platform participation and transaction figures are deliberately excluded. Sources: https://www.enam.gov.in/web/; https://sfacindia.com/fpofaq.aspx
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on supermarkets, transport and marketing constraints, upstream and downstream bottlenecks, high-value crops and supply-chain management. Objective demands on Tea Board and Small Farmer Large Field are retained as concept routes without inferred answer letters.

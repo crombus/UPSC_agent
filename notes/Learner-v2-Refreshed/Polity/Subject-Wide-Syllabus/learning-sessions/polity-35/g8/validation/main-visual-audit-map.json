@@ -1,0 +1,3802 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-35",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 35 - NHRC and SHRC - Complete Topic Package",
+      "preview": "**Control date:** 5 September 2026, Asia/Kolkata **Evidence tags:** `[FACT]` directly supported by a named official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive official position; `[LIMIT]` q",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 656.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 35,
+      "heading": "Authoritative evidence board",
+      "preview": "Named evidence | Claim controlled",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Named evidence",
+          "Claim controlled"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 444.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 65,
+      "heading": "Roadmap",
+      "preview": "Stage | Units | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Stage",
+          "Units",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 461.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 83,
+      "heading": "Visual 1 - Source-to-answer ladder",
+      "preview": "CURRENT ACT / CONSTITUTION / JUDGMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 436.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 295.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 90,
+      "markdown_body_line_end": 99,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 131,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\assets\\polity-35_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legal source determines both the commissions’ authority and their statutory limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 299.556
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 247.088
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 177,
+      "heading": "Visual 2 - Legal-status classification",
+      "preview": "Institution | Creating source | Correct label | Core output",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Institution",
+          "Creating source",
+          "Correct label",
+          "Core output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 666.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 477.99
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 188,
+      "heading": "Visual 3 - Evolution timeline",
+      "preview": "28 Sep 1993      8 Jan 1994       2006 Amendment        2019 Amendment       19 Aug 2026",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 455.99
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 384.99
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 194,
+      "markdown_body_line_end": 200,
+      "heading": "Visual 4 - Mandatory versus enabling constitution",
+      "preview": "CENTRAL GOVERNMENT                      STATE GOVERNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 343.79
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 282.79
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 210,
+      "heading": "Visual 5 - Status is not sanction",
+      "preview": "What statutory status gives | What it does not automatically give",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "What statutory status gives",
+          "What it does not automatically give"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 231,
+      "heading": "CLOSING RECALL FLOW - IDENTITY, LEGAL SOURCE AND STATUTORY EVOLUTION",
+      "preview": "START / CONCEPT: IDENTITY, LEGAL SOURCE AND STATUTORY EVOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 413.69
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not write that all international human-rights declarations, treaties or soft-law documents are directly enforceable in India merely because they concern human rights.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 278.69
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 212.022
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 279,
+      "heading": "Visual 6 - Statutory definition formula",
+      "preview": "LIFE + LIBERTY + EQUALITY + DIGNITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 567.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 466.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 289,
+      "heading": "Visual 7 - International-covenant gate",
+      "preview": "Instrument | Automatically within section 2(f)? | Reason",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Instrument",
+          "Automatically within section 2(f)?",
+          "Reason"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 444.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 291.69
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 304,
+      "heading": "Visual 8 - Rights-to-remedy chain",
+      "preview": "CONSTITUTION / SPECIFIED COVENANT RIGHT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 327,
+      "heading": "CLOSING RECALL FLOW - WHAT \"HUMAN RIGHTS\" MEANS UNDER THE ACT",
+      "preview": "START / CONCEPT: WHAT “HUMAN RIGHTS” MEANS UNDER THE ACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 620.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 379.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 338,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The amended NHRC composition combines judicial experience, human-rights expertise and specialist coordination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 259.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 206.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 391,
+      "heading": "Visual 9 - NHRC standing composition",
+      "preview": "CHAIRPERSON",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 391.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 260.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 398,
+      "heading": "Visual 10 - Standing and deemed members",
+      "preview": "Layer | Number | Participation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Layer",
+          "Number",
+          "Participation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 720.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 413,
+      "heading": "Visual 11 - Deemed-member integration map",
+      "preview": "NCBC  NCM  NCPCR  NCSC  NCST  NCW  Chief Commissioner PwD",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 698.29
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 587.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 423,
+      "heading": "Visual 12 - Pre-2019 versus post-2019 control",
+      "preview": "Dimension | Earlier structure | Current post-2019 structure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Earlier structure",
+          "Current post-2019 structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 565.29
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 423.488
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW - NHRC COMPOSITION AFTER THE 2019 AMENDMENT",
+      "preview": "START / CONCEPT: NHRC COMPOSITION AFTER THE 2019 AMENDMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 401.488
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 180.488
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appointment design and protected removal seek independence while preserving legality review.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 499,
+      "heading": "Visual 13 - NHRC appointment chain",
+      "preview": "SIX-MEMBER COMMITTEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 509,
+      "heading": "Visual 14 - Selection-committee trap grid",
+      "preview": "Included | Not included by section 4",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Included",
+          "Not included by section 4"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 513.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 523,
+      "heading": "Visual 15 - Tenure clock",
+      "preview": "CHAIRPERSON: entry + 3 years OR age 70, whichever earlier -> reappointment eligible",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 377.29
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 336.29
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 549,
+      "heading": "Visual 16 - Two removal tracks",
+      "preview": "TRACK A: PROVED MISBEHAVIOUR / INCAPACITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 555,
+      "markdown_body_line_end": 572,
+      "heading": "CLOSING RECALL FLOW - NHRC APPOINTMENT, TENURE, RESIGNATION AND REMOVAL",
+      "preview": "START / CONCEPT: NHRC APPOINTMENT, TENURE, RESIGNATION AND REMOVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 630.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 409.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 583,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The SHRC architecture combines State-level access with a centrally protected removal route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 270.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 217.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 616,
+      "heading": "Visual 17 - SHRC standing composition",
+      "preview": "CHAIRPERSON",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 677.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 586.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 640,
+      "heading": "Visual 18 - SHRC appointment chain",
+      "preview": "UNICAMERAL STATE: CM + Assembly Speaker + State Home Minister + Assembly LoP",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 395.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 304.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 655,
+      "heading": "Visual 19 - SHRC asymmetry",
+      "preview": "Stage | Authority",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Authority"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 674,
+      "heading": "Visual 20 - NHRC-SHRC design comparison",
+      "preview": "Dimension | NHRC | SHRC",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Dimension",
+          "NHRC",
+          "SHRC"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 555.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 361.488
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 695,
+      "heading": "CLOSING RECALL FLOW - SHRC DESIGN: COMPOSITION, APPOINTMENT, TENURE AND REMOVAL",
+      "preview": "START / CONCEPT: SHRC DESIGN: COMPOSITION, APPOINTMENT, TENURE AND REMOVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 339.488
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 128.488
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 706,
+      "markdown_body_line_end": 706,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The commissions combine protective inquiry with preventive, educational and advisory functions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 745,
+      "heading": "Visual 21 - Section 12 function wheel",
+      "preview": "Clause | Function | Exact limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Clause",
+          "Function",
+          "Exact limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 550.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 759,
+      "heading": "Visual 22 - Complaint entry routes",
+      "preview": "SUO MOTU              VICTIM PETITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 528.69
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 427.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 771,
+      "heading": "Visual 23 - Court-intervention boundary",
+      "preview": "pending court proceeding",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 24
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 405.69
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 324.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 779,
+      "markdown_body_line_end": 786,
+      "heading": "Visual 24 - NHRC versus SHRC function delta",
+      "preview": "Function | NHRC | SHRC",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Function",
+          "NHRC",
+          "SHRC"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 804,
+      "heading": "Visual 25 - Protection and promotion",
+      "preview": "PROTECTION ARM                           PROMOTION ARM",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 546.69
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 445.69
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 825,
+      "heading": "CLOSING RECALL FLOW - FUNCTIONS: WHAT THE COMMISSIONS ARE AUTHORISED TO DO",
+      "preview": "START / CONCEPT: FUNCTIONS: WHAT THE COMMISSIONS ARE AUTHORISED TO DO",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 423.69
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 202.69
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 836,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Strong evidence-gathering powers coexist with dependence on government-linked investigation support.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 868,
+      "markdown_body_line_end": 871,
+      "heading": "Visual 26 - Civil-court power kit",
+      "preview": "SUMMON -> EXAMINE ON OATH -> REQUIRE DOCUMENTS -> RECEIVE AFFIDAVITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 756.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 881,
+      "heading": "Visual 27 - Power-status distinction",
+      "preview": "Proposition | Correct? | Why",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Proposition",
+          "Correct?",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 734.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 592.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 903,
+      "heading": "Visual 28 - Investigation chain",
+      "preview": "COMMISSION decides investigation needed",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 441.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 320.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 916,
+      "heading": "Visual 29 - Procedural-fairness gate",
+      "preview": "Will inquiry examine conduct",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 922,
+      "markdown_body_line_end": 936,
+      "heading": "Visual 30 - Complaint-processing flow",
+      "preview": "COMPLAINT / SUO MOTU / COURT ROUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 505.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 957,
+      "heading": "CLOSING RECALL FLOW - INQUIRY POWERS, INVESTIGATION AND PROCEDURAL FAIRNESS",
+      "preview": "START / CONCEPT: INQUIRY POWERS, INVESTIGATION AND PROCEDURAL FAIRNESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 483.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 262.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 968,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The follow-up chain creates publicity and accountability without making the recommendation a self-executing decree.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 141.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 89.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1007,
+      "heading": "Visual 31 - Section 18 remedy menu",
+      "preview": "FINDING OF VIOLATION / ABETMENT / PUBLIC-SERVANT NEGLIGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 438.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 347.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1018,
+      "heading": "Visual 32 - Evidence power versus remedy power",
+      "preview": "Stage | Commission strength | Ceiling",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stage",
+          "Commission strength",
+          "Ceiling"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 325.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 173.49
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1032,
+      "heading": "Visual 33 - Ordinary response timetable",
+      "preview": "Commission sends report + recommendations",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1046,
+      "heading": "Visual 34 - Reporting accountability chain",
+      "preview": "NHRC REPORT -> Centre/concerned State -> Parliament/State Legislature",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 583.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 522.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1071,
+      "heading": "CLOSING RECALL FLOW - WHAT THE COMMISSION MAY DO AFTER INQUIRY",
+      "preview": "START / CONCEPT: WHAT THE COMMISSION MAY DO AFTER INQUIRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 433.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 212.491
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1082,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "N.C. Dhoundial v. Union of India (2003), the Supreme Court treated section 36(2) as a jurisdictional bar, rejected a generic “continuing wrong until reparation” theory for detention that had ended, and noted the absence of a statutory power",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1115,
+      "heading": "Visual 35 - Section 36 double gate",
+      "preview": "GATE 1: Is matter pending before SHRC/another lawful commission?",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 368.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 287.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1124,
+      "heading": "Visual 36 - Date-of-act test",
+      "preview": "Situation | Relevant inquiry question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Situation",
+          "Relevant inquiry question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1150,
+      "heading": "Visual 37 - SHRC jurisdiction filter",
+      "preview": "human-rights allegation",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 503.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 402.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1160,
+      "markdown_body_line_end": 1169,
+      "heading": "Visual 38 - Private-actor nexus",
+      "preview": "PRIVATE ACTOR ALLEGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1190,
+      "heading": "CLOSING RECALL FLOW - JURISDICTIONAL BOUNDARIES",
+      "preview": "START / CONCEPT: JURISDICTIONAL BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 674.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1201,
+      "markdown_body_line_end": 1201,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 19 is an NHRC report-and-recommendation procedure, not an ordinary direct investigation under sections 13-18.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 322.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 255.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1241,
+      "heading": "Visual 39 - Armed-forces route",
+      "preview": "complaint / suo motu",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 642.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 511.691
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1251,
+      "heading": "Visual 40 - Ordinary case versus armed-forces case",
+      "preview": "Dimension | Ordinary section 17-18 route | Armed-forces section 19 route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Ordinary section 17-18 route",
+          "Armed-forces section 19 route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 489.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 359.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1276,
+      "heading": "CLOSING RECALL FLOW - THE SPECIAL ARMED-FORCES PROCEDURE",
+      "preview": "START / CONCEPT: THE SPECIAL ARMED-FORCES PROCEDURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 408
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1287,
+      "markdown_body_line_end": 1287,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 31 requires, for every Human Rights Court, notification of a Public Prosecutor or appointment of an advocate with at least seven years' practice as Special Public Prosecutor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1321,
+      "heading": "Visual 41 - Human Rights Court chain",
+      "preview": "STATE GOVERNMENT proposal",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 622.691
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1331,
+      "heading": "Visual 42 - Commission and court are different",
+      "preview": "Institution | Main role | Binding output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Institution",
+          "Main role",
+          "Binding output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 600.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 470.09
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1339,
+      "markdown_body_line_end": 1356,
+      "heading": "CLOSING RECALL FLOW - HUMAN RIGHTS COURTS AND SPECIAL PUBLIC PROSECUTORS",
+      "preview": "START / CONCEPT: HUMAN RIGHTS COURTS AND SPECIAL PUBLIC PROSECUTORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 381.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 130.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1367,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accreditation is an external institutional benchmark, not a substitute for evaluating statutory powers and practice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1405,
+      "heading": "Visual 43 - Paris Principles hexagon",
+      "preview": "BROAD MANDATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1417,
+      "heading": "Visual 44 - Domestic design against Paris heads",
+      "preview": "Paris head | Supporting feature in PHRA | Tension/qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Paris head",
+          "Supporting feature in PHRA",
+          "Tension/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 466.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1438,
+      "heading": "Visual 45 - Accreditation chronology",
+      "preview": "2017 concerns",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 444.49
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 273.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1459,
+      "heading": "Visual 46 - Status language control",
+      "preview": "Unsafe sentence | Controlled sentence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Unsafe sentence",
+          "Controlled sentence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 654.29
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1480,
+      "heading": "CLOSING RECALL FLOW - PARIS PRINCIPLES AND GANHRI ACCREDITATION",
+      "preview": "START / CONCEPT: PARIS PRINCIPLES AND GANHRI ACCREDITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 632.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 411.29
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1491,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Case law shows that court-assigned expertise can supplement but does not erase the Commission’s statutory limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 276.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 223.822
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1515,
+      "markdown_body_line_end": 1519,
+      "heading": "Visual 47 - Paramjit Kaur v. State of Punjab (1999) exception",
+      "preview": "ORDINARY NHRC CASE                SUPREME COURT ARTICLE 32 ASSIGNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 599.891
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1533,
+      "markdown_body_line_end": 1543,
+      "heading": "Visual 48 - N.C. Dhoundial v. Union of India (2003) holding chain",
+      "preview": "illegal detention ended",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 335.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1564,
+      "heading": "Visual 49 - EEVFAM (2016) answer map",
+      "preview": "Claim | Named evidence | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 639.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1568,
+      "markdown_body_line_end": 1572,
+      "heading": "Visual 50 - Three-case synthesis",
+      "preview": "PARAMJIT KAUR V. STATE OF PUNJAB (1999) -> constitutional assignment can place NHRC beyond ordinary s.36(2)",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 617.39
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 566.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1576,
+      "markdown_body_line_end": 1593,
+      "heading": "CLOSING RECALL FLOW - CASE LAW: EXACT HOLDINGS AND ANSWER USE",
+      "preview": "START / CONCEPT: CASE LAW: EXACT HOLDINGS AND ANSWER USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 544.39
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 323.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1604,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Comparison prevents a merger proposal from erasing constitutional status or specialist mandates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 202.59
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 150.122
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1621,
+      "markdown_body_line_end": 1628,
+      "heading": "Visual 51 - NHRC, SHRC and constitutional commissions",
+      "preview": "Dimension | NHRC | SHRC | NCSC/NCST/NCBC",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "NHRC",
+          "SHRC",
+          "NCSC/NCST/NCBC"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 507.39
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1632,
+      "markdown_body_line_end": 1639,
+      "heading": "Visual 52 - NHRC versus courts, Lokpal and specialised bodies",
+      "preview": "Body | Basis | Jurisdiction | Typical output | Binding force",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 6,
+        "headers": [
+          "Body",
+          "Basis",
+          "Jurisdiction",
+          "Typical output",
+          "Binding force"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 485.39
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 275.488
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1643,
+      "markdown_body_line_end": 1656,
+      "heading": "Visual 53 - Why one umbrella body is difficult",
+      "preview": "CONSTITUTIONAL BODIES: NCSC / NCST / NCBC",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1664,
+      "markdown_body_line_end": 1676,
+      "heading": "Visual 54 - Binding-force ladder",
+      "preview": "PUBLICITY / ADVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 567.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 446.491
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1680,
+      "markdown_body_line_end": 1697,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONAL COMPARISONS",
+      "preview": "START / CONCEPT: INSTITUTIONAL COMPARISONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 424.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 203.491
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1708,
+      "markdown_body_line_end": 1708,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Effectiveness: Strengths, Structural Limits And Practical Limits comprises Effectiveness, Strengths and Structural Limits as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1723,
+      "markdown_body_line_end": 1732,
+      "heading": "Visual 55 - Strength-limit pairs",
+      "preview": "Strength | Named basis | Paired limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Strength",
+          "Named basis",
+          "Paired limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 342.422
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1736,
+      "markdown_body_line_end": 1743,
+      "heading": "Visual 56 - Structural versus practical limitations",
+      "preview": "Structural: written into law | Practical: operation and capacity",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Structural: written into law",
+          "Practical: operation and capacity"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 320.422
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 168.62
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1749,
+      "markdown_body_line_end": 1760,
+      "heading": "Visual 57 - Influence without decree",
+      "preview": "FACT FINDING",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1764,
+      "markdown_body_line_end": 1781,
+      "heading": "CLOSING RECALL FLOW - EFFECTIVENESS: STRENGTHS, STRUCTURAL LIMITS AND PRACTICAL LIMITS",
+      "preview": "START / CONCEPT: EFFECTIVENESS: STRENGTHS, STRUCTURAL LIMITS AND PRACTICAL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1792,
+      "markdown_body_line_end": 1792,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sequencing reforms by statute, rules and administration makes the proposal executable rather than rhetorical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 322.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 270.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1809,
+      "markdown_body_line_end": 1819,
+      "heading": "Visual 58 - Problem-to-reform matrix",
+      "preview": "Problem | Reform proposal | Legal status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Problem",
+          "Reform proposal",
+          "Legal status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 471.09
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1823,
+      "markdown_body_line_end": 1835,
+      "heading": "Visual 59 - Enforceability design options",
+      "preview": "OPTION 1: make every recommendation binding",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 449.09
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 328.09
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1841,
+      "markdown_body_line_end": 1853,
+      "heading": "Visual 60 - Paris-aligned reform sequence",
+      "preview": "OPEN APPOINTMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1859,
+      "markdown_body_line_end": 1876,
+      "heading": "CLOSING RECALL FLOW - REFORM ARCHITECTURE",
+      "preview": "START / CONCEPT: REFORM ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 610.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 379.891
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1881,
+      "markdown_body_line_end": 1888,
+      "heading": "Visual 61 - 2026 current-control board",
+      "preview": "Date/source | Verified current point | Safe use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Date/source",
+          "Verified current point",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 332.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 136.29
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1892,
+      "markdown_body_line_end": 1897,
+      "heading": "Visual 62 - Claim-evidence-analysis-qualification template",
+      "preview": "Step | Example",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Step",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1901,
+      "markdown_body_line_end": 1907,
+      "heading": "Visual 63 - Directive-specific answer spines",
+      "preview": "Directive | Spine",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "Spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 644.69
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 458.088
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1911,
+      "markdown_body_line_end": 1915,
+      "heading": "Visual 64 - Marks-scaled evidence load",
+      "preview": "Marks | Structure | Minimum named evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Minimum named evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 436.088
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 325.487
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1919,
+      "markdown_body_line_end": 1930,
+      "heading": "Visual 65 - Ten close-option traps",
+      "preview": "Trap | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Trap",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 303.487
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 66.885
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1934,
+      "markdown_body_line_end": 1940,
+      "heading": "Visual 66 - Final analytical thesis bank",
+      "preview": "1. Strong inquiry, weak compulsory remedy.",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2522,
+      "markdown_body_line_end": 2528,
+      "heading": "Visual 71 - MCQ coverage matrix",
+      "preview": "Domain | Original MCQs | Remedials | Rotation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Domain",
+          "Original MCQs",
+          "Remedials",
+          "Rotation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 674.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 547.89
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2548,
+      "markdown_body_line_end": 2553,
+      "heading": "Visual 67 - PYQ provenance board",
+      "preview": "Year/paper | Question | Route status | Key control",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Year/paper",
+          "Question",
+          "Route status",
+          "Key control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 285.89
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 158.988
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2591,
+      "heading": "Visual 68 - 2018 argument tree",
+      "preview": "OVERLAP PROBLEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 398.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 277.691
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2639,
+      "markdown_body_line_end": 2646,
+      "heading": "Visual 69 - 2021 diagnosis-remedy chain",
+      "preview": "Limitation | Named evidence | Remedy",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Limitation",
+          "Named evidence",
+          "Remedy"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 630.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 433.89
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2678,
+      "markdown_body_line_end": 2684,
+      "heading": "Visual 70 - Prelims source test",
+      "preview": "ASK FIRST: \"Where is the body created?\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 401.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 340.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2710,
+      "markdown_body_line_end": 2713,
+      "heading": "Visual 72 - 10-marker spine: definition",
+      "preview": "exact words -> International Covenants gate -> enforceability purpose",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 384.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 353.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2761,
+      "markdown_body_line_end": 2766,
+      "heading": "Visual 73 - 10-marker comparison grid",
+      "preview": "Head | NHRC | SHRC",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Head",
+          "NHRC",
+          "SHRC"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 675.89
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2810,
+      "markdown_body_line_end": 2813,
+      "heading": "Visual 74 - Power-character test",
+      "preview": "court-like evidence powers != court status",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 427.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 396.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2861,
+      "markdown_body_line_end": 2867,
+      "heading": "Visual 75 - Paris gap-to-reform map",
+      "preview": "Paris head | Gap | Reform",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Paris head",
+          "Gap",
+          "Reform"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2915,
+      "markdown_body_line_end": 2918,
+      "heading": "Visual 76 - Limitation balance",
+      "preview": "FINALITY + FRESH EVIDENCE  <---->  ACCESS + CONCEALED/GRAVE VIOLATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 292.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 261.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2966,
+      "markdown_body_line_end": 2971,
+      "heading": "Visual 77 - Security-accountability design",
+      "preview": "Legitimate need | Safeguard",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Legitimate need",
+          "Safeguard"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 616.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 506.89
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3022,
+      "markdown_body_line_end": 3030,
+      "heading": "Visual 78 - Phased reform staircase",
+      "preview": "PHASE 1: vacancies + transparency + case tracking",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3085,
+      "markdown_body_line_end": 3094,
+      "heading": "Visual 79 - Rights-enforcement chain",
+      "preview": "COMPLAINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 214.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 123.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3098,
+      "markdown_body_line_end": 3106,
+      "heading": "Visual 80 - Practice inventory",
+      "preview": "Component | Count | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 612.29
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3151,
+      "markdown_body_line_end": 3155,
+      "heading": "Human-rights definition",
+      "preview": "life + liberty + equality + dignity",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 372.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 331.891
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3162,
+      "markdown_body_line_end": 3168,
+      "heading": "NHRC composition recall",
+      "preview": "Chair: former CJI or former SC judge",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 258.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 197.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3180,
+      "markdown_body_line_end": 3183,
+      "heading": "Removal split",
+      "preview": "Route | Control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Route",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 707.09
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3187,
+      "markdown_body_line_end": 3191,
+      "heading": "SHRC high-yield asymmetry",
+      "preview": "Governor appoints",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 682.09
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 641.09
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3201,
+      "markdown_body_line_end": 3209,
+      "heading": "Functions register",
+      "preview": "Function | Exact qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Function",
+          "Exact qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 515.89
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 331.688
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3221,
+      "markdown_body_line_end": 3228,
+      "heading": "Section 18 output register",
+      "preview": "recommend compensation/damages",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 195.688
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 124.688
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3235,
+      "markdown_body_line_end": 3241,
+      "heading": "Jurisdiction fences",
+      "preview": "Fence | Rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Fence",
+          "Rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3245,
+      "markdown_body_line_end": 3250,
+      "heading": "Armed-forces control",
+      "preview": "NHRC seeks Central report",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 629.69
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 578.69
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3264,
+      "markdown_body_line_end": 3271,
+      "heading": "Paris Principles and accreditation control",
+      "preview": "Paris head | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Paris head",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 425.49
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 273.688
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3280,
+      "markdown_body_line_end": 3284,
+      "heading": "Case-law capsule",
+      "preview": "Case | Holding/use | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Case",
+          "Holding/use",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 179.888
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 46.887
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3288,
+      "markdown_body_line_end": 3295,
+      "heading": "Comparison capsule",
+      "preview": "NHRC/SHRC: statutory inquiry + recommendation",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 714.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3315,
+      "markdown_body_line_end": 3322,
+      "heading": "PYQ routes and final answer spine",
+      "preview": "THESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 386.891
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3346,
+      "markdown_body_line_end": 3366,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Statutory origin and the section 2 human-rights field",
+      "preview": "PROTECTION OF HUMAN RIGHTS ACT, 1993",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 558.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3370,
+      "markdown_body_line_end": 3387,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: NHRC composition and deemed-member boundary",
+      "preview": "NHRC: Chairperson + five ordinary members under section 3(2).",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 536.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 362.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3391,
+      "markdown_body_line_end": 3405,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: NHRC appointment, tenure and removal",
+      "preview": "APPOINTMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 340.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 196.691
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3409,
+      "markdown_body_line_end": 3422,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: SHRC design and the federal jurisdiction line",
+      "preview": "SHRC MAY be constituted by State Government.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3426,
+      "markdown_body_line_end": 3446,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Section 12 functions and section 13 evidence powers",
+      "preview": "SECTION 12 FUNCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3450,
+      "markdown_body_line_end": 3464,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Investigation support and procedural fairness",
+      "preview": "SECTIONS 11 AND 14",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 261.491
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3468,
+      "markdown_body_line_end": 3491,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Inquiry outputs, reporting and the one-year bar",
+      "preview": "ENTRY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3495,
+      "markdown_body_line_end": 3506,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Section 19 armed-forces procedure",
+      "preview": "NHRC own motion/petition -> seek Central Government report",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 529.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3510,
+      "markdown_body_line_end": 3520,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Human Rights Courts and prosecution bridge",
+      "preview": "SECTIONS 30-31",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 292.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3524,
+      "markdown_body_line_end": 3545,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Overlap, referral and specialised commissions",
+      "preview": "NHRC",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 572.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3549,
+      "markdown_body_line_end": 3574,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Paris Principles, accreditation and case-law controls",
+      "preview": "PARIS PRINCIPLES, 1993",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 24,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 294.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3578,
+      "markdown_body_line_end": 3601,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Limits, reforms, PYQs and qualified verdict",
+      "preview": "STRUCTURAL LIMITS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    }
+  ]
+}

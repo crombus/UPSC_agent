@@ -1318,6 +1318,29 @@ economy, technology, Global South and institutional reform.
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Indian foreign policy converts constitutional values, national interests, capabilities and external constraints into choices across autonomy, alignment, partnerships and multilateral action; strategic autonomy is decision capacity, not equidistance or isolation.
+- **Indispensable distinction and prerequisite taxonomy:** Non-alignment is a historically situated policy, strategic autonomy is a wider contemporary decision principle, multi-alignment is a retrospective analytical label rather than an official treaty status, and issue-based partnership is not alliance membership.
+- **Mechanism, implementation and evidence control:** Separate strategic objective, diplomatic or economic instrument, implementation and observed outcome; test domestic capability, partner reliability, escalation, dependence, opportunity cost and alternative instruments at bilateral, regional and systemic levels.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: MEA still records three Voice of Global South editions, the latest on 17 August 2024, and no fourth edition; the 12 March 2025 Mauritius vision remains the official MAHASAGAR anchor. Strategic autonomy and multi-alignment remain analytical methods, while SAGAR/MAHASAGAR are declared visions rather than treaties. Sources: https://www.mea.gov.in/voice-of-global-summit; https://www.mea.gov.in/vogss; https://www.pmindia.gov.in/en/news_updates/india-mauritius-joint-vision-for-an-enhanced-strategic-partnership/
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One objective demand is routed to this topic in the audited routing ledgers and it is reproduced here exactly as the ledger records it: 2024 Prelims General Studies Paper I, question 86, on books authored by S. Jaishankar, namely The India Way and Why Bharat Matters. The owner's own integration block records that the official 2024 Prelims Set-A key is present locally, yet it states expressly that no option or answer is recorded or inferred, and that rule is preserved here without exception, so no answer letter appears anywhere in this package. No General Studies Paper II Mains demand in the audited 2024-2025 papers directly names strategic autonomy, non-alignment or multi-alignment, and the owners instruct that this be stated honestly rather than force-fitted onto an unrelated question, so no Mains demand card is manufactured for this topic and no adjacent question is claimed as its property. The locally held OCR-searchable official General Studies papers were read only to confirm printed wording; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or page precision was imported. Every model solution in the original practice section below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, and none of them reproduces or claims an official answer.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and why the whole International Relations folder depends on it?

@@ -1,0 +1,4362 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Preamble of the Constitution - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-04` **Generation identity:** `polity-04:learner-v2:g18` · generated 28 August 2026 · supersedes `polity-04:learner-v2:g17` in metadata only **Approval:** false — explicit appr",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 403.022
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\polity-04_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 79,
+      "heading": "Master learning roadmap",
+      "preview": "DEFINITION AND CATEGORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 637.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 506.691
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 121,
+      "markdown_body_line_end": 121,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A preamble is the Constitution's introductory declaration: it identifies the source of authority, the character of the polity, its governing objectives and the act of adoption.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 138.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 72.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 134,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (OPENING DEFINITION):** A preamble is the Constitution's introductory declaration: it identifies the source of authority, the character of the polity, its governing objectives and the act of ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 577.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 136,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 577.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 547.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 150,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Question the examiner is really asking | The precise answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Question the examiner is really asking",
+          "The precise answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 390.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 203.554
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 182,
+      "heading": "CLOSING RECALL FLOW - WHAT A PREAMBLE IS, AND WHAT KIND OF INSTRUMENT INDIA'S PREAMBLE IS",
+      "preview": "START / CONCEPT: What a preamble is, and what kind of instrument India's Preamble is",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 731.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 480.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 193,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's Preamble is the Objectives Resolution in modified constitutional form, linking Nehru's founding resolution to the text finally enacted by the Constituent Assembly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 341.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 274.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 206,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (LINEAGE):** India's Preamble is the Objectives Resolution in modified constitutional form, linking Nehru's founding resolution to the text finally enacted by the Constituent Assembly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 101.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 42.756
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 208,
+      "markdown_body_line_end": 208,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 210,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Objectives Resolution to Preamble: how the promise became text",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\02_objectives_resolution_to_preamble.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 772.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 589.002
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 224,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Stage | Date | What happened",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Date",
+          "What happened"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 384.402
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 230.201
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 256,
+      "heading": "CLOSING RECALL FLOW - FROM THE OBJECTIVES RESOLUTION TO THE PREAMBLE: THE DRAFTING CHAIN",
+      "preview": "START / CONCEPT: From the Objectives Resolution to the Preamble: the drafting chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 267,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The operative text runs: \"WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 318.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 166.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 280,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (TEXT ARCHITECTURE):** The Preamble is one enacting sentence in which 'We, the People' resolve to constitute the State, secure justice, liberty and equality, promote fraternity, and adopt, en",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 282,
+      "markdown_body_line_end": 282,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 696.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 666.356
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 284,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Preamble: the four-ingredient architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\01_four_ingredient_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 666.356
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 467.331
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 298,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Clause | Text fragment | Constitutional job",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Clause",
+          "Text fragment",
+          "Constitutional job"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 583.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 313,
+      "markdown_body_line_end": 330,
+      "heading": "CLOSING RECALL FLOW - THE AUTHORITATIVE TEXT AND ITS CLAUSE ARCHITECTURE",
+      "preview": "START / CONCEPT: The authoritative text and its clause architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 798
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 372.29
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 91.29
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 341,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "'We, the People of India' locates constituent authority in popular sovereignty, while the Assembly's constrained origin is qualified by the universal franchise and democratic ratification created by the Constitution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 354,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (POPULAR SOVEREIGNTY):** 'We, the People of India' locates constituent authority in popular sovereignty, while the Assembly's constrained origin is qualified by the universal franchise and de",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 406.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 347.756
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 356,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 347.756
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 368,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Proposition | Status",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Proposition",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 671.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 400,
+      "heading": "CLOSING RECALL FLOW - INGREDIENT 1 - THE SOURCE OF AUTHORITY: \"WE, THE PEOPLE OF INDIA\"",
+      "preview": "START / CONCEPT: Ingredient 1 - the source of authority: \"We, the People of India\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 292
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 446.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 205.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Equally, the dates attached to the words are examinable: three of the five descriptors existed in 1950; two arrived in 1976.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 424,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (DESCRIPTOR MAP):** The sequence 'Sovereign Socialist Secular Democratic Republic' states India's constitutional identity, but each descriptor earns marks only when connected to its operative",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 510.956
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 426,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 510.956
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 480.488
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 428,
+      "markdown_body_line_end": 428,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Keyword to constitutional anchor: every Preamble word is cashed out in the text",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\03_keyword_anchor_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 480.488
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 244.061
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 435,
+      "markdown_body_line_end": 442,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Preamble word | Operative anchors in the Constitution | One-line meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Preamble word",
+          "Operative anchors in the Constitution",
+          "One-line meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 539.49
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 474,
+      "heading": "CLOSING RECALL FLOW - INGREDIENT 2 - THE NATURE OF THE INDIAN STATE: THE FIVE DESCRIPTORS",
+      "preview": "START / CONCEPT: Ingredient 2 - the nature of the Indian State: the five descriptors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 314.49
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 83.49
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 485,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian sovereignty means freedom from external subordination, not freedom from voluntarily assumed legal obligations; Commonwealth membership, UN membership and treaty commitments do not place a superior sovereign above India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 498,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SOVEREIGN):** Indian sovereignty means freedom from external subordination, not freedom from voluntarily assumed legal obligations; Commonwealth membership, UN membership and treaty commitme",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 425.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 366.756
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 366.756
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 336.288
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Sovereign: what the word does and does not concede",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\09_sovereignty_dimensions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 336.288
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 142.432
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 517,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Edge case | Effect on sovereignty | Constitutional route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Edge case",
+          "Effect on sovereignty",
+          "Constitutional route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 649.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 483.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 549,
+      "heading": "CLOSING RECALL FLOW - SOVEREIGN",
+      "preview": "START / CONCEPT: Sovereign",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 560,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The first is to treat \"socialist\" as requiring nationalisation - it never did, because democratic socialism always contemplated a mixed economy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 573,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SOCIALIST):** Indian socialism is democratic socialism: it constitutionalises a welfare and equality floor within a mixed economy, rather than prescribing State ownership or one immutable ec",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 186.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 127.156
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 575,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 127.156
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 96.688
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 590,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Variety of socialism | Core method | India's position",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Variety of socialism",
+          "Core method",
+          "India's position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 614.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 449.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 622,
+      "heading": "CLOSING RECALL FLOW - SOCIALIST",
+      "preview": "START / CONCEPT: Socialist",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 633,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Even before insertion, the Supreme Court held in 1974 that although the words \"secular State\" were not expressly mentioned, there could be no doubt that the Constitution-makers wanted to establish such a State, and accordingly Articles 25 t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 646,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SECULAR):** Indian secularism secures equal citizenship and freedom of conscience through principled State engagement, not a theocracy, religious preference or an absolute wall of separation",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 196.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 137.156
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 648,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 137.156
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 106.688
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 650,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Indian positive secularism against the American wall of separation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\10_secular_models_india_us.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 619.47
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 666,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | India | United States",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "India",
+          "United States"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 326.67
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 106.469
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 698,
+      "heading": "CLOSING RECALL FLOW - SECULAR",
+      "preview": "START / CONCEPT: Secular",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 541.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 300.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 709,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Preamble's democracy is representative and parliamentary in form, popular in source, and incomplete unless political equality is joined by social and economic democracy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 151.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 84.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 722,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (DEMOCRATIC):** The Preamble's democracy is representative and parliamentary in form, popular in source, and incomplete unless political equality is joined by social and economic democracy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 669.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 610.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 724,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 610.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 580.356
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 738,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Layer of democracy | Constitutional expression | Honest assessment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Layer of democracy",
+          "Constitutional expression",
+          "Honest assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 303.756
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 170.754
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 770,
+      "heading": "CLOSING RECALL FLOW - DEMOCRATIC",
+      "preview": "START / CONCEPT: Democratic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 445.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 781,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Republicanism rejects hereditary public authority and privileged status by combining an elected head of State with the equal eligibility of citizens for public office.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 324.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 794,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (REPUBLIC):** Republicanism rejects hereditary public authority and privileged status by combining an elected head of State with the equal eligibility of citizens for public office.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 796,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 713.956
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 808,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Element of \"Republic\" | Constitutional anchor",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Element of \"Republic\"",
+          "Constitutional anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 574.156
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 464.754
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 840,
+      "heading": "CLOSING RECALL FLOW - REPUBLIC",
+      "preview": "START / CONCEPT: Republic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 300
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 851,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Preamble's justice clause is the constitutional bridge between Part III and Part IV: political justice is largely a Part III project, economic justice is largely a Part IV project, and social justice runs across both.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 334.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 864,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (JUSTICE):** Preambular justice joins social, economic and political dimensions, using Fundamental Rights and Directive Principles to connect equal citizenship with distributive change.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 161.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 102.956
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 866,
+      "markdown_body_line_end": 866,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 102.956
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 72.488
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 868,
+      "markdown_body_line_end": 868,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The value chain: justice, liberty, equality, fraternity as a union of trinity",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\08_value_chain_trinity.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 589.366
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 884,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Form of justice | Meaning | Principal anchors",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Form of justice",
+          "Meaning",
+          "Principal anchors"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 350.366
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 229.765
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 916,
+      "heading": "CLOSING RECALL FLOW - INGREDIENT 3 - THE OBJECTIVES: JUSTICE",
+      "preview": "START / CONCEPT: Ingredient 3 - the objectives: Justice",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 927,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Liberty and equality are mutually sustaining constitutional conditions: liberty is qualified freedom for personality, while equality removes privilege and enlarges status and opportunity rather than guaranteeing identical outcomes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 940,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (LIBERTY AND EQUALITY):** Liberty and equality are mutually sustaining constitutional conditions: liberty is qualified freedom for personality, while equality removes privilege and enlarges s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 196.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 137.156
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 942,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 137.156
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 106.688
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 953,
+      "markdown_body_line_end": 957,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension of equality | Provisions | What it secures",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension of equality",
+          "Provisions",
+          "What it secures"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 600.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 478.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 989,
+      "heading": "CLOSING RECALL FLOW - LIBERTY AND EQUALITY",
+      "preview": "START / CONCEPT: Liberty and Equality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fraternity is the Preamble's horizontal ethic: it must be promoted among citizens so that dignity is individual, unity is psychological and social, and integrity is territorial.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 339.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1013,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FRATERNITY):** Fraternity is the Preamble's horizontal ethic: it must be promoted among citizens so that dignity is individual, unity is psychological and social, and integrity is territoria",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 167.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 108.156
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1015,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 108.156
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 77.688
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1030,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Element | Constitutional expression",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Element",
+          "Constitutional expression"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 572.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 440.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1062,
+      "heading": "CLOSING RECALL FLOW - FRATERNITY, DIGNITY OF THE INDIVIDUAL, AND UNITY AND INTEGRITY OF THE NATION",
+      "preview": "START / CONCEPT: Fraternity, dignity of the individual, and unity and integrity of the Nation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 304
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Preamble was enacted last so that it would conform to the Constitution already accepted, making 26 November 1949 the date of constitutional self-giving and 26 January 1950 the distinct date of commencement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 302.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1086,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ADOPTION SEQUENCE):** The Preamble was enacted last so that it would conform to the Constitution already accepted, making 26 November 1949 the date of constitutional self-giving and 26 Janua",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 129.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 70.956
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1088,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 70.956
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 40.488
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1095,
+      "markdown_body_line_end": 1101,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Date | What it marks | Where it appears",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "What it marks",
+          "Where it appears"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 663.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 510.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1116,
+      "markdown_body_line_end": 1133,
+      "heading": "CLOSING RECALL FLOW - INGREDIENT 4 - THE DATE OF ADOPTION, AND THE ENACTMENT SEQUENCE",
+      "preview": "START / CONCEPT: Ingredient 4 - the date of adoption, and the enactment sequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 310
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 313.89
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 52.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Preamble is an identity card, key-note and yardstick because it compresses the Constitution's purposes into an authoritative standard of interpretation and evaluation, not because scholar descriptions create legal force.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1157,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SIGNIFICANCE):** The Preamble is an identity card, key-note and yardstick because it compresses the Constitution's purposes into an authoritative standard of interpretation and evaluation, n",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 406.624
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 347.756
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1159,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** SUPPORTING",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 347.756
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1176,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Authority | Formulation | Analytical use in an answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Authority",
+          "Formulation",
+          "Analytical use in an answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 595.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1191,
+      "markdown_body_line_end": 1208,
+      "heading": "CLOSING RECALL FLOW - SIGNIFICANCE: WHAT THE MAKERS AND THE SCHOLARS SAID THE PREAMBLE DOES",
+      "preview": "START / CONCEPT: Significance: what the makers and the scholars said the Preamble does",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 293
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 371.69
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 130.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1219,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kesavananda Bharati (1973) case (1973): the Supreme Court rejected the earlier opinion and held that the Preamble IS a part of the Constitution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1232,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (LEGAL STATUS):** The case-law movement is from Berubari Union (1960)'s interpretive key but exclusion, to Kesavananda Bharati (1973)'s membership, to LIC OF INDIA (1995)'s integral-part reaf",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 406.624
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 347.756
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1234,
+      "markdown_body_line_end": 1234,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 347.756
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1236,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Legal status of the Preamble: Berubari Union (1960) to Kesavananda Bharati (1973) to LIC OF INDIA (1995) to 2024",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\04_legal_status_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 317.288
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 123.432
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1250,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Case | Year | Route | Holding on the Preamble",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Case",
+          "Year",
+          "Route",
+          "Holding on the Preamble"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 632.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 494.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1282,
+      "heading": "CLOSING RECALL FLOW - LEGAL STATUS: BERUBARI UNION (1960) TO KESAVANANDA BHARATI (1973) TO LIC OF INDIA (1995)",
+      "preview": "START / CONCEPT: Legal status: Berubari Union (1960) to Kesavananda Bharati (1973) to LIC of India (1995)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 452
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1293,
+      "markdown_body_line_end": 1293,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Being part of the Constitution does not make the Preamble independently enforceable: it neither confers nor prohibits legislative power and remains non-justiciable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 363.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 296.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1306,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (LEGAL CAVEATS):** Being part of the Constitution does not make the Preamble independently enforceable: it neither confers nor prohibits legislative power and remains non-justiciable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 124.024
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 65.156
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1308,
+      "markdown_body_line_end": 1308,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1310,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "How the Preamble actually bites: interpretive force without justiciability",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\06_interpretive_force_mechanism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 772.824
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 573.798
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1326,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Proposition | True or false | Consequence in an answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Proposition",
+          "True or false",
+          "Consequence in an answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 383.398
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 209.197
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1358,
+      "heading": "CLOSING RECALL FLOW - THE TWO PERMANENT CAVEATS, OPERATIONALISED",
+      "preview": "START / CONCEPT: The two permanent caveats, operationalised",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 499.691
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1369,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 368 reaches the Preamble, but basic structure prevents amendment from destroying the constitutional identity its words declare; the text has been amended only once, in 1976.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 374.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 307.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1382,
+      "markdown_body_line_end": 1382,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (AMENDABILITY):** Article 368 reaches the Preamble, but basic structure prevents amendment from destroying the constitutional identity its words declare; the text has been amended only once, ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 134.624
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 75.756
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1384,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 75.756
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 45.288
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1386,
+      "markdown_body_line_end": 1386,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Amendment power and the basic-structure boundary around the Preamble",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\05_amendment_basic_structure_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 614.301
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1400,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Inside the amending power | Outside the amending power",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Inside the amending power",
+          "Outside the amending power"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 364.101
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 242.299
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1432,
+      "heading": "CLOSING RECALL FLOW - AMENDABILITY AND THE BASIC-STRUCTURE BOUNDARY",
+      "preview": "START / CONCEPT: Amendability and the basic-structure boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1443,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Preamble has legal force through interpretation and basic-structure review, always through operative provisions and never as a substitute for them.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1456,
+      "markdown_body_line_end": 1456,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (INTERPRETIVE FORCE):** The Preamble has legal force through interpretation and basic-structure review, always through operative provisions and never as a substitute for them.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 177.024
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 118.156
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1458,
+      "markdown_body_line_end": 1458,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 118.156
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 87.688
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1466,
+      "markdown_body_line_end": 1470,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Route | Trigger | Legal effect | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Route",
+          "Trigger",
+          "Legal effect",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 518.19
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1502,
+      "heading": "CLOSING RECALL FLOW - HOW THE PREAMBLE ACTUALLY BITES: THE INTERPRETIVE-FORCE MECHANISM",
+      "preview": "START / CONCEPT: How the Preamble actually bites: the interpretive-force mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 294.39
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 63.39
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1505,
+      "heading": "20. Current status control: Dr Balram Singh v. Union of India (25 November 2024)",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CURRENT LEGAL STATUS):** Through 28 August 2026, the verified controlling position remains Dr Balram Singh (25 November 2024): 'socialist' and 'secular' stand, and no later official Supreme ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 726.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1507,
+      "markdown_body_line_end": 1507,
+      "heading": "20. Current status control: Dr Balram Singh v. Union of India (25 November 2024)",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 726.424
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 695.956
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1509,
+      "markdown_body_line_end": 1509,
+      "heading": "20. Current status control: Dr Balram Singh v. Union of India (25 November 2024)",
+      "preview": "Socialism and secularism: the challenge-and-reply matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\07_socialism_secularism_debate_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 695.956
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 441.892
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1528,
+      "heading": "20. Current status control: Dr Balram Singh v. Union of India (25 November 2024)",
+      "preview": "Ground of challenge | Court's reply | Anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Ground of challenge",
+          "Court's reply",
+          "Anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 638.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 395.49
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1551,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Preamble is the Constitution in miniature: a non-justiciable but authoritative charter that identifies the source, identity and ends of the Republic and guides interpretation without displacing operative text.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1564,
+      "markdown_body_line_end": 1564,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FINAL VERDICT):** The Preamble is the Constitution in miniature: a non-justiciable but authoritative charter that identifies the source, identity and ends of the Republic and guides interpre",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 376.156
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1566,
+      "markdown_body_line_end": 1566,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 376.156
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 345.688
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1568,
+      "markdown_body_line_end": 1568,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "GS-II answer spine for any Preamble question",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\11_gs2_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 345.688
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 136.628
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1578,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand type | Typical directive | Spine to use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Demand type",
+          "Typical directive",
+          "Spine to use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 626.69
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1597,
+      "markdown_body_line_end": 1614,
+      "heading": "CLOSING RECALL FLOW - EXAM ARCHITECTURE: CONVERTING THE PREAMBLE INTO MARKS",
+      "preview": "START / CONCEPT: Exam architecture: converting the Preamble into marks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1662,
+      "markdown_body_line_end": 1662,
+      "heading": "40 core diagnostic MCQs",
+      "preview": "Prelims trap grid: the wrong sentence and the correct sentence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\12_prelims_trap_grid.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 608.891
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 344.793
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2234,
+      "markdown_body_line_end": 2239,
+      "heading": "Verified PYQ provenance and count",
+      "preview": "Corpus | Items retained | Provenance / ownership status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Corpus",
+          "Items retained",
+          "Provenance / ownership status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 534.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 379.89
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2248,
+      "markdown_body_line_end": 2248,
+      "heading": "PYQ 1. Prelims 2020, GS Paper I, Question 16 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. The official UPSC answer key for the 2020 Prelims is not held in this repository. The solution below is reasoned from the constitutional position and is offered with **high confidence**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 310.29
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 251.422
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2285,
+      "markdown_body_line_end": 2285,
+      "heading": "PYQ 2. Prelims 2021, GS Paper I, Question 93 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. No official key for the 2021 Prelims is held locally. Confidence: **high**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 695.024
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2325,
+      "markdown_body_line_end": 2325,
+      "heading": "PYQ 3. Prelims 2020, GS Paper I, Question 8 - verbatim-verified stem; option labels reconstructed",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. The local scan renders the option codes imperfectly; the numbered statements are verbatim and the codes follow the standard UPSC four-option format. Confidence: **high** on the answer, **",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 643.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 584.824
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2360,
+      "markdown_body_line_end": 2360,
+      "heading": "PYQ 4. Prelims 2020, GS Paper I, Question 12 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. Confidence: **high**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 588.824
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2396,
+      "heading": "PYQ 5. Prelims 2020, GS Paper I, Question 7 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. The local scan drops the labels on the last two options; the order printed is as reproduced. Confidence: **high** on the answer. The same proposition was tested again in **Prelims 2021, Q",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 633.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2436,
+      "heading": "PYQ 6. Mains 2024, GS Paper II, Question 15 (15 marks, 250 words) - verbatim-verified",
+      "preview": "Why this earns marks: the answer defines before it compares; it fixes the Indian model with dated textual and judicial evidence (1976 insertion, the 1974 observation, *Balram Singh* 2024, *Bommai* 1994) rather than with adjectives; it struc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 313.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 226.024
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2438,
+      "markdown_body_line_end": 2438,
+      "heading": "PYQ 6. Mains 2024, GS Paper II, Question 15 (15 marks, 250 words) - verbatim-verified",
+      "preview": "How to improve this answer: Add a compact India–US comparison table in rough work and include one present-day US neutrality qualification so “wall of separation” is not presented as an absolute rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 226.024
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 181.356
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2474,
+      "markdown_body_line_end": 2474,
+      "heading": "PYQ 7. Mains 2025, GS Paper II, Question 11 (15 marks, 250 words) - verbatim-verified",
+      "preview": "Why this earns marks: it defines the concept by **derivation** (Preamble values plus Ambedkar's trinity) rather than by assertion, which immediately answers the \"explain the concept\" limb with authority; it then converts the abstract idea i",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 625.824
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2476,
+      "heading": "PYQ 7. Mains 2025, GS Paper II, Question 11 (15 marks, 250 words) - verbatim-verified",
+      "preview": "How to improve this answer: Name one concrete accountability device—reasoned judgments, recusal disclosure or transparent case allocation—and explain why it preserves rather than subordinates judicial independence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 625.824
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 581.156
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2512,
+      "markdown_body_line_end": 2512,
+      "heading": "PYQ 8. Mains 2025, GS Paper IV, Question 1(b) (10 marks, 150 words) - verbatim-verified",
+      "preview": "Why this earns marks: it engages the quotation's exact claim - \"not natural but cultivated\" - and explains **why** cultivation is necessary (the gap between social morality and constitutional morality), which most answers omit; it structure",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 350.624
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2514,
+      "heading": "PYQ 8. Mains 2025, GS Paper IV, Question 1(b) (10 marks, 150 words) - verbatim-verified",
+      "preview": "How to improve this answer: Add one field-level administrative example, such as a reasoned welfare-benefit decision under Article 14, and separate lawful obedience from uncritical compliance with an unlawful instruction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 350.624
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 305.956
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2544,
+      "markdown_body_line_end": 2544,
+      "heading": "PYQ 9. Mains 2021, GS Paper II, Question 1 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "Why this earns marks: it reproduces the exact two-limb demand, defines the doctrine from constitutional text, identifies four facets and proves application through three named 2018 decisions rather than leaving the required judicial-decisio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 398.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 339.624
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2546,
+      "heading": "PYQ 9. Mains 2021, GS Paper II, Question 1 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "How to improve this answer: in the exam, add one sentence distinguishing constitutional morality from constitutional conventions, and, if space permits, identify the specific institutional value used in each case instead of merely listing c",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 339.624
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 280.756
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2577,
+      "markdown_body_line_end": 2577,
+      "heading": "PYQ 10. Mains 2019, GS Paper II, Question 5 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "Why this earns marks: it answers the one-way question actually asked, explains the French baseline briefly, then derives three specific lessons from named Indian provisions and closes with a qualified transfer rather than an irrelevant two-",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 307.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 248.424
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2579,
+      "heading": "PYQ 10. Mains 2019, GS Paper II, Question 5 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "How to improve this answer: add one concrete French controversy only if accurately remembered, and explicitly test the proposed accommodation against neutrality, equality and public order so the lesson does not become an unqualified defence",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 248.424
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 189.556
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2583,
+      "heading": "Six original solved Mains models",
+      "preview": "GS-II answer spine for any Preamble question",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\11_gs2_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 164.556
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 594.231
+        }
+      },
+      "pdf_pages": [
+        72,
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2616,
+      "markdown_body_line_end": 2616,
+      "heading": "Original Mains Model 1. The Preamble is a part of the Constitution, yet it confers no power and bars none. Examine. (10 marks, 150 words)",
+      "preview": "Why this earns marks: the answer names the analytical distinction in its first line, which is what \"examine\" demands; it evidences the membership limb with three dated cases in sequence; it states the two caveats in the examiner's own vocab",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 603.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 516.024
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2618,
+      "markdown_body_line_end": 2618,
+      "heading": "Original Mains Model 1. The Preamble is a part of the Constitution, yet it confers no power and bars none. Examine. (10 marks, 150 words)",
+      "preview": "How to improve this answer: Quote the three-case sequence in one line, then identify Articles 245–246 as the actual source of legislative competence so membership, power and enforceability remain analytically separate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 516.024
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 471.356
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2653,
+      "markdown_body_line_end": 2653,
+      "heading": "Original Mains Model 2. \"The Preamble was enacted last so that it might conform to the Constitution.\" Discuss the constitutional significance of this sequence. (10 marks, 150 words)",
+      "preview": "Why this earns marks: most candidates know the sequencing fact and stop there; this answer treats the fact as a premise and derives **three distinct constitutional consequences** from it, which is exactly what \"discuss the significance\" req",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 406.891
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 319.624
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2655,
+      "markdown_body_line_end": 2655,
+      "heading": "Original Mains Model 2. \"The Preamble was enacted last so that it might conform to the Constitution.\" Discuss the constitutional significance of this sequence. (10 marks, 150 words)",
+      "preview": "How to improve this answer: Use the 26 November 1949 adoption and 26 January 1950 commencement dates explicitly, and connect “conform to the Constitution” to interpretive reliability rather than merely repeating chronology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 319.624
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 274.956
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2690,
+      "markdown_body_line_end": 2690,
+      "heading": "Original Mains Model 3. \"Article 368 reaches the Preamble, but the basic features declared in the Preamble do not yield to Article 368.\" Critically examine. (15 marks, 250 words)",
+      "preview": "Why this earns marks: it treats the quotation as a **two-part proposition** and defends each part separately with dated authority, which is the correct response to \"critically examine\" of a compound statement; it supplies the *Kesavananda B",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2692,
+      "markdown_body_line_end": 2692,
+      "heading": "Original Mains Model 3. \"Article 368 reaches the Preamble, but the basic features declared in the Preamble do not yield to Article 368.\" Critically examine. (15 marks, 250 words)",
+      "preview": "How to improve this answer: Identify the exact 42nd-Amendment additions and test a hypothetical deletion of “secular” against basic structure; this converts doctrine into an applied critical answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 671.356
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2727,
+      "markdown_body_line_end": 2727,
+      "heading": "Original Mains Model 4. The word \"socialist\" in the Preamble fixes ends, not means. Examine this proposition in the light of judicial pronouncements and India's economic experience. (15 marks, 250 words)",
+      "preview": "Why this earns marks: it adopts the ends-means frame as the answer's own architecture, so the structure itself argues the proposition; each limb carries dated, named judicial evidence rather than assertion; the economic-experience section s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 427.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 340.624
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2729,
+      "markdown_body_line_end": 2729,
+      "heading": "Original Mains Model 4. The word \"socialist\" in the Preamble fixes ends, not means. Examine this proposition in the light of judicial pronouncements and India's economic experience. (15 marks, 250 words)",
+      "preview": "How to improve this answer: Distinguish constitutional welfare ends from policy instruments with one DPSP anchor and one post-1991 example, while avoiding the claim that every privatisation measure raises a constitutional violation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 340.624
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 281.756
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2762,
+      "markdown_body_line_end": 2762,
+      "heading": "Original Mains Model 5. \"The Preamble is an interpretive charter rather than an enforceable clause; yet it remains the yardstick by which the worth of the Constitution is measured.\" Critically analyse. (20 marks, 250 words)",
+      "preview": "Why this earns marks: it identifies that the quotation contains **two separable claims** and tests each on its own terms, which is the highest-value move available in a \"critically analyse\" question; the legal limb is fully evidenced and na",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 163.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 62.224
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2764,
+      "markdown_body_line_end": 2764,
+      "heading": "Original Mains Model 5. \"The Preamble is an interpretive charter rather than an enforceable clause; yet it remains the yardstick by which the worth of the Constitution is measured.\" Critically analyse. (20 marks, 250 words)",
+      "preview": "How to improve this answer: Illustrate indirect force with one ambiguity-resolution example and one basic-structure example, then state the stop rule that clear operative text cannot be rewritten by the Preamble alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2800,
+      "markdown_body_line_end": 2800,
+      "heading": "Original Mains Model 6. \"Indian secularism is a facet of the right to equality rather than a wall of separation.\" Critically examine with reference to constitutional provisions and judicial doctrine. (20 marks, 250 words)",
+      "preview": "Why this earns marks: it converts the quotation into a **locatable constitutional claim** and then proves the claim from text, from a dated 2024 holding and from basic-structure doctrine; the *Faruqui* proposition is deployed as the decisiv",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 338.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 237.424
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2802,
+      "markdown_body_line_end": 2802,
+      "heading": "Original Mains Model 6. \"Indian secularism is a facet of the right to equality rather than a wall of separation.\" Critically examine with reference to constitutional provisions and judicial doctrine. (20 marks, 250 words)",
+      "preview": "How to improve this answer: Qualify both comparators: Indian engagement must remain rights-based and non-discriminatory, while current US doctrine does not absolutely exclude neutral public benefits reaching religious recipients.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 237.424
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 178.556
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2825,
+      "markdown_body_line_end": 2825,
+      "heading": "21. Advanced - the socialism debate after 1991",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (POST-1991 SOCIALISM):** After 1991, 'socialist' remains constitutionally relevant because it fixes welfare and equality ends while leaving economic instruments to democratic choice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 454.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 395.624
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2827,
+      "markdown_body_line_end": 2827,
+      "heading": "21. Advanced - the socialism debate after 1991",
+      "preview": "**CONTENT CLASSIFICATION:** OPTIONAL ADVANCED",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 395.624
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 365.156
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2838,
+      "markdown_body_line_end": 2843,
+      "heading": "21. Advanced - the socialism debate after 1991",
+      "preview": "Period | Dominant constitutional emphasis | Anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Period",
+          "Dominant constitutional emphasis",
+          "Anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 660.29
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2858,
+      "heading": "22. Advanced - the secularism debate and the comparative frame",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (COMPARATIVE SECULARISM):** India and the United States share religious liberty and non-establishment as a floor, but India uses principled distance and reform power where the American tradit",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 432.29
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 373.422
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2860,
+      "heading": "22. Advanced - the secularism debate and the comparative frame",
+      "preview": "**CONTENT CLASSIFICATION:** OPTIONAL ADVANCED",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 373.422
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 342.954
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2877,
+      "heading": "22. Advanced - the secularism debate and the comparative frame",
+      "preview": "Axis of comparison | India | United States",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis of comparison",
+          "India",
+          "United States"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 629.09
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2892,
+      "markdown_body_line_end": 2892,
+      "heading": "23. Advanced - constitutional morality as a Preamble-derived doctrine",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CONSTITUTIONAL MORALITY):** Constitutional morality is text-linked fidelity to constitutional values, procedures and institutional restraint; it is neither majoritarian social morality nor a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 401.09
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 342.222
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2894,
+      "markdown_body_line_end": 2894,
+      "heading": "23. Advanced - constitutional morality as a Preamble-derived doctrine",
+      "preview": "**CONTENT CLASSIFICATION:** OPTIONAL ADVANCED",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 342.222
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 311.754
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2903,
+      "markdown_body_line_end": 2908,
+      "heading": "23. Advanced - constitutional morality as a Preamble-derived doctrine",
+      "preview": "Facet | Preamble anchor | Illustrative application",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Facet",
+          "Preamble anchor",
+          "Illustrative application"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 757.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 592.29
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2923,
+      "markdown_body_line_end": 2923,
+      "heading": "24. Advanced - criticisms of the Preamble and the constitutional replies",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM AND REPLY):** The strongest criticism is not that the Preamble lacks value, but that its promises remain under-realised; the reply is that it supplies the constitutional standard b",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 321.69
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 262.822
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2925,
+      "markdown_body_line_end": 2925,
+      "heading": "24. Advanced - criticisms of the Preamble and the constitutional replies",
+      "preview": "**CONTENT CLASSIFICATION:** OPTIONAL ADVANCED",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 262.822
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 232.354
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2929,
+      "markdown_body_line_end": 2936,
+      "heading": "24. Advanced - criticisms of the Preamble and the constitutional replies",
+      "preview": "Criticism | Reply | Evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Reply",
+          "Evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 461.09
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3064,
+      "markdown_body_line_end": 3083,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: From Objectives Resolution to authoritative Preamble",
+      "preview": "13 DEC 1946  Objectives Resolution moved by Jawaharlal Nehru",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 208.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3087,
+      "markdown_body_line_end": 3101,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Clause architecture: authority, identity, ends and enactment",
+      "preview": "WE, THE PEOPLE OF INDIA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3105,
+      "markdown_body_line_end": 3118,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Five State descriptors: exact constitutional work",
+      "preview": "DESCRIPTOR   CONSTITUTIONAL WORK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3122,
+      "markdown_body_line_end": 3136,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Justice, liberty, equality and fraternity as one system",
+      "preview": "JUSTICE: social + economic + political",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 322.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3140,
+      "markdown_body_line_end": 3156,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995): legal status settled",
+      "preview": "BERUBARI UNION (1960)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 287.691
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 123.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3160,
+      "markdown_body_line_end": 3177,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Amendability stops at constitutional identity",
+      "preview": "ARTICLE 368",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3181,
+      "markdown_body_line_end": 3196,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: How non-justiciable words produce legal force",
+      "preview": "AMBIGUOUS CONSTITUTIONAL TEXT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3200,
+      "markdown_body_line_end": 3212,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Preamble claims: problem and precise response",
+      "preview": "CLAIM                                      PRECISE RESPONSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 292.091
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3216,
+      "markdown_body_line_end": 3235,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Exact PYQ control: wording, ownership and answer route",
+      "preview": "DIRECT OWNER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3239,
+      "markdown_body_line_end": 3264,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Exact 10/15/20-mark architecture: Preamble as identity and interpretive control",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 24,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 557.691
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 301.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3283,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Current legal control and qualified synthesis",
+      "preview": "DR BALRAM SINGH (2024 INSC 893; 25 NOV 2024)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3287,
+      "markdown_body_line_end": 3296,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 2024 current-law control: Socialist and Secular remain",
+      "preview": "42ND AMENDMENT 1976 -> inserts SOCIALIST, SECULAR and INTEGRITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 518.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    }
+  ]
+}

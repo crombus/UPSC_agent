@@ -393,3 +393,27 @@ citizen's own initiative, which is exactly the asymmetry the charter was meant t
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Citizen-centric administration begins with the user's entitlement and journey, then redesigns standards, forms, channels, frontline discretion, communication, grievance, appeal and feedback so that the institution is accessible, predictable and responsive.
+- **Indispensable distinction and prerequisite taxonomy:** Citizen charter is a publicly stated service commitment, not automatically a statutory guarantee; customer convenience is not the whole of citizenship, single-window is not single accountability, and grievance closure is not substantive remedy.
+- **Mechanism, implementation and evidence control:** Use Sevottam, time-bound service laws, Common Service Centres and district service centres with named duty-holders, escalation and inclusion safeguards; measure access, time, first-contact resolution, reasoned rejection, appeal and citizen outcome.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: Sevottam, citizen-charter guidance and CPGRAMS remain executive service-quality and grievance instruments. A charter is not automatically a statutory guarantee, and portal disposal is not necessarily reasoned resolution, compensation or appellate remedy. Sources: https://darpg.gov.in/relatedlinks/sevottam; https://pgportal.gov.in/; https://darpg.gov.in/relatedlinks/citizen-charter
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Two direct General Studies Paper-II Mains demands are routed to this topic across the audited ledgers and both routed stems were confirmed word for word in the locally held OCR-searchable official question papers. The audited 2024-2025 ledger routes the 2024 demand on the doctrine of democratic governance and the public perception of the integrity and commitment of civil servants to this Basic owner. The audited 2018-2023 ledger routes the 2018 demand identifying the limitations of the Citizens' Charter and suggesting measures for its greater effectiveness to the Advanced owner, and the Basic owner records that core routing supersedes the older Advanced pointer, so it is answered from the core file. One ownership conflict is recorded openly rather than resolved by assertion: the 2024 General Studies Paper-II demand on the Citizens' Charter as a landmark initiative that is yet to reach its full potential is discussed at length in the text of this owner, but the audited 2024-2025 ledger routes that demand to the transparency, accountability, grievance-redress and social-audit owner, so it is solved there and treated here only as the same demand family as the 2018 charter demand. The remaining solved cards below are the adjacent routed demands for which this owner supplies the institutional service-standard and grievance material, and each card states its own ledger routing rather than claiming verbatim ownership. No official answer key or marking scheme is held locally for any routed demand, so every model solution below is an authored answer route rather than an official key, and no Preliminary demand is routed to this owner.

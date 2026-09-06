@@ -1418,6 +1418,30 @@ can now see the trail, and the trail is only as good as the classification behin
   exam-safe proposition is the **mechanism** — DBT's savings arise from removing fake,
   duplicate and ineligible entries — not any total.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Public finance for service delivery follows need and entitlement, appropriation, release, procurement or transfer, expenditure, output, outcome, audit and legislative or social follow-up; economy, efficiency, effectiveness and equity are separate tests.
+- **Indispensable distinction and prerequisite taxonomy:** Budget allocation is not release, release is not expenditure, utilisation certificate is not outcome, direct benefit transfer is not every electronic payment, public financial management system is not an audit institution, and audit observation is not final guilt.
+- **Mechanism, implementation and evidence control:** Use PFMS, DBT, Government e-Marketplace, outcome budgets and CAG-PAC chains with exact institutional ownership; include exclusion errors, authentication failure, procurement competition, beneficial ownership, grievance, recovery, hearing and system correction.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: PFMS identifies CGA/Department of Expenditure ownership and distinguishes fund tracking, accounting and DBT payment. Allocation, release, transfer, expenditure, output, outcome and audit conclusion remain separate evidentiary stages. Sources: https://pfms.nic.in/SitePages/aboutus.aspx; https://dbtbharat.gov.in/; https://gem.gov.in/; https://cag.gov.in/en/audit-report
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One direct General Studies Paper-II Mains demand is routed to this topic across the audited ledgers, and its stem was confirmed word for word in the locally held OCR-searchable official question paper. The audited 2018-2023 Mains ledger routes the 2022 General Studies Paper-II demand on reforming the government delivery system through the Direct Benefit Transfer Scheme and its limitations to the Advanced companion, and the Basic owner records expressly that core routing supersedes that older Advanced pointer and holds all marks-bearing content for the budget-to-beneficiary chain, so the demand is answered from the core file. No further Mains demand and no objective demand in the audited 2018-2023, 2024-2025 or 2026 ledgers is routed to this topic, so no additional demand card is manufactured and no question is invented from the locally held papers. No official answer key or marking scheme is held locally for the routed demand, so the model solution below is an authored answer route rather than an official key, and no cumulative savings figure, beneficiary count, scheme count, failure rate, coverage percentage, procurement threshold or portal statistic is recorded or inferred anywhere.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies The budget-to-beneficiary chain this owner holds?

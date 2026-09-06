@@ -1,0 +1,1987 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\polity-48_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\polity-48_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-48",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Ministries and Departments of Government - CORE / EXAM-COMPLETE",
+      "preview": "**Subject:** Polity · **Tier:** Core · **GS Paper:** GS-II **Official clause:** \"Structure, organization and functioning of the Executive and the Judiciary-Ministries and Departments of the Government.\" **Grounded in:** Constitution Article",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 649.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 15,
+      "markdown_body_line_end": 24,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 622.324
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 372.122
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 53,
+      "markdown_body_line_end": 53,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\assets\\polity-48_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 718.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 411.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 67,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The missing operating chain matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 256.956
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 190.288
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 106,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PEOPLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 508.891
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 133,
+      "heading": "CLOSING RECALL FLOW - THE MISSING OPERATING CHAIN",
+      "preview": "START / CONCEPT: The missing operating chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 437.791
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 226.791
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional foundation matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 105.991
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 39.324
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 167,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Provision | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Provision",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 345.69
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 179,
+      "heading": "Formal name versus real responsibility",
+      "preview": "**Trap:** \"In the President's name\" does not mean \"personally decided by the President.\"",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 221.49
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 191.022
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 202,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL FOUNDATION",
+      "preview": "START / CONCEPT: Constitutional foundation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 213,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Allocation of Business Rules versus Transaction of Business Rules matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 234,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Question | Allocation of Business Rules, 1961 | Transaction of Business Rules, 1961",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Allocation of Business Rules, 1961",
+          "Transaction of Business Rules, 1961"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 605.49
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 236,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Mnemonic:** **AoB = Address of Business**; **ToB = Travel of Business**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 605.49
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 575.022
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 276,
+      "heading": "CLOSING RECALL FLOW - ALLOCATION OF BUSINESS RULES VERSUS TRANSACTION OF BUSINESS RULES",
+      "preview": "START / CONCEPT: Allocation of Business Rules versus Transaction of Business Rules",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 347.722
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 126.722
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 287,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ministry, department and portfolio matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 305,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 314,
+      "heading": "Political and administrative heads",
+      "preview": "Political executive | Permanent executive",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Political executive",
+          "Permanent executive"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 325.622
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 171.42
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 321,
+      "markdown_body_line_end": 323,
+      "heading": "Political and administrative heads",
+      "preview": "**Responsibility rule:** Policy advice may be confidential, but administration is not accountability-free. Ministerial responsibility coexists with civil-service responsibility under service rules, audit, vigilance, law and departmental hie",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 123.82
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 64.953
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 346,
+      "heading": "CLOSING RECALL FLOW - MINISTRY, DEPARTMENT AND PORTFOLIO",
+      "preview": "START / CONCEPT: Ministry, department and portfolio",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 357,
+      "markdown_body_line_end": 357,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Central Secretariat matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 397,
+      "heading": "Typical internal hierarchy",
+      "preview": "Secretary",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 768.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 697.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 403,
+      "markdown_body_line_end": 404,
+      "heading": "Typical internal hierarchy",
+      "preview": "**Trap:** Every file need not travel to the Secretary or Minister. Delegation and level-based disposal are essential to prevent delay and apex overload.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 645.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 600.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 427,
+      "heading": "CLOSING RECALL FLOW - THE CENTRAL SECRETARIAT",
+      "preview": "START / CONCEPT: The Central Secretariat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 576.324
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 375.324
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Secretariat and executive agencies matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 254.524
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 187.856
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 459,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Organisation | Primary role | Relationship",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Organisation",
+          "Primary role",
+          "Relationship"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 484.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "Policy-implementation distinction",
+      "preview": "**Trap:** Delegating implementation does not eliminate ministerial or departmental accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 360.69
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 330.222
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 494,
+      "heading": "CLOSING RECALL FLOW - SECRETARIAT AND EXECUTIVE AGENCIES",
+      "preview": "START / CONCEPT: Secretariat and executive agencies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 305.722
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 104.722
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 505,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "How a major proposal moves matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 542,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Problem / political commitment / field evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 227.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 580,
+      "heading": "CLOSING RECALL FLOW - HOW A MAJOR PROPOSAL MOVES",
+      "preview": "START / CONCEPT: How a major proposal moves",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 779.791
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 578.791
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 591,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet Secretariat matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 457.991
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 391.324
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 656,
+      "heading": "CLOSING RECALL FLOW - CABINET SECRETARIAT",
+      "preview": "START / CONCEPT: Cabinet Secretariat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 550.391
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 339.391
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet, Cabinet Committees and Committees of Secretaries matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 199.591
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 132.924
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 684,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Body | Composition | Nature | Main use",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Body",
+          "Composition",
+          "Nature",
+          "Main use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 721.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 593.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 711,
+      "heading": "CLOSING RECALL FLOW - CABINET, CABINET COMMITTEES AND COMMITTEES OF SECRETARIES",
+      "preview": "START / CONCEPT: Cabinet, Cabinet Committees and Committees of Secretaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 536.99
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 315.99
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 722,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet Secretariat versus PMO matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 195.19
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 128.522
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 740,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Cabinet Secretariat | Prime Minister's Office",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Cabinet Secretariat",
+          "Prime Minister's Office"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 592.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 767,
+      "heading": "CLOSING RECALL FLOW - CABINET SECRETARIAT VERSUS PMO",
+      "preview": "START / CONCEPT: Cabinet Secretariat versus PMO",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 535.59
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 324.59
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 778,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accountability of ministries and departments matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 184.79
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 118.122
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 820,
+      "markdown_body_line_end": 822,
+      "heading": "Administrative and performance",
+      "preview": "**Core distinction:** Parliament holds the Minister politically accountable; audit, courts, vigilance and service law can identify administrative or personal responsibility within the department.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 274.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 845,
+      "heading": "CLOSING RECALL FLOW - ACCOUNTABILITY OF MINISTRIES AND DEPARTMENTS",
+      "preview": "START / CONCEPT: Accountability of ministries and departments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 250.124
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 856,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Major design problems matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 665.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 598.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 879,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Problem | Mechanism | Consequence | Corrective direction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Problem",
+          "Mechanism",
+          "Consequence",
+          "Corrective direction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 440.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 126.822
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - MAJOR DESIGN PROBLEMS",
+      "preview": "START / CONCEPT: Major design problems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Office procedure, e-Office and dated reform controls matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 936,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "receipt -> diarisation/registration -> examination and noting -> consultation",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 776.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 972,
+      "heading": "CLOSING RECALL FLOW - OFFICE PROCEDURE, E-OFFICE AND DATED REFORM CONTROLS",
+      "preview": "START / CONCEPT: Office procedure, e-Office and dated reform controls",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 582.791
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 361.791
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform architecture matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 240.991
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 174.324
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1035,
+      "heading": "CLOSING RECALL FLOW - REFORM ARCHITECTURE",
+      "preview": "START / CONCEPT: Reform architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 439.991
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 228.991
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1046,
+      "markdown_body_line_end": 1046,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PYQ and answer applications matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 108.191
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 41.524
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1109,
+      "heading": "CLOSING RECALL FLOW - PYQ AND ANSWER APPLICATIONS",
+      "preview": "START / CONCEPT: PYQ and answer applications",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 287.791
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 86.791
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1120,
+      "markdown_body_line_end": 1120,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims traps matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1169,
+      "heading": "CLOSING RECALL FLOW - PRELIMS TRAPS",
+      "preview": "START / CONCEPT: Prelims traps",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1180,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains-ready template matters because governmental authority must be matched by an identifiable procedure and a traceable responsibility chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1211,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Core firewall:** Skipping Advanced does not remove any indispensable definition, institution, distinction, trap or PYQ application needed for this syllabus area.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1232,
+      "heading": "CLOSING RECALL FLOW - MAINS-READY TEMPLATE",
+      "preview": "START / CONCEPT: Mains-ready template",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 703.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 492.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1235,
+      "heading": "Answer architecture (10/15/20-mark support)",
+      "preview": "Purpose: this file already carries the full institutional spine (sections 1–13), PYQ answer engines (section 14), Prelims traps (section 15) and a Mains template (section 16). This section adds **only the directive-sensitive answer layer** ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 467.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 394.156
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1246,
+      "heading": "17.1 Demand and directive map",
+      "preview": "Demand family | Typical directive signals | Answer spine to use (owned sections)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Demand family",
+          "Typical directive signals",
+          "Answer spine to use (owned sections)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 372.156
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 97.154
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1261,
+      "heading": "17.3 Mark-scaled structures",
+      "preview": "Marks | Architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 647.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 480.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1276,
+      "heading": "17.4 Bank A - Named reorganisations and coordination mechanisms (the evidence the earlier sections lack)",
+      "preview": "Claim | Named example | Mechanism / significance | Caution / status",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Claim",
+          "Named example",
+          "Mechanism / significance",
+          "Caution / status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 439.69
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 52.288
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1280,
+      "markdown_body_line_end": 1287,
+      "heading": "17.5 Bank B - Accountability instruments (named)",
+      "preview": "Instrument | Named anchor | Mechanism | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Instrument",
+          "Named anchor",
+          "Mechanism",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 398.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1320,
+      "heading": "17.9 Prelims close-option distinctions",
+      "preview": "Confusion pair / routed demand | Correct discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Confusion pair / routed demand",
+          "Correct discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 534.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 238.09
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1864,
+      "markdown_body_line_end": 1868,
+      "heading": "VERIFIED DIRECT PYQ 1 - 2025 Prelims GS-I Q57 - 2 marks - objective",
+      "preview": "Organization | Union Ministry",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Organization",
+          "Union Ministry"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 153.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 65.69
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2278,
+      "markdown_body_line_end": 2278,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "Core is independently complete. This companion adds organisational analysis only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 751.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 720.624
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2331,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Constitutional root and the operating chain",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 619.691
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2335,
+      "markdown_body_line_end": 2351,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: AoB and ToB: jurisdiction before procedure",
+      "preview": "ARTICLE 77(3)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 597.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 433.691
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2355,
+      "markdown_body_line_end": 2371,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Institution map: political head to field delivery",
+      "preview": "PORTFOLIO -> MINISTRY -> DEPARTMENT -> SECRETARIAT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 411.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 247.691
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2375,
+      "markdown_body_line_end": 2391,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Minister, Minister of State and Secretary",
+      "preview": "POLITICAL EXECUTIVE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2395,
+      "markdown_body_line_end": 2410,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Central Secretariat functions and file process",
+      "preview": "CENTRAL SECRETARIAT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2414,
+      "markdown_body_line_end": 2426,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Secretariat hierarchy and delegated file disposal",
+      "preview": "SECRETARY -> SPECIAL/ADDITIONAL SECRETARY -> JOINT SECRETARY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 302.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2430,
+      "markdown_body_line_end": 2446,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Cabinet Secretariat, PMO and coordination",
+      "preview": "CABINET SECRETARIAT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2450,
+      "markdown_body_line_end": 2465,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Agencies, autonomy and whole-of-government outcomes",
+      "preview": "DEPARTMENTAL POLICY OWNER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2469,
+      "markdown_body_line_end": 2483,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Cabinet committees and inter-ministerial resolution",
+      "preview": "CABINET / CABINET COMMITTEE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 281.891
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2487,
+      "markdown_body_line_end": 2507,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Oversight, reform and notification-sensitive change",
+      "preview": "ACCOUNTABILITY GRID",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2511,
+      "markdown_body_line_end": 2519,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Verified PYQs and answer execution",
+      "preview": "2025 PRELIMS Q57: organisation-ministry pairs -> NONE.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 478.091
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2523,
+      "markdown_body_line_end": 2541,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC synthesis: organised authority with traceable responsibility",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    }
+  ]
+}

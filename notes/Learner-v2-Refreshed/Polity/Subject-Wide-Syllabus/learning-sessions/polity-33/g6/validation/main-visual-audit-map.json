@@ -1,0 +1,4110 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-33",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 33 - Attorney General and Advocate General - Complete Topic Package",
+      "preview": "**Control date:** 5 September 2026, Asia/Kolkata **Evidence tags:** `[FACT]` directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive con",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 635.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 39,
+      "heading": "Authoritative evidence board",
+      "preview": "Named evidence | Claim controlled",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "Named evidence",
+          "Claim controlled"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 337.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 56,
+      "markdown_body_line_end": 66,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 527.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 87,
+      "heading": "Visual 1 - Evidence and legal-source ladder",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 502.09
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 331.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 103,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 132,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\assets\\polity-33_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Attorney General is conventionally described as the highest law officer of the Union/India; the Advocate General is the highest law officer of the State.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 299.556
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 232.888
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 167,
+      "markdown_body_line_end": 172,
+      "heading": "Visual 2 - Federal mirror, not perfect duplication",
+      "preview": "Union level | State level | Shared design | Textual difference",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Union level",
+          "State level",
+          "Shared design",
+          "Textual difference"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 714.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 556.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 184,
+      "heading": "Visual 3 - What the offices are and are not",
+      "preview": "LEGAL ADVISER + GOVERNMENT ADVOCATE + CONSTITUTIONAL OFFICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 534.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 453.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 207,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL LAW OFFICERS IN A FEDERAL PARLIAMENTARY SYSTEM",
+      "preview": "START / CONCEPT: CONSTITUTIONAL LAW OFFICERS IN A FEDERAL PARLIAMENTARY SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 411.89
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 190.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 76 is a four-clause office design, not a grant of judicial or political power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 248,
+      "heading": "Visual 4 - Article 76 four-clause spine",
+      "preview": "Clause | Core text | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Clause",
+          "Core text",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 408.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 298.822
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 262,
+      "heading": "Visual 5 - Duty is not unlimited jurisdiction",
+      "preview": "LEGAL MATTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 285,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 76 CLAUSE BY CLAUSE",
+      "preview": "START / CONCEPT: ARTICLE 76 CLAUSE BY CLAUSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 630.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 409.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 296,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualification for judicial appointment does not make the Attorney General a judge or impose judicial retirement age.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 284.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 231.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 334,
+      "heading": "Visual 6 - Article 124(3) qualification fork",
+      "preview": "CITIZEN OF INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 657.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 546.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 343,
+      "heading": "Visual 7 - The age trap",
+      "preview": "Proposition | Correct control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Proposition",
+          "Correct control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 524.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 404.29
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 366,
+      "heading": "CLOSING RECALL FLOW - ATTORNEY GENERAL QUALIFICATION THROUGH ARTICLE 124(3)",
+      "preview": "START / CONCEPT: ATTORNEY GENERAL QUALIFICATION THROUGH ARTICLE 124(3)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 348.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 127.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 377,
+      "markdown_body_line_end": 377,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 165 is the State constitutional mirror of Article 76, but the texts are not identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 401,
+      "markdown_body_line_end": 405,
+      "heading": "Visual 8 - Article 165 three-clause spine",
+      "preview": "Clause | Core text | High-risk trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Clause",
+          "Core text",
+          "High-risk trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 323.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 235.622
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 415,
+      "heading": "Visual 9 - Article 76 and 165 textual asymmetry",
+      "preview": "ARTICLE 76                         ARTICLE 165",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 438,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 165 CLAUSE BY CLAUSE",
+      "preview": "START / CONCEPT: ARTICLE 165 CLAUSE BY CLAUSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 474.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 449,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The distinguished-jurist route available for Supreme Court qualification is not available under Article 217(2).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 348.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 296.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 473,
+      "markdown_body_line_end": 484,
+      "heading": "Visual 10 - Article 217(2) qualification fork",
+      "preview": "CITIZEN OF INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 651.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 488,
+      "markdown_body_line_end": 495,
+      "heading": "Visual 11 - Qualification comparison",
+      "preview": "Dimension | Attorney General | Advocate General",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Attorney General",
+          "Advocate General"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 629.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 477.29
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 501,
+      "markdown_body_line_end": 518,
+      "heading": "CLOSING RECALL FLOW - ADVOCATE GENERAL QUALIFICATION THROUGH ARTICLE 217(2)",
+      "preview": "START / CONCEPT: ADVOCATE GENERAL QUALIFICATION THROUGH ARTICLE 217(2)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 436.09
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 225.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 529,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The constitutional head is the formal appointing and assigning authority; the law officer is not an independent personal adviser to the President or Governor comparable to the Council of Ministers' constitutional advice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 550,
+      "markdown_body_line_end": 561,
+      "heading": "Visual 12 - Appointment chain",
+      "preview": "ELECTED GOVERNMENT'S POLITICAL CONFIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 447.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 336.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 569,
+      "heading": "Visual 13 - Three relationships that must not be merged",
+      "preview": "Relationship | Character | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Relationship",
+          "Character",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 314.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 215.222
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 590,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT: FORMAL CONSTITUTIONAL ACT AND POLITICAL-GOVERNMENTAL REALITY",
+      "preview": "START / CONCEPT: APPOINTMENT: FORMAL CONSTITUTIONAL ACT AND POLITICAL-GOVERNMENTAL REALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Resignation when the government changes is a convention associated with political confidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 426.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 374.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 630,
+      "heading": "Visual 14 - Tenure layers",
+      "preview": "Layer | Attorney General | Advocate General",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Attorney General",
+          "Advocate General"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 642,
+      "heading": "Visual 15 - Pleasure is not impeachment",
+      "preview": "NO FIXED CONSTITUTIONAL TERM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 623.49
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 542.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 663,
+      "heading": "CLOSING RECALL FLOW - TENURE, RESIGNATION, REMOVAL AND CONVENTION",
+      "preview": "START / CONCEPT: TENURE, RESIGNATION, REMOVAL AND CONVENTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 520.49
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 309.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A rule-based term manages administration; constitutional pleasure controls legal continuance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 169.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 117.222
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 704,
+      "heading": "Visual 16 - Two clocks",
+      "preview": "CONSTITUTIONAL CLOCK                 SERVICE-RULE CLOCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 533.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 462.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 725,
+      "heading": "CLOSING RECALL FLOW - UNION RULE 3: ADMINISTRATIVE TERM VERSUS CONSTITUTIONAL PLEASURE",
+      "preview": "START / CONCEPT: UNION RULE 3: ADMINISTRATIVE TERM VERSUS CONSTITUTIONAL PLEASURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 427.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 216.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 736,
+      "markdown_body_line_end": 736,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 76(4) says remuneration is determined by the President.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 104.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 52.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 762,
+      "heading": "Visual 17 - Remuneration source map",
+      "preview": "Question | Union answer | State answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Union answer",
+          "State answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 514.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 393.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 783,
+      "heading": "CLOSING RECALL FLOW - REMUNERATION: CONSTITUTION AND CURRENT RULES",
+      "preview": "START / CONCEPT: REMUNERATION: CONSTITUTION AND CURRENT RULES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 371.69
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 160.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 794,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Function must be traced from constitutional mandate to a specific legal assignment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 824,
+      "heading": "Visual 18 - Duty map",
+      "preview": "ADVICE                  LITIGATION                 OTHER LAW",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 834,
+      "heading": "Visual 19 - Constitution versus Rule 5",
+      "preview": "Function | Constitutional anchor | Operational source",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Function",
+          "Constitutional anchor",
+          "Operational source"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 694.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 563.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 855,
+      "heading": "CLOSING RECALL FLOW - FUNCTIONS: CONSTITUTIONAL CORE AND RULE-BASED OPERATIONAL DETAIL",
+      "preview": "START / CONCEPT: FUNCTIONS: CONSTITUTIONAL CORE AND RULE-BASED OPERATIONAL DETAIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 528.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 307.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 866,
+      "markdown_body_line_end": 866,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A law officer gives legal advice; the elected executive remains responsible for governmental choice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 167.89
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 115.422
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 902,
+      "heading": "Visual 20 - Advice-to-decision pipeline",
+      "preview": "FACTS + POLICY OBJECTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 610.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 459.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 911,
+      "heading": "Visual 21 - Opinion is not judgment",
+      "preview": "Product | Maker | Legal effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Product",
+          "Maker",
+          "Legal effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 437.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 327.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 932,
+      "heading": "CLOSING RECALL FLOW - ADVICE, OPINION AND THE NON-BINDING CHARACTER",
+      "preview": "START / CONCEPT: ADVICE, OPINION AND THE NON-BINDING CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 305.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 104.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 943,
+      "markdown_body_line_end": 943,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Right Of Audience, Right To Practise And Assignment To Appear comprises Right Of Audience, Right To Practise and Assignment To Appear as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 976,
+      "heading": "Visual 22 - Audience, practice and brief",
+      "preview": "RIGHT OF AUDIENCE       RIGHT TO PRACTISE       PARTICULAR BRIEF",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 985,
+      "heading": "Visual 23 - Advocate General audience caution",
+      "preview": "Claim | Safe answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Safe answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 563.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 1008,
+      "heading": "CLOSING RECALL FLOW - RIGHT OF AUDIENCE, RIGHT TO PRACTISE AND ASSIGNMENT TO APPEAR",
+      "preview": "START / CONCEPT: RIGHT OF AUDIENCE, RIGHT TO PRACTISE AND ASSIGNMENT TO APPEAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 494.09
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 273.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1019,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 88 grants a voice in parliamentary proceedings, not a seat or vote in Parliament.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 133.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 80.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1042,
+      "markdown_body_line_end": 1050,
+      "heading": "Visual 24 - Article 88 participation map",
+      "preview": "LOK SABHA --------\\",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 474.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1059,
+      "heading": "Visual 25 - Four separate questions",
+      "preview": "Question | Attorney General",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Attorney General"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 452.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 343.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1080,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 88: PARTICIPATION IN PARLIAMENT WITHOUT MEMBERSHIP",
+      "preview": "START / CONCEPT: ARTICLE 88: PARTICIPATION IN PARLIAMENT WITHOUT MEMBERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 321.29
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 100.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "There is no vote by virtue of Article 177.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1120,
+      "heading": "Visual 26 - Article 177 map",
+      "preview": "UNICAMERAL STATE: Legislative Assembly",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 369.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 288.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1131,
+      "heading": "Visual 27 - Parliament and State Legislature compared",
+      "preview": "Feature | Article 88 | Article 177",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "Article 88",
+          "Article 177"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1135,
+      "markdown_body_line_end": 1152,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 177: PARTICIPATION IN STATE LEGISLATURE",
+      "preview": "START / CONCEPT: ARTICLE 177: PARTICIPATION IN STATE LEGISLATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 613.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 412.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1163,
+      "markdown_body_line_end": 1163,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legislative privilege protects the proceeding, not the law officer’s unrelated private conduct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 272.69
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 220.222
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1198,
+      "heading": "Visual 28 - Privilege-extension logic",
+      "preview": "CONSTITUTIONAL RIGHT TO SPEAK IN HOUSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1207,
+      "heading": "Visual 29 - Inside and outside the protected zone",
+      "preview": "Strongest relationship to privilege | Outside automatic privilege claim",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Strongest relationship to privilege",
+          "Outside automatic privilege claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 491.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 381.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1215,
+      "heading": "Visual 30 - Membership, privilege and vote",
+      "preview": "PARTICIPATION RIGHT  !=  MEMBERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 359.89
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 318.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1236,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 105(4) AND 194(4): PRIVILEGE EXTENSION, NOT BLANKET IMMUNITY",
+      "preview": "START / CONCEPT: ARTICLES 105(4) AND 194(4): PRIVILEGE EXTENSION, NOT BLANKET IMMUNITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 283.89
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 72.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1247,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Private practice survives, but government loyalty and conflict control define its perimeter.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1270,
+      "markdown_body_line_end": 1281,
+      "heading": "Visual 31 - Rule 8 brief perimeter",
+      "preview": "PERMITTED BRIEF CLASSES UNDER RULE 8(a)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 306.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 195.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1293,
+      "markdown_body_line_end": 1300,
+      "heading": "Visual 32 - Rule 8 conflict matrix",
+      "preview": "Restriction | Controlled risk | Permission/route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Restriction",
+          "Controlled risk",
+          "Permission/route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1304,
+      "markdown_body_line_end": 1310,
+      "heading": "Visual 33 - Rule 10 non-relaxation boundary",
+      "preview": "CENTRAL GOVERNMENT MAY RELAX RULES FOR RECORDED REASONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 613.49
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 552.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1316,
+      "markdown_body_line_end": 1333,
+      "heading": "CLOSING RECALL FLOW - CURRENT UNION LAW OFFICER RESTRICTIONS: RULE 8 EXACTLY CONTROLLED",
+      "preview": "START / CONCEPT: CURRENT UNION LAW OFFICER RESTRICTIONS: RULE 8 EXACTLY CONTROLLED",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 484.09
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 263.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1344,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional prominence does not convert an executive law office into a constitutional office.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 123.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 70.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1379,
+      "heading": "Visual 34 - Union legal team hierarchy",
+      "preview": "ATTORNEY GENERAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 494.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 373.091
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1383,
+      "markdown_body_line_end": 1388,
+      "heading": "Visual 35 - Status classification",
+      "preview": "Office | Source/status | Core role",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Office",
+          "Source/status",
+          "Core role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 351.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 241.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1392,
+      "markdown_body_line_end": 1409,
+      "heading": "CLOSING RECALL FLOW - UNION LAW-OFFICER TEAM: CONSTITUTIONAL HEAD, RULE-GOVERNED ASSISTANTS",
+      "preview": "START / CONCEPT: UNION LAW-OFFICER TEAM: CONSTITUTIONAL HEAD, RULE-GOVERNED ASSISTANTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1420,
+      "markdown_body_line_end": 1420,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State Law-Officer Ecology And The No-Generalisation Rule comprises The No-Generalisation Rule, Kerala official 1956 rules reference and all States use Kerala terms as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1455,
+      "heading": "Visual 36 - State legal-office ecology",
+      "preview": "ADVOCATE GENERAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1459,
+      "markdown_body_line_end": 1463,
+      "heading": "Visual 37 - Why State rules matter",
+      "preview": "State evidence | What it proves | What it does not prove",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "State evidence",
+          "What it proves",
+          "What it does not prove"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 533.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1467,
+      "markdown_body_line_end": 1484,
+      "heading": "CLOSING RECALL FLOW - STATE LAW-OFFICER ECOLOGY AND THE NO-GENERALISATION RULE",
+      "preview": "START / CONCEPT: STATE LAW-OFFICER ECOLOGY AND THE NO-GENERALISATION RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 511.69
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 290.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1495,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Attorney General and Advocate General comparison reveals a federal mirror with different appointing authorities, judicial qualification routes and audience text.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 150.89
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 84.222
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1512,
+      "markdown_body_line_end": 1525,
+      "heading": "Visual 38 - Master comparison matrix",
+      "preview": "Dimension | Attorney General | Advocate General",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Dimension",
+          "Attorney General",
+          "Advocate General"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 348.49
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1535,
+      "heading": "Visual 39 - Same skeleton, different muscles",
+      "preview": "SAME:",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 326.49
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 265.49
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1539,
+      "markdown_body_line_end": 1556,
+      "heading": "CLOSING RECALL FLOW - ATTORNEY GENERAL AND ADVOCATE GENERAL COMPARED",
+      "preview": "START / CONCEPT: ATTORNEY GENERAL AND ADVOCATE GENERAL COMPARED",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1567,
+      "markdown_body_line_end": 1567,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Similar public prominence does not make legal, political, audit and prosecution offices constitutionally equivalent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1584,
+      "markdown_body_line_end": 1591,
+      "heading": "Visual 40 - Six-office distinction matrix",
+      "preview": "Office | Classification | Principal function | Political/judicial status",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Office",
+          "Classification",
+          "Principal function",
+          "Political/judicial status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 598.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1595,
+      "markdown_body_line_end": 1603,
+      "heading": "Visual 41 - Functional boundary flow",
+      "preview": "Is the question about:",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 576.39
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 495.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1607,
+      "markdown_body_line_end": 1624,
+      "heading": "CLOSING RECALL FLOW - COMPARISON WITH CAG, LAW MINISTER, SOLICITOR GENERAL AND PUBLIC PROSECUTOR",
+      "preview": "START / CONCEPT: COMPARISON WITH CAG, LAW MINISTER, SOLICITOR GENERAL AND PUBLIC PROSECUTOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 460.39
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 239.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1635,
+      "markdown_body_line_end": 1635,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Political advice and legal advice are institutionally distinct even when both reach the constitutional head.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 99.59
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 47.122
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1658,
+      "markdown_body_line_end": 1669,
+      "heading": "Visual 42 - Constitutional-head relationship",
+      "preview": "COUNCIL OF MINISTERS / ELECTED GOVERNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 479.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1673,
+      "markdown_body_line_end": 1678,
+      "heading": "Visual 43 - Advice is one input, not the whole decision",
+      "preview": "Input | Supplies",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Input",
+          "Supplies"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 237.49
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1682,
+      "markdown_body_line_end": 1699,
+      "heading": "CLOSING RECALL FLOW - COUNCIL OF MINISTERS, PRESIDENT AND GOVERNOR",
+      "preview": "START / CONCEPT: COUNCIL OF MINISTERS, PRESIDENT AND GOVERNOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1710,
+      "markdown_body_line_end": 1710,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Effective government advice needs protected candour, while constitutional government still requires legality and accountable decision-making.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1735,
+      "markdown_body_line_end": 1750,
+      "heading": "Visual 44 - Privilege decision tree",
+      "preview": "Was it a professional legal communication/advice?",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1754,
+      "markdown_body_line_end": 1759,
+      "heading": "Visual 45 - Transparency versus candour",
+      "preview": "Value | Why it matters | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Value",
+          "Why it matters",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 504.89
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1763,
+      "markdown_body_line_end": 1780,
+      "heading": "CLOSING RECALL FLOW - CONFIDENTIALITY, PROFESSIONAL PRIVILEGE AND TRANSPARENCY",
+      "preview": "START / CONCEPT: CONFIDENTIALITY, PROFESSIONAL PRIVILEGE AND TRANSPARENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 482.89
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 261.89
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1791,
+      "markdown_body_line_end": 1791,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A law officer represents government as client and is also an advocate subject to professional duties toward the court.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 122.09
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 69.622
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1812,
+      "markdown_body_line_end": 1819,
+      "heading": "Visual 46 - Three-duty triangle",
+      "preview": "DUTY TO COURT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 514.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1823,
+      "markdown_body_line_end": 1830,
+      "heading": "Visual 47 - Conflict examples",
+      "preview": "Situation | Risk | Correct control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Situation",
+          "Risk",
+          "Correct control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 269.49
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1834,
+      "markdown_body_line_end": 1851,
+      "heading": "CLOSING RECALL FLOW - DUTY TO GOVERNMENT, DUTY TO COURT AND PUBLIC CONSTITUTIONAL ROLE",
+      "preview": "START / CONCEPT: DUTY TO GOVERNMENT, DUTY TO COURT AND PUBLIC CONSTITUTIONAL ROLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1862,
+      "markdown_body_line_end": 1862,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional office does not eliminate the operational chain needed for competent government litigation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1885,
+      "markdown_body_line_end": 1895,
+      "heading": "Visual 48 - Litigation lifecycle",
+      "preview": "DISPUTE / NOTICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 646.891
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1899,
+      "markdown_body_line_end": 1905,
+      "heading": "Visual 49 - Failure points",
+      "preview": "Failure | Consequence | Reform response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Failure",
+          "Consequence",
+          "Reform response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 624.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 494.29
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1909,
+      "markdown_body_line_end": 1926,
+      "heading": "CLOSING RECALL FLOW - REPRESENTATION AND THE GOVERNMENT-LITIGATION SYSTEM",
+      "preview": "START / CONCEPT: REPRESENTATION AND THE GOVERNMENT-LITIGATION SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 472.29
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 251.29
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1937,
+      "markdown_body_line_end": 1937,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "For the Supreme Court, the statutory expression includes the Attorney General or Solicitor General; for a High Court it ordinarily refers to the State Advocate General under the Act's scheme.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 111.49
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 44.822
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1958,
+      "markdown_body_line_end": 1966,
+      "heading": "Visual 50 - Section 15 gate",
+      "preview": "CRIMINAL CONTEMPT (outside section 14 setting)",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 514.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1972,
+      "markdown_body_line_end": 1989,
+      "heading": "CLOSING RECALL FLOW - CONTEMPT-CONSENT FUNCTION: NARROW STATUTORY SIGNIFICANCE",
+      "preview": "START / CONCEPT: CONTEMPT-CONSENT FUNCTION: NARROW STATUTORY SIGNIFICANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 377.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 146.891
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2000,
+      "markdown_body_line_end": 2000,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Independence here is professional independence within a relationship of political confidence, not tenure-secured institutional independence like the CAG.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2021,
+      "markdown_body_line_end": 2027,
+      "heading": "Visual 51 - Independence balance sheet",
+      "preview": "Strength | Vulnerability",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Strength",
+          "Vulnerability"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 341.224
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 210.622
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2031,
+      "markdown_body_line_end": 2034,
+      "heading": "Visual 52 - Independence spectrum",
+      "preview": "REGULAR DEPARTMENTAL COUNSEL ---- CONSTITUTIONAL LAW OFFICER ---- TENURE-PROTECTED CAG/JUDGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 756.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2038,
+      "markdown_body_line_end": 2055,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENCE: STRENGTH, VULNERABILITY AND CORRECT VOCABULARY",
+      "preview": "START / CONCEPT: INDEPENDENCE: STRENGTH, VULNERABILITY AND CORRECT VOCABULARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 734.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2066,
+      "markdown_body_line_end": 2066,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Government counsel may be trusted by the executive, but public appointments cannot become arbitrary patronage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 397.691
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 345.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2087,
+      "markdown_body_line_end": 2092,
+      "heading": "Visual 53 - Judgment boundary",
+      "preview": "Proposition | Status",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Proposition",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2096,
+      "markdown_body_line_end": 2113,
+      "heading": "CLOSING RECALL FLOW - STATE LAW-OFFICER APPOINTMENTS AND STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016)",
+      "preview": "START / CONCEPT: STATE LAW-OFFICER APPOINTMENTS AND STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 642.89
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 411.89
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2124,
+      "markdown_body_line_end": 2124,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform should preserve governmental confidence while strengthening conflict management, appointment transparency and quality of advice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 305.29
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 238.622
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2145,
+      "markdown_body_line_end": 2152,
+      "heading": "Visual 54 - Problem-to-reform matrix",
+      "preview": "Problem | Reform proposal | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Problem",
+          "Reform proposal",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 700.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 548.49
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2156,
+      "markdown_body_line_end": 2164,
+      "heading": "Visual 55 - Reform priority order",
+      "preview": "FIRST: accurate facts and competent selection",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 526.49
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 445.49
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2168,
+      "markdown_body_line_end": 2185,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONAL LIMITS AND REFORM PROPOSALS",
+      "preview": "START / CONCEPT: INSTITUTIONAL LIMITS AND REFORM PROPOSALS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 294
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 423.49
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 182.49
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2196,
+      "markdown_body_line_end": 2196,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A current claim is exam-safe only when its date, legal source and continuing status are stated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2211,
+      "markdown_body_line_end": 2217,
+      "heading": "Visual 56 - Stable, current and deliberately omitted",
+      "preview": "Category | Controlled position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Category",
+          "Controlled position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 445.622
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2221,
+      "markdown_body_line_end": 2228,
+      "heading": "Visual 57 - Current-rule correction card",
+      "preview": "OLD SHORTHAND: \"AG can do private practice.\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 423.622
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 352.622
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2232,
+      "markdown_body_line_end": 2249,
+      "heading": "CLOSING RECALL FLOW - CURRENT-CONTROL BOARD AS ON 28 AUGUST 2026",
+      "preview": "START / CONCEPT: CURRENT-CONTROL BOARD AS ON 28 AUGUST 2026",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 330.622
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 109.622
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2254,
+      "markdown_body_line_end": 2262,
+      "heading": "Visual 58 - Claim-evidence-analysis-qualification unit",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 682.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2266,
+      "markdown_body_line_end": 2272,
+      "heading": "Visual 59 - Ten-mark blueprint",
+      "preview": "Space | Content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Space",
+          "Content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 529.69
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2285,
+      "heading": "Visual 60 - Fifteen/twenty-mark blueprint",
+      "preview": "definition/status",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 507.69
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 416.69
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2289,
+      "markdown_body_line_end": 2302,
+      "heading": "Visual 61 - High-risk trap board",
+      "preview": "Trap | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Trap",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 394.69
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 115.688
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2313,
+      "markdown_body_line_end": 2313,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A high-scoring answer links the constitutional office to the government-client relationship and then qualifies its rights through professional and institutional limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2329,
+      "markdown_body_line_end": 2344,
+      "heading": "Visual 62 - One-page concept map",
+      "preview": "LAW OFFICERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 429.024
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 278.024
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2348,
+      "markdown_body_line_end": 2354,
+      "heading": "Visual 63 - Final legal-effect ladder",
+      "preview": "Level | Effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Level",
+          "Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2358,
+      "markdown_body_line_end": 2375,
+      "heading": "CLOSING RECALL FLOW - INTEGRATED REVISION BEFORE ASSESSMENT",
+      "preview": "START / CONCEPT: INTEGRATED REVISION BEFORE ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 403.69
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3065,
+      "markdown_body_line_end": 3069,
+      "heading": "Visual 64 - PYQ route audit",
+      "preview": "Year | Stage | Demand | Treatment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Stage",
+          "Demand",
+          "Treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 236.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 151.09
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3073,
+      "markdown_body_line_end": 3073,
+      "heading": "Verified PYQ 1 - UPSC GS-II 2025, Q5 - 10 marks, 150 words",
+      "preview": "“The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.” Discuss his responsibilities, rights and limitations in this regard.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3121,
+      "markdown_body_line_end": 3121,
+      "heading": "Verified PYQ 2 - UPSC GS-II 2019, Q14 - 15 marks, 250 words",
+      "preview": "**Neutral audited rendering:** Discuss the Attorney General as the chief legal adviser and lawyer of the Government of India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 468.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 423.624
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3171,
+      "markdown_body_line_end": 3171,
+      "heading": "Verified PYQ 3 - UPSC Prelims 2022, Q17 - routed distinction",
+      "preview": "**Audited demand:** constitutional and institutional distinction between the Attorney General of India and Solicitor General of India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3560,
+      "markdown_body_line_end": 3567,
+      "heading": "Visual 65 - Six-Article rapid card",
+      "preview": "Article | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Article",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 477.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 326.09
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3578,
+      "markdown_body_line_end": 3582,
+      "heading": "Visual 66 - Qualification mnemonic",
+      "preview": "AGI: 5 JUDGE / 10 ADVOCATE / JURIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 193.09
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 152.09
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3594,
+      "markdown_body_line_end": 3602,
+      "heading": "Visual 67 - Tenure recall",
+      "preview": "FORMAL APPOINTMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 660.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 579.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3614,
+      "markdown_body_line_end": 3618,
+      "heading": "Visual 68 - Three-function recall",
+      "preview": "Function | Evidence | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Function",
+          "Evidence",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 443.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 354.89
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3629,
+      "markdown_body_line_end": 3632,
+      "heading": "Visual 69 - Audience formula",
+      "preview": "AUDIENCE != PRACTICE != PARTICULAR BRIEF",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 236.09
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 205.09
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3644,
+      "markdown_body_line_end": 3650,
+      "heading": "Visual 70 - Legislature trap strip",
+      "preview": "SPEAK: YES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 20
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3665,
+      "markdown_body_line_end": 3671,
+      "heading": "Visual 71 - Rule 8 memory hook",
+      "preview": "BRIEF - only listed public-side bodies",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 536.691
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3683,
+      "markdown_body_line_end": 3685,
+      "heading": "Visual 72 - Classification card",
+      "preview": "Constitutional | Executive/rule based | Statutory | Political",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 1,
+        "headers": [
+          "Constitutional",
+          "Executive/rule based",
+          "Statutory",
+          "Political"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 339.691
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 295.29
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3696,
+      "markdown_body_line_end": 3701,
+      "heading": "Visual 73 - Ethics triangle recall",
+      "preview": "CLIENT LOYALTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 24
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 162.29
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 111.29
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3712,
+      "markdown_body_line_end": 3719,
+      "heading": "Visual 74 - Reform recall",
+      "preview": "Risk | Proposal",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Risk",
+          "Proposal"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 677.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 525.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3729,
+      "markdown_body_line_end": 3741,
+      "heading": "Visual 75 - Final answer spine",
+      "preview": "ARTICLE + STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 381.29
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 260.29
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3762,
+      "markdown_body_line_end": 3771,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Federal constitutional map and institutional boundary",
+      "preview": "UNION -> Article 76 Attorney General for India",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 739.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 646.491
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3775,
+      "markdown_body_line_end": 3782,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 76 Attorney General clause spine",
+      "preview": "76(1) -> President appoints a person qualified as Supreme Court Judge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 624.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 552.291
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3786,
+      "markdown_body_line_end": 3793,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Article 165 Advocate General clause spine",
+      "preview": "165(1) -> Governor appoints a person qualified as High Court Judge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 530.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 458.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3797,
+      "markdown_body_line_end": 3808,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Qualifications appointment tenure and remuneration",
+      "preview": "AGI -> citizen + Article 124(3) alternative route; President appoints",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 436.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 323.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3812,
+      "markdown_body_line_end": 3820,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Advice representation and audience distinctions",
+      "preview": "ADVICE -> legal matter referred or assigned through government route",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 301.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 218.691
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3824,
+      "markdown_body_line_end": 3833,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Legislative participation privilege and no vote",
+      "preview": "ARTICLE 88 -> AGI may speak and take part in both Houses, joint sitting and named committee",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3837,
+      "markdown_body_line_end": 3845,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Rule 8 private practice conflicts and permissions",
+      "preview": "PRIVATE PRACTICE -> possible, but not unrestricted",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3849,
+      "markdown_body_line_end": 3858,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: AGI Solicitor General prosecutor and Law Minister",
+      "preview": "AGI -> constitutional office under Article 76",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3862,
+      "markdown_body_line_end": 3872,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Attorney General and Advocate General comparison",
+      "preview": "DIMENSION       ATTORNEY GENERAL             ADVOCATE GENERAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 350.891
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3876,
+      "markdown_body_line_end": 3883,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Government client court duty and confidentiality",
+      "preview": "GOVERNMENT CLIENT -> expects loyal, competent and confidential advice",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 328.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 256.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3887,
+      "markdown_body_line_end": 3895,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Independence, conventions and fair State panel selection",
+      "preview": "STRUCTURAL TENSION -> trusted counsel + pleasure tenure + assignment control",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3899,
+      "markdown_body_line_end": 3911,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current controls PYQs traps and answer synthesis",
+      "preview": "CONTROL DATE -> 5 September 2026; no volatile officeholder frozen",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    }
+  ]
+}

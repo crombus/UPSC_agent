@@ -383,3 +383,38 @@ WIND parallel to a coast
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** surface and density-driven circulation; gyres, boundary
+  currents, Ekman transport, upwelling and fisheries; tide-generating forces,
+  spring-neap cycle and local range; salinity budget, halocline and
+  stratification; Arabian Sea-Bay contrast; seasonal North Indian Ocean
+  reversal, Somali upwelling, IOD mechanism and observing architecture.
+- **Process control:** wind stress plus Coriolis, pressure gradient, basin shape
+  and friction organises surface flow; heat and freshwater budgets change
+  density and mixing; coastal wind-Ekman divergence drives upwelling; zonal
+  SST, thermocline, wind and convection anomalies form the coupled IOD.
+- **Scale/map control:** wave, tide, eddy, surface current, water mass and
+  overturning branch remain distinct. Every North Indian Ocean arrow carries a
+  season, and every IOD claim carries basin sectors, phase and observation or
+  forecast window.
+- **Date/data control:** DMI values, IOD phase, outlook probabilities, mooring
+  observations, marine heat and monsoon links require a dated IMD/INCOIS
+  bulletin. A forecast is not an observation and a seasonal index is not a
+  permanent basin label.
+- **Terminology control:** warm/cold current is relative; current transports
+  water while a wave mainly transmits energy; spring/neap describe alignment,
+  not seasons; salinity differs from density; IOD differs from ENSO and from a
+  single western-basin temperature anomaly.
+- **Causal control:** upwelling raises nutrient supply but does not guarantee a
+  fishery. IOD modifies rainfall probability through coupled circulation, but
+  timing, amplitude, ENSO, MJO and internal variability prevent deterministic
+  all-India rainfall claims.
+- **Boundary:** Topic 13 owns weather elements and western disturbances; Topic
+  16 owns the complete Indian monsoon mechanism. Topic 12 owns ocean
+  circulation, tides, salinity, seasonal current reversal and IOD coupling.
+- **Verified PYQ ownership, 2018-2026:** direct routes are the 2019 GS-I
+  currents-versus-water-masses/marine-life demand and 2022 GS-I forces
+  influencing currents and fishing. No current phase or official key is
+  manufactured.

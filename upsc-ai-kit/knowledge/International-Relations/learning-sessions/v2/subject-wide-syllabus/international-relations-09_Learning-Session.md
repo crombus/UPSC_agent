@@ -1380,6 +1380,29 @@ brain circulation, remittances, lobbying, identity, labour rights and crisis eva
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Diaspora and consular policy joins citizenship status, migration channels, labour protection, evacuation, detention assistance, cultural ties, investment and soft power while respecting host-state jurisdiction and the agency of overseas communities.
+- **Indispensable distinction and prerequisite taxonomy:** Indian citizen, Overseas Citizen of India cardholder, Person of Indian Origin as a historical category and foreign national of Indian descent are not interchangeable; consular access is not diplomatic immunity, evacuation is not rescue from every private risk, and soft power is not propaganda.
+- **Mechanism, implementation and evidence control:** Use the Vienna Convention on Consular Relations, MADAD, eMigrate and named operations only with treaty status, mandate, eligible population, date and completed or continuing status; separate protection objective, instrument, execution, outcome and residual labour or conflict risk.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: the 18th PBD of 8-10 January 2025 remains the latest officially recorded convention; no 19th convention is invented. Citizenship, OCI status, migration regulation, consular access, evacuation, labour protection and soft power remain separate. Sources: https://www.mea.gov.in/pravasi-bharatiya-divas; https://www.mea.gov.in/diaspora-engagement; https://www.mea.gov.in/diaspora-and-migration-issues; https://indianconsularservices.mea.gov.in/consularServices/
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Two General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2020 General Studies Paper II question 10 on the Indian diaspora in the politics and economy of America and European countries, a Comment with examples demand of 10 marks and 150 words, for which the ledger records that the Core route supersedes the older Advanced ownership; and 2023 General Studies Paper II question 10 on the Indian diaspora in the West and its economic and political benefits, a Describe demand of 10 marks and 150 words on the same superseding route, for which the ledger records that the word limit was taken from the paper's instruction block because the printed per-question tail carries only the mark value, a provenance defect that is reported here rather than repaired by invented wording. No objective demand from any audited Prelims routing ledger is routed to this owner, so none is listed, invented or answered. The Basic and Advanced owners additionally cite a 2017 General Studies Paper II demand on the role of the Indian diaspora in the economy and society of South-East Asian countries; that year falls outside the audited 2018-2023 and 2024-2025 routing ledgers and the wording is not confirmable from the locally held official papers, so it is recorded here as an owner-cited demand without a question number and is deliberately not converted into a solved demand card. The Basic and Advanced owners also record that no General Studies Paper II Mains question in the audited 2024-2025 papers directly names the diaspora, consular protection or soft power, and that absence is stated honestly instead of force-fitting an adjacent question. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the two routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this diaspora owner holds and how its boundaries are routed?

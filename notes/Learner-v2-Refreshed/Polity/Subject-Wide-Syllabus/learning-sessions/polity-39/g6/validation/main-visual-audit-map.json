@@ -1,0 +1,3824 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-39",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 14,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 747.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 497.09
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\assets\\polity-39_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A cooperative is neither a State department nor merely a charitable association.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 299.556
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 247.088
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 91,
+      "heading": "Visual 02 - Cooperative Enterprise Triangle",
+      "preview": "COMMON NEED",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 695.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 584.291
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 103,
+      "heading": "Visual 03 - Cooperative, Company and Department",
+      "preview": "Test | Cooperative | Investor-owned company | Government department",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Cooperative",
+          "Investor-owned company",
+          "Government department"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 543.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 406.19
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 109,
+      "markdown_body_line_end": 126,
+      "heading": "CLOSING RECALL FLOW - COOPERATIVE IDENTITY: ENTERPRISE WITHOUT CAPITAL DOMINANCE",
+      "preview": "START / CONCEPT: COOPERATIVE IDENTITY: ENTERPRISE WITHOUT CAPITAL DOMINANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 364.99
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 133.99
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cooperative principles must be separated into normative, statutory and implementation layers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 166,
+      "heading": "Visual 04 - Seven-Principle Wheel",
+      "preview": "[1] VOLUNTARY / OPEN",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 315.824
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 224.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 176,
+      "heading": "Visual 05 - Three Legal Layers of a Principle",
+      "preview": "Layer | Example | Legal effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Layer",
+          "Example",
+          "Legal effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 687.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 189,
+      "heading": "Visual 06 - Voice and Capital",
+      "preview": "INVESTOR MODEL: more capital -> usually more voting influence",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 646.69
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 575.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 212,
+      "heading": "CLOSING RECALL FLOW - SEVEN PRINCIPLES: NORM, STATUTE AND IMPLEMENTATION",
+      "preview": "START / CONCEPT: SEVEN PRINCIPLES: NORM, STATUTE AND IMPLEMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 520.29
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 299.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 223,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The historical and constitutional evolution of cooperative societies moved from provincial legislation to a constitutionally recognised but federal field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 178.49
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 111.822
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 251,
+      "heading": "Visual 07 - Evolution Timeline",
+      "preview": "Year | Development | Exam significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Development",
+          "Exam significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 635.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 398.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 257,
+      "markdown_body_line_end": 268,
+      "heading": "Visual 08 - Constitutional Evolution in One Line",
+      "preview": "LOCAL ASSOCIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 357.69
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 246.69
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 291,
+      "heading": "CLOSING RECALL FLOW - HISTORICAL AND CONSTITUTIONAL EVOLUTION",
+      "preview": "START / CONCEPT: HISTORICAL AND CONSTITUTIONAL EVOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 302,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cooperatives pool member resources across credit, dairy, farming, housing, marketing and services.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 319,
+      "markdown_body_line_end": 327,
+      "heading": "Visual 09 - Functional Taxonomy",
+      "preview": "Type | Shared member problem | Cooperative response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Type",
+          "Shared member problem",
+          "Cooperative response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 614.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 342,
+      "heading": "Visual 10 - Rural Value Chain",
+      "preview": "SMALL PRODUCERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 573.09
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 482.09
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 348,
+      "markdown_body_line_end": 354,
+      "heading": "Visual 11 - Promise and Risk",
+      "preview": "Promise | Causal mechanism | Main risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Promise",
+          "Causal mechanism",
+          "Main risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 440.89
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 310.288
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 360,
+      "markdown_body_line_end": 377,
+      "heading": "CLOSING RECALL FLOW - TYPES AND ECONOMIC FUNCTIONS",
+      "preview": "START / CONCEPT: TYPES AND ECONOMIC FUNCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 269.088
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 58.088
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 388,
+      "markdown_body_line_end": 388,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Union List Entry 44 covers incorporation, regulation and winding up of corporations, whether trading or not, whose objects are not confined to one State.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 419,
+      "heading": "Visual 12 - Three-Layer Competence Map",
+      "preview": "SOCIETY WITH OBJECTS CONFINED TO ONE STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 312.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 211.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 430,
+      "heading": "Visual 13 - Entry 32 and Entry 44",
+      "preview": "Question | Entry 32, State List | Entry 44, Union List",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Entry 32, State List",
+          "Entry 44, Union List"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 446,
+      "heading": "Visual 14 - Banking Overlay",
+      "preview": "COOPERATIVE LEGAL PERSON",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 625.49
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 524.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 457,
+      "heading": "Visual 15 - Ministry Boundary",
+      "preview": "Ministry of Cooperation may | It does not thereby",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Ministry of Cooperation may",
+          "It does not thereby"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 483.29
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 373.888
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 480,
+      "heading": "CLOSING RECALL FLOW - FEDERAL ARCHITECTURE BEFORE AND AFTER THE 97TH AMENDMENT",
+      "preview": "START / CONCEPT: FEDERAL ARCHITECTURE BEFORE AND AFTER THE 97TH AMENDMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 332.688
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 111.688
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 491,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 97th Amendment made three legally separate constitutional changes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 513,
+      "heading": "Visual 16 - Amendment Triptych",
+      "preview": "FUNDAMENTAL RIGHT          DIRECTIVE PRINCIPLE        GOVERNANCE PART",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 409.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 358.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 526,
+      "heading": "Visual 17 - Enactment Clock",
+      "preview": "27 Dec 2011  Lok Sabha passes",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 316.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 245.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 538,
+      "heading": "Visual 18 - Article 19(1)(c) Boundary",
+      "preview": "Proposition | Correct position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Proposition",
+          "Correct position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 634.29
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 560,
+      "heading": "Visual 19 - Article 43B",
+      "preview": "VOLUNTARY FORMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 512.09
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 391.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW - THE 97TH CONSTITUTIONAL AMENDMENT: THREE DISTINCT CHANGES",
+      "preview": "START / CONCEPT: THE 97TH CONSTITUTIONAL AMENDMENT: THREE DISTINCT CHANGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 349.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 148.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Union of India v. Rajendra N. Shah (2021) enforced federal ratification requirements while preserving the valid multi-State field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 625,
+      "heading": "Visual 20 - Amendment Procedure Test",
+      "preview": "Does amendment affect a matter in Article 368(2) proviso?",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 366.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 245.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 637,
+      "heading": "Visual 21 - Case Logic",
+      "preview": "Step | Named evidence | Consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Step",
+          "Named evidence",
+          "Consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 646,
+      "heading": "Visual 22 - Majority and Dissent",
+      "preview": "Opinion | Position on severability | Result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Opinion",
+          "Position on severability",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 615.49
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 526.088
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 652,
+      "markdown_body_line_end": 663,
+      "heading": "Visual 23 - Exact Surviving Field, Including the UT Nuance",
+      "preview": "PART IXB AFTER THE MAJORITY JUDGMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 484.888
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 373.888
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 677,
+      "heading": "Visual 24 - What the Court Did Not Do",
+      "preview": "Incorrect statement | Correct control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Incorrect statement",
+          "Correct control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 700,
+      "heading": "CLOSING RECALL FLOW - UNION OF INDIA V. RAJENDRA N. SHAH (2021)",
+      "preview": "START / CONCEPT: UNION OF INDIA V. RAJENDRA N. SHAH (2021)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 615.49
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 394.49
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part IXB maps incorporation, boards, elections, supersession, audit, returns, offences and application.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 273.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 221.222
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 741,
+      "heading": "Visual 25 - Article Map",
+      "preview": "Article | Subject",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Article",
+          "Subject"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 487.09
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 756,
+      "heading": "Visual 26 - Articles 243ZH and 243ZI",
+      "preview": "243ZH -> definitions:",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 445.89
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 354.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 769,
+      "heading": "Visual 27 - Article 243ZJ Board Design",
+      "preview": "Element | Constitutional text",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Element",
+          "Constitutional text"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 313.69
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 139.488
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 783,
+      "heading": "Visual 28 - Article 243ZK Election Clock",
+      "preview": "OUTGOING BOARD TERM APPROACHES EXPIRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 789,
+      "markdown_body_line_end": 801,
+      "heading": "Visual 29 - Article 243ZL Supersession Screen",
+      "preview": "POSSIBLE GROUNDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 544.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 814,
+      "heading": "Visual 30 - Articles 243ZM-243ZP Compliance Clock",
+      "preview": "Stage | Rule in constitutional text",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Stage",
+          "Rule in constitutional text"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 502.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 339.89
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 820,
+      "markdown_body_line_end": 830,
+      "heading": "Visual 31 - Article 243ZQ Offence Families",
+      "preview": "FALSE RETURN / FALSE INFORMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 298.69
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 197.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 840,
+      "heading": "Visual 32 - Articles 243ZR-243ZT",
+      "preview": "Article | Function | Present qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Article",
+          "Function",
+          "Present qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 665.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 863,
+      "heading": "CLOSING RECALL FLOW - PART IXB MASTER MAP: ARTICLES 243ZH-243ZT",
+      "preview": "START / CONCEPT: PART IXB MASTER MAP: ARTICLES 243ZH-243ZT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 624.29
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 403.29
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 874,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "After Union of India v. Rajendra N. Shah (2021), the first task is to classify the society by legislative field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 277.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 225.222
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 900,
+      "heading": "Visual 33 - Two Operative Regimes",
+      "preview": "Dimension | State-field society | Multi-State cooperative society",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "State-field society",
+          "Multi-State cooperative society"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 728.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.89
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 913,
+      "heading": "Visual 34 - Source Hierarchy for an Exam Problem",
+      "preview": "1. Identify territorial reach",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 535.69
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 464.69
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 936,
+      "heading": "CLOSING RECALL FLOW - STATE COOPERATIVES AND MULTI-STATE COOPERATIVES AFTER 2021",
+      "preview": "START / CONCEPT: STATE COOPERATIVES AND MULTI-STATE COOPERATIVES AFTER 2021",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 423.49
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 212.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 947,
+      "markdown_body_line_end": 947,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The MSCS Act governs societies whose objects are not confined to one State.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 105.89
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 53.422
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 965,
+      "markdown_body_line_end": 974,
+      "heading": "Visual 35 - 2023 Reform Architecture",
+      "preview": "ELECTIONS       -> Co-operative Election Authority",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 579.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 488.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 987,
+      "heading": "Visual 36 - Co-operative Election Authority",
+      "preview": "Feature | Exact statutory position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "Exact statutory position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 295.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 1000,
+      "heading": "Visual 37 - Board and Conflict Controls",
+      "preview": "Reform area | Statutory rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Reform area",
+          "Statutory rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1020,
+      "heading": "Visual 38 - Rehabilitation, Reconstruction and Development Fund",
+      "preview": "CONTRIBUTOR:",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 594.29
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 453.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1032,
+      "heading": "Visual 39 - Audit Ladder",
+      "preview": "Audit layer | Applicability",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Audit layer",
+          "Applicability"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 412.09
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 259.088
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1053,
+      "heading": "Visual 40 - Member Grievance and Information",
+      "preview": "MEMBER COMPLAINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1063,
+      "heading": "Visual 41 - Merger and Amalgamation Routes",
+      "preview": "Route | Qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Route",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 595.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 495.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1080,
+      "heading": "Visual 42 - Current Compliance Control",
+      "preview": "MSCS annual activities",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 454.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 343.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1103,
+      "heading": "CLOSING RECALL FLOW - MSCS ACT, 2002 AND THE 2023 AMENDMENT",
+      "preview": "START / CONCEPT: MSCS ACT, 2002 AND THE 2023 AMENDMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 302.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 81.29
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1114,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Ministry coordinates policy while the Central Registrar exercises statutory MSCS functions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1147,
+      "heading": "Visual 43 - Institution Map",
+      "preview": "MINISTRY OF COOPERATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 347.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 206.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1153,
+      "markdown_body_line_end": 1158,
+      "heading": "Visual 44 - Policy Federalism Filter",
+      "preview": "Policy instrument | Constitutional use | Constitutional limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Policy instrument",
+          "Constitutional use",
+          "Constitutional limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1181,
+      "heading": "CLOSING RECALL FLOW - MINISTRY OF COOPERATION, CENTRAL REGISTRAR AND CURRENT POLICY",
+      "preview": "START / CONCEPT: MINISTRY OF COOPERATION, CENTRAL REGISTRAR AND CURRENT POLICY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 622.49
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 401.49
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1192,
+      "markdown_body_line_end": 1192,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A cooperative bank combines cooperative-law governance with banking regulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 275.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 223.422
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1222,
+      "heading": "Visual 45 - Rural Short-Term Cooperative Credit Structure",
+      "preview": "STATE COOPERATIVE BANK",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 585.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1233,
+      "heading": "Visual 46 - Regulator Matrix",
+      "preview": "Institution | Cooperative-law layer | Banking/prudential layer | Supervision",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Cooperative-law layer",
+          "Banking/prudential layer",
+          "Supervision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 543.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 395.99
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1250,
+      "heading": "Visual 47 - What the 2020 Banking Amendment Changed",
+      "preview": "BEFORE / CONTINUING PROBLEM:",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 354.79
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 243.79
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1261,
+      "heading": "Visual 48 - PACS Boundary",
+      "preview": "Statement | Correct control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Statement",
+          "Correct control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1279,
+      "heading": "Visual 49 - Cooperative-Bank Governance Risk Chain",
+      "preview": "POLITICAL / MEMBER PRESSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 625.49
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 504.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1285,
+      "markdown_body_line_end": 1302,
+      "heading": "CLOSING RECALL FLOW - COOPERATIVE BANKS: DUAL AND MULTIPLE REGULATION",
+      "preview": "START / CONCEPT: COOPERATIVE BANKS: DUAL AND MULTIPLE REGULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 463.29
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 242.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1313,
+      "markdown_body_line_end": 1313,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A cooperative society is not automatically “State” under Article 12 merely because it is registered, regulated or supervised under a cooperative statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 116.69
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 50.022
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1334,
+      "markdown_body_line_end": 1338,
+      "heading": "Visual 50 - Three Status Tests",
+      "preview": "Question | Governing test | Result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Question",
+          "Governing test",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 500.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 389.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1349,
+      "heading": "Visual 51 - Case-Control Matrix",
+      "preview": "Case | Proposition | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Case",
+          "Proposition",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 348.29
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 205.288
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1370,
+      "heading": "Visual 52 - Writ and RTI Decision Tree",
+      "preview": "COOPERATIVE SOCIETY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1380,
+      "markdown_body_line_end": 1397,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 12, ARTICLE 226 AND RTI: THREE DIFFERENT TESTS",
+      "preview": "START / CONCEPT: ARTICLE 12, ARTICLE 226 AND RTI: THREE DIFFERENT TESTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 514.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 283.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1408,
+      "markdown_body_line_end": 1408,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Democratic ownership produces benefits only when members can exercise informed control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 143.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 90.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1432,
+      "heading": "Visual 53 - Cooperative Theory of Change",
+      "preview": "SMALL MEMBERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 588.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1438,
+      "markdown_body_line_end": 1448,
+      "heading": "Visual 54 - Failure Chain",
+      "preview": "PASSIVE MEMBERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 546.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 445.891
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1461,
+      "heading": "Visual 55 - Strength-Failure Matrix",
+      "preview": "Dimension | Strength | Failure mode | Corrective lever",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Strength",
+          "Failure mode",
+          "Corrective lever"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 404.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 257.79
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1467,
+      "markdown_body_line_end": 1474,
+      "heading": "Visual 56 - Example Discipline",
+      "preview": "GOOD USE:",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1497,
+      "heading": "CLOSING RECALL FLOW - STRENGTHS, FAILURES AND INSTITUTIONAL INCENTIVES",
+      "preview": "START / CONCEPT: STRENGTHS, FAILURES AND INSTITUTIONAL INCENTIVES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 675.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 464.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1508,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform should protect voluntary member control while imposing transparent, proportionate and function-specific accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 324.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 257.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1525,
+      "markdown_body_line_end": 1532,
+      "heading": "Visual 57 - Member-Centric Reform Package",
+      "preview": "Reform | Named problem addressed | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Reform",
+          "Named problem addressed",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1538,
+      "markdown_body_line_end": 1541,
+      "heading": "Visual 58 - Autonomy-Accountability Matrix",
+      "preview": " | Low accountability | High accountability",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "",
+          "Low accountability",
+          "High accountability"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 594.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 527.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1547,
+      "markdown_body_line_end": 1555,
+      "heading": "Visual 59 - Reform Sequence",
+      "preview": "1. CLEAN MEMBERSHIP AND VOTER ROLLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 486.088
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 405.088
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1561,
+      "markdown_body_line_end": 1578,
+      "heading": "CLOSING RECALL FLOW - REFORM AGENDA: AUTONOMY WITH ACCOUNTABILITY",
+      "preview": "START / CONCEPT: REFORM AGENDA: AUTONOMY WITH ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 363.888
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 142.888
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1583,
+      "markdown_body_line_end": 1587,
+      "heading": "Visual 60 - 10/15/20-Mark Spine",
+      "preview": "Marks | Architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 652.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1593,
+      "markdown_body_line_end": 1602,
+      "heading": "Visual 61 - Prelims Close-Option Traps",
+      "preview": "Trap | Correct control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Trap",
+          "Correct control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 611.49
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 417.288
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1620,
+      "heading": "Visual 62 - Claim-to-Evidence Unit",
+      "preview": "CLAIM:",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 376.088
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 255.088
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1627,
+      "markdown_body_line_end": 1636,
+      "heading": "Visual 63 - Claim-Risk Ledger",
+      "preview": "Claim family | Primary control | Deliberate limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Claim family",
+          "Primary control",
+          "Deliberate limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 537.09
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2187,
+      "markdown_body_line_end": 2193,
+      "heading": "Visual 68 - Original MCQ Coverage Grid",
+      "preview": "MCQs | Coverage",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "MCQs",
+          "Coverage"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2201,
+      "markdown_body_line_end": 2208,
+      "heading": "Visual 69 - Remedial Error Map",
+      "preview": "RIGHT TO FORM != RIGHT TO AID",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 590.49
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 519.49
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2370,
+      "markdown_body_line_end": 2383,
+      "heading": "Visual 70 - Complete Objective-Practice Rotation",
+      "preview": "Q01-Q04  A B C D",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 16
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 517.691
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 386.691
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2397,
+      "markdown_body_line_end": 2402,
+      "heading": "Visual 64 - Verified PYQ Coverage",
+      "preview": "Year/paper | Question | Relationship to topic | Key status",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Year/paper",
+          "Question",
+          "Relationship to topic",
+          "Key status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 660.39
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2410,
+      "markdown_body_line_end": 2420,
+      "heading": "PYQ 1 - 2020 Prelims GS-I Q59",
+      "preview": "Consider the following statements:  1. In terms of short-term credit delivery to the agriculture sector, District Central Cooperative Banks (DCCBs) deliver more credit in comparison to Scheduled Commercial Banks and Regional Rural Banks. 2.",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 616.19
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 521.122
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2432,
+      "heading": "Visual 65 - DCCB Elimination Route",
+      "preview": "Statement 2 -> core tier function: DCCB funds/supports PACS -> true",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 446.522
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 405.522
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2438,
+      "markdown_body_line_end": 2449,
+      "heading": "PYQ 2 - 2021 Prelims GS-I Q5",
+      "preview": "With reference to “Urban Cooperative Banks” in India, consider the following statements:  1. They are supervised and regulated by local boards set up by the State Governments. 2. They can issue equity shares and preference shares. 3. They w",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 386.322
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 291.254
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2461,
+      "heading": "Visual 66 - UCB Statement Audit",
+      "preview": "Statement | Verdict | Reason",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Statement",
+          "Verdict",
+          "Reason"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2467,
+      "markdown_body_line_end": 2472,
+      "heading": "PYQ 3 - 2023 Prelims GS-I Q26",
+      "preview": "Which one of the following best describes the concept of “Small Farmer Large Field”?  (a) Resettlement of war-displaced people on a large collectively cultivated field (b) Many marginal farmers in an area organise into groups and synchronis",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 679.89
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 570.622
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2480,
+      "markdown_body_line_end": 2488,
+      "heading": "Visual 67 - Collective Operation Without Land Surrender",
+      "preview": "SEPARATE SMALL HOLDINGS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 496.022
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 415.022
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2500,
+      "markdown_body_line_end": 2506,
+      "heading": "Visual 71 - Three-Change, One-Limit Spine",
+      "preview": "97TH AMENDMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2554,
+      "markdown_body_line_end": 2562,
+      "heading": "Visual 72 - Formation Right Funnel",
+      "preview": "RIGHT TO FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 468.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 387.491
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2608,
+      "markdown_body_line_end": 2613,
+      "heading": "Visual 73 - Part IXB Answer Strip",
+      "preview": "ZH definitions -> ZI incorporation principles -> ZJ board",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2659,
+      "markdown_body_line_end": 2671,
+      "heading": "Visual 74 - Federalism Causal Chain",
+      "preview": "ENTRY 32 STATE POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 556.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 435.691
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2726,
+      "heading": "Visual 75 - 2023 Balance Sheet",
+      "preview": "Accountability gain | Autonomy concern | Safeguard needed",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Accountability gain",
+          "Autonomy concern",
+          "Safeguard needed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2776,
+      "markdown_body_line_end": 2788,
+      "heading": "Visual 76 - Two Identities, Three Regulators",
+      "preview": "COOPERATIVE IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 239.091
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2840,
+      "markdown_body_line_end": 2845,
+      "heading": "Visual 77 - Status Is Question-Specific",
+      "preview": "ARTICLE 12 -> government instrumentality?",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 669.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 618.091
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2895,
+      "markdown_body_line_end": 2902,
+      "heading": "Visual 78 - Development-to-Governance Balance",
+      "preview": "Development channel | Democratic risk | Reform response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Development channel",
+          "Democratic risk",
+          "Reform response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 303.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 151.49
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2935,
+      "markdown_body_line_end": 2942,
+      "heading": "Visual 79 - Eight-Answer Reuse Matrix",
+      "preview": "Question family | Reusable anchors",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Question family",
+          "Reusable anchors"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 365.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 202.29
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2970,
+      "markdown_body_line_end": 2973,
+      "heading": "Cooperative Societies (97th Amendment) - ADVANCED / COMPLETE",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II **Grounded in:** Indian Polity by M. Laxmikant (97th Amendment section; direct check of the local Sixth Revised Edition PDF) + official court update. ✅ = from sourc",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 356.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 224.824
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2980,
+      "markdown_body_line_end": 2984,
+      "heading": "PART A - THE 97th CONSTITUTIONAL AMENDMENT ACT, 2011 ⭐⭐",
+      "preview": "# | Change | Provision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "#",
+          "Change",
+          "Provision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 732.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 621.49
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3039,
+      "heading": "Constitutional Identity and Federal Base",
+      "preview": "**Rapid thesis:** `[FACT]` Cooperative societies combine a protected freedom of formation, a DPSP policy anchor and a territorially divided statutory regime; detailed constitutional governance survives only in the valid multi-State field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 498.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 432.224
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3043,
+      "markdown_body_line_end": 3054,
+      "heading": "Visual 80 - One-Page Master Map",
+      "preview": "COOPERATIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 410.224
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 299.224
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3058,
+      "markdown_body_line_end": 3066,
+      "heading": "Cooperative Principles: Source Control",
+      "preview": "Principle | Recall | Source caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Principle",
+          "Recall",
+          "Source caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 277.224
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 93.022
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3070,
+      "markdown_body_line_end": 3079,
+      "heading": "Evolution and Critical Dates",
+      "preview": "1904 credit law -> 1912 broader law -> 1919/1935 provincial subject",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3087,
+      "heading": "97th Amendment: Three Separate Effects",
+      "preview": "Change | Status after 2021 | Trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Change",
+          "Status after 2021",
+          "Trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 674.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 586.09
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3117,
+      "heading": "Visual 81 - Part IXB Recall Chain",
+      "preview": "ZH Define",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 20
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 387.29
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 246.29
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3121,
+      "markdown_body_line_end": 3131,
+      "heading": "Part IXB Numeric and Qualification Sheet",
+      "preview": "Item | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Item",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 571.89
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3135,
+      "markdown_body_line_end": 3141,
+      "heading": "State and Multi-State Regimes",
+      "preview": "Question | State society | MSCS",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "State society",
+          "MSCS"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 549.89
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 419.288
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3145,
+      "markdown_body_line_end": 3146,
+      "heading": "2023 MSCS Reform Recall",
+      "preview": "**Mnemonic: “E-B-A-G-I-R-M”** **E**lection Authority | **B**oard integrity | **A**udit | **G**rievance Ombudsman | **I**nformation Officer | **R**ehabilitation Fund | **M**erger route",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 419.288
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 352.62
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3161,
+      "markdown_body_line_end": 3166,
+      "heading": "Ministry and Policy Boundary",
+      "preview": "Ministry = executive Union policy/administration",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 158.62
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 107.62
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3175,
+      "heading": "Cooperative Banking Sheet",
+      "preview": "Institution | Key control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Key control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3184,
+      "markdown_body_line_end": 3196,
+      "heading": "Article 12, Writ and RTI",
+      "preview": "ARTICLE 12:",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 575.89
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 454.89
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3200,
+      "markdown_body_line_end": 3207,
+      "heading": "Governance Strengths and Failure Chains",
+      "preview": "Strength | Failure | Reform",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Strength",
+          "Failure",
+          "Reform"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 432.89
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 281.088
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3211,
+      "markdown_body_line_end": 3220,
+      "heading": "Visual 82 - Reform Answer Spine",
+      "preview": "MEMBER-CENTRIC GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3252,
+      "markdown_body_line_end": 3263,
+      "heading": "Final 20-Second Recall",
+      "preview": "19(1)(c) FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 276.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 165.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3269,
+      "markdown_body_line_end": 3291,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Cooperative identity, principles and evolution",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 538.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3295,
+      "markdown_body_line_end": 3305,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Federal competence and the 97th Amendment",
+      "preview": "ENTRY 32, STATE LIST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 516.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 413.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3309,
+      "markdown_body_line_end": 3319,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Union of India v. Rajendra N. Shah (2021): severability",
+      "preview": "Union of India v. Rajendra N. Shah (2021)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 391.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 288.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3323,
+      "markdown_body_line_end": 3333,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Part IXB board and election design",
+      "preview": "243ZJ",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3337,
+      "markdown_body_line_end": 3348,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Supersession, audit and returns",
+      "preview": "243ZL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 549.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3352,
+      "markdown_body_line_end": 3363,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: State societies and multi-State societies",
+      "preview": "STATE-FIELD SOCIETY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 527.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 414.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3367,
+      "markdown_body_line_end": 3379,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: MSCS Amendment 2023 institutions",
+      "preview": "CO-OPERATIVE ELECTION AUTHORITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 392.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 269.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3383,
+      "markdown_body_line_end": 3398,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Ministry, Central Registrar and policy boundary",
+      "preview": "MINISTRY OF COOPERATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3402,
+      "markdown_body_line_end": 3421,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Cooperative banking regulation",
+      "preview": "INSTITUTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3425,
+      "markdown_body_line_end": 3437,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Article 12, Article 226 and RTI tests",
+      "preview": "ARTICLE 12",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3441,
+      "markdown_body_line_end": 3458,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Governance failures and reform sequence",
+      "preview": "Thalappalam Service Cooperative Bank (2013)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3462,
+      "markdown_body_line_end": 3482,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC traps, PYQs and answer synthesis",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    }
+  ]
+}

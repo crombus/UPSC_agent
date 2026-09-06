@@ -1,0 +1,1410 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-51",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 8,
+      "heading": "Rights and Liabilities of the Government - Complete Uncompressed Learning Session",
+      "preview": "**Evidence discipline:** constitutional text, current statutes, named judgments and dated primary sources are distinguished from analysis. A recommendation is never presented as enacted law.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 712.891
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 668.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 12,
+      "markdown_body_line_end": 21,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 643.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 393.022
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\assets\\polity-51_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 704.491
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 396.956
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Government under law combines administrative continuity with an identifiable legal defendant and effective remedies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 242.756
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 176.088
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 89,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PUBLIC POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 655.491
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 92,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Master distinction:** Governmental legal personality does not mean every public official is personally liable, and official immunity does not mean the governmental action is beyond review.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 655.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 610.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 98,
+      "markdown_body_line_end": 115,
+      "heading": "CLOSING RECALL FLOW - CORE PROPOSITION",
+      "preview": "START / CONCEPT: CORE PROPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 586.324
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 365.324
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 126,
+      "markdown_body_line_end": 126,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A precise article map prevents adjacent constitutional provisions from being collapsed into a single liability rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 244.524
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 192.056
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 147,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Constitutional subject | Examination distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Article",
+          "Constitutional subject",
+          "Examination distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 540.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 150,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Article **300A** is the right-to-property provision. It is adjacent to, but not part of, the Arts 294–300 government-liability sequence.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 540.69
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 496.022
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 173,
+      "heading": "CLOSING RECALL FLOW - ARTICLE MAP",
+      "preview": "START / CONCEPT: ARTICLE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 471.522
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 250.522
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 184,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Property continuity shows why the State survives constitutional transition as a juristic institution rather than personal office-holders.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 129.722
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 63.054
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 213,
+      "heading": "3.2 Escheat, lapse and bona vacantia: Article 296",
+      "preview": "Term | Safe meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Safe meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 535.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 447.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 233,
+      "heading": "3.4 Trade and property: Article 298",
+      "preview": "**Trap:** Article 298 grants executive capacity; it does not exempt a public enterprise or contract from ordinary law, Fundamental Rights, competition rules or legislative control.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 270.69
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 226.022
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 256,
+      "heading": "CLOSING RECALL FLOW - PROPERTY, SUCCESSION AND OWNERLESS ASSETS",
+      "preview": "START / CONCEPT: PROPERTY, SUCCESSION AND OWNERLESS ASSETS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 267,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Public contracting is broad in capacity but exacting in authority because it commits the public exchequer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 298,
+      "markdown_body_line_end": 299,
+      "heading": "4.2 Personal liability",
+      "preview": "**Trap:** Personal immunity of the constitutional head does **not** immunise the Union or State from contractual liability.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 72.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 42.356
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 329,
+      "heading": "CLOSING RECALL FLOW - GOVERNMENT CONTRACTS: ARTICLE 299",
+      "preview": "START / CONCEPT: GOVERNMENT CONTRACTS: ARTICLE 299",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 701.991
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 480.991
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 340,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Suits and tort liability under Article 300 reveal a movement from colonial sovereign immunity toward narrow, rights-sensitive accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 360.191
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 293.524
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 368,
+      "heading": "5.2 Sovereign-immunity trajectory",
+      "preview": "Stage | Case/proposition | Correct use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Case/proposition",
+          "Correct use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 555.89
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 396,
+      "heading": "CLOSING RECALL FLOW - SUITS AND TORT LIABILITY: ARTICLE 300",
+      "preview": "START / CONCEPT: SUITS AND TORT LIABILITY: ARTICLE 300",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 484.79
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 253.79
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 407,
+      "markdown_body_line_end": 407,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Source separation is the fastest way to avoid overbroad claims about officials and governmental liability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 113.99
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 61.522
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 425,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Actor | Protection/source | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Actor",
+          "Protection/source",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 440.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 429,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Source firewall:** Article 361 immunity, Article 299 contract protection, civil-procedure notice, criminal-procedure sanction and judicial-officer protection arise from **different provisions**. Never present them as one constitutional im",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 440.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 381.622
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 435,
+      "markdown_body_line_end": 452,
+      "heading": "CLOSING RECALL FLOW - PUBLIC-OFFICIAL PROTECTION: DO NOT MIX THE SOURCES",
+      "preview": "START / CONCEPT: PUBLIC-OFFICIAL PROTECTION: DO NOT MIX THE SOURCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 357.122
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 136.122
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accountability works when every claimed power or protection is tied to authority, procedure, reasons and remedy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 481,
+      "markdown_body_line_end": 485,
+      "heading": "7.1 Article 300A: lawful deprivation of property",
+      "preview": "Authority | Exam-safe proposition",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Authority",
+          "Exam-safe proposition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 313.222
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 492,
+      "heading": "7.1 Article 300A: lawful deprivation of property",
+      "preview": "**Trap:** “Authority of law” excludes deprivation by unsupported executive action. Article 300A does not constitutionalise an absolute right to a particular market price in every statutory acquisition, but illusory compensation and arbitrar",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 279.822
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 220.954
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 515,
+      "heading": "7.2 State secrets, evidence privilege and RTI",
+      "preview": "**Source firewall:** evidentiary privilege in litigation and an RTI exemption are distinct legal questions. In either setting, identify the exact provision, claimed harm, decision-maker, balancing rule and available review.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 749.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 705.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 539,
+      "heading": "7.3 Remedy and official-liability decision tree",
+      "preview": "WHAT IS THE WRONG?",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 683.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 482.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 569,
+      "markdown_body_line_end": 586,
+      "heading": "CLOSING RECALL FLOW - ACCOUNTABILITY LOGIC",
+      "preview": "START / CONCEPT: ACCOUNTABILITY LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 600,
+      "heading": "8.1 Demand map",
+      "preview": "Demand | Answer spine",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Demand",
+          "Answer spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 523.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 273.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 618,
+      "heading": "8.3 Mark-scaled structures",
+      "preview": "Marks | Structure | Evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 687.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 644,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Must-know facts provide the verified constitutional and statutory backbone for accurate Prelims recall and concise Mains analysis.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 360.39
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 293.722
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 690,
+      "heading": "CLOSING RECALL FLOW - MUST-KNOW FACTS",
+      "preview": "START / CONCEPT: MUST-KNOW FACTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 676.591
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 455.591
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1346,
+      "heading": "PYQ 2 - 2025 Prelims GS-I Q59",
+      "preview": "**PYQ boundary:** No direct Mains GS-II question centrally demanding Articles 294–300 was located in the routed 2018–2025 ledgers. The two questions above are included as supporting, exact Prelims routes; the original Mains set supplies fut",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 583.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 525.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1918,
+      "markdown_body_line_end": 1921,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Polity · **Tier:** Advanced enrichment · **GS Paper:** GS-II **Companion:** `../basic/Rights-and-Liabilities-of-the-Government.md` **Firewall:** The Core independently supplies Articles 294–300, contract formalities, suit ident",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 721.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1940,
+      "markdown_body_line_end": 1946,
+      "heading": "2. Public and private law remedies",
+      "preview": "Route | Trigger | Principal object | Typical forum",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Route",
+          "Trigger",
+          "Principal object",
+          "Typical forum"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 572.224
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 414.322
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2031,
+      "markdown_body_line_end": 2035,
+      "heading": "7. Procurement as constitutional administration",
+      "preview": "identified need -> budget/sanction -> transparent specification -> fair competition",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 222.191
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 181.191
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2090,
+      "markdown_body_line_end": 2095,
+      "heading": "One-page constitutional map",
+      "preview": "294–295 succession -> 296 ownerless property -> 297 maritime resources",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 228.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 177.091
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2099,
+      "markdown_body_line_end": 2106,
+      "heading": "Remedy map",
+      "preview": "Wrong | Route | Anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Wrong",
+          "Route",
+          "Anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 611.09
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2131,
+      "markdown_body_line_end": 2133,
+      "heading": "Answer-grabbing conclusion",
+      "preview": "Indian public law gives government special capacity, form and bounded protection so it can govern continuously; constitutionalism requires that every claimed protection remain tied to an exact source, legitimate function, fair procedure and",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 292.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 233.622
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2139,
+      "markdown_body_line_end": 2156,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Government as property-holder, contractor and suable legal person",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2160,
+      "markdown_body_line_end": 2176,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Succession, ownerless property and reorganisation",
+      "preview": "ARTICLES 294-295",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2180,
+      "markdown_body_line_end": 2195,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Articles 298 and 299: capacity before valid commitment",
+      "preview": "ARTICLE 298",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2199,
+      "markdown_body_line_end": 2215,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Defective contract and restitution",
+      "preview": "ARTICLE 299 DEFECT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2219,
+      "markdown_body_line_end": 2236,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Article 300 and the civil-suit route",
+      "preview": "PROPER PARTY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2240,
+      "markdown_body_line_end": 2257,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Private tort and the narrowing of sovereign immunity",
+      "preview": "P & O Steam Navigation (1861)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2261,
+      "markdown_body_line_end": 2276,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Constitutional tort and vicarious responsibility",
+      "preview": "PUBLIC-LAW COMPENSATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2280,
+      "markdown_body_line_end": 2297,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Property, procurement, arbitration and protection boundaries",
+      "preview": "ARTICLE 300A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2301,
+      "markdown_body_line_end": 2317,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Article 300A: acquisition discipline and seven safeguards",
+      "preview": "ARTICLE 300A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2321,
+      "markdown_body_line_end": 2334,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: State secrets: evidence privilege and RTI are distinct",
+      "preview": "LITIGATION-EVIDENCE ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2338,
+      "markdown_body_line_end": 2352,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Choose the correct remedy and protection",
+      "preview": "START WITH THE WRONG, NOT A BLANKET IMMUNITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2356,
+      "markdown_body_line_end": 2379,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC synthesis: no blanket immunity in government under law",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    }
+  ]
+}

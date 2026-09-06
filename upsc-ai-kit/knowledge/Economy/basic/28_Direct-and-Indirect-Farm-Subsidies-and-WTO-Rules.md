@@ -721,3 +721,27 @@ Reasoned verdict + reform sequencing (3 lines)
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Farm support includes budgetary transfers, price support, input subsidies, credit and infrastructure; WTO Agreement on Agriculture classifies support by policy design and trade effect rather than domestic political label.
+- **Indispensable distinction and prerequisite taxonomy:** Direct versus indirect subsidy is not WTO green/amber/blue classification, MSP announcement is not product-specific support calculation, notified support is not adjudicated breach, and a peace clause is not permanent exemption.
+- **Mechanism, implementation and evidence control:** Qualify eligible production value, external reference price, currency/inflation issue, de minimis and developing-member treatment from authoritative text; separate notification, question, dispute and ruling without inventing box limits.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The WTO and fertiliser pages substantively confirmed legal categories and the fertiliser payment channel. No subsidy outlay, beneficiary count, notification percentage, peace-clause invocation, product support value or current dispute outcome was imported. Sources: https://www.wto.org/english/tratop_e/agric_e/agboxes_e.htm; https://www.wto.org/english/tratop_e/agric_e/ag_intro03_domestic_e.htm; https://www.fert.gov.in/en/department/our-wings/direct-benefit-transfer-dbt
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route the 2023 GS-III farm-subsidy/WTO demand and the 2020 objective fertiliser concept. The Basic/practice firewall preserves fertiliser pricing, ammonia and sulphur distinctions without inferring an unavailable objective answer key.

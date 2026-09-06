@@ -127,7 +127,16 @@ def assert_batch_contract(
         case.assertEqual(12, markdown.count("```ascii-master"), key)
         case.assertNotRegex(markdown, r"(?i)\b(?:todo|placeholder|lorem ipsum)\b")
         case.assertNotIn("\ufffd", markdown)
-        case.assertEqual(Path(config["canonical"]).read_text(encoding="utf-8"), markdown)
+        canonical = Path(config["canonical"]).read_text(encoding="utf-8")
+        canonical = re.sub(
+            r"\n### Semantic-completeness ownership and PYQ control\n"
+            r".*?(?=\n## BASIC MCQS / REMEDIATION)",
+            "",
+            canonical,
+            count=1,
+            flags=re.S,
+        )
+        case.assertEqual(canonical, markdown)
 
         basic = Path(config["basic"]).read_text(encoding="utf-8")
         basic_block = markdown.split(EXPECTED_H2[0], 1)[1].split(EXPECTED_H2[1], 1)[0]

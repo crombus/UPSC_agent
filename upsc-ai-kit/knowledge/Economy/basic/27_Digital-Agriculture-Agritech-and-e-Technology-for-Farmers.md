@@ -656,3 +656,27 @@ Intro (1 line) + 4-5 evidence units across stages (8 lines) + 3 limitations/trad
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Digital agriculture links farmer/plot registries, decision support, remote sensing, extension, market information and service delivery, but value depends on data quality, consent, interoperability, assisted access and agronomic use.
+- **Indispensable distinction and prerequisite taxonomy:** Registry entry is not land title, platform onboarding is not adoption, advisory delivery is not behavioural change, digital availability is not inclusion, and predictive correlation is not causal yield gain.
+- **Mechanism, implementation and evidence control:** Distinguish mission approval, architecture, pilot, state rollout and operational service; use counts only with source/date/denominator and test privacy, tenancy, language, connectivity, grievance and offline alternatives.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The Digital Agriculture Division page substantively confirmed architecture. The mission PDF was binary and e-NAM returned 404, so the package imports no new outlay, Farmer-ID, plot, district, mandi, transaction, drone, sensor or scheme-participation figure and keeps approval, rollout, availability, adoption and outcome separate. Sources: https://agriwelfare.gov.in/Documents/pib_%20DigitalAgricultureMission.pdf; https://agriwelfare.gov.in/en/DigiAgriDiv; https://agri.enam.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route the 2023 GS-III e-Technology demand and objective concepts on drone applications and the WEF 100 Million Farmers platform. The Basic session and practice preserve these concepts without inferring unavailable objective keys or platform achievement.

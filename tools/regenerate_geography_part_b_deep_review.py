@@ -16,7 +16,7 @@ from typing import Any
 
 
 _BASE = Path(__file__).with_name("regenerate_geography_part_a_deep_review.py")
-_BASE_SHA256 = "5f94b482a960ab99cecfb88e5be18621a43b40420c3171b3c5fe6a3065a62e19"
+_BASE_SHA256 = "9ebad1b4a958b293ed30678a7436182abd7bf474ec40c637ddc4a5f6d9aa3286"
 _base_bytes = _BASE.read_bytes()
 if hashlib.sha256(_base_bytes).hexdigest() != _BASE_SHA256:
     raise RuntimeError(
@@ -51,8 +51,8 @@ _source = _source.replace(
     "tools\\\\test_regenerate_geography_part_a_deep_review.py",
     "tools\\\\test_regenerate_geography_part_b_deep_review.py",
 )
-_source = _source.replace("2026-09-01", "2026-09-02")
-_source = _source.replace("1 September 2026", "2 September 2026")
+_source = _source.replace("2026-09-01", "2026-09-05")
+_source = _source.replace("1 September 2026", "5 September 2026")
 _source = _source.replace('"topic_count": 25', '"topic_count": 12')
 _source = _source.replace('"topic_validations_passed": 25', '"topic_validations_passed": 12')
 _source = _source.replace('"latest_topic_count": 25', '"latest_topic_count": 12')
@@ -111,7 +111,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 
-DATE = "2026-09-02"
+DATE = "2026-09-05"
 SECTION = "Part B — Human, Economic and Regional Geography"
 SECTION_MANIFEST = (
     ROOT
@@ -218,6 +218,616 @@ GEOGRAPHY_REVIEW_POINTS: dict[int, tuple[str, str, str]] = {
         "Indo-Aryan/Dravidian/Austroasiatic/Tibeto-Burman language zones, tribal central belt and Northeast, Himalayan and coastal livelihoods, pilgrimage networks, pastoral routes, borderlands and metropolitan mosaics require named maps; Census 2011 remains the completed census baseline while identities are dynamic and multi-scalar.",
     ),
 }
+
+CANONICAL_OWNER_CONTROLS = {
+    26: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** population distribution, density, growth and composition;
+  fertility, mortality, age-sex structure and dependency; population
+  pyramids; demographic transition, momentum, dividend, ageing, optimum
+  population and the Malthus-Boserup debate.
+- **Theory/model control:** demographic transition is a descriptive
+  generalisation, not a universal timetable or deterministic forecast.
+  Malthus, Boserup and optimum-population reasoning retain assumptions,
+  counter-evidence, entitlement/distribution and ecological qualifications.
+- **Indicator control:** CBR, CDR, TFR, IMR, life expectancy, sex ratio and
+  dependency ratio answer different questions. Replacement fertility does
+  not mean immediate zero growth; momentum and age structure intervene.
+- **Scale/map control:** world transition regions are separated from India's
+  staggered state transitions. Kerala and Tamil Nadu ageing/low fertility,
+  EAG-state youth and higher fertility, and urban-rural/gender contrasts are
+  mapped without treating national averages as uniform state conditions.
+- **Date/data control:** Census 2011 is the latest completed Indian
+  enumeration at this review cutoff. SRS and NFHS are sample-based, and UN
+  World Population Prospects 2024 is an estimate/projection series; none is
+  relabelled as a post-2011 census count.
+- **Close-option control:** population growth differs from birth rate;
+  youthful structure from demographic dividend; ageing from population
+  decline; child sex ratio from all-ages sex ratio; stock from flow.
+- **Boundary:** Indian Society owns population-policy, gender and social
+  consequences in full; Economy owns labour absorption and dividend policy.
+  Geography owns spatial distribution, demographic mechanisms and regional
+  differentiation, with bounded bridges to those owners.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2024 Prelims
+  TFR definition and low-birth-rate/ageing country questions plus 2024 GS-I
+  Q7 on demographic winter. Official answer letters absent from routing
+  ledgers are not invented.""",
+    27: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** migration stock and flow; place-of-birth and last-residence
+  measures; internal/international, intra/interstate, rural-rural,
+  rural-urban, urban-urban, return, seasonal and circular movement; origin,
+  destination, corridor, remittance and demographic effects.
+- **Theory/model control:** Ravenstein, Lee, gravity/distance-decay,
+  Stouffer's intervening opportunities, Harris-Todaro expected income,
+  Zelinsky mobility transition and network/cumulative causation retain their
+  assumptions, predictive reach and empirical limits.
+- **Causal control:** wage or population size alone never explains a flow.
+  Opportunity sets, job probability, kinship networks, transport, gender,
+  marriage, distress, policy and intervening obstacles jointly shape
+  selectivity and destination choice.
+- **Scale/map control:** Bihar-Uttar Pradesh source belts,
+  Delhi-NCR/Mumbai-Surat/Bengaluru destinations, Kerala-Gulf corridors,
+  tribal/drought-prone seasonal streams and counter/return flows are mapped
+  as corridors, not timeless state labels.
+- **Date/data control:** Census 2011 migration tables remain the latest
+  completed census baseline; MoSPI's Migration in India 2020-21 is a
+  survey-period estimate, while UN International Migrant Stock 2024 covers
+  international stock and may extrapolate countries not fully reassessed.
+- **Gender/close-option control:** a recorded marriage reason does not erase
+  women's work; migrant stock differs from annual flow, internal from
+  international movement, and usual-residence migration from temporary or
+  circular mobility.
+- **Boundary:** Social Justice/Governance own entitlement portability and
+  labour protection; Indian Society owns gender/family transformation.
+  Geography owns movement measurement, theory, spatial streams and regional
+  consequences, retaining bounded institutional bridges.
+- **Verified PYQ ownership, 2018-2026:** direct ownership includes 2024 GS-I
+  Q5 on why large cities attract more migrants; the 2018 indentured-labour
+  diaspora demand is cross-owned with Modern History. No direct objective key
+  or migrant count is fabricated.""",
+    28: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** settlement site and situation; rural forms; settlement
+  hierarchy; central-place, rank-size and primate-city ideas; urbanisation,
+  morphology, suburbanisation, peri-urbanisation, conurbations, metropolitan
+  regions and India's statutory-town/census-town/urban-agglomeration system.
+- **Theory/model control:** Christaller, Burgess, Hoyt and Harris-Ullman state
+  assumptions, mechanisms, predicted forms and limits. Their idealised
+  geometry does not erase planning, transport corridors, informality,
+  polycentricity, topography or Global-South land institutions.
+- **Definition control:** urbanisation differs from urban population growth;
+  statutory town from census town; urban agglomeration from municipality;
+  conurbation from megalopolis; slum from every informal settlement.
+- **Scale/map control:** Delhi-NCR, Mumbai Metropolitan Region, Bengaluru,
+  Surat, Chandigarh, Jaipur and Kerala's dispersed settlement are compared
+  through site, situation, corridor, density, governance boundary and
+  morphology rather than city-size lists.
+- **Date/data control:** Census 2011 remains India's completed enumeration and
+  classification baseline; UN World Urbanization Prospects 2025 is a modelled
+  international series using national definitions. Projected urban shares
+  are not census counts.
+- **Plan/status control:** Smart Cities Mission, AMRUT 2.0 and PMAY-U 2.0
+  have distinct mandates. Sanction, funding, project completion, service
+  output and measured outcome are separate status claims and must be dated.
+- **Boundary:** Governance/Polity own municipal powers and finance; Indian
+  Society owns social exclusion and slum livelihoods. Geography owns
+  settlement classification, urban spatial process, morphology and regional
+  urban systems with bounded policy bridges.
+- **Verified PYQ ownership, 2018-2026:** audited ledgers contain no direct
+  Topic 28 route. Large-city migrant attraction remains Topic 27-owned and
+  urban-local-body questions remain Governance/Polity-owned; no direct PYQ is
+  invented.""",
+    29: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** formal, functional and planning regions; regional
+  inequality and convergence; cumulative causation, spread/backwash,
+  growth-pole, core-periphery, balanced/unbalanced and agropolitan strategies;
+  India's planning chronology and spatial interventions.
+- **Theory/model control:** Myrdal, Perroux, Hirschman, Friedmann and
+  agropolitan approaches retain assumptions and transmission mechanisms.
+  A growth node produces spread only through labour, supplier, market,
+  infrastructure and fiscal linkages; convergence is an empirical result.
+- **Institutional chronology:** Five Year Plans ran from the First Plan
+  (1951-56) through the Twelfth Plan period (2012-17). The Planning
+  Commission was replaced by NITI Aayog in 2015; NITI strategy, Finance
+  Commission transfers, CSS and constitutional district/local planning are
+  not synonyms.
+- **Scale/map control:** Damodar Valley, NCR, Dandakaranya, command areas,
+  hill/tribal regions, Aspirational Districts/Blocks and freight-industrial
+  corridors are mapped by node, hinterland, administrative scale and
+  intended linkage.
+- **Date/data control:** SDG India Index 2023-24 and programme dashboards are
+  dated monitoring instruments, not timeless regional-income series.
+  Rankings, delta scores, selections, sanctions and outcomes require their
+  own reference period and coverage.
+- **Distribution/control trap:** infrastructure investment differs from
+  inclusive regional development; corridor notification from operation;
+  district targeting from proof of causal impact; balanced development from
+  equal allocation.
+- **Boundary:** Economy owns macro planning and public finance; Governance
+  owns implementation architecture. Geography owns regionalisation, spatial
+  inequality, location/linkage mechanisms and map-based evaluation.
+- **Verified PYQ ownership, 2018-2026:** audited central ledgers contain no
+  direct Topic 29 route. AI/GIS locational planning and federal/local
+  development questions remain with their routed owners; no direct PYQ is
+  fabricated.""",
+    30: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** primary-activity classification; physical, tenure, labour,
+  technology, market and policy controls on agriculture; subsistence,
+  commercial, intensive, extensive, plantation, mixed, dairy,
+  Mediterranean, shifting and pastoral systems; crop seasons, agro-regions
+  and von Thünen location logic.
+- **Theory/model control:** von Thünen's isolated market, uniform plain,
+  fertility and transport assumptions are stated before applying
+  rent-distance logic. Refrigeration, multiple markets, contracts, policy,
+  unequal infrastructure and global value chains qualify exact rings.
+- **Measure control:** kharif/rabi/zaid are seasons, not crop essences; net
+  sown area differs from gross cropped area, cropping intensity from yield,
+  production from productivity, irrigation potential from created/utilised
+  delivery, and MSP announcement from procurement/farm-gate realisation.
+- **Scale/map control:** Punjab-Haryana wheat-rice, western Maharashtra
+  sugarcane, Malwa cotton/soybean, Assam tea, Kerala rubber/spices, Karnataka
+  coffee, eastern rice, dryland Deccan millets/pulses and horticultural belts
+  are explained through water-soil-labour-market-policy interaction.
+- **Primary-activity map:** fisheries follow shelf/upwelling and inland-water
+  systems; forestry/NTFP follows forest-access regimes; mining/quarrying
+  follows geology. Technology changes accessibility, not resource occurrence.
+- **Date/data control:** Agriculture Census 2015-16 is the latest fully
+  published round at this cutoff; the 2021-22 round is under process.
+  Advance crop estimates are provisional, Agricultural Statistics at a
+  Glance 2024 is a dated compilation, and FAOSTAT carries reporting lags.
+- **Policy/close-option control:** MSP, CACP recommendation, CCEA approval,
+  procurement, buffer stocks and food/nutrition security are separate;
+  scheme announcement, coverage, expenditure, output and impact are not
+  interchangeable.
+- **Verified PYQ ownership, 2018-2026:** routes include 2019 New World crops,
+  2020 crop-climate, 2022 tea states, 2023 India-China farm statistics, 2025
+  turmeric and 2025 GS-I Q5 on non-farm primary activities. Missing and
+  provisional answer letters remain unpromoted.""",
+    31: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** geological occurrence; resource/reserve and grade/economic
+  filters; metallic, non-metallic and energy-resource classification; world
+  and Indian mineral belts; coal, petroleum, gas, hydro, nuclear and
+  renewable-energy geography; critical-mineral supply chains.
+- **Resource-process control:** occurrence is a geological fact, a resource
+  is potentially usable, and a reserve is the recoverable subset under a
+  stated classification, technology, price and date. Extraction,
+  beneficiation, smelting/refining, generation, transmission and final use
+  are separate stages and may occur in different regions.
+- **Geological-model control:** shields favour many metallic ores,
+  sedimentary basins host coal and hydrocarbons, lateritisation can
+  concentrate bauxite, and a petroleum system requires source, reservoir,
+  seal and trap. These are tendencies with deposit-specific exceptions.
+- **Scale/map control:** world belts and India's Jharia-Raniganj-Talcher-
+  Korba, Mumbai High-Assam-KG, Bailadila-Keonjhar, Khetri, Jaduguda and
+  monazite-coast anchors are taught as belts, basins and corridors rather
+  than isolated mine lists.
+- **Energy-measure control:** installed capacity differs from generation,
+  capacity addition from commissioning, electricity from primary energy,
+  resources from reserves, and thermal coal from metallurgical coal.
+  Renewable potential is not identical to realisable capacity.
+- **Date/data control:** IBM mineral inventories, National Coal Inventory,
+  CEA/National Power Portal and MNRE releases retain their own reference
+  dates, classifications and provisional/final status. Production rank,
+  reserve/resource, project and capacity claims require a dated official
+  release.
+- **Criticality control:** a critical mineral is defined by economic or
+  strategic importance plus supply risk; it is not necessarily geologically
+  rare. Extraction, processing concentration, import dependence, recycling,
+  substitution and stockpiling are distinct vulnerabilities or responses.
+- **Boundary and PYQ control:** Environment owns full mining-impact/EIA and
+  transition ecology; Economy and Science-and-Technology own fiscal, market
+  and technology detail. Geography owns occurrence, distribution, location,
+  networks and spatial dependence. Verified 2018-2025 routes are retained;
+  unavailable or provisional answer letters remain unpromoted.""",
+    32: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** industrial classification; raw-material, energy, labour,
+  capital, market, transport, agglomeration, policy and environmental
+  controls; Weber, Lösch, growth-pole, product-cycle and network approaches;
+  old and new industrial regions of India and the world.
+- **Location-theory control:** Weber's material-index, transport, labour and
+  agglomeration logic and Lösch's market-area reasoning retain assumptions
+  and limits. Neither predicts one timeless optimum under multiple markets,
+  global value chains, policy incentives, sunk costs or digital inputs.
+- **Terminology control:** industry is broader than manufacturing; factory,
+  firm, plant, cluster, estate, SEZ and corridor are not synonyms.
+  Localisation differs from urbanisation economies, footloose from
+  location-free, and relative deindustrialisation from disappearance.
+- **Scale/map control:** Chotanagpur, Mumbai-Pune, Gujarat, Hugli,
+  Bengaluru-Tamil Nadu, NCR and Visakhapatnam-Guntur are compared with Ruhr,
+  Great Lakes, Japan's Pacific Belt and China's coast through input,
+  market, port, labour, technology, network and inertia logic.
+- **Process/status control:** notification, approval, land acquisition,
+  trunk infrastructure, allotment, construction, commissioning, production
+  and measured outcome are separate stages. A freight line or planned node
+  does not itself prove an operational industrial corridor.
+- **Date/data control:** IIP is a monthly volume index, ASI an annual
+  registered-factory survey, national accounts a value-added framework, and
+  PLI/corridor releases administrative records. Base year, reference period,
+  release date, revisions and coverage accompany changing claims.
+- **Boundary and PYQ control:** Economy owns industrial policy and scheme
+  design; Environment owns compliance and impact assessment. Geography owns
+  location theory, industrial-region morphology, corridor networks and
+  spatial restructuring. No direct PYQ or unavailable key is invented.""",
+    33: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** transport modes and modal choice; network nodes, links,
+  density, connectivity, accessibility, hierarchy, break-of-bulk,
+  hinterland and corridors; trade routes, ports and chokepoints; India's
+  launch, satellite, navigation and application geography.
+- **Network-process control:** route length or density does not establish
+  accessibility. Cost, time, reliability, capacity, interchange, last-mile
+  links, terrain, demand and network centrality determine connectivity and
+  modal advantage.
+- **Trade control:** merchandise differs from services trade; exports from
+  total trade, trade balance from current account, port capacity from
+  throughput, and a declared waterway from operational traffic.
+- **Scale/map control:** Golden Quadrilateral, freight corridors, major
+  ports, National Waterway-1 and industrial corridors are linked to
+  hinterlands; Hormuz, Bab-el-Mandeb, Suez, Malacca and Panama are mapped by
+  connected seas and bypass implications.
+- **Space-programme control:** Department of Space, ISRO, IN-SPACe and NSIL
+  have distinct roles. PSLV, GSLV and LVM3 are launch-vehicle families;
+  INSAT/GSAT, IRS/EOS and NavIC retain distinct functions. Launch, orbit
+  insertion, commissioning and operational service are separate statuses.
+- **Date/data control:** MoRTH, Railways, MoPSW/IWAI, Commerce/DGCI&S and
+  ISRO/Department of Space releases retain publication date, reference
+  period and provisional/final or project-specific status. Announcement,
+  sanction, completion and operation are never conflated.
+- **Boundary and PYQ control:** Economy owns trade policy and balance-of-
+  payments analysis; Science-and-Technology owns spacecraft engineering.
+  Geography owns network, corridor, hinterland, chokepoint, launch-site and
+  application geography. Specialist-routed space PYQs remain cross-owned.""",
+    34: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** every inhabited continent and major world region through
+  relative location, plate-relief spine, drainage, climate, currents,
+  biomes, resources, population/economic cores and strategic interfaces;
+  representative countries are placed inside these systems.
+- **Regional-method control:** a continent, UN statistical region, cultural
+  region, economic bloc, state and disputed territory answer different
+  questions. Synthesis runs from physical frame to human pattern and
+  interregional connection, not disconnected country lists.
+- **Terminology control:** Europe is not the EU, South America not Latin
+  America, West Asia not automatically the same extent as the Middle East,
+  Sahara not Sahel, and mainland not maritime Southeast Asia.
+- **Map completeness:** Andes-Amazon-Pampas; Rockies-Great Lakes-Mississippi;
+  Alps-North European Plain; Atlas-Sahara-Sahel-Congo-Rift; West Siberian
+  Plain-Central Asian basins-monsoon Asia; Australian interior-eastern rim;
+  major islands, peninsulas, seas, straits, canals and landlocked corridors
+  are covered through relational maps.
+- **Cross-scale control:** relief, climate and resources explain but do not
+  determine population, economy or power. Country averages cannot be
+  projected onto every subregion.
+- **Date/status control:** UN M49 names/codes are statistical and carry a
+  no-position boundary disclaimer; UN membership is a separate status;
+  World Bank income groups are annual Atlas-method classifications. Country
+  names, memberships, classifications, population estimates and disputed
+  status require edition/extraction dates.
+- **Boundary and PYQ control:** International Relations owns diplomatic
+  disputes and current alignments; Economy owns detailed indicators.
+  Geography owns regional synthesis and map relationships. Statistical
+  designations are not converted into recognition claims.""",
+    35: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** India's territorial evolution, Union and state/UT frame,
+  international land boundaries, maritime zones, borderland societies,
+  transboundary rivers, passes, valleys, corridors and the immediate
+  neighbourhood's spatial relationships.
+- **Boundary-theory control:** natural, geometric, antecedent, subsequent,
+  superimposed and relic describe morphology or genesis; they do not alone
+  establish legal validity, acceptance or present control. Delimitation,
+  demarcation, administration, management and settlement are distinct.
+- **Terminology control:** International Boundary, Line of Control, Line of
+  Actual Control and Actual Ground Position Line are not interchangeable.
+  Radcliffe, McMahon and Durand lines have different origins and contexts.
+- **Map completeness:** Pakistan and China sectors, Nepal, Bhutan,
+  Bangladesh and Myanmar land frontiers plus Sri Lanka and Maldives maritime
+  neighbourhood are reconstructed through rivers, ridges, passes, valleys,
+  enclaves/exclaves, border trade points, ports and corridors.
+- **Maritime-law control:** baseline, territorial sea, contiguous zone,
+  exclusive economic zone and continental shelf are different legal spaces;
+  sovereignty, sovereign rights and jurisdiction are not synonyms.
+- **Current-status control:** Sir Creek, Siachen/AGPL, LAC sectors, Doklam,
+  Kalapani-Lipulekh, Teesta and connectivity projects require exact official
+  bilateral/legal wording and an as-of date. Negotiation, agreement,
+  ratification, implementation and ground position are separate statuses.
+- **Source and ownership control:** Survey of India supplies the official
+  Indian map; MEA, MHA, domestic law and UN DOALOS serve different purposes.
+  International Relations and Internal Security own diplomacy and security;
+  Geography owns terminology, morphology, sectors, corridors and spatial
+  consequences. No disputed claim is presented as uncontested fact.""",
+    36: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** contemporary Indian issues are synthesised as spatial
+  systems through process, pattern, scale, exposure, vulnerability, spatial
+  spillover, trade-off, instrument and graded verdict. Groundwater stress,
+  river-basin conflict, urban flooding, air-shed stress, land degradation,
+  coastal/island pressure, Himalayan instability, displacement and regional
+  inequality are map-based applications rather than a news catalogue.
+- **Causal control:** hazard differs from disaster, scarcity from access
+  failure, drought from aridity, degradation from desertification, climate
+  trend from one event, and natural variability from human amplification.
+  Rainfall may trigger flooding while land use and drainage govern loss.
+- **Scale mismatch control:** aquifer, basin, catchment, air-shed, sediment cell,
+  metropolitan labour market and mountain corridor frequently cross the
+  administrative unit expected to act. The governing scale must be named
+  before prescribing an institution or instrument.
+- **Status/data control:** observation, forecast, projection, survey,
+  census, announcement, approval, construction, operation, target and
+  achievement are distinct. IMD, CGWB, CWC, ISRO/SAC and ministry releases
+  retain their reference period, publication date, method and status.
+- **Named India anchors:** Punjab groundwater, Gangetic aquifers, Delhi's
+  air basin, Bengaluru/Chennai water stress, Marathwada and Bundelkhand,
+  Joshimath and Himalayan towns, the Sundarbans, Western Ghats, mining
+  belts, Great Nicobar, north-east corridors and inter-state river basins
+  are used only where the named spatial mechanism is established.
+- **Ownership boundary:** Environment owns ecosystem science, conservation
+  law and pollution control in full; Disaster Management owns preparedness,
+  response and recovery systems; Economy owns prices, employment, finance
+  and sector policy. Geography owns location, distribution, regional
+  differentiation, network/basin/catchment scale and spatial consequence,
+  with only the bridge needed to complete that explanation.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2019 Indian
+  water-stress variation, 2023 freshwater availability/access and 2024
+  Gangetic-groundwater food-security demands. Adjacent questions remain
+  cross-owned and unavailable objective answer letters are not invented.""",
+    37: """### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** language, religion, caste, tribe, ethnicity, gender,
+  livelihood, migration, cultural landscape, place identity, hearth,
+  diffusion, route, frontier, sacred landscape, vernacular region, cultural
+  region and social-spatial inequality across India.
+- **Region/control principle:** formal, functional and vernacular regions
+  are analytical constructions with cores, transition zones, overlaps and
+  changing boundaries. A cultural region is not a natural container, a
+  homogeneous population or an administrative state.
+- **Classification control:** language family differs from mother tongue,
+  script, Eighth Schedule inclusion and official-language status. Religion
+  tables, Scheduled Caste and Scheduled Tribe constitutional categories,
+  tribe, PVTG, indigenous identity, caste group and ethnic community are not
+  interchangeable classifications.
+- **Social-spatial method:** caste and gender are analysed through access to
+  land, work, education, mobility, safety, services, political voice and
+  residential or occupational clustering. Spatial association never proves
+  innate group character, and national/state averages never erase class,
+  rural-urban, age, disability, regional or intra-group variation.
+- **No-stereotyping control:** no language, religion, caste, tribe, gender
+  or region is assigned a fixed temperament, occupation, capacity or
+  political behaviour. Historical institutions, ecology, markets, state
+  policy, migration and unequal power explain patterns; identities remain
+  dynamic, internally diverse, overlapping and self-defined.
+- **Map completeness:** Indo-Aryan, Dravidian, Austroasiatic and
+  Tibeto-Burman language zones; linguistic transition belts; sacred and
+  pilgrimage networks; the central tribal belt and Northeast; Himalayan,
+  pastoral, coastal and island livelihoods; borderlands, migration
+  corridors and metropolitan mosaics are named without converting broad
+  zones into exclusive or deterministic boundaries.
+- **Date/data control:** Census 2011 remains the latest completed all-India
+  baseline for language, religion and SC/ST distributions at this cutoff.
+  C-16, C-01 and Primary Census Abstract tables have distinct categories and
+  levels. PLFS is a sample labour survey, not a census. Census 2027 is
+  scheduled and includes caste enumeration, but no 2027 language, religion,
+  caste, tribe or gender-distribution result yet exists.
+- **Ownership and PYQ control:** Indian Society owns social institutions,
+  discrimination and reform in full; Social Justice owns entitlements and
+  welfare design; Polity owns constitutional safeguards. Geography owns
+  spatial distribution, region formation, diffusion, segregation,
+  accessibility and place-based inequality. Direct ownership includes the
+  2019 cultural-pockets demand; 2023 Purvaiya is cross-owned with monsoon
+  geography, and no social datum or unavailable key is invented.""",
+}
+
+GEOGRAPHY_LIVE_OFFICIAL_SOURCES = {
+    26: (
+        [
+            "https://www.un.org/development/desa/pd/content/world-population-prospects-2024",
+            "https://population.un.org/wpp/",
+            "https://censusindia.gov.in/census.website/data/SRSSTAT",
+            "https://pib.gov.in/PressReleasePage.aspx?PRID=2133845",
+        ],
+        "Rechecked 2026-09-05. UN World Population Prospects 2024 is the "
+        "current UN estimate/projection revision, not a census. Census 2011 "
+        "remains India's latest completed enumeration; SRS supplies sample "
+        "vital rates. Census 2027 is scheduled, but no 2027 demographic "
+        "results exist at this cutoff.",
+    ),
+    27: (
+        [
+            "https://censusindia.gov.in/census.website/search/node?keys=india%20migration%20data",
+            "https://mospi.gov.in/sites/default/files/publication_reports/Migration%20in%20India%20RL16082023.pdf",
+            "https://www.un.org/development/desa/pd/content/international-migrant-stock",
+        ],
+        "Rechecked 2026-09-05. Census 2011 remains the detailed internal-"
+        "migration census baseline; MoSPI Migration in India 2020-21 is a "
+        "PLFS-period survey, not a post-2011 census. UN International Migrant "
+        "Stock 2024 covers international stock for 1990-2024 and states that "
+        "countries without full reassessment may use extrapolated 2020 trends.",
+    ),
+    28: (
+        [
+            "https://www.un.org/development/desa/pd/content/world-urbanization-prospects-2025",
+            "https://mohua.gov.in/publication/annual-reports.php",
+            "https://mohua.gov.in/offerings/schemes-and-services/details/atal-mission-for-rejuvenation-and-urban-transformation-amrut-IjN5cTMtQWa",
+            "https://www.mohua.gov.in/offerings/schemes-and-services/details/pradhan-mantri-awas-yojana-urban-MjNzYjMtQWa",
+            "https://niua.in/intranet/sites/default/files/2802.pdf",
+        ],
+        "Rechecked 2026-09-05. Census 2011 remains India's enumeration and "
+        "settlement-classification baseline. UN World Urbanization Prospects "
+        "2025 is modelled and retains national-definition comparability "
+        "limits. MoHUA mission reports/dashboard claims are dated "
+        "administrative progress, not automatically service or welfare impact.",
+    ),
+    29: (
+        [
+            "https://www.niti.gov.in/publication/annual-report",
+            "https://digitallibrary.niti.gov.in/",
+            "https://www.niti.gov.in/node/1350",
+            "https://www.niti.gov.in/node/1789",
+            "https://www.undp.org/india/publications/aspirational-districts-programme-appraisal",
+        ],
+        "Rechecked 2026-09-05. The Planning Commission-to-NITI transition and "
+        "Five Year Plan chronology are institutional facts. SDG India Index "
+        "2023-24, Aspirational District/Block dashboards and UNDP's 2021 "
+        "appraisal have different periods, coverage and causal reach; rankings "
+        "or delta scores are not proof of economy-wide regional convergence.",
+    ),
+    30: (
+        [
+            "https://agcensus.da.gov.in/",
+            "https://agcensus.da.gov.in/document/agcen1516/ac_1516_report_final-220221.pdf",
+            "https://desagri.gov.in/document-report-category/agriculture-statistics-at-a-glance/",
+            "https://pib.gov.in/PressReleasePage.aspx?PRID=2265965&lang=1&reg=3",
+            "https://pib.gov.in/PressReleasePage.aspx?PRID=2260618&reg=3&lang=1",
+            "https://www.fao.org/faostat/en/#country/100",
+        ],
+        "Rechecked 2026-09-05. Agriculture Census 2015-16 remains the latest "
+        "fully published round; the portal identifies 2021-22 as the ongoing "
+        "eleventh census. Agricultural Statistics at a Glance 2024 is a dated "
+        "compilation; 2025-26 Third Advance Estimates are provisional; KMS "
+        "2026-27 MSP approval is not procurement; FAOSTAT has national-"
+        "reporting and harmonisation lags.",
+    ),
+    31: (
+        [
+            "https://ibm.gov.in/IBMPortal/pages/indian_minerals_yearbook",
+            "https://www.coal.gov.in/major-statistics/coal-reserves",
+            "https://npp.gov.in/publishedReports",
+            "https://mnre.gov.in/en/physical-progress/",
+            "https://pib.gov.in/PressReleasePage.aspx?PRID=2120525",
+        ],
+        "Rechecked 2026-09-05. IBM yearbooks and mineral statistics retain "
+        "commodity-specific reference years; the National Coal Inventory "
+        "reports geological resources as on 1 April 2025, not mineable "
+        "reserves or current production. CEA/NPP daily reports, MNRE monthly "
+        "capacity tables and NCMM policy releases measure different things. "
+        "Installed capacity, generation, resource, reserve, production, "
+        "auction and operational-project status are not interchangeable.",
+    ),
+    32: (
+        [
+            "https://www.mospi.gov.in/annual-survey-industries",
+            "https://esankhyiki.mospi.gov.in/catalogue-main/catalogue?page=0&product=ASI",
+            "https://www.mospi.gov.in/iip",
+            "https://www.dpiit.gov.in/publications/annual-reports",
+            "https://www.nicdc.in/",
+        ],
+        "Rechecked 2026-09-05. ASI is an annual registered-factory survey "
+        "with a reference year and later fieldwork/release; IIP is a monthly "
+        "volume index with its own base and revisions. DPIIT and NICDC "
+        "administrative releases describe scheme or node stages. Approval, "
+        "land acquisition, construction, commissioning, production and "
+        "measured regional outcome must be reported separately.",
+    ),
+    33: (
+        [
+            "https://morth.nic.in/annual-report",
+            "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366,554,2213",
+            "https://shipmin.gov.in/en/publication/annual-reports",
+            "https://iwai.nic.in/",
+            "https://tradestat.commerce.gov.in/",
+            "https://www.isro.gov.in/AnnualReports.html",
+            "https://www.isro.gov.in/ISRO_Achievements_FY_2025_2026.html",
+        ],
+        "Rechecked 2026-09-05. Transport annual reports, operational "
+        "dashboards and project releases have different cutoffs; route length, "
+        "capacity, throughput and traffic are distinct measures. Commerce "
+        "figures may be provisional and merchandise/services series differ. "
+        "ISRO mission pages control launch and outcome status, while annual "
+        "plans do not guarantee schedule completion.",
+    ),
+    34: (
+        [
+            "https://unstats.un.org/unsd/methodology/m49/",
+            "https://www.un.org/en/about-us/member-states",
+            "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups",
+            "https://population.un.org/wpp/",
+            "https://data.worldbank.org/",
+        ],
+        "Rechecked 2026-09-05. UN M49 country/area names and regions are "
+        "statistical classifications and expressly do not determine legal "
+        "status or boundaries; UN membership is separate. World Bank FY2027 "
+        "income groups use 2025 Atlas-method GNI per capita and may change "
+        "annually. Population estimates, classifications, country names and "
+        "political status therefore require source and date.",
+    ),
+    35: (
+        [
+            "https://www.mha.gov.in/en/division_of_mha/department-of-border-management",
+            "https://www.mea.gov.in/bilateral-documents.htm",
+            "https://surveyofindia.gov.in/pages/political-map-of-india",
+            "https://legislative.gov.in/sites/default/files/A1976-80.pdf",
+            "https://www.un.org/depts/los/LEGISLATIONANDTREATIES/STATEFILES/IND.htm",
+        ],
+        "Rechecked 2026-09-05. Survey of India maps, MEA treaties/statements, "
+        "MHA border-management material and the Maritime Zones of India Act "
+        "serve different legal and administrative purposes. UN DOALOS states "
+        "that publication does not imply recognition of a claim or boundary. "
+        "IB, LoC, LAC and AGPL terminology, dispute status, project status and "
+        "ground control must be sourced and dated separately.",
+    ),
+    36: (
+        [
+            "https://mausamjournal.imd.gov.in/index.php/MAUSAM/Annualreport",
+            "https://cgwb.gov.in/en/ground-water-resource-assessment-0",
+            "https://cwc.gov.in/en/publications",
+            "https://cwc.gov.in/sites/default/files/sopapril2025.pdf",
+            "https://www.isro.gov.in/VedasServices.html",
+            "https://www.isro.gov.in/LandResources.html",
+        ],
+        "Rechecked 2026-09-05. IMD observations and climate summaries, CGWB "
+        "resource assessments, CWC forecasts/case studies and ISRO/SAC land-"
+        "degradation products have different methods, spatial units and "
+        "reference periods. A weather event is not a climate trend; a forecast "
+        "is not an observation; groundwater resource, quality and extraction "
+        "stage are different measures; hazard mapping is not a disaster-loss "
+        "count. Geography uses these sources to establish process, pattern and "
+        "scale, while Environment, Disaster Management and Economy retain their "
+        "full specialist ownership.",
+    ),
+    37: (
+        [
+            "https://censusindia.gov.in/census.website/data/census-tables",
+            "https://censusindia.gov.in/nada/index.php/catalog/10191",
+            "https://censusindia.gov.in/nada/index.php/catalog/11361",
+            "https://censusindia.gov.in/nada/index.php/catalog/13378",
+            "https://censusindia.gov.in/nada/index.php/catalog/13379",
+            "https://tribal.nic.in/downloads/PVTG/OperationalGuidelinePMJANMAN.pdf",
+            "https://www.mospi.gov.in/annual-reports",
+            "https://pib.gov.in/PressReleasePage.aspx?PRID=2133845",
+            "https://pib.gov.in/PressReleasePage.aspx?PRID=2223099&reg=3&lang=1",
+        ],
+        "Rechecked 2026-09-05. Census 2011 C-16 language, C-01 religion and "
+        "separate SC/ST Primary Census Abstract tables remain completed all-"
+        "India baselines; they are not interchangeable cross-tabs. PLFS is a "
+        "sample labour survey and must not be relabelled as a census or used to "
+        "assign fixed traits to social groups. Census 2027 is scheduled and "
+        "includes caste enumeration in Population Enumeration, but no 2027 "
+        "language, religion, caste, tribe or gender-distribution result exists "
+        "at this cutoff. Ministry of Tribal Affairs classifications are policy "
+        "categories and do not erase community self-identification or internal "
+        "diversity.",
+    ),
+}
+
+
+def ensure_canonical_owner_control(topic: Topic) -> bool:
+    """Add the semantic control to the Basic owner without rewriting legacy v1."""
+    control = CANONICAL_OWNER_CONTROLS.get(topic.number)
+    if control is None:
+        return False
+    text = topic.basic_path.read_text(encoding="utf-8")
+    if "Semantic-completeness ownership and PYQ control" in text:
+        return False
+    topic.basic_path.write_text(
+        text.rstrip() + "\n\n" + control.strip() + "\n",
+        encoding="utf-8",
+    )
+    return True
 
 
 def _catalogue_rows() -> dict[str, dict[str, Any]]:
@@ -406,8 +1016,11 @@ def validate_tracker_record(
 
 def source_contract(topic: Topic, record: dict[str, Any]) -> str:
     provenance = record.get("provenance", {})
-    live_sources = provenance.get("live_sources") or []
-    current_note = provenance.get("current_linkage_note") or (
+    configured_sources, configured_note = GEOGRAPHY_LIVE_OFFICIAL_SOURCES.get(
+        topic.number, ([], "")
+    )
+    live_sources = configured_sources or provenance.get("live_sources") or []
+    current_note = configured_note or provenance.get("current_linkage_note") or (
         "Static concepts are separated from volatile population, production, "
         "trade, infrastructure, mission, boundary and policy claims. Every "
         "current number or status requires the issuing institution, reference "
@@ -1462,6 +2075,70 @@ def _augment_inventory_with_git_status() -> None:
         if path and path not in {rel(inventory), rel(nul_inventory)}:
             if not repo(path).is_file():
                 raise RuntimeError(f"Inventory path disappeared: {path}")
+
+
+_inherited_process_topic = process_topic
+
+
+def process_topic(topic: Topic, changed: set[str]) -> dict[str, Any]:
+    """Generate one successor and persist its dated official-source controls."""
+    result = _inherited_process_topic(topic, changed)
+    live_sources, current_note = GEOGRAPHY_LIVE_OFFICIAL_SOURCES.get(
+        topic.number, ([], "")
+    )
+    if not live_sources:
+        return result
+
+    status = load(STATUS)
+    record = latest(status, topic.topic_key)
+    provenance = record.setdefault("provenance", {})
+    provenance["live_sources"] = live_sources
+    provenance["current_linkage_note"] = current_note
+
+    content_spec_path = repo(provenance["content_spec"])
+    content_spec = load(content_spec_path)
+    content_spec["live_official_sources"] = live_sources
+    content_spec["current_status_note"] = current_note
+    dump(content_spec_path, content_spec)
+    provenance.setdefault("deliverable_hashes", {})[
+        rel(content_spec_path)
+    ] = sha256(content_spec_path)
+
+    record_path = (
+        EXPORTS
+        / f"{topic.topic_key}-learner-v2-g{record['generation']}-{DATE}-record.json"
+    )
+    dump(record_path, record)
+    for index, candidate in enumerate(status["exports"]):
+        if candidate.get("record_id") == record["record_id"]:
+            status["exports"][index] = record
+            break
+    else:
+        raise RuntimeError(f"{topic.topic_key}: generated record disappeared.")
+    dump(STATUS, status)
+
+    final_audit_path = (
+        REVIEW_ROOT
+        / "reviews"
+        / topic.topic_key
+        / f"{topic.topic_key}-g{record['generation']}-final-audit.json"
+    )
+    final_audit = load(final_audit_path)
+    final_audit.setdefault("hashes", {})[rel(content_spec_path)] = sha256(
+        content_spec_path
+    )
+    final_audit["live_official_sources"] = live_sources
+    final_audit["current_status_note"] = current_note
+    dump(final_audit_path, final_audit)
+    changed.update(
+        {
+            rel(STATUS),
+            rel(record_path),
+            rel(content_spec_path),
+            rel(final_audit_path),
+        }
+    )
+    return result
 
 
 _part_a_entrypoint = main

@@ -332,3 +332,33 @@ RULE: the cheapest mode is the one whose terminal cost is recovered over the hau
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** transport modes and modal choice; network nodes, links,
+  density, connectivity, accessibility, hierarchy, break-of-bulk,
+  hinterland and corridors; trade routes, ports and chokepoints; India's
+  launch, satellite, navigation and application geography.
+- **Network-process control:** route length or density does not establish
+  accessibility. Cost, time, reliability, capacity, interchange, last-mile
+  links, terrain, demand and network centrality determine connectivity and
+  modal advantage.
+- **Trade control:** merchandise differs from services trade; exports from
+  total trade, trade balance from current account, port capacity from
+  throughput, and a declared waterway from operational traffic.
+- **Scale/map control:** Golden Quadrilateral, freight corridors, major
+  ports, National Waterway-1 and industrial corridors are linked to
+  hinterlands; Hormuz, Bab-el-Mandeb, Suez, Malacca and Panama are mapped by
+  connected seas and bypass implications.
+- **Space-programme control:** Department of Space, ISRO, IN-SPACe and NSIL
+  have distinct roles. PSLV, GSLV and LVM3 are launch-vehicle families;
+  INSAT/GSAT, IRS/EOS and NavIC retain distinct functions. Launch, orbit
+  insertion, commissioning and operational service are separate statuses.
+- **Date/data control:** MoRTH, Railways, MoPSW/IWAI, Commerce/DGCI&S and
+  ISRO/Department of Space releases retain publication date, reference
+  period and provisional/final or project-specific status. Announcement,
+  sanction, completion and operation are never conflated.
+- **Boundary and PYQ control:** Economy owns trade policy and balance-of-
+  payments analysis; Science-and-Technology owns spacecraft engineering.
+  Geography owns network, corridor, hinterland, chokepoint, launch-site and
+  application geography. Specialist-routed space PYQs remain cross-owned.

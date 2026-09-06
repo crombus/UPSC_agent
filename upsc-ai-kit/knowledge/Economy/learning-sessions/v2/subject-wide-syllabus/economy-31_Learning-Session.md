@@ -2214,6 +2214,30 @@ Reasoned verdict + forward path (3 lines)
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Energy infrastructure connects primary energy, conversion, generation, transmission, distribution, storage and end use; security balances availability, affordability, accessibility, reliability, resilience and sustainability.
+- **Indispensable distinction and prerequisite taxonomy:** Capacity in MW is not generation in MWh, plant load factor is not efficiency, installed renewable capacity is not dispatchable supply, power-sector loss is not only theft, and energy independence is not autarky.
+- **Mechanism, implementation and evidence control:** State fuel/technology, stock or flow, unit, period and system boundary; separate target, tender, financial closure, commissioning and generation, and trace tariffs, subsidies, DISCOM finance, imports, grids, storage, transition and federal regulation.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. PNGRB substantively confirmed its statutory perimeter. Other live sources were blocked, generic or failed, so the package imports no current capacity, generation, reserve, resource, import-dependence, tariff, subsidy, fuel-price, transition-target or achieved-outcome figure. Sources: https://www.pngrb.gov.in/eng-web/; https://powermin.gov.in/en/content/electricity-act-2003; https://cea.nic.in/dashboard/?lang=en; https://beeindia.gov.in/en/programmes/perform-achieve-and-trade-pat; https://cercind.gov.in/2023/regulation/IEGC-Regulations-2023.pdf
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route the 2018 energy-access, 2020 solar, 2021 Green Grid, 2022 renewable-target and 2025 clean-technology demands, plus objective concepts on PNGRB, coal institutions, solar regulation and ethanol feedstocks. The Basic/practice firewall carries them without inferring objective answers.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Primary and final energy?

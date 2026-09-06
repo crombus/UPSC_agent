@@ -310,3 +310,45 @@ flexibility-versus-protection trade-off and the agency conclusion.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** women's status is analysed across
+  unpaid care, paid work, property, health, education, bodily autonomy, mobility,
+  safety, representation and collective voice. Women's organisations include
+  reform associations, national federations, unions, autonomous movements,
+  issue-based campaigns and federated self-help groups.
+- **Indispensable sociology and movement history:** preserve the sequence from nineteenth-
+  century social reform to the Women's Indian Association, All India Women's
+  Conference (1927), National Federation of Indian Women, autonomous campaigns,
+  SEWA, anti-arrack mobilisation, Chipko participation and contemporary
+  collectives. Streams overlap; later forms do not erase earlier organisations.
+- **Intersectionality:** women are not homogeneous. Caste, tribe, class, religion,
+  disability, sexuality, region, rural-urban location, migration and life course
+  alter both exposure and organising capacity. Dalit, Adivasi, informal-worker,
+  disabled and queer women's organisations are evidence of unequal voice within
+  universal categories, not fragmentation by definition.
+- **Concept and measurement control:** equality, equity and empowerment are
+  distinct; labour-force participation is not all work, unpaid care is not
+  inactivity, membership is not substantive voice, account ownership is not
+  control and descriptive representation is not automatically substantive
+  representation.
+- **Legal/scheme boundary:** constitutional equality and the statutory fields of
+  the National Commission for Women Act 1990, Protection of Women from Domestic
+  Violence Act 2005, POSH Act 2013 and current executive programmes may be named
+  as context. Detailed sections, benefit architecture and implementation belong
+  to Polity/Social Justice; a law's existence is never reported as transformed
+  norms or safety.
+- **Data/source control:** PLFS Annual Report 2025 and NFHS-6 (2023-24) use
+  different universes, reference periods and indicator definitions. Any female
+  LFPR, health, account-use or internet-use value must identify round, age group,
+  status concept and release/status; a participation rate does not measure job
+  quality, unpaid care or agency.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for movement chronology, organisational form,
+  intersectionality, care/work distinctions, representation, causal restraint
+  and legal-data boundaries.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover 2018 movement reach,
+  2019 challenges across time and space, 2021 gig work, 2023 young-women
+  self-harm and 2024 equality-equity-empowerment. No official 2026 demand or
+  unsupported causal attribution is invented.

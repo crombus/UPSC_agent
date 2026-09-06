@@ -109,9 +109,10 @@ TOPIC_15 = common.topic(
     ],
     [
         "https://fsi.nic.in/publications",
+        "https://fsi.nic.in/uploads/isfr2023/isfr_book_eng-vol-1_2023.pdf",
         "https://fsi.nic.in/uploads/isfr2023/isfr_book_eng-vol-2_2023.pdf",
     ],
-    "FSI's official publications page establishes the biennial reporting framework, and ISFR 2023 Volume II is the dated current official baseline consulted for state-level forest evidence. No forest-extent percentage, loss rate or legal status is imported into the climate definition, and no later unpublished report is implied.",
+    "Rechecked 5 September 2026: FSI's official publications surface describes the State of Forest Report as biennial, and ISFR 2023 Volumes I-II remain the latest located official national assessment; no official ISFR 2025 release was located. Forest-cover classes and state tables are therefore cited only as ISFR 2023 evidence, never as a September 2026 measurement or as tropical-evergreen extent. Forest cover, recorded forest area, ecological forest type and legal status remain separate.",
     extra=["basic/04_Weathering-MassMovement-Groundwater.md", "basic/16_Tropical-Monsoon-and-Marine-Climate.md"],
 )
 

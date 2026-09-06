@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-33",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 652,
+      "heading": "Visual 64 - PYQ route audit",
+      "preview": "Year | Stage | Demand | Treatment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Stage",
+          "Demand",
+          "Treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 468.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 383.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 656,
+      "heading": "Verified PYQ 1 - UPSC GS-II 2025, Q5 - 10 marks, 150 words",
+      "preview": "“The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.” Discuss his responsibilities, rights and limitations in this regard.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 358.09
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 313.422
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 704,
+      "markdown_body_line_end": 704,
+      "heading": "Verified PYQ 2 - UPSC GS-II 2019, Q14 - 15 marks, 250 words",
+      "preview": "**Neutral audited rendering:** Discuss the Attorney General as the chief legal adviser and lawyer of the Government of India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "Verified PYQ 3 - UPSC Prelims 2022, Q17 - routed distinction",
+      "preview": "**Audited demand:** constitutional and institutional distinction between the Attorney General of India and Solicitor General of India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 408.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 363.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    }
+  ]
+}

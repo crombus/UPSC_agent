@@ -1529,6 +1529,30 @@ functionaries, planning and answerability.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Local governance links constitutional devolution, state legislation, elected councils, bureaucracy, ward or gram participation, local finance and frontline delivery; the 73rd and 74th Amendments create frameworks but actual functions depend substantially on state law and devolution.
+- **Indispensable distinction and prerequisite taxonomy:** Eleventh and Twelfth Schedule subjects are not self-executing exclusive powers, Gram Sabha is not Gram Panchayat, municipality is not every urban agency, District Planning Committee is not district administration, and representation is not effective authority.
+- **Mechanism, implementation and evidence control:** Use Kerala planning, municipal sanitation, panchayat water services and metropolitan fragmentation with state-specific qualification; trace funds, functions, functionaries, own revenue, grants, parastatals, social audit, ward access and state-local accountability.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: the Ministry of Panchayati Raj describes itself as overseeing decentralisation and local governance and records its May 2004 establishment. Parts IX/IXA create constitutional frameworks, while actual functions, staff and revenue remain substantially state-law dependent. Sources: https://panchayat.gov.in/; https://mohua.gov.in/; https://legislative.gov.in/constitution-of-india/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Three direct General Studies Paper-II Mains demands and three applied objective demands are routed to this topic across the audited ledgers, and every routed Mains stem used below was confirmed word for word in the locally held OCR-searchable official question papers. The audited 2018-2023 Mains ledger routes the 2020 demand on the shift of local institutions from their formative phase of functions, functionaries and funds to the contemporary stage of functionality, and the 2022 demand on the extent to which decentralisation of power has changed the governance landscape at the grassroots, and the Basic owner records that core routing supersedes the older pointer to the Advanced companion, so both are answered from the core file. The audited 2024-2025 Mains ledger routes the 2024 demand on the role of local bodies in providing good governance at the local level and the pros and cons of merging rural local bodies with urban local bodies to this Basic owner. The audited 2018-2023 Prelims ledger routes the 2021 objective demand on the Right to the City concept and the United Nations human settlements programme and the 2022 objective demand on a national sanitation coalition and the national urban-affairs institute here, and the official 2018-2023 Preliminary Examination keys are not held locally, so no option, answer letter or distractor is recorded or inferred for either. The audited 2026 Prelims ledger routes the objective demand on the revamped rural self-governance scheme's objectives, duration and funding here; the 2026 Set-A key held locally is provisional, no answer letter is recorded or inferred, and no objective list, approval date, duration, outlay or Centre-State funding ratio is asserted because no official source for the revamped scheme was obtained. No official answer key or marking scheme is held locally for any routed Mains demand, so every model solution below is an authored answer route rather than an official key.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies The governance question is delivery rather than constitutional status?

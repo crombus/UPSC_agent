@@ -223,3 +223,40 @@ PLAYA / SALT PAN, with INSELBERGS standing above the plain
 > **Significance:** it redirects an answer from imagery about "spreading sand" to the actual
 > land-management question. **Limitation:** rainfall variability at that margin is itself high, so
 > attributing degradation entirely to human action overstates the case in drought years.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** climatic aridity and desert distribution; mechanical and
+  salt weathering; aeolian creep, saltation, suspension, deflation and
+  abrasion; yardangs, ventifacts, pediments, bajadas, wadis, playas and dune
+  types; the Thar's physical mosaic, desertification drivers, canal trade-offs,
+  land-degradation neutrality and process-matched restoration.
+- **Process control:** moisture deficit and sparse cover → weathering and
+  sediment availability → threshold wind or episodic runoff → erosion,
+  transport and deposition. Desertification is diagnosed when climatic
+  variability and/or human pressure reduce dryland productivity and recovery,
+  not when a dune simply exists or shifts.
+- **Scale/map control:** grain, dune, slope, closed basin, Thar subregion,
+  dryland class and national atlas pixel are separate scales. Western dune
+  fields, eastern Aravalli transition, Luni-playa system and canal-command
+  tracts cannot be represented by one uniform desert condition.
+- **Date/data control:** the SAC atlas reports 2018-19 mapped condition, not a
+  2026 measurement. Its 97.85 million hectares and 29.77 percent of India's
+  geographical area are baseline-period national values; they do not provide a
+  current Thar-only percentage or prove programme impact.
+- **Terminology control:** desert differs from aridity, drought, land
+  degradation and UNCCD desertification; barchan from transverse,
+  longitudinal, parabolic and star dunes; pediment from bajada; playa from the
+  wider desert; restoration commitment from measured restoration outcome.
+- **Causal control:** wind is not the sole geomorphic agent and people are not
+  inherently a degradation driver. Cover removal, grazing intensity, tillage,
+  groundwater stress, mining, infrastructure, irrigation, drainage and
+  rainfall variability interact differently by site and timescale.
+- **Boundary:** Topic 04 owns weathering and groundwater foundations; Topic 18
+  owns hot- and mid-latitude desert climate; Environment and Ecology owns the
+  direct UNCCD/desertification policy PYQ and Great Indian Bustard conservation.
+  Topic 07 owns arid landforms and the Thar degradation application.
+- **Verified PYQ ownership, 2018-2026:** no direct Geography Topic 07 route is
+  present in the checked central ledgers. The 2020 Mains desertification demand
+  remains with Environment and Ecology and is used only as a bounded
+  cross-owner application; no direct question or objective key is invented.

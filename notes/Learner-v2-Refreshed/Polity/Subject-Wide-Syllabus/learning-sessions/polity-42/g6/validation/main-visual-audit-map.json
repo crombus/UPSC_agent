@@ -1,0 +1,4239 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\polity-42_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\polity-42_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-42",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 9,
+      "heading": "Polity 42 - Anti-Defection Law",
+      "preview": "**Tag key:** `[FACT]` = supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = quali",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 719.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 646.624
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 49,
+      "heading": "Visual 01 - Learning Roadmap",
+      "preview": "HISTORY AND AMENDMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 380.824
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 119.824
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 55,
+      "markdown_body_line_end": 71,
+      "heading": "Visual 02 - Source-Control Pyramid",
+      "preview": "CONSTITUTION OF INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 77,
+      "markdown_body_line_end": 86,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 582.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 331.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 114,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\assets\\polity-42_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 690.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 382.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 134,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anti-defection law protects party-government stability while constraining legislative independence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 133.556
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 81.088
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 160,
+      "heading": "Visual 03 - The Core Constitutional Tension",
+      "preview": "Stability interest | Deliberative interest | Constitutional challenge",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stability interest",
+          "Deliberative interest",
+          "Constitutional challenge"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 561.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 407.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 172,
+      "heading": "Visual 04 - Safe One-Sentence Definition",
+      "preview": "ANTI-DEFECTON LAW =",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 366.29
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 305.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 195,
+      "heading": "CLOSING RECALL FLOW - THE CONSTITUTIONAL PROBLEM: STABILITY WITHOUT LEGISLATIVE SERVITUDE",
+      "preview": "START / CONCEPT: The Constitutional Problem: Stability Without Legislative Servitude",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 251.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 40.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 206,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anti-defection law begins with instability but must be answered through constitutional design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 226,
+      "markdown_body_line_end": 234,
+      "heading": "Visual 05 - Evolution Timeline",
+      "preview": "Date | Development | Exam significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Development",
+          "Exam significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 315.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 120.422
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 257,
+      "heading": "Visual 06 - History-to-Design Chain",
+      "preview": "FREQUENT FLOOR-CROSSING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 280,
+      "heading": "CLOSING RECALL FLOW - BOUNDED HISTORY: FROM \"AAYA RAM, GAYA RAM\" TO CONSTITUTIONAL DESIGN",
+      "preview": "START / CONCEPT: Bounded History: From “Aaya Ram, Gaya Ram” to Constitutional Design",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 562.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 341.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Creation, article linkage and commencement should be stated separately.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 215.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 163.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 317,
+      "heading": "Visual 07 - Four-Article Link",
+      "preview": "Article | House level | Function after 52nd Amendment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Article",
+          "House level",
+          "Function after 52nd Amendment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 633.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 524.09
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 332,
+      "heading": "Visual 08 - Date Control Card",
+      "preview": "52ND AMENDMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 482.89
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 391.89
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 355,
+      "heading": "CLOSING RECALL FLOW - THE 52ND AMENDMENT: CREATION, ARTICLES AND COMMENCEMENT",
+      "preview": "START / CONCEPT: The 52nd Amendment: Creation, Articles and Commencement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 350.69
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 139.69
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 366,
+      "markdown_body_line_end": 366,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 91st Amendment tightened rather than created anti-defection law.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 394,
+      "heading": "Visual 09 - 91st Amendment Architecture",
+      "preview": "Change | Provision | Effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Change",
+          "Provision",
+          "Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 341.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 155.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 406,
+      "heading": "Visual 10 - 52nd versus 91st",
+      "preview": "Question | 52nd Amendment | 91st Amendment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "52nd Amendment",
+          "91st Amendment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 429,
+      "heading": "CLOSING RECALL FLOW - THE 91ST AMENDMENT: WHAT CHANGED AND WHAT DID NOT",
+      "preview": "START / CONCEPT: The 91st Amendment: What Changed and What Did Not",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 615.49
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 404.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The current Tenth Schedule retains paragraphs 1, 2 and 4 through 8, while paragraph 3 is omitted.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 283.69
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 231.222
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 466,
+      "heading": "Visual 11 - Paragraph-by-Paragraph Map",
+      "preview": "Paragraph | Subject | High-yield control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Paragraph",
+          "Subject",
+          "High-yield control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 593.09
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 484,
+      "heading": "Visual 12 - Schedule Logic",
+      "preview": "WHO IS THE MEMBER? -> paragraph 1 definitions",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 551.89
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 430.89
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 507,
+      "heading": "CLOSING RECALL FLOW - EXACT PARAGRAPH MAP OF THE TENTH SCHEDULE",
+      "preview": "START / CONCEPT: Exact Paragraph Map of the Tenth Schedule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 389.69
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 178.69
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 518,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Party organisation and House numbers perform different constitutional functions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 553,
+      "heading": "Visual 13 - Three-Level Party Map",
+      "preview": "POLITICAL PARTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 369.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 228.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 565,
+      "heading": "Visual 14 - Political Party versus Legislature Party",
+      "preview": "Dimension | Political party | Legislature party",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Political party",
+          "Legislature party"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 571,
+      "markdown_body_line_end": 580,
+      "heading": "Visual 15 - Why \"Political Party\" Is Explicit",
+      "preview": "ELECTION TICKET -> deemed party belonging",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 570.69
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 479.69
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 586,
+      "markdown_body_line_end": 603,
+      "heading": "CLOSING RECALL FLOW - DEFINITIONS: POLITICAL PARTY, LEGISLATURE PARTY AND ORIGINAL POLITICAL PARTY",
+      "preview": "START / CONCEPT: Definitions: Political Party, Legislature Party and Original Political Party",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 425.49
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 204.49
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 614,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Conduct can reveal abandonment without turning every dissent into defection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 649,
+      "heading": "Visual 16 - Conduct-Inference Ladder",
+      "preview": "FORMAL RESIGNATION FROM PARTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 442.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 321.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 662,
+      "heading": "Visual 17 - Evidence Checklist for Paragraph 2(1)(a)",
+      "preview": "Evidence | What it may show | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Evidence",
+          "What it may show",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 613.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 685,
+      "heading": "CLOSING RECALL FLOW - GROUND ONE: VOLUNTARILY GIVING UP MEMBERSHIP",
+      "preview": "START / CONCEPT: Ground One: Voluntarily Giving Up Membership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 571.89
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 350.89
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 696,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A party member may be disqualified for voting or abstaining contrary to an authorised direction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 225.29
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 172.822
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 729,
+      "heading": "Visual 18 - Four-Element Whip Test",
+      "preview": "1. VALID DIRECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 540.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 742,
+      "heading": "Visual 19 - Dissent versus Defection",
+      "preview": "Conduct | Tenth Schedule position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Conduct",
+          "Tenth Schedule position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 499.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 336.69
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 753,
+      "heading": "Visual 20 - Current Law versus Narrow-Whip Reform",
+      "preview": "Dimension | Current law | Reform proposal",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Current law",
+          "Reform proposal"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 776,
+      "heading": "CLOSING RECALL FLOW - GROUND TWO: VOTING OR ABSTAINING CONTRARY TO DIRECTION",
+      "preview": "START / CONCEPT: Ground Two: Voting or Abstaining Contrary to Direction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 636.69
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 425.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 787,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Independent and nominated members are governed by distinct party-joining rules, and only the nominated category receives a six-month window.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 319.09
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 252.422
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 813,
+      "heading": "Visual 21 - Member-Type Matrix",
+      "preview": "Member type | Starting position | Disqualifying trigger",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Member type",
+          "Starting position",
+          "Disqualifying trigger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 619.09
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 819,
+      "markdown_body_line_end": 828,
+      "heading": "Visual 22 - Nominated-Member Timeline",
+      "preview": "TAKES SEAT",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 577.89
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 486.89
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 839,
+      "heading": "Visual 23 - Independent versus Nominated Trap Card",
+      "preview": "Statement | Correct? | Reason",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Statement",
+          "Correct?",
+          "Reason"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 445.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 325.088
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 862,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENT AND NOMINATED MEMBERS",
+      "preview": "START / CONCEPT: Independent and Nominated Members",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 283.888
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 62.888
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 873,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two-thirds is a threshold inside the merger defence, not a free-standing licence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 911,
+      "heading": "Visual 24 - Paragraph 4 Textual Sequence",
+      "preview": "ORIGINAL POLITICAL PARTY MERGER CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 336.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 185.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 923,
+      "heading": "Visual 25 - Who Is Protected Under Paragraph 4?",
+      "preview": "Category | Protection",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Category",
+          "Protection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 934,
+      "heading": "Visual 26 - Split versus Merger",
+      "preview": "Feature | Former paragraph 3 split | Current paragraph 4 merger",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Former paragraph 3 split",
+          "Current paragraph 4 merger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 604.29
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 494.888
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 945,
+      "heading": "Visual 27 - Merger Interpretation Control",
+      "preview": "Position | Supporting logic | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Position",
+          "Supporting logic",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 453.688
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 299.487
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 972,
+      "heading": "CLOSING RECALL FLOW - PARAGRAPH 4 MERGER: TEXT, THRESHOLD AND CONTROVERSY",
+      "preview": "START / CONCEPT: Paragraph 4 Merger: Text, Threshold and Controversy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Paragraph 5 protects specified presiding officers who leave party membership because of election to office.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1009,
+      "heading": "Visual 28 - Exact Office List",
+      "preview": "House | Covered offices",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "House",
+          "Covered offices"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1023,
+      "heading": "Visual 29 - Paragraph 5 Conditions",
+      "preview": "ELECTED TO LISTED PRESIDING OFFICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 636.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 555.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1029,
+      "markdown_body_line_end": 1046,
+      "heading": "CLOSING RECALL FLOW - PARAGRAPH 5: NARROW PRESIDING-OFFICER EXEMPTION",
+      "preview": "START / CONCEPT: Paragraph 5: Narrow Presiding-Officer Exemption",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 514.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 303.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1057,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Paragraph 6 allocates adjudication inside the House subject to judicial review.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 196.89
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 144.422
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1092,
+      "heading": "Visual 30 - Decision Tree",
+      "preview": "QUESTION AGAINST ORDINARY MEMBER",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 611.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 490.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1105,
+      "heading": "Visual 31 - Institutional Roles",
+      "preview": "Institution | Anti-defection role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Institution",
+          "Anti-defection role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 297.29
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1111,
+      "markdown_body_line_end": 1128,
+      "heading": "CLOSING RECALL FLOW - PARAGRAPH 6: DECISION AUTHORITY",
+      "preview": "START / CONCEPT: Paragraph 6: Decision Authority",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 256.09
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Paragraph 8 and House rules organise petition, notice, evidence, hearing and decision procedure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1177,
+      "heading": "Visual 32 - Lok Sabha Process Flow",
+      "preview": "WRITTEN PETITION BY ANOTHER MEMBER",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 339.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 178.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1190,
+      "heading": "Visual 33 - Natural-Justice Checklist",
+      "preview": "Requirement | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Requirement",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1205,
+      "heading": "Visual 34 - Paragraph 6(2) and Articles 122/212",
+      "preview": "PARAGRAPH 6(2):",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 594.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 503.29
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1228,
+      "heading": "CLOSING RECALL FLOW - PARAGRAPH 8 AND HOUSE RULES: PETITION, EVIDENCE AND HEARING",
+      "preview": "START / CONCEPT: Paragraph 8 and House Rules: Petition, Evidence and Hearing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 462.09
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 261.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1239,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Paragraph 7 remains printed but its total court-ouster is constitutionally invalid.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 135.49
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 83.022
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1264,
+      "heading": "Visual 35 - Paragraph 7 Control",
+      "preview": "Layer | Position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Layer",
+          "Position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 564.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 455.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1270,
+      "markdown_body_line_end": 1282,
+      "heading": "Visual 36 - Kihoto Review Gates",
+      "preview": "SPEAKER / CHAIRMAN ORDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 414.09
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 293.09
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1293,
+      "heading": "Visual 37 - Timing of Judicial Intervention",
+      "preview": "Stage | General rule after *Kihoto* | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "General rule after *Kihoto*",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 644.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1299,
+      "markdown_body_line_end": 1316,
+      "heading": "CLOSING RECALL FLOW - PARAGRAPH 7 AND KIHOTO HOLLOHAN (1992): TEXT VERSUS LEGAL EFFECT",
+      "preview": "START / CONCEPT: Paragraph 7 and Kihoto Hollohan (1992): Text versus Legal Effect",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 590.09
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 379.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1327,
+      "markdown_body_line_end": 1327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anti-defection doctrine developed through cases on review, conduct, delay, resignation and institutional authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 258.29
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 205.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1342,
+      "markdown_body_line_end": 1352,
+      "heading": "Visual 38 - Doctrine Timeline",
+      "preview": "Case | Year | Controlled proposition",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Case",
+          "Year",
+          "Controlled proposition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 504.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1366,
+      "heading": "Visual 39 - Case Selection by Issue",
+      "preview": "Issue in question | First case to cite | Add if space",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Issue in question",
+          "First case to cite",
+          "Add if space"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 463.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 279.288
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1372,
+      "markdown_body_line_end": 1389,
+      "heading": "CLOSING RECALL FLOW - CASE-LAW SPINE",
+      "preview": "START / CONCEPT: Case-Law Spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1400,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Schedule states no express deadline, but delay cannot nullify constitutional disqualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1434,
+      "heading": "Visual 40 - Delay Doctrine",
+      "preview": "NO EXPRESS SCHEDULE DEADLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1440,
+      "markdown_body_line_end": 1446,
+      "heading": "Visual 41 - Time-Control Hierarchy",
+      "preview": "Source | Time control | Status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source",
+          "Time control",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 504.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1452,
+      "markdown_body_line_end": 1457,
+      "heading": "Visual 42 - Official Telangana Control, 31 July 2025",
+      "preview": "Verified official holding | Safe use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Verified official holding",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 463.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 320.288
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1480,
+      "heading": "CLOSING RECALL FLOW - DELAY: NO EXPRESS DEADLINE, BUT NO POWER TO DEFEAT THE CONSTITUTION",
+      "preview": "START / CONCEPT: Delay: No Express Deadline, but No Power to Defeat the Constitution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 266.088
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 55.088
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1491,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Resignation and Tenth Schedule disqualification are distinct vacancy mechanisms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1523,
+      "heading": "Visual 43 - Chronology Test",
+      "preview": "ACT OF DEFECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 341.024
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1535,
+      "heading": "Visual 44 - Resignation and Disqualification Compared",
+      "preview": "Feature | Resignation | Tenth Schedule disqualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Resignation",
+          "Tenth Schedule disqualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1558,
+      "heading": "CLOSING RECALL FLOW - RESIGNATION VERSUS DISQUALIFICATION",
+      "preview": "START / CONCEPT: Resignation versus Disqualification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 604.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 393.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1569,
+      "markdown_body_line_end": 1569,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Constitution imposes temporary office consequences, not a criminal or lifetime ban.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 253.49
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 201.022
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1592,
+      "markdown_body_line_end": 1599,
+      "heading": "Visual 45 - Consequence Matrix",
+      "preview": "Consequence | Yes/No | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Consequence",
+          "Yes/No",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 656.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 493.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1605,
+      "markdown_body_line_end": 1613,
+      "heading": "Visual 46 - Duration of Office Disability",
+      "preview": "START: DATE OF DISQUALIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 452.69
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 371.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1619,
+      "markdown_body_line_end": 1636,
+      "heading": "CLOSING RECALL FLOW - CONSEQUENCES AND THE 91ST-AMENDMENT OFFICE BARS",
+      "preview": "START / CONCEPT: Consequences and the 91st-Amendment Office Bars",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 330.49
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 109.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1647,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nabam Rebia (2016) restricts a Speaker facing a pending removal notice from deciding defection petitions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1670,
+      "markdown_body_line_end": 1681,
+      "heading": "Visual 47 - Nabam Rebia (2016) Status Map",
+      "preview": "NABAM REBIA (2016)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 307.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 196.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1687,
+      "markdown_body_line_end": 1691,
+      "heading": "Visual 48 - Competing Risks",
+      "preview": "If Speaker continues | If Speaker is disabled by notice",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "If Speaker continues",
+          "If Speaker is disabled by notice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1697,
+      "markdown_body_line_end": 1714,
+      "heading": "CLOSING RECALL FLOW - NABAM REBIA (2016) AND THE PENDING-REMOVAL-NOTICE PROBLEM",
+      "preview": "START / CONCEPT: Nabam Rebia (2016) and the Pending-Removal-Notice Problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 657.89
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 446.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1725,
+      "markdown_body_line_end": 1725,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Subhash Desai (2023) separates political-party authority, Speaker adjudication, ECI symbols jurisdiction and Governor functions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 307.09
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 240.422
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1750,
+      "markdown_body_line_end": 1766,
+      "heading": "Visual 49 - Subhash Desai (2023) Institutional Map",
+      "preview": "POLITICAL PARTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 633.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 472.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1772,
+      "markdown_body_line_end": 1778,
+      "heading": "Visual 50 - Political Party Authority Chain",
+      "preview": "Question | Correct authority after *Subhash Desai (2023)*",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Correct authority after *Subhash Desai (2023)*"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 300.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1784,
+      "markdown_body_line_end": 1789,
+      "heading": "Visual 51 - Floor Test versus Defection",
+      "preview": "Device | Purpose | Decider",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Device",
+          "Purpose",
+          "Decider"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1795,
+      "markdown_body_line_end": 1812,
+      "heading": "CLOSING RECALL FLOW - SUBHASH DESAI (2023): WHIP, PARTY IDENTITY, ECI AND GOVERNOR",
+      "preview": "START / CONCEPT: Subhash Desai (2023): Whip, Party Identity, ECI and Governor",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 625.49
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 414.49
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1823,
+      "markdown_body_line_end": 1823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Expulsion, resignation and defection arise from different legal acts and decision routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 307.89
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 255.422
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1846,
+      "markdown_body_line_end": 1851,
+      "heading": "Visual 52 - Three Different Exits",
+      "preview": "Event | Actor | Legal track",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Event",
+          "Actor",
+          "Legal track"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 742.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 599.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1857,
+      "markdown_body_line_end": 1874,
+      "heading": "CLOSING RECALL FLOW - EXPULSION, RESIGNATION AND PARTY DISCIPLINE",
+      "preview": "START / CONCEPT: Expulsion, Resignation and Party Discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 558.69
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 347.69
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1885,
+      "markdown_body_line_end": 1885,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Correct institutional routing is a central anti-defection exam skill.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 207.89
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 155.422
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1900,
+      "markdown_body_line_end": 1906,
+      "heading": "Visual 53 - Anti-Defection versus Articles 102(1)/191(1) and RPA",
+      "preview": "Feature | Tenth Schedule | Other constitutional/RPA disqualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Tenth Schedule",
+          "Other constitutional/RPA disqualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 574.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1912,
+      "markdown_body_line_end": 1918,
+      "heading": "Visual 54 - Anti-Defection versus Symbol Dispute",
+      "preview": "Feature | Tenth Schedule | Election Symbols Order",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Tenth Schedule",
+          "Election Symbols Order"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 533.49
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 391.688
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1924,
+      "markdown_body_line_end": 1930,
+      "heading": "Visual 55 - Anti-Defection versus Privilege",
+      "preview": "Feature | Defection | Breach of privilege",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Defection",
+          "Breach of privilege"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 350.488
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 208.687
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1936,
+      "markdown_body_line_end": 1943,
+      "heading": "Visual 56 - Six-Way Distinction Sheet",
+      "preview": "Issue | Correct owner",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Issue",
+          "Correct owner"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1949,
+      "markdown_body_line_end": 1966,
+      "heading": "CLOSING RECALL FLOW - COMPARISON WITH OTHER DISQUALIFICATION AND DISPUTE REGIMES",
+      "preview": "START / CONCEPT: Comparison with Other Disqualification and Dispute Regimes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 594.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 383.29
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1977,
+      "markdown_body_line_end": 1977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The constitutional question is calibration rather than unconditional defence or abolition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 276.69
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 224.222
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1998,
+      "markdown_body_line_end": 2006,
+      "heading": "Visual 57 - Stability-Freedom Balance",
+      "preview": "TOO LITTLE PARTY DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 714.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2012,
+      "markdown_body_line_end": 2018,
+      "heading": "Visual 58 - What the Law Achieved and What It Displaced",
+      "preview": "Achievement | Displaced problem",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Achievement",
+          "Displaced problem"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 592.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 461.69
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2024,
+      "markdown_body_line_end": 2032,
+      "heading": "Visual 59 - Loophole and Incentive Map",
+      "preview": "INDIVIDUAL DEFECTION COSTLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 420.49
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 339.49
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2038,
+      "markdown_body_line_end": 2055,
+      "heading": "CLOSING RECALL FLOW - SCOPE AND DEMOCRATIC EVALUATION",
+      "preview": "START / CONCEPT: Scope and Democratic Evaluation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 298.29
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 77.29
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2066,
+      "markdown_body_line_end": 2066,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anti-defection critiques concern broad whips, Speaker bias, delay, merger engineering and resignation tactics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2081,
+      "markdown_body_line_end": 2087,
+      "heading": "Visual 60 - Critique-Reply Matrix",
+      "preview": "Critique | Named evidence | Reply | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Critique",
+          "Named evidence",
+          "Reply",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 281.522
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2093,
+      "markdown_body_line_end": 2098,
+      "heading": "Visual 61 - Legitimate and Overbroad Whip Uses",
+      "preview": "Stronger justification | Weaker justification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Stronger justification",
+          "Weaker justification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2104,
+      "markdown_body_line_end": 2121,
+      "heading": "CLOSING RECALL FLOW - CRITIQUES WITH COUNTER-ARGUMENTS",
+      "preview": "START / CONCEPT: Critiques with Counter-Arguments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 636.69
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 425.69
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2132,
+      "markdown_body_line_end": 2132,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Every reform should be matched to the institutional failure it addresses.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 304.89
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 252.422
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2157,
+      "markdown_body_line_end": 2164,
+      "heading": "Visual 62 - Reform Menu",
+      "preview": "Reform | Benefit | Risk/trade-off | Status",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Reform",
+          "Benefit",
+          "Risk/trade-off",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 458.79
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2170,
+      "markdown_body_line_end": 2182,
+      "heading": "Visual 63 - Reform-Level Ladder",
+      "preview": "HOUSE RULE CHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 417.59
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 296.59
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2188,
+      "markdown_body_line_end": 2198,
+      "heading": "Visual 64 - Preferred Balanced Package",
+      "preview": "NARROW WHIP TO GOVERNMENT-SURVIVAL / CORE VOTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2204,
+      "markdown_body_line_end": 2221,
+      "heading": "CLOSING RECALL FLOW - REFORM PROPOSALS AND TRADE-OFFS",
+      "preview": "START / CONCEPT: Reform Proposals and Trade-Offs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 645.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 424.091
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2232,
+      "markdown_body_line_end": 2232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A strong answer links each anti-defection claim to text, judgment, analysis and qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 303.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 250.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2247,
+      "markdown_body_line_end": 2259,
+      "heading": "Visual 65 - Claim-Evidence-Analysis-Qualification",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2265,
+      "markdown_body_line_end": 2269,
+      "heading": "Visual 66 - Mark-Scaled Architecture",
+      "preview": "Marks | Structure | Evidence density",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence density"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 525.69
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2275,
+      "markdown_body_line_end": 2282,
+      "heading": "Visual 67 - Directive Decoder",
+      "preview": "Directive | Required move",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Directive",
+          "Required move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 484.49
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 332.688
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2288,
+      "markdown_body_line_end": 2305,
+      "heading": "CLOSING RECALL FLOW - ANSWER-WRITING METHOD",
+      "preview": "START / CONCEPT: Answer-Writing Method",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 291.488
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 80.488
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2316,
+      "markdown_body_line_end": 2316,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The current and legal control dashboard separates settled Tenth Schedule law, pending doctrine and volatile political facts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2331,
+      "markdown_body_line_end": 2337,
+      "heading": "Visual 68 - Frozen and Unfrozen Statements",
+      "preview": "Safe current statement | Deliberately unfrozen",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Safe current statement",
+          "Deliberately unfrozen"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 267.822
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2343,
+      "markdown_body_line_end": 2349,
+      "heading": "Visual 69 - High-Risk Current Claims",
+      "preview": "Risky claim | Controlled replacement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Risky claim",
+          "Controlled replacement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 623.09
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2355,
+      "markdown_body_line_end": 2372,
+      "heading": "CLOSING RECALL FLOW - CURRENT AND LEGAL CONTROL DASHBOARD",
+      "preview": "START / CONCEPT: Current and Legal Control Dashboard",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 581.89
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 360.89
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2383,
+      "markdown_body_line_end": 2383,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims accuracy requires exact category, period, threshold and institution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 240.09
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 187.622
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2423,
+      "heading": "Visual 70 - Twenty-Four Trap Repairs",
+      "preview": "Trap | Repair",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 24,
+        "headers": [
+          "Trap",
+          "Repair"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 192.09
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2446,
+      "heading": "CLOSING RECALL FLOW - PRELIMS TRAP WALL",
+      "preview": "START / CONCEPT: Prelims Trap Wall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3036,
+      "markdown_body_line_end": 3040,
+      "heading": "Visual 71 - Verified PYQ Route Map",
+      "preview": "Year | Stage | Q | Verified neutral demand | Key/wording control",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Stage",
+          "Q",
+          "Verified neutral demand",
+          "Key/wording control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 551.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 455.59
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3101,
+      "markdown_body_line_end": 3107,
+      "heading": "Visual 72 - MCQ Rotation Plan",
+      "preview": "Q1 A -> Q2 B -> Q3 C -> Q4 D",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 284.091
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3113,
+      "markdown_body_line_end": 3121,
+      "heading": "Visual 73 - Solved-Mains Evidence Bank",
+      "preview": "Issue | Constitutional anchor | Case/reform anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Issue",
+          "Constitutional anchor",
+          "Case/reform anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 239.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 55.69
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3517,
+      "markdown_body_line_end": 3520,
+      "heading": "Anti-Defection Law (Tenth Schedule; Arts 102 & 191) - ADVANCED / COMPLETE",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II **Grounded in:** Indian Polity by M. Laxmikant, Tenth Schedule/electoral-dynamics chapters (direct check of the local Sixth Revised Edition PDF). ✅ = from source bo",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 386.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 254.224
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3532,
+      "markdown_body_line_end": 3536,
+      "heading": "PART B - GROUNDS OF DISQUALIFICATION ⭐⭐",
+      "preview": "Member type | Disqualification trigger",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Member type",
+          "Disqualification trigger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 679.191
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 579.79
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3598,
+      "markdown_body_line_end": 3611,
+      "heading": "Visual 74 - One-Page Constitutional Chain",
+      "preview": "52ND AMENDMENT ACT, 1985",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 604.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3622,
+      "markdown_body_line_end": 3631,
+      "heading": "Visual 75 - Paragraph Mnemonic",
+      "preview": "1 DEFINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 25
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 485.491
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 394.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3645,
+      "markdown_body_line_end": 3650,
+      "heading": "Visual 76 - Member-Type Recall",
+      "preview": "Member | Trigger",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Member",
+          "Trigger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 224.091
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 114.69
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3661,
+      "markdown_body_line_end": 3670,
+      "heading": "Visual 77 - Authority Recall",
+      "preview": "POLITICAL PARTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 669.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3681,
+      "markdown_body_line_end": 3690,
+      "heading": "Visual 78 - Merger Control Card",
+      "preview": "SPLIT: paragraph 3 omitted; one-third defence dead",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 550.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 459.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3702,
+      "markdown_body_line_end": 3712,
+      "heading": "Visual 79 - Adjudication Route",
+      "preview": "petition + material facts + documents",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 309.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 208.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3724,
+      "markdown_body_line_end": 3738,
+      "heading": "Visual 80 - Kihoto-Keisham Meghachandra Singh (2020) Chain",
+      "preview": "KIHOTO",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 619.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3749,
+      "markdown_body_line_end": 3756,
+      "heading": "Visual 81 - Exit-and-Consequence Sheet",
+      "preview": "Event | Controlled rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Event",
+          "Controlled rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 500.491
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 348.69
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3766,
+      "markdown_body_line_end": 3776,
+      "heading": "Visual 82 - Current Doctrine Card",
+      "preview": "NABAM REBIA (2016):",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 247.09
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 146.09
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3786,
+      "markdown_body_line_end": 3793,
+      "heading": "Visual 83 - Do Not Conflate",
+      "preview": "Question | Authority",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Question",
+          "Authority"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 608.49
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3799,
+      "markdown_body_line_end": 3810,
+      "heading": "Visual 84 - Final Balanced Verdict",
+      "preview": "PRINCIPLE WORTH RETAINING:",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 558.49
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 447.49
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3821,
+      "markdown_body_line_end": 3831,
+      "heading": "Visual 85 - Last-Page Exam Spine",
+      "preview": "PRELIMS:",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 328.69
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 227.69
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3842,
+      "markdown_body_line_end": 3861,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: From 1967 instability to the 52nd and 91st Amendment design",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 568.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3865,
+      "markdown_body_line_end": 3884,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Grounds and member-type rules",
+      "preview": "PARTY MEMBER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 546.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 352.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3888,
+      "markdown_body_line_end": 3908,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Political party, legislature party and the exact whip test",
+      "preview": "ORIGINAL POLITICAL PARTY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 330.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 125.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3912,
+      "markdown_body_line_end": 3930,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Merger, deleted split and the narrow presiding-officer exemption",
+      "preview": "PARAGRAPH 3",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3934,
+      "markdown_body_line_end": 3951,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Presiding-officer process, natural justice and judicial review",
+      "preview": "FIRST INSTANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3955,
+      "markdown_body_line_end": 3974,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Resignation, disqualification and the 91st-Amendment office bars",
+      "preview": "CHRONOLOGY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 190.091
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3978,
+      "markdown_body_line_end": 3988,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Case-law chronology and controlled propositions",
+      "preview": "CASE SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3992,
+      "markdown_body_line_end": 4014,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Delay, judicial remedies and current doctrinal control",
+      "preview": "TEXT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4018,
+      "markdown_body_line_end": 4036,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Nabam Rebia (2016) and Subhash Desai (2023): institutional roles",
+      "preview": "Nabam Rebia (2016)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4040,
+      "markdown_body_line_end": 4060,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Democratic balance, comparison and reform choices",
+      "preview": "GAINS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4064,
+      "markdown_body_line_end": 4079,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Verified PYQs and executable answer architecture",
+      "preview": "VERIFIED PYQS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4083,
+      "markdown_body_line_end": 4106,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC traps, verified PYQs and qualified answer synthesis",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 149.291
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    }
+  ]
+}

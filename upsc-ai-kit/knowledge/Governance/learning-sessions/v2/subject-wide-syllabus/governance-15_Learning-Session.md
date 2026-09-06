@@ -1387,6 +1387,30 @@ to manipulation.
   coverage changes annually by design, and a stale figure is the most likely factual error
   in this topic.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Monitoring tracks implementation continuously, evaluation judges relevance, design, process or effects, and outcome governance uses evidence and feedback to improve decisions; a theory of change links inputs, activities, outputs, outcomes and impacts through testable assumptions.
+- **Indispensable distinction and prerequisite taxonomy:** Indicator is not target, output is not outcome, outcome is not attributable impact, dashboard is not evaluation, correlation is not causation, and ranking can distort behaviour through gaming or teaching to the metric.
+- **Mechanism, implementation and evidence control:** Use Aspirational Districts, outcome budgeting, programme evaluation and administrative dashboards with baseline, denominator, disaggregation, frequency and source controls; combine process and outcome indicators, independent verification, grievance evidence and course correction.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: DMEO remains an attached office of NITI Aayog, constituted in September 2015 from PEO and IEO, with a monitoring and evaluation mandate. A dashboard, rank or correlation is not an impact evaluation without baseline, counterfactual, denominator and attribution controls. Sources: https://dmeo.gov.in/; https://www.niti.gov.in/aspirational-districts-programme
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** No direct General Studies Mains demand and no applied objective demand in the audited 2018-2023, 2024-2025 or 2026 routing ledgers is routed to this topic, and the Basic owner records the same position expressly, so this package carries a transparent zero-direct-question audit rather than a manufactured demand card. No question has been invented from the locally held OCR-searchable official papers, no stem has been paraphrased into an apparent routing, and no official answer key or marking scheme has been consulted for this topic because none is applicable. The examinable consequence is stated openly instead: this topic appears in the examination as the evaluative half of demands owned elsewhere, such as assessing a scheme's effectiveness, judging governance quality or scrutinising expenditure, so the six original solved Mains answers below are built for transfer to an unfamiliar programme rather than for a remembered question, and every figure used is carried with its owner-verified status date and its year. No district rank or indicator value, no evaluation finding, effect size or recommendation, no count of completed evaluations, no coverage percentage without its year and no study attribution is recorded or inferred anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and why it is built for transfer?

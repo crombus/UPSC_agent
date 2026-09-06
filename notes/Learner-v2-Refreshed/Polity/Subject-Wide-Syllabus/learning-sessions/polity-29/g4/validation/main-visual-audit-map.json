@@ -1,0 +1,4677 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-29",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 29 - Finance Commission - Complete Topic Package",
+      "preview": "**Control date:** 5 September 2026, Asia/Kolkata **Tags:** `[FACT]` directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive position; `[",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 656.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 21,
+      "markdown_body_line_end": 32,
+      "heading": "Authoritative evidence board",
+      "preview": "Named source | What it controls",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Named source",
+          "What it controls"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 510.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 36,
+      "markdown_body_line_end": 47,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 488.69
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 240.888
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 59,
+      "heading": "Scope ownership and cross-links",
+      "preview": "This package owns | Related owner | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "This package owns",
+          "Related owner",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 535.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 74,
+      "heading": "Visual 1 - Fiscal-federalism ownership map",
+      "preview": "CONSTITUTION ASSIGNS TAX POWERS + EXPENDITURE RESPONSIBILITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 510.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 399.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 89,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 341.49
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 91.288
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 119,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\assets\\polity-29_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 420.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 112.956
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why Does India Need A Finance Commission? shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 165,
+      "heading": "Visual 2 - The two-gap model",
+      "preview": "Gap | Question | Constitutional response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Gap",
+          "Question",
+          "Constitutional response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 182,
+      "heading": "Visual 3 - Assignment-to-gap chain",
+      "preview": "UNION: wider tax bases                    STATES: service-heavy functions",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 677.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 546.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 195,
+      "heading": "Visual 4 - Balancing-wheel logic",
+      "preview": "AUTONOMY        EQUITY        EFFICIENCY        STABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 504.89
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 433.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 218,
+      "heading": "CLOSING RECALL FLOW - WHY DOES INDIA NEED A FINANCE COMMISSION?",
+      "preview": "START / CONCEPT: WHY DOES INDIA NEED A FINANCE COMMISSION?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 378.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 157.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 229,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional Architecture: The Article Chain shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 254,
+      "heading": "Visual 5 - Master article chain",
+      "preview": "Article | Core rule | Exam trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Article",
+          "Core rule",
+          "Exam trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 392.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 219.822
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 258,
+      "markdown_body_line_end": 277,
+      "heading": "Visual 6 - Constitutional money flow",
+      "preview": "UNION TAX COLLECTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 300,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL ARCHITECTURE: THE ARTICLE CHAIN",
+      "preview": "START / CONCEPT: CONSTITUTIONAL ARCHITECTURE: THE ARTICLE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 555.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 334.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 280: Constitutional Core shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 213.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 146.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 345,
+      "heading": "Visual 7 - Article 280 constitution clock",
+      "preview": "previous award / constitutional need",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 594.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 493.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 357,
+      "heading": "Visual 8 - Constitution versus statute",
+      "preview": "Issue | Constitution | 1951 Act / Presidential order",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Issue",
+          "Constitution",
+          "1951 Act / Presidential order"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 471.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 298.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 377,
+      "heading": "Visual 9 - Five constitutional functions",
+      "preview": "1. VERTICAL DISTRIBUTION:",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 400,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 280: CONSTITUTIONAL CORE",
+      "preview": "START / CONCEPT: ARTICLE 280: CONSTITUTIONAL CORE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 156
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 570.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 349.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Composition And The Finance Commission Act, 1951 shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 210.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 143.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 444,
+      "heading": "Visual 10 - Qualification matrix",
+      "preview": "Position/category | Prescribed qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Position/category",
+          "Prescribed qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 572.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 442.29
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 450,
+      "markdown_body_line_end": 461,
+      "heading": "Visual 11 - Suitability and disqualification screen",
+      "preview": "PRESCRIBED EXPERTISE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 372.69
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 261.69
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 473,
+      "heading": "Visual 12 - Institutional design balance",
+      "preview": "Design feature | Independence value | Accountability boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Design feature",
+          "Independence value",
+          "Accountability boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 494,
+      "heading": "CLOSING RECALL FLOW - COMPOSITION AND THE FINANCE COMMISSION ACT, 1951",
+      "preview": "START / CONCEPT: COMPOSITION AND THE FINANCE COMMISSION ACT, 1951",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 413.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 505,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Procedure, Evidence And Powers shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 292.89
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 226.222
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 527,
+      "markdown_body_line_end": 537,
+      "heading": "Visual 13 - Evidence funnel",
+      "preview": "Union memorandum + State memoranda + local-body data",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 695.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 594.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 541,
+      "markdown_body_line_end": 546,
+      "heading": "Visual 14 - What \"quasi-judicial\" can and cannot mean",
+      "preview": "Safe proposition | Unsafe overstatement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Safe proposition",
+          "Unsafe overstatement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 572.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 462.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 550,
+      "markdown_body_line_end": 567,
+      "heading": "CLOSING RECALL FLOW - PROCEDURE, EVIDENCE AND POWERS",
+      "preview": "START / CONCEPT: PROCEDURE, EVIDENCE AND POWERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 440.89
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 219.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 578,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Workflow: From Constitution To Implementation shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 611,
+      "heading": "Visual 15 - Full award-cycle workflow",
+      "preview": "Presidential constituting order + Terms of Reference",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 527.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 366.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 625,
+      "heading": "Visual 16 - Article 281 accountability chain",
+      "preview": "Stage | Document | Accountability function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Document",
+          "Accountability function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 629,
+      "markdown_body_line_end": 639,
+      "heading": "Visual 17 - Status vocabulary",
+      "preview": "RECOMMENDED",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 533.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 655,
+      "heading": "Visual 18 - Advisory but weighty",
+      "preview": "NOT LEGALLY SELF-EXECUTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 492.49
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 391.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 680,
+      "heading": "CLOSING RECALL FLOW - WORKFLOW: FROM CONSTITUTION TO IMPLEMENTATION",
+      "preview": "START / CONCEPT: WORKFLOW: FROM CONSTITUTION TO IMPLEMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 302.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 81.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 691,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tax-Devolution Mechanics shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 706,
+      "markdown_body_line_end": 711,
+      "heading": "Visual 19 - Four fiscal quantities",
+      "preview": "Quantity | Meaning | Includes grants?",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Quantity",
+          "Meaning",
+          "Includes grants?"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 336.822
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 727,
+      "heading": "Visual 20 - Net-proceeds equation",
+      "preview": "SHAREABLE TAX PROCEEDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 737,
+      "heading": "Visual 21 - Divisible-pool exclusions",
+      "preview": "Item | Treatment | Reason",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Item",
+          "Treatment",
+          "Reason"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 553.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 750,
+      "heading": "Visual 22 - Worked mechanics without unstable totals",
+      "preview": "Assume divisible pool = 100 units",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 484.09
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 413.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 764,
+      "heading": "Visual 23 - CAG control point",
+      "preview": "tax departments record collections",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 357.69
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 276.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 787,
+      "heading": "CLOSING RECALL FLOW - TAX-DEVOLUTION MECHANICS",
+      "preview": "START / CONCEPT: TAX-DEVOLUTION MECHANICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 798,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vertical Devolution shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 822,
+      "heading": "Visual 24 - Vertical-devolution balance sheet",
+      "preview": "Union-side needs | State-side needs",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Union-side needs",
+          "State-side needs"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 832,
+      "heading": "Visual 25 - Vertical trade-off triangle",
+      "preview": "STATE AUTONOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 655.89
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 594.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 846,
+      "heading": "Visual 26 - Read the percentage correctly",
+      "preview": "41% OF WHAT?",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 539.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 458.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 850,
+      "markdown_body_line_end": 867,
+      "heading": "CLOSING RECALL FLOW - VERTICAL DEVOLUTION",
+      "preview": "START / CONCEPT: VERTICAL DEVOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 436.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 225.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 878,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Horizontal Devolution: Equity And Efficiency shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 104.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 38.022
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 911,
+      "heading": "Visual 27 - Formula philosophy",
+      "preview": "Criterion family | Policy purpose | Possible concern",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Criterion family",
+          "Policy purpose",
+          "Possible concern"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 487.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 335.29
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 923,
+      "heading": "Visual 28 - Income-distance intuition",
+      "preview": "reference per-capita income",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 313.29
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 232.29
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 934,
+      "heading": "Visual 29 - Population versus demographic performance",
+      "preview": "Population criterion | Demographic-performance criterion",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Population criterion",
+          "Demographic-performance criterion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 946,
+      "heading": "Visual 30 - Forest criterion logic",
+      "preview": "FOREST CONSERVATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 655.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 574.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 954,
+      "heading": "Visual 31 - Effort is Commission-specific",
+      "preview": "Commission | Effort/contribution item | Safe recall",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Commission",
+          "Effort/contribution item",
+          "Safe recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 552.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 464.688
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 975,
+      "heading": "CLOSING RECALL FLOW - HORIZONTAL DEVOLUTION: EQUITY AND EFFICIENCY",
+      "preview": "START / CONCEPT: HORIZONTAL DEVOLUTION: EQUITY AND EFFICIENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 442.688
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 221.688
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 986,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Grants Architecture shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 100.888
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 48.42
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1014,
+      "heading": "Visual 32 - Transfer taxonomy",
+      "preview": "INTERGOVERNMENTAL TRANSFERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 484.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1024,
+      "heading": "Visual 33 - Devolution versus grants",
+      "preview": "Dimension | Tax devolution | Grant",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Tax devolution",
+          "Grant"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 462.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 331.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1033,
+      "heading": "Visual 34 - Article 275 and Article 282",
+      "preview": "Article 275 | Article 282",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Article 275",
+          "Article 282"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 309.69
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 200.288
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1058,
+      "heading": "CLOSING RECALL FLOW - GRANTS ARCHITECTURE",
+      "preview": "START / CONCEPT: GRANTS ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1069,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Local-Body Finance And The State Finance Commission Link shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1101,
+      "heading": "Visual 35 - Local fiscal-federal chain",
+      "preview": "PANCHAYAT / MUNICIPAL FINANCE DATA",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1112,
+      "heading": "Visual 36 - National FC versus State FC",
+      "preview": "Feature | Union Finance Commission | State Finance Commission",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "Union Finance Commission",
+          "State Finance Commission"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 492.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1125,
+      "heading": "Visual 37 - Local-grant quality ladder",
+      "preview": "timely SFC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 437.09
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 366.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1150,
+      "heading": "CLOSING RECALL FLOW - LOCAL-BODY FINANCE AND THE STATE FINANCE COMMISSION LINK",
+      "preview": "START / CONCEPT: LOCAL-BODY FINANCE AND THE STATE FINANCE COMMISSION LINK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 263.09
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 52.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1161,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Disaster-Risk Finance shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1189,
+      "heading": "Visual 38 - Disaster-finance cycle",
+      "preview": "RISK ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 345.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 274.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1196,
+      "heading": "Visual 39 - Fund-level map",
+      "preview": "Level | Response fund | Mitigation fund | Core purpose",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Level",
+          "Response fund",
+          "Mitigation fund",
+          "Core purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 722.39
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1219,
+      "heading": "CLOSING RECALL FLOW - DISASTER-RISK FINANCE",
+      "preview": "START / CONCEPT: DISASTER-RISK FINANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 666.99
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 445.99
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evolution: Fourteenth To Sixteenth Finance Commission shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 306.19
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 239.522
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1258,
+      "heading": "Visual 40 - Evolution timeline",
+      "preview": "FC-13: 32%",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1262,
+      "markdown_body_line_end": 1267,
+      "heading": "Visual 41 - 42 to 41: the correct context",
+      "preview": "Unsafe claim | Controlled explanation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Unsafe claim",
+          "Controlled explanation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 522.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1277,
+      "heading": "Visual 42 - Three-Commission comparison",
+      "preview": "Dimension | Fourteenth | Fifteenth | Sixteenth",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Fourteenth",
+          "Fifteenth",
+          "Sixteenth"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 500.49
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 342.588
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1298,
+      "heading": "CLOSING RECALL FLOW - EVOLUTION: FOURTEENTH TO SIXTEENTH FINANCE COMMISSION",
+      "preview": "START / CONCEPT: EVOLUTION: FOURTEENTH TO SIXTEENTH FINANCE COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 320.588
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 99.588
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1309,
+      "markdown_body_line_end": 1309,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fourteenth Finance Commission: Autonomy With Transition Costs shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1340,
+      "heading": "Visual 43 - Fourteenth FC impact chain",
+      "preview": "32% -> 42% vertical share",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1350,
+      "heading": "Visual 44 - Fiscal-position channels",
+      "preview": "Improvement channel | Qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Improvement channel",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 553.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1371,
+      "heading": "CLOSING RECALL FLOW - FOURTEENTH FINANCE COMMISSION: AUTONOMY WITH TRANSITION COSTS",
+      "preview": "START / CONCEPT: FOURTEENTH FINANCE COMMISSION: AUTONOMY WITH TRANSITION COSTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 531.69
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 310.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1382,
+      "markdown_body_line_end": 1382,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fifteenth Finance Commission: Formula And Fiscal Context shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 170.89
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 104.222
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1399,
+      "markdown_body_line_end": 1407,
+      "heading": "Visual 45 - Fifteenth FC horizontal formula, 2021-26",
+      "preview": "Criterion | Weight",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Criterion",
+          "Weight"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 644.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 471.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1424,
+      "heading": "Visual 46 - Fifteenth formula memory wheel",
+      "preview": "45 income distance",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 411.29
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 320.29
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1426,
+      "markdown_body_line_end": 1426,
+      "heading": "Visual 46 - Fifteenth formula memory wheel",
+      "preview": "**Memory line:** 45 - 15 - 15 - 12.5 - 10 - 2.5.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 320.29
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 289.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1430,
+      "markdown_body_line_end": 1447,
+      "heading": "CLOSING RECALL FLOW - FIFTEENTH FINANCE COMMISSION: FORMULA AND FISCAL CONTEXT",
+      "preview": "START / CONCEPT: FIFTEENTH FINANCE COMMISSION: FORMULA AND FISCAL CONTEXT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 267.822
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 46.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1458,
+      "markdown_body_line_end": 1458,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sixteenth Finance Commission: Verified Current Control shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1489,
+      "heading": "Visual 47 - Sixteenth FC current-status card",
+      "preview": "Item | Official position controlled to 19 Aug 2026",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Item",
+          "Official position controlled to 19 Aug 2026"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 352.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 158.222
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1501,
+      "heading": "Visual 48 - Sixteenth FC horizontal formula",
+      "preview": "Criterion | Weight",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Criterion",
+          "Weight"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 614.29
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1507,
+      "markdown_body_line_end": 1515,
+      "heading": "Visual 49 - What changed from Fifteenth to Sixteenth?",
+      "preview": "Formula element | Fifteenth | Sixteenth | Change",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Formula element",
+          "Fifteenth",
+          "Sixteenth",
+          "Change"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 573.09
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 405.688
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1519,
+      "markdown_body_line_end": 1527,
+      "heading": "Visual 50 - Sixteenth demographic-performance method",
+      "preview": "1971 population -> 2011 population",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 383.688
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 302.688
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1535,
+      "markdown_body_line_end": 1541,
+      "heading": "Visual 51 - GDP-contribution method",
+      "preview": "State share in national GSDP",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1547,
+      "markdown_body_line_end": 1552,
+      "heading": "Visual 52 - Equity-efficiency balance in FC-16",
+      "preview": "Equity/need side | Efficiency/contribution side",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Equity/need side",
+          "Efficiency/contribution side"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 670.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 561.49
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1573,
+      "heading": "CLOSING RECALL FLOW - SIXTEENTH FINANCE COMMISSION: VERIFIED CURRENT CONTROL",
+      "preview": "START / CONCEPT: SIXTEENTH FINANCE COMMISSION: VERIFIED CURRENT CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 539.49
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 318.49
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1584,
+      "markdown_body_line_end": 1584,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sixteenth Fc Grants: Categories And Status shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 197.69
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 131.022
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1610,
+      "heading": "Visual 53 - Grant decision tree",
+      "preview": "Was a grant category recommended by FC-16?",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 588.091
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1618,
+      "markdown_body_line_end": 1623,
+      "heading": "Visual 54 - Local-body grant envelope",
+      "preview": "Item | Sixteenth FC award-period recommendation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Item",
+          "Sixteenth FC award-period recommendation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 499.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 389.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1629,
+      "markdown_body_line_end": 1639,
+      "heading": "Visual 55 - Local-body grant architecture",
+      "preview": "TOTAL LOCAL-BODY GRANT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 348.69
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 247.69
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1645,
+      "markdown_body_line_end": 1649,
+      "heading": "Visual 56 - Disaster grant envelope",
+      "preview": "Fund group | Award-period amount",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Fund group",
+          "Award-period amount"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1662,
+      "heading": "Visual 57 - Award total versus annual Budget Estimate",
+      "preview": "FC-16 REPORT:",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 677.09
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 586.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1685,
+      "heading": "CLOSING RECALL FLOW - SIXTEENTH FC GRANTS: CATEGORIES AND STATUS",
+      "preview": "START / CONCEPT: SIXTEENTH FC GRANTS: CATEGORIES AND STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 530.69
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 309.69
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1690,
+      "markdown_body_line_end": 1697,
+      "heading": "Visual 58 - Fiscal-roadmap status matrix",
+      "preview": "Recommendation area | Commission position | Government response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Recommendation area",
+          "Commission position",
+          "Government response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 624.29
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1703,
+      "markdown_body_line_end": 1715,
+      "heading": "Visual 59 - Debt-control chain",
+      "preview": "transparent liabilities",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 583.09
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 462.09
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1721,
+      "markdown_body_line_end": 1727,
+      "heading": "Visual 60 - SASCI qualification",
+      "preview": "3% State fiscal-deficit ceiling",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 406.69
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 345.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1740,
+      "markdown_body_line_end": 1740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cesses And Surcharges: The Divisible-Pool Debate shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 172.49
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 105.822
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1763,
+      "markdown_body_line_end": 1771,
+      "heading": "Visual 61 - Cess/surcharge effect",
+      "preview": "UNION GROSS TAX REVENUE rises",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 544.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 463.491
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1775,
+      "markdown_body_line_end": 1780,
+      "heading": "Visual 62 - Reform choices",
+      "preview": "Reform idea | Advantage | Constraint",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Reform idea",
+          "Advantage",
+          "Constraint"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 441.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 320.89
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1786,
+      "markdown_body_line_end": 1803,
+      "heading": "CLOSING RECALL FLOW - CESSES AND SURCHARGES: THE DIVISIBLE-POOL DEBATE",
+      "preview": "START / CONCEPT: CESSES AND SURCHARGES: THE DIVISIBLE-POOL DEBATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 265.49
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 44.49
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1814,
+      "markdown_body_line_end": 1814,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Centrally Sponsored Schemes And Transfer Composition shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1833,
+      "markdown_body_line_end": 1836,
+      "heading": "Visual 63 - Autonomy-control spectrum",
+      "preview": "MORE STATE DISCRETION                         MORE UNION DIRECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 345.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 314.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1840,
+      "markdown_body_line_end": 1847,
+      "heading": "Visual 64 - Evaluate total transfers, not one channel",
+      "preview": "Question | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Question",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1851,
+      "markdown_body_line_end": 1868,
+      "heading": "CLOSING RECALL FLOW - CENTRALLY SPONSORED SCHEMES AND TRANSFER COMPOSITION",
+      "preview": "START / CONCEPT: CENTRALLY SPONSORED SCHEMES AND TRANSFER COMPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 613.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 392.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1879,
+      "markdown_body_line_end": 1879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional Comparisons shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 271.69
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 205.022
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1895,
+      "markdown_body_line_end": 1902,
+      "heading": "Visual 65 - Finance Commission versus GST Council",
+      "preview": "Feature | Finance Commission | GST Council",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "Finance Commission",
+          "GST Council"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 573.69
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1910,
+      "markdown_body_line_end": 1916,
+      "heading": "Visual 66 - Finance Commission versus NITI Aayog",
+      "preview": "Feature | Finance Commission | NITI Aayog",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Finance Commission",
+          "NITI Aayog"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 513.29
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 382.688
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1920,
+      "markdown_body_line_end": 1926,
+      "heading": "Visual 67 - Finance Commission versus State Finance Commission",
+      "preview": "Test | Union FC | SFC",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Union FC",
+          "SFC"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 360.688
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 230.087
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1930,
+      "markdown_body_line_end": 1935,
+      "heading": "Visual 68 - Four-body rapid distinction",
+      "preview": "FC      = redistribution across levels and States",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1939,
+      "markdown_body_line_end": 1956,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONAL COMPARISONS",
+      "preview": "START / CONCEPT: INSTITUTIONAL COMPARISONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 714.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1967,
+      "markdown_body_line_end": 1967,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional Cases And Interpretation Controls shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 353.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 286.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1984,
+      "markdown_body_line_end": 1987,
+      "heading": "Visual 69 - Case-use matrix",
+      "preview": "Case | Safe use | Do not use for",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Case",
+          "Safe use",
+          "Do not use for"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 697.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1993,
+      "markdown_body_line_end": 2004,
+      "heading": "Visual 70 - Legal enforceability ladder",
+      "preview": "CONSTITUTIONAL DUTY TO CONSTITUTE FC",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 628.29
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 517.29
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2008,
+      "markdown_body_line_end": 2025,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL CASES AND INTERPRETATION CONTROLS",
+      "preview": "START / CONCEPT: CONSTITUTIONAL CASES AND INTERPRETATION CONTROLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 495.29
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 274.29
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2036,
+      "markdown_body_line_end": 2036,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Critiques And Reform Agenda shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 153.49
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 86.822
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2053,
+      "markdown_body_line_end": 2063,
+      "heading": "Visual 71 - Problem-reform matrix",
+      "preview": "Problem | Consequence | Controlled reform",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Problem",
+          "Consequence",
+          "Controlled reform"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 400.89
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2067,
+      "markdown_body_line_end": 2072,
+      "heading": "Visual 72 - Permanent secretariat debate",
+      "preview": "For | Against / design caution",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "For",
+          "Against / design caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 378.89
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 269.488
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2078,
+      "markdown_body_line_end": 2089,
+      "heading": "Visual 73 - Conditional-grant design test",
+      "preview": "Is condition within constitutional purpose?",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2093,
+      "markdown_body_line_end": 2100,
+      "heading": "Visual 74 - Climate-finance shift",
+      "preview": "past expenditure only",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 583.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2106,
+      "markdown_body_line_end": 2123,
+      "heading": "CLOSING RECALL FLOW - CRITIQUES AND REFORM AGENDA",
+      "preview": "START / CONCEPT: CRITIQUES AND REFORM AGENDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 527.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 306.891
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2134,
+      "markdown_body_line_end": 2134,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A marks-worthy Finance Commission answer moves from Article and mechanism to dated evidence, counterpoint and a compressed verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 186.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 119.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2150,
+      "markdown_body_line_end": 2155,
+      "heading": "Visual 75 - Claim-evidence-analysis-qualification spine",
+      "preview": "Step | Example",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Step",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 569.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2159,
+      "markdown_body_line_end": 2165,
+      "heading": "Visual 76 - 150-word answer blueprint",
+      "preview": "20 words: constitutional definition",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 547.69
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 486.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2169,
+      "markdown_body_line_end": 2176,
+      "heading": "Visual 77 - 250-word answer blueprint",
+      "preview": "INTRO: Article 280 + issue",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 464.69
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 393.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2180,
+      "markdown_body_line_end": 2193,
+      "heading": "Visual 78 - Common traps",
+      "preview": "Trap | Correct recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Trap",
+          "Correct recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 371.69
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 92.688
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2197,
+      "markdown_body_line_end": 2214,
+      "heading": "CLOSING RECALL FLOW - ANSWER-WRITING FRAMEWORK",
+      "preview": "START / CONCEPT: ANSWER-WRITING FRAMEWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2225,
+      "markdown_body_line_end": 2225,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Integrated Revision Before Assessment shows how rule-based fiscal transfers balance State autonomy, equalisation and Union capacity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2242,
+      "markdown_body_line_end": 2258,
+      "heading": "Visual 79 - One-page conceptual map",
+      "preview": "ARTICLE 280 COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2262,
+      "markdown_body_line_end": 2276,
+      "heading": "Visual 80 - Sixteenth FC rapid board",
+      "preview": "Recall field | Controlled fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Recall field",
+          "Controlled fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 604.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 304.09
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2280,
+      "markdown_body_line_end": 2297,
+      "heading": "CLOSING RECALL FLOW - INTEGRATED REVISION BEFORE ASSESSMENT",
+      "preview": "START / CONCEPT: INTEGRATED REVISION BEFORE ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 282.09
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 61.09
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2999,
+      "markdown_body_line_end": 3003,
+      "heading": "Demand decoding",
+      "preview": "Part | Required content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Part",
+          "Required content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 537.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 448.89
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3500,
+      "markdown_body_line_end": 3503,
+      "heading": "Finance Commission (Article 280) - ADVANCED / COMPLETE",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II / GS-III **Grounded in:** Indian Polity by M. Laxmikant, Ch. 14 & 45 (direct check of the local Sixth Revised Edition PDF) + official update. ✅ = from source book ·",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 591.224
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3512,
+      "markdown_body_line_end": 3517,
+      "heading": "PART A - CONSTITUTION & COMPOSITION (Art 280) ⭐",
+      "preview": "Point | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Point",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 530.324
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 387.322
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3588,
+      "markdown_body_line_end": 3589,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 176.591
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 109.924
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3595,
+      "markdown_body_line_end": 3598,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 643.89
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3605,
+      "markdown_body_line_end": 3605,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 584.49
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 539.822
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3626,
+      "markdown_body_line_end": 3635,
+      "heading": "2. Constitutional article strip",
+      "preview": "Article | Register recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Article",
+          "Register recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 286.822
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 92.62
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3639,
+      "markdown_body_line_end": 3644,
+      "heading": "3. Constitutional core versus 1951 Act",
+      "preview": "Constitution supplies | 1951 Act supplies",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Constitution supplies",
+          "1951 Act supplies"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 675.89
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3658,
+      "markdown_body_line_end": 3658,
+      "heading": "4. Functions under Article 280(3)",
+      "preview": "**Memory line:** Union-State -> State-State -> grants -> local bodies -> referred sound-finance matters.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 484.89
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 454.422
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3662,
+      "markdown_body_line_end": 3676,
+      "heading": "5. Commission workflow",
+      "preview": "President constitutes + Terms of Reference",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 429.422
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 288.422
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3685,
+      "markdown_body_line_end": 3699,
+      "heading": "6. Fiscal-quantity ladder",
+      "preview": "Gross Tax Revenue",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3707,
+      "markdown_body_line_end": 3711,
+      "heading": "7. Vertical and horizontal imbalance",
+      "preview": "Vertical | Horizontal",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Vertical",
+          "Horizontal"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 589.691
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 501.49
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3718,
+      "markdown_body_line_end": 3726,
+      "heading": "8. Criteria logic",
+      "preview": "Criterion | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Criterion",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 427.89
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 254.888
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3734,
+      "markdown_body_line_end": 3741,
+      "heading": "9. Grants map",
+      "preview": "Transfer | Register distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Transfer",
+          "Register distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3748,
+      "markdown_body_line_end": 3760,
+      "heading": "10. Local-body chain",
+      "preview": "Local accounts and needs",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 592.09
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 471.09
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3776,
+      "markdown_body_line_end": 3782,
+      "heading": "12. Fourteenth Finance Commission",
+      "preview": "Field | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Field",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 269.29
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 138.688
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3786,
+      "markdown_body_line_end": 3793,
+      "heading": "13. Fifteenth Finance Commission",
+      "preview": "Criterion | Weight",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Criterion",
+          "Weight"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 633.49
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3799,
+      "markdown_body_line_end": 3799,
+      "heading": "13. Fifteenth Finance Commission",
+      "preview": "**Mnemonic:** 45 - 15 - 15 - 12.5 - 10 - 2.5.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 581.89
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 551.422
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3803,
+      "markdown_body_line_end": 3809,
+      "heading": "14. Sixteenth Finance Commission current card",
+      "preview": "Field | Controlled fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Field",
+          "Controlled fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 526.422
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 395.82
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3813,
+      "markdown_body_line_end": 3820,
+      "heading": "Horizontal formula",
+      "preview": "Criterion | Weight",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Criterion",
+          "Weight"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 373.82
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 222.019
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3822,
+      "markdown_body_line_end": 3822,
+      "heading": "Horizontal formula",
+      "preview": "**Mnemonic:** 42.5 - 17.5 - four tens.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 222.019
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 191.551
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3830,
+      "markdown_body_line_end": 3838,
+      "heading": "15. FC-16 grants and response status",
+      "preview": "Item | Recommendation/status",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Item",
+          "Recommendation/status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 612.29
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3845,
+      "markdown_body_line_end": 3852,
+      "heading": "16. FC-16 fiscal roadmap",
+      "preview": "Recommendation | Status",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Recommendation",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 552.89
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 401.088
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3859,
+      "markdown_body_line_end": 3867,
+      "heading": "17. Cesses and surcharges",
+      "preview": "larger excluded levy share",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 341.688
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 260.688
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3876,
+      "markdown_body_line_end": 3881,
+      "heading": "18. Institutional comparison board",
+      "preview": "Body | Source | Nature | Core job",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Body",
+          "Source",
+          "Nature",
+          "Core job"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 679.39
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3899,
+      "markdown_body_line_end": 3914,
+      "heading": "20. Prelims trap box",
+      "preview": "Wrong shortcut | Correct statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 14,
+        "headers": [
+          "Wrong shortcut",
+          "Correct statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 428.99
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 107.588
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3929,
+      "markdown_body_line_end": 3955,
+      "heading": "22. Final answer spine",
+      "preview": "INTRO",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 537.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 276.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3974,
+      "markdown_body_line_end": 3993,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Fiscal-federal gaps and the constitutional article chain",
+      "preview": "ROOT PROBLEM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 498.891
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3997,
+      "markdown_body_line_end": 4017,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 280 institution and award lifecycle",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 476.891
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 272.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4021,
+      "markdown_body_line_end": 4037,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Divisible pool and two-stage tax devolution",
+      "preview": "GROSS UNION TAX COLLECTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4041,
+      "markdown_body_line_end": 4055,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Horizontal formula: equity, cost and incentives",
+      "preview": "FORMULA PURPOSES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 457.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4059,
+      "markdown_body_line_end": 4081,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Grants under Articles 275 and 282",
+      "preview": "ARTICLE 275",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 435.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 210.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4085,
+      "markdown_body_line_end": 4106,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Local-body augmentation through State Finance Commissions",
+      "preview": "73RD AND 74TH AMENDMENT LINK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 572.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4110,
+      "markdown_body_line_end": 4126,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Disaster finance: response, mitigation and release controls",
+      "preview": "DISASTER-MANAGEMENT FINANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4130,
+      "markdown_body_line_end": 4150,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: FC-14, FC-15 and FC-16: dated award trajectory",
+      "preview": "FOURTEENTH FINANCE COMMISSION: 2015-20",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 364.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 159.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4154,
+      "markdown_body_line_end": 4167,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: FC-16 grants, fiscal roadmap and response status",
+      "preview": "FC-16 REPORT -> GOVERNMENT RESPONSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4171,
+      "markdown_body_line_end": 4185,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Cesses, surcharges and the shrinking-base debate",
+      "preview": "CONSTITUTIONAL EXCLUSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4189,
+      "markdown_body_line_end": 4210,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Finance Commission, GST Council, CAG, NITI and SFC",
+      "preview": "FINANCE COMMISSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4214,
+      "markdown_body_line_end": 4237,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ routes, traps, reforms and answer spine",
+      "preview": "CORE DEBATES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    }
+  ]
+}

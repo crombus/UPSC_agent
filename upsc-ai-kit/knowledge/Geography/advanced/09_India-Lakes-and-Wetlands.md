@@ -67,23 +67,27 @@ depositional blockage may interact.
 
 ### CA Anchor — Loktak Phumdis & India's Ramsar Network
 
-📰 **News trigger (verified 5 June 2026):** India reached **100 Ramsar sites** when Jai Prakash
-Narayan Bird Sanctuary (**Surha Tal**, Ballia, Uttar Pradesh) became the 100th Wetland of International Importance. Loktak Lake (Manipur) remains a key conservation case because of its floating "phumdis" and Keibul Lamjao National Park.
+📰 **Current status (verified 3 August 2026):** India reached **101 Ramsar sites** when **Glaw
+Lake**, within Kamlang Tiger Reserve and Wildlife Sanctuary in Arunachal Pradesh, became the
+country's 101st Wetland of International Importance. Jai Prakash Narayan Bird Sanctuary had
+become the 100th in June 2026. Loktak Lake (Manipur) remains a key conservation case because of
+its floating "phumdis" and Keibul Lamjao National Park.
 
 ✅ Loktak shows a lake's ecology as a living system: floating phumdis are matted vegetation/soil that host a unique deer, but the lake is stressed by the Ithai barrage and pollution.
 
 - ✅ Phumdis = floating masses of vegetation, soil and organic matter on Loktak.
 - ✅ The Keibul Lamjao floating national park sits on phumdis and shelters the endangered Sangai deer.
 - ✅ Loktak is on the Montreux Record (Ramsar sites needing priority conservation) due to shrinking phumdis, the Ithai barrage and pollution.
-- 📰 India has **100 Ramsar sites** as of 5 June 2026. PIB source:
-  https://pib.gov.in/PressReleasePage.aspx?PRID=2269189&reg=3&lang=1
+- 📰 India has **101 Ramsar sites** as of 3 August 2026. Ramsar/PIB sources:
+  https://www.ramsar.org/news/india-designates-glaw-lake-wetland-international-importance
+  and https://pib.gov.in/PressReleasePage.aspx?PRID=2294036&reg=48&lang=1
 
 ### Current-link Must-Know Facts
 
 - ✅ Loktak (Manipur): floating phumdis; Keibul Lamjao = only floating national park.
 - ✅ Sangai deer is endemic to Loktak's phumdis.
 - ✅ Loktak is on the Montreux Record.
-- 📰 India's 100th Ramsar site is the Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, Uttar Pradesh; designation milestone dated 5 June 2026.
+- 📰 India's 101st Ramsar site is Glaw Lake, Arunachal Pradesh; designation milestone dated 3 August 2026.
 
 ### Current-link Traps
 

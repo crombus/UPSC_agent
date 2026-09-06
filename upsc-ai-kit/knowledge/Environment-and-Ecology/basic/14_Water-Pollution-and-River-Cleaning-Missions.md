@@ -287,3 +287,45 @@ Use **high BOD + low DO + high faecal coliform** only for the organic/sewage sig
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** a region is a historically,
+  culturally, economically or ecologically perceived territory; regionalism
+  is organised assertion around it; sub-regionalism operates within an existing
+  region/state; regional disparity concerns unequal outcomes. Diversity,
+  disparity, regionalism, autonomy, statehood and secession are not synonyms.
+- **Indispensable sociology and historical mechanism:** linguistic reorganisation after 1956
+  shows accommodation through recognition. Andhra, Maharashtra-Gujarat,
+  Telangana, Gorkhaland, Bodoland and Northeast autonomy claims must be located
+  in their own histories. Grievance, leadership, organisation, political
+  opportunity and institutional response link identity or disparity to an
+  outcome; no demand follows an automatic escalation ladder.
+- **Two causal axes and intersectionality:** identity-driven regionalism seeks
+  recognition and representation; disparity-driven regionalism seeks
+  redistribution and capability. They may compound but remain analytically
+  independent. State averages can conceal sub-regional, tribal, rural-urban,
+  class, caste and gender inequalities.
+- **Constitutional/institutional boundary:** statehood, autonomy, inter-state
+  disputes, Article 263, special provisions and fiscal federalism have distinct
+  constitutional routes whose detailed doctrine remains Polity-owned. Zonal
+  Councils are statutory advisory forums under the States Reorganisation Act,
+  1956; the Inter-State Council is a separate constitutional coordination
+  mechanism.
+- **Data/source control:** NITI Aayog's SDG India Index 2023-24 is a composite
+  state/UT benchmark, not a sub-regional diagnosis or causal proof. No ranking,
+  income, infrastructure or fiscal figure is used without edition, unit and
+  geographical scale.
+- **Non-deterministic conclusion:** regional parties and constitutional
+  statehood demands are not presumptively separatist or anti-national.
+  Recognition, redistribution, representation and cooperative forums must
+  match the diagnosed grievance; creating a new unit can relocate rather than
+  eliminate internal disparity.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for concept, scale, historical sequence,
+  identity/disparity mechanisms, federal boundaries, intersectionality,
+  indicator limits and non-secessionist counter-cases.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover cultural
+  assertiveness and regionalism in 2020 and regional disparity versus diversity
+  in 2024. No unavailable 2026 question, current movement outcome or unsupported
+  regional ranking is invented.

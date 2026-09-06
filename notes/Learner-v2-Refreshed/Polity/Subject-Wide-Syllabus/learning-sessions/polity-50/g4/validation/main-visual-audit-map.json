@@ -1,0 +1,2375 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-50",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 9,
+      "heading": "Concept of the Constitution - Complete Uncompressed Learning Session",
+      "preview": "**Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.  **Answer-writing discipline:*",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 698.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 639.824
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 32,
+      "heading": "Local Owner Gateway",
+      "preview": "**Subject:** Polity · **Tier:** Core · **GS Paper:** GS-II **Official clause:** \"Indian Constitution—historical underpinnings, evolution, features, amendments, significant provisions and basic structure.\" **Grounded in:** Constitution of In",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 429.424
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 305.956
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 38,
+      "markdown_body_line_end": 47,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\assets\\polity-50_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 92,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core proposition denotes the constitutional rules and institutional links organised around A constitution is the fundamental arrangement that creates public institutions, allocates and.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 285.156
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 218.488
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 127,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 636.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 525.091
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 130,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Master distinction:** A State may possess a constitutional document yet lack constitutionalism if rulers can exercise arbitrary or effectively unlimited power.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 480.424
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 153,
+      "heading": "CLOSING RECALL FLOW - CORE PROPOSITION",
+      "preview": "START / CONCEPT: CORE PROPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 455.924
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 234.924
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "What a constitution does denotes the constitutional rules and institutional links organised around Function Examination use Indian illustration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 99.924
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 192,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Function | Examination use | Indian illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Function",
+          "Examination use",
+          "Indian illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 402.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 163.622
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 219,
+      "heading": "CLOSING RECALL FLOW - WHAT A CONSTITUTION DOES",
+      "preview": "START / CONCEPT: WHAT A CONSTITUTION DOES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitution, constitutional law and ordinary law operates through In India, constitutional supremacy means Parliament is not sovereign in the British sense, connected with Ordinary legislation is tested against the Constitution; even the a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 254,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Meaning | Correct distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Correct distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 576.09
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 261,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** \"Constitution\" and \"constitutional law\" are not exact synonyms. The Constitution is the foundational source; constitutional law is the wider legal field that interprets and applies it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 542.69
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 498.022
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 284,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTION, CONSTITUTIONAL LAW AND ORDINARY LAW",
+      "preview": "START / CONCEPT: CONSTITUTION, CONSTITUTIONAL LAW AND ORDINARY LAW",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 301
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 473.522
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 232.522
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 295,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "4.1 Evolved and enacted operates through Evolved Grows gradually through statutes, conventions and judgments United Kingdom \"Evolved\" does not mean lawless, connected with Type Test Illustration Caution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 317,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Type | Test | Illustration | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Test",
+          "Illustration",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 479.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 393.722
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 321,
+      "markdown_body_line_end": 338,
+      "heading": "CLOSING RECALL FLOW - EVOLVED AND ENACTED",
+      "preview": "START / CONCEPT: EVOLVED AND ENACTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 371.722
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 140.722
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 349,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "4.2 Codified and uncodified operates through Codified/written Core provisions are consolidated in an authoritative document or set of documents India, United States, connected with Uncodified Constitutional rules are dispersed across statut",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 371,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Type | Test | Illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Test",
+          "Illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 335.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 246.022
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 373,
+      "markdown_body_line_end": 374,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** \"Uncodified\" is more accurate than \"wholly unwritten\"; the UK possesses many written constitutional sources.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 246.022
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 215.554
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 395,
+      "heading": "CLOSING RECALL FLOW - CODIFIED AND UNCODIFIED",
+      "preview": "START / CONCEPT: CODIFIED AND UNCODIFIED",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 330
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 406,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "4.3 Rigid and flexible denotes the constitutional rules and institutional links organised around Type Amendment rule Illustration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 429,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Type | Amendment rule | Illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Amendment rule",
+          "Illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 681.49
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 450,
+      "heading": "CLOSING RECALL FLOW - RIGID AND FLEXIBLE",
+      "preview": "START / CONCEPT: RIGID AND FLEXIBLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 283
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 659.49
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 428.49
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 461,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "4.4 Federal and unitary operates through Each level has constitutionally protected fields Regional units ordinarily exercise delegated authority, connected with Written supremacy and an umpiring court are common Legal centralisation can coe",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 293.49
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 212.622
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 484,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Federal constitution | Unitary constitution",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Federal constitution",
+          "Unitary constitution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 684.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 585.29
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 508,
+      "heading": "CLOSING RECALL FLOW - FEDERAL AND UNITARY",
+      "preview": "START / CONCEPT: FEDERAL AND UNITARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 306
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 529.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 278.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 519,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Procedural And Prescriptive becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 158.09
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 91.422
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 565,
+      "heading": "CLOSING RECALL FLOW - PROCEDURAL AND PRESCRIPTIVE",
+      "preview": "START / CONCEPT: PROCEDURAL AND PRESCRIPTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 466.991
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 255.991
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 576,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualities Of A Workable Constitution becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 135.191
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 68.524
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 601,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Quality | Why it matters | Necessary qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Quality",
+          "Why it matters",
+          "Necessary qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 500.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 304.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 628,
+      "heading": "CLOSING RECALL FLOW - QUALITIES OF A WORKABLE CONSTITUTION",
+      "preview": "START / CONCEPT: QUALITIES OF A WORKABLE CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 247.19
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 639,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Essential Elements becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 692,
+      "heading": "CLOSING RECALL FLOW - ESSENTIAL ELEMENTS",
+      "preview": "START / CONCEPT: ESSENTIAL ELEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 703,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitution versus constitutionalism denotes the constitutional rules and institutional links organised around Question Constitution Constitutionalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 727,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Question | Constitution | Constitutionalism",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Constitution",
+          "Constitutionalism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 660.29
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 750,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTION VERSUS CONSTITUTIONALISM",
+      "preview": "START / CONCEPT: CONSTITUTION VERSUS CONSTITUTIONALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 635.79
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 414.79
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 761,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian constitutional synthesis denotes the constitutional rules and institutional links organised around Design choice Indian position Analytical consequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 279.79
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 213.122
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 780,
+      "markdown_body_line_end": 786,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Design choice | Indian position | Analytical consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Design choice",
+          "Indian position",
+          "Analytical consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 636.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 449.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 813,
+      "heading": "CLOSING RECALL FLOW - INDIAN CONSTITUTIONAL SYNTHESIS",
+      "preview": "START / CONCEPT: INDIAN CONSTITUTIONAL SYNTHESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 378.39
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 127.39
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Demand Map becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 847,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand | Answer spine",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Demand",
+          "Answer spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 398.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 211.622
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 868,
+      "heading": "CLOSING RECALL FLOW - DEMAND MAP",
+      "preview": "START / CONCEPT: DEMAND MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "8.2 Thesis options operates through from becoming arbitrary, connected with India's Constitution is best understood through synthesis: enacted yet evolutionary, federal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 907,
+      "markdown_body_line_end": 924,
+      "heading": "CLOSING RECALL FLOW - THESIS OPTIONS",
+      "preview": "START / CONCEPT: THESIS OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 725.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 484.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 935,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "8.3 Mark-scaled structures denotes the constitutional rules and institutional links organised around Marks Structure Evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 958,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Marks | Structure | Evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 681.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 962,
+      "markdown_body_line_end": 979,
+      "heading": "CLOSING RECALL FLOW - MARK-SCALED STRUCTURES",
+      "preview": "START / CONCEPT: MARK-SCALED STRUCTURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 659.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 438.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 990,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "8.4 Evidence bank denotes the constitutional rules and institutional links organised around Claim: a constitution both constitutes and limits power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 317.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 251.022
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1042,
+      "heading": "CLOSING RECALL FLOW - EVIDENCE BANK",
+      "preview": "START / CONCEPT: EVIDENCE BANK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 551.991
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 330.991
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1053,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Must-Know Facts denotes the constitutional rules and institutional links organised around India has an enacted, codified and supreme Constitution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 195.991
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 129.324
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1103,
+      "heading": "CLOSING RECALL FLOW - MUST-KNOW FACTS",
+      "preview": "START / CONCEPT: MUST-KNOW FACTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 371.791
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 130.791
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1131,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Source Control becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 387.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 334.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1173,
+      "heading": "CLOSING RECALL FLOW - SOURCE CONTROL",
+      "preview": "START / CONCEPT: SOURCE CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 551.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1184,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constituent power and constituted institutions denotes the constitutional rules and institutional links organised around creates/founds constitutional authority - chooses institutional architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1236,
+      "heading": "CLOSING RECALL FLOW - CONSTITUENT POWER AND CONSTITUTED INSTITUTIONS",
+      "preview": "START / CONCEPT: CONSTITUENT POWER AND CONSTITUTED INSTITUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 695.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 454.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1247,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legal Constitution, Political Constitution And Conventions becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 314.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 247.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1283,
+      "markdown_body_line_end": 1300,
+      "heading": "CLOSING RECALL FLOW - LEGAL CONSTITUTION, POLITICAL CONSTITUTION AND CONVENTIONS",
+      "preview": "START / CONCEPT: LEGAL CONSTITUTION, POLITICAL CONSTITUTION AND CONVENTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 600.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 389.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sovereignty And Legitimacy becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 201.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1363,
+      "heading": "CLOSING RECALL FLOW - SOVEREIGNTY AND LEGITIMACY",
+      "preview": "START / CONCEPT: SOVEREIGNTY AND LEGITIMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 571.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 360.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1374,
+      "markdown_body_line_end": 1374,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional morality and transformative constitutionalism denotes the constitutional rules and institutional links organised around CONSTITUTIONAL MORALITY.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 220.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 154.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1411,
+      "markdown_body_line_end": 1428,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL MORALITY AND TRANSFORMATIVE CONSTITUTIONALISM",
+      "preview": "START / CONCEPT: CONSTITUTIONAL MORALITY AND TRANSFORMATIVE CONSTITUTIONALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 478.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 277.491
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1439,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Its principal consequence is that lIVING APPLICATION.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 151.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 99.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1475,
+      "markdown_body_line_end": 1492,
+      "heading": "CLOSING RECALL FLOW - LIVING CONSTITUTION AND INTERPRETIVE DISCIPLINE",
+      "preview": "START / CONCEPT: LIVING CONSTITUTION AND INTERPRETIVE DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 469.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 258.491
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1503,
+      "markdown_body_line_end": 1503,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional identity, amendment and failure denotes the constitutional rules and institutional links organised around Preamble values + democracy + rights + federalism + responsibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 118.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 52.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1558,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL IDENTITY, AMENDMENT AND FAILURE",
+      "preview": "START / CONCEPT: CONSTITUTIONAL IDENTITY, AMENDMENT AND FAILURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 382.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 161.691
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1569,
+      "markdown_body_line_end": 1569,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitution As Legal, Political And Aspirational Order becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1582,
+      "markdown_body_line_end": 1586,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Core meaning | Indian operation | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Core meaning",
+          "Indian operation",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 279.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1611,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTION AS LEGAL, POLITICAL AND ASPIRATIONAL ORDER",
+      "preview": "START / CONCEPT: CONSTITUTION AS LEGAL, POLITICAL AND ASPIRATIONAL ORDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1622,
+      "markdown_body_line_end": 1622,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutionalism Stress Test becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1635,
+      "markdown_body_line_end": 1649,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SOURCE       Is power traceable to the Constitution or valid law?",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 230.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 89.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1657,
+      "markdown_body_line_end": 1674,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONALISM STRESS TEST",
+      "preview": "START / CONCEPT: CONSTITUTIONALISM STRESS TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1685,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualified Indian Doctrine Matrix becomes exam-ready when definition, Indian mechanism and qualification are stated together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1699,
+      "markdown_body_line_end": 1706,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Idea | Judicial illustration | Exam-safe proposition | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Idea",
+          "Judicial illustration",
+          "Exam-safe proposition",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 530.39
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1708,
+      "markdown_body_line_end": 1708,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Answer-grabbing line:** Constitutional morality and transformative constitutionalism are",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 530.39
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 499.922
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1714,
+      "markdown_body_line_end": 1731,
+      "heading": "CLOSING RECALL FLOW - QUALIFIED INDIAN DOCTRINE MATRIX",
+      "preview": "START / CONCEPT: QUALIFIED INDIAN DOCTRINE MATRIX",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 444.522
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 233.522
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3020,
+      "markdown_body_line_end": 3024,
+      "heading": "2. Legal and political constitutions",
+      "preview": "Model | Principal restraint | Strength | Risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Model",
+          "Principal restraint",
+          "Strength",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 196.991
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 90.59
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3085,
+      "markdown_body_line_end": 3090,
+      "heading": "6. Living constitution and original meaning",
+      "preview": "Approach | Core question | Contribution | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Approach",
+          "Core question",
+          "Contribution",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 240.391
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 92.49
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3328,
+      "markdown_body_line_end": 3346,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The central idea: constitute and restrain public power",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 578.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3350,
+      "markdown_body_line_end": 3367,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Classification without false binaries",
+      "preview": "FORM AXES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 556.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 382.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3371,
+      "markdown_body_line_end": 3390,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Constituent power and constitutional change",
+      "preview": "CONSTITUENT POWER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 360.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 166.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3394,
+      "markdown_body_line_end": 3412,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Rule of law, limited government and legitimacy",
+      "preview": "POPULAR CONSENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3416,
+      "markdown_body_line_end": 3434,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Sovereignty, legal-political constitution and conventions",
+      "preview": "POPULAR SOVEREIGNTY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 396.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3438,
+      "markdown_body_line_end": 3455,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Morality, transformation and constitutional identity",
+      "preview": "CONSTITUTIONAL MORALITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 374.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 200.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3459,
+      "markdown_body_line_end": 3477,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Living constitution with interpretive discipline",
+      "preview": "TEXT/ORIGINAL MEANING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3481,
+      "markdown_body_line_end": 3499,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Identity, emergency and constitutional failure",
+      "preview": "INDIAN IDENTITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 396.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3503,
+      "markdown_body_line_end": 3518,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Purpose, sovereignty and legitimacy architecture",
+      "preview": "PEOPLE / FOUNDING AUTHORITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 374.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3522,
+      "markdown_body_line_end": 3536,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Legal, political and aspirational constitution",
+      "preview": "LEGAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3540,
+      "markdown_body_line_end": 3557,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Doctrine qualification and answer execution",
+      "preview": "IDEA -> ANCHOR -> USE -> LIMIT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3561,
+      "markdown_body_line_end": 3579,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC synthesis: higher law, democratic change and restraint",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 241.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    }
+  ]
+}

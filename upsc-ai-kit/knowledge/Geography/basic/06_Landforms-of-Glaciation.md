@@ -254,3 +254,41 @@ GLACIER RETREAT
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** glacier formation and movement; accumulation, ablation and
+  mass balance; equilibrium-line altitude, snowline, firn line and terminus;
+  plucking, abrasion, glacial erosion and deposition; cirque-arête-horn,
+  U-shaped trough, hanging valley, roche moutonnée, fjord, till, moraines,
+  drumlins, eskers and outwash; Himalayan glacier-river mapping, glacial lakes
+  and GLOF risk.
+- **Process control:** snowfall and refreezing → firn and flowing ice →
+  plucking/abrasion and debris transport → till or meltwater deposition.
+  Glacier retreat or overdeepening can create/expand a lake; slope/ice entry,
+  inflow, piping or erosion can produce overtopping or dam failure and a
+  sediment-laden downstream flood.
+- **Scale/map control:** snow grain, glacier, catchment, Himalayan sector,
+  glacial-lake dam and downstream valley are separate scales. Gangotri-
+  Bhagirathi, Zemu-Teesta, Bara Shigri-Chenab and Siachen-Nubra-Shyok-Indus are
+  map hooks, not claims about political boundaries or uniform basin response.
+- **Date/data control:** glacier or lake counts, areas, retreat rates, mass
+  balance, hazard classes and monitoring lists require inventory boundary,
+  sensor/method, observation period and issuing agency. A dated inventory is
+  not a present-day rate or proof that every mapped lake is dangerous.
+- **Terminology control:** snowfield differs from glacier; ELA from climatic
+  snowline, firn line and snout; retreat from reversal of ice flow; till from
+  sorted outwash; fjord from ria; glacial-lake hazard from downstream risk.
+- **Causal control:** warming can alter glacier and lake conditions but does
+  not by itself establish an event-specific GLOF cause. Dam material,
+  freeboard, slope instability, displacement waves, inflow, valley geometry,
+  exposure, warning and infrastructure vulnerability must be tested.
+- **Boundary:** Topic 05 owns river-system and basin-transfer analysis; Topic
+  09 owns general lake/wetland classification; Topic 10 owns relative sea-level
+  and coasts; Disaster Management owns response doctrine. Topic 06 retains the
+  cryosphere process, Himalayan map and GLOF hazard-to-risk chain.
+- **Verified PYQ ownership, 2018-2026:** direct routes include the 2019
+  glacier-river matching objective demand, 2020 Himalayan glacier-loss and
+  Indian water-resources Mains demand, and 2023 fjord Mains demand. No
+  unavailable objective key, glacier count, retreat rate or hazard ranking is
+  invented.

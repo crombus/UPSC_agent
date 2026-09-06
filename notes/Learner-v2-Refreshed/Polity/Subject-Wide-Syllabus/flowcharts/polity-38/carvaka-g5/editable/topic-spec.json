@@ -1,0 +1,1303 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-38",
+  "subject": "Polity",
+  "title": "LOKPAL AND LOKAYUKTAS",
+  "short_route": "OMBUDSMAN EVOLUTION AND STATUTORY → COMPOSITION AND ELIGIBILITY → SELECTION, TENURE AND REMOVAL → JURISDICTION OVER PERSONS AND → PRIME MINISTER AND PARLIAMENTARY → COMPLAINT AND PRELIMINARY INQUIRY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-38-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "935045c929e2365efb6e2df62890fab079115dc3772dc3179b81474959d7f167",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "OMBUDSMAN EVOLUTION AND STATUTORY IDENTITY",
+      "structural_type": "evolution-status-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "OMBUDSMAN EVOLUTION AND STATUTORY IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN HIGH PUBLIC OFFICE BE INVESTIGATED WITHOUT MERGING",
+          "role": "comparison"
+        },
+        {
+          "text": "1809 SWEDEN",
+          "role": "evidence"
+        },
+        {
+          "text": "OMBUDSMAN MODEL.",
+          "role": "primary"
+        },
+        {
+          "text": "1966 FIRST ARC",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION LOKPAL + STATE LOKAYUKTAS.",
+          "role": "institution"
+        },
+        {
+          "text": "1968 ONWARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can high public office be investigated without merging complaint, police and court?",
+        "1809 Sweden → ombudsman model.",
+        "1966 First ARC → Union Lokpal + State Lokayuktas.",
+        "1968 onward → repeated Bills."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can high public office be investigated without merging complaint, police and court?",
+            "1809 Sweden → ombudsman model.",
+            "1966 First ARC → Union Lokpal + State Lokayuktas."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1968 onward → repeated Bills.",
+            "2013 Act → assent 1 January 2014 → commencement 16 January 2014.",
+            "LEGAL IDENTITY statutory",
+            "Union institution"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "no general suo-motu route.",
+            "CORE DISTINCTION",
+            "Lokpal directs a legal process; the Special Court decides criminal guilt.",
+            "MUST REMEMBER: Treat Lokpal as a statutory corruption-complaint institution under the 2013"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Act, not as a constitutional court, police force or ombudsman for every grievance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Act, not as a constitutional court, police force or ombudsman for every grievance.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPOSITION AND ELIGIBILITY",
+      "structural_type": "composition-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPOSITION AND ELIGIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "CHAIRPERSON + NOT MORE THAN EIGHT MEMBERS.",
+          "role": "caution"
+        },
+        {
+          "text": "50% JUDICIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "AT LEAST 50% FROM NAMED SOCIAL CATEGORIES.",
+          "role": "evidence"
+        },
+        {
+          "text": "ELIGIBILITY JUDICIAL AND EMINENT-PERSON ROUTES HAVE DISTINCT STATUTORY CONDITIONS.",
+          "role": "primary"
+        },
+        {
+          "text": "TRAP REPRESENTATION APPLIES TO MEMBERS; IT IS NOT AN",
+          "role": "caution"
+        },
+        {
+          "text": "CURRENT ROSTER",
+          "role": "comparison"
+        },
+        {
+          "text": "5 SEPTEMBER 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Chairperson + not more than eight Members.",
+        "50% judicial",
+        "at least 50% from named social categories.",
+        "ELIGIBILITY judicial and eminent-person routes have distinct statutory conditions.",
+        "TRAP representation applies to Members; it is not an extra seat count."
+      ],
+      "matrix": [
+        [
+          "50% judicial",
+          "at least 50% from named social categories.",
+          ""
+        ],
+        [
+          "Judicial Members: Justice L. Narayana Swamy",
+          "Justice Sanjay Yadav",
+          ""
+        ],
+        [
+          "Members: Sushil Chandra",
+          "Pankaj Kumar",
+          "Ajay Tirkey."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Chairperson + not more than eight Members.",
+            "50% judicial",
+            "at least 50% from named social categories.",
+            "ELIGIBILITY judicial and eminent-person routes have distinct statutory conditions."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TRAP representation applies to Members; it is not an extra seat count.",
+            "CURRENT ROSTER: 5 SEPTEMBER 2026",
+            "Chairperson: Justice Ajay Manikrao Khanwilkar.",
+            "Judicial Members: Justice L. Narayana Swamy"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Justice Sanjay Yadav",
+            "Justice Ritu Raj Awasthi.",
+            "Members: Sushil Chandra",
+            "Pankaj Kumar"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Ajay Tirkey.",
+            "No occupant is inferred for an unfilled statutory seat."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP representation applies to Members; it is not an extra seat count.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SELECTION, TENURE AND REMOVAL",
+      "structural_type": "appointment-removal-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SELECTION, TENURE AND REMOVAL",
+          "role": "primary"
+        },
+        {
+          "text": "EMINENT JURIST.",
+          "role": "outcome"
+        },
+        {
+          "text": "SEARCH COMMITTEE ASSISTS; PRESIDENT APPOINTS ON RECOMMENDATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "TENURE FIVE YEARS OR AGE SEVENTY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO REAPPOINTMENT.",
+          "role": "caution"
+        },
+        {
+          "text": "REMOVAL MISBEHAVIOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPREME COURT INQUIRY.",
+          "role": "institution"
+        },
+        {
+          "text": "SPECIFIED DIRECT-REMOVAL GROUNDS REMAIN SEPARATE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "eminent jurist.",
+        "Search Committee assists; President appoints on recommendation.",
+        "TENURE five years or age seventy",
+        "no reappointment.",
+        "REMOVAL misbehaviour: President → Supreme Court inquiry."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "eminent jurist.",
+            "Search Committee assists; President appoints on recommendation."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TENURE five years or age seventy",
+            "no reappointment."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "REMOVAL misbehaviour: President → Supreme Court inquiry.",
+            "Specified direct-removal grounds remain separate."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Common Cause v. Union of India (2017): vacancy did not make the Act unworkable.",
+            "eminent jurist."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Common Cause v. Union of India (2017): vacancy did not make the Act unworkable.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JURISDICTION OVER PERSONS AND ENTITIES",
+      "structural_type": "jurisdiction-ring-screen",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "JURISDICTION OVER PERSONS AND ENTITIES",
+          "role": "primary"
+        },
+        {
+          "text": "GROUPS A-D",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMER COVERED FUNCTIONARIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "ENTITIES GOVERNMENT-LINKED BODIES AND SPECIFIED DONATION/FOREIGN-CONTRIBUTION RECIPIENTS, SUBJECT TO",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAP COVERAGE IS CONDITIONAL; LOKPAL HAS NO GENERAL PRIVATE-SECTOR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Groups A-D",
+        "former covered functionaries.",
+        "ENTITIES government-linked bodies and specified donation/foreign-contribution recipients, subject to statutory thresholds.",
+        "TRAP coverage is conditional; Lokpal has no general private-sector jurisdiction."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Groups A-D",
+            "former covered functionaries."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ENTITIES government-linked bodies and specified donation/foreign-contribution recipients, subject to statutory thresholds.",
+            "TRAP coverage is conditional; Lokpal has no general private-sector jurisdiction."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Groups A-D",
+            "former covered functionaries."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ENTITIES government-linked bodies and specified donation/foreign-contribution recipients, subject to statutory thresholds.",
+            "TRAP coverage is conditional; Lokpal has no general private-sector jurisdiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP coverage is conditional; Lokpal has no general private-sector jurisdiction.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PRIME MINISTER AND PARLIAMENTARY PRIVILEGE",
+      "structural_type": "high-office-safeguard-screen",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PRIME MINISTER AND PARLIAMENTARY PRIVILEGE",
+          "role": "primary"
+        },
+        {
+          "text": "PM FILTER EXCLUDED DOMAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL RELATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "ATOMIC ENERGY",
+          "role": "primary"
+        },
+        {
+          "text": "FULL BENCH + TWO-THIRDS APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "IN CAMERA",
+          "role": "comparison"
+        },
+        {
+          "text": "RECORD CONTROLS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PM FILTER excluded domains: international relations",
+        "public order",
+        "atomic energy",
+        "Full bench + two-thirds approval",
+        "in camera"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PM FILTER excluded domains: international relations",
+            "public order"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "atomic energy",
+            "Full bench + two-thirds approval"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "in camera",
+            "record controls."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MP RULE section 14(2) preserves genuine speech/vote functions.",
+            "Sita Soren (2024): bribery is not immunised merely because linked to a vote."
+          ]
+        }
+      ],
+      "mechanism_strip": "Sita Soren (2024): bribery is not immunised merely because linked to a vote.",
+      "answer_line": "MP RULE section 14(2) preserves genuine speech/vote functions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COMPLAINT AND PRELIMINARY INQUIRY",
+      "structural_type": "complaint-inquiry-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPLAINT AND PRELIMINARY INQUIRY",
+          "role": "primary"
+        },
+        {
+          "text": "PRESCRIBED COMPLAINT IDENTITY + AFFIDAVIT + PARTICULARS + SUPPORTING",
+          "role": "outcome"
+        },
+        {
+          "text": "LOKPAL CHOICE PRELIMINARY INQUIRY",
+          "role": "comparison"
+        },
+        {
+          "text": "LAWFUL CLOSURE.",
+          "role": "evidence"
+        },
+        {
+          "text": "INQUIRY PRIMA FACIE SCREEN",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC-SERVANT HEARING",
+          "role": "outcome"
+        },
+        {
+          "text": "REASONED REPORT.",
+          "role": "comparison"
+        },
+        {
+          "text": "INQUIRY IS NOT INVESTIGATION AND ALLEGATION IS NOT GUILT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRESCRIBED COMPLAINT identity + affidavit + particulars + supporting material → scrutiny.",
+        "LOKPAL CHOICE preliminary inquiry",
+        "lawful closure.",
+        "INQUIRY prima facie screen → public-servant hearing → reasoned report.",
+        "Inquiry is not investigation and allegation is not guilt."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRESCRIBED COMPLAINT identity + affidavit + particulars + supporting material → scrutiny.",
+            "LOKPAL CHOICE preliminary inquiry"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "lawful closure.",
+            "INQUIRY prima facie screen → public-servant hearing → reasoned report."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Inquiry is not investigation and allegation is not guilt.",
+            "CLOSE DISTINCTION: Prime-Minister safeguards, parliamentary privilege, the seven-year bar, agency dependence and State-law Lokayukta variation must remain explicit."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PRESCRIBED COMPLAINT identity + affidavit + particulars + supporting material → scrutiny.",
+            "LOKPAL CHOICE preliminary inquiry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Prime-Minister safeguards, parliamentary privilege, the seven-year bar, agency dependence and State-law Lokayukta variation must remain explicit.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INVESTIGATION, PROSECUTION AND SPECIAL COURT",
+      "structural_type": "investigation-trial-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INVESTIGATION, PROSECUTION AND SPECIAL COURT",
+          "role": "institution"
+        },
+        {
+          "text": "CBI/OTHER AGENCY GATHERS EVIDENCE WITHIN STATUTORY TIMELINES.",
+          "role": "evidence"
+        },
+        {
+          "text": "LOKPAL BENCH CLOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPARTMENTAL ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SANCTION/PROSECUTION ROUTE.",
+          "role": "primary"
+        },
+        {
+          "text": "PROSECUTION WING FILES AND CONDUCTS PROSECUTION WHEN DIRECTED.",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIAL COURT ADJUDICATES GUILT; TARGET ONE YEAR WITH RECORDED",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CBI/other agency gathers evidence within statutory timelines.",
+        "LOKPAL BENCH closure",
+        "departmental action",
+        "sanction/prosecution route.",
+        "PROSECUTION WING files and conducts prosecution when directed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CBI/other agency gathers evidence within statutory timelines.",
+            "LOKPAL BENCH closure"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "departmental action",
+            "sanction/prosecution route."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROSECUTION WING files and conducts prosecution when directed.",
+            "SPECIAL COURT adjudicates guilt; target one year with recorded extensions, total two years."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CBI/other agency gathers evidence within statutory timelines.",
+            "LOKPAL BENCH closure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPECIAL COURT adjudicates guilt; target one year with recorded extensions, total two years.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INQUIRY WING, CVC AND CBI INTERFACES",
+      "structural_type": "agency-relationship-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INQUIRY WING, CVC AND CBI INTERFACES",
+          "role": "primary"
+        },
+        {
+          "text": "INQUIRY WING PRELIMINARY INQUIRY AND PRIMA FACIE ASSESSMENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "PROSECUTION WING FILES AND CONDUCTS PROSECUTION WHEN LOKPAL DIRECTS.",
+          "role": "comparison"
+        },
+        {
+          "text": "CVC ROUTE SPECIFIED GROUPS A-D PRELIMINARY-INQUIRY CATEGORIES UNDER THE",
+          "role": "evidence"
+        },
+        {
+          "text": "DSPE ROUTE CRIMINAL INVESTIGATION; LOKPAL SUPERINTENDENCE IS CONFINED TO",
+          "role": "primary"
+        },
+        {
+          "text": "INVESTIGATING-OFFICER TRANSFER IN A REFERRED MATTER NEEDS LOKPAL APPROVAL.",
+          "role": "outcome"
+        },
+        {
+          "text": "GRIEVANCE DISTINCT ENTRY TESTS AND OUTPUTS; NO AUTOMATIC JURISDICTIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "LIMIT SUPERINTENDENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INQUIRY WING preliminary inquiry and prima facie assessment.",
+        "PROSECUTION WING files and conducts prosecution when Lokpal directs.",
+        "CVC ROUTE specified Groups A-D preliminary-inquiry categories under the statutory distribution.",
+        "CBI / DSPE ROUTE criminal investigation; Lokpal superintendence is confined to Lokpal-referred matters.",
+        "Investigating-officer transfer in a referred matter needs Lokpal approval."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "INQUIRY WING preliminary inquiry and prima facie assessment.",
+          "CVC ROUTE specified Groups A-D preliminary-inquiry categories under the statutory distribution.",
+          "Investigating-officer transfer in a referred matter needs Lokpal approval.",
+          "LIMIT superintendence != power to dictate a predetermined investigative result."
+        ],
+        [
+          "PROSECUTION WING files and conducts prosecution when Lokpal directs.",
+          "CBI / DSPE ROUTE criminal investigation; Lokpal superintendence is confined to Lokpal-referred matters.",
+          "VIGILANCE / WHISTLEBLOWER / GRIEVANCE distinct entry tests and outputs; no automatic jurisdictional substitution.",
+          "INQUIRY WING preliminary inquiry and prima facie assessment."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INQUIRY WING preliminary inquiry and prima facie assessment.",
+            "PROSECUTION WING files and conducts prosecution when Lokpal directs."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CVC ROUTE specified Groups A-D preliminary-inquiry categories under the statutory distribution.",
+            "CBI / DSPE ROUTE criminal investigation; Lokpal superintendence is confined to Lokpal-referred matters."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Investigating-officer transfer in a referred matter needs Lokpal approval.",
+            "VIGILANCE / WHISTLEBLOWER / GRIEVANCE distinct entry tests and outputs; no automatic jurisdictional substitution."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT superintendence != power to dictate a predetermined investigative result.",
+            "INQUIRY WING preliminary inquiry and prima facie assessment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT superintendence != power to dictate a predetermined investigative result.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "POWERS, ASSETS AND LIMITATION",
+      "structural_type": "power-safeguard-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "POWERS, ASSETS AND LIMITATION",
+          "role": "primary"
+        },
+        {
+          "text": "PROCESS POWERS SEARCH/SEIZURE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CIVIL-COURT POWERS",
+          "role": "institution"
+        },
+        {
+          "text": "PROVISIONAL ATTACHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PROSECUTION SANCTION.",
+          "role": "primary"
+        },
+        {
+          "text": "ATTACHMENT RECORDED REASONS + SUSPECTED CORRUPTION PROCEEDS + MAXIMUM",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERIAL SENT TO SPECIAL COURT",
+          "role": "institution"
+        },
+        {
+          "text": "CONFIRMATION, REFUSAL OR LATER RESTORATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROCESS POWERS search/seizure",
+        "civil-court powers",
+        "provisional attachment",
+        "prosecution sanction.",
+        "ATTACHMENT recorded reasons + suspected corruption proceeds + maximum ninety-day provisional order"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PROCESS POWERS search/seizure",
+            "civil-court powers",
+            "provisional attachment"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "prosecution sanction.",
+            "ATTACHMENT recorded reasons + suspected corruption proceeds + maximum ninety-day provisional order",
+            "material sent to Special Court → confirmation, refusal or later restoration."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTION 44",
+            "2016 substitution → assets/liabilities in prescribed form and manner.",
+            "Checked official material did not yield a later fresh replacement form-and-manner rule."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMITATION complaint barred after seven years from the alleged offence.",
+            "FALSE COMPLAINT statutory safeguard requires legal proof; it must not deter bona fide disclosures.",
+            "Lok Prahari v. Union of India (2018) electoral disclosure case; it did not restore the pre-2016 Lokpal return format."
+          ]
+        }
+      ],
+      "mechanism_strip": "LIMITATION complaint barred after seven years from the alleged offence.",
+      "answer_line": "Checked official material did not yield a later fresh replacement form-and-manner rule.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LOKAYUKTAS AND FEDERAL DIVERSITY",
+      "structural_type": "federal-variation-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LOKAYUKTAS AND FEDERAL DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 63 EACH STATE SHALL ESTABLISH A LOKAYUKTA BY",
+          "role": "institution"
+        },
+        {
+          "text": "VARIATION AXES SINGLE/MEMBER BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTION PANEL",
+          "role": "evidence"
+        },
+        {
+          "text": "SUO-MOTU POWER MINISTER COVERAGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "INVESTIGATION SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOMMENDATION/ENFORCEMENT ROUTE.",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT UNIVERSALISE ONE STATE'S GOVERNOR PANEL, AGE, TERM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECTION 63 each State shall establish a Lokayukta by State law.",
+        "VARIATION AXES single/member body",
+        "selection panel",
+        "suo-motu power minister coverage",
+        "investigation support"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "SECTION 63 each State shall establish a Lokayukta by State law.",
+          "suo-motu power minister coverage",
+          "DO NOT UNIVERSALISE one State's Governor panel, age, term, Upalokayukta or report consequence.",
+          "FEDERAL RISK uneven minimum protection, vacancies and dependence on State agencies."
+        ],
+        [
+          "VARIATION AXES single/member body",
+          "investigation support",
+          "FEDERAL GAIN",
+          "REFORM model baseline + State autonomy + transparent appointments + public follow-up."
+        ],
+        [
+          "selection panel",
+          "recommendation/enforcement route.",
+          "State adaptation and experimentation.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 63 each State shall establish a Lokayukta by State law.",
+            "VARIATION AXES single/member body",
+            "selection panel"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "suo-motu power minister coverage",
+            "investigation support",
+            "recommendation/enforcement route."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DO NOT UNIVERSALISE one State's Governor panel, age, term, Upalokayukta or report consequence.",
+            "FEDERAL GAIN",
+            "State adaptation and experimentation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FEDERAL RISK uneven minimum protection, vacancies and dependence on State agencies.",
+            "REFORM model baseline + State autonomy + transparent appointments + public follow-up."
+          ]
+        }
+      ],
+      "mechanism_strip": "DO NOT UNIVERSALISE one State's Governor panel, age, term, Upalokayukta or report consequence.",
+      "answer_line": "REFORM model baseline + State autonomy + transparent appointments + public follow-up.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CASES AND CURRENT LEGAL CONTROLS",
+      "structural_type": "case-status-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CASES AND CURRENT LEGAL CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON CAUSE V. UNION OF INDIA (2017)",
+          "role": "mechanism"
+        },
+        {
+          "text": "ACT WORKABLE DESPITE COMMITTEE VACANCY.",
+          "role": "institution"
+        },
+        {
+          "text": "LOK PRAHARI V. UNION OF INDIA (2018)",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTORAL DISCLOSURE, NOT SECTION 44 RESTORATION.",
+          "role": "caution"
+        },
+        {
+          "text": "SITA SOREN (2024)",
+          "role": "outcome"
+        },
+        {
+          "text": "BRIBERY OUTSIDE PRIVILEGE IMMUNITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 HIGH COURT-JUDGE ISSUE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "Common Cause v. Union of India (2017) → Act workable despite committee vacancy.",
+        "Lok Prahari v. Union of India (2018) → electoral disclosure, not section 44 restoration.",
+        "Sita Soren (2024) → bribery outside privilege immunity.",
+        "2025 HIGH COURT-JUDGE ISSUE",
+        "Supreme Court stayed the Lokpal order; no final merits holding."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Common Cause v. Union of India (2017) → Act workable despite committee vacancy.",
+            "Lok Prahari v. Union of India (2018) → electoral disclosure, not section 44 restoration.",
+            "Sita Soren (2024) → bribery outside privilege immunity."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2025 HIGH COURT-JUDGE ISSUE",
+            "Supreme Court stayed the Lokpal order; no final merits holding.",
+            "CURRENT CLAIMS use dated primary sources; do not freeze transient statistics."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PENDING-JURISDICTION CONTROL",
+            "The Supreme Court's 20 February 2025 interim order stayed the Lokpal's",
+            "High Court-judge jurisdiction order. Do not convert the stay into a final merits rule."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2025 HIGH COURT-JUDGE ISSUE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "High Court-judge jurisdiction order. Do not convert the stay into a final merits rule.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC TRAPS AND ANSWER SYNTHESIS",
+      "structural_type": "exam-synthesis-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC TRAPS AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL STATUTORY, NOT CONSTITUTIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "MAXIMUM EIGHT MEMBERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PM INCLUDED WITH FILTERS SPEECH/VOTE EXCLUSION",
+          "role": "evidence"
+        },
+        {
+          "text": "NO GENERAL SUO-MOTU POWER",
+          "role": "caution"
+        },
+        {
+          "text": "SEVEN-YEAR LIMITATION REFERRED-CASE CBI SUPERINTENDENCE ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "LOKAYUKTA DESIGN VARIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 PRELIMS ROUTE JURISDICTION + COMPOSITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL statutory, not constitutional",
+        "maximum eight Members",
+        "PM included with filters speech/vote exclusion",
+        "no general suo-motu power",
+        "seven-year limitation referred-case CBI superintendence only"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL statutory, not constitutional",
+            "maximum eight Members",
+            "PM included with filters speech/vote exclusion",
+            "no general suo-motu power"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "seven-year limitation referred-case CBI superintendence only",
+            "Lokayukta design varies.",
+            "2025 PRELIMS ROUTE jurisdiction + composition → test percentage denominator, PM safeguards and privilege.",
+            "MAINS SPINE ombudsman evolution → legal identity → composition/independence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "jurisdiction → complaint-to-court process → agency interfaces",
+            "powers and safeguards → State variation → capacity reform.",
+            "Lokpal has real process powers, but credibility depends on appointments, agency",
+            "autonomy, reasoned transparency and court-controlled legality rather than institutional mythology."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LEGAL/SOURCE LIMIT: Justice A.",
+            "Khanwilkar and the six officially listed Members form the dated central roster",
+            "the 2025 High Court-judge jurisdiction order remains stayed."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRELIMS FIREWALL statutory, not constitutional | maximum eight Members | PM included with filters speech/vote exclusion | no general suo-motu power | seven-year limitation referred-case CBI superintendence only | Lokayukta design varies.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\polity-38_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DRAWBACKS (UPSC FAVOURITE)",
+          "role": "outcome"
+        },
+        {
+          "text": "UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "CA HOOKS (OFFICIAL/COURT-VERIFIED)",
+          "role": "institution"
+        },
+        {
+          "text": "MAINS ANGLES",
+          "role": "primary"
+        },
+        {
+          "text": "OMBUDSMAN FIRST CREATED IN SWEDEN (1809) ; INDIA'S VERSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARC KEPT THE JUDICIARY OUTSIDE LOKPAL'S PURVIEW (LIKE NEW",
+          "role": "comparison"
+        },
+        {
+          "text": "TEN BILLS INTRODUCED (1968",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Composition",
+            "Selection",
+            "Jurisdiction",
+            "Drawbacks (UPSC favourite)"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "UPSC Traps",
+            "CA hooks (official/court-verified)",
+            "Mains angles",
+            "Ombudsman first created in Sweden (1809) ; India's version recommended by the First ARC (1966–70) →"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ARC kept the judiciary outside Lokpal's purview (like New Zealand; unlike Sweden).",
+            "Ten bills introduced (1968 → Dec 2011) before the law finally passed → Lokpal and Lokayuktas Act, 2013",
+            "Power of superintendence & direction over any agency incl. the CBI for referred cases.",
+            "Timelines: preliminary enquiry 3 (+3) months; investigation 6 (+6); trial 1 (+1) yr via special courts ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

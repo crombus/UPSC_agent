@@ -137,3 +137,36 @@ WARM TEMPERATE EASTERN MARGIN (China / Gulf / Natal types)
 > coincide, which is a transferable point for Indian coastal questions.
 > **Limitation:** exposure is also a function of settlement density, defences and warning systems,
 > so the physical mechanism explains the hazard but not the loss.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** warm-temperate eastern-margin location; China, Gulf and
+  Natal sub-types; summer onshore flow, winter continental outflow, typhoon
+  exposure, summer-rain agriculture and the contrast with Mediterranean
+  western margins; Bengal-Brahmaputra and Humid North-East application.
+- **Process control:** seasonal land-ocean pressure contrast draws warm moist
+  maritime air onshore in summer and permits cooler, drier continental outflow
+  in winter. The same moisture pathway supports rice and tea and, with basin
+  relief and channel conditions, contributes to flood hazard.
+- **Scale/map control:** global eastern-margin climate, East Asian monsoon
+  coast, Bengal plain, Brahmaputra valley, hill belt and station are separate
+  scales. R.L. Singh's Humid North-East excludes Tripura; the wider Northeast
+  and every humid-subtropical map are not interchangeable.
+- **Date/data control:** storm track, flood level, affected population, cropped
+  area and tea output require a dated JMA/IMD/CWC/ASDMA/Tea Board release.
+  Textbook rainfall and temperature ranges remain classification evidence,
+  not a September 2026 observation.
+- **Terminology control:** China type is not China's whole climate; Gulf type
+  is slight-monsoonal and Natal type non-monsoonal. Humid subtropical,
+  tropical monsoon, perhumid highland and floodplain are related but distinct.
+- **Causal control:** Bay-of-Bengal moisture is the primary Northeast monsoon
+  branch, but relief, convergence, basin sediment and floodplain occupation
+  condition rainfall and loss. A typhoon track or flood bulletin is not proof
+  of a long-term climatic trend.
+- **Boundary:** Topic 16 owns the complete Indian monsoon mechanism; Topic 17
+  owns deciduous/grassland systems; Disaster Management owns response doctrine
+  and Environment owns biodiversity policy. Topic 21 owns the eastern-margin
+  climate and bounded Bengal-Northeast climatic analogue.
+- **Verified PYQ ownership, 2018-2026:** the audited routing ledgers contain no
+  direct Topic 21 question. Climate-comparison, monsoon and flood applications
+  remain bounded bridges; no solved PYQ or objective key is fabricated.

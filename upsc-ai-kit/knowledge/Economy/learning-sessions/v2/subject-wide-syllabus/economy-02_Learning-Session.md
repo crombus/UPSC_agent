@@ -1295,6 +1295,30 @@ intra-state, gender, caste or quality-of-service gap.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Development expands capabilities, health, education, income security, agency and sustainability; HDI combines dimension indices geometrically, IHDI discounts inequality, and MPI counts overlapping deprivations using stated indicators and cut-offs.
+- **Indispensable distinction and prerequisite taxonomy:** Growth is not development, per-capita average is not distribution, HDI is not IHDI, income poverty is not multidimensional poverty, and an index rank change is not automatically a welfare gain.
+- **Mechanism, implementation and evidence control:** Name publisher, edition/release date, reference year and methodology; compare levels with levels and ranks with ranks, preserve denominator and uncertainty, and do not infer causation from cross-country association.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The UNDP HDI page was substantively retrievable on 2026-09-06 and is used only for its HDI dimensions, geometric-mean construction and stated limits. No live India rank, score, IHDI loss, MPI headcount or poverty estimate was taken from it. Sources: https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** The audited ledgers route 2020 GS-II on incidence and intensity of poverty, 2024 GS-III on social-service expenditure and inclusive growth, and 2025 GS-III on HDI versus IHDI here. Objective routes on GNP per capita, Ease of Doing Business, social capital and 2026 MPI methodology remain answer-letter free.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Growth versus development?

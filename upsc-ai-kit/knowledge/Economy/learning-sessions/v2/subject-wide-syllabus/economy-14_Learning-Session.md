@@ -1328,6 +1328,30 @@ nexus; isolated subsidies often shift rather than solve risk.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Agricultural productivity and resilience depend on water, soil, seed, nutrients, power, machinery, extension, institutional credit, insurance and risk management under agro-climatic constraints.
+- **Indispensable distinction and prerequisite taxonomy:** Irrigation potential is not utilised irrigation, credit sanction is not disbursement, insurance enrolment is not claim settlement, subsidy is not resource-use efficiency, and sustainability is not low output by definition.
+- **Mechanism, implementation and evidence control:** State unit, season, beneficiary denominator and scheme status; trace input price, access, adoption, yield, income, externality and risk-sharing while separating Union design, state implementation and local water governance.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The PMKSY objectives were substantively retrievable and support the convergence and efficiency anchors. The PMFBY portal was a title-only shell, so insurance amounts, enrolment and claim-performance figures are excluded. Sources: https://www.pmksy.gov.in/AboutPMKSY.aspx; https://pmfby.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on organic transition, integrated farming, watershed development, Jal Shakti Abhiyan, water storage, micro-irrigation, irrigation-system challenges and groundwater depletion. Objective demands cover conservation agriculture, DCCBs, KCC, biochar, zero tillage, fertigation, crop-protection chemicals and the provisionally keyed 2026 Rainfed Area Development question; no answer letter is inferred.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Potential and utilisation?

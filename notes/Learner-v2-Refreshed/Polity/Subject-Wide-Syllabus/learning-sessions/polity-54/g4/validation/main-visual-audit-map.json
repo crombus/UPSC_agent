@@ -1,0 +1,1729 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\polity-54_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\polity-54_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-54",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Lok Adalats and Other Courts - Complete Deep-Reviewed Learning Session",
+      "preview": "**Source discipline:** The current pecuniary ceiling, notified public utility services, institution counts and commencement status are never frozen without a dated official source. The reviewed g2 generation remains immutable.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 732.091
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 673.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 648.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 398.022
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\assets\\polity-54_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 735.891
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 428.356
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 55,
+      "markdown_body_line_end": 67,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Subject:** Polity · **Tier:** Core · **GS Paper:** GS-II **Official clause:** \"Structure, organization and functioning of the Executive and the Judiciary\" and \"mechanisms, laws, institutions and Bodies constituted for the protection and b",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 394.956
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 250.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Article 39A directs the State to secure a legal system promoting justice on equal opportunity and to provide free legal aid so that economic or other disability does not deny access to justice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 127.588
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 60.92
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 107,
+      "markdown_body_line_end": 124,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL ANCHOR: ACCESS TO JUSTICE",
+      "preview": "START / CONCEPT: Constitutional anchor: access to justice",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 541.191
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 310.191
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 135,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Terminology trap: The statutory abbreviation is ordinarily SLSA (State Legal Services Authority), not “SALSA”.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 184.591
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 132.124
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 150,
+      "markdown_body_line_end": 162,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "National Legal Services Authority (NALSA)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 595.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 171,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Institution | Key position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Institution",
+          "Key position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 595.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 398.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 173,
+      "markdown_body_line_end": 174,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Terminology trap:** The statutory abbreviation is ordinarily **SLSA** (State Legal Services Authority), not “SALSA”. District and Taluk bodies are commonly abbreviated DLSA and TLSC.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 398.69
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 354.022
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 184,
+      "heading": "Eligibility for free legal services",
+      "preview": "**Trap:** Free legal aid is broader than representation in a criminal trial and is not confined to persons below an income threshold; several statutory categories are status-based.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 270.222
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 225.554
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 207,
+      "heading": "CLOSING RECALL FLOW - LEGAL-SERVICES AUTHORITIES: INSTITUTIONAL LADDER",
+      "preview": "START / CONCEPT: Legal-services authorities: institutional ladder",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Master trap: Finality of an agreed award does not authorise a Lok Adalat to impose a merits decision when compromise fails.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 253,
+      "heading": "3.2 Process and effect",
+      "preview": "Referral / joint pre-litigation application",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 268,
+      "heading": "3.2 Process and effect",
+      "preview": "**Master trap:** Finality of an agreed award does not authorise a Lok Adalat to impose a merits decision when compromise fails.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 530.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 485.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 277,
+      "heading": "3.3 Forms",
+      "preview": "Form | Feature",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Form",
+          "Feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 463.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 354.422
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 302,
+      "heading": "CLOSING RECALL FLOW - ORDINARY LOK ADALAT",
+      "preview": "START / CONCEPT: Ordinary Lok Adalat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 311.722
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 90.722
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 313,
+      "markdown_body_line_end": 313,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "📜 A Permanent Lok Adalat is established under the Legal Services Authorities Act for one or more public utility services.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 347,
+      "heading": "4.2 Hybrid process",
+      "preview": "Party applies before dispute reaches a court",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 334.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 233.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 362,
+      "markdown_body_line_end": 363,
+      "heading": "4.2 Hybrid process",
+      "preview": "**Trap:** Do not attach a stale rupee ceiling to the Act. The Central Government may revise the limit by notification; verify the current notification for a current-affairs answer.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 386,
+      "heading": "CLOSING RECALL FLOW - PERMANENT LOK ADALAT (PLA)",
+      "preview": "START / CONCEPT: Permanent Lok Adalat (PLA)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 639
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 734.124
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 473.124
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An ordinary Lok Adalat depends on compromise; a Permanent Lok Adalat is a pre-litigation public-utility forum that may adjudicate only after its statutory conciliation stage fails.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 333.324
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 266.656
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 422,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Ordinary Lok Adalat | Permanent Lok Adalat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Axis",
+          "Ordinary Lok Adalat",
+          "Permanent Lok Adalat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 630.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 428,
+      "markdown_body_line_end": 445,
+      "heading": "CLOSING RECALL FLOW - ORDINARY LOK ADALAT VERSUS PERMANENT LOK ADALAT",
+      "preview": "START / CONCEPT: Ordinary Lok Adalat versus Permanent Lok Adalat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 605.79
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 384.79
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 456,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "📜 The Family Courts Act 1984 provides specialised courts for conciliation and speedy settlement of family/matrimonial disputes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 263.99
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 197.322
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 480,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Feature",
+          "Position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 574.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 506,
+      "heading": "CLOSING RECALL FLOW - FAMILY COURTS",
+      "preview": "START / CONCEPT: Family Courts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 517.59
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 316.59
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 517,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ A Gram Nyayalaya is a statutory court—not a village panchayat, khap, mediation camp or Lok Adalat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 195.79
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 143.322
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 542,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Design element | Position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Design element",
+          "Position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 733.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 505.69
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 568,
+      "heading": "CLOSING RECALL FLOW - GRAM NYAYALAYAS",
+      "preview": "START / CONCEPT: Gram Nyayalayas",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 448.79
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 227.79
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 579,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Forum choice depends on the source of jurisdiction, need for consent, power to decide merits and available appeal or review.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 106.99
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 40.322
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 596,
+      "markdown_body_line_end": 601,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Institution | Primary function | Consent needed for outcome? | Can decide merits? | Appeal/control",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Primary function",
+          "Consent needed for outcome?",
+          "Can decide merits?",
+          "Appeal/control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 469.39
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 624,
+      "heading": "CLOSING RECALL FLOW - COMPARATIVE INSTITUTION MAP",
+      "preview": "START / CONCEPT: Comparative institution map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 156
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 444.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 223.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 635,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Other courts and justice-delivery designs comprises Other courts, justice-delivery designs and Fast Track Courts as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 655,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Design | Legal source | Core function | UPSC distinction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Design",
+          "Legal source",
+          "Core function",
+          "UPSC distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 338.922
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 681,
+      "heading": "CLOSING RECALL FLOW - OTHER COURTS AND JUSTICE-DELIVERY DESIGNS",
+      "preview": "START / CONCEPT: Other courts and justice-delivery designs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 282.022
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 51.022
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 692,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Commercial Courts Act's pre-institution mediation route and the Mediation Act must not be collapsed into the Lok Adalat regime.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 710,
+      "markdown_body_line_end": 722,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "MEDIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 378.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 257.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 732,
+      "markdown_body_line_end": 749,
+      "heading": "CLOSING RECALL FLOW - MEDIATION ACT 2023 INTERFACE",
+      "preview": "START / CONCEPT: Mediation Act 2023 interface",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 760,
+      "markdown_body_line_end": 760,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Courts, tribunals and ADR comprises Courts, tribunals and ADR as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 778,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Court | Tribunal | ADR/mediation | Lok Adalat",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Court",
+          "Tribunal",
+          "ADR/mediation",
+          "Lok Adalat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 210.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 41.322
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 780,
+      "markdown_body_line_end": 781,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** “Alternative forum” does not mean identical power. Consent, subject matter, pre-litigation status, merits power, enforcement and review must be tested separately.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - COURTS, TRIBUNALS AND ADR",
+      "preview": "START / CONCEPT: Courts, tribunals and ADR",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 734.124
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 533.124
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Case use must track the exact statutory mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 412.324
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 359.856
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 836,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Decision | Decision year | Exam-safe holding/use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Decision",
+          "Decision year",
+          "Exam-safe holding/use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 518.29
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 862,
+      "heading": "CLOSING RECALL FLOW - LEADING CASES AND LEGAL EFFECTS",
+      "preview": "START / CONCEPT: Leading cases and legal effects",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 461.39
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 240.39
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 873,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The constitutional test is affordable access with voluntariness, fairness and review against illegality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 926,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL SIGNIFICANCE AND IMPLEMENTATION LIMITS",
+      "preview": "START / CONCEPT: Constitutional significance and implementation limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 369
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 317.124
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 76.124
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 937,
+      "heading": "14.1 Demand map",
+      "preview": "Demand | Answer spine",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Demand",
+          "Answer spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 603.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 954,
+      "heading": "14.3 Mark-scaled structures",
+      "preview": "Marks | Structure | Evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 454.89
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 355.488
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 980,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Art 39A is the constitutional anchor. 📜 Legal Services Authorities Act 1987 creates the authority ladder and Lok Adalats. 📜 Ordinary Lok Adalat cannot decide merits after failed compromise. 📜 PLA may decide merits after failed conciliatio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 632.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1039,
+      "heading": "CLOSING RECALL FLOW - MUST-KNOW FACTS AND TRAPS",
+      "preview": "START / CONCEPT: Must-Know Facts and traps",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 795
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2042,
+      "markdown_body_line_end": 2043,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "Companion to `basic/Lok-Adalats-and-Other-Courts.md`. Apply only after the complete statutory and comparative Core.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 224.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 179.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2049,
+      "markdown_body_line_end": 2055,
+      "heading": "Dispute-system design",
+      "preview": "Dispute characteristic | Suitable design consideration",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Dispute characteristic",
+          "Suitable design consideration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2110,
+      "markdown_body_line_end": 2118,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Article 39A and the access-to-justice chain",
+      "preview": "ART 39A -> equal-opportunity justice + free legal aid.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 526.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 444.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2122,
+      "markdown_body_line_end": 2129,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Legal-services authority ladder",
+      "preview": "NALSA -> national policy and schemes.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 350.091
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2133,
+      "markdown_body_line_end": 2139,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Section 12 eligibility and quality gate",
+      "preview": "STATUS ROUTES -> SC/ST, women/children, disability, custody, workmen and listed vulnerability.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 328.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 266.091
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2143,
+      "markdown_body_line_end": 2149,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Ordinary Lok Adalat jurisdiction",
+      "preview": "PENDING CASE or PRE-LITIGATION DISPUTE within court jurisdiction.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2153,
+      "markdown_body_line_end": 2159,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Ordinary award, failure and review",
+      "preview": "SETTLEMENT -> award deemed civil-court decree -> final/binding -> no statutory appeal.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2163,
+      "markdown_body_line_end": 2171,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Permanent Lok Adalat jurisdiction",
+      "preview": "CHAPTER VI-A -> standing body for PUBLIC UTILITY SERVICES.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2180,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: PLA conciliation-to-adjudication sequence",
+      "preview": "APPLICATION -> conciliation papers -> settlement terms -> agreement award.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2184,
+      "markdown_body_line_end": 2191,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Gram Nyayalaya as a statutory court",
+      "preview": "2008 ACT -> State establishment after High Court consultation.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2195,
+      "markdown_body_line_end": 2201,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Family and specialist-court distinctions",
+      "preview": "FAMILY COURT -> adjudication + conciliation + privacy + High Court appeal.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2205,
+      "markdown_body_line_end": 2216,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Mediation, arbitration and court firewall",
+      "preview": "Afcons Infrastructure v. Cherian Varkey Construction (2010) -> structured ADR referral.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2220,
+      "markdown_body_line_end": 2226,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Fairness, data and digital access",
+      "preview": "Patil Automation v. Rakheja Engineers (2022)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2230,
+      "markdown_body_line_end": 2241,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC forum-selection answer spine",
+      "preview": "1 LEGAL SOURCE.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 455.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    }
+  ]
+}

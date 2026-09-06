@@ -302,3 +302,26 @@ African agency.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Global South diplomacy aggregates development, finance, food, health, climate, technology and representation concerns across diverse states; India may convene and articulate positions but cannot presume a uniform constituency or permanent leadership mandate.
+- **Indispensable distinction and prerequisite taxonomy:** Global South is a political-analytical category rather than a treaty organisation with fixed membership, summit participation is not legal membership, chairmanship is not ownership, and declaration language is not implementation or consensus on every issue.
+- **Mechanism, implementation and evidence control:** Verify summit title, host, date, participation basis, institutional follow-up and announced versus delivered outcome; map bilateral assistance, plurilateral coalition and systemic reform levels while testing representation, resources, delivery capacity and competing preferences.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: no fourth Voice of Global South Summit is officially recorded; MEA development instruments and the July 2026 UN South-South review decision remain current official anchors. The Global South is a diverse political category, not a fixed-membership treaty body. Sources: https://www.mea.gov.in/voice-of-global-summit; https://www.mea.gov.in/development-partnership; https://press.un.org/en/2026/ga12774.doc.htm
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One General Studies Paper II Mains demand is routed to this topic in the audited routing ledgers and it is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2019 General Studies Paper II question 19 on India's image as a leader of the oppressed and marginalised nations, an Elaborate demand of 15 marks and 250 words, for which the ledger records that the Core route supersedes the older Advanced ownership and that the word limit was taken from the paper's instruction block rather than from a per-question printed tail, a defect that is reported here rather than repaired by invented wording. No objective demand from any audited Prelims routing ledger is routed to this owner, so none is listed, invented or answered. The Basic and Advanced owners separately record that no General Studies Paper II Mains question in the audited 2024-2025 papers directly names the Global South, South-South cooperation or India's voice-aggregator role; that absence is stated honestly instead of force-fitting an adjacent question onto this owner. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demand; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.

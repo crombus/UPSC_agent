@@ -1,0 +1,3608 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Historical Background of the Indian Constitution - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-01` **Generation identity:** `polity-01:learner-v2:g16` · generated 27 August 2026 · supersedes `polity-01:learner-v2:g15` **Approval:** false — explicit approval of this exac",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 639.024
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 388.822
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\polity-01_Teaching-Navigation_2026-08-27.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 58,
+      "markdown_body_line_end": 70,
+      "heading": "Master learning roadmap",
+      "preview": "CORPORATE TRADE (1600)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 81,
+      "heading": "First-use terminology - immediate English meanings",
+      "preview": "Term | Exam-safe English meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exam-safe English meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 661.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 464.69
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 114,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The historical background of the Constitution is the gradual conversion of a revenue-seeking Company state into a centralised colonial administration and, finally, a sovereign democratic Constitution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 465.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 399.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 127,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (OPENING DEFINITION):** The historical background of the Constitution is the gradual conversion of a revenue-seeking Company state into a centralised colonial administration and, finally, a s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 240.424
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 181.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 132,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "01. Method and the pre-1773 corporate state",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\01_constitutional_chronology_1600_1947.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 144,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 328.954
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 152,
+      "heading": "Evidence matrix",
+      "preview": "Event | Immediate effect | Constitutional meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Event",
+          "Immediate effect",
+          "Constitutional meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 306.954
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 218.753
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 196,
+      "heading": "CLOSING RECALL FLOW - METHOD AND THE PRE-1773 CORPORATE STATE",
+      "preview": "START / CONCEPT: METHOD AND THE PRE-1773 CORPORATE STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 588.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 367.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 207,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Regulating Act was Parliament's first major statutory intervention in Company government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 246.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 194.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 220,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The Regulating Act 1773 began parliamentary control, executive centralisation and judicialisation, but it left Company government without popular responsibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 225,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Regulating Act 1773 and Settlement Act 1781",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\03_regulating_act_governance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 644.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 336.688
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 235,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 300.488
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 212.287
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 243,
+      "heading": "Evidence matrix",
+      "preview": "Provision | 1773 position | 1781 correction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Provision",
+          "1773 position",
+          "1781 correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 190.287
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 90.885
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 288,
+      "heading": "CLOSING RECALL FLOW - REGULATING ACT 1773 AND SETTLEMENT ACT 1781",
+      "preview": "START / CONCEPT: REGULATING ACT 1773 AND SETTLEMENT ACT 1781",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 499.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 278.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 299,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pitt's India Act 1784 created dual control: Company directors retained commercial administration while the British government, through the Board of Control, acquired supreme political supervision.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 152.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 86.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 312,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Pitt's India Act 1784 created dual control: Company directors retained commercial administration while the British government, through the Board of Control, acquired suprem",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 669.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 610.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 317,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Pitt's India Act 1784, the 1786 measure and Charter Act 1793",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\04_pitts_dual_control.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 529.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 222.288
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 327,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 186.088
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 97.887
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 335,
+      "heading": "Evidence matrix",
+      "preview": "Institution | Primary role | Precision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Institution",
+          "Primary role",
+          "Precision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 380,
+      "heading": "CLOSING RECALL FLOW - PITT'S INDIA ACT 1784, THE 1786 MEASURE AND CHARTER ACT 1793",
+      "preview": "START / CONCEPT: PITT'S INDIA ACT 1784, THE 1786 MEASURE AND CHARTER ACT 1793",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 327.69
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 86.69
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 391,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Charter Acts 1793 and 1813 show that monopoly could be renewed even as Crown sovereignty and regulated commercial opening advanced.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 404,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (TRANSITION):** The Charter Acts 1793 and 1813 show that monopoly could be renewed even as Crown sovereignty and regulated commercial opening advanced.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 390.356
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 409,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. Charter Acts 1793 and 1813: monopoly, sovereignty and education",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\05_charter_acts_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 309.356
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 418,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 392.554
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 426,
+      "heading": "Evidence matrix",
+      "preview": "Dimension | 1793 | 1813",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "1793",
+          "1813"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 370.554
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 271.153
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 471,
+      "heading": "CLOSING RECALL FLOW - CHARTER ACTS 1793 AND 1813: MONOPOLY, SOVEREIGNTY AND EDUCATION",
+      "preview": "START / CONCEPT: CHARTER ACTS 1793 AND 1813: MONOPOLY, SOVEREIGNTY AND EDUCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 415.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Charter Acts 1833 and 1853 completed legislative centralisation, ended the Company's commercial character and differentiated law-making from executive administration and patronage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 261.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 194.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 495,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The Charter Acts 1833 and 1853 completed legislative centralisation, ended the Company's commercial character and differentiated law-making from executive administration an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Charter Acts 1833 and 1853: all-India government, law and civil service",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\05_charter_acts_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 644.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 336.688
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 511,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 300.488
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 191.087
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 520,
+      "heading": "Evidence matrix",
+      "preview": "Question | Charter Act 1833 | Charter Act 1853",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Charter Act 1833",
+          "Charter Act 1853"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 169.087
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 48.485
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 566,
+      "heading": "CLOSING RECALL FLOW - CHARTER ACTS 1833 AND 1853: ALL-INDIA GOVERNMENT, LAW AND CIVIL SERVICE",
+      "preview": "START / CONCEPT: CHARTER ACTS 1833 AND 1853: ALL-INDIA GOVERNMENT, LAW AND CIVIL SERVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 148.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 577,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Government of India Act 1858 replaced dual control with direct Crown responsibility, but centralised imperial accountability without Indian popular responsibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The Government of India Act 1858 replaced dual control with direct Crown responsibility, but centralised imperial accountability without Indian popular responsibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 361.956
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 595,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Government of India Act 1858: Crown rule and imperial accountability",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\06_1858_transfer_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 280.956
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 605,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 371.354
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 613,
+      "heading": "Evidence matrix",
+      "preview": "Office | Change | Accountability limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Office",
+          "Change",
+          "Accountability limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 349.354
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 238.753
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 658,
+      "heading": "CLOSING RECALL FLOW - GOVERNMENT OF INDIA ACT 1858: CROWN RULE AND IMPERIAL ACCOUNTABILITY",
+      "preview": "START / CONCEPT: GOVERNMENT OF INDIA ACT 1858: CROWN RULE AND IMPERIAL ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 625.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 414.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 669,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Councils Acts of 1861 and 1892 widened Indian association and legislative scrutiny, yet official majorities ensured that consultation did not become responsible government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 275.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 208.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 682,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The Councils Acts of 1861 and 1892 widened Indian association and legislative scrutiny, yet official majorities ensured that consultation did not become responsible governm",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 687,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. Indian Councils Acts 1861 and 1892: association without responsibility",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\07_councils_reforms_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 663.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 355.888
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 693,
+      "markdown_body_line_end": 698,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 319.688
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 210.287
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 702,
+      "markdown_body_line_end": 706,
+      "heading": "Evidence matrix",
+      "preview": "Dimension | 1861 | 1892",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "1861",
+          "1892"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 188.287
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 100.085
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 752,
+      "heading": "CLOSING RECALL FLOW - INDIAN COUNCILS ACTS 1861 AND 1892: ASSOCIATION WITHOUT RESPONSIBILITY",
+      "preview": "START / CONCEPT: INDIAN COUNCILS ACTS 1861 AND 1892: ASSOCIATION WITHOUT RESPONSIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 486.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 265.491
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 1909 reforms widened representation by institutionalising religious separation, making separate electorates both a concession and a constitutional warning.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 139.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 73.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 776,
+      "markdown_body_line_end": 776,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):** The 1909 reforms widened representation by institutionalising religious separation, making separate electorates both a concession and a constitutional warning.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 577.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 781,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Indian Councils Act 1909: representation and communal electorates",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\07_councils_reforms_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 496.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 189.088
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 791,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 152.888
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 64.687
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 799,
+      "heading": "Evidence matrix",
+      "preview": "Device | Meaning | Consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Device",
+          "Meaning",
+          "Consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 676.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 827,
+      "markdown_body_line_end": 844,
+      "heading": "CLOSING RECALL FLOW - INDIAN COUNCILS ACT 1909: REPRESENTATION AND COMMUNAL ELECTORATES",
+      "preview": "START / CONCEPT: INDIAN COUNCILS ACT 1909: REPRESENTATION AND COMMUNAL ELECTORATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 306.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 95.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 855,
+      "markdown_body_line_end": 855,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 1919 Act introduced provincial dyarchy - responsibility without control over finance and coercion - and thereby exposed the limits of divided executive authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 868,
+      "markdown_body_line_end": 868,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):** The 1919 Act introduced provincial dyarchy - responsibility without control over finance and coercion - and thereby exposed the limits of divided executive authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 390.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 873,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Government of India Act 1919: dyarchy, bicameralism, franchise and review",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\08_dyarchy_1919.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 309.356
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 885,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 328.954
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 894,
+      "heading": "Evidence matrix",
+      "preview": "Institution | Provision | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Provision",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 306.954
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 197.553
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 940,
+      "heading": "CLOSING RECALL FLOW - GOVERNMENT OF INDIA ACT 1919: DYARCHY, BICAMERALISM, FRANCHISE AND REVIEW",
+      "preview": "START / CONCEPT: GOVERNMENT OF INDIA ACT 1919: DYARCHY, BICAMERALISM, FRANCHISE AND REVIEW",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 523.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 292.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 951,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "These events are bridges, not substitutes for studying the enacted 1935 text.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 153.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 100.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 964,
+      "markdown_body_line_end": 964,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (TRANSITION):** Indian political pressure altered the reform agenda but British safeguards bounded the constitutional concession.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 656.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Bridges to 1935: Simon Commission, Round Tables, Communal Award and Poona Pact",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\10_representation_electorate_evolution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 575.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 267.888
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 982,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 231.688
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 79.887
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 991,
+      "heading": "Evidence matrix",
+      "preview": "Bridge | Secure point | Scope limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Bridge",
+          "Secure point",
+          "Scope limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 644.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1036,
+      "heading": "CLOSING RECALL FLOW - BRIDGES TO 1935: SIMON COMMISSION, ROUND TABLES, COMMUNAL AWARD AND POONA PACT",
+      "preview": "START / CONCEPT: BRIDGES TO 1935: SIMON COMMISSION, ROUND TABLES, COMMUNAL AWARD AND POONA PACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 259.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 38.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1047,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Government of India Act 1935 designed an all-India federation and provincial autonomy, but the federation never became operational before independence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1060,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The Government of India Act 1935 designed an all-India federation and provincial autonomy, but the federation never became operational before independence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 390.356
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1065,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Government of India Act 1935: federation, lists and provincial autonomy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\09_goi_1935_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 309.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1075,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 371.354
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1084,
+      "heading": "Evidence matrix",
+      "preview": "Feature | Legal design | Operational status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Legal design",
+          "Operational status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 349.354
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 217.553
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1130,
+      "heading": "CLOSING RECALL FLOW - GOVERNMENT OF INDIA ACT 1935: FEDERATION, LISTS AND PROVINCIAL AUTONOMY",
+      "preview": "START / CONCEPT: GOVERNMENT OF INDIA ACT 1935: FEDERATION, LISTS AND PROVINCIAL AUTONOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 589.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 358.691
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The approximate franchise share should not be converted into a precise electorate count without a secure source.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 204.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 152.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1154,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):** The approximate franchise share should not be converted into a precise electorate count without a secure source.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 693.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1159,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. Government of India Act 1935: institutions, franchise and safeguards",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\09_goi_1935_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 612.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 305.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1169,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 269.088
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 180.887
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1179,
+      "heading": "Evidence matrix",
+      "preview": "Institution | Provision | 1950 relation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Institution",
+          "Provision",
+          "1950 relation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1225,
+      "heading": "CLOSING RECALL FLOW - GOVERNMENT OF INDIA ACT 1935: INSTITUTIONS, FRANCHISE AND SAFEGUARDS",
+      "preview": "START / CONCEPT: GOVERNMENT OF INDIA ACT 1935: INSTITUTIONS, FRANCHISE AND SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1236,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Independence Act 1947 ended British sovereignty and paramountcy and made the Constituent Assemblies sovereign legislatures, but left integration and constitution-making to Indian agency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 332.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1249,
+      "markdown_body_line_end": 1249,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The Independence Act 1947 ended British sovereignty and paramountcy and made the Constituent Assemblies sovereign legislatures, but left integration and constitution-making",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 159.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 100.956
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1254,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Indian Independence Act 1947 and the Constituent Assembly bridge",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\01_constitutional_chronology_1600_1947.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1267,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 426.156
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 274.354
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1276,
+      "heading": "Evidence matrix",
+      "preview": "Provision | Effect | Precision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Provision",
+          "Effect",
+          "Precision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 252.354
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 120.553
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1322,
+      "heading": "CLOSING RECALL FLOW - INDIAN INDEPENDENCE ACT 1947 AND THE CONSTITUENT ASSEMBLY BRIDGE",
+      "preview": "START / CONCEPT: INDIAN INDEPENDENCE ACT 1947 AND THE CONSTITUENT ASSEMBLY BRIDGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 489.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 258.491
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1333,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legislative control widened from centralisation to scrutiny; executive accountability moved from corporate to imperial control before becoming democratic only after independence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 118.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 52.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1346,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CONTINUITY LINE):** Legislative control widened from centralisation to scrutiny; executive accountability moved from corporate to imperial control before becoming democratic only after indep",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 591.824
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1351,
+      "markdown_body_line_end": 1351,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Thematic evolution: legislature, executive, judiciary, services and finance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\11_centralisation_decentralisation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 510.824
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 203.288
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1362,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 167.088
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 57.687
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1366,
+      "markdown_body_line_end": 1373,
+      "heading": "Evidence matrix",
+      "preview": "Trajectory | Colonial development | Constitutional inheritance or rupture",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Trajectory",
+          "Colonial development",
+          "Constitutional inheritance or rupture"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 601.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1418,
+      "heading": "CLOSING RECALL FLOW - THEMATIC EVOLUTION: LEGISLATURE, EXECUTIVE, JUDICIARY, SERVICES AND FINANCE",
+      "preview": "START / CONCEPT: THEMATIC EVOLUTION: LEGISLATURE, EXECUTIVE, JUDICIARY, SERVICES AND FINANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1429,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Colonial constitutional reform was neither a linear gift nor a single nationalist victory: British control incentives and Indian political pressure interacted, while authority remained deliberately short of popular sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 332.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1442,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):** Colonial constitutional reform was neither a linear gift nor a single nationalist victory: British control incentives and Indian political pressure interacted, while authority ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 159.824
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 100.956
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1447,
+      "markdown_body_line_end": 1447,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. British motives, Indian pressures and colonial constitutionalism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\12_inheritance_map_1950.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1453,
+      "markdown_body_line_end": 1458,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 426.156
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 316.754
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1468,
+      "heading": "Evidence matrix",
+      "preview": "Driver | Named evidence | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Driver",
+          "Named evidence",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 294.754
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 130.553
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1496,
+      "markdown_body_line_end": 1513,
+      "heading": "CLOSING RECALL FLOW - BRITISH MOTIVES, INDIAN PRESSURES AND COLONIAL CONSTITUTIONALISM",
+      "preview": "START / CONCEPT: BRITISH MOTIVES, INDIAN PRESSURES AND COLONIAL CONSTITUTIONALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 491.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 270.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1524,
+      "markdown_body_line_end": 1524,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Constitution retained and transformed colonial machinery - lists, Governors, courts and services - while rejecting communal electorates, restricted franchise and imperial supremacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 116.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 49.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1537,
+      "markdown_body_line_end": 1537,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CONTINUITY LINE):** The Constitution retained and transformed colonial machinery - lists, Governors, courts and services - while rejecting communal electorates, restricted franchise and impe",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 577.624
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1542,
+      "markdown_body_line_end": 1542,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "16. Continuity and rupture into the Constitution of 1950",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\12_inheritance_map_1950.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 496.624
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 189.088
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1548,
+      "markdown_body_line_end": 1553,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 152.888
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 43.487
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1565,
+      "heading": "Evidence matrix",
+      "preview": "Colonial element | 1950 relation | Nature of change",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Colonial element",
+          "1950 relation",
+          "Nature of change"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 592.89
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1592,
+      "markdown_body_line_end": 1592,
+      "heading": "ANALYTICAL PERIODISATION AND GS-II ANSWER ARCHITECTURE",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FINAL VERDICT):** The Constitution retained and transformed colonial machinery - lists, Governors, courts and services - while rejecting communal electorates, restricted franchise and imperi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 215.09
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 134.222
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1597,
+      "markdown_body_line_end": 1597,
+      "heading": "ANALYTICAL PERIODISATION AND GS-II ANSWER ARCHITECTURE",
+      "preview": "17. Analytical periodisation and GS-II answer architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\12_inheritance_map_1950.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1603,
+      "markdown_body_line_end": 1609,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 328.954
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1613,
+      "markdown_body_line_end": 1619,
+      "heading": "Evidence matrix",
+      "preview": "Answer move | Required content | Common failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Answer move",
+          "Required content",
+          "Common failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 306.954
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 176.353
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1664,
+      "heading": "CLOSING RECALL FLOW - CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950",
+      "preview": "START / CONCEPT: CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 317.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2640,
+      "markdown_body_line_end": 2640,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "This block preserves the complete Advanced owner after all Basic teaching and practice. It adds density and revision detail; none of it is a prerequisite for a competent core answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 675.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 630.424
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2763,
+      "markdown_body_line_end": 2775,
+      "heading": "Quick \"FIRSTS\" table (Prelims gold)",
+      "preview": "First | Act",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "First",
+          "Act"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 642.191
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 384.39
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2801,
+      "markdown_body_line_end": 2805,
+      "heading": "Advanced synthesis - criticisms, replies and final evaluation",
+      "preview": "Criticism | Best reply | Residual verdict",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Criticism",
+          "Best reply",
+          "Residual verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 706.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 506.49
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2807,
+      "markdown_body_line_end": 2808,
+      "heading": "Advanced synthesis - criticisms, replies and final evaluation",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):** The Constitution retained and transformed colonial machinery - lists, Governors, courts and services - while rejecting communal electorates, restricted franchise and imperial s",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 506.49
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 419.222
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2811,
+      "markdown_body_line_end": 2811,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "These topic-specific register notes are intentionally the final H2 and cover chronology, control architecture, representation, 1919/1935, institutional trajectories, inheritance/rejection, PYQ routes and answer spines.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 386.222
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 341.554
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2819,
+      "heading": "FINAL REGISTER 1/8 - Chronology and firsts",
+      "preview": "FINAL REGISTER 1/8 - Chronology and firsts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\01_constitutional_chronology_1600_1947.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 263.954
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        73,
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2825,
+      "markdown_body_line_end": 2827,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 413.754
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2854,
+      "heading": "FINAL REGISTER 2/8 - Company rule control architecture",
+      "preview": "FINAL REGISTER 2/8 - Company rule control architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\02_company_to_crown_transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 425.156
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2862,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 388.956
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 343.154
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2887,
+      "markdown_body_line_end": 2887,
+      "heading": "FINAL REGISTER 3/8 - Representation ladder",
+      "preview": "FINAL REGISTER 3/8 - Representation ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\10_representation_electorate_evolution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 425.156
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2893,
+      "markdown_body_line_end": 2895,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 388.956
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 343.154
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2921,
+      "markdown_body_line_end": 2921,
+      "heading": "FINAL REGISTER 4/8 - 1919 versus 1935",
+      "preview": "FINAL REGISTER 4/8 - 1919 versus 1935",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\09_goi_1935_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 425.156
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2927,
+      "markdown_body_line_end": 2929,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 388.956
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 343.154
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2955,
+      "markdown_body_line_end": 2955,
+      "heading": "FINAL REGISTER 5/8 - Institutional trajectories",
+      "preview": "FINAL REGISTER 5/8 - Institutional trajectories",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\11_centralisation_decentralisation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 425.156
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2961,
+      "markdown_body_line_end": 2963,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 388.956
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 343.154
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2989,
+      "markdown_body_line_end": 2989,
+      "heading": "FINAL REGISTER 6/8 - Continuity, rupture and colonial constitutionalism",
+      "preview": "FINAL REGISTER 6/8 - Continuity, rupture and colonial constitutionalism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\12_inheritance_map_1950.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 425.156
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2995,
+      "markdown_body_line_end": 2997,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 388.956
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 343.154
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3024,
+      "markdown_body_line_end": 3026,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 715.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 669.89
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3052,
+      "markdown_body_line_end": 3052,
+      "heading": "FINAL REGISTER 8/8 - GS-II answer spines and rapid verdicts",
+      "preview": "FINAL REGISTER 8/8 - GS-II answer spines and rapid verdicts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets\\12_inheritance_map_1950.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 362.29
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 54.754
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3058,
+      "markdown_body_line_end": 3060,
+      "heading": "Evidence matrix",
+      "preview": "Recall axis | Core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Recall axis",
+          "Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 741.49
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3085,
+      "markdown_body_line_end": 3107,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: From Company sovereignty to constituent sovereignty, 1765-1950",
+      "preview": "1765 DIWANI: revenue power outruns public accountability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 447.29
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 222.09
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3126,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Who controlled whom: the imperial power hierarchy",
+      "preview": "BRITISH PARLIAMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3130,
+      "markdown_body_line_end": 3142,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 1773-1853: regulation, monopoly and centralisation compared",
+      "preview": "ACT     CONTROL / ECONOMY              INSTITUTIONAL RESULT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3146,
+      "markdown_body_line_end": 3164,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Representation without responsibility, 1861-1919",
+      "preview": "1861: NOMINATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 281.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3168,
+      "markdown_body_line_end": 3183,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: The 1935 constitutional machine: promise and safeguards",
+      "preview": "GOVERNMENT OF INDIA ACT 1935",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3187,
+      "markdown_body_line_end": 3205,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 1935 inheritance: retained, transformed, rejected",
+      "preview": "1935 DEVICE             1950 TREATMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3209,
+      "markdown_body_line_end": 3225,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 1947 bridge: dominion legality to republican authority",
+      "preview": "INDIAN INDEPENDENCE ACT 1947",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 241.091
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3229,
+      "markdown_body_line_end": 3244,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Colonial reform: official motive versus Indian pressure",
+      "preview": "OFFICIAL PROBLEM                 IMPERIAL RESPONSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3248,
+      "markdown_body_line_end": 3261,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Historical-background close-option control board",
+      "preview": "CLAIM TO TEST                              EXACT CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 478.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3265,
+      "markdown_body_line_end": 3281,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Exact 10/15-mark architecture: evolution into the 1950 Constitution",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 292.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3285,
+      "markdown_body_line_end": 3290,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Jurisdiction, service and finance: the less-visible institutional spine",
+      "preview": "JUDICIARY: 1774 Supreme Court -> 1861 High Courts -> 1937 Federal Court -> 1950 Supreme Court",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3294,
+      "markdown_body_line_end": 3303,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ, ownership and source hierarchy control",
+      "preview": "DIRECT PYQ: 2024 Prelims Q62 -> 1935 federation provided, not commenced",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    }
+  ]
+}

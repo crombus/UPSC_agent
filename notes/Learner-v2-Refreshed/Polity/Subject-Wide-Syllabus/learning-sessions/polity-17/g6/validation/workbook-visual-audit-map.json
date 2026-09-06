@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-17",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 542,
+      "markdown_body_line_end": 557,
+      "heading": "Answer-writing architecture",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 511.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 360.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 568,
+      "heading": "Directive fidelity",
+      "preview": "Directive | Required operation | Common failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Directive",
+          "Required operation",
+          "Common failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 335.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 172.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 576,
+      "heading": "Mark-scaled evidence load",
+      "preview": "Marks/words | Structure | Named evidence target",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks/words",
+          "Structure",
+          "Named evidence target"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 674.69
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "Solved directly routed Mains PYQs",
+      "preview": "**Provenance rule:** The seven 2018-2023 demands are routed by the audited Core owner. The 2024 GS-II Q3 wording is verified in the cross-owned Polity 11/16 packages. Neutral wording is used where exact UPSC wording has not been independent",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 436.29
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 377.422
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 954,
+      "heading": "Routed Parliament Prelims demand laboratory",
+      "preview": "**Answer-key provenance:** For 2018-2023, official keys are not held locally. For 2024-2025, official Set-A keys are held locally but no option letter is reproduced or inferred here. For 2026, the locally held Set-A keys are provisional and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 970,
+      "heading": "2018-2023 routed demands: 11",
+      "preview": "Year/Q | Demand | Doctrinal resolution | Provenance/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Year/Q",
+          "Demand",
+          "Doctrinal resolution",
+          "Provenance/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 133.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 982,
+      "heading": "2024-2025 routed demands: 7",
+      "preview": "Year/Q | Demand | Doctrinal resolution | Provenance/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Year/Q",
+          "Demand",
+          "Doctrinal resolution",
+          "Provenance/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 407.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 989,
+      "heading": "2026 routed demands: 2",
+      "preview": "Year/Q | Demand | Doctrinal resolution | Provenance/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Year/Q",
+          "Demand",
+          "Doctrinal resolution",
+          "Provenance/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 382.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 244.488
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    }
+  ]
+}

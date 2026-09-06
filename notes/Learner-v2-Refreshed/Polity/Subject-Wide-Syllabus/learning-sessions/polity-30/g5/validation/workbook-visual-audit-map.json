@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-30",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 656,
+      "heading": "Visual 51 - PYQ route audit",
+      "preview": "Year | Stage/paper | Directness | Package treatment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Stage/paper",
+          "Directness",
+          "Package treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 277.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 150.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 715,
+      "heading": "Demand decoding",
+      "preview": "Part | Required response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Part",
+          "Required response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 533.69
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 807,
+      "heading": "Demand decoding",
+      "preview": "Demand | Evidence route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Demand",
+          "Evidence route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 726.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 638.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    }
+  ]
+}

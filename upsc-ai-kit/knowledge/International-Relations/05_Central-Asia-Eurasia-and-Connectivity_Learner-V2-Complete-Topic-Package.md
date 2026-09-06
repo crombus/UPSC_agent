@@ -1366,6 +1366,29 @@ India's maritime alternatives.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Central Asia and Eurasia policy connects continental access, energy, security, Afghanistan, diaspora and civilisational links with transport corridors and regional institutions under severe geography and sanctions constraints.
+- **Indispensable distinction and prerequisite taxonomy:** INSTC, Chabahar, Ashgabat Agreement, SCO and bilateral connectivity projects have distinct memberships, legal bases, routes and operating stages; corridor announcement, trial movement, infrastructure completion and regular commercial viability are not interchangeable.
+- **Mechanism, implementation and evidence control:** Map India-Iran-Russia-Central Asia interests alongside partner autonomy, financing, customs, insurance, sanctions and security bottlenecks; qualify route-time or trade claims by source and date and present alternatives rather than implying one corridor solves continental access.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: India participated in the 26th SCO Summit on 1 September 2026 and again identified Chabahar and INSTC as connectivity instruments. Summit advocacy does not establish corridor completion or regular commercial viability; sanctions, customs, finance and route-security constraints remain separately qualified. Sources: https://www.mea.gov.in/bilateral-documents?dtl/39643/joint+statement+of+4th+indiacentral+asia+dialogue+june_06_2025; https://www.mea.gov.in/press-releases?dtl/41727/Prime_Minister_participated_in_the_26th_SCO_Summit_in_Bishkek_Kyrgyz_Republic_September_01_2026; https://www.mea.gov.in/Portal/ForeignRelation/SCO-21-Aug-25.pdf
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Two General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2018 General Studies Paper II question 10 on outside powers in Central Asia and India joining the Ashgabat Agreement, a Discuss the implications demand of 10 marks and 150 words, for which the ledger records that the printed word-limit tail was corrupted in the scan and that the Core route supersedes the older Advanced ownership; and 2024 General Studies Paper II question 10 on India's evolving diplomatic, economic and strategic relations with the Central Asian Republics, a Critically analyse demand of 10 marks and 150 words. One objective demand is also routed to this owner and is carried as a coverage requirement only: 2025 Prelims General Studies Paper I question 62 on International North-South Transport Corridor connectivity, for which the official Set-A key is present locally. No option or answer letter is recorded or inferred for that objective demand, and the presence of a locally held key is not treated as permission to publish one. Where a printed word limit or stem tail is recorded as corrupted in the scan, that defect is reported rather than silently repaired by invented wording. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this Eurasian owner holds and how its boundaries are routed?

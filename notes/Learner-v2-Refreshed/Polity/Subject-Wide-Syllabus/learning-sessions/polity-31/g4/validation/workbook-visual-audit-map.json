@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-31",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 652,
+      "heading": "Visual 76 - PYQ route audit",
+      "preview": "Year | Paper/Q | Demand | Route",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper/Q",
+          "Demand",
+          "Route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 499.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 352.99
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 656,
+      "heading": "Verified PYQ 1 - UPSC GS-II 2018, Q2 - 10 marks, 150 words",
+      "preview": "Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 327.99
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 283.322
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 708,
+      "heading": "Verified PYQ 2 - UPSC GS-II 2018, Q16 - 15 marks, 250 words",
+      "preview": "Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 671.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 759,
+      "heading": "Verified PYQ 3 - UPSC GS-II 2020, Q15 - 15 marks, 250 words",
+      "preview": "Which steps are required for constitutionalization of a Commission? Do you think imparting constitutionality to the National Commission for Women would ensure greater gender justice and empowerment in India? Give reasons.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 258.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 802,
+      "markdown_body_line_end": 802,
+      "heading": "Verified PYQ 4 - UPSC GS-II 2022, Q5 - 10 marks, 150 words",
+      "preview": "Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 860,
+      "heading": "Verified PYQ 5 - UPSC Prelims 2023, Q35",
+      "preview": "Consider the following organizations/bodies in India:  1. The National Commission for Backward Classes 2. The National Human Rights Commission 3. The National Law Commission 4. The National Consumer Disputes Redressal Commission  How many o",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 439.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 366.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 883,
+      "heading": "Verified PYQ 6 - UPSC Prelims 2024, Q84",
+      "preview": "Consider the following statements:  1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe. 2. A community declared as a Scheduled Tribe in a State need not be so in another State.  W",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 213.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 154.756
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    }
+  ]
+}

@@ -446,3 +446,27 @@ PUBLIC PERCEPTION OF PARTIALITY -> legitimacy of unelected discretion erodes
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Civil services provide continuity, expertise, coordination, implementation and constitutional fidelity within political executive control; reform must align recruitment, capacity, tenure, performance, ethics, specialisation and accountability.
+- **Indispensable distinction and prerequisite taxonomy:** Political neutrality is not constitutional value-neutrality, anonymity is not absence of accountability, generalism is not lack of expertise, lateral entry is not privatisation, and Mission Karmayogi is an executive capacity-building programme rather than a statutory civil-service code.
+- **Mechanism, implementation and evidence control:** Use the National Programme for Civil Services Capacity Building, iGOT Karmayogi and competency roles with official date and institutional ownership; connect training to workplace incentives, recorded decisions, citizen outcomes, evaluation and grievance safeguards.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: Mission Karmayogi remains an executive National Programme for Civil Services Capacity Building envisioned in 2020; the Capacity Building Commission was established on 1 April 2021. Enrolment and course completion are outputs, not proof of workplace or citizen outcomes. Sources: https://cbc.gov.in/; https://cbc.gov.in/about-cbc; https://igotkarmayogi.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Two direct Mains demands and one applied objective demand are routed to this topic across the audited ledgers, and both routed Mains stems were confirmed word for word in the locally held OCR-searchable official question papers. The audited 2018-2023 Mains ledger routes the 2020 General Studies Paper-II demand on institutional quality and civil-service reform for strengthening democracy to this Basic owner as a cross-cutting demand shared with the Polity ministries-and-departments owner, so the civil-service half is answered here and the departmental machinery half is cross-linked rather than restated. The audited 2024-2025 Mains ledger routes the 2025 General Studies Paper-I demand on the ethos of the civil service to this Basic owner. The audited 2018-2023 Prelims ledger routes the 2020 objective demand on the characteristics of bureaucracy appropriate for public policy in India here; the official 2018-2023 Prelims key is not held locally, and no option, answer letter or distractor is recorded or inferred for it. One ownership conflict is recorded openly rather than resolved by assertion: the 2024 General Studies Paper-II demand on the Doctrine of Democratic Governance and the public perception of the integrity and commitment of civil servants is discussed at length in the text of this owner, but the audited 2024-2025 ledger routes that demand to the citizen-centric-administration owner, so it is solved there and treated here only as the legitimacy half of the same demand family. No official answer key or marking scheme is held locally for any routed Mains demand, so every model solution below is an authored answer route rather than an official key.

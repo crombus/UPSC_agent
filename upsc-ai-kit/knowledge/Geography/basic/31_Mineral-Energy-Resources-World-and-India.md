@@ -333,3 +333,41 @@ onshore or offshore alike:
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** geological occurrence; resource/reserve and grade/economic
+  filters; metallic, non-metallic and energy-resource classification; world
+  and Indian mineral belts; coal, petroleum, gas, hydro, nuclear and
+  renewable-energy geography; critical-mineral supply chains.
+- **Resource-process control:** occurrence is a geological fact, a resource
+  is potentially usable, and a reserve is the recoverable subset under a
+  stated classification, technology, price and date. Extraction,
+  beneficiation, smelting/refining, generation, transmission and final use
+  are separate stages and may occur in different regions.
+- **Geological-model control:** shields favour many metallic ores,
+  sedimentary basins host coal and hydrocarbons, lateritisation can
+  concentrate bauxite, and a petroleum system requires source, reservoir,
+  seal and trap. These are tendencies with deposit-specific exceptions.
+- **Scale/map control:** world belts and India's Jharia-Raniganj-Talcher-
+  Korba, Mumbai High-Assam-KG, Bailadila-Keonjhar, Khetri, Jaduguda and
+  monazite-coast anchors are taught as belts, basins and corridors rather
+  than isolated mine lists.
+- **Energy-measure control:** installed capacity differs from generation,
+  capacity addition from commissioning, electricity from primary energy,
+  resources from reserves, and thermal coal from metallurgical coal.
+  Renewable potential is not identical to realisable capacity.
+- **Date/data control:** IBM mineral inventories, National Coal Inventory,
+  CEA/National Power Portal and MNRE releases retain their own reference
+  dates, classifications and provisional/final status. Production rank,
+  reserve/resource, project and capacity claims require a dated official
+  release.
+- **Criticality control:** a critical mineral is defined by economic or
+  strategic importance plus supply risk; it is not necessarily geologically
+  rare. Extraction, processing concentration, import dependence, recycling,
+  substitution and stockpiling are distinct vulnerabilities or responses.
+- **Boundary and PYQ control:** Environment owns full mining-impact/EIA and
+  transition ecology; Economy and Science-and-Technology own fiscal, market
+  and technology detail. Geography owns occurrence, distribution, location,
+  networks and spatial dependence. Verified 2018-2025 routes are retained;
+  unavailable or provisional answer letters remain unpromoted.

@@ -447,3 +447,27 @@ funding structure, group exposure and asset-liability mismatch are decisive.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** India's financial system separates scheduled banks, cooperative banks, differentiated banks, NBFC categories and market intermediaries by licence, liabilities, activities, prudential rules and resolution perimeter.
+- **Indispensable distinction and prerequisite taxonomy:** Bank is not NBFC, deposit-taking permission is not universal, regulation is not identical across entities, liquidity mismatch is not insolvency, and RBI supervision does not erase statutory mandate differences.
+- **Mechanism, implementation and evidence control:** Identify regulator, statute/direction, entity category and operative date; map funding, asset risk, connected exposure, governance, consumer protection, deposit insurance applicability and resolution authority without institution-name shortcuts.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The DICGC landing page returned two protection-account percentages but no visible vintage or denominator in the fetched text. They are therefore not quoted as current evidence. Stable statutory deposit-insurance scope and the owner's stated cap are retained from the audited Markdown owner. Sources: https://www.dicgc.org.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** The audited ledgers route objective demands on PSB governance, the Service Area Approach, bank assets, public-bank appointments, demand deposits, urban co-operative banks, Banks Board Bureau, NBFC/LAF distinctions, foreign banks, syndicated lending, FI-Index dimensions and NBFC deposit and payment privileges here. No Mains demand or answer letter is invented.

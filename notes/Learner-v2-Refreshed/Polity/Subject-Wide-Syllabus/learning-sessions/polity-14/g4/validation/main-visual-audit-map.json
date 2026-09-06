@@ -1,0 +1,1788 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 6,
+      "markdown_body_line_end": 10,
+      "heading": "Polity 14 - Emergency Provisions - Complete Topic Package",
+      "preview": "**Subject:** Indian Polity | **Topic:** 14 | **GS-II + Prelims** | **Content control:** 2026-08-28  **Approval:** false - awaiting explicit user approval.  **Evidence key:** [FACT] constitutional, judicial or source-verified proposition; [A",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 800.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 703.424
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 39,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 431.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 60,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 298.09
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 47.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 88,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\polity-14_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 118.956
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 102,
+      "markdown_body_line_end": 102,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Emergency provisions defend the Constitution only when exceptional power remains temporary, reviewable and directed toward normal government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 115,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The Constitution provides national, State and financial emergencies for distinct failures.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\01_three_emergencies.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 251.566
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 121,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Type | Article | Trigger",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Article",
+          "Trigger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 251.566
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 163.365
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 130,
+      "markdown_body_line_end": 147,
+      "heading": "CLOSING RECALL FLOW - WHY EMERGENCY PROVISIONS EXIST",
+      "preview": "START / CONCEPT: Why emergency provisions exist",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 158,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "National Emergency begins with a narrow constitutional ground, not a general claim of internal disturbance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 197,
+      "heading": "CLOSING RECALL FLOW - NATIONAL EMERGENCY: TRIGGER AND TERRITORIAL SCOPE",
+      "preview": "START / CONCEPT: National Emergency: trigger and territorial scope",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 208,
+      "markdown_body_line_end": 208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "National Emergency cannot continue on executive will alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 221,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 352 now requires written Cabinet advice, prompt special-majority approval and recurring renewal.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\02_national_emergency_process.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 234.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 261,
+      "heading": "CLOSING RECALL FLOW - NATIONAL EMERGENCY PROCEDURE",
+      "preview": "START / CONCEPT: National Emergency procedure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 261.634
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 60.634
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 272,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 44th Amendment converted emergency discretion into a more rule-bound constitutional power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 285,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The 44th Amendment narrowed grounds, strengthened procedure, protected liberty and restored review.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\03_44th_safeguards.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 251.566
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 295,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Pre-1978 vulnerability | 44th Amendment response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Pre-1978 vulnerability",
+          "44th Amendment response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 251.566
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 67.365
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 301,
+      "markdown_body_line_end": 318,
+      "heading": "CLOSING RECALL FLOW - THE 44TH AMENDMENT SAFEGUARD ARCHITECTURE",
+      "preview": "START / CONCEPT: The 44th Amendment safeguard architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 329,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 352 makes the federation temporarily Union-weighted; it does not abolish States.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 427.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 341,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "National Emergency expands Union executive, legislative and financial power while States continue to exist.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\04_national_effects.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 285.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 69.166
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW - EFFECTS OF NATIONAL EMERGENCY",
+      "preview": "START / CONCEPT: Effects of National Emergency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 433.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 222.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rights doctrine must distinguish disapplication of Article 19 limits from suspension of a court-enforcement route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 409,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 358 automatically affects Article 19 in external Emergency; Article 359 depends on a presidential enforcement order.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\05_358_vs_359.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 598.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 381.566
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 417,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Test | Article 358 | Article 359",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Article 358",
+          "Article 359"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 381.566
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 217.365
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 450,
+      "heading": "CLOSING RECALL FLOW - FUNDAMENTAL RIGHTS: ARTICLE 358 VERSUS ARTICLE 359",
+      "preview": "START / CONCEPT: Fundamental Rights: Article 358 versus Article 359",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 461,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Constitution now answers ADM Jabalpur (1976) through both the 44th Amendment and K.S. Puttaswamy (2017).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 474,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The constitutional trajectory moved from denial of habeas corpus to permanent protection of life and liberty.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\06_adm_jabalpur_line.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 187.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 484,
+      "markdown_body_line_end": 501,
+      "heading": "CLOSING RECALL FLOW - ADM JABALPUR (1976), KHANNA AND K.S. PUTTASWAMY (2017)",
+      "preview": "START / CONCEPT: ADM Jabalpur (1976), Khanna and K.S. Puttaswamy (2017)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 450.234
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 239.234
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 512,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The declaration and amendment timeline explains why present doctrine is stricter than the 1975 framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 99.434
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 46.966
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 529,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Declaration | Ground/context | Control point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Declaration",
+          "Ground/context",
+          "Control point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 548.29
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 531,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The emergency Constitution moved from immunity and expansion to safeguards, review and liberty correction.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\12_amendment_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 548.29
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 331.632
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 560,
+      "heading": "CLOSING RECALL FLOW - HISTORICAL DECLARATIONS AND AMENDMENT TIMELINE",
+      "preview": "START / CONCEPT: Historical declarations and amendment timeline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 571,
+      "markdown_body_line_end": 571,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "President’s Rule is a State-specific exceptional remedy, not a response to ordinary political disagreement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 584,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 356 moves from constitutional failure through parliamentary approval to tightly limited renewals.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\07_presidents_rule_process.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 244.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 621,
+      "heading": "CLOSING RECALL FLOW - PRESIDENT'S RULE: TRIGGER AND PROCEDURE",
+      "preview": "START / CONCEPT: President's Rule: trigger and procedure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 507.29
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 286.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 632,
+      "markdown_body_line_end": 632,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The consequences of President's Rule preserve the State's constitutional identity and laws during temporary Union administration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 165.49
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 98.822
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 672,
+      "heading": "CLOSING RECALL FLOW - CONSEQUENCES OF PRESIDENT'S RULE",
+      "preview": "START / CONCEPT: Consequences of President's Rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 516.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 305.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 683,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "S.R. Bommai (1994) protects federalism and representative majority by making emergency satisfaction justiciable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 165.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 112.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 696,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "S.R. Bommai (1994) converted Article 356 from largely political discretion into reviewable, floor-tested constitutional power.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\08_bommai_propositions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 718.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 501.634
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 733,
+      "heading": "CLOSING RECALL FLOW - S.R. BOMMAI (1994): THE CONTROLLING ARTICLE 356 DOCTRINE",
+      "preview": "START / CONCEPT: S.R. Bommai (1994): the controlling Article 356 doctrine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 744,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decline reflects changed incentives, not repeal of the constitutional power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 757,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Judicial review, floor tests, coalitions, regional parties and commission norms jointly raised the cost of misuse.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\09_356_decline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 211.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 766,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Factor | Mechanism",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Factor",
+          "Mechanism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 586.634
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 434.832
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 790,
+      "heading": "CLOSING RECALL FLOW - WHY ARTICLE 356 USE DECLINED AFTER THE MID-1990S",
+      "preview": "START / CONCEPT: Why Article 356 use declined after the mid-1990s",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 350.032
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 139.032
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 801,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Financial Emergency is constitutionally severe precisely because it centralises finance without periodic renewal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 813,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 360 combines a broad financial trigger with drastic and indefinite central directions.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\10_financial_emergency.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 499.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 282.966
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 835,
+      "markdown_body_line_end": 852,
+      "heading": "CLOSING RECALL FLOW - FINANCIAL EMERGENCY",
+      "preview": "START / CONCEPT: Financial Emergency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 715.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 504.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 863,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Three-emergency comparison separates the distinct constitutional procedures hidden by the shared emergency label.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 397.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 331.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 876,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Each emergency differs in trigger, majority, duration, effect and revocation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\11_comparison_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 172.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 887,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Test | National - 352 | President's Rule - 356 | Financial - 360",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Test",
+          "National - 352",
+          "President's Rule - 356",
+          "Financial - 360"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 586.634
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 398.732
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 908,
+      "heading": "CLOSING RECALL FLOW - THREE-EMERGENCY COMPARISON",
+      "preview": "START / CONCEPT: Three-emergency comparison",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 376.732
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 175.732
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Emergency legitimacy depends on exhausting narrower constitutional remedies where feasible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 932,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Sarkaria and Punchhi emphasise warning, floor test, speaking reports, last resort and neutral Governorship.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\13_commission_safeguards.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 463.424
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 246.766
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 961,
+      "heading": "CLOSING RECALL FLOW - COMMISSION SAFEGUARDS AND CONSTITUTIONAL ALTERNATIVES",
+      "preview": "START / CONCEPT: Commission safeguards and constitutional alternatives",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 125
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2031,
+      "markdown_body_line_end": 2038,
+      "heading": "16. Safety-valve versus constitutional dictatorship - optional",
+      "preview": "Critic/defender | Argument use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Critic/defender",
+          "Argument use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 630.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 479.09
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2051,
+      "markdown_body_line_end": 2051,
+      "heading": "17. Constitutional dictatorship as a design problem - optional",
+      "preview": "A high-scoring answer states the Article, trigger, procedure, effects, safeguard/case and a qualified verdict.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets\\14_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 276.89
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 60.232
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2096,
+      "markdown_body_line_end": 2101,
+      "heading": "Articles 358 and 359",
+      "preview": "Test | 358 | 359",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Test",
+          "358",
+          "359"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 241.091
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 131.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2164,
+      "markdown_body_line_end": 2170,
+      "heading": "Rapid comparison",
+      "preview": "Test | 352 | 356 | 360",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "352",
+          "356",
+          "360"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 660.89
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2202,
+      "markdown_body_line_end": 2212,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three emergencies and constitutional purpose",
+      "preview": "PART XVIII: ARTICLES 352-360",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2216,
+      "markdown_body_line_end": 2223,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 352 trigger, approval, renewal and revocation",
+      "preview": "TRIGGER: war | external aggression | armed rebellion | imminent danger",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2227,
+      "markdown_body_line_end": 2235,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Declaration and amendment chronology with current status",
+      "preview": "1962 external aggression -> revoked 1968",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 485.891
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2239,
+      "markdown_body_line_end": 2247,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: National Emergency effects on federalism and institutions",
+      "preview": "ARTICLE 353: Union directions expand; Parliament gains State-field competence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 463.891
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2251,
+      "markdown_body_line_end": 2259,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Articles 358 and 359 rights firewall",
+      "preview": "ARTICLE 358",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 359.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 277.091
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2263,
+      "markdown_body_line_end": 2274,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: ADM Jabalpur (1976), Khanna and K.S. Puttaswamy (2017)",
+      "preview": "ADM JABALPUR (1976) MAJORITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2278,
+      "markdown_body_line_end": 2285,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: President's Rule mechanics and consequences",
+      "preview": "ARTICLE 356: Governor report or otherwise -> objective material -> proclamation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2289,
+      "markdown_body_line_end": 2297,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: S.R. Bommai (1994), Rameshwar Prasad (2006) and current Article 356 control",
+      "preview": "S.R. BOMMAI (1994)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 545.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 462.691
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2301,
+      "markdown_body_line_end": 2308,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Article 360 financial emergency",
+      "preview": "TRIGGER: financial stability or credit of India or any part threatened",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 368.491
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2312,
+      "markdown_body_line_end": 2320,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Three-way comparison and last-resort alternatives",
+      "preview": "352: special majority | six-month renewal | national/federal/rights effects",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 346.491
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 264.091
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2324,
+      "markdown_body_line_end": 2333,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Six PYQs and Prelims firewalls",
+      "preview": "PYQ ROUTES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2337,
+      "markdown_body_line_end": 2350,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Marks-scaled answer spine and qualified verdict",
+      "preview": "10 MARKS: provision -> trigger -> procedure -> effects -> status/verdict",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    }
+  ]
+}

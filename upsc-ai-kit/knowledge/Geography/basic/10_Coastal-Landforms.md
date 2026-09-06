@@ -263,3 +263,42 @@ Geography → Coasts → Coastal Erosion (applied CA)
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** wave generation and refraction; hydraulic action, abrasion,
+  attrition and solution; cliff-notch-platform and cave-arch-stack sequences;
+  beaches, berms, longshore drift, spits, bars, lagoons and tombolos; emergent
+  and submergent coasts; relative sea level, storm surge, India's east-west
+  coastal contrast, shoreline change and CRZ-CZMP governance.
+- **Process control:** wind-wave energy, bathymetry and refraction → erosion or
+  swash/backwash transport → sediment-cell redistribution → shoreline
+  adjustment. Relative sea-level change combines ocean-volume change with
+  vertical land movement, subsidence and local dynamics; regulation then maps
+  categories and permissible activities through approved CZMPs.
+- **Scale/map control:** grain, beach profile, littoral cell, estuary/delta,
+  state coast, HTL/LTL line, CRZ category and project site are separate scales.
+  India's east-west contrast is a broad tendency with local exceptions, not a
+  universal coast label or substitute for a site map.
+- **Date/status control:** NCCR's 33.6 percent eroding, 26.9 percent accreting
+  and 39.6 percent stable classes refer to the analysed 1990-2018 mainland
+  coastline and are not annual rates. CRZ Notification 2019 is S.O. 37(E)
+  dated 18 January 2019; amendments, CZMP approval, appraisal, clearance and
+  compliance remain distinct dated legal states.
+- **Terminology control:** shoreline differs from coast and legal HTL; erosion
+  from inundation; spit from bar and tombolo; lagoon from lake; ria from fjord;
+  astronomical tide from storm surge; hazard line from a universal setback or
+  project-clearance line.
+- **Causal control:** sea-level rise alone does not explain a local erosion
+  reach. Sediment supply, dams, ports, sand mining, storms, currents, coastal
+  structures, subsidence and measurement period interact; hard protection can
+  transfer erosion downdrift.
+- **Boundary:** Topic 05 owns fluvial sediment and deltas from the basin side;
+  Topic 09 owns lakes/wetlands; Topic 11 owns islands and coral reefs; Disaster
+  Management owns warning/evacuation depth; Environment owns marine ecology.
+  Topic 10 owns coastal landforms, sediment-cell reasoning and CRZ application.
+- **Verified PYQ ownership, 2018-2026:** the direct route is the 2023 GS-I
+  coastline resource-potential and natural-hazard preparedness demand.
+  Mangrove, blue-carbon, coral and tsunami questions remain with their routed
+  Environment, island or Disaster Management owners; no direct CRZ PYQ or
+  objective key is invented.

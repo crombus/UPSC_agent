@@ -1,0 +1,1880 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-44",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 7,
+      "heading": "Pressure Groups - Complete Uncompressed Learning Session",
+      "preview": "`[FACT]` denotes a named constitutional, statutory, judicial, official or audited-ledger anchor. `[ANALYSIS]` denotes a reasoned inference. Current numerical or organisational rankings are omitted unless a dated primary source is necessary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 698.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 639.824
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 614.824
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 364.622
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\assets\\polity-44_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 721.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 414.156
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pressure groups provide continuous representation between elections, but their influence is distributed unequally.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 240.956
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 188.488
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 80,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A pressure group is an organised body or network that tries to influence a public decision for a shared interest. Its primary purpose is influence, not forming the government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 86,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pressure groups provide continuous representation between elections, but the distribution of influence depends on organisation, resources, access and public legitimacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 622.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 577.556
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 90,
+      "markdown_body_line_end": 95,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "shared interest -> organisation -> demand -> policy channel -> public decision",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 558.356
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 507.356
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 99,
+      "markdown_body_line_end": 105,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Form | Primary purpose | Seeks governmental office? | Typical route",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Form",
+          "Primary purpose",
+          "Seeks governmental office?",
+          "Typical route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 488.156
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 340.754
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 128,
+      "heading": "CLOSING RECALL FLOW - PRESSURE GROUPS: INFLUENCE WITHOUT SEEKING GOVERNMENT OFFICE",
+      "preview": "START / CONCEPT: PRESSURE GROUPS: INFLUENCE WITHOUT SEEKING GOVERNMENT OFFICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 285.354
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 74.354
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pressure-group activity draws on general constitutional freedoms; the Constitution does not create a separate fundamental right to lobby.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 154,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pressure-group activity draws on general constitutional freedoms; the Constitution does not create a separate fundamental right to lobby.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 401.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Channel | Constitutional anchor | What it enables | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Channel",
+          "Constitutional anchor",
+          "What it enables",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 368.156
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 189.254
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 194,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL CHANNELS AND THEIR LIMITS",
+      "preview": "START / CONCEPT: CONSTITUTIONAL CHANNELS AND THEIR LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 516.891
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 205,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classification should explain organisation and method rather than legitimise every textbook example.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 410.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 220,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Almond and Powell's useful comparative typology asks how interests are organised and articulated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 199.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 146.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 229,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Type | Defining feature | India-safe illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Type",
+          "Defining feature",
+          "India-safe illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 660.29
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 258,
+      "heading": "CLOSING RECALL FLOW - TYPOLOGY: ORGANISATION, INTEREST AND METHOD",
+      "preview": "START / CONCEPT: TYPOLOGY: ORGANISATION, INTEREST AND METHOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 504.69
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 283.69
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 269,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "No method is democratic merely because a group uses it; legality, representation and transparency remain decisive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 172.29
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 119.822
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 285,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "**Method spectrum**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 648.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 293,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "INSIDER                                         OUTSIDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 629.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 588.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 327,
+      "heading": "CLOSING RECALL FLOW - METHODS: INSIDER, OUTSIDER AND STRUCTURED BARGAINING",
+      "preview": "START / CONCEPT: METHODS: INSIDER, OUTSIDER AND STRUCTURED BARGAINING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 347.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 136.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 338,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pluralist, elite and corporatist lenses show that pressure groups widen participation without distributing influence equally.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 353,
+      "markdown_body_line_end": 353,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "| Lens | Core claim | What it reveals | What it can miss |",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 396.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 359,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lens | Core claim | What it reveals | What it can miss",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Lens",
+          "Core claim",
+          "What it reveals",
+          "What it can miss"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 396.756
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 279.854
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 389,
+      "heading": "CLOSING RECALL FLOW - THREE ANALYTICAL LENSES: PLURALIST, ELITE AND CORPORATIST",
+      "preview": "START / CONCEPT: THREE ANALYTICAL LENSES: PLURALIST, ELITE AND CORPORATIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 400,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FICCI, CII, ASSOCHAM and NASSCOM are associational business groups.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FICCI, CII, ASSOCHAM and NASSCOM are associational business groups. Their importance is functional, not a timeless ranking that one class is always the most powerful.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 258.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 191.956
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 425,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "member concerns -> sector aggregation -> technical submission",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 460,
+      "heading": "CLOSING RECALL FLOW - BUSINESS ASSOCIATIONS AND PUBLIC POLICY",
+      "preview": "START / CONCEPT: BUSINESS ASSOCIATIONS AND PUBLIC POLICY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 538.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 327.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Collective organisation strengthens member voice but can also protect sectional interests.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 207.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 154.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 486,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "**Labour groups:** AITUC, INTUC, BMS, CITU and HMS illustrate organised labour federations. Their historical or ideological relationships should be described with date and institutional care, not as if every member is formally controlled by",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 657.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Democratic value | Risk",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Democratic value",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 462.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 374.022
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 525,
+      "heading": "CLOSING RECALL FLOW - LABOUR, PROFESSIONAL AND STUDENT GROUPS",
+      "preview": "START / CONCEPT: LABOUR, PROFESSIONAL AND STUDENT GROUPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 318.622
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 97.622
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 536,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Numerical strength becomes policy leverage only when dispersed cultivators organise around feasible demands.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 551,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Examples include All India Kisan Sabha, Bharatiya Kisan Union, Shetkari Sanghatana and coalitional platforms such as Samyukt Kisan Morcha. Do not use unverifiable current membership rankings.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 463.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 396.756
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 592,
+      "heading": "CLOSING RECALL FLOW - FARMERS' ORGANISATIONS: METHODS AND EFFECTIVENESS",
+      "preview": "START / CONCEPT: FARMERS' ORGANISATIONS: METHODS AND EFFECTIVENESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualification: movements, NGOs and pressure groups overlap but are not identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 618,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Environmental pressure groups organise citizens, communities or expertise to influence decisions affecting ecology and environmental justice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 239.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 172.956
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 627,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Role | Indian evidence | Analytical value",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Role",
+          "Indian evidence",
+          "Analytical value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 637.89
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 654,
+      "heading": "CLOSING RECALL FLOW - ENVIRONMENTAL, CIVIL-SOCIETY AND DIGITAL PRESSURE",
+      "preview": "START / CONCEPT: ENVIRONMENTAL, CIVIL-SOCIETY AND DIGITAL PRESSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 501.49
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 280.49
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A concentrated group may monitor members cheaply; a geographically concentrated electorate may create political leverage; a respected expert group may gain access; a moral campaign may shift public norms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 126.49
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 59.822
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 680,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "**Causal map**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 598.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 691,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "resources + cohesion + strategic location + public salience + feasible demand",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 579.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 508.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 726,
+      "heading": "CLOSING RECALL FLOW - WHY SOME GROUPS SUCCEED AND OTHERS DO NOT",
+      "preview": "START / CONCEPT: WHY SOME GROUPS SUCCEED AND OTHERS DO NOT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 266.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 55.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 737,
+      "markdown_body_line_end": 737,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Peaceful protest is a democratic method; violence, bribery and indefinite obstruction are different legal and moral categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 752,
+      "markdown_body_line_end": 752,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Peaceful protest is a democratic method; violence, bribery and indefinite obstruction are different legal and moral categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 368.356
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 764,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Question | Exam application",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Exam application"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 315.756
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 185.154
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 789,
+      "heading": "CLOSING RECALL FLOW - PROTEST, PUBLIC ORDER AND DEMOCRATIC LEGITIMACY",
+      "preview": "START / CONCEPT: PROTEST, PUBLIC ORDER AND DEMOCRATIC LEGITIMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 800,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India regulates several forms and funding streams without maintaining a comprehensive register of organised policy influence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 816,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pressure group is not a registration category. A body may operate through a society, trust, Section 8 company, trade union, professional association or informal coalition, each governed by its applicable law.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 184.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 117.356
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 851,
+      "heading": "CLOSING RECALL FLOW - LEGAL FORMS, FCRA AND THE LOBBYING-TRANSPARENCY GAP",
+      "preview": "START / CONCEPT: LEGAL FORMS, FCRA AND THE LOBBYING-TRANSPARENCY GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 571.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 350.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 862,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Union's Pre-Legislative Consultation Policy, 2014 supplies an official transparency benchmark for draft legislation, but implementation quality must be assessed rather than presumed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 210.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 144.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 877,
+      "markdown_body_line_end": 877,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The design problem is not “pressure groups or no pressure groups.” It is how to preserve participation while reducing hidden influence and unequal access.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 671.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 916,
+      "heading": "CLOSING RECALL FLOW - TRANSPARENCY AND INCLUSIVE CONSULTATION REFORMS",
+      "preview": "START / CONCEPT: TRANSPARENCY AND INCLUSIVE CONSULTATION REFORMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 380.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 149.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 921,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "| PYQ | Exact demand | Best structure |",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 732.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 927,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PYQ | Exact demand | Best structure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "PYQ",
+          "Exact demand",
+          "Best structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 732.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 611.022
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 954,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Prelims firewall supports a final verdict: pressure groups are democratic infrastructure only when influence is peaceful, plural and transparent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 275.022
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 208.354
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 970,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "| Trap | Correct position |",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 982,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trap | Correct position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Trap",
+          "Correct position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 756.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 507.822
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 995,
+      "markdown_body_line_end": 1012,
+      "heading": "CLOSING RECALL FLOW - PRELIMS FIREWALL, MUST-REMEMBER LINES AND FINAL VERDICT",
+      "preview": "START / CONCEPT: PRELIMS FIREWALL, MUST-REMEMBER LINES AND FINAL VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 350.222
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 149.222
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2251,
+      "markdown_body_line_end": 2251,
+      "heading": "Advanced answer upgrade",
+      "preview": "**Advanced verdict:** Organised influence is inevitable in a complex democracy; the constitutional task is to make access contestable, methods lawful and the reasons for public decisions visible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 167.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 122.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2293,
+      "markdown_body_line_end": 2306,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Influence without office: definition and boundaries",
+      "preview": "ROOT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2310,
+      "markdown_body_line_end": 2320,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Constitutional channels and proportionate limits",
+      "preview": "ARTICLE 19",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 529.091
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2324,
+      "markdown_body_line_end": 2334,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Typology without misclassification",
+      "preview": "ALMOND-POWELL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 507.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2338,
+      "markdown_body_line_end": 2350,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Methods: insider, outsider and corporatist routes",
+      "preview": "INSIDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 259.091
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2366,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Pluralist, elite and corporatist lenses",
+      "preview": "PLURALIST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 664.091
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2370,
+      "markdown_body_line_end": 2384,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Business, labour and professional groups",
+      "preview": "BUSINESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 642.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 498.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2388,
+      "markdown_body_line_end": 2398,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Farmers' organisations: methods and effectiveness",
+      "preview": "METHODS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 476.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 373.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2414,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Environmental, civil-society and digital pressure",
+      "preview": "AWARENESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 351.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 228.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2418,
+      "markdown_body_line_end": 2433,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Protest rights and judicial boundary",
+      "preview": "Damyanti Naranga v. Union of India (1971)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2437,
+      "markdown_body_line_end": 2453,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: FCRA and lobbying: separate legal questions",
+      "preview": "FCRA 2010/2020",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2472,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Transparent and inclusive consultation design",
+      "preview": "NOTICE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2490,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and answer synthesis",
+      "preview": "VERIFIED PYQS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4724 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-41",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 9,
+      "heading": "Public Services - Complete Uncompressed Learning Session",
+      "preview": "**Tag key:** `[FACT]` = supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = quali",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 698.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 625.624
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 49,
+      "heading": "Visual 01 - Learning Roadmap",
+      "preview": "PART XIV ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 55,
+      "markdown_body_line_end": 70,
+      "heading": "Visual 02 - Source-Control Pyramid",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 497.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 346.891
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 85,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 302.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 52.49
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 115,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\polity-41_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 406.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 98.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 125,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Topic-specific visual map: Part XIV: Constitutionalising the Permanent Executive.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\01_part_xiv_constitutionalising_the_permanent_executive.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 698.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 418.474
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 142,
+      "heading": "Visual 03 - Part XIV Ownership Map",
+      "preview": "Articles | Core subject | Primary owner",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Articles",
+          "Core subject",
+          "Primary owner"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 614.29
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 162,
+      "heading": "Visual 04 - Democratic Personnel Chain",
+      "preview": "VOTERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 573.09
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 432.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 176,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 308 and the Jammu and Kashmir Text denotes the constitutional rules and institutional links organised around Layer Controlled statement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 277.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 211.222
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 210,
+      "heading": "Visual 05 - Article 308: Text and Present Context",
+      "preview": "Layer | Controlled statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Layer",
+          "Controlled statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 534.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 424.69
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 233,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 308 AND THE JAMMU AND KASHMIR TEXT",
+      "preview": "START / CONCEPT: Article 308 and the Jammu and Kashmir Text",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 383.49
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 142.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classification: Do Not Confuse Constitutional Category with Departmental Label operates through All-India Services IAS, IPS, Indian Forest Service Article 312, AIS Act and rules Common to Union and States, connected with Central civil servi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Classification: Do Not Confuse Constitutional Category with Departmental Label.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\02_classification_do_not_confuse_constitutional_categor.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 245.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 280,
+      "heading": "Visual 06 - Service-Family Matrix",
+      "preview": "Family | Examples | Main legal source | Federal position",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Family",
+          "Examples",
+          "Main legal source",
+          "Federal position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 353.074
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 174.172
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 300,
+      "heading": "Visual 07 - \"Service\" and \"Civil Post\"",
+      "preview": "ORGANISED CIVIL SERVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 311,
+      "heading": "Visual 08 - Common Classification Traps",
+      "preview": "Wrong shortcut | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Wrong shortcut",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 462.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 334,
+      "heading": "CLOSING RECALL FLOW - CLASSIFICATION: DO NOT CONFUSE CONSTITUTIONAL CATEGORY WITH DEPARTMENTAL LABEL",
+      "preview": "START / CONCEPT: Classification: Do Not Confuse Constitutional Category with Departmental Label",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 363
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 407.89
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 156.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 345,
+      "markdown_body_line_end": 345,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 309: Legislature First, Rule-Making Until Law denotes the constitutional rules and institutional links organised around ACT OF APPROPRIATE LEGISLATURE.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 364,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 309: Legislature First, Rule-Making Until Law.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\03_article_309_legislature_first_rule_making_until_law.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 344.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 64.406
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 373,
+      "markdown_body_line_end": 389,
+      "heading": "Visual 09 - Article 309 Authority Ladder",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 652.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 491.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 399,
+      "markdown_body_line_end": 404,
+      "heading": "Visual 10 - Rules, Instructions and Practices",
+      "preview": "Instrument | Legal character | Can override Article 309 rules? | Example function",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Instrument",
+          "Legal character",
+          "Can override Article 309 rules?",
+          "Example function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 383.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 267.29
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 414,
+      "heading": "Visual 11 - Three Rulebooks, Three Questions",
+      "preview": "Rule family | Question answered | Typical consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Rule family",
+          "Question answered",
+          "Typical consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 665.49
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 437,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 309: LEGISLATURE FIRST, RULE-MAKING UNTIL LAW",
+      "preview": "START / CONCEPT: Article 309: Legislature First, Rule-Making Until Law",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 624.29
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 393.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 448,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 310: Doctrine of Pleasure, Constitutionally Fettered denotes the constitutional rules and institutional links organised around executive may end tenure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 239.29
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 172.622
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 310: Doctrine of Pleasure, Constitutionally Fettered.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\04_article_310_doctrine_of_pleasure_constitutionally_fe.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 651.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 370.874
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 476,
+      "markdown_body_line_end": 485,
+      "heading": "Visual 12 - Pleasure Doctrine: Power and Fences",
+      "preview": "ARTICLE 310 POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 496,
+      "heading": "Visual 13 - Who Holds at Whose Pleasure?",
+      "preview": "Position | Formal pleasure authority | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Position",
+          "Formal pleasure authority",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 655.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 500.89
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 523,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 310: DOCTRINE OF PLEASURE, CONSTITUTIONALLY FETTERED",
+      "preview": "START / CONCEPT: Article 310: Doctrine of Pleasure, Constitutionally Fettered",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 341
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 378.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 137.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 310(2): Contractual Specialist Compensation denotes the constitutional rules and institutional links organised around The clause reconciles the pleasure doctrine with the practical need to recruit scarce expertise for a defined peri",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "Visual 14 - Article 310(2) Eligibility Flow",
+      "preview": "SPECIAL QUALIFICATIONS NEEDED?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 601,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 310(2): CONTRACTUAL SPECIALIST COMPENSATION",
+      "preview": "START / CONCEPT: Article 310(2): Contractual Specialist Compensation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 365
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 575.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 324.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 612,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 311 is a procedural shield against arbitrary major penalties, not general service immunity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 184.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 131.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 631,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 311: Protected Persons and Protected Penalties.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\05_article_311_protected_persons_and_protected_penaltie.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 616.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 336.474
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 645,
+      "heading": "Visual 15 - Article 311 Trigger Grid",
+      "preview": "Question | If yes | If no",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "If yes",
+          "If no"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 655.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 651,
+      "markdown_body_line_end": 668,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 311: PROTECTED PERSONS AND PROTECTED PENALTIES",
+      "preview": "START / CONCEPT: Article 311: Protected Persons and Protected Penalties",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 614.29
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 393.29
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 679,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The authority-rank rule prevents lower-level retaliation while retaining lawful disciplinary competence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 253.49
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 201.022
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 706,
+      "markdown_body_line_end": 714,
+      "heading": "Visual 16 - Authority-Rank Test",
+      "preview": "APPOINTING AUTHORITY LEVEL = X",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 595.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 514.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 311(1): NO SUBORDINATE DISMISSING AUTHORITY",
+      "preview": "START / CONCEPT: Article 311(1): No Subordinate Dismissing Authority",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 473.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 252.691
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 311(2): Inquiry, Charges and Reasonable Opportunity denotes the constitutional rules and institutional links organised around ALLEGED MISCONDUCT.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 127.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 60.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 767,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 311(2): Inquiry, Charges and Reasonable Opportunity.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\06_article_311_2_inquiry_charges_and_reasonable_opportu.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 251.674
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 776,
+      "markdown_body_line_end": 796,
+      "heading": "Visual 17 - Regular Disciplinary Pipeline",
+      "preview": "ALLEGED MISCONDUCT",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 802,
+      "markdown_body_line_end": 807,
+      "heading": "Visual 18 - Khem Chand (1957) Opportunity Components",
+      "preview": "Opportunity component | Present significance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Opportunity component",
+          "Present significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 545.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 435.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 830,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 311(2): INQUIRY, CHARGES AND REASONABLE OPPORTUNITY",
+      "preview": "START / CONCEPT: Article 311(2): Inquiry, Charges and Reasonable Opportunity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 394.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 163.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Three Article 311(2) Proviso Exceptions denotes the constitutional rules and institutional links organised around The inquiry requirement does not apply in exactly three constitutional situations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 860,
+      "markdown_body_line_end": 860,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: The Three Article 311(2) Proviso Exceptions.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\07_the_three_article_311_2_proviso_exceptions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 321.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 40.806
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 875,
+      "heading": "Visual 19 - Three Exceptions Compared",
+      "preview": "Exception | Trigger | Who is satisfied? | Express writing requirement? | Review focus",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 3,
+        "headers": [
+          "Exception",
+          "Trigger",
+          "Who is satisfied?",
+          "Express writing requirement?",
+          "Review focus"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 510.79
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 895,
+      "heading": "Visual 20 - Clause (2)(b) Review Logic",
+      "preview": "AUTHORITY SAYS \"NOT PRACTICABLE\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 469.59
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 328.59
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 905,
+      "markdown_body_line_end": 922,
+      "heading": "CLOSING RECALL FLOW - THE THREE ARTICLE 311(2) PROVISO EXCEPTIONS",
+      "preview": "START / CONCEPT: The Three Article 311(2) Proviso Exceptions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 305
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 933,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dismissal, Removal and Reduction in Rank denotes the constitutional rules and institutional links organised around Always check the governing service rules before asserting the exact collateral consequence of a penalty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 381.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 314.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 963,
+      "heading": "Visual 21 - Penalty Comparison",
+      "preview": "Action | Service relationship | Typical future-employment effect | Article 311",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Action",
+          "Service relationship",
+          "Typical future-employment effect",
+          "Article 311"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 580.19
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 986,
+      "heading": "CLOSING RECALL FLOW - DISMISSAL, REMOVAL AND REDUCTION IN RANK",
+      "preview": "START / CONCEPT: Dismissal, Removal and Reduction in Rank",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 538.99
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 297.99
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 997,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Punitive Action versus Termination Simpliciter denotes the constitutional rules and institutional links organised around BACKGROUND DOUBT / UNSUITABILITY.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 158.19
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 91.522
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1016,
+      "markdown_body_line_end": 1016,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Punitive Action versus Termination Simpliciter.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\08_punitive_action_versus_termination_simpliciter.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 582.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 302.074
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1034,
+      "heading": "Visual 22 - Motive versus Foundation",
+      "preview": "BACKGROUND DOUBT / UNSUITABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1045,
+      "heading": "Visual 23 - Probation and Temporary Service Test",
+      "preview": "Situation | Likely character | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Situation",
+          "Likely character",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 655.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 523.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1068,
+      "heading": "CLOSING RECALL FLOW - PUNITIVE ACTION VERSUS TERMINATION SIMPLICITER",
+      "preview": "START / CONCEPT: Punitive Action versus Termination Simpliciter",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 482.09
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 241.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1079,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Suspension, Compulsory Retirement and Sealed Cover denotes the constitutional rules and institutional links organised around Feature Public-interest premature retirement Disciplinary compulsory retirement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1114,
+      "heading": "Visual 24 - Two Compulsory Retirements",
+      "preview": "Feature | Public-interest premature retirement | Disciplinary compulsory retirement",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Public-interest premature retirement",
+          "Disciplinary compulsory retirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1133,
+      "heading": "Visual 25 - Sealed-Cover Trigger",
+      "preview": "MERE COMPLAINT / PRELIMINARY INQUIRY / FIR ALONE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 534.49
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 443.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1156,
+      "heading": "CLOSING RECALL FLOW - SUSPENSION, COMPULSORY RETIREMENT AND SEALED COVER",
+      "preview": "START / CONCEPT: Suspension, Compulsory Retirement and Sealed Cover",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 402.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 161.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1167,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Post-42nd-Amendment natural justice still requires meaningful defence before a competent disciplinary decision.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1201,
+      "heading": "Visual 26 - Natural-Justice Control Board",
+      "preview": "Stage | Core control | Common failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stage",
+          "Core control",
+          "Common failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1224,
+      "heading": "CLOSING RECALL FLOW - NATURAL JUSTICE AFTER THE 42ND AMENDMENT",
+      "preview": "START / CONCEPT: Natural Justice after the 42nd Amendment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 140
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 594.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 373.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Landmark Case-Law Spine denotes the constitutional rules and institutional links organised around Case Controlling use in an answer Do not overclaim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 252.49
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 185.822
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1254,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Landmark Case-Law Spine.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\09_landmark_case_law_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 651.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 370.874
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1265,
+      "heading": "Visual 27 - Case-to-Principle Matrix",
+      "preview": "Case | Controlling use in an answer | Do not overclaim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Case",
+          "Controlling use in an answer",
+          "Do not overclaim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 348.874
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 52.672
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1287,
+      "heading": "Visual 28 - Case-Law Chronology",
+      "preview": "Parshotam Lal Dhingra (1957) + Khem Chand (1957)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1293,
+      "markdown_body_line_end": 1310,
+      "heading": "CLOSING RECALL FLOW - LANDMARK CASE-LAW SPINE",
+      "preview": "START / CONCEPT: Landmark Case-Law Spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 292
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 344.091
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1321,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 312: Creating and Regulating All-India Services denotes the constitutional rules and institutional links organised around The Indian Foreign Service is not an All-India Service.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 204.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 137.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1340,
+      "markdown_body_line_end": 1340,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 312: Creating and Regulating All-India Services.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\10_article_312_creating_and_regulating_all_india_servic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 616.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 336.474
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1364,
+      "heading": "Visual 29 - New AIS Creation Route",
+      "preview": "NATIONAL-INTEREST NEED",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1374,
+      "markdown_body_line_end": 1380,
+      "heading": "Visual 30 - Article, Act and Rules",
+      "preview": "Layer | Function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 528.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 397.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1386,
+      "markdown_body_line_end": 1403,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 312: CREATING AND REGULATING ALL-INDIA SERVICES",
+      "preview": "START / CONCEPT: Article 312: Creating and Regulating All-India Services",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 339
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 356.49
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 105.49
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1414,
+      "markdown_body_line_end": 1414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Three Existing All-India Services denotes the constitutional rules and institutional links organised around Service Broad field Constitutional/statutory status.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1439,
+      "heading": "Visual 31 - Existing AIS Identity Card",
+      "preview": "Service | Broad field | Constitutional/statutory status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Service",
+          "Broad field",
+          "Constitutional/statutory status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 299.224
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 199.822
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1449,
+      "markdown_body_line_end": 1466,
+      "heading": "CLOSING RECALL FLOW - THE THREE EXISTING ALL-INDIA SERVICES",
+      "preview": "START / CONCEPT: The Three Existing All-India Services",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1477,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "AIS Dual Control and Federal Design denotes the constitutional rules and institutional links organised around rules / cadre architecture / deputation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1496,
+      "markdown_body_line_end": 1496,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: AIS Dual Control and Federal Design.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\11_ais_dual_control_and_federal_design.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1503,
+      "markdown_body_line_end": 1512,
+      "heading": "Visual 32 - Federal Dual-Control Triangle",
+      "preview": "UNION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 391.474
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 300.474
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1518,
+      "markdown_body_line_end": 1523,
+      "heading": "Visual 33 - AIS Strengths and Federal Risks",
+      "preview": "Claimed strength | Mechanism | Federal risk | Guardrail",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claimed strength",
+          "Mechanism",
+          "Federal risk",
+          "Guardrail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 681.39
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1546,
+      "heading": "CLOSING RECALL FLOW - AIS DUAL CONTROL AND FEDERAL DESIGN",
+      "preview": "START / CONCEPT: AIS Dual Control and Federal Design",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 640.19
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 409.19
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1557,
+      "markdown_body_line_end": 1557,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "All-India Judicial Service: Enabled, Not Established denotes the constitutional rules and institutional links organised around Article 312(1) expressly includes an All-India Judicial Service within the possible new AIS route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 255.19
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 188.522
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1598,
+      "heading": "Visual 34 - AIJS Legal Status",
+      "preview": "CONSTITUTIONALLY ENABLED?  YES",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 500.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1609,
+      "heading": "Visual 35 - AIJS Debate Matrix",
+      "preview": "Case for AIJS | Concern | Balanced design question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Case for AIJS",
+          "Concern",
+          "Balanced design question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 338.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 217.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1615,
+      "markdown_body_line_end": 1632,
+      "heading": "CLOSING RECALL FLOW - ALL-INDIA JUDICIAL SERVICE: ENABLED, NOT ESTABLISHED",
+      "preview": "START / CONCEPT: All-India Judicial Service: Enabled, Not Established",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1643,
+      "markdown_body_line_end": 1643,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 312A, 313 and 314: Colonial-Service Closure denotes the constitutional rules and institutional links organised around Article 313 continues pre-Constitution service laws, so far as consistent with the Constitution, until other prov",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1672,
+      "markdown_body_line_end": 1686,
+      "heading": "Visual 36 - Historical Closure Strip",
+      "preview": "PRE-CONSTITUTION CROWN SERVICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 506.691
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1692,
+      "markdown_body_line_end": 1709,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 312A, 313 AND 314: COLONIAL-SERVICE CLOSURE",
+      "preview": "START / CONCEPT: Articles 312A, 313 and 314: Colonial-Service Closure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 344
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 204.491
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1720,
+      "markdown_body_line_end": 1720,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rights of Civil Servants: Citizens with Service Obligations denotes the constitutional rules and institutional links organised around Right/value Service application Lawful qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1739,
+      "markdown_body_line_end": 1739,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Rights of Civil Servants: Citizens with Service Obligations.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\12_rights_of_civil_servants_citizens_with_service_oblig.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 422.824
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 142.406
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1748,
+      "markdown_body_line_end": 1754,
+      "heading": "Visual 37 - Rights and Restrictions Balance",
+      "preview": "Right/value | Service application | Lawful qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Right/value",
+          "Service application",
+          "Lawful qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 597.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1760,
+      "markdown_body_line_end": 1777,
+      "heading": "CLOSING RECALL FLOW - RIGHTS OF CIVIL SERVANTS: CITIZENS WITH SERVICE OBLIGATIONS",
+      "preview": "START / CONCEPT: Rights of Civil Servants: Citizens with Service Obligations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 275
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 556.69
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 295.69
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1788,
+      "markdown_body_line_end": 1788,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Neutrality, Political Activity, Association and Strike denotes the constitutional rules and institutional links organised around T.K.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 155.89
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 89.222
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1807,
+      "markdown_body_line_end": 1807,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Neutrality, Political Activity, Association and Strike.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\13_neutrality_political_activity_association_and_strike.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 579.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 299.074
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1816,
+      "markdown_body_line_end": 1828,
+      "heading": "Visual 38 - Neutrality Is Not Silence",
+      "preview": "NEUTRALITY REQUIRES",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1834,
+      "markdown_body_line_end": 1840,
+      "heading": "Visual 39 - Political Executive / Permanent Executive Compact",
+      "preview": "Political executive | Permanent executive",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Political executive",
+          "Permanent executive"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 494.49
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1846,
+      "markdown_body_line_end": 1863,
+      "heading": "CLOSING RECALL FLOW - NEUTRALITY, POLITICAL ACTIVITY, ASSOCIATION AND STRIKE",
+      "preview": "START / CONCEPT: Neutrality, Political Activity, Association and Strike",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 453.29
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 232.29
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1874,
+      "markdown_body_line_end": 1874,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accountability is strongest when lawful reporting and fair discipline reinforce rather than undermine candour.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 92.49
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 40.022
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1901,
+      "markdown_body_line_end": 1915,
+      "heading": "Visual 40 - Accountability Stack",
+      "preview": "SELF-CONTROL: integrity and professional ethics",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 414.891
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 273.891
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1921,
+      "markdown_body_line_end": 1938,
+      "heading": "CLOSING RECALL FLOW - INTEGRITY, ACCOUNTABILITY AND WHISTLEBLOWER SAFEGUARDS",
+      "preview": "START / CONCEPT: Integrity, Accountability and Whistleblower Safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1949,
+      "markdown_body_line_end": 1949,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CVC, CBI and Departmental Discipline operates through Departmental Was service misconduct proved under applicable standard and rules? service penalty or exoneration, connected with Vigilance Are integrity risks, complaints or sanction proce",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 360.424
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1976,
+      "markdown_body_line_end": 1980,
+      "heading": "Visual 41 - Three Accountability Tracks",
+      "preview": "Track | Core question | Typical output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Track",
+          "Core question",
+          "Typical output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 637.29
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1986,
+      "markdown_body_line_end": 2003,
+      "heading": "CLOSING RECALL FLOW - CVC, CBI AND DEPARTMENTAL DISCIPLINE",
+      "preview": "START / CONCEPT: CVC, CBI and Departmental Discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 333
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 596.09
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 365.09
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2014,
+      "markdown_body_line_end": 2014,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Administrative Tribunals and Judicial Review denotes the constitutional rules and institutional links organised around DEPARTMENTAL ORDER.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 211.09
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 144.422
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2033,
+      "markdown_body_line_end": 2033,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Administrative Tribunals and Judicial Review.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\14_administrative_tribunals_and_judicial_review.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 634.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 353.674
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2042,
+      "markdown_body_line_end": 2056,
+      "heading": "Visual 42 - Service-Dispute Route",
+      "preview": "DEPARTMENTAL ORDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2062,
+      "markdown_body_line_end": 2067,
+      "heading": "Visual 43 - Article 311 Is Not Immunity",
+      "preview": "Article 311 does | Article 311 does not",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Article 311 does",
+          "Article 311 does not"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 495.69
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2073,
+      "markdown_body_line_end": 2090,
+      "heading": "CLOSING RECALL FLOW - ADMINISTRATIVE TRIBUNALS AND JUDICIAL REVIEW",
+      "preview": "START / CONCEPT: Administrative Tribunals and Judicial Review",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 454.49
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 233.49
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2101,
+      "markdown_body_line_end": 2101,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Civil-Service Neutrality and the Transfer Problem operates through BUT CAREER CAN BE SHAPED THROUGH, connected with transfer + posting + appraisal + deputation + empanelment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2128,
+      "markdown_body_line_end": 2139,
+      "heading": "Visual 44 - Formal Security versus Practical Vulnerability",
+      "preview": "ARTICLE 311",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 362.424
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 251.424
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2145,
+      "markdown_body_line_end": 2162,
+      "heading": "CLOSING RECALL FLOW - CIVIL-SERVICE NEUTRALITY AND THE TRANSFER PROBLEM",
+      "preview": "START / CONCEPT: Civil-Service Neutrality and the Transfer Problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2173,
+      "markdown_body_line_end": 2173,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Civil-service reform must diagnose incentives before selecting institutional instruments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 373.024
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2198,
+      "markdown_body_line_end": 2204,
+      "heading": "Visual 45 - Reform-Level Matrix",
+      "preview": "Reform | Likely legal level | Main safeguard",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Reform",
+          "Likely legal level",
+          "Main safeguard"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 617.29
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2210,
+      "markdown_body_line_end": 2227,
+      "heading": "CLOSING RECALL FLOW - SECOND ARC REFORM THEMES",
+      "preview": "START / CONCEPT: Second ARC Reform Themes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 576.09
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 355.09
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2238,
+      "markdown_body_line_end": 2238,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Performance Management: Accountability without Politicised Metrics denotes the constitutional rules and institutional links organised around Dimension Example question Risk if isolated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 201.09
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 134.422
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2263,
+      "markdown_body_line_end": 2270,
+      "heading": "Visual 46 - Balanced Performance Scorecard",
+      "preview": "Dimension | Example question | Risk if isolated",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Example question",
+          "Risk if isolated"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 352.89
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2293,
+      "heading": "CLOSING RECALL FLOW - PERFORMANCE MANAGEMENT: ACCOUNTABILITY WITHOUT POLITICISED METRICS",
+      "preview": "START / CONCEPT: Performance Management: Accountability without Politicised Metrics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 298.69
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 57.69
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2304,
+      "markdown_body_line_end": 2304,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Generalist, Specialist and Lateral Entry denotes the constitutional rules and institutional links organised around CHECK RECRUITMENT RULE.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2323,
+      "markdown_body_line_end": 2323,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Generalist, Specialist and Lateral Entry.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\15_generalist_specialist_and_lateral_entry.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 335.424
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 55.006
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2334,
+      "markdown_body_line_end": 2348,
+      "heading": "Visual 47 - Lateral-Entry Legality Checklist",
+      "preview": "IDENTIFY THE POST",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 590.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 449.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2359,
+      "heading": "Visual 48 - Generalist-Specialist Balance",
+      "preview": "Generalist contribution | Specialist contribution | Hybrid answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Generalist contribution",
+          "Specialist contribution",
+          "Hybrid answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 408.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 299.29
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2365,
+      "markdown_body_line_end": 2382,
+      "heading": "CLOSING RECALL FLOW - GENERALIST, SPECIALIST AND LATERAL ENTRY",
+      "preview": "START / CONCEPT: Generalist, Specialist and Lateral Entry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2393,
+      "markdown_body_line_end": 2393,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Capacity building improves administration only when learning changes role performance and citizen outcomes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2422,
+      "markdown_body_line_end": 2436,
+      "heading": "Visual 49 - Mission Karmayogi Architecture",
+      "preview": "PM PUBLIC HUMAN RESOURCE COUNCIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 695.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 554.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2442,
+      "markdown_body_line_end": 2449,
+      "heading": "Visual 50 - Six Official Pillars",
+      "preview": "Pillar | Exam meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Pillar",
+          "Exam meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 513.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 361.29
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2455,
+      "markdown_body_line_end": 2472,
+      "heading": "CLOSING RECALL FLOW - MISSION KARMAYOGI AND CAPACITY BUILDING",
+      "preview": "START / CONCEPT: Mission Karmayogi and Capacity Building",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 320.09
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 109.09
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2483,
+      "markdown_body_line_end": 2483,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A credible reform answer pairs every promised gain with its characteristic risk and control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2504,
+      "markdown_body_line_end": 2511,
+      "heading": "Visual 51 - Reform Trade-Off Ledger",
+      "preview": "Reform | Benefit | Risk | Guardrail",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Reform",
+          "Benefit",
+          "Risk",
+          "Guardrail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 308.624
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 130.222
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2517,
+      "markdown_body_line_end": 2534,
+      "heading": "CLOSING RECALL FLOW - REFORM CONFLICTS: EVERY GAIN HAS A GUARDRAIL",
+      "preview": "START / CONCEPT: Reform Conflicts: Every Gain Has a Guardrail",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2545,
+      "markdown_body_line_end": 2545,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The claim-evidence-analysis-qualification method turns descriptive service notes into examiner-grade argument.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2564,
+      "markdown_body_line_end": 2576,
+      "heading": "Visual 52 - Four-Step Answer Spine",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2582,
+      "markdown_body_line_end": 2586,
+      "heading": "Visual 53 - Mark-Scaled Architecture",
+      "preview": "Marks | Recommended structure | Evidence density",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Recommended structure",
+          "Evidence density"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 525.69
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2592,
+      "markdown_body_line_end": 2609,
+      "heading": "CLOSING RECALL FLOW - CLAIM-EVIDENCE-ANALYSIS-QUALIFICATION METHOD",
+      "preview": "START / CONCEPT: Claim-Evidence-Analysis-Qualification Method",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 484.49
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 283.49
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2620,
+      "markdown_body_line_end": 2620,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current and Legal Control Dashboard operates through Part XIV text and 42nd/28th Amendment effects officeholder names, connected with AIS are IAS, IPS and Indian Forest Service cadre and vacancy counts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 148.49
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 81.822
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2641,
+      "markdown_body_line_end": 2648,
+      "heading": "Visual 54 - What Is Frozen and What Is Not",
+      "preview": "Safe current statement | Deliberately unfrozen",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Safe current statement",
+          "Deliberately unfrozen"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 377.29
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2654,
+      "markdown_body_line_end": 2671,
+      "heading": "CLOSING RECALL FLOW - CURRENT AND LEGAL CONTROL DASHBOARD",
+      "preview": "START / CONCEPT: Current and Legal Control Dashboard",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 336.09
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 95.09
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2682,
+      "markdown_body_line_end": 2682,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "High-Yield Prelims Trap Wall operates through Article 309 rules are mere instructions they have subordinate legislative force, connected with pleasure is personal discretion it is constitutional executive power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2703,
+      "markdown_body_line_end": 2724,
+      "heading": "Visual 55 - Twenty Trap Repairs",
+      "preview": "Trap | Repair",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 20,
+        "headers": [
+          "Trap",
+          "Repair"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 338.69
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2730,
+      "markdown_body_line_end": 2747,
+      "heading": "CLOSING RECALL FLOW - HIGH-YIELD PRELIMS TRAP WALL",
+      "preview": "START / CONCEPT: High-Yield Prelims Trap Wall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 297.49
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        69,
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2758,
+      "markdown_body_line_end": 2758,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains Thesis Bank denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2787,
+      "markdown_body_line_end": 2804,
+      "heading": "CLOSING RECALL FLOW - MAINS THESIS BANK",
+      "preview": "START / CONCEPT: Mains Thesis Bank",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2815,
+      "markdown_body_line_end": 2815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 335 reconciles representative inclusion with capable administration rather than making either absolute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2834,
+      "markdown_body_line_end": 2834,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 335: Representation and Administrative Efficiency.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets\\16_article_335_representation_and_administrative_effici.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2845,
+      "markdown_body_line_end": 2862,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 335: REPRESENTATION AND ADMINISTRATIVE EFFICIENCY",
+      "preview": "START / CONCEPT: Article 335: Representation and Administrative Efficiency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 140
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 405.674
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 184.674
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2873,
+      "markdown_body_line_end": 2873,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Employment-Status Boundary operates through Union/State civil post is there a civil post under the government? may apply, connected with All-India Service is the person a member of an AIS? applies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2892,
+      "markdown_body_line_end": 2900,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Category | Governing question | Article 311 baseline",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Category",
+          "Governing question",
+          "Article 311 baseline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 437.024
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 241.622
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2907,
+      "markdown_body_line_end": 2924,
+      "heading": "CLOSING RECALL FLOW - EMPLOYMENT-STATUS BOUNDARY",
+      "preview": "START / CONCEPT: Employment-Status Boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3523,
+      "markdown_body_line_end": 3531,
+      "heading": "Visual 56 - PYQ Ownership Audit",
+      "preview": "Year/paper | Audited demand | Proper route in this package",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Year/paper",
+          "Audited demand",
+          "Proper route in this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 128.69
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3537,
+      "markdown_body_line_end": 3537,
+      "heading": "Verified Adjacent PYQ - UPSC CSE Mains 2020, GS-II",
+      "preview": "“Institutional quality is a crucial driver of economic performance.” In this context suggest reforms in Civil Service for strengthening democracy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 109.49
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 42.822
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3581,
+      "markdown_body_line_end": 3581,
+      "heading": "Verified Adjacent PYQ - UPSC CSE Mains 2025, GS-I, Q9 (10 marks, 150 words)",
+      "preview": "“The ethos of civil service in India stands for the combination of professionalism with nationalistic consciousness.” Elucidate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 481.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 414.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3681,
+      "markdown_body_line_end": 3685,
+      "heading": "M2. Article 309 hierarchy (10 marks, 150 words)",
+      "preview": "Instrument | Authority and role | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Instrument",
+          "Authority and role",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 273.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 163.09
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4029,
+      "markdown_body_line_end": 4032,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II **Grounded in:** Indian Polity by M. Laxmikant, Ch. 66 (Part XIV) and Centre-State chapter (direct check of the local Sixth Revised Edition PDF). ✅ = from source bo",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 707.224
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4048,
+      "markdown_body_line_end": 4055,
+      "heading": "PART B - CONSTITUTIONAL PROVISIONS (Arts 308-314) ⭐⭐",
+      "preview": "Article | Provision",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Article",
+          "Provision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 517.624
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 354.622
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4081,
+      "markdown_body_line_end": 4081,
+      "heading": "➕ Citizens' Charter (high-yield gap)",
+      "preview": "✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 100.522
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        97,
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4088,
+      "markdown_body_line_end": 4092,
+      "heading": "➕ Citizens' Charter (high-yield gap)",
+      "preview": "Sevottam component | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Sevottam component",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 617.024
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 528.822
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4094,
+      "markdown_body_line_end": 4094,
+      "heading": "➕ Citizens' Charter (high-yield gap)",
+      "preview": "🔑 Trap: A Charter is an administrative accountability tool, not automatically a legally enforceable right.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 528.822
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 498.354
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4098,
+      "markdown_body_line_end": 4098,
+      "heading": "➕ e-Governance (PYQ)",
+      "preview": "✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 498.354
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 431.687
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4105,
+      "markdown_body_line_end": 4110,
+      "heading": "➕ e-Governance (PYQ)",
+      "preview": "Type | Flow | Examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Type",
+          "Flow",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 334.487
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 225.085
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4112,
+      "markdown_body_line_end": 4112,
+      "heading": "➕ e-Governance (PYQ)",
+      "preview": "🔑 Trap: e-Governance is process re-engineering + accountability; digitising a bad manual process is not enough.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 225.085
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 180.417
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4142,
+      "markdown_body_line_end": 4152,
+      "heading": "Visual 57 - One-Page Article Map",
+      "preview": "308  interpretation; printed J&K exclusion text, read with post-2019 reality",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 423.091
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 322.091
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4162,
+      "markdown_body_line_end": 4164,
+      "heading": "Visual 58 - Authority Recall",
+      "preview": "CONSTITUTION > ACT > ARTICLE 309 RULE > EXECUTIVE INSTRUCTION > PRACTICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 220.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 199.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4184,
+      "markdown_body_line_end": 4196,
+      "heading": "Visual 59 - Article 311 Rapid Decision Tree",
+      "preview": "protected civil service/post?",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 620.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4213,
+      "markdown_body_line_end": 4221,
+      "heading": "Visual 60 - Distinction Sheet",
+      "preview": "Pair | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Pair",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 277.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 82.49
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4233,
+      "markdown_body_line_end": 4241,
+      "heading": "Visual 61 - AIS Recall Card",
+      "preview": "EXISTING AIS = IAS + IPS + INDIAN FOREST SERVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 701.691
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 620.691
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4265,
+      "markdown_body_line_end": 4274,
+      "heading": "Visual 62 - Rights-to-Duties Bridge",
+      "preview": "ARTICLES 14 / 16 / 19 / 21",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 276.491
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 185.491
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4295,
+      "markdown_body_line_end": 4307,
+      "heading": "Visual 63 - Neutral-Competence Formula",
+      "preview": "CANDID ADVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 26
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 531.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4316,
+      "markdown_body_line_end": 4325,
+      "heading": "K. Reform Register",
+      "preview": "Reform | Use | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Reform",
+          "Use",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 437.491
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 243.29
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4339,
+      "markdown_body_line_end": 4359,
+      "heading": "M. Last-Page Rapid Recall",
+      "preview": "309 = LAW FIRST; RULES UNTIL LAW",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 584.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4365,
+      "markdown_body_line_end": 4387,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Canonical scope: Part XIV services, not the PSC institution",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 537.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 312.091
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4391,
+      "markdown_body_line_end": 4406,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 309 rule hierarchy and service-rule interfaces",
+      "preview": "AUTHORITY LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4410,
+      "markdown_body_line_end": 4430,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Doctrine of pleasure and the Article 311 protection trigger",
+      "preview": "ARTICLE 310",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4434,
+      "markdown_body_line_end": 4451,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Article 310(2) and Articles 312A-314 historical closure",
+      "preview": "ARTICLE 310(2)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 210.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4455,
+      "markdown_body_line_end": 4476,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Article 311(2): inquiry and three exceptions",
+      "preview": "REGULAR ARTICLE 311(2) ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 572.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4480,
+      "markdown_body_line_end": 4502,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Penalty, termination and employment-status distinctions",
+      "preview": "PENALTIES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4506,
+      "markdown_body_line_end": 4527,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Article 312 and the All-India Services federal bridge",
+      "preview": "CREATION ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 88.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4531,
+      "markdown_body_line_end": 4551,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Article 335, neutrality, anonymity and public-service ethics",
+      "preview": "ARTICLE 335",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4555,
+      "markdown_body_line_end": 4575,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Specialists, lateral entry, training and performance management",
+      "preview": "GENERALIST VALUE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 355.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4579,
+      "markdown_body_line_end": 4595,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Discipline, vigilance, criminal law and remedy tracks",
+      "preview": "CONDUCT BREACH",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 333.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 169.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4599,
+      "markdown_body_line_end": 4618,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Tribunals, transfer reform and the case-law accountability spine",
+      "preview": "CAT INTERFACE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4622,
+      "markdown_body_line_end": 4647,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC traps, supporting PYQ and qualified answer synthesis",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 24,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 314.891
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    }
+  ]
+}

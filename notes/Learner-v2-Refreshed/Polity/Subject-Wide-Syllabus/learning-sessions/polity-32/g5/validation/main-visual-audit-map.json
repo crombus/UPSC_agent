@@ -1,0 +1,2679 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\polity-32_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\polity-32_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-32",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 32 - Comptroller and Auditor General of India - Complete Topic Package",
+      "preview": "**Control date:** 5 September 2026, Asia/Kolkata **Evidence tags:** `[FACT]` directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` dated position; `[",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 635.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 39,
+      "heading": "Authoritative evidence board",
+      "preview": "Named evidence | Claim controlled",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 14,
+        "headers": [
+          "Named evidence",
+          "Claim controlled"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 425.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 58,
+      "markdown_body_line_end": 68,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 515.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 86,
+      "heading": "Visual 1 - Source and claim-control ladder",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 490.89
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 349.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 102,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 291.49
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 41.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\assets\\polity-32_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 374.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 67.356
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 147,
+      "markdown_body_line_end": 147,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An independent audit institution supplies the legislature with verified information on whether financial authority was respected and public resources were used responsibly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 182,
+      "heading": "Visual 2 - The democratic financial-accountability triangle",
+      "preview": "LEGISLATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 193,
+      "heading": "Visual 3 - Four accountability questions",
+      "preview": "Question | Audit lens | Core evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Audit lens",
+          "Core evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 473.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 197,
+      "markdown_body_line_end": 203,
+      "heading": "Visual 4 - What the CAG does and does not do",
+      "preview": "CAG does | CAG does not",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "CAG does",
+          "CAG does not"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 451.29
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 320.688
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 224,
+      "heading": "CLOSING RECALL FLOW - WHY DOES A CONSTITUTIONAL DEMOCRACY NEED PUBLIC AUDIT?",
+      "preview": "START / CONCEPT: WHY DOES A CONSTITUTIONAL DEMOCRACY NEED PUBLIC AUDIT?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 298.688
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 57.688
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 149 is an enabling constitutional gateway, not a complete checklist of every audit function.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 289,
+      "heading": "Visual 5 - Article map",
+      "preview": "Article | One-line function | Standard trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Article",
+          "One-line function",
+          "Standard trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 698.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 589.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 303,
+      "heading": "Visual 6 - Article 148 clause spine",
+      "preview": "APPOINTMENT -> OATH -> REMOVAL SAFEGUARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 567.09
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 466.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 314,
+      "heading": "Visual 7 - Constitution versus statute",
+      "preview": "Issue | Constitutional source | Statutory source",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Issue",
+          "Constitutional source",
+          "Statutory source"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 444.09
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 281.088
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 326,
+      "heading": "Visual 8 - Article 150 and accounts distinction",
+      "preview": "PRESIDENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 338,
+      "heading": "Visual 9 - Article 151 report routes",
+      "preview": "UNION AUDIT REPORT                STATE AUDIT REPORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 603.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 359,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL ARCHITECTURE: ARTICLES 148-151",
+      "preview": "START / CONCEPT: CONSTITUTIONAL ARCHITECTURE: ARTICLES 148-151",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 581.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 360.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 370,
+      "markdown_body_line_end": 370,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A “six-year term” is a maximum subject to the age ceiling, resignation, removal or other lawful demission; it is not an unconditional six-year guarantee in every case.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 234.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 168.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 407,
+      "heading": "Visual 10 - Office-entry sequence",
+      "preview": "SELECTION BY EXECUTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 22
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 547.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 446.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 417,
+      "heading": "Visual 11 - Exit routes",
+      "preview": "Exit route | Legal control | Key distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Exit route",
+          "Legal control",
+          "Key distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 424.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 293.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 432,
+      "heading": "Visual 12 - Removal safeguard chain",
+      "preview": "ALLEGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 442,
+      "heading": "Visual 13 - Independence at entry, during office and after office",
+      "preview": "Stage | Safeguard | Remaining question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Stage",
+          "Safeguard",
+          "Remaining question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 546.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 463,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT, OATH, TENURE, RESIGNATION AND REMOVAL",
+      "preview": "START / CONCEPT: APPOINTMENT, OATH, TENURE, RESIGNATION AND REMOVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 524.89
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 333.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 474,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Delay or weak follow-up is not proof that the CAG lacks constitutional independence; it shows that the accountability chain is interdependent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 194.09
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 127.422
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 518,
+      "heading": "Visual 14 - Independence shield",
+      "preview": "HARD REMOVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 25
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 431.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 310.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 522,
+      "markdown_body_line_end": 528,
+      "heading": "Visual 15 - Formal independence versus effective influence",
+      "preview": "Dimension | Formal design | Effectiveness condition",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Formal design",
+          "Effectiveness condition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 544,
+      "heading": "Visual 16 - Independence is a chain, not a switch",
+      "preview": "APPOINTMENT CREDIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 23
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 513.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 565,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENCE: DESIGN STRENGTHS AND OPERATIONAL LIMITS",
+      "preview": "START / CONCEPT: INDEPENDENCE: DESIGN STRENGTHS AND OPERATIONAL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 491.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 270.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 576,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is why the standard description “Comptroller in name only” is useful: unlike the classic British exchequer-control model, India's CAG does not routinely authorise each issue of money before it leaves the Consolidated Fund.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 116.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 50.022
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 612,
+      "heading": "Visual 17 - Ex ante versus ex post",
+      "preview": "Question | Ex-ante controller | Indian CAG's predominant role",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Ex-ante controller",
+          "Indian CAG's predominant role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 211.69
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 616,
+      "markdown_body_line_end": 624,
+      "heading": "Visual 18 - Accounts and audit are different functions",
+      "preview": "ACCOUNTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 628,
+      "markdown_body_line_end": 637,
+      "heading": "Visual 19 - 1976 departmentalisation control",
+      "preview": "BEFORE DEPARTMENTALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 593.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 646,
+      "heading": "Visual 20 - Safe answer matrix",
+      "preview": "Unsafe statement | Controlled formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Unsafe statement",
+          "Controlled formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 571.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 461.89
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 667,
+      "heading": "CLOSING RECALL FLOW - \"COMPTROLLER\" OR AUDITOR? THE AUDIT-ACCOUNT-CONTROL DISTINCTION",
+      "preview": "START / CONCEPT: “COMPTROLLER” OR AUDITOR? THE AUDIT-ACCOUNT-CONTROL DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 426.89
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 195.89
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 678,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 14(2) permits audit, with previous approval of the President/Governor/Administrator as applicable, where grants or loans are at least Rs 1 crore.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 748,
+      "heading": "Visual 21 - DPC Act functional map",
+      "preview": "Sections | Function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Sections",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 628.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 434.69
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 752,
+      "markdown_body_line_end": 764,
+      "heading": "Visual 22 - Fund coverage",
+      "preview": "CONSOLIDATED FUND",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 412.69
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 291.69
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 781,
+      "heading": "Visual 23 - Section 14 gateway",
+      "preview": "BODY / AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 785,
+      "markdown_body_line_end": 789,
+      "heading": "Visual 24 - Grant and loan distinction",
+      "preview": "Provision | Audit object | Core question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Provision",
+          "Audit object",
+          "Core question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 634.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 534.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 805,
+      "heading": "Visual 25 - Section 18 evidence route",
+      "preview": "AUDIT MANDATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 512.89
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 391.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 826,
+      "heading": "CLOSING RECALL FLOW - DPC ACT MAP: DUTIES, POWERS AND AUDIT REACH",
+      "preview": "START / CONCEPT: DPC ACT MAP: DUTIES, POWERS AND AUDIT REACH",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 369.89
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 138.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 837,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Financial audit determines whether financial information is presented according to the applicable reporting and regulatory framework and whether sufficient appropriate evidence supports an audit opinion or certification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 895,
+      "heading": "Visual 26 - Audit-type matrix",
+      "preview": "Audit | Primary object | Main question | Typical output",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Audit",
+          "Primary object",
+          "Main question",
+          "Typical output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 698.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 551.59
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 908,
+      "heading": "Visual 27 - Three E's",
+      "preview": "ECONOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 529.59
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 438.59
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 916,
+      "heading": "Visual 28 - Legality, propriety and performance",
+      "preview": "Test | Minimum demand | Illustrative failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Test",
+          "Minimum demand",
+          "Illustrative failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 416.59
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 328.388
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 920,
+      "markdown_body_line_end": 929,
+      "heading": "Visual 29 - Policy boundary",
+      "preview": "ELECTED GOVERNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 306.388
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 215.388
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 938,
+      "heading": "Visual 30 - Financial audit is not performance audit",
+      "preview": "Financial statement may be | Programme may still be",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Financial statement may be",
+          "Programme may still be"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 952,
+      "heading": "Visual 31 - Audit method selection",
+      "preview": "RISK / MATERIALITY / PUBLIC SIGNIFICANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 655.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 554.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 973,
+      "heading": "CLOSING RECALL FLOW - AUDIT TYPES: LEGAL FOUNDATION, PURPOSE AND LIMITS",
+      "preview": "START / CONCEPT: AUDIT TYPES: LEGAL FOUNDATION, PURPOSE AND LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 532.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 291.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 984,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is a layered model: the company has a statutory auditor, while CAG appointment, directions, supplementary audit, comments and test audit protect the public-shareholding interest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 166.29
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 99.622
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1025,
+      "heading": "Visual 32 - Government-company audit chain",
+      "preview": "CAG APPOINTS STATUTORY AUDITOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 416.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 315.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1029,
+      "markdown_body_line_end": 1034,
+      "heading": "Visual 33 - Department, government company and statutory corporation",
+      "preview": "Entity | Primary audit route | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Entity",
+          "Primary audit route",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1048,
+      "heading": "Visual 34 - Audit model selection",
+      "preview": "WHAT IS THE ENTITY?",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 644.69
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 543.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1069,
+      "heading": "CLOSING RECALL FLOW - GOVERNMENT COMPANIES AND STATUTORY CORPORATIONS",
+      "preview": "START / CONCEPT: GOVERNMENT COMPANIES AND STATUTORY CORPORATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 521.69
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 320.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1080,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CAG jurisdiction may follow public money or public revenue into a non-departmental entity, but its scope must remain tied to the statutory nexus that brought the entity within audit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 180.89
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 114.222
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1134,
+      "heading": "Visual 35 - Public-nexus test",
+      "preview": "PRIVATE / AUTONOMOUS ENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1143,
+      "heading": "Visual 36 - Case matrix",
+      "preview": "Case | Controlled proposition | What not to claim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Case",
+          "Controlled proposition",
+          "What not to claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 522.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1157,
+      "heading": "Visual 37 - Revenue-share audit boundary",
+      "preview": "PUBLIC RESOURCE / LICENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 500.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 399.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1178,
+      "heading": "CLOSING RECALL FLOW - PUBLIC-PRIVATE NEXUS AND CONTROLLED JUDICIAL DOCTRINE",
+      "preview": "START / CONCEPT: PUBLIC-PRIVATE NEXUS AND CONTROLLED JUDICIAL DOCTRINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 377.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 146.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1189,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A CAG report becomes democratically consequential through legislative scrutiny and executive follow-up, not through an automatic power in the auditor to punish or recover.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1242,
+      "heading": "Visual 38 - Full accountability chain",
+      "preview": "AUDIT EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1252,
+      "heading": "Visual 39 - CAG finding versus committee conclusion",
+      "preview": "Stage | Author | Character",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Author",
+          "Character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 584.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 453.69
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1261,
+      "heading": "Visual 40 - PAC and CoPU distinction",
+      "preview": "Feature | PAC | CoPU",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "PAC",
+          "CoPU"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 431.69
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 299.888
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1277,
+      "heading": "Visual 41 - Why audit impact can decay",
+      "preview": "HIGH-QUALITY REPORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1298,
+      "heading": "CLOSING RECALL FLOW - FROM AUDIT FINDING TO LEGISLATIVE ACCOUNTABILITY",
+      "preview": "START / CONCEPT: FROM AUDIT FINDING TO LEGISLATIVE ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 403.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1309,
+      "markdown_body_line_end": 1309,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Local fiscal devolution is credible only when State-specific accounts and audit arrangements produce traceable evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 263.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 196.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1343,
+      "heading": "Visual 42 - Local-body audit architecture",
+      "preview": "STATE LAW UNDER ARTICLES 243J / 243Z",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 585.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 484.891
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1353,
+      "heading": "Visual 43 - Fiscal and audit links at the third tier",
+      "preview": "Link | Constitutional/statutory actor | Function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Link",
+          "Constitutional/statutory actor",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 462.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 332.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1374,
+      "heading": "CLOSING RECALL FLOW - LOCAL BODIES, FINANCE COMMISSIONS AND PUBLIC AUDIT",
+      "preview": "START / CONCEPT: LOCAL BODIES, FINANCE COMMISSIONS AND PUBLIC AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 310.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 79.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1385,
+      "markdown_body_line_end": 1385,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The best GS-II thesis is therefore relational: Article 148 protects the auditor; Article 149 and the DPC Act define the audit; Articles 150-151 connect accounts and reports to democratic control; PAC/CoPU and executive action convert inform",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1439,
+      "heading": "Visual 44 - Reform priority matrix",
+      "preview": "Problem | Reform | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Problem",
+          "Reform",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 583.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 420.09
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1457,
+      "heading": "Visual 45 - Digital-audit control loop",
+      "preview": "DATA ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 398.09
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 257.09
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1486,
+      "heading": "CLOSING RECALL FLOW - LIMITS, REFORMS AND CURRENT DIGITAL CONTROLS",
+      "preview": "START / CONCEPT: LIMITS, REFORMS AND CURRENT DIGITAL CONTROLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 295
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2181,
+      "heading": "Visual 46 - PYQ ownership and adjacency",
+      "preview": "Year | Paper/Q | Demand | Status in this package",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper/Q",
+          "Demand",
+          "Status in this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 366.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 229.79
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2185,
+      "markdown_body_line_end": 2185,
+      "heading": "Verified PYQ 1 - UPSC GS-II 2018, Q5 - 10 marks, 150 words",
+      "preview": "**Neutral audited rendering:** Explain the method of appointment, terms of office and range of powers of the Comptroller and Auditor General of India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 204.79
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 160.122
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2233,
+      "markdown_body_line_end": 2233,
+      "heading": "Verified PYQ 2 - UPSC GS-II 2024, Q4 - 10 marks, 150 words",
+      "preview": "“The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.” Comment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 556.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 511.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2283,
+      "markdown_body_line_end": 2283,
+      "heading": "Verified Adjacent PYQ 3 - UPSC GS-II 2018, Q4 - 10 marks, 150 words",
+      "preview": "**Neutral audited rendering:** Discuss the usefulness of parliamentary committees, with particular reference to the Estimates Committee.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 222.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 177.424
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2327,
+      "heading": "Verified Adjacent PYQ 4 - UPSC GS-II 2021, Q4 - 10 marks, 150 words",
+      "preview": "**Neutral audited rendering:** To what extent is Parliament able to ensure the accountability of the executive in India?",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 540.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2369,
+      "markdown_body_line_end": 2369,
+      "heading": "Verified Adjacent PYQ 5 - UPSC GS-II 2023, Q16 - 15 marks, 250 words",
+      "preview": "**Neutral audited rendering:** Explain the structure of the parliamentary committee system and the role of financial committees.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 348.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 304.024
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2812,
+      "markdown_body_line_end": 2817,
+      "heading": "Visual 47 - Four-Article rapid card",
+      "preview": "Article | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Article",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 534.89
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2834,
+      "markdown_body_line_end": 2842,
+      "heading": "Visual 48 - Independence mnemonic",
+      "preview": "WARRANT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 25
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 284.49
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 203.49
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2856,
+      "markdown_body_line_end": 2861,
+      "heading": "Visual 49 - The central distinction",
+      "preview": "Pair | Correct answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Pair",
+          "Correct answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 675.89
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2865,
+      "markdown_body_line_end": 2879,
+      "heading": "DPC Act section bank",
+      "preview": "Section | High-yield rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Section",
+          "High-yield rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 650.89
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 350.688
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2892,
+      "markdown_body_line_end": 2898,
+      "heading": "Visual 50 - Jurisdiction checklist",
+      "preview": "1. WHAT IS THE ENTITY?",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 183.288
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 122.288
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2902,
+      "markdown_body_line_end": 2909,
+      "heading": "Audit types and boundaries",
+      "preview": "Audit type | Exam definition | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Audit type",
+          "Exam definition",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 611.09
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2926,
+      "markdown_body_line_end": 2933,
+      "heading": "Visual 51 - Entity-route recall",
+      "preview": "Entity | Route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Entity",
+          "Route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 406.29
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 254.488
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2975,
+      "markdown_body_line_end": 2992,
+      "heading": "Visual 52 - Final answer spine",
+      "preview": "THESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 306.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 135.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3027,
+      "markdown_body_line_end": 3042,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Democratic audit purpose and accountability chain",
+      "preview": "LEGISLATURE AUTHORISES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3046,
+      "markdown_body_line_end": 3053,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Articles 148-151 constitutional spine",
+      "preview": "ARTICLE 148 -> office, oath, removal safeguards, IAAD and charged expenses",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3057,
+      "markdown_body_line_end": 3069,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Appointment tenure removal and independence",
+      "preview": "APPOINTMENT -> President, warrant under hand and seal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 394.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3073,
+      "markdown_body_line_end": 3081,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Audit accounts and the 1976 boundary",
+      "preview": "ACCOUNTS create and compile the financial record",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 372.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 289.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3085,
+      "markdown_body_line_end": 3093,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Public funds receipts grants and access",
+      "preview": "SECTION 13 -> Consolidated Fund expenditure and fund transactions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3097,
+      "markdown_body_line_end": 3107,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Financial compliance propriety and performance audit",
+      "preview": "FINANCIAL -> is financial information fairly presented?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3120,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Government companies and statutory corporations",
+      "preview": "GOVERNMENT COMPANY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3124,
+      "markdown_body_line_end": 3131,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Private entities PPPs and revenue nexus",
+      "preview": "PRIVATE STATUS DOES NOT BAR OR CREATE AUDIT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 371.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3135,
+      "markdown_body_line_end": 3143,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Local bodies and federal audit variation",
+      "preview": "ARTICLES 243J / 243Z -> State legislatures provide local-account audit arrangements",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 349.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 266.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3155,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Reports PAC CoPU and legislative follow-up",
+      "preview": "UNION: CAG -> President -> both Houses",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3159,
+      "markdown_body_line_end": 3167,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Judicial controls and legal limits",
+      "preview": "ARVIND GUPTA (2012) -> performance audit and the three Es supported",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3171,
+      "markdown_body_line_end": 3182,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Comparison reform PYQ routes and answer spine",
+      "preview": "CAG -> constitutional audit | CGA -> Union executive accounting",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    }
+  ]
+}

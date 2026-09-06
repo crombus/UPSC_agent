@@ -276,3 +276,41 @@ Geography and close with state-specific care, health, skills and gender-policy n
 
 > **Routing correction:** Core routes supersede the older `advanced/06` pointers; Geography
 > retains the DTM/model owner, not this topic’s social-demography owner.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** population size, growth, fertility,
+  mortality, age structure, sex composition, density, distribution and migration
+  are separate demographic concepts. The demographic transition, dividend,
+  ageing, demographic winter and population education are conditional processes,
+  not interchangeable labels.
+- **Indispensable sociology:** fertility is mediated by women's education and
+  agency, marriage timing, desired family size, son preference, child-survival
+  expectations, contraceptive access, care arrangements, urban costs and labour
+  markets. Replacement-level fertility is not zero growth because population
+  momentum depends on the inherited age structure.
+- **Regional and life-course control:** compare ageing Kerala/Tamil Nadu-type
+  settings, younger EAG-state populations, migrant destinations and ageing
+  sending households without treating any state average as an individual cause.
+  Ageing is both a longevity achievement and a care, work and social-security
+  challenge.
+- **Policy boundary:** the National Population Policy, 2000 is rights-based and
+  addresses unmet need, reproductive health and voluntary informed choice; it is
+  not a coercive one-child or two-child mandate. Detailed health programmes and
+  old-age schemes remain with Social Justice.
+- **Data/source control:** Census 2011 is the latest completed full-enumeration
+  stock as of 5 September 2026. NFHS-6 (2023-24), released 29 May 2026, and
+  NFHS-5 (2019-21) are sample surveys; SRS is a vital-rates system. Their
+  reference periods, coverage, provisional/final status and uncertainty must be
+  stated, and none alone proves causation or a current state population count.
+- **Cross-owner boundary:** Geography owns the full demographic-transition model,
+  migration theory and population geography. This owner explains social
+  determinants and consequences; Topic 07 owns women, Topic 10 urbanisation and
+  Social Justice owns detailed schemes and legal administration.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were tested for concept confusion, momentum, sub-national
+  divergence, gender agency, ageing, migration, policy coercion and data limits.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover 2019 women's
+  empowerment and population growth, 2021 population education and the 2024
+  demographic-winter demand. Cross-owner routing is disclosed and no unavailable
+  2026 GS-I demand is invented.

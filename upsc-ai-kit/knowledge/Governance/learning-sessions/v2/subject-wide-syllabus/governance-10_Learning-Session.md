@@ -1411,6 +1411,30 @@ GS-II answer.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Administrative reform changes structures, processes, personnel, ethics, financial management, citizen interfaces and accountability; the Second Administrative Reforms Commission's reports are recommendations whose implementation varies by government, jurisdiction and time.
+- **Indispensable distinction and prerequisite taxonomy:** Commission recommendation is not law, acceptance in principle is not operationalisation, executive instruction is not statute, and structural merger is not process reform; First ARC, Second ARC, Law Commission and Finance Commission have distinct mandates.
+- **Mechanism, implementation and evidence control:** Cite the relevant Second ARC report and recommendation before analysing implementation; use e-office, citizen charters, ethics, crisis management and local governance examples while identifying the implementing authority, legal vehicle, capacity and outcome evidence.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: DARPG continues to host the Second ARC's fifteen reports and related government decisions. Every recommendation must be classified separately as accepted, modified, rejected, implemented or pending. Sources: https://darpg.gov.in/en/arc-reports; https://darpg.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One applied objective demand is routed to this topic across the audited ledgers and no direct Mains demand is routed here, which is stated openly rather than disguised. The audited 2018-2023 Prelims ledger routes the 2021 objective demand on the Administrative Reforms Commission and the creation of a personnel department to this Basic owner; the official 2018-2023 Preliminary Examination key is not held locally, so no option, answer letter or distractor is recorded or inferred for it, and no year of departmental creation and no recommendation number is asserted, because no official source for that step is held locally. The audited Mains ledgers route the commission-grounded Mains demands to their destination owners rather than to this file, since local-body functionality and grassroots decentralisation are routed to the local-governance owner, the Citizens' Charter and public-perception demands are routed to the citizen-centric-administration owner, the civil-service reform and ethos demands are routed to the civil-services owner, and the competition-regulator demand is routed to the regulatory-governance owner, so this owner supplies the routing, status and political-economy discipline that each of those answers uses rather than claiming their ownership. No official answer key or marking scheme is held locally for any routed demand, so the model solution below is an authored answer route rather than an official key.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Administrative reform as a routing discipline rather than a quotation bank?

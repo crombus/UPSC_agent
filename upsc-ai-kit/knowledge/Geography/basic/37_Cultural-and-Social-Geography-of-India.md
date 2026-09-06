@@ -332,3 +332,48 @@ displays the same sequence away from the hills, and each belt has a different ag
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** language, religion, caste, tribe, ethnicity, gender,
+  livelihood, migration, cultural landscape, place identity, hearth,
+  diffusion, route, frontier, sacred landscape, vernacular region, cultural
+  region and social-spatial inequality across India.
+- **Region/control principle:** formal, functional and vernacular regions
+  are analytical constructions with cores, transition zones, overlaps and
+  changing boundaries. A cultural region is not a natural container, a
+  homogeneous population or an administrative state.
+- **Classification control:** language family differs from mother tongue,
+  script, Eighth Schedule inclusion and official-language status. Religion
+  tables, Scheduled Caste and Scheduled Tribe constitutional categories,
+  tribe, PVTG, indigenous identity, caste group and ethnic community are not
+  interchangeable classifications.
+- **Social-spatial method:** caste and gender are analysed through access to
+  land, work, education, mobility, safety, services, political voice and
+  residential or occupational clustering. Spatial association never proves
+  innate group character, and national/state averages never erase class,
+  rural-urban, age, disability, regional or intra-group variation.
+- **No-stereotyping control:** no language, religion, caste, tribe, gender
+  or region is assigned a fixed temperament, occupation, capacity or
+  political behaviour. Historical institutions, ecology, markets, state
+  policy, migration and unequal power explain patterns; identities remain
+  dynamic, internally diverse, overlapping and self-defined.
+- **Map completeness:** Indo-Aryan, Dravidian, Austroasiatic and
+  Tibeto-Burman language zones; linguistic transition belts; sacred and
+  pilgrimage networks; the central tribal belt and Northeast; Himalayan,
+  pastoral, coastal and island livelihoods; borderlands, migration
+  corridors and metropolitan mosaics are named without converting broad
+  zones into exclusive or deterministic boundaries.
+- **Date/data control:** Census 2011 remains the latest completed all-India
+  baseline for language, religion and SC/ST distributions at this cutoff.
+  C-16, C-01 and Primary Census Abstract tables have distinct categories and
+  levels. PLFS is a sample labour survey, not a census. Census 2027 is
+  scheduled and includes caste enumeration, but no 2027 language, religion,
+  caste, tribe or gender-distribution result yet exists.
+- **Ownership and PYQ control:** Indian Society owns social institutions,
+  discrimination and reform in full; Social Justice owns entitlements and
+  welfare design; Polity owns constitutional safeguards. Geography owns
+  spatial distribution, region formation, diffusion, segregation,
+  accessibility and place-based inequality. Direct ownership includes the
+  2019 cultural-pockets demand; 2023 Purvaiya is cross-owned with monsoon
+  geography, and no social datum or unavailable key is invented.

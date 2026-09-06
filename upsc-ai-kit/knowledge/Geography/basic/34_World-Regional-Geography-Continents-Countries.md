@@ -328,3 +328,34 @@ Applying the same seven steps as §12.6:
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** every inhabited continent and major world region through
+  relative location, plate-relief spine, drainage, climate, currents,
+  biomes, resources, population/economic cores and strategic interfaces;
+  representative countries are placed inside these systems.
+- **Regional-method control:** a continent, UN statistical region, cultural
+  region, economic bloc, state and disputed territory answer different
+  questions. Synthesis runs from physical frame to human pattern and
+  interregional connection, not disconnected country lists.
+- **Terminology control:** Europe is not the EU, South America not Latin
+  America, West Asia not automatically the same extent as the Middle East,
+  Sahara not Sahel, and mainland not maritime Southeast Asia.
+- **Map completeness:** Andes-Amazon-Pampas; Rockies-Great Lakes-Mississippi;
+  Alps-North European Plain; Atlas-Sahara-Sahel-Congo-Rift; West Siberian
+  Plain-Central Asian basins-monsoon Asia; Australian interior-eastern rim;
+  major islands, peninsulas, seas, straits, canals and landlocked corridors
+  are covered through relational maps.
+- **Cross-scale control:** relief, climate and resources explain but do not
+  determine population, economy or power. Country averages cannot be
+  projected onto every subregion.
+- **Date/status control:** UN M49 names/codes are statistical and carry a
+  no-position boundary disclaimer; UN membership is a separate status;
+  World Bank income groups are annual Atlas-method classifications. Country
+  names, memberships, classifications, population estimates and disputed
+  status require edition/extraction dates.
+- **Boundary and PYQ control:** International Relations owns diplomatic
+  disputes and current alignments; Economy owns detailed indicators.
+  Geography owns regional synthesis and map relationships. Statistical
+  designations are not converted into recognition claims.

@@ -1,0 +1,4659 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\polity-40_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\polity-40_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-40",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 9,
+      "heading": "Official Language - Complete Uncompressed Learning Session",
+      "preview": "**Tag key:** `[FACT]` = directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 698.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 625.624
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 56,
+      "heading": "Visual 01 - Learning Roadmap",
+      "preview": "CONSTITUENT-ASSEMBLY COMPROMISE",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 79,
+      "heading": "Visual 02 - Source-Control Pyramid",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 442.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 271.091
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 85,
+      "markdown_body_line_end": 94,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 123,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\polity-40_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 159.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Topic-specific visual map: The Foundational Distinction: Official, Not National.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\01_the_foundational_distinction_official_not_national.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 329.556
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 49.139
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 151,
+      "heading": "Visual 03 - Identity Card of the Language Settlement",
+      "preview": "Question | Controlled answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Question",
+          "Controlled answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 442.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 165,
+      "heading": "Visual 04 - Six Language Categories",
+      "preview": "OFFICIAL LANGUAGE -> authorised governmental use",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 400.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 319.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 179,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constituent-Assembly Compromise and Political Evolution denotes the constitutional rules and institutional links organised around “Munshi-Ayyangar formula” is a historical description, not terminology found in Part XVII.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 146.69
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 80.022
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 198,
+      "markdown_body_line_end": 198,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Constituent-Assembly Compromise and Political Evolution.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\02_constituent_assembly_compromise_and_political_evolut.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 551.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 270.674
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 215,
+      "heading": "Visual 05 - Constituent-Assembly Bargain",
+      "preview": "CLAIM A: rapid replacement of English",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 231,
+      "heading": "Visual 06 - Constitutional-Political Timeline",
+      "preview": "Date/year | Development | Legal significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Date/year",
+          "Development",
+          "Legal significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 382.49
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 237,
+      "markdown_body_line_end": 252,
+      "heading": "Visual 07 - Why 1965 Was Not a Legal Switch-Off",
+      "preview": "ARTICLE 343(2)",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 341.29
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 190.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 279,
+      "heading": "CLOSING RECALL FLOW - CONSTITUENT-ASSEMBLY COMPROMISE AND POLITICAL EVOLUTION",
+      "preview": "START / CONCEPT: Constituent-Assembly Compromise and Political Evolution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 290,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part XVII is an allocation map, not a declaration of one language for every public function.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 309,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Exact Map of Part XVII.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\03_exact_map_of_part_xvii.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 319,
+      "heading": "Visual 08 - Part XVII Article Map",
+      "preview": "Chapter | Subject | Articles",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Chapter",
+          "Subject",
+          "Articles"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 467.474
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 358.072
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 338,
+      "heading": "Visual 09 - Part XVII Functional Flow",
+      "preview": "WHO GOVERNS?",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 316.872
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 185.872
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 361,
+      "heading": "CLOSING RECALL FLOW - EXACT MAP OF PART XVII",
+      "preview": "START / CONCEPT: Exact Map of Part XVII",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 372,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "1965 ended a transition, not English use.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 394.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 391,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 343: Union Language and the Transition.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\04_article_343_union_language_and_the_transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 404,
+      "heading": "Visual 10 - Article 343 Clause Anatomy",
+      "preview": "Clause | Rule | Temporal character",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Clause",
+          "Rule",
+          "Temporal character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 386.474
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 275.872
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 420,
+      "heading": "Visual 11 - Presidential Power: Narrow Temporal Box",
+      "preview": "1950 ------------------------------ 1965",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 432,
+      "heading": "Visual 12 - Constitutional Myth vs Legal Route",
+      "preview": "Myth | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Myth",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 645.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 514.49
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 455,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 343: UNION LANGUAGE AND THE TRANSITION",
+      "preview": "START / CONCEPT: Article 343: Union Language and the Transition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 473.29
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 282.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 466,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 344 balances progressive Hindi use with non-Hindi interests.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 142.49
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 90.022
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 485,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 344: Commission and Constitutional Parliamentary Committee.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\05_article_344_commission_and_constitutional_parliament.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 565.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 284.874
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 502,
+      "heading": "Visual 13 - Article 344 Historical Clock",
+      "preview": "26 Jan 1950",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 514,
+      "heading": "Visual 14 - Commission Recommendation Matrix",
+      "preview": "Recommendation field | Built-in qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Recommendation field",
+          "Built-in qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 534.49
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 522,
+      "markdown_body_line_end": 539,
+      "heading": "Visual 15 - Article 344 Report Route",
+      "preview": "PRESIDENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 431.49
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 260.49
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 545,
+      "markdown_body_line_end": 562,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 344: COMMISSION AND CONSTITUTIONAL PARLIAMENTARY COMMITTEE",
+      "preview": "START / CONCEPT: Article 344: Commission and Constitutional Parliamentary Committee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 583.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 573,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two Committees That Must Not Be Collapsed operates through Source Constitution Official Languages Act, 1963, connected with Trigger Article 344 Commission recommendations Ten years after section 3 commencement + parliamentary resolution pro",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 367.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Two Committees That Must Not Be Collapsed.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\06_two_committees_that_must_not_be_collapsed.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 610,
+      "heading": "Visual 16 - Constitutional vs Statutory Committee",
+      "preview": "Test | Article 344 committee | Section 4 committee",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Test",
+          "Article 344 committee",
+          "Section 4 committee"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 324.674
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 139.272
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 616,
+      "markdown_body_line_end": 625,
+      "heading": "Visual 17 - Committee Recommendation Control",
+      "preview": "REPORT / RECOMMENDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 648,
+      "heading": "CLOSING RECALL FLOW - TWO COMMITTEES THAT MUST NOT BE COLLAPSED",
+      "preview": "START / CONCEPT: Two Committees That Must Not Be Collapsed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 655.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 414.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 659,
+      "markdown_body_line_end": 659,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 345-347: State and Regional Languages denotes the constitutional rules and institutional links organised around one language in use in State.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 274.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 207.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 678,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Articles 345-347: State and Regional Languages.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\07_articles_345_347_state_and_regional_languages.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 698.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 418.474
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 696,
+      "heading": "Visual 18 - Article 345 Choice Tree",
+      "preview": "STATE LEGISLATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 315.474
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 204.474
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 702,
+      "markdown_body_line_end": 708,
+      "heading": "Visual 19 - Scheduled Status Is Not a Gate",
+      "preview": "Proposition | Verdict",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Proposition",
+          "Verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 729,
+      "heading": "Visual 20 - Intergovernmental Communication Layers",
+      "preview": "ARTICLE 346 BASELINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 520.29
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 409.29
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 750,
+      "heading": "Visual 21 - Article 347 Trigger Test",
+      "preview": "DEMAND BY LANGUAGE-SPEAKING SECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 760,
+      "heading": "Visual 22 - Articles 345-347 in One Matrix",
+      "preview": "Article | Principal actor | Core subject | Minority/federal control",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Article",
+          "Principal actor",
+          "Core subject",
+          "Minority/federal control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 549.69
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 783,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 345-347: STATE AND REGIONAL LANGUAGES",
+      "preview": "START / CONCEPT: Articles 345-347: State and Regional Languages",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 508.49
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 297.49
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 794,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Court-language access must preserve authoritative uniformity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 157.69
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 105.222
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 813,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 348: Supreme Court, High Courts and Authoritative Legal Texts.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\08_article_348_supreme_court_high_courts_and_authoritat.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 596.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 316.274
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 820,
+      "markdown_body_line_end": 831,
+      "heading": "Visual 23 - Article 348 Scope",
+      "preview": "ARTICLE 348(1)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 854,
+      "heading": "Visual 24 - High Court Proceedings Gate",
+      "preview": "GOVERNOR PROPOSES LANGUAGE AUTHORISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 554.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 423.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 868,
+      "heading": "Visual 25 - Proceedings vs Judgments",
+      "preview": "Question | Article 348(2) | Official Languages Act section 7",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Article 348(2)",
+          "Official Languages Act section 7"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 320.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 189.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 887,
+      "heading": "Visual 26 - Legal Hierarchy for a Non-English High Court Judgment",
+      "preview": "ARTICLE 348(1): English baseline",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 909,
+      "heading": "Visual 27 - Authoritative-Text Triangle",
+      "preview": "ARTICLE 348",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 519.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 398.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 931,
+      "heading": "Visual 28 - Translation-Risk Chain",
+      "preview": "ORIGINAL LEGAL TEXT",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 357.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 196.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 954,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 348: SUPREME COURT, HIGH COURTS AND AUTHORITATIVE LEGAL TEXTS",
+      "preview": "START / CONCEPT: Article 348: Supreme Court, High Courts and Authoritative Legal Texts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 593.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 965,
+      "markdown_body_line_end": 965,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 349: A Historically Bounded Safeguard denotes the constitutional rules and institutional links organised around 1950 ------------------------------ 1965.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 467.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 401.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 999,
+      "heading": "Visual 29 - Article 349 Time Box",
+      "preview": "1950 ------------------------------ 1965",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1022,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 349: A HISTORICALLY BOUNDED SAFEGUARD",
+      "preview": "START / CONCEPT: Article 349: A Historically Bounded Safeguard",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 655.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 424.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1033,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards denotes the constitutional rules and institutional links organised around PERSON WITH GRIEVANCE.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 298.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 231.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1052,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\09_articles_350_350a_and_350b_access_and_linguistic_min.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 727.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 446.874
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1071,
+      "heading": "Visual 30 - Article 350 Access Route",
+      "preview": "PERSON WITH GRIEVANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 358.074
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 237.074
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1088,
+      "heading": "Visual 31 - Article 350A Duty Anatomy",
+      "preview": "Element | Constitutional text",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Element",
+          "Constitutional text"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1105,
+      "heading": "Visual 32 - Linguistic-Minority Safeguard Ecosystem",
+      "preview": "ARTICLE 29(1) -> conserve distinct language/script/culture",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 513.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 442.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1127,
+      "heading": "Visual 33 - Article 350B Accountability Route",
+      "preview": "PRESIDENT APPOINTS SPECIAL OFFICER",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1138,
+      "heading": "Visual 34 - Minority Is Contextual",
+      "preview": "Level | Practical comparison",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Level",
+          "Practical comparison"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 515.69
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1144,
+      "markdown_body_line_end": 1161,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 350, 350A AND 350B: ACCESS AND LINGUISTIC-MINORITY SAFEGUARDS",
+      "preview": "START / CONCEPT: Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 461.49
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 260.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1172,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 351: Development of Hindi Within Composite Culture denotes the constitutional rules and institutional links organised around medium for India's composite culture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 120.69
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 54.022
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1199,
+      "markdown_body_line_end": 1211,
+      "heading": "Visual 35 - Article 351 Enrichment Tree",
+      "preview": "DEVELOP HINDI",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 414.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 293.891
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1217,
+      "markdown_body_line_end": 1223,
+      "heading": "Visual 36 - Promotion and Pluralism Balance",
+      "preview": "Constitutional objective | Required qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Constitutional objective",
+          "Required qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 351: DEVELOPMENT OF HINDI WITHIN COMPOSITE CULTURE",
+      "preview": "START / CONCEPT: Article 351: Development of Hindi Within Composite Culture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 615.49
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 384.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Official Languages Act, 1963: Operative Statutory Architecture denotes the constitutional rules and institutional links organised around Section Core subject.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 230.49
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 163.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1276,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Official Languages Act, 1963: Operative Statutory Architecture.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\10_official_languages_act_1963_operative_statutory_arch.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 651.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 370.874
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1289,
+      "heading": "Visual 37 - Act Section Map",
+      "preview": "Section | Core subject",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Section",
+          "Core subject"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 301.274
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 128.272
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1299,
+      "markdown_body_line_end": 1304,
+      "heading": "Visual 38 - Section 3(1) Communication Matrix",
+      "preview": "Sender/receiver | Statutory control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Sender/receiver",
+          "Statutory control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 638.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1316,
+      "markdown_body_line_end": 1321,
+      "heading": "Visual 39 - Section 3 Internal Safeguards",
+      "preview": "3(2) -> translation during staff transition",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 482.89
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 431.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1334,
+      "markdown_body_line_end": 1346,
+      "heading": "Visual 40 - Section 3(5) Double Lock",
+      "preview": "LOCK 1",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1357,
+      "heading": "Visual 41 - Statute, Not Convention",
+      "preview": "Incorrect explanation | Correct explanation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Incorrect explanation",
+          "Correct explanation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 515.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1363,
+      "markdown_body_line_end": 1380,
+      "heading": "CLOSING RECALL FLOW - OFFICIAL LANGUAGES ACT, 1963: OPERATIVE STATUTORY ARCHITECTURE",
+      "preview": "START / CONCEPT: Official Languages Act, 1963: Operative Statutory Architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 474.49
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 233.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1391,
+      "markdown_body_line_end": 1391,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sections 4-7 distinguish the statutory committee from authorised-text and High Court judgment routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 93.69
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 41.222
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1422,
+      "markdown_body_line_end": 1427,
+      "heading": "Visual 42A - Four Authoritative-Text Routes",
+      "preview": "Route | Language/output | Authority safeguard",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Route",
+          "Language/output",
+          "Authority safeguard"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1445,
+      "heading": "Visual 42 - Sections 5-7 Translation Ladder",
+      "preview": "SECTION 5",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 636.69
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 515.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1451,
+      "markdown_body_line_end": 1457,
+      "heading": "Visual 43 - Authority Checklist for a Translation",
+      "preview": "Check | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Check",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 474.49
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 343.888
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1480,
+      "heading": "CLOSING RECALL FLOW - SECTIONS 4-7: COMMITTEE AND AUTHORISED TEXTS",
+      "preview": "START / CONCEPT: Sections 4-7: Committee and Authorised Texts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 302.688
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 101.688
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1491,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Administrative routing is narrower than constitutional language status.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1517,
+      "markdown_body_line_end": 1531,
+      "heading": "Visual 44 - Regions A/B/C Concept Map",
+      "preview": "REGION A",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1556,
+      "heading": "Visual 45 - Administrative Implementation Flow",
+      "preview": "IDENTIFY SENDER AND RECEIVER",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 524.091
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 373.091
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1562,
+      "markdown_body_line_end": 1568,
+      "heading": "Visual 46 - Rules Are Not Constitutional Status",
+      "preview": "Rules do | Rules do not",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Rules do",
+          "Rules do not"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 331.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 201.29
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1576,
+      "markdown_body_line_end": 1593,
+      "heading": "CLOSING RECALL FLOW - OFFICIAL LANGUAGES RULES, 1976: REGIONS AND ADMINISTRATIVE USE",
+      "preview": "START / CONCEPT: Official Languages Rules, 1976: Regions and Administrative Use",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1604,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eighth Schedule: Purpose, Exact List and Evolution denotes the constitutional rules and institutional links organised around representation in Official Language Commission.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 404.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1623,
+      "markdown_body_line_end": 1623,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Eighth Schedule: Purpose, Exact List and Evolution.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\11_eighth_schedule_purpose_exact_list_and_evolution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 155.224
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1630,
+      "markdown_body_line_end": 1645,
+      "heading": "Visual 47 - Eighth-Schedule Purpose",
+      "preview": "EIGHTH SCHEDULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 434.074
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 283.074
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1660,
+      "heading": "Visual 48 - Exact Eighth-Schedule List",
+      "preview": "1-6 | 7-12 | 13-18 | 19-22",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "1-6",
+          "7-12",
+          "13-18",
+          "19-22"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 640.39
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1673,
+      "markdown_body_line_end": 1685,
+      "heading": "Visual 49 - Eighth-Schedule Evolution Timeline",
+      "preview": "1950: 14",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 496.99
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 375.99
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1691,
+      "markdown_body_line_end": 1696,
+      "heading": "Visual 50 - Amendment Audit Matrix",
+      "preview": "Amendment | Change | Count effect | Commencement",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Amendment",
+          "Change",
+          "Count effect",
+          "Commencement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 334.79
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 228.888
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1706,
+      "markdown_body_line_end": 1723,
+      "heading": "Visual 51 - Addition Route",
+      "preview": "PUBLIC / STATE / POLITICAL DEMAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1729,
+      "markdown_body_line_end": 1746,
+      "heading": "CLOSING RECALL FLOW - EIGHTH SCHEDULE: PURPOSE, EXACT LIST AND EVOLUTION",
+      "preview": "START / CONCEPT: Eighth Schedule: Purpose, Exact List and Evolution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 575.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 344.091
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1757,
+      "markdown_body_line_end": 1757,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A shared language name does not create shared legal status.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 223.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 170.824
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1776,
+      "markdown_body_line_end": 1776,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Distinctions UPSC Commonly Compresses.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\12_distinctions_upsc_commonly_compresses.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 608.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 328.274
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1779,
+      "markdown_body_line_end": 1788,
+      "heading": "Visual 52 - Master Distinction Matrix",
+      "preview": "Category | Legal/policy source | What it means | What it does not mean",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Category",
+          "Legal/policy source",
+          "What it means",
+          "What it does not mean"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 306.274
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 97.372
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1798,
+      "markdown_body_line_end": 1804,
+      "heading": "Visual 53 - Scheduled vs Classical",
+      "preview": "Test | Scheduled language | Classical language",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Scheduled language",
+          "Classical language"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 742.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 612.29
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1810,
+      "markdown_body_line_end": 1821,
+      "heading": "Visual 54 - Court Language vs State Language",
+      "preview": "STATE LAW MAY ADOPT LANGUAGE X FOR ADMINISTRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 571.09
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 460.09
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1827,
+      "markdown_body_line_end": 1844,
+      "heading": "CLOSING RECALL FLOW - DISTINCTIONS UPSC COMMONLY COMPRESSES",
+      "preview": "START / CONCEPT: Distinctions UPSC Commonly Compresses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 418.89
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 227.89
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1855,
+      "markdown_body_line_end": 1855,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Three-Language Formula: Keep Education Policy Separate denotes the constitutional rules and institutional links organised around Official-language framework Three-language formula.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1880,
+      "markdown_body_line_end": 1886,
+      "heading": "Visual 55 - Two Frameworks, Different Questions",
+      "preview": "Official-language framework | Three-language formula",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Official-language framework",
+          "Three-language formula"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 367.424
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 236.822
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1894,
+      "markdown_body_line_end": 1911,
+      "heading": "CLOSING RECALL FLOW - THREE-LANGUAGE FORMULA: KEEP EDUCATION POLICY SEPARATE",
+      "preview": "START / CONCEPT: Three-Language Formula: Keep Education Policy Separate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1922,
+      "markdown_body_line_end": 1922,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Language federalism and inclusion require consent safeguards rather than coercive language imposition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 354.024
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1940,
+      "markdown_body_line_end": 1940,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Federalism, Inclusion and Anti-Imposition Debate.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\13_federalism_inclusion_and_anti_imposition_debate.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1947,
+      "markdown_body_line_end": 1958,
+      "heading": "Visual 56 - Federal Accommodation Pentagon",
+      "preview": "STATE CHOICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 405.674
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 294.674
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1964,
+      "markdown_body_line_end": 1970,
+      "heading": "Visual 57 - Legitimate Goals and Constitutional Risks",
+      "preview": "Goal | Legitimate mechanism | Risk if overstated",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Goal",
+          "Legitimate mechanism",
+          "Risk if overstated"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1976,
+      "markdown_body_line_end": 1990,
+      "heading": "Visual 58 - Claim-Evidence-Qualification Example",
+      "preview": "CLAIM:",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 615.49
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 474.49
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1996,
+      "markdown_body_line_end": 2013,
+      "heading": "CLOSING RECALL FLOW - FEDERALISM, INCLUSION AND ANTI-IMPOSITION DEBATE",
+      "preview": "START / CONCEPT: Federalism, Inclusion and Anti-Imposition Debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 433.29
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 212.29
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2024,
+      "markdown_body_line_end": 2024,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Language Access, Courts and Translation Technology denotes the constitutional rules and institutional links organised around MULTILINGUAL ACCESS.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2043,
+      "markdown_body_line_end": 2043,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Language Access, Courts and Translation Technology.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\14_language_access_courts_and_translation_technology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 493.824
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 213.406
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2050,
+      "markdown_body_line_end": 2064,
+      "heading": "Visual 59 - Access-Uniformity Balance",
+      "preview": "MULTILINGUAL ACCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2070,
+      "markdown_body_line_end": 2078,
+      "heading": "Visual 60 - Human-in-the-Loop Legal Translation",
+      "preview": "SOURCE TEXT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 524.091
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2086,
+      "markdown_body_line_end": 2103,
+      "heading": "CLOSING RECALL FLOW - LANGUAGE ACCESS, COURTS AND TRANSLATION TECHNOLOGY",
+      "preview": "START / CONCEPT: Language Access, Courts and Translation Technology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 449.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 228.491
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2114,
+      "markdown_body_line_end": 2114,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current Controls as on 5 September 2026 denotes the constitutional rules and institutional links organised around Question Controlled current position.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2135,
+      "markdown_body_line_end": 2145,
+      "heading": "Visual 61 - Current-Law Dashboard",
+      "preview": "Question | Controlled current position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Question",
+          "Controlled current position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 443.424
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 228.022
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2157,
+      "markdown_body_line_end": 2174,
+      "heading": "CLOSING RECALL FLOW - CURRENT CONTROLS AS ON 28 AUGUST 2026",
+      "preview": "START / CONCEPT: Current Controls as on 5 September 2026",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2185,
+      "markdown_body_line_end": 2185,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform Agenda: Multilingual Capacity Without Legal Confusion operates through Multilingual citizen access Forms, portals, grievance interfaces Do not dilute legal accuracy, connected with Translation capacity Permanent terminology and trans",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2204,
+      "markdown_body_line_end": 2204,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Reform Agenda: Multilingual Capacity Without Legal Confusion.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\15_reform_agenda_multilingual_capacity_without_legal_co.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 489.474
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2217,
+      "heading": "Visual 62 - Seven Reform Pillars",
+      "preview": "Pillar | Concrete direction | Guardrail",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Pillar",
+          "Concrete direction",
+          "Guardrail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 434.074
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 227.472
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2223,
+      "markdown_body_line_end": 2243,
+      "heading": "Visual 63 - Reform Sequence",
+      "preview": "MAP USER NEED",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2249,
+      "markdown_body_line_end": 2254,
+      "heading": "Visual 64 - Proposal vs Law Filter",
+      "preview": "Statement type | Safe label",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Statement type",
+          "Safe label"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 545.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 424.49
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2260,
+      "markdown_body_line_end": 2277,
+      "heading": "CLOSING RECALL FLOW - REFORM AGENDA: MULTILINGUAL CAPACITY WITHOUT LEGAL CONFUSION",
+      "preview": "START / CONCEPT: Reform Agenda: Multilingual Capacity Without Legal Confusion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 302
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 383.29
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 132.29
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2288,
+      "markdown_body_line_end": 2288,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Prelims trap register separates official, national, scheduled, court and policy language categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2309,
+      "markdown_body_line_end": 2334,
+      "heading": "Visual 65 - Twenty-Four Trap Corrections",
+      "preview": "Trap | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 24,
+        "headers": [
+          "Trap",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 253.89
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2340,
+      "markdown_body_line_end": 2357,
+      "heading": "CLOSING RECALL FLOW - HIGH-YIELD PRELIMS TRAP REGISTER",
+      "preview": "START / CONCEPT: High-Yield Prelims Trap Register",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2372,
+      "heading": "Visual 66 - Mark-Scaled Structure",
+      "preview": "Marks | Suggested architecture | Named-evidence density",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Suggested architecture",
+          "Named-evidence density"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 320.09
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2378,
+      "markdown_body_line_end": 2399,
+      "heading": "Visual 67 - Reusable Answer Spine",
+      "preview": "INTRO:",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2413,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Source and Verification Ledger denotes the constitutional rules and institutional links organised around Claim family Named controlling evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 450.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 383.824
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2434,
+      "markdown_body_line_end": 2444,
+      "heading": "Visual 68 - Claim-to-Source Ledger",
+      "preview": "Claim family | Named controlling evidence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Claim family",
+          "Named controlling evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 560.69
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2473,
+      "markdown_body_line_end": 2490,
+      "heading": "CLOSING RECALL FLOW - SOURCE AND VERIFICATION LEDGER",
+      "preview": "START / CONCEPT: Source and Verification Ledger",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 334
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2501,
+      "markdown_body_line_end": 2501,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The cases do not create a national language or erase Article 350A.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 344.024
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2520,
+      "markdown_body_line_end": 2520,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Judicial Doctrine: Language Choice, Minorities and Medium.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets\\16_judicial_doctrine_language_choice_minorities_and_med.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2521,
+      "markdown_body_line_end": 2525,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Decision | Exam-safe proposition | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Decision",
+          "Exam-safe proposition",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 522.874
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 367.472
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2532,
+      "markdown_body_line_end": 2549,
+      "heading": "CLOSING RECALL FLOW - JUDICIAL DOCTRINE: LANGUAGE CHOICE, MINORITIES AND MEDIUM",
+      "preview": "START / CONCEPT: Judicial Doctrine: Language Choice, Minorities and Medium",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 312.072
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 111.072
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3193,
+      "markdown_body_line_end": 3205,
+      "heading": "UPSC Prelims 2024, GS Paper I, Set A, Q72",
+      "preview": "The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages?  1. Konkani 2. Manipuri 3. Nepali 4. Maithili  Select the correct answer using the code given below:  (a",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 511.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 431.024
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3267,
+      "markdown_body_line_end": 3272,
+      "heading": "M2. Two parliamentary committees (10 marks, 150 words)",
+      "preview": "Dimension | Article 344(4) committee | Section 4 committee",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Article 344(4) committee",
+          "Section 4 committee"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 504.69
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3593,
+      "markdown_body_line_end": 3596,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-I / GS-II **Grounded in:** Indian Polity by M. Laxmikant, Ch. 65 (Part XVII; direct check of the local Sixth Revised Edition PDF) + official update. ✅ = from source bo",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 433.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 360.824
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3608,
+      "markdown_body_line_end": 3609,
+      "heading": "PART A - LANGUAGE OF THE UNION (Arts 343-344) ⭐⭐",
+      "preview": "⭐ **Key trap:** Hindi is the **official** language — **NOT the \"national language.\"** India has **no national language** (constitutionally).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 183.524
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 138.856
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3680,
+      "markdown_body_line_end": 3689,
+      "heading": "Constitutional identity card",
+      "preview": "Rapid-recall question | Controlled answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Rapid-recall question",
+          "Controlled answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 573.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 379.29
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3691,
+      "markdown_body_line_end": 3691,
+      "heading": "Constitutional identity card",
+      "preview": "**Memory line:** Official != national; scheduled != official everywhere; classical != scheduled; policy != Part XVII.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 379.29
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 348.822
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3697,
+      "markdown_body_line_end": 3715,
+      "heading": "Constituent-Assembly bargain and statutory evolution",
+      "preview": "SEPTEMBER 1949 COMPROMISE",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 290.422
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 109.422
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3723,
+      "markdown_body_line_end": 3728,
+      "heading": "Part XVII master map",
+      "preview": "Chapter | Articles | Examination core",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Chapter",
+          "Articles",
+          "Examination core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 631.09
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3730,
+      "markdown_body_line_end": 3730,
+      "heading": "Part XVII master map",
+      "preview": "**Elimination method:** identify the **actor**, **function**, **legal source** and **qualification** before selecting an option.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 631.09
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 600.622
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3743,
+      "markdown_body_line_end": 3750,
+      "heading": "Article 344 exact machinery",
+      "preview": "Element | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Element",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 427.222
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 253.02
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3756,
+      "markdown_body_line_end": 3762,
+      "heading": "Two 30-member committees - never collapse them",
+      "preview": "Test | Article 344(4) body | Official Languages Act section 4 body",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Article 344(4) body",
+          "Official Languages Act section 4 body"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 194.62
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 52.819
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3789,
+      "markdown_body_line_end": 3796,
+      "heading": "Article 348 - proceedings, judgments and authoritative texts",
+      "preview": "Legal question | Route | Guardrail",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Legal question",
+          "Route",
+          "Guardrail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 468.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 283.09
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3810,
+      "markdown_body_line_end": 3814,
+      "heading": "Articles 350, 350A and 350B - access and minority protection",
+      "preview": "Provision | Core right/duty | Essential qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Provision",
+          "Core right/duty",
+          "Essential qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 652.29
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3822,
+      "markdown_body_line_end": 3835,
+      "heading": "Article 351 - promote Hindi through composite culture",
+      "preview": "UNION DUTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 561.49
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 430.49
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3845,
+      "markdown_body_line_end": 3852,
+      "heading": "Section 3",
+      "preview": "Subsection | Exam core",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Subsection",
+          "Exam core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 335.89
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 139.288
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3854,
+      "markdown_body_line_end": 3854,
+      "heading": "Section 3",
+      "preview": "**Double-lock mnemonic:** **All specified States -> both Houses -> only then discontinuance of the named provisions.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 139.288
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 94.62
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3873,
+      "markdown_body_line_end": 3880,
+      "heading": "Official Languages Rules, 1976 - administrative application",
+      "preview": "Rule/idea | Rapid recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Rule/idea",
+          "Rapid recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 579.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 427.29
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3882,
+      "markdown_body_line_end": 3888,
+      "heading": "Official Languages Rules, 1976 - administrative application",
+      "preview": "APPLY THE RULES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 427.29
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 366.29
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3898,
+      "markdown_body_line_end": 3905,
+      "heading": "Exact 22 in constitutional order",
+      "preview": "1-6 | 7-12 | 13-18 | 19-22",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "1-6",
+          "7-12",
+          "13-18",
+          "19-22"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 271.69
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 124.788
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3912,
+      "markdown_body_line_end": 3917,
+      "heading": "Amendment ladder",
+      "preview": "Amendment | Exact change | Effective date | Count",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Amendment",
+          "Exact change",
+          "Effective date",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 681.39
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3919,
+      "markdown_body_line_end": 3919,
+      "heading": "Amendment ladder",
+      "preview": "**Mnemonic:** **S | K-M-N | B-D-M-S | O-name**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 681.39
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 650.922
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3932,
+      "markdown_body_line_end": 3939,
+      "heading": "Scheduled, classical, court and education categories",
+      "preview": "Category | Source | Effect | Classic trap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Category",
+          "Source",
+          "Effect",
+          "Classic trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 486.522
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 339.62
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3948,
+      "markdown_body_line_end": 3954,
+      "heading": "Federal debate - argument balance",
+      "preview": "Legitimate objective | Named support | Constitutional risk | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Legitimate objective",
+          "Named support",
+          "Constitutional risk",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 217.42
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 91.019
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3962,
+      "markdown_body_line_end": 3976,
+      "heading": "Translation technology and authoritative access",
+      "preview": "CONTROLLING SOURCE TEXT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 744.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 603.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4034,
+      "markdown_body_line_end": 4040,
+      "heading": "10-mark spine",
+      "preview": "exact definition/thesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 325.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4044,
+      "markdown_body_line_end": 4050,
+      "heading": "15-mark spine",
+      "preview": "constitutional rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 242.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 181.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4054,
+      "markdown_body_line_end": 4063,
+      "heading": "20-mark spine",
+      "preview": "historical bargain",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 159.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 68.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4065,
+      "markdown_body_line_end": 4065,
+      "heading": "20-mark spine",
+      "preview": "**Evidence discipline:** every major paragraph should use **claim -> named Article/section/amendment -> what it proves -> limitation**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4069,
+      "markdown_body_line_end": 4086,
+      "heading": "Last-page rapid recall",
+      "preview": "343 Hindi-Devanagari + international numerals",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 733.624
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 562.624
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4092,
+      "markdown_body_line_end": 4115,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Part XVII settlement: official language without a national language",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 515.624
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 280.224
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4119,
+      "markdown_body_line_end": 4135,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Articles 343-344 and the statutory continuation of English",
+      "preview": "ARTICLE 343",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4139,
+      "markdown_body_line_end": 4154,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 1963 Act: continuation and consent lock",
+      "preview": "SECTION 3",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4158,
+      "markdown_body_line_end": 4173,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Articles 345-347: State choice and intergovernmental communication",
+      "preview": "ARTICLE 345",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4177,
+      "markdown_body_line_end": 4195,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Articles 348-349: courts, judgments and authoritative texts",
+      "preview": "ARTICLE 348 BASELINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4199,
+      "markdown_body_line_end": 4218,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Authoritative-text hierarchy across Constitution and statutes",
+      "preview": "ENGLISH BASELINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4222,
+      "markdown_body_line_end": 4240,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Articles 350, 350A, 350B and 351: access and development",
+      "preview": "ARTICLE 350",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 364.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 179.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4244,
+      "markdown_body_line_end": 4259,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 1976 Rules: administrative routing",
+      "preview": "RULES 1976",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4263,
+      "markdown_body_line_end": 4285,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Eighth Schedule and separate policy categories",
+      "preview": "EIGHTH SCHEDULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4289,
+      "markdown_body_line_end": 4304,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Language cases: competence, minority context and protected choice",
+      "preview": "Gujarat University v. Shri Krishna (1963)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 364.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 210.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4308,
+      "markdown_body_line_end": 4326,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Federal accommodation, court access and translation technology",
+      "preview": "LEGITIMATE GOALS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4330,
+      "markdown_body_line_end": 4350,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC traps, verified PYQ and qualified answer synthesis",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    }
+  ]
+}

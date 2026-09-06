@@ -1,0 +1,4210 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-31",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 31 - National Commissions for SCs, STs and Backward Classes - Complete Topic Package",
+      "preview": "**Control date:** 5 September 2026, Asia/Kolkata **Tags:** `[FACT]` directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive control; `[L",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 635.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 22,
+      "markdown_body_line_end": 35,
+      "heading": "Authoritative evidence board",
+      "preview": "Named evidence | Claim controlled",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Named evidence",
+          "Claim controlled"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 401.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 67,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 515.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 71,
+      "markdown_body_line_end": 78,
+      "heading": "Scope ownership and cross-links",
+      "preview": "This package owns | Related owner | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "This package owns",
+          "Related owner",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 493.09
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 262.888
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 95,
+      "heading": "Visual 1 - The constitutional safeguard ecosystem",
+      "preview": "SUBSTANTIVE EQUALITY + GROUP-SPECIFIC SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 237.888
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 106.888
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 110,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 535.09
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\assets\\polity-31_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 156,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why Do These Commissions Exist? shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 318.556
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 251.888
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 183,
+      "heading": "Visual 2 - Four failures and four institutional responses",
+      "preview": "Safeguard failure | Commission response | Constitutional anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Safeguard failure",
+          "Commission response",
+          "Constitutional anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 681.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 571.69
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 201,
+      "heading": "Visual 3 - Rights-to-accountability chain",
+      "preview": "CONSTITUTION / LAW / GOVERNMENT ORDER",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 549.69
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 408.69
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 213,
+      "heading": "Visual 4 - Status is not sanction",
+      "preview": "Attribute | What constitutional status gives | What it does not automatically give",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Attribute",
+          "What constitutional status gives",
+          "What it does not automatically give"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 367.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 225.688
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 234,
+      "heading": "CLOSING RECALL FLOW - WHY DO THESE COMMISSIONS EXIST?",
+      "preview": "START / CONCEPT: WHY DO THESE COMMISSIONS EXIST?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 245,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Historical Evolution: Officer - Combined Commission - Specialised Commissions shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 287,
+      "heading": "Visual 5 - Controlled evolution timeline",
+      "preview": "1950                  12 Mar 1992              19 Feb 2004",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 633.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 512.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 298,
+      "heading": "Visual 6 - Amendment date discipline",
+      "preview": "Change | Act/assent date | Operational control | Exam-safe statement",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Change",
+          "Act/assent date",
+          "Operational control",
+          "Exam-safe statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 471.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 323.39
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 307,
+      "heading": "Visual 7 - Why specialisation occurred",
+      "preview": "Combined design problem | Institutional response | Analytical effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Combined design problem",
+          "Institutional response",
+          "Analytical effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 301.39
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 147.188
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 328,
+      "heading": "CLOSING RECALL FLOW - HISTORICAL EVOLUTION: OFFICER -> COMBINED COMMISSION -> SPECIALISED COMMISSIONS",
+      "preview": "START / CONCEPT: HISTORICAL EVOLUTION: OFFICER -> COMBINED COMMISSION -> SPECIALISED COMMISSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Shared Constitutional Design Of Articles 338, 338A And 338B shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 374,
+      "heading": "Visual 8 - Shared nine-clause skeleton",
+      "preview": "Clause | Common institutional idea",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Clause",
+          "Common institutional idea"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 571.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 387,
+      "heading": "Visual 9 - Constitution, rules and procedure",
+      "preview": "CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 549.89
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 458.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 403,
+      "heading": "Visual 10 - Current composition memory card",
+      "preview": "PRESIDENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 417.69
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 316.69
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 407,
+      "markdown_body_line_end": 411,
+      "heading": "Visual 11 - Historical composition contrast",
+      "preview": "Stage | Composition | Trap control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Stage",
+          "Composition",
+          "Trap control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 676.69
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 432,
+      "heading": "CLOSING RECALL FLOW - SHARED CONSTITUTIONAL DESIGN OF ARTICLES 338, 338A AND 338B",
+      "preview": "START / CONCEPT: SHARED CONSTITUTIONAL DESIGN OF ARTICLES 338, 338A AND 338B",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 654.69
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 433.69
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 443,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Six Common Duties shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 312.89
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 246.222
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 470,
+      "heading": "Visual 12 - Six-duty wheel",
+      "preview": "INVESTIGATE + MONITOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 481,
+      "heading": "Visual 13 - Function-to-evidence matrix",
+      "preview": "Duty | Typical evidence | Output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Duty",
+          "Typical evidence",
+          "Output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 512.49
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 494,
+      "heading": "Visual 14 - Ex ante and ex post roles",
+      "preview": "Time | Role | Example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Time",
+          "Role",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 437.89
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 515,
+      "heading": "CLOSING RECALL FLOW - THE SIX COMMON DUTIES",
+      "preview": "START / CONCEPT: THE SIX COMMON DUTIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 295.288
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 84.288
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 526,
+      "markdown_body_line_end": 526,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Civil-Court Powers: Exact Scope And Exact List shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 554,
+      "markdown_body_line_end": 561,
+      "heading": "Visual 15 - Civil-court toolkit",
+      "preview": "PERSONS       -> summon + enforce attendance + examine on oath",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 571,
+      "heading": "Visual 16 - Power boundary",
+      "preview": "Commission can | Commission cannot merely because of clause (8)",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Commission can",
+          "Commission cannot merely because of clause (8)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 694.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 563.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 590,
+      "heading": "Visual 17 - Investigation is not adjudication",
+      "preview": "COMPLAINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 508.29
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 377.29
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 598,
+      "heading": "Visual 18 - Three meanings that must not be merged",
+      "preview": "Expression | Correct meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Expression",
+          "Correct meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 355.29
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 267.088
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 619,
+      "heading": "CLOSING RECALL FLOW - CIVIL-COURT POWERS: EXACT SCOPE AND EXACT LIST",
+      "preview": "START / CONCEPT: CIVIL-COURT POWERS: EXACT SCOPE AND EXACT LIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 630,
+      "markdown_body_line_end": 630,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reporting: Constitutional Accountability, Not A Private Letter shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 667,
+      "heading": "Visual 19 - Union report chain",
+      "preview": "COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 675,
+      "heading": "Visual 20 - State report routes: the key textual difference",
+      "preview": "Commission | State-related copy goes to | Who causes legislative laying?",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Commission",
+          "State-related copy goes to",
+          "Who causes legislative laying?"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 691,
+      "heading": "Visual 21 - Accountability stages",
+      "preview": "REPORT WRITTEN",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 544.09
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 423.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 708,
+      "heading": "Visual 22 - Reporting deficit diagnosis",
+      "preview": "Deficit | Consequence | Reform direction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Deficit",
+          "Consequence",
+          "Reform direction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 729,
+      "heading": "CLOSING RECALL FLOW - REPORTING: CONSTITUTIONAL ACCOUNTABILITY, NOT A PRIVATE LETTER",
+      "preview": "START / CONCEPT: REPORTING: CONSTITUTIONAL ACCOUNTABILITY, NOT A PRIVATE LETTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 655.89
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 434.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consultation On Major Policy Matters shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 314.09
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 247.422
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 771,
+      "heading": "Visual 23 - Consultation ladder",
+      "preview": "Stage | Weak form | Constitutionally meaningful form",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Weak form",
+          "Constitutionally meaningful form"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 531.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 786,
+      "heading": "Visual 24 - Consultation is not concurrence",
+      "preview": "CONSULTATION:",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 509.29
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 398.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 790,
+      "markdown_body_line_end": 799,
+      "heading": "Visual 25 - Article 338B(9) after the 105th Amendment",
+      "preview": "MAJOR SEBC POLICY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 376.29
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 285.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 822,
+      "heading": "CLOSING RECALL FLOW - CONSULTATION ON MAJOR POLICY MATTERS",
+      "preview": "START / CONCEPT: CONSULTATION ON MAJOR POLICY MATTERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 833,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ncsc: Article 338 And The Sc Safeguard Domain shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 858,
+      "markdown_body_line_end": 870,
+      "heading": "Visual 26 - NCSC safeguard map",
+      "preview": "EQUALITY / NON-DISCRIMINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 881,
+      "heading": "Visual 27 - NCSC versus criminal-law institutions",
+      "preview": "Function | NCSC | Police/prosecution/Special Court",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Function",
+          "NCSC",
+          "Police/prosecution/Special Court"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 492.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 893,
+      "heading": "Visual 28 - PCR/PoA institutional chain",
+      "preview": "ALLEGED CASTE HARM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 470.49
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 389.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 916,
+      "heading": "CLOSING RECALL FLOW - NCSC: ARTICLE 338 AND THE SC SAFEGUARD DOMAIN",
+      "preview": "START / CONCEPT: NCSC: ARTICLE 338 AND THE SC SAFEGUARD DOMAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 334.09
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 113.09
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 927,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ncst: Article 338A And The Distinctive Tribal Domain shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 970,
+      "heading": "Visual 29 - NCST distinctive domain map",
+      "preview": "LAND ---- FOREST ---- WATER ---- MINERALS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 982,
+      "heading": "Visual 30 - 2005 additional-function matrix",
+      "preview": "Domain | NCST function | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Domain",
+          "NCST function",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 481.29
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 992,
+      "heading": "Visual 31 - NCST and Fifth/Sixth Schedule institutions",
+      "preview": "Institution | Core role | NCST relationship",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Institution",
+          "Core role",
+          "NCST relationship"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 459.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 283.888
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 996,
+      "markdown_body_line_end": 1007,
+      "heading": "Visual 32 - What NCST does not administer",
+      "preview": "NCST IS NOT:",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1028,
+      "heading": "CLOSING RECALL FLOW - NCST: ARTICLE 338A AND THE DISTINCTIVE TRIBAL DOMAIN",
+      "preview": "START / CONCEPT: NCST: ARTICLE 338A AND THE DISTINCTIVE TRIBAL DOMAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 654.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ncbc: From Statutory List Adviser To Constitutional Safeguard Commission shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 293.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 226.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1064,
+      "markdown_body_line_end": 1073,
+      "heading": "Visual 33 - Statutory-to-constitutional comparison",
+      "preview": "Dimension | NCBC Act, 1993 | Article 338B after 102nd",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Dimension",
+          "NCBC Act, 1993",
+          "Article 338B after 102nd"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 408.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1089,
+      "heading": "Visual 34 - What actually changed",
+      "preview": "NARROWER LIST-ADVICE BODY",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 386.69
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 265.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1099,
+      "heading": "Visual 35 - What did not change",
+      "preview": "Continuity | Qualification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Continuity",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - NCBC: FROM STATUTORY LIST ADVISER TO CONSTITUTIONAL SAFEGUARD COMMISSION",
+      "preview": "START / CONCEPT: NCBC: FROM STATUTORY LIST ADVISER TO CONSTITUTIONAL SAFEGUARD COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 588.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 357.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 341 And 342: Sc And St List Mechanics shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 217.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 150.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1167,
+      "heading": "Visual 36 - SC list legal chain",
+      "preview": "INITIAL SPECIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 579.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 478.891
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1171,
+      "markdown_body_line_end": 1181,
+      "heading": "Visual 37 - ST list legal chain",
+      "preview": "INITIAL SPECIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 456.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 355.891
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1192,
+      "heading": "Visual 38 - Who cannot finally alter an SC/ST list alone?",
+      "preview": "Actor | Can recommend/supply evidence? | Can finally include/exclude alone?",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Actor",
+          "Can recommend/supply evidence?",
+          "Can finally include/exclude alone?"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 333.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 182.09
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1200,
+      "heading": "Visual 39 - Identification versus distribution",
+      "preview": "Question | Governing idea",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Question",
+          "Governing idea"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1221,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 341 AND 342: SC AND ST LIST MECHANICS",
+      "preview": "START / CONCEPT: ARTICLES 341 AND 342: SC AND ST LIST MECHANICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 677.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 456.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 342A And Article 366(26C): Central And State Sebc Lists shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 316.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 249.622
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1258,
+      "markdown_body_line_end": 1269,
+      "heading": "Visual 40 - Post-105th dual-list architecture",
+      "preview": "SEBC IDENTIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 536.691
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1278,
+      "heading": "Visual 41 - Article 342A clause map",
+      "preview": "Clause | Rule | Exam trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Clause",
+          "Rule",
+          "Exam trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 514.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 405.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1282,
+      "markdown_body_line_end": 1290,
+      "heading": "Visual 42 - Article 366(26C) bridge",
+      "preview": "“SOCIALLY AND EDUCATIONALLY BACKWARD CLASSES”",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 383.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 302.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1294,
+      "markdown_body_line_end": 1305,
+      "heading": "Visual 43 - Commission advice versus legal list change",
+      "preview": "EVIDENCE / REPRESENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1328,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 342A AND ARTICLE 366(26C): CENTRAL AND STATE SEBC LISTS",
+      "preview": "START / CONCEPT: ARTICLE 342A AND ARTICLE 366(26C): CENTRAL AND STATE SEBC LISTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 414.091
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1339,
+      "markdown_body_line_end": 1339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Amendment-And-Case Trajectory shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 293.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 226.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1364,
+      "heading": "Visual 44 - 65th to 105th master trajectory",
+      "preview": "Event | Institutional/legal move | Core lesson",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Event",
+          "Institutional/legal move",
+          "Core lesson"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 570.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1378,
+      "heading": "Visual 45 - Indra Sawhney (1992) to NCBC",
+      "preview": "OVER-INCLUSION / UNDER-INCLUSION COMPLAINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 548.69
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 447.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1395,
+      "heading": "Visual 46 - Maratha judgment and 105th Amendment",
+      "preview": "102nd Amendment wording",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 392.29
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 281.29
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1404,
+      "heading": "Visual 47 - Two holdings, two questions",
+      "preview": "*Jaishri Laxmanrao Patil (2021)* issue | Question | Later constitutional response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "*Jaishri Laxmanrao Patil (2021)* issue",
+          "Question",
+          "Later constitutional response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 697.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1408,
+      "markdown_body_line_end": 1417,
+      "heading": "Visual 48 - Davinder Singh (2024) boundary",
+      "preview": "ARTICLE 341 LIST REMAINS INTACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 675.89
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 584.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1440,
+      "heading": "CLOSING RECALL FLOW - THE AMENDMENT-AND-CASE TRAJECTORY",
+      "preview": "START / CONCEPT: THE AMENDMENT-AND-CASE TRAJECTORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 515.29
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 294.29
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1451,
+      "markdown_body_line_end": 1451,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Common Design And Meaningful Differences shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 173.49
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 106.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1468,
+      "markdown_body_line_end": 1476,
+      "heading": "Visual 49 - Three-commission comparison",
+      "preview": "Dimension | NCSC | NCST | NCBC",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "NCSC",
+          "NCST",
+          "NCBC"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 644.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 435.29
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1488,
+      "heading": "Visual 50 - Same engine, different terrain",
+      "preview": "SHARED ENGINE:",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 413.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 332.29
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1492,
+      "markdown_body_line_end": 1509,
+      "heading": "CLOSING RECALL FLOW - COMMON DESIGN AND MEANINGFUL DIFFERENCES",
+      "preview": "START / CONCEPT: COMMON DESIGN AND MEANINGFUL DIFFERENCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 310.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 89.29
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1520,
+      "markdown_body_line_end": 1520,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Overlap Without Institutional Conflation shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1539,
+      "markdown_body_line_end": 1544,
+      "heading": "Visual 51 - NCSC overlap map",
+      "preview": "Problem | NCSC role | Other decisive institution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Problem",
+          "NCSC role",
+          "Other decisive institution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 378.424
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 257.822
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1548,
+      "markdown_body_line_end": 1553,
+      "heading": "Visual 52 - NCST overlap map",
+      "preview": "Problem | NCST role | Other decisive institution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Problem",
+          "NCST role",
+          "Other decisive institution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1557,
+      "markdown_body_line_end": 1562,
+      "heading": "Visual 53 - NCBC overlap map",
+      "preview": "Problem | NCBC role | Other decisive institution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Problem",
+          "NCBC role",
+          "Other decisive institution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 644.69
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 524.088
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1566,
+      "markdown_body_line_end": 1583,
+      "heading": "CLOSING RECALL FLOW - OVERLAP WITHOUT INSTITUTIONAL CONFLATION",
+      "preview": "START / CONCEPT: OVERLAP WITHOUT INSTITUTIONAL CONFLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 502.088
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 281.088
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional Comparison: Constitutional And Statutory Bodies shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 141.288
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 74.62
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1611,
+      "markdown_body_line_end": 1618,
+      "heading": "Visual 54 - National-body comparison matrix",
+      "preview": "Body | Legal basis | Primary constituency/domain | Core legal effect",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Body",
+          "Legal basis",
+          "Primary constituency/domain",
+          "Core legal effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 407.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1622,
+      "markdown_body_line_end": 1628,
+      "heading": "Visual 55 - Constitutional versus statutory status",
+      "preview": "Test | Constitutional commission | Statutory commission",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Constitutional commission",
+          "Statutory commission"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 385.09
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 254.488
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1632,
+      "markdown_body_line_end": 1641,
+      "heading": "Visual 56 - Specialist versus umbrella model",
+      "preview": "SPECIALIST MODEL                     UMBRELLA MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1664,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONAL COMPARISON: CONSTITUTIONAL AND STATUTORY BODIES",
+      "preview": "START / CONCEPT: INSTITUTIONAL COMPARISON: CONSTITUTIONAL AND STATUTORY BODIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 640.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1675,
+      "markdown_body_line_end": 1675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Independence, Accountability And Practical Limits shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 280.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 213.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1698,
+      "markdown_body_line_end": 1704,
+      "heading": "Visual 57 - Independence balance sheet",
+      "preview": "Strength | Counter-pressure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Strength",
+          "Counter-pressure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 531.29
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1708,
+      "markdown_body_line_end": 1720,
+      "heading": "Visual 58 - Effectiveness equation",
+      "preview": "EFFECTIVENESS =",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 509.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 388.29
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1724,
+      "markdown_body_line_end": 1730,
+      "heading": "Visual 59 - Advisory-force spectrum",
+      "preview": "Level | Example | Force",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Level",
+          "Example",
+          "Force"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 366.29
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 235.688
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1734,
+      "markdown_body_line_end": 1742,
+      "heading": "Visual 60 - Recurring implementation deficits",
+      "preview": "Deficit | Institutional effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Deficit",
+          "Institutional effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 614.29
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1746,
+      "markdown_body_line_end": 1763,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENCE, ACCOUNTABILITY AND PRACTICAL LIMITS",
+      "preview": "START / CONCEPT: INDEPENDENCE, ACCOUNTABILITY AND PRACTICAL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 592.29
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 371.29
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1770,
+      "markdown_body_line_end": 1778,
+      "heading": "Visual 61 - Problem-to-reform matrix",
+      "preview": "Problem | Reform proposal | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Problem",
+          "Reform proposal",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1782,
+      "markdown_body_line_end": 1792,
+      "heading": "Visual 62 - Appointment reform options",
+      "preview": "VACANCY FORECAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 569.89
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 468.89
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1796,
+      "markdown_body_line_end": 1803,
+      "heading": "Visual 63 - Follow-up dashboard design",
+      "preview": "Field | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Field",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 446.89
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 295.088
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1807,
+      "markdown_body_line_end": 1820,
+      "heading": "Visual 64 - Why blanket binding power is not an easy cure",
+      "preview": "MORE BINDING POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1831,
+      "markdown_body_line_end": 1831,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current-Control Board, 5 September 2026 shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 535.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 468.824
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1846,
+      "markdown_body_line_end": 1852,
+      "heading": "Visual 65 - Stable and volatile facts",
+      "preview": "Stable legal fact | Volatile fact deliberately not frozen",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Stable legal fact",
+          "Volatile fact deliberately not frozen"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1862,
+      "markdown_body_line_end": 1879,
+      "heading": "CLOSING RECALL FLOW - CURRENT-CONTROL BOARD, 28 AUGUST 2026",
+      "preview": "START / CONCEPT: CURRENT-CONTROL BOARD, 28 AUGUST 2026",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 534.49
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 323.49
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1884,
+      "markdown_body_line_end": 1896,
+      "heading": "Visual 66 - Claim-evidence-analysis-qualification unit",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1900,
+      "markdown_body_line_end": 1905,
+      "heading": "Visual 67 - 10-mark answer blueprint",
+      "preview": "Segment | Content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Segment",
+          "Content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 534.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1909,
+      "markdown_body_line_end": 1915,
+      "heading": "Visual 68 - 15-mark answer blueprint",
+      "preview": "INTRO: constitutional/statutory context",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 512.89
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 451.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1919,
+      "markdown_body_line_end": 1927,
+      "heading": "Visual 69 - 20-mark answer blueprint",
+      "preview": "Dimension | Evidence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "Evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 429.89
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 256.888
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1931,
+      "markdown_body_line_end": 1937,
+      "heading": "Visual 70 - Directive map",
+      "preview": "Directive | Required operation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "Required operation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1941,
+      "markdown_body_line_end": 1950,
+      "heading": "Visual 71 - High-risk trap board",
+      "preview": "Wrong statement | Correct control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Wrong statement",
+          "Correct control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 440.488
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1961,
+      "markdown_body_line_end": 1961,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Integrated Revision Before Assessment shows how constitutional monitoring, inquiry, advice and reporting protect substantive equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 319.688
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 253.02
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1978,
+      "markdown_body_line_end": 1994,
+      "heading": "Visual 72 - One-page institution map",
+      "preview": "ART 338 NCSC --------\\",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1998,
+      "markdown_body_line_end": 2007,
+      "heading": "Visual 73 - Chronology rapid strip",
+      "preview": "Recall | Date",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Recall",
+          "Date"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 604.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 410.09
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2011,
+      "markdown_body_line_end": 2023,
+      "heading": "Visual 74 - Final legal-effect ladder",
+      "preview": "COMMISSION EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 388.09
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 267.09
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2027,
+      "markdown_body_line_end": 2035,
+      "heading": "Visual 75 - Final comparison mnemonic",
+      "preview": "338   = CASTE safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2039,
+      "markdown_body_line_end": 2056,
+      "heading": "CLOSING RECALL FLOW - INTEGRATED REVISION BEFORE ASSESSMENT",
+      "preview": "START / CONCEPT: INTEGRATED REVISION BEFORE ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2746,
+      "markdown_body_line_end": 2753,
+      "heading": "Visual 76 - PYQ route audit",
+      "preview": "Year | Paper/Q | Demand | Route",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper/Q",
+          "Demand",
+          "Route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 253.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 106.79
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2757,
+      "markdown_body_line_end": 2757,
+      "heading": "Verified PYQ 1 - UPSC GS-II 2018, Q2 - 10 marks, 150 words",
+      "preview": "Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2809,
+      "markdown_body_line_end": 2809,
+      "heading": "Verified PYQ 2 - UPSC GS-II 2018, Q16 - 15 marks, 250 words",
+      "preview": "Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 436.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 378.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2860,
+      "heading": "Verified PYQ 3 - UPSC GS-II 2020, Q15 - 15 marks, 250 words",
+      "preview": "Which steps are required for constitutionalization of a Commission? Do you think imparting constitutionality to the National Commission for Women would ensure greater gender justice and empowerment in India? Give reasons.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2903,
+      "markdown_body_line_end": 2903,
+      "heading": "Verified PYQ 4 - UPSC GS-II 2022, Q5 - 10 marks, 150 words",
+      "preview": "Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 542.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 497.624
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2949,
+      "markdown_body_line_end": 2961,
+      "heading": "Verified PYQ 5 - UPSC Prelims 2023, Q35",
+      "preview": "Consider the following organizations/bodies in India:  1. The National Commission for Backward Classes 2. The National Human Rights Commission 3. The National Law Commission 4. The National Consumer Disputes Redressal Commission  How many o",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 212.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 139.824
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2974,
+      "markdown_body_line_end": 2984,
+      "heading": "Verified PYQ 6 - UPSC Prelims 2024, Q84",
+      "preview": "Consider the following statements:  1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe. 2. A community declared as a Scheduled Tribe in a State need not be so in another State.  W",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 657.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 598.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3376,
+      "markdown_body_line_end": 3379,
+      "heading": "National Commissions (SC / ST / BC) + Linguistic Minorities (Articles 338, 338-A, 338-B, 350-B) - ADVANCED / COMPLETE",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II **Grounded in:** Indian Polity by M. Laxmikant, Ch. 47–50 (direct check of the local Sixth Revised Edition PDF) + official updates. ✅ = from source book · ⚠️ = infe",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 407.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 334.024
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3384,
+      "markdown_body_line_end": 3389,
+      "heading": "THE BIG PICTURE ⭐",
+      "preview": "Body | Article | Status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Body",
+          "Article",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 306.524
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 197.122
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3472,
+      "markdown_body_line_end": 3478,
+      "heading": "Visual 77 - Five-number rapid card",
+      "preview": "Recall number | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Recall number",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 391.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 261.09
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3484,
+      "markdown_body_line_end": 3497,
+      "heading": "Visual 78 - Evolution strip",
+      "preview": "Special Officer under original Article 338",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3508,
+      "markdown_body_line_end": 3518,
+      "heading": "Visual 79 - Clause spine",
+      "preview": "Clause | Rapid recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Clause",
+          "Rapid recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 557.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 342.09
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3531,
+      "markdown_body_line_end": 3539,
+      "heading": "Visual 80 - Duty mnemonic",
+      "preview": "M I D E R O",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 18
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 188.89
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 107.89
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3545,
+      "markdown_body_line_end": 3552,
+      "heading": "Visual 81 - Evidence toolkit",
+      "preview": "Power | Exact use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Power",
+          "Exact use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 608.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3561,
+      "markdown_body_line_end": 3568,
+      "heading": "Visual 82 - Report routes",
+      "preview": "UNION:",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 524.09
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 453.09
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3578,
+      "markdown_body_line_end": 3583,
+      "heading": "Visual 83 - Consultation rule",
+      "preview": "Body | Rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Body",
+          "Rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 337.29
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 227.888
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3592,
+      "markdown_body_line_end": 3599,
+      "heading": "Visual 84 - NCSC action map",
+      "preview": "SC SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 714.291
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3610,
+      "markdown_body_line_end": 3619,
+      "heading": "Visual 85 - Tribal-rights recall",
+      "preview": "2005 function family | Keywords",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "2005 function family",
+          "Keywords"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 595.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 401.29
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3628,
+      "markdown_body_line_end": 3635,
+      "heading": "Visual 86 - Before and after",
+      "preview": "Before 2018 | After 15 August 2018",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Before 2018",
+          "After 15 August 2018"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 316.89
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 165.088
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3645,
+      "markdown_body_line_end": 3650,
+      "heading": "Visual 87 - Three-list board",
+      "preview": "Group | Initial/Central route | Later/own-list route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Group",
+          "Initial/Central route",
+          "Later/own-list route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 650.89
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3660,
+      "markdown_body_line_end": 3669,
+      "heading": "Visual 88 - Case-amendment chain",
+      "preview": "102nd: Article 338B + original 342A",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 549.29
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 458.29
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3678,
+      "markdown_body_line_end": 3682,
+      "heading": "Visual 89 - List versus distribution",
+      "preview": "Permitted in principle | Not permitted through sub-classification",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Permitted in principle",
+          "Not permitted through sub-classification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 373.89
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 285.688
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3689,
+      "markdown_body_line_end": 3695,
+      "heading": "Institutional comparison and coordination",
+      "preview": "Institution | Source | Correct role",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Institution",
+          "Source",
+          "Correct role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 226.288
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 95.687
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3705,
+      "markdown_body_line_end": 3719,
+      "heading": "Visual 90 - Reform recall",
+      "preview": "transparent selection",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 619.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3751,
+      "markdown_body_line_end": 3766,
+      "heading": "Final answer spine",
+      "preview": "DEFINE THE BODY / ARTICLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 634.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3781,
+      "markdown_body_line_end": 3804,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Evolution from Special Officer to three commissions",
+      "preview": "ORIGINAL ARTICLE 338",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 181.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3808,
+      "markdown_body_line_end": 3834,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Composition, appointment, tenure and procedure",
+      "preview": "COMMON COMPOSITION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 25,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 521.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3838,
+      "markdown_body_line_end": 3855,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Common duties and complaint-to-policy cycle",
+      "preview": "COMMON DUTIES UNDER CLAUSE (5)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 499.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3859,
+      "markdown_body_line_end": 3872,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Civil-court powers and remedial limits",
+      "preview": "IN INVESTIGATION OR INQUIRY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 169.691
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3876,
+      "markdown_body_line_end": 3888,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Reports, action memoranda and consultation",
+      "preview": "REPORT ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 664.091
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3892,
+      "markdown_body_line_end": 3902,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: NCSC and NCST: common engine, distinct domains",
+      "preview": "NCSC: ARTICLE 338",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 642.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3906,
+      "markdown_body_line_end": 3921,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: NCBC constitutionalisation and safeguard role",
+      "preview": "NCBC: ARTICLE 338B",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 363.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3925,
+      "markdown_body_line_end": 3945,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: SC, ST and SEBC list-amendment authorities",
+      "preview": "SCHEDULED CASTES: ARTICLE 341",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 341.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 136.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3949,
+      "markdown_body_line_end": 3968,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 102nd, Maratha judgment and 105th Amendment",
+      "preview": "102ND AMENDMENT, 2018",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3972,
+      "markdown_body_line_end": 3993,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Davinder Singh (2024) and evidence-based SC sub-classification",
+      "preview": "Davinder Singh (2024)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 355.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3997,
+      "markdown_body_line_end": 4009,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Overlap, independence, capacity and coordinated reform",
+      "preview": "GAPS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 333.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 210.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4013,
+      "markdown_body_line_end": 4038,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ routes, Prelims traps and Mains synthesis",
+      "preview": "IMPLEMENTATION GAPS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 24,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 531.491
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    }
+  ]
+}

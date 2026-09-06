@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-41",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 557,
+      "heading": "Visual 56 - PYQ Ownership Audit",
+      "preview": "Year/paper | Audited demand | Proper route in this package",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Year/paper",
+          "Audited demand",
+          "Proper route in this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 551.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 355.69
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 563,
+      "heading": "Verified Adjacent PYQ - UPSC CSE Mains 2020, GS-II",
+      "preview": "“Institutional quality is a crucial driver of economic performance.” In this context suggest reforms in Civil Service for strengthening democracy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 336.49
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 269.822
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "Verified Adjacent PYQ - UPSC CSE Mains 2025, GS-I, Q9 (10 marks, 150 words)",
+      "preview": "“The ethos of civil service in India stands for the combination of professionalism with nationalistic consciousness.” Elucidate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 641.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 711,
+      "heading": "M2. Article 309 hierarchy (10 marks, 150 words)",
+      "preview": "Instrument | Authority and role | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Instrument",
+          "Authority and role",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 552.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 441.89
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    }
+  ]
+}

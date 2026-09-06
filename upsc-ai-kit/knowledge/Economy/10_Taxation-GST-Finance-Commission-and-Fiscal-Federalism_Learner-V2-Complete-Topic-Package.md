@@ -1260,6 +1260,30 @@ who spends and who is accountable for outcomes.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Tax design balances revenue, equity, efficiency, certainty and compliance; GST is a destination-based dual levy with input-tax credit, while Finance Commission transfers and grants operate within constitutional fiscal federalism.
+- **Indispensable distinction and prerequisite taxonomy:** Direct is not always progressive, GST rate recommendation is not levy by itself, Council is not Parliament, devolution is not every transfer, cess is not shareable tax by default, and tax buoyancy is not tax rate.
+- **Mechanism, implementation and evidence control:** Separate Constitution, statute, Council recommendation, notification and implementation; specify base, rate, incidence and period, and analyse vertical/horizontal imbalance, compensation/status, compliance and state autonomy.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The Finance Commission live pages were blocked with HTTP 403. The package therefore retains only the owner's explicit XVI-FC period and accepted 41 per cent vertical share and directs the learner to the official report for all other recommendations. Sources: https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/16fc-EM.pdf; https://fincomindia.nic.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on taxes subsumed in GST and the GST compensation framework, plus objective demands on equalisation levy, GST exemptions, indirect transfers, Fifteenth Finance Commission criteria, enforcement agencies and agricultural-income boundaries. Objective answer letters are not inferred.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Direct and indirect taxes?

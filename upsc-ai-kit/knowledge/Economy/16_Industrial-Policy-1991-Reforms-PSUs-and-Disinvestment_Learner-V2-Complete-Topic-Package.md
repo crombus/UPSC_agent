@@ -1429,6 +1429,30 @@ specific regulatory/fiscal/employment condition the question asks about]."
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Industrial policy evolved from licensing and public-sector leadership through 1991 liberalisation to competition, strategic capability, infrastructure and targeted incentives; reform combined stabilisation and structural change.
+- **Indispensable distinction and prerequisite taxonomy:** Liberalisation is not absence of regulation, privatisation is not every disinvestment, PSU is not monopoly, strategic sale is not minority dilution, and policy announcement is not realised productivity.
+- **Mechanism, implementation and evidence control:** Separate 1991 measures by legal/executive instrument and sequence; trace competition, entry, trade, finance, technology, labour and state capacity, qualifying growth claims by sector, period, distribution and counterfactual.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The DIPAM policy page was substantively retrievable and supports the transaction and PSE-policy distinctions. No current receipt, target, buyer, valuation or pipeline claim was added from an incomplete dashboard. Sources: https://dipam.gov.in/disinvestment-policy; https://dipam.gov.in/strategic-disinvestment
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route objective demands on Five-Year Plan industrial and financial thrusts, the Coal Controller's Organisation and CSR rules. They do not establish official answer letters here. The Basic owner carries these tested distinctions into the core evidence bank and practice extracts.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Industrial-policy scope?

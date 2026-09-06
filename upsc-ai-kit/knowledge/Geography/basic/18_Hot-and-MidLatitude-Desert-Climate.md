@@ -147,3 +147,44 @@ desertification, land degradation and drought; India hosted COP14 in New Delhi i
 > rain. **Significance:** it explains why deserts occupy predictable latitudinal and coastal
 > positions rather than being scattered. **Limitation:** most large deserts have more than one cause
 > operating together, so single-cause explanations are usually incomplete.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** aridity as moisture deficit; hot BWh versus cold/mid-latitude
+  BWk deserts; subtropical subsidence, offshore flow, cold-current stability,
+  continentality and rain-shadow causation; rainfall and thermal regimes;
+  flash floods, xerophytes, oases and water strategies; Thar map, aridity,
+  landforms, drainage and adaptation; Great Indian Bustard open-biome
+  conservation and infrastructure trade-offs.
+- **Process control:** descending or stable air, weak moisture supply,
+  continental distance and mountain barriers combine differently by desert.
+  Rare high-intensity rain can generate wadi floods, while groundwater and
+  engineered transfer support settlement but can create depletion, salinity
+  and waterlogging.
+- **Scale/map control:** global desert belt, Thar core and transition margin,
+  dune/playa/Luni catchment, canal command, renewable-energy corridor and GIB
+  habitat are separate layers. The Thar lies mainly west of the Aravallis;
+  their broad parallelism to the Arabian Sea branch limits forced ascent but
+  is not the sole cause of aridity.
+- **Date/data control:** rainfall guides, land-degradation maps, canal effects,
+  GIB counts, breeding-centre totals, power-line mitigation, court/expert
+  process and UNCCD decisions retain source, observation date and status.
+  Captive-stock figures are not wild-population estimates and announced
+  measures are not verified habitat outcomes.
+- **Terminology control:** desert differs from desertification and drought;
+  aridity from heat; hot desert from mid-latitude desert; fog from rainfall;
+  oasis from rain-fed forest; GIB open habitat from wasteland; bird diverter,
+  rerouting and undergrounding are distinct mitigation options.
+- **Causal control:** Topic 07 desertification is not duplicated here. Topic 18
+  explains desert-biome controls and owns the Thar-GIB species-habitat linkage:
+  irrigation, roads, fencing, settlement, agriculture and renewable
+  transmission can transform the same open landscape in different ways.
+- **Boundary:** Topic 07 owns land-degradation/desertification diagnosis and
+  national restoration policy; Topic 17 owns deciduous forests/grasslands;
+  Environment owns full species-law doctrine. Topic 18 owns global desert
+  climate, Thar regional geography and the bounded GIB habitat-infrastructure
+  conservation application.
+- **Verified PYQ ownership, 2018-2026:** the audited Geography ledgers contain
+  no direct Topic 18 question. Desert lakes/landforms, land degradation and
+  biodiversity questions retain their routed owners; no PYQ wording, marks or
+  answer key is fabricated.

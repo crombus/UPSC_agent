@@ -247,3 +247,42 @@ B. SEDIMENTARY / BIOLOGICAL DEATH - the basin fills
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** lake and wetland definitions; genetic lake classification;
+  water budget, residence time, stratification, turnover, trophic state,
+  eutrophication, succession and shrinkage; wetland hydroperiod, connectivity
+  and services; Indian lake-origin and river-link maps; Ramsar wise use,
+  criteria, Montreux Record, Wetlands Rules 2017 and restoration sequencing.
+- **Process control:** basin origin establishes the initial form; precipitation,
+  inflow and groundwater inputs minus evaporation, outflow and seepage govern
+  storage; nutrients, flushing, mixing and decomposition govern oxygen stress.
+  Restoration begins with catchment and hydrological diagnosis, not cosmetic
+  lake-front treatment.
+- **Scale/map control:** water body, lake basin, floodplain, wetland complex,
+  catchment and Ramsar site boundary are separate. Wular-Jhelum, Kolleru
+  between the Krishna-Godavari deltas, Loktak-phumdis, Chilika lagoon, Sambhar
+  saline basin and Lonar impact basin retain exact spatial/genetic qualifiers.
+- **Date/data control:** Ramsar designation count, site name, area, ecological
+  character and Montreux status are dynamic. India's tally is 101 after Glaw
+  Lake's 3 August 2026 designation; the MoEFCC list dated 21 April 2026 records
+  the earlier tally of 99 and is not silently treated as the latest count.
+- **Terminology control:** lake differs from wetland and reservoir; lagoon from
+  inland lake; origin from trophic state and legal status; eutrophication from
+  natural succession and water-budget shrinkage; Ramsar designation from
+  National Park notification; Montreux Record from a funding or heritage list.
+- **Causal control:** area decline, algal bloom or biodiversity loss does not
+  establish one cause. Inflow regulation, abstraction, groundwater, sewage,
+  nutrients, sediment, invasive species, encroachment, temperature and
+  connectivity must be separated by site and period.
+- **Boundary:** Topic 05 owns fluvial landforms and drainage; Topic 08 owns
+  karst caves; Topic 10 owns coastal morphology; Environment and Ecology owns
+  full wetland biodiversity and regulatory-policy depth. Topic 09 owns lake
+  genesis, limnology, Indian mapping and bounded wetland governance.
+- **Verified PYQ ownership, 2018-2026:** direct Geography routes include 2018
+  human-caused lake shrinkage and artificial-lake identification, 2019
+  reservoir identification, 2021 Rajasthan saline lakes, 2023 river-lake
+  matching and provisional 2026 Lake Turkana. The 2021 urban-water-body Mains
+  demand remains Environment-owned; unavailable/provisional keys are not
+  invented.

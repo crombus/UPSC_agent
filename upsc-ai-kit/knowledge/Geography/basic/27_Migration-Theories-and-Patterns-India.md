@@ -255,3 +255,38 @@ Geography → Human Geography → Migration Streams & Consequences
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** migration stock and flow; place-of-birth and last-residence
+  measures; internal/international, intra/interstate, rural-rural,
+  rural-urban, urban-urban, return, seasonal and circular movement; origin,
+  destination, corridor, remittance and demographic effects.
+- **Theory/model control:** Ravenstein, Lee, gravity/distance-decay,
+  Stouffer's intervening opportunities, Harris-Todaro expected income,
+  Zelinsky mobility transition and network/cumulative causation retain their
+  assumptions, predictive reach and empirical limits.
+- **Causal control:** wage or population size alone never explains a flow.
+  Opportunity sets, job probability, kinship networks, transport, gender,
+  marriage, distress, policy and intervening obstacles jointly shape
+  selectivity and destination choice.
+- **Scale/map control:** Bihar-Uttar Pradesh source belts,
+  Delhi-NCR/Mumbai-Surat/Bengaluru destinations, Kerala-Gulf corridors,
+  tribal/drought-prone seasonal streams and counter/return flows are mapped
+  as corridors, not timeless state labels.
+- **Date/data control:** Census 2011 migration tables remain the latest
+  completed census baseline; MoSPI's Migration in India 2020-21 is a
+  survey-period estimate, while UN International Migrant Stock 2024 covers
+  international stock and may extrapolate countries not fully reassessed.
+- **Gender/close-option control:** a recorded marriage reason does not erase
+  women's work; migrant stock differs from annual flow, internal from
+  international movement, and usual-residence migration from temporary or
+  circular mobility.
+- **Boundary:** Social Justice/Governance own entitlement portability and
+  labour protection; Indian Society owns gender/family transformation.
+  Geography owns movement measurement, theory, spatial streams and regional
+  consequences, retaining bounded institutional bridges.
+- **Verified PYQ ownership, 2018-2026:** direct ownership includes 2024 GS-I
+  Q5 on why large cities attract more migrants; the 2018 indentured-labour
+  diaspora demand is cross-owned with Modern History. No direct objective key
+  or migrant count is fabricated.

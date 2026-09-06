@@ -1,0 +1,2988 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\polity-16_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\polity-16_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Polity 16 - PM and Council of Ministers - Complete Topic Package",
+      "preview": "**Subject:** Indian Polity | **Topic:** 16 | **GS-II + Prelims** | **Export date:** 2026-08-16  **Approval:** false - awaiting explicit user approval.  **Evidence key:** [FACT] constitutional, judicial or officially verified proposition; [A",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 692.424
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 34,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 521.89
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 58,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 87,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\assets\\polity-16_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 159.09
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 101,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional Position: Formal Head, Real Executive And Responsible Government is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 308.356
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 241.688
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 134,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "People elect Lok Sabha",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 152,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Core rule | High-yield trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Article",
+          "Core rule",
+          "High-yield trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 449.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 285.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 173,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL POSITION: FORMAL HEAD, REAL EXECUTIVE AND RESPONSIBLE GOVERNMENT",
+      "preview": "START / CONCEPT: Constitutional position: formal head, real executive and responsible government",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 184,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appointment Of The Prime Minister And A Hung Lok Sabha is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 322.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 229,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Election result",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 533.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 266,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT OF THE PRIME MINISTER AND A HUNG LOK SABHA",
+      "preview": "START / CONCEPT: Appointment of the Prime Minister and a hung Lok Sabha",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 261.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 277,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualifications, The Non-Mp Rule, Oath, Term And Emoluments is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 298,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Question | Rule | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Question",
+          "Rule",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 447.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 250.622
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 308,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap firewall:** Non-membership is temporarily curable; disqualification is not automatically curable by waiting six months.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 329,
+      "heading": "CLOSING RECALL FLOW - QUALIFICATIONS, THE NON-MP RULE, OATH, TERM AND EMOLUMENTS",
+      "preview": "START / CONCEPT: Qualifications, the non-MP rule, oath, term and emoluments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 736.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 515.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 340,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Prime Minister'S Powers: Five Arenas is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 394.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 328.156
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 371,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PRIME MINISTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 427,
+      "heading": "CLOSING RECALL FLOW - THE PRIME MINISTER'S POWERS: FIVE ARENAS",
+      "preview": "START / CONCEPT: The Prime Minister's powers: five arenas",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 78: The Pm-President Information Bridge is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 464,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Duty (a)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 209.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 88.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 492,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 78: THE PM-PRESIDENT INFORMATION BRIDGE",
+      "preview": "START / CONCEPT: Article 78: the PM-President information bridge",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 490.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 503,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 74: Aid, Advice, Reconsideration And Judicial Inquiry is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 350.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 283.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 533,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Council tenders advice",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 561,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 74: AID, ADVICE, RECONSIDERATION AND JUDICIAL INQUIRY",
+      "preview": "START / CONCEPT: Article 74: aid, advice, reconsideration and judicial inquiry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 243.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 572,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 75 Clause-By-Clause is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 122.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 55.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 586,
+      "markdown_body_line_end": 595,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Clause | Proposition | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Clause",
+          "Proposition",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 432.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 616,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 75 CLAUSE-BY-CLAUSE",
+      "preview": "START / CONCEPT: Article 75 clause-by-clause",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 410.09
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 199.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 627,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Three Kinds Of Ministerial Responsibility is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 650,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "COLLECTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 567.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 700,
+      "heading": "CLOSING RECALL FLOW - THREE KINDS OF MINISTERIAL RESPONSIBILITY",
+      "preview": "START / CONCEPT: Three kinds of ministerial responsibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 671.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 450.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Council Of Ministers Versus Cabinet is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 329.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 262.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 736,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "+------------------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 745,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Council of Ministers | Cabinet",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Council of Ministers",
+          "Cabinet"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 499.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 770,
+      "heading": "CLOSING RECALL FLOW - COUNCIL OF MINISTERS VERSUS CABINET",
+      "preview": "START / CONCEPT: Council of Ministers versus Cabinet",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 383.49
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 172.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 781,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ministerial Ranks And Status Labels is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 807,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Cabinet Minister",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 345.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 834,
+      "heading": "CLOSING RECALL FLOW - MINISTERIAL RANKS AND STATUS LABELS",
+      "preview": "START / CONCEPT: Ministerial ranks and status labels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 845,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 91St Amendment: Ministry Cap And Defector Bar is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 870,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "91st Amendment, 2003",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 209.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 98.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 898,
+      "heading": "CLOSING RECALL FLOW - THE 91ST AMENDMENT: MINISTRY CAP AND DEFECTOR BAR",
+      "preview": "START / CONCEPT: The 91st Amendment: ministry cap and defector bar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 687.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 476.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 909,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pm Resignation, Death, Ministerial Exit And Continuity is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 322.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 255.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 930,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Event | Constitutional-political consequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Event",
+          "Constitutional-political consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 640.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 956,
+      "heading": "CLOSING RECALL FLOW - PM RESIGNATION, DEATH, MINISTERIAL EXIT AND CONTINUITY",
+      "preview": "START / CONCEPT: PM resignation, death, ministerial exit and continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 506.89
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 285.89
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 967,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 77 And The Rules Of Business is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 165.09
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 98.422
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 981,
+      "markdown_body_line_end": 991,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 77(1): Executive action expressed in President's name",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 684.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 583.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 999,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Question | Allocation of Business Rules, 1961 | Transaction of Business Rules, 1961",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Allocation of Business Rules, 1961",
+          "Transaction of Business Rules, 1961"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 583.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 442.09
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1034,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Policy problem / political commitment / field evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1055,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 77 AND THE RULES OF BUSINESS",
+      "preview": "START / CONCEPT: Article 77 and the Rules of Business",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 524.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 303.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1066,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet Committees is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 182.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 115.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1087,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Correct position | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "Correct position",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 702.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 516.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1101,
+      "heading": "Cabinet Committee versus Committee of Secretaries",
+      "preview": "Cabinet Committee | Committee of Secretaries",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Cabinet Committee",
+          "Committee of Secretaries"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 386.29
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 276.888
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - CABINET COMMITTEES",
+      "preview": "START / CONCEPT: Cabinet Committees",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 254.888
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet Secretariat: The Coordination Hub is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1161,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Prime Minister",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 437.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 296.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1190,
+      "heading": "CLOSING RECALL FLOW - CABINET SECRETARIAT: THE COORDINATION HUB",
+      "preview": "START / CONCEPT: Cabinet Secretariat: the coordination hub",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1201,
+      "markdown_body_line_end": 1201,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prime Minister'S Office is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1222,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Cabinet Secretariat | Prime Minister's Office",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Cabinet Secretariat",
+          "Prime Minister's Office"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 218.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 44.022
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1248,
+      "heading": "CLOSING RECALL FLOW - PRIME MINISTER'S OFFICE",
+      "preview": "START / CONCEPT: Prime Minister's Office",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 458.891
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kitchen Cabinet, Inner Circle And Groups Of Ministers is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 319.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 252.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1280,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "FORMAL ------------------------------------------------ INFORMAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1298,
+      "markdown_body_line_end": 1315,
+      "heading": "CLOSING RECALL FLOW - KITCHEN CABINET, INNER CIRCLE AND GROUPS OF MINISTERS",
+      "preview": "START / CONCEPT: Kitchen cabinet, inner circle and Groups of Ministers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 450.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 219.491
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1326,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Collective Decision-Making In Operation is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 98.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1340,
+      "markdown_body_line_end": 1360,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Minister-in-charge decides routine allocated business",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 567.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 366.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1386,
+      "heading": "CLOSING RECALL FLOW - COLLECTIVE DECISION-MAKING IN OPERATION",
+      "preview": "START / CONCEPT: Collective decision-making in operation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 276.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 55.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Majority, Coalition, Minority And Caretaker Situations is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1411,
+      "markdown_body_line_end": 1417,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Situation | PM's political room | Main constitutional control | Main risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Situation",
+          "PM's political room",
+          "Main constitutional control",
+          "Main risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 418.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 239.922
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1452,
+      "heading": "CLOSING RECALL FLOW - MAJORITY, COALITION, MINORITY AND CARETAKER SITUATIONS",
+      "preview": "START / CONCEPT: Majority, coalition, minority and caretaker situations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 487.491
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Parliamentary Accountability is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 366.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 300.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1489,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Daily information       Question Hour, statements, debates",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1499,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Instrument | What it tests | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Instrument",
+          "What it tests",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 686.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 513.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1525,
+      "heading": "CLOSING RECALL FLOW - PARLIAMENTARY ACCOUNTABILITY",
+      "preview": "START / CONCEPT: Parliamentary accountability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 379.89
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 158.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1536,
+      "markdown_body_line_end": 1536,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet Government Or Prime-Ministerial Government? is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1550,
+      "markdown_body_line_end": 1566,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Claim: power has shifted toward the PM",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 418.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1575,
+      "markdown_body_line_end": 1575,
+      "heading": "Qualified verdict",
+      "preview": "[ANALYSIS] India retains cabinet government in constitutional form, but may operate as prime-ministerial government in political practice. The degree changes with parliamentary arithmetic, party organisation, coalition structure, institutio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 132.224
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 51.356
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1596,
+      "heading": "CLOSING RECALL FLOW - CABINET GOVERNMENT OR PRIME-MINISTERIAL GOVERNMENT?",
+      "preview": "START / CONCEPT: Cabinet government or prime-ministerial government?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1607,
+      "markdown_body_line_end": 1607,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet Growth And Parliament'S Marginalisation is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1621,
+      "markdown_body_line_end": 1640,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Fusion of executive and legislature",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1649,
+      "markdown_body_line_end": 1666,
+      "heading": "CLOSING RECALL FLOW - CABINET GROWTH AND PARLIAMENT'S MARGINALISATION",
+      "preview": "START / CONCEPT: Cabinet growth and Parliament's marginalisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 482.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 261.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1677,
+      "markdown_body_line_end": 1677,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform Architecture is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 141.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 74.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1691,
+      "markdown_body_line_end": 1702,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Problem | Reform direction | Safeguard",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Problem",
+          "Reform direction",
+          "Safeguard"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 667.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 330.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1709,
+      "markdown_body_line_end": 1726,
+      "heading": "CLOSING RECALL FLOW - REFORM ARCHITECTURE",
+      "preview": "START / CONCEPT: Reform architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 259.69
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 38.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1737,
+      "markdown_body_line_end": 1737,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Master Comparison And Trap Firewall is best understood through its constitutional rule, operating mechanism and limiting accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1751,
+      "markdown_body_line_end": 1760,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Body/office | Nature | Main function | Accountable through | Common trap",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 8,
+        "headers": [
+          "Body/office",
+          "Nature",
+          "Main function",
+          "Accountable through",
+          "Common trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 183.822
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1781,
+      "markdown_body_line_end": 1798,
+      "heading": "CLOSING RECALL FLOW - MASTER COMPARISON AND TRAP FIREWALL",
+      "preview": "START / CONCEPT: Master comparison and trap firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 660.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 449.891
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2812,
+      "markdown_body_line_end": 2818,
+      "heading": "A1. Constitutional text versus political operating system",
+      "preview": "Constitutional layer | Political-operational layer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Constitutional layer",
+          "Political-operational layer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 356.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 225.69
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2828,
+      "markdown_body_line_end": 2839,
+      "heading": "A2. Case-law and institutional timeline",
+      "preview": "1951  B. R. Ambedkar tenders resignation over Hindu Code Bill issue",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 655.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2850,
+      "heading": "A3. Analytical labels with caution",
+      "preview": "Label | Attributed use | Proper exam use | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Label",
+          "Attributed use",
+          "Proper exam use",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 630.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 420.19
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2866,
+      "heading": "A4. Coalition-era variation",
+      "preview": "Cohesive majority",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 395.19
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 274.19
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2876,
+      "markdown_body_line_end": 2883,
+      "heading": "Demand map",
+      "preview": "Demand family | Directive | Answer spine",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Demand family",
+          "Directive",
+          "Answer spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 568.29
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2887,
+      "markdown_body_line_end": 2891,
+      "heading": "Mark-scaled evidence load",
+      "preview": "Marks | Structure | Evidence target",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence target"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 546.29
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 435.688
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2895,
+      "markdown_body_line_end": 2910,
+      "heading": "Universal answer spine",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 413.688
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 262.688
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2931,
+      "markdown_body_line_end": 2940,
+      "heading": "Constitutional operating chain",
+      "preview": "Lok Sabha support",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 649.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 558.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2960,
+      "markdown_body_line_end": 2969,
+      "heading": "Eligibility, oath and tenure",
+      "preview": "Point | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Point",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 119.69
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2987,
+      "markdown_body_line_end": 2987,
+      "heading": "Article 78 three-part recall",
+      "preview": "Memory line: **Communicate - Furnish - Collectivise.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 616.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2991,
+      "markdown_body_line_end": 2995,
+      "heading": "Responsibility doctrine",
+      "preview": "Type | Base | Consequence | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Base",
+          "Consequence",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 594.224
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 477.322
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3011,
+      "heading": "Council, Cabinet and ranks",
+      "preview": "Council of Ministers",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 372.322
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 301.322
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3031,
+      "markdown_body_line_end": 3037,
+      "heading": "Article 77 and business rules",
+      "preview": "Rule | Question answered",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Rule",
+          "Question answered"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3043,
+      "heading": "Article 77 and business rules",
+      "preview": "Department -> consultation -> unresolved issue ->",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 656.69
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 615.69
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3075,
+      "markdown_body_line_end": 3079,
+      "heading": "PMO, kitchen cabinet and GoMs",
+      "preview": "Mechanism | Nature | Use | Main caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Mechanism",
+          "Nature",
+          "Use",
+          "Main caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 197.49
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 101.588
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3098,
+      "markdown_body_line_end": 3106,
+      "heading": "Parliamentary accountability stack",
+      "preview": "Question Hour / statements",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 627.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 546.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3149,
+      "markdown_body_line_end": 3153,
+      "heading": "Routed PYQ map",
+      "preview": "Year | Demand | Core route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Demand",
+          "Core route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 628.09
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3192,
+      "markdown_body_line_end": 3212,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: RESPONSIBLE EXECUTIVE AND CONSTITUTIONAL CHAIN",
+      "preview": "00. RESPONSIBLE EXECUTIVE AND CONSTITUTIONAL CHAIN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 558.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3216,
+      "markdown_body_line_end": 3233,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: PRIME MINISTER APPOINTMENT, ELIGIBILITY AND CONFIDENCE",
+      "preview": "01. PRIME MINISTER APPOINTMENT, ELIGIBILITY AND CONFIDENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 536.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 362.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3237,
+      "markdown_body_line_end": 3254,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: PRIME MINISTER POWERS AND PRESIDENTIAL RELATION",
+      "preview": "02. PRIME MINISTER POWERS AND PRESIDENTIAL RELATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 340.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 166.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3258,
+      "markdown_body_line_end": 3275,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: COUNCIL, CABINET, RANKS AND THE 91ST AMENDMENT",
+      "preview": "03. COUNCIL, CABINET, RANKS AND THE 91ST AMENDMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3279,
+      "markdown_body_line_end": 3296,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: COLLECTIVE, INDIVIDUAL AND LEGAL RESPONSIBILITY",
+      "preview": "04. COLLECTIVE, INDIVIDUAL AND LEGAL RESPONSIBILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3300,
+      "markdown_body_line_end": 3320,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: ARTICLE 77 AND GOVERNMENT BUSINESS",
+      "preview": "05. ARTICLE 77 AND GOVERNMENT BUSINESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 190.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3324,
+      "markdown_body_line_end": 3341,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: CABINET COMMITTEES AND CURRENT CONTROL",
+      "preview": "06. CABINET COMMITTEES AND CURRENT CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3345,
+      "markdown_body_line_end": 3362,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: CABINET SECRETARIAT, PMO AND INFORMAL SUPPORT",
+      "preview": "07. CABINET SECRETARIAT, PMO AND INFORMAL SUPPORT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3366,
+      "markdown_body_line_end": 3383,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: CARETAKER, COALITION AND CONTINUITY",
+      "preview": "08. CARETAKER, COALITION AND CONTINUITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3387,
+      "markdown_body_line_end": 3404,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: PARLIAMENTARY ACCOUNTABILITY AND PRIME-MINISTERIAL GOVERNMENT",
+      "preview": "09. PARLIAMENTARY ACCOUNTABILITY AND PRIME-MINISTERIAL GOVERNMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 600.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3408,
+      "markdown_body_line_end": 3425,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: PYQ AND PRELIMS TRAP ROUTES",
+      "preview": "10. PYQ AND PRELIMS TRAP ROUTES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 578.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 403.891
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3429,
+      "markdown_body_line_end": 3449,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: ANSWER EXECUTION, REFORM AND QUALIFIED VERDICT",
+      "preview": "11. ANSWER EXECUTION, REFORM AND QUALIFIED VERDICT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 381.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 177.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    }
+  ]
+}

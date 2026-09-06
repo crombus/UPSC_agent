@@ -1,0 +1,2291 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 42,
+      "heading": "LEARNING ROADMAP",
+      "preview": "Stage | Complete coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Stage",
+          "Complete coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 307.89
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 56,
+      "markdown_body_line_end": 65,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 535.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 94,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\polity-10_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 108,
+      "markdown_body_line_end": 108,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India does not adopt the United Kingdom's ordinary-legislation model for every constitutional change or the United States' high federal ratification threshold for every amendment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 299.556
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 232.888
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 121,
+      "markdown_body_line_end": 121,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "India occupies a graded middle position: ordinary-law flexibility, Article 368 entrenchment and a judicially enforced substantive ceiling.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\01_flexibility_rigidity_spectrum.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "Flexibility-rigidity synthesis",
+      "preview": "**Qualified thesis:** India permits constitutional adaptation through graded procedures, but neither an ordinary majority nor an Article 368 super-majority is legally sovereign.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 196.265
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 151.598
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 165,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL DESIGN: CHANGE WITHOUT CONSTITUTIONAL DESTRUCTION",
+      "preview": "START / CONCEPT: Constitutional design: change without constitutional destruction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 736.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 505.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 176,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Constitution distinguishes law-making under distributed legislative competence from constitution-amending constituent power, because changing an ordinary rule is not the same as altering the higher legal framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 351.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 285.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 189,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Ordinary statutes and constitutional amendments operate in different fields and face different validity tests.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\02_constituent_vs_legislative_power.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 198,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Ordinary legislative power | Constituent power under Article 368",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Ordinary legislative power",
+          "Constituent power under Article 368"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 502.665
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 306.064
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 226,
+      "heading": "CLOSING RECALL FLOW - ORDINARY LEGISLATIVE POWER AND CONSTITUENT POWER",
+      "preview": "START / CONCEPT: Ordinary legislative power and constituent power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 237,
+      "markdown_body_line_end": 237,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's amendment design combines flexibility and rigidity by matching the degree of entrenchment to the constitutional importance and federal sensitivity of the provision being changed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 397.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 330.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The route is selected from the enabling constitutional provision, not from the political importance of the proposed change.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\03_three_route_decision_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 189.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 265,
+      "heading": "Route 1 - Constitutionally authorised ordinary law outside Article 368",
+      "preview": "Group | High-yield examples | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Group",
+          "High-yield examples",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 330.29
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 267,
+      "heading": "Route 1 - Constitutionally authorised ordinary law outside Article 368",
+      "preview": "**Close-option trap:** “Outside Article 368” does not always mean that every prior step uses a simple majority. Article 169 is the classic exception: the State Assembly resolution uses a special majority, while Parliament's law is ordinary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 330.29
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 271.422
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 306,
+      "heading": "CLOSING RECALL FLOW - THREE CONSTITUTIONAL CHANGE ROUTES",
+      "preview": "START / CONCEPT: Three constitutional change routes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 698.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 467.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 317,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "There is no joint sitting under Article 108 for a constitutional-amendment deadlock or rejection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 346.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 294.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 330,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The procedure contains sequential veto points; failure in either House cannot be cured by a joint sitting.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\04_article_368_procedure.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 378,
+      "heading": "CLOSING RECALL FLOW - EXACT ARTICLE 368 PROCEDURE",
+      "preview": "START / CONCEPT: Exact Article 368 procedure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 389,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Conditions of the Governor's office are not in the proviso list.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 398.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 402,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The exact Article, Chapter and Schedule groups are safer than the loose “SC/HC and federal provisions” shorthand.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\06_federal_ratification_list.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 225.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 443,
+      "heading": "CLOSING RECALL FLOW - FEDERAL RATIFICATION: THE EXACT PROVISO LIST",
+      "preview": "START / CONCEPT: Federal ratification: the exact proviso list",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 454,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Bill's 298 ayes failed this limb. [CURRENT] The Bill was therefore negatived in Lok Sabha.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 432.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The 2026 division cleanly demonstrates that an ordinary governing majority is not an amending majority.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\05_dual_majority_arithmetic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 207.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 483,
+      "heading": "Constitution (131st Amendment) Bill, 2026",
+      "preview": "Control | Correct use | Prohibited overstatement",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Control",
+          "Correct use",
+          "Prohibited overstatement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 366.265
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 224.464
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 485,
+      "heading": "Constitution (131st Amendment) Bill, 2026",
+      "preview": "**Exam line:** The 2026 division separates ordinary political control from constituent capacity: 298 votes were enough for the total-membership limb but not for the two-thirds present-and-voting limb.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 224.464
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 179.796
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 506,
+      "heading": "CLOSING RECALL FLOW - DUAL SPECIAL-MAJORITY ARITHMETIC: THE 2026 DEFEATED BILL",
+      "preview": "START / CONCEPT: Dual special-majority arithmetic: the 2026 defeated Bill",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 330
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 517,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kesavananda Bharati (1973) replaced an absolute rights lock with an identity-based limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 344.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 530,
+      "markdown_body_line_end": 530,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The chronology moves from unrestricted amendability, through Golak Nath's rights lock, to Kesavananda Bharati (1973)'s identity limit and later applications.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\07_doctrine_case_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 171.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 492.665
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 547,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Case / amendment | Exact holding or constitutional response | Exam qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 14,
+        "headers": [
+          "Case / amendment",
+          "Exact holding or constitutional response",
+          "Exam qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 492.665
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 494.69
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 577,
+      "heading": "CLOSING RECALL FLOW - DOCTRINE CHRONOLOGY: FROM FUNDAMENTAL RIGHTS AMENDABILITY TO CONSTITUTIONAL IDENTITY",
+      "preview": "START / CONCEPT: Doctrine chronology: from Fundamental Rights amendability to constitutional identity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 306.09
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 65.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 588,
+      "markdown_body_line_end": 588,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The power is nevertheless limited: an amendment cannot damage, destroy or abrogate the Constitution's basic structure or framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Kesavananda Bharati (1973) protects constitutional adaptability and constitutional identity at the same time.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\08_kesavananda_holding_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 120.198
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 619,
+      "heading": "What the Court did not do",
+      "preview": "**Memory formula:** wide power over every provision + no power to destroy constitutional identity = limited constituent power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 618.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 573.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 623,
+      "markdown_body_line_end": 640,
+      "heading": "CLOSING RECALL FLOW - KESAVANANDA BHARATI (1973): HOLDING ARCHITECTURE",
+      "preview": "START / CONCEPT: Kesavananda Bharati (1973): holding architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 551.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 330.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 651,
+      "markdown_body_line_end": 651,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The list remains illustrative and judicially evolving.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 205.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 152.556
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 664,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Recognised elements emerged across cases; attribution is safer than reciting a closed list.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\09_elements_case_attribution_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 437.865
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Principal attribution / use | Safe formulation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 16,
+        "headers": [
+          "Feature",
+          "Principal attribution / use",
+          "Safe formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 271.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 711,
+      "heading": "CLOSING RECALL FLOW - BASIC-STRUCTURE ELEMENTS: ILLUSTRATIVE AND CASE-ATTRIBUTED",
+      "preview": "START / CONCEPT: Basic-structure elements: illustrative and case-attributed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 722,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional amendments inserting laws into the Ninth Schedule after that date are open to basic-structure scrutiny.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 735,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Waman Rao (1980) supplies the temporal cut-off; I.R. Coelho (2007) supplies the rights-to-basic-structure impact test.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\10_ninth_schedule_review_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 220.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 782,
+      "heading": "CLOSING RECALL FLOW - NINTH SCHEDULE ARCHITECTURE",
+      "preview": "START / CONCEPT: Ninth Schedule architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 793,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "High-value correction: “The Act violates the basic structure” is incomplete.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 388.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 806,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The 2024 judgment requires an express constitutional hook when ordinary legislation is challenged.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\11_anjum_kadari_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 229.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 828,
+      "heading": "NJAC and tribunal qualification",
+      "preview": "**High-value correction:** “The Act violates the basic structure” is incomplete. For ordinary legislation write: “The Act violates Articles X/Y, which give concrete constitutional form to the relevant basic feature.”",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 139.865
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 95.198
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 849,
+      "heading": "CLOSING RECALL FLOW - THE ANJUM KADARI (2024) BOUNDARY: WHAT BASIC STRUCTURE DOES NOT DO",
+      "preview": "START / CONCEPT: The Anjum Kadari (2024) boundary: what basic structure does not do",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 860,
+      "markdown_body_line_end": 860,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 334A(1) states that the reservation provisions come into effect after publication of the relevant figures of the first census taken after commencement; and a delimitation exercise undertaken for this purpose. [CURRENT] Therefore, as",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 298.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 873,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 334A separates legal commencement from the later census-publication and delimitation gates.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\12_106th_commencement_vs_operation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 885,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Close-option trap:** commencement activates the amendment's legal framework; Article 334A separately postpones the reservation's operational effect.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 305.265
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 260.598
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CURRENT CONTROL I: 106TH AMENDMENT - COMMENCED, NOT OPERATIONAL",
+      "preview": "START / CONCEPT: Current control I: 106th Amendment - commenced, not operational",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 350
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "These remarks are a political and institutional debate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 956,
+      "heading": "CLOSING RECALL FLOW - CURRENT CONTROL II: THE 2023 ANNIVERSARY AND SOVEREIGNTY DEBATE",
+      "preview": "START / CONCEPT: Current control II: the 2023 anniversary and sovereignty debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 351
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 967,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualified verdict: The doctrine is best defended as a necessary form of judicial review under constitutional supremacy, but its legitimacy depends on disciplined attribution, a demanding damage test and refusal to use “basic structure” as a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 980,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The doctrine is defensible as judicial review only if courts remain text-linked, reasoned and institutionally restrained.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\13_doctrine_criticism_defence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1005,
+      "heading": "Judicial review versus judicial supremacy",
+      "preview": "Judicial review | Judicial supremacy",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Judicial review",
+          "Judicial supremacy"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 171.265
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 50.664
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1007,
+      "heading": "Judicial review versus judicial supremacy",
+      "preview": "**Qualified verdict:** The doctrine is best defended as a necessary form of judicial review under constitutional supremacy, but its legitimacy depends on disciplined attribution, a demanding damage test and refusal to use “basic structure” ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1028,
+      "heading": "CLOSING RECALL FLOW - EVALUATION: GUARDIAN OF CONSTITUTIONALISM OR JUDICIAL OVERREACH?",
+      "preview": "START / CONCEPT: Evaluation: guardian of constitutionalism or judicial overreach?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 300
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 709.424
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 458.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 368 is in Part XX, not Part III or Part XI.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 351.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 299.356
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1090,
+      "heading": "CLOSING RECALL FLOW - PRELIMS CLOSE-OPTION CONTROLS",
+      "preview": "START / CONCEPT: Prelims close-option controls",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 557.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 366.691
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1093,
+      "heading": "16. Answer-writing architecture",
+      "preview": "A complete answer moves from power and procedure to doctrine, applications, evaluation and a constitutional-supremacy verdict.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets\\14_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 341.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 41.065
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1104,
+      "heading": "Demand decoding",
+      "preview": "Demand | Mandatory spine | Frequent failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Demand",
+          "Mandatory spine",
+          "Frequent failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 557.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1112,
+      "heading": "Mark-scaled structures",
+      "preview": "Marks | Structure | Named evidence target",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Named evidence target"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 535.09
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 413.288
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "Original hard MCQs",
+      "preview": "**Rotation control:** Correct options run strictly **A -> B -> C -> D**, repeated seven times. Every option has been written to avoid answer-giving language.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 221.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 176.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1551,
+      "heading": "Remedial MCQs",
+      "preview": "These target the highest-frequency errors. Rotation continues **A -> C -> A -> D**, repeated twice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 744.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 714.424
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1663,
+      "markdown_body_line_end": 1674,
+      "heading": "PYQ provenance and answer-control ledger",
+      "preview": "Year | Stage | Question | Local source | Key control",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Stage",
+          "Question",
+          "Local source",
+          "Key control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 355.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 63.79
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1798,
+      "markdown_body_line_end": 1798,
+      "heading": "Prelims PYQ 1 - 2018 GS-I Q5",
+      "preview": "**INFERRED ANSWER - NOT OFFICIALLY VERIFIED.** The official 2018 key is unavailable locally. Confidence: high.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 631.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1841,
+      "markdown_body_line_end": 1841,
+      "heading": "Prelims PYQ 2 - 2019 GS-I Q45",
+      "preview": "**INFERRED ANSWER - NOT OFFICIALLY VERIFIED.** The official 2019 key is unavailable locally. Confidence: high.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 652.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1879,
+      "markdown_body_line_end": 1879,
+      "heading": "Prelims PYQ 3 - 2019 GS-I Q47",
+      "preview": "**INFERRED ANSWER - NOT OFFICIALLY VERIFIED.** The official 2019 key is unavailable locally. Confidence: high.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 729.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 699.224
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1921,
+      "markdown_body_line_end": 1921,
+      "heading": "Prelims PYQ 4 - 2020 GS-I Q13",
+      "preview": "**INFERRED ANSWER - NOT OFFICIALLY VERIFIED.** The official 2020 key is unavailable locally. Confidence: high.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1965,
+      "markdown_body_line_end": 1965,
+      "heading": "Prelims PYQ 5 - 2022 GS-I Q13",
+      "preview": "**INFERRED ANSWER - NOT OFFICIALLY VERIFIED.** The official 2022 key is unavailable locally. Confidence: high.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 764.891
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 734.424
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2004,
+      "markdown_body_line_end": 2004,
+      "heading": "Prelims PYQ 6 - 2023 GS-I Q34",
+      "preview": "**INFERRED ANSWER - NOT OFFICIALLY VERIFIED.** The official 2023 key is unavailable locally. Confidence: high.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 764.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 734.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2046,
+      "markdown_body_line_end": 2046,
+      "heading": "Prelims PYQ 7 - 2024 GS-I Q66",
+      "preview": "**OFFICIAL LOCAL KEY VERIFIED.** The official 2024 Set-A key directly records Q66 as **D**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 135.424
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 104.956
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2090,
+      "markdown_body_line_end": 2090,
+      "heading": "Prelims PYQ 8 - 2025 GS-I Q58",
+      "preview": "**OFFICIAL LOCAL KEY VERIFIED.** The official 2025 Set-A key directly records Q58 as **A**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 203.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 172.624
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2442,
+      "markdown_body_line_end": 2442,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Optional status:** The following material is additive. Every examinable mechanism, case, PYQ and answer route is already complete above.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 708.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 663.824
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2467,
+      "markdown_body_line_end": 2471,
+      "heading": "18. Comparative unconstitutional-constitutional-amendment doctrine",
+      "preview": "Model | Source of limit | Strength | Risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Model",
+          "Source of limit",
+          "Strength",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 255.624
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 159.722
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2504,
+      "markdown_body_line_end": 2509,
+      "heading": "Ordinary legislative power versus constituent power",
+      "preview": "Control | Ordinary legislation | Constitutional amendment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Control",
+          "Ordinary legislation",
+          "Constitutional amendment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 325.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 216.49
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2594,
+      "markdown_body_line_end": 2609,
+      "heading": "Case chronology - one-line holdings",
+      "preview": "Year | Authority | Recall line",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Authority",
+          "Recall line"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 576.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 254.69
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2746,
+      "markdown_body_line_end": 2767,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Constitutional change: flexible routes, entrenched identity",
+      "preview": "CONSTITUTIONAL CHANGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 554.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 339.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2771,
+      "markdown_body_line_end": 2791,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 368 procedure: separate Houses, no shortcuts",
+      "preview": "AMENDMENT BILL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 317.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 112.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2795,
+      "markdown_body_line_end": 2812,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Federal ratification: the exact Article 368 proviso map",
+      "preview": "RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2816,
+      "markdown_body_line_end": 2831,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: From Shankari Prasad (1951) to Minerva Mills (1980): the core doctrine chain",
+      "preview": "SHANKARI PRASAD (1951) -> amendment is not Article 13 \"law\"; FR may be amended",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 578.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 424.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2854,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Basic-structure elements: non-exhaustive and case-attributed",
+      "preview": "BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 207.691
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2883,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Ninth Schedule: insertion is not immunity after the 1973 cut-off",
+      "preview": "FIRST AMENDMENT, 1951",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 24,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 531.491
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2887,
+      "markdown_body_line_end": 2905,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: The Anjum Kadari (2024) boundary: amendments versus ordinary statutes",
+      "preview": "CONSTITUTIONAL AMENDMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 496.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 312.091
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2909,
+      "markdown_body_line_end": 2924,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Current evidence: defeated proposal versus commenced framework",
+      "preview": "131ST AMENDMENT BILL, 2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2928,
+      "markdown_body_line_end": 2944,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Doctrine evaluation: guardian of identity or judicial supremacy?",
+      "preview": "CRITICISM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2948,
+      "markdown_body_line_end": 2964,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Prelims traps and verified PYQ control",
+      "preview": "PRELIMS CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 261.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2968,
+      "markdown_body_line_end": 2986,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Marks-scaled Mains execution: 10, 15 and 20 marks",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2990,
+      "markdown_body_line_end": 2999,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current amendment-status control: proposal, commencement and operation",
+      "preview": "ANJUM KADARI (2024) INSC 831 -> no free-standing basic-structure attack on ordinary law",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 567.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 475.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    }
+  ]
+}

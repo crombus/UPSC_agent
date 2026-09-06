@@ -349,3 +349,39 @@ irrigation, fertiliser and terracing repeatedly override the "natural" suitabili
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** mechanical, chemical and biological weathering; regolith and
+  soil linkage; erosion versus mass movement; slope forces, triggers and
+  movement types; infiltration, percolation, porosity, permeability, aquifers,
+  water table, recharge/discharge, quality, depletion and Indian groundwater/
+  landslide settings.
+- **Process control:** rock/mineral and climate → in-situ breakdown → regolith;
+  slope/material/discontinuity/antecedent moisture → trigger → slide/flow/fall/
+  creep; precipitation/irrigation → infiltration → aquifer storage and flow →
+  discharge or pumping response.
+- **Scale/map control:** grain/pore, soil profile, hillslope, catchment, aquifer
+  and assessment-unit scales are distinct. Himalayan and Western Ghats
+  landslide regimes require separate lithology, relief, rainfall and land-use
+  explanations.
+- **Date/data control:** groundwater recharge, extraction stage, assessment-unit
+  category, notified area and landslide-susceptibility map require agency,
+  assessment year, methodology and scale. National values cannot diagnose one
+  aquifer or district.
+- **Terminology control:** weathering differs from erosion; erosion from mass
+  movement; porosity from permeability; aquifer from aquitard; water table from
+  piezometric surface; susceptibility, hazard, vulnerability and risk differ.
+- **Causal control:** intense rain is a trigger, not a complete landslide cause;
+  pumping is a stress, not proof of one depletion mechanism. Antecedent
+  moisture, discontinuities, toe cutting, drainage, recharge and demand must be
+  tested before attribution.
+- **Boundary:** Topic 05 owns fluvial erosion, drainage and river-basin
+  transfers; Topic 07 desertification; Topic 08 karst caves; Topic 09
+  lakes/wetlands; Topic 10 coastal erosion. Topic 04 owns in-situ breakdown,
+  slope transfer and groundwater.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2018 urban water
+  harvesting, 2021 black-soil formation, 2023 groundwater withdrawal, 2024
+  rainfall-weathering and 2025 chalk-clay permeability. The 2021 landslide
+  comparison is Disaster-Management-owned and the 2024 Gangetic-groundwater
+  demand is Topic-36-owned; both remain bounded bridges.

@@ -1503,6 +1503,30 @@ conclusion]."
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Infrastructure combines network assets and services with large sunk costs, externalities and coordination needs; PPPs allocate design, finance, construction, demand, operation and political risks contractually rather than eliminating them.
+- **Indispensable distinction and prerequisite taxonomy:** PPP is not privatisation, project cost is not annual expenditure, financial closure is not completion, viability-gap funding is not revenue guarantee, and asset creation is not service quality.
+- **Mechanism, implementation and evidence control:** Identify model, concession term, risk owner, tariff and contingent liability; separate announcement, award, construction, commissioning and utilisation while analysing multiplier lags, crowding-in, land, environment and federal execution.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The PPP in India homepage was substantively retrievable for institutional architecture. The DEA VGF and PIB logistics pages failed in the fetcher, so the package retains owner-sourced qualitative mechanics and avoids new ceilings, pipeline values, rankings or project counts. Sources: https://www.pppinindia.gov.in/; https://www.dea.gov.in/viability-gap-funding-vgf-scheme; https://www.pib.gov.in/PressReleasePage.aspx?PRID=1860192
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on CPEC, PPP concession design, infrastructure and inclusive growth, GatiShakti coordination, railway-station redevelopment and UDAN. Objective ledgers add green rural roads, UNOPS S3i, Vizhinjam and Sagarmala. The package solves verified Mains demands only and preserves answer-key neutrality for objective items.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Infrastructure service boundary?

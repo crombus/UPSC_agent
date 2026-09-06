@@ -138,6 +138,14 @@ class EconomyDeepReviewTests(unittest.TestCase):
                 all(value is None for row in rows for value in row["hard_gates"].values())
             )
 
+    def test_requested_semantic_date_and_sources_are_exact(self) -> None:
+        self.assertEqual("2026-09-06", deep.DATE)
+        self.assertEqual(set(range(1, 32)), set(deep.ECONOMY_LIVE_OFFICIAL_SOURCES))
+        self.assertEqual(set(range(1, 32)), set(deep.CANONICAL_OWNER_CONTROLS))
+        for number, (sources, note) in deep.ECONOMY_LIVE_OFFICIAL_SOURCES.items():
+            self.assertTrue(sources, number)
+            self.assertIn("6 September 2026", note)
+
     def test_allocation_rereads_live_state_and_publish_precedes_review(self) -> None:
         source = Path(deep.__file__).read_text(encoding="utf-8")
         allocation_base = Path(deep.__file__).with_name(

@@ -1306,6 +1306,40 @@ demand families before a qualified conclusion.
 > **Routing correction:** Core routing above supersedes the older ledger's `advanced/04`
 > pointer. `advanced/04` remains optional refinement only.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** family, household, marriage and
+  kinship are separate institutions organising reproduction, care, residence,
+  descent, alliance, inheritance, authority and identity. Nuclear residence is
+  not necessarily functional independence and matriliny is not matriarchy.
+- **Indispensable sociology:** Irawati Karve's regional kinship comparison,
+  Leela Dube's gendered kinship lens and the structural-versus-functional
+  nuclearisation distinction are bounded analytical tools. Descent, residence,
+  inheritance and authority must be compared on separate axes.
+- **India-specific and intersectional control:** compare north/south marriage
+  rules, Khasi/Garo matriliny, historically Nair matriliny, migrant nuclear
+  households and translocal joint obligations. Differentiate outcomes by caste,
+  class, gender, generation, religion, housing and region without converting a
+  visible urban trend into a national prevalence claim.
+- **Constitutional/legal boundary:** the Special Marriage Act, 1954 and Hindu
+  Succession (Amendment) Act, 2005 establish legal routes/capacity; personal-law,
+  domestic-violence, dowry and live-in doctrine remain Polity/Social Justice
+  detail. Legal capacity does not prove bargaining power or social acceptance.
+- **Data/source control:** NFHS-5 (2019-21) TFR 2.0 is a dated fertility
+  comparator. NFHS-6 (2023-24) was officially released on 29 May 2026, but no
+  NFHS indicator may be used to prove household form, nuclearisation or marriage
+  acceptance.
+- **Cross-owner boundary:** Topic 02 owns caste structure, Topic 07 women and
+  Topic 11 globalisation. Population, empowerment and poverty stay with Topics
+  06, 08 and 09.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for unit definitions, kinship theories,
+  regional exceptions, gendered power, technology/migration mechanisms and
+  survey limitations.
+- **Verified PYQ ownership, 2018-2026:** direct GS-I demands are 2022 Q8,
+  2023 Q8, 2023 Q10 and the family/kinship side of 2024 Q9. No official 2026
+  GS-I paper was available when checked on 5 September 2026.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Joint family?

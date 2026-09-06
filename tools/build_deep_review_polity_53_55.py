@@ -632,6 +632,21 @@ P55_PANELS = [
 ]
 
 
+def authored_panels(topic_key: str) -> tuple[tuple[str, str], ...]:
+    """Return the manually reviewed panel seed without mutating old generations."""
+    panels = {
+        "polity-53": P53_PANELS,
+        "polity-54": P54_PANELS,
+        "polity-55": P55_PANELS,
+    }
+    if topic_key not in panels:
+        raise ValueError(f"Unsupported deep-review panel seed: {topic_key}")
+    result = tuple(panels[topic_key])
+    if len(result) != 12 or len({title for title, _ in result}) != 12:
+        raise ValueError(f"{topic_key}: expected twelve unique authored panels.")
+    return result
+
+
 def mains_block(items: list[tuple[str, str, int, str]]) -> str:
     rows: list[str] = ["### Original solved Mains practice"]
     for number, (question, directive, marks, answer) in enumerate(items, 1):

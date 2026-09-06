@@ -298,3 +298,33 @@ India's borders.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** India's territorial evolution, Union and state/UT frame,
+  international land boundaries, maritime zones, borderland societies,
+  transboundary rivers, passes, valleys, corridors and the immediate
+  neighbourhood's spatial relationships.
+- **Boundary-theory control:** natural, geometric, antecedent, subsequent,
+  superimposed and relic describe morphology or genesis; they do not alone
+  establish legal validity, acceptance or present control. Delimitation,
+  demarcation, administration, management and settlement are distinct.
+- **Terminology control:** International Boundary, Line of Control, Line of
+  Actual Control and Actual Ground Position Line are not interchangeable.
+  Radcliffe, McMahon and Durand lines have different origins and contexts.
+- **Map completeness:** Pakistan and China sectors, Nepal, Bhutan,
+  Bangladesh and Myanmar land frontiers plus Sri Lanka and Maldives maritime
+  neighbourhood are reconstructed through rivers, ridges, passes, valleys,
+  enclaves/exclaves, border trade points, ports and corridors.
+- **Maritime-law control:** baseline, territorial sea, contiguous zone,
+  exclusive economic zone and continental shelf are different legal spaces;
+  sovereignty, sovereign rights and jurisdiction are not synonyms.
+- **Current-status control:** Sir Creek, Siachen/AGPL, LAC sectors, Doklam,
+  Kalapani-Lipulekh, Teesta and connectivity projects require exact official
+  bilateral/legal wording and an as-of date. Negotiation, agreement,
+  ratification, implementation and ground position are separate statuses.
+- **Source and ownership control:** Survey of India supplies the official
+  Indian map; MEA, MHA, domestic law and UN DOALOS serve different purposes.
+  International Relations and Internal Security own diplomacy and security;
+  Geography owns terminology, morphology, sectors, corridors and spatial
+  consequences. No disputed claim is presented as uncontested fact.

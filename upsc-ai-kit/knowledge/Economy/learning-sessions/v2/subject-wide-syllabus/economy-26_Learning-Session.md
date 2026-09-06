@@ -1396,6 +1396,30 @@ directive-matching conclusion]."
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** A current macro dashboard must reconcile growth, inflation, employment, fiscal, monetary, external and sectoral indicators using compatible vintages; Economic Survey analysis is distinct from Budget accounting and policy authority.
+- **Indispensable distinction and prerequisite taxonomy:** Survey projection is not Budget estimate, advance estimate is not final actual, calendar year is not financial year, nominal level is not real growth, and one high-frequency indicator is not the whole economy.
+- **Mechanism, implementation and evidence control:** Attach source, release date, reference period, unit, denominator and provisional/revised/final status to every number; never mix Budget or Survey editions and distinguish diagnosis/recommendation from enacted policy.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The official Economic Survey landing page was blocked. The package preserves the January 2026 Survey vintage exactly as recorded in the owner, treats its FY26 values as FAE or stated-period observations, and imports no later forecast, outturn or September 2026 dashboard value. Sources: https://www.indiabudget.gov.in/economicsurvey/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route the 2021 V-shaped-recovery Mains demand and the 2019 objective demand on the Global Competitiveness Report publisher. The package retains the provisional-versus-revised FY21 figures and does not infer an unavailable objective key.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies First Advance Estimate?

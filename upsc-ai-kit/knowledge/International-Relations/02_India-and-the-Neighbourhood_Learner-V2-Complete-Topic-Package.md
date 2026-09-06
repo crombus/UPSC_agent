@@ -1435,6 +1435,29 @@ country strategies.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Neighbourhood policy joins sovereignty, security, borders, rivers, connectivity, trade, energy, migration, culture and subregional cooperation; geographic proximity creates interdependence but does not erase each neighbour's agency or domestic politics.
+- **Indispensable distinction and prerequisite taxonomy:** Treaty text, political understanding, project announcement, financing agreement, construction, operationalisation and outcome are different statuses; a disputed or unsettled boundary must be described neutrally rather than converted into an accepted territorial claim.
+- **Mechanism, implementation and evidence control:** Use named India-centric evidence such as BBIN, BIMSTEC, coastal surveillance, power trade, development partnership and disaster relief only with exact membership, mandate, route, date and status; map interests, asymmetry, local consent and implementation risk.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: MEA country and SAARC briefs remain the authoritative current relationship baselines. Engagement, financing, project construction, operation, treaty renewal and political outcome remain separate; disputed boundaries and domestic transitions are described neutrally and with partner agency. Sources: https://www.mea.gov.in/Portal/ForeignRelation/India-SAARC-June-2026.pdf; https://www.mea.gov.in/Portal/ForeignRelation/India-Sri_Lanka-2025.pdf; https://www.mea.gov.in/Portal/ForeignRelation/Nepal-000doc.pdf; https://www.mea.gov.in/Portal/ForeignRelation/Bilateral.pdf
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One General Studies Paper II Mains demand is routed to this topic in the audited routing ledgers and it is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2022 General Studies Paper II question 9, on India's role in the recent crisis in Sri Lanka, a Discuss demand of 10 marks and 150 words, where the ledger records that the Core route supersedes the older Advanced ownership. Four objective demands are also routed to this owner and are carried as coverage requirements only: 2020 Prelims General Studies Paper I question 64 on India's trade with Sri Lanka, Bangladesh and Nepal, for which the official key is not held locally; 2023 Prelims General Studies Paper I question 10 on India's regional connectivity projects including the Trilateral Highway and the Bangladesh-China-India-Myanmar corridor, for which the official key is not held locally; and 2026 Prelims General Studies Paper I questions 61 and 67 on India's cross-border bridges with Bangladesh, Myanmar and Nepal and on Indian development-assistance projects matched with neighbouring partner countries and locations, for which only a provisional 2026 Set-A key is present locally. No option or answer letter is recorded or inferred for any objective demand, and the provisional status of the 2026 key is preserved exactly. The audited ledgers record no 2024-2025 Mains demand naming the wider South Asian neighbourhood, Maldives being separately addressed by the 2024 objective demand routed to topic 04, and that absence is stated honestly rather than filled by force-fitting an unrelated question. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demand; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, and none of them reproduces or claims an official answer.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and how its scope is bounded?

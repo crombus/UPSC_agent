@@ -1,0 +1,3247 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\polity-06_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\polity-06_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Citizenship - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-06` **Generation identity:** `polity-06:learner-v2:g16` · generated 28 August 2026 · supersedes `polity-06:learner-v2:g15` · approval remains false. **Approval:** false — expl",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 685.024
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 660.024
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 409.822
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\polity-06_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 707.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 399.956
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "Official live-status decision - checked through 28 August 2026",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CURRENT STATUS):** As verified on the located official record through 28 August 2026, the 2019 Act, 2024 Rules and 19 August 2026 procedural amendment are operative; specified Section 6B app",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 727.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 654.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "Official live-status decision - checked through 28 August 2026",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS + CURRENT-LAW CONTROL",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 654.624
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 624.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 123,
+      "heading": "Master learning roadmap",
+      "preview": "MEMBERSHIP + CITIZEN/ALIEN CAVEAT + RIGHTS TEXT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 684.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 132,
+      "heading": "Master learning roadmap",
+      "preview": "Stage | Classification | Examination result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stage",
+          "Classification",
+          "Examination result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 487.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Citizenship is the legally recognised membership of the Indian political community: it links allegiance and protection, allocates political voice and selected public offices, and remains principally statutory after the Constitution's commen",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 586.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 505.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 181,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (OPENING):** Citizenship is the legally recognised membership of the Indian political community: it links allegiance and protection, allocates political voice and selected public offices, and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 332.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 273.956
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 183,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (RIGHTS MAP):** India's rights map follows constitutional text, not a citizen-versus-alien slogan: Articles 14, 20, 21 and 25 protect persons; Articles 15, 16, 19 and 29 are citizen-specific;",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 273.956
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 215.088
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 185,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 215.088
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 184.62
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 187,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Citizenship links the Constitution at commencement to Parliament's present statutory framework.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\01_citizenship_membership_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 184.62
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 193,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The constitutional wording, not an exam-manual list, controls whether a right is citizen-specific.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\02_rights_and_alien_caveats.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 407.465
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 106.839
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 205,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Provision | Exact beneficiary language | Citizenship consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Provision",
+          "Exact beneficiary language",
+          "Citizenship consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 498.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 218,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Office or political role | Citizenship anchor | Caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Office or political role",
+          "Citizenship anchor",
+          "Caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 403.09
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 195.288
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 220,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**UPSC trap:** \"Only citizens possess fundamental rights.\" Wrong. Some rights are citizen-specific; many crucial protections, especially Articles 14 and 21, protect persons.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 195.288
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 150.62
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 241,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE CONSTITUTIONAL RIGHTS MAP",
+      "preview": "START / CONCEPT: Citizenship as legal membership: citizen, alien and the constitutional rights map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India combines one national citizenship and one Indian domicile with constitutionally authorised regional protection; residence preferences, Articles 16(3), 19(5) and 371 safeguards do not create State citizenship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SINGLE CITIZENSHIP):** India combines one national citizenship and one Indian domicile with constitutionally authorised regional protection; residence preferences, Articles 16(3), 19(5) and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 188.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 129.356
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 267,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 129.356
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 98.888
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 269,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Citizenship, domicile and residence answer three different legal questions.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\07_citizenship_domicile_residence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 275,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Concept | Core question | Legal effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Concept",
+          "Core question",
+          "Legal effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 502.665
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 358.464
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Close-option rule:** Citizenship is membership; domicile is permanent legal home; residence is a factual connection. One can reside in a State without becoming a different citizen.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 312,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP, DOMICILE AND RESIDENCE - AND WHY INDIA STILL HAS SINGLE CITIZENSHIP",
+      "preview": "START / CONCEPT: Citizenship, domicile and residence - and why India still has single citizenship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 723.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 323,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 5-8 identified citizens at commencement, Article 9 disqualified voluntary foreign citizenship for the specified commencement routes, Article 10 continued status subject to law, and Article 11 empowered Parliament to build the perma",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 338.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 257.756
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLES 5-11):** Articles 5-8 identified citizens at commencement, Article 9 disqualified voluntary foreign citizenship for the specified commencement routes, Article 10 continued status su",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 338,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 713.956
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 340,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Articles 5-11 must be learned separately before the scheme is compressed.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\03_articles_5_to_11_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 713.956
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 413.33
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 371,
+      "heading": "CLOSING RECALL FLOW - WHY ARTICLES 5-11 ARE TRANSITIONAL, BUT NOT UNIMPORTANT",
+      "preview": "START / CONCEPT: Why Articles 5-11 are transitional, but not unimportant",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 382,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "At commencement, a person became a citizen under Article 5 if the person had domicile in the territory of India and satisfied at least one of three connections.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 354.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 402,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Article 5 did not say \"anyone residing for five years became a citizen\". It required domicile **and** one of the three connections.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 94.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 49.556
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 423,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 5 - DOMICILE PLUS ONE OF THREE CONNECTING FACTORS",
+      "preview": "START / CONCEPT: Article 5 - domicile plus one of three connecting factors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 434,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 6 begins with an ancestry gate: the person, or either parent or any grandparent, had to be born in India as defined in the Government of India Act, 1935.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 447,
+      "markdown_body_line_end": 447,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Partition migration questions turn on 1 March 1947, 19 July 1948, commencement and the permit-return route.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\04_migration_cutoff_permit_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 197.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 456,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Migration date | Additional condition",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Migration date",
+          "Additional condition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 450.065
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 360.664
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** The six-month period does not replace the requirement that the application and registration route be completed in the constitutional time-frame before commencement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 327.264
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 282.596
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 481,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 6 - MIGRANTS FROM PAKISTAN AND THE 19 JULY 1948 DIVIDE",
+      "preview": "START / CONCEPT: Article 6 - migrants from Pakistan and the 19 July 1948 divide",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 260.596
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 492,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 7 overrides Articles 5 and 6 for a person who migrated from India to territory now included in Pakistan after 1 March 1947: such a person was not deemed an Indian citizen.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 660.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 594.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 511,
+      "markdown_body_line_end": 511,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** A temporary visit permit is not the constitutional expression. The Article speaks of a permit for resettlement or permanent return.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 306.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 262.156
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 532,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 7 - MIGRATION TO PAKISTAN AFTER 1 MARCH 1947 AND THE PERMIT-RETURN EXCEPTION",
+      "preview": "START / CONCEPT: Article 7 - migration to Pakistan after 1 March 1947 and the permit-return exception",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 543,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 8 covers a person ordinarily residing outside India if that person, or either parent or any grandparent, was born in India as defined in the Government of India Act, 1935, and the person was registered as an Indian citizen by an Ind",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 322.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 8 - PERSONS OF INDIAN ORIGIN ORDINARILY RESIDENT OUTSIDE INDIA",
+      "preview": "START / CONCEPT: Article 8 - persons of Indian origin ordinarily resident outside India",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 311
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The most accurate formulation is contextual: Article 9 directly qualifies the commencement routes in Articles 5, 6 and 8.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 630,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP DISQUALIFIER",
+      "preview": "START / CONCEPT: Article 9 - the commencement-context foreign-citizenship disqualifier",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 641,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Every person who is or is deemed to be a citizen under the preceding provisions continues as a citizen, subject to the provisions of any law made by Parliament.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 677,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 10 - CONTINUANCE SUBJECT TO PARLIAMENTARY LAW",
+      "preview": "START / CONCEPT: Article 10 - continuance subject to parliamentary law",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 688,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 11 declares that the preceding provisions do not detract from Parliament's power to make law concerning acquisition and termination of citizenship and all other citizenship matters.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 726,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 11 - PARLIAMENT'S CITIZENSHIP POWER",
+      "preview": "START / CONCEPT: Article 11 - Parliament's citizenship power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 737,
+      "markdown_body_line_end": 737,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Citizenship Act, 1955 creates five acquisition routes—birth, descent, registration, naturalisation and incorporation of territory—and three distinct loss routes—renunciation, termination and category-limited deprivation—each with its ow",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ACQUISITION / LOSS):** The Citizenship Act, 1955 creates five acquisition routes—birth, descent, registration, naturalisation and incorporation of territory—and three distinct loss routes—re",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 177.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 103.956
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 752,
+      "markdown_body_line_end": 752,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 103.956
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 73.488
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The Act creates five acquisition routes and three loss routes.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\06_acquisition_loss_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 756,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Memory hook:** Acquisition = **B-D-R-N-I**: Birth, Descent, Registration, Naturalisation, Incorporation. Loss = **R-T-D**: Renunciation, Termination, Deprivation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 502.665
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 457.998
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 764,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Route | Character | Main control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Route",
+          "Character",
+          "Main control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 457.998
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 316.196
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 787,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP ACT, 1955 - THE STATUTORY ARCHITECTURE",
+      "preview": "START / CONCEPT: Citizenship Act, 1955 - the statutory architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 294
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 798,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Close-option trap: \"Born in India equals citizen\" is safely true only for the first statutory period, and even that period remains subject to Section 3(2).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 811,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Birth and descent rules changed at different statutory dates.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\05_birth_descent_threshold_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 187.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 817,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Date of birth in India | Citizenship rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date of birth in India",
+          "Citizenship rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 502.665
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 392.064
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 826,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Close-option trap:** \"Born in India equals citizen\" is safely true only for the first statutory period, and even that period remains subject to Section 3(2).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 305.064
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 260.396
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 847,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE",
+      "preview": "START / CONCEPT: Citizenship by birth - three periods, not one rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 858,
+      "markdown_body_line_end": 858,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The descent route shows why parentage, date, registration and foreign nationality must be checked together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 875,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Birth outside India | Parent rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Birth outside India",
+          "Parent rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 177.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 77.622
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS",
+      "preview": "START / CONCEPT: Citizenship by descent - gender change, registration and foreign-passport controls",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 701.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 470.491
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Registration is not an automatic consequence of marriage, Indian ancestry or possession of an OCI card.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 330.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 278.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 936,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Section 5(1) category | Key condition",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Section 5(1) category",
+          "Key condition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 596.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 945,
+      "markdown_body_line_end": 945,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** \"Spouse of a citizen becomes a citizen on marriage.\" Wrong. Marriage creates eligibility for a statutory application route; residence, scrutiny, registration and oath remain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 509.69
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 465.022
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 966,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP BY REGISTRATION - LISTED CATEGORIES AND EXACT RESIDENCE LOGIC",
+      "preview": "START / CONCEPT: Citizenship by registration - listed categories and exact residence logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 430.022
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 6 permits the Central Government to grant a certificate to a full-age, capable applicant who is not an illegal migrant and satisfies the Third Schedule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 999,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "General qualification | Exact exam formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "General qualification",
+          "Exact exam formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 536.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 328.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1005,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**High-value trap:** \"CAA reduces naturalisation to five years\" is imprecise. It reduces the aggregate requirement from eleven to five for the specified class; the immediate twelve-month limb remains.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 261.822
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 217.154
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1026,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP BY NATURALISATION - THIRD SCHEDULE, WAIVER AND THE CAA MODIFICATION",
+      "preview": "START / CONCEPT: Citizenship by naturalisation - Third Schedule, waiver and the CAA modification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1037,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Citizenship (Pondicherry) Order, 1962 is the standard illustration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 466.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 414.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1073,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP BY INCORPORATION OF TERRITORY",
+      "preview": "START / CONCEPT: Citizenship by incorporation of territory",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1084,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trap: Renunciation is voluntary declaration; termination follows foreign citizenship; deprivation is a compulsory, category-limited government order.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1101,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Mode | Trigger | Decision structure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Mode",
+          "Trigger",
+          "Decision structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 211.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 89.422
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1131,
+      "heading": "Deprivation - category gate first, grounds second",
+      "preview": "**Trap:** Renunciation is voluntary declaration; termination follows foreign citizenship; deprivation is a compulsory, category-limited government order.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 451.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 406.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1135,
+      "markdown_body_line_end": 1152,
+      "heading": "CLOSING RECALL FLOW - LOSS OF CITIZENSHIP - RENUNCIATION, TERMINATION AND DEPRIVATION",
+      "preview": "START / CONCEPT: Loss of citizenship - renunciation, termination and deprivation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 384.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 163.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1163,
+      "markdown_body_line_end": 1163,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 6A is an Assam-specific route to Indian citizenship: pre-1966 entrants are deemed citizens, the 1966–before-25-March-1971 stream faces detection, registration and ten years without electoral-roll inclusion, and post-cut-off entrants",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1176,
+      "markdown_body_line_end": 1176,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SECTION 6A):** Section 6A is an Assam-specific route to Indian citizenship: pre-1966 entrants are deemed citizens, the 1966–before-25-March-1971 stream faces detection, registration and ten ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 361.956
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1178,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 361.956
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 331.488
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1180,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Section 6A creates pre-1966, 1966-1971 and post-1971 streams.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\08_assam_section6a_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 331.488
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1189,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Stream | Statutory consequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Stream",
+          "Statutory consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 766.49
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 612.288
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1219,
+      "heading": "CLOSING RECALL FLOW - ASSAM ACCORD, SECTION 6A AND THE NRC CUT-OFF",
+      "preview": "START / CONCEPT: Assam Accord, Section 6A and the NRC cut-off",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 292
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 469.888
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 248.888
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 29(1) protects the ability of a section of citizens to conserve language, script and culture; the petitioners had not proved that Section 6A itself destroyed that ability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 123.288
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 56.62
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1243,
+      "markdown_body_line_end": 1243,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The majority upheld Section 6A; the sole dissent would have invalidated it prospectively.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\09_section6a_judgment_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 335.865
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1282,
+      "markdown_body_line_end": 1299,
+      "heading": "CLOSING RECALL FLOW - IN RE: SECTION 6A (2024) (17 OCTOBER 2024) - THE CONTROLLING 4:1 JUDGMENT",
+      "preview": "START / CONCEPT: In Re: Section 6A (2024) (17 October 2024) - the controlling 4:1 judgment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 501.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 260.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1310,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "OCI is calibrated diaspora access for a foreign national—not dual citizenship—because notified mobility and socio-economic facilities coexist with no vote, no Indian passport and no claim to citizen-reserved public office.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 120.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 53.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1323,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (OCI):** OCI is calibrated diaspora access for a foreign national—not dual citizenship—because notified mobility and socio-economic facilities coexist with no vote, no Indian passport and no ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 577.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1325,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 577.624
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 547.156
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1327,
+      "markdown_body_line_end": 1327,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Citizen, NRI and OCI are distinct statuses; PIO is now a legacy card category.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\10_oci_nri_citizen_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 547.156
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 246.53
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1336,
+      "heading": "Evolution",
+      "preview": "Stage | Development",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Development"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 224.53
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 115.128
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1376,
+      "markdown_body_line_end": 1381,
+      "heading": "Cancellation",
+      "preview": "Status | Citizen? | Vote? | Passport/nationality | Typical India connection",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 4,
+        "headers": [
+          "Status",
+          "Citizen?",
+          "Vote?",
+          "Passport/nationality",
+          "Typical India connection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 241.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 93.39
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1383,
+      "markdown_body_line_end": 1383,
+      "heading": "Cancellation",
+      "preview": "**Trap:** NRI describes a citizen's residence position; OCI describes a foreign national's statutory card status.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 93.39
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 62.922
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1404,
+      "heading": "CLOSING RECALL FLOW - OCI AND PIO EVOLUTION - DIASPORA CONNECTION WITHOUT CITIZENSHIP",
+      "preview": "START / CONCEPT: OCI and PIO evolution - diaspora connection without citizenship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "That does not transform Aadhaar into universal proof of Indian citizenship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1428,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CAA eligibility is defined by community, country, entry date, exemption and territorial exclusions.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\11_caa_eligibility_exclusions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 152.824
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1502,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP (AMENDMENT) ACT, 2019 AND RULES 2024 - EXACT OPERATION",
+      "preview": "START / CONCEPT: Citizenship (Amendment) Act, 2019 and Rules 2024 - exact operation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 310
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 497.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 246.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1520,
+      "markdown_body_line_end": 1521,
+      "heading": "21A. Post-2024 current-law control: immigration exemption is not citizenship",
+      "preview": "**UPSC trap:** 31 December 2024 now appears in an immigration exemption; 31 December 2014 remains the CAA citizenship-entry cut-off.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1533,
+      "markdown_body_line_end": 1533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The CAA debate turns on whether a six-community, three-country and 31-December-2014 facilitation is a reasonable humanitarian classification or an under-inclusive religion-coded preference incompatible with Article 14 and secularism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 604.624
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 523.756
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1546,
+      "markdown_body_line_end": 1546,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CAA DEBATE):** The CAA debate turns on whether a six-community, three-country and 31-December-2014 facilitation is a reasonable humanitarian classification or an under-inclusive religion-cod",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 365.156
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 306.288
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1548,
+      "markdown_body_line_end": 1548,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 306.288
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 275.82
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1550,
+      "markdown_body_line_end": 1550,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "A high-scoring CAA answer states the exact class, applies Article 14 and ends with a sub judice qualification.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets\\12_caa_article14_mains_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 275.82
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1576,
+      "markdown_body_line_end": 1593,
+      "heading": "CLOSING RECALL FLOW - CAA, ARTICLE 14, SECULARISM AND ASSAM - ARGUMENT TREE, NOT SLOGAN",
+      "preview": "START / CONCEPT: CAA, Article 14, secularism and Assam - argument tree, not slogan",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1604,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India does not use one universal card that proves every route of citizenship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 426.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 374.224
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1624,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Document/status | What it can establish | What it cannot universally establish by itself",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Document/status",
+          "What it can establish",
+          "What it cannot universally establish by itself"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 528.29
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1628,
+      "markdown_body_line_end": 1628,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** A document may be evidence of a fact relevant to citizenship without itself being citizenship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 480.69
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 450.222
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1632,
+      "markdown_body_line_end": 1649,
+      "heading": "CLOSING RECALL FLOW - CITIZENSHIP PROOF AND DOCUMENT TRAPS",
+      "preview": "START / CONCEPT: Citizenship proof and document traps",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 428.222
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 197.222
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1669,
+      "markdown_body_line_end": 1669,
+      "heading": "25. Mains answer architecture and qualified conclusions",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FINAL VERDICT):** Indian citizenship law is constitutionally founded, statutorily administered and judicially reviewable; its legitimacy depends on reconciling equal membership and fraternit",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 612.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 553.424
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1671,
+      "markdown_body_line_end": 1671,
+      "heading": "25. Mains answer architecture and qualified conclusions",
+      "preview": "**CONTENT CLASSIFICATION:** CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 553.424
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 522.956
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2195,
+      "markdown_body_line_end": 2198,
+      "heading": "PYQ provenance audit",
+      "preview": "PYQ | Verification status | Treatment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "PYQ",
+          "Verification status",
+          "Treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 543.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 442.69
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2485,
+      "markdown_body_line_end": 2490,
+      "heading": "H. A citizenship decision has at least four review layers",
+      "preview": "Layer | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Layer",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 592.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 483.09
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2550,
+      "markdown_body_line_end": 2558,
+      "heading": "Articles 5-11 rapid spine",
+      "preview": "Article | One-line rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Article",
+          "One-line rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 619.09
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2569,
+      "markdown_body_line_end": 2569,
+      "heading": "Acquisition under the Citizenship Act, 1955",
+      "preview": "**Mnemonic:** B-D-R-N-I = Birth, Descent, Registration, Naturalisation, Incorporation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 486.09
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 455.622
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2603,
+      "markdown_body_line_end": 2603,
+      "heading": "Loss under the Act",
+      "preview": "**Mnemonic:** R-T-D = Renunciation, Termination, Deprivation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 754.824
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2660,
+      "markdown_body_line_end": 2662,
+      "heading": "CAA Article 14 answer frame",
+      "preview": "Critique | Defence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Critique",
+          "Defence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 556.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 488.69
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2701,
+      "markdown_body_line_end": 2716,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Citizenship: membership, rights and single national status",
+      "preview": "PERSON WITHIN INDIA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 481.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2720,
+      "markdown_body_line_end": 2730,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Articles 5-7: commencement citizenship decision tree",
+      "preview": "AT COMMENCEMENT: 26 JANUARY 1950",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 356.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2734,
+      "markdown_body_line_end": 2743,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Articles 8-11: diaspora, disqualification, continuity and Parliament",
+      "preview": "ARTICLE 8 -> Indian origin abroad + diplomatic/consular registration",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 334.491
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 241.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2747,
+      "markdown_body_line_end": 2756,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Five acquisition routes and their exact gates",
+      "preview": "CITIZENSHIP ACT, 1955",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2760,
+      "markdown_body_line_end": 2771,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Birth, descent and registration: date-and-category drill",
+      "preview": "BIRTH IN INDIA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2775,
+      "markdown_body_line_end": 2788,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Loss, safeguards and OCI cancellation are category-specific",
+      "preview": "RENUNCIATION -> full-age citizen declaration; minor follows with resumption window",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 537.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2792,
+      "markdown_body_line_end": 2803,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Assam Section 6A: three streams and the controlling judgment",
+      "preview": "ASSAM-SPECIFIC SECTION 6A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 269.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2807,
+      "markdown_body_line_end": 2816,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: CAA class and the 19 August 2026 Collector procedure",
+      "preview": "CAA CLASS = six communities + three countries + entry on/before 31 Dec 2014",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2820,
+      "markdown_body_line_end": 2831,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: CAA equality debate and territorial protections",
+      "preview": "ARTICLE 14 TEST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2844,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Documents and exact PYQ controls",
+      "preview": "PROOF HIERARCHY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 537.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 445.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2848,
+      "markdown_body_line_end": 2860,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Executable 10, 15 and 20-mark answer architecture",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 423.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 299.891
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2864,
+      "markdown_body_line_end": 2880,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Qualified synthesis: membership under constitutional supervision",
+      "preview": "INDIAN CITIZENSHIP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    }
+  ]
+}

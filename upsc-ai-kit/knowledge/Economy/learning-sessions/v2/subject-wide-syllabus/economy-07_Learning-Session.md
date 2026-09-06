@@ -1448,6 +1448,30 @@ participants.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Money markets fund short maturities and liquidity; capital markets fund longer-term debt/equity and risk transfer through primary issuance and secondary trading across instruments with distinct issuers, tenors and settlement.
+- **Indispensable distinction and prerequisite taxonomy:** Primary is not secondary, money market is not merely cash, yield is not coupon, price moves inversely to yield for a plain bond, and liquidity, credit, duration and market risks are distinct.
+- **Mechanism, implementation and evidence control:** State issuer, maturity, claim, quotation, collateral, regulator and settlement; distinguish stock from flow and instrument from institution, and qualify policy transmission through risk premia and market depth.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The live RBI pages confirmed current market-segment labels and the dated NDS-OM access framework. Volumes, rates and auction results were intentionally omitted from stable anchors because they are date-specific operational data. Sources: https://www.rbi.org.in/Scripts/BS_ViewMMO.aspx; https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13376
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route objective demands on CBLO or TREPS, corporate-bond and G-Sec investors, financial-instrument classification, sovereign bonds, RTGS and NEFT, T-Bills, non-financial debt, bond yields, NDS-OM, CDSL and credit-rating agencies here. No answer letter is inferred.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Money-market boundary?

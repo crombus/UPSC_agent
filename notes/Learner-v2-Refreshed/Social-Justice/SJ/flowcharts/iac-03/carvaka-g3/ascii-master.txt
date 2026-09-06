@@ -1,0 +1,84 @@
+ASCII MASTER FLOW — PANEL 1/12: Coverage cube
+POPULATION -> breadth: who is covered, all citizens or identified beneficiaries
+SERVICES -> depth: promotive, preventive, curative and rehabilitative care
+FINANCIAL PROTECTION -> height: how little the household pays at the point of care
+RULE -> a system can widen one edge while narrowing another; test all three
+MUST REMEMBER: Universal health coverage requires promotive, preventive, curative,...
+
+ASCII MASTER FLOW — PANEL 2/12: Policy and mission card
+POLICY 2017 -> raise public health expenditure to 2.5 per cent of gross domestic product
+ITS STATUS -> a policy document, not an enacted statute; commitments, not entitlements
+RURAL MISSION -> launched 12 April 2005 for the rural population and vulnerable groups
+URBAN MISSION -> Union Cabinet decision dated 1 May 2013 created it as a sub-mission
+SPECIAL FOCUS -> Empowered Action Group States, North East, Jammu and Kashmir, Himachal
+BENCHMARK -> facilities measured against the Indian Public Health Standards
+
+ASCII MASTER FLOW — PANEL 3/12: Two pillars kept apart
+PILLAR ONE -> wellness centres and health mandirs; comprehensive primary health care
+ITS PACKAGE -> twelve services including non-communicable disease and mental health
+ITS STAFF -> community health officer or mid-level health provider
+PILLAR TWO -> cashless secondary and tertiary hospitalisation cover
+ITS QUANTUM -> up to five lakh rupees per family per year at empanelled hospitals
+
+ASCII MASTER FLOW — PANEL 4/12: Two enrolment routes
+CORE ROUTE -> eligibility-based, identified through census deprivation criteria
+AGE ROUTE -> every citizen aged seventy and above may enrol regardless of income
+PRECISION -> the age route is universal only for that age group
+ERROR TO AVOID -> writing an age-specific expansion up as universal cover for all ages
+
+ASCII MASTER FLOW — PANEL 5/12: Source discipline card
+HEALTH AUTHORITY -> implements the hospitalisation pillar; empanels and pays claims
+HEALTH ACCOUNTS -> official estimates of public, private and out-of-pocket spending
+SEQUENCE -> 47.1 per cent in 2019-20; 44.4 per cent in 2020-21; 39.4 per cent in 2021-22
+RULE -> never confuse the publication date with the accounting year
+MEANING -> a high share signals weak public provision, not high utilisation
+
+ASCII MASTER FLOW — PANEL 6/12: Impoverishment mechanism
+ILLNESS -> care is sought from a provider outside the funded public layer
+-> OUT-OF-POCKET PAYMENT at the point of service
+-> CATASTROPHIC SPENDING: above a threshold share of household income or consumption
+-> ASSET SALE OR DEBT: years of accumulation are undone by one hospitalisation
+LINK -> this is where the health owner meets the poverty owner
+CLOSE DISTINCTION: UHC is not free hospitalisation alone, insurance coverage is not...
+
+ASCII MASTER FLOW — PANEL 7/12: Referral spine
+SUB-CENTRE -> first contact; outreach and community-level services
+PRIMARY HEALTH CENTRE -> preventive, promotive and basic curative care
+COMMUNITY HEALTH CENTRE -> specialist outpatient and inpatient care
+DISTRICT HOSPITAL -> secondary care and the gateway to tertiary referral
+USE -> name the failing tier; a vacancy, a diagnostic gap and a specialist shortage differ
+
+ASCII MASTER FLOW — PANEL 8/12: Marketisation and its harms
+PRIVATE DOMINANCE IN CURATIVE CARE -> often unregulated or under-regulated
+-> HIGH COSTS and unnecessary procedures
+-> CATASTROPHIC SPENDING and inequitable access
+BALANCE -> do not deny private capacity, and do not assume regulation is automatic
+
+ASCII MASTER FLOW — PANEL 9/12: Regulatory toolkit
+CLINICAL ESTABLISHMENTS ACT, 2010 -> registration and regulation of establishments
+ITS CONDITION -> States must adopt it or notify equivalent legislation; adoption varies
+PRICE CAPPING -> exercised over devices by the pharmaceutical pricing authority
+TREATMENT GUIDELINES -> promote rational care and cost control; uptake varies
+RULE -> name the adoption gap a regulatory recommendation is meant to close
+
+ASCII MASTER FLOW — PANEL 10/12: Financing families and chain
+SOCIAL HEALTH INSURANCE -> contribution-linked pooling, as in the employees system
+TAX-FUNDED -> general revenue, as in the health mission and the hospitalisation pillar
+CHAIN -> revenue collection to risk pooling to strategic purchasing to provision
+GAP -> insurance leaves prevention, medicines and outpatient spending unresolved
+TRAP -> calling the tax-funded pillar a contributory insurance scheme
+
+ASCII MASTER FLOW — PANEL 11/12: Community health mapping
+EQUITY -> reach the underserved first rather than the easiest to reach
+PARTICIPATION -> village health, sanitation and nutrition committees
+INTER-SECTORAL ACTION -> water, sanitation, nutrition and gender equality
+APPROPRIATE TECHNOLOGY -> frontline health activists and auxiliary nurse midwives
+INSTITUTION -> the upgraded wellness centre as the named Indian delivery point
+
+ASCII MASTER FLOW — PANEL 12/12: Capacity limits and answer spine
+CONDITION -> Union financing and standards depend on State delivery capacity
+GAP -> workforce vacancies and uneven capacity limit identical national schemes
+MENTAL HEALTH -> a statutory right and a tele-service still need district professionals
+OPEN -> name the coverage dimension tested; BUILD -> provision plus regulation
+CLOSE -> graded verdict with a dashboard-count caveat and a reversal condition
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map Union-state-local responsibilities,...

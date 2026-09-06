@@ -1328,6 +1328,48 @@ rather than a fixed historical figure. Distinguish also an **announced target** 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** communalism is the political and
+  social mobilisation of religious community identity as if internally
+  diverse communities were homogeneous and opposed interest blocs. Religion,
+  religiosity, prejudice, discrimination, mobilisation and collective violence
+  are distinct stages or concepts, not synonyms.
+- **Indispensable sociology:** primordialism explains durable attachment;
+  instrumentalist and constructivist accounts explain activation and boundary
+  hardening; power struggle and relative deprivation become consequential when
+  organisation converts grievance into mobilisation. No theory makes conflict
+  natural, inevitable or biologically rooted.
+- **Mechanism and historical evolution:** colonial representation and
+  competitive politics are cross-linked to Modern History. In contemporary
+  analysis, segregation, unequal competition, selective memory, rumour,
+  organisational framing and weak or partisan institutions create enabling
+  conditions; a proximate incident is a trigger, not a complete cause.
+- **Constitutional/legal boundary:** Articles 14-16 and 25-30 provide the
+  equality, conscience and minority-rights frame; public order and detailed
+  doctrine remain Polity-owned. The Places of Worship (Special Provisions) Act,
+  1991 supplies a dated stability example, not permission to infer pending
+  litigation or adjudicate historical claims.
+- **Anti-stereotyping and response discipline:** analyse actors, incentives,
+  institutions and local evidence rather than attributing collective traits to
+  a religious community or assigning collective blame. Institutional
+  impartiality, verified information,
+  protection, accountability and sustained civic/economic contact are separate
+  trust-repair mechanisms; mere state presence is not impartiality.
+- **Data/source control:** MHA annual reports are official administrative
+  sources, but no incident or casualty count is used without year, definition,
+  coverage and status. Statutory category, reported incident, prosecution,
+  conviction and lived reconciliation are separate evidence units.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for conceptual separation, theory, historical
+  mechanisms, trigger/structure distinction, institutional response,
+  constitutional ownership, data limits and anti-stereotyping discipline.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover power struggle
+  versus relative deprivation in 2018 and the post-liberal economy, ethnic
+  identity and communalism in 2023. No direct standalone 2024-2025 route and no
+  unavailable 2026 question, riot statistic, casualty figure or collective
+  blame is invented.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Ambient-standard boundary?

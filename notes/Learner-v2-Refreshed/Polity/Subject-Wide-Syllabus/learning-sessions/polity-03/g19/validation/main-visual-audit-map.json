@@ -1,0 +1,3467 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\polity-03_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\polity-03_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Salient Features of the Indian Constitution - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-03` **Generation identity:** `polity-03:learner-v2:g18` · generated 28 August 2026 · supersedes `polity-03:learner-v2:g17` in metadata only **Approval:** false — explicit appr",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 403.022
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 46,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\polity-03_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 102,
+      "markdown_body_line_end": 102,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A salient feature is a recurring design characteristic that explains how the constitutional order is organised, limited and directed; it is wider than one provision and narrower than the Constitution as a whole.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 391.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 115,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (OPENING DEFINITION):** A salient constitutional feature matters through its relationship with other features, as federal distribution, parliamentary responsibility, rights and review jointly",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 218.424
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 159.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 118,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "What counts as a salient constitutional feature",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\01_constitutional_architecture_overview.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 127,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Meaning | Example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 469.265
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 348.664
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 147,
+      "markdown_body_line_end": 164,
+      "heading": "CLOSING RECALL FLOW - WHAT COUNTS AS A SALIENT CONSTITUTIONAL FEATURE",
+      "preview": "START / CONCEPT: WHAT COUNTS AS A SALIENT CONSTITUTIONAL FEATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 728.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 477.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 175,
+      "markdown_body_line_end": 175,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's written detail is an accommodation device: it constitutionalises diversity and administration, while remaining dependent on conventions, interpretation and implementation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 356.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 290.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 188,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** India's written detail is an accommodation device: it constitutionalises diversity and administration, while remaining dependent on conventions, interpretation and implemen",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 117.424
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 58.556
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 191,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Written, lengthy and detailed Constitution",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\02_written_length_detail_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 469.265
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 200,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Constitutional significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Constitutional significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 435.865
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 304.064
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 237,
+      "heading": "CLOSING RECALL FLOW - WRITTEN, LENGTHY AND DETAILED CONSTITUTION",
+      "preview": "START / CONCEPT: WRITTEN, LENGTHY AND DETAILED CONSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 706.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Constitution is borrowed in ancestry but original in design because the framers selected, adapted and rejected foreign devices to serve Indian conditions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 325.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 259.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 261,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The Constitution is borrowed in ancestry but original in design because the framers selected, adapted and rejected foreign devices to serve Indian conditions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 264,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Borrowed sources as adaptation, not copying",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\03_borrowed_adaptation_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 711.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 410.398
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 275,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source | Adapted feature | Indian alteration / context",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source",
+          "Adapted feature",
+          "Indian alteration / context"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 376.998
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 146.796
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 312,
+      "heading": "CLOSING RECALL FLOW - BORROWED SOURCES AS ADAPTATION, NOT COPYING",
+      "preview": "START / CONCEPT: BORROWED SOURCES AS ADAPTATION, NOT COPYING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 530.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 279.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 323,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Blend Of Rigidity And Flexibility comprises Blend Of Rigidity, Flexibility and Cross-link as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 158.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 92.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Blend Of Rigidity And Flexibility comprises Blend Of Rigidity, Flexibility and Cross-link as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 686.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 642.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 339,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Blend of rigidity and flexibility",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\04_amendment_flexibility_spectrum.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 608.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 308.198
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 348,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Route | Core logic | Significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Route",
+          "Core logic",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 274.798
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 109.396
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW - BLEND OF RIGIDITY AND FLEXIBILITY",
+      "preview": "START / CONCEPT: BLEND OF RIGIDITY AND FLEXIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 513.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 292.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian federalism distributes power to accommodate diversity, but retains centralising, cooperative and asymmetric devices so the Union can coordinate without erasing the States.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 138.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 71.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 409,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ANALYTICAL TRANSITION):** Indian federalism distributes power to accommodate diversity, but retains centralising, cooperative and asymmetric devices so the Union can coordinate without erasi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 636.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 577.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 412,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Federal system with centralising, cooperative and asymmetric dimensions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\05_federal_unitary_spectrum.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 544.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 243.598
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 422,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Federal dimension | Illustration | Centralising / qualifying feature",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Federal dimension",
+          "Illustration",
+          "Centralising / qualifying feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 224.398
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 60.196
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 460,
+      "heading": "CLOSING RECALL FLOW - FEDERAL SYSTEM WITH CENTRALISING, COOPERATIVE AND ASYMMETRIC DIMENSIONS",
+      "preview": "START / CONCEPT: FEDERAL SYSTEM WITH CENTRALISING, COOPERATIVE AND ASYMMETRIC DIMENSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 364.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 133.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Parliamentary government makes the executive continuously responsible to the elected lower House, although disciplined majorities can turn legislative confidence into executive dominance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 484,
+      "markdown_body_line_end": 484,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Parliamentary government makes the executive continuously responsible to the elected lower House, although disciplined majorities can turn legislative confidence into execu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 376.156
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 487,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Parliamentary government and responsible executive",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\06_parliamentary_accountability_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 342.756
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 42.13
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 496,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Mechanism | Risk / qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Mechanism",
+          "Risk / qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - PARLIAMENTARY GOVERNMENT AND RESPONSIBLE EXECUTIVE",
+      "preview": "START / CONCEPT: PARLIAMENTARY GOVERNMENT AND RESPONSIBLE EXECUTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 269.29
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 48.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 13, 32 and 226 make constitutional limits enforceable; Article 368 supplies broad amendment power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 557,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ANALYTICAL TRANSITION):** Articles 13, 32 and 226 make constitutional limits enforceable; Article 368 supplies broad amendment power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 390.356
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 560,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Parliamentary power, judicial review and constitutional supremacy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\08_supremacy_review_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 356.956
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 56.33
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 569,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Indian position | Close-option control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Indian position",
+          "Close-option control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 637.89
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 586,
+      "markdown_body_line_end": 603,
+      "heading": "CLOSING RECALL FLOW - A. SYNTHESIS OF PARLIAMENTARY POWER, JUDICIAL REVIEW AND CONSTITUTIONAL SUPREMACY",
+      "preview": "START / CONCEPT: A. SYNTHESIS OF PARLIAMENTARY POWER, JUDICIAL REVIEW AND CONSTITUTIONAL SUPREMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 375.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 154.69
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 614,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India separates core functions without isolating organs; constitutional overlaps are legitimate only when reciprocal checks prevent concentration of power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 627,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** India separates core functions without isolating organs; constitutional overlaps are legitimate only when reciprocal checks prevent concentration of power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 376.156
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 630,
+      "markdown_body_line_end": 630,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Separation of powers through checks and balances",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\07_checks_balances_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 342.756
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 42.13
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 640,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Constitutional marker | What it protects | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Constitutional marker",
+          "What it protects",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 605.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 677,
+      "heading": "CLOSING RECALL FLOW - SEPARATION OF POWERS THROUGH CHECKS AND BALANCES",
+      "preview": "START / CONCEPT: SEPARATION OF POWERS THROUGH CHECKS AND BALANCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 262.29
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 41.29
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 688,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional supremacy converts political power into legally bounded authority: every organ must show competence, fair procedure and respect for enforceable rights.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 701,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Constitutional supremacy converts political power into legally bounded authority: every organ must show competence, fair procedure and respect for enforceable rights.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 361.956
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 704,
+      "markdown_body_line_end": 704,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Constitutional supremacy, rule of law and limited government",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\08_supremacy_review_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 328.556
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 713,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Idea | Core test | Exam distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Idea",
+          "Core test",
+          "Exam distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 751.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 597.288
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 750,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL SUPREMACY, RULE OF LAW AND LIMITED GOVERNMENT",
+      "preview": "START / CONCEPT: CONSTITUTIONAL SUPREMACY, RULE OF LAW AND LIMITED GOVERNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 253.888
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 761,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An integrated and independent judiciary supplies national legal unity and makes constitutional supremacy effective through review and remedies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 774,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** An integrated and independent judiciary supplies national legal unity and makes constitutional supremacy effective through review and remedies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 390.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 777,
+      "markdown_body_line_end": 777,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Independent, integrated judiciary and judicial review",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\08_supremacy_review_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 356.956
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 56.33
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 786,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Meaning | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Meaning",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 615.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENT, INTEGRATED JUDICIARY AND JUDICIAL REVIEW",
+      "preview": "START / CONCEPT: INDEPENDENT, INTEGRATED JUDICIARY AND JUDICIAL REVIEW",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 258.09
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fundamental Rights restrain power, Directive Principles direct social transformation and Fundamental Duties express civic responsibility; constitutional balance requires harmony without erasing their different legal status.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 847,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Fundamental Rights restrain power, Directive Principles direct social transformation and Fundamental Duties express civic responsibility; constitutional balance requires ha",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 376.156
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 850,
+      "markdown_body_line_end": 850,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rights, Directive Principles and Duties as normative architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\09_rights_dpsp_duties_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 342.756
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 42.13
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 859,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Component | Legal position | Constitutional purpose",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Component",
+          "Legal position",
+          "Constitutional purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 649.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 896,
+      "heading": "CLOSING RECALL FLOW - RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES AS NORMATIVE ARCHITECTURE",
+      "preview": "START / CONCEPT: RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES AS NORMATIVE ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 292.89
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 51.89
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 907,
+      "markdown_body_line_end": 907,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India is a sovereign socialist secular democratic republic; the words 'socialist', 'secular' and 'integrity' were inserted in the Preamble by the 42nd Amendment in 1976, while related constitutional commitments pre-dated the insertion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 920,
+      "markdown_body_line_end": 920,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** India is a sovereign socialist secular democratic republic; the words 'socialist', 'secular' and 'integrity' were inserted in the Preamble by the 42nd Amendment in 1976, wh",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 376.156
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Secular, socialist, democratic republic; dignity and fraternity",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\14_secular_social_republic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 328.556
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 933,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Commitment | Precise meaning | Caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Commitment",
+          "Precise meaning",
+          "Caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 751.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 576.088
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 953,
+      "markdown_body_line_end": 970,
+      "heading": "CLOSING RECALL FLOW - SECULAR, SOCIALIST, DEMOCRATIC REPUBLIC; DIGNITY AND FRATERNITY",
+      "preview": "START / CONCEPT: SECULAR, SOCIALIST, DEMOCRATIC REPUBLIC; DIGNITY AND FRATERNITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 981,
+      "markdown_body_line_end": 981,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Adopting universal franchise amid poverty, inequality and low literacy was a transformative commitment to political equality, not a later reward for social development.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Universal adult franchise established equal political membership from the Constitution's commencement, while representative institutions and bicameralism channel that equal",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 197.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 138.156
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 997,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Universal adult franchise, representative democracy and bicameralism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\13_democratic_franchise_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1006,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Element | Design contribution | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Element",
+          "Design contribution",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 469.265
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 326.264
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1043,
+      "heading": "CLOSING RECALL FLOW - UNIVERSAL ADULT FRANCHISE, REPRESENTATIVE DEMOCRACY AND BICAMERALISM",
+      "preview": "START / CONCEPT: UNIVERSAL ADULT FRANCHISE, REPRESENTATIVE DEMOCRACY AND BICAMERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1054,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Administrative unity helps coordination, minimum standards and national programmes, but central personnel influence can produce State-autonomy concerns.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 409.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 342.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1067,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Administrative unity helps coordination, minimum standards and national programmes, but central personnel influence can produce State-autonomy concerns.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 169.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 110.956
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1070,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Single citizenship, administrative/legal unity and All-India Services",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\12_integrated_system_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1074,
+      "markdown_body_line_end": 1079,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Integrating device | Function | Federal tension",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Integrating device",
+          "Function",
+          "Federal tension"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 469.265
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 315.064
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1116,
+      "heading": "CLOSING RECALL FLOW - SINGLE CITIZENSHIP, ADMINISTRATIVE/LEGAL UNITY AND ALL-INDIA SERVICES",
+      "preview": "START / CONCEPT: SINGLE CITIZENSHIP, ADMINISTRATIVE/LEGAL UNITY AND ALL-INDIA SERVICES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 712.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 491.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1127,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Independent constitutional bodies disperse integrity functions outside ordinary executive control, but functional independence must coexist with transparency, reasons and review.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 351.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 285.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1140,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Independent constitutional bodies disperse integrity functions outside ordinary executive control, but functional independence must coexist with transparency, reasons and r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 112.424
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 53.556
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1143,
+      "markdown_body_line_end": 1143,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Independent constitutional bodies and accountability ecosystem",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\10_independent_institutions_ecosystem.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 469.265
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1152,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Body | Constitutional function | Independence logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Body",
+          "Constitutional function",
+          "Independence logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 435.865
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 281.664
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1189,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENT CONSTITUTIONAL BODIES AND ACCOUNTABILITY ECOSYSTEM",
+      "preview": "START / CONCEPT: INDEPENDENT CONSTITUTIONAL BODIES AND ACCOUNTABILITY ECOSYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1200,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Emergency provisions permit temporary constitutional centralisation for crisis management, but they do not authorise permanent unitary rule or extra-constitutional government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 289.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 222.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1213,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Emergency provisions permit temporary constitutional centralisation for crisis management, but they do not authorise permanent unitary rule or extra-constitutional governme",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1216,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Emergency provisions and constitutional modes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\11_emergency_normal_modes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 711.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 410.398
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1220,
+      "markdown_body_line_end": 1225,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Emergency | Article | Design effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Emergency",
+          "Article",
+          "Design effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 376.998
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 211.596
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1262,
+      "heading": "CLOSING RECALL FLOW - EMERGENCY PROVISIONS AND CONSTITUTIONAL MODES",
+      "preview": "START / CONCEPT: EMERGENCY PROVISIONS AND CONSTITUTIONAL MODES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 380.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1273,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 73rd and 74th Amendments deepened democracy by constitutionalising a third tier, yet real decentralisation still depends on functions, funds and functionaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 240.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 174.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1286,
+      "markdown_body_line_end": 1286,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** The 73rd and 74th Amendments deepened democracy by constitutionalising a third tier, yet real decentralisation still depends on functions, funds and functionaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 711.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1289,
+      "markdown_body_line_end": 1289,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Local self-government, social justice and affirmative action",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\15_asymmetry_pluralism_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 677.624
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 376.998
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1293,
+      "markdown_body_line_end": 1298,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Constitutional movement | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Constitutional movement",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 343.598
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 189.396
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1335,
+      "heading": "CLOSING RECALL FLOW - LOCAL SELF-GOVERNMENT, SOCIAL JUSTICE AND AFFIRMATIVE ACTION",
+      "preview": "START / CONCEPT: LOCAL SELF-GOVERNMENT, SOCIAL JUSTICE AND AFFIRMATIVE ACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 607.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 376.491
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1346,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "[LIVE OFFICIAL — checked 28 August 2026] The Supreme Court judgment remains the controlling legal position: Article 19(1)(c) and Article 43B survive, while Part IX-B cannot govern State cooperatives in the invalidated field; the Union retai",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 222.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 141.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1359,
+      "markdown_body_line_end": 1359,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FEDERAL LIMIT):** [LIVE OFFICIAL — checked 28 August 2026] The Supreme Court judgment remains the controlling legal position: Article 19(1)(c) and Article 43B survive, while Part IX-B cannot",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 721.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 648.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1362,
+      "markdown_body_line_end": 1362,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Cooperative-society constitutional status",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\19_cooperative_constitutional_status.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 614.824
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 314.198
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1366,
+      "markdown_body_line_end": 1371,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Layer | Position | Exam-safe qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Layer",
+          "Position",
+          "Exam-safe qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 280.798
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 115.396
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1388,
+      "markdown_body_line_end": 1405,
+      "heading": "CLOSING RECALL FLOW - A. COOPERATIVE SOCIETIES AS CONSTITUTIONALISED DEMOCRATIC ASSOCIATION",
+      "preview": "START / CONCEPT: A. COOPERATIVE SOCIETIES AS CONSTITUTIONALISED DEMOCRATIC ASSOCIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 322
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 594.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 333.491
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1416,
+      "markdown_body_line_end": 1416,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Uniformity can promote equal national standards, while asymmetry can protect substantive equality and negotiated trust.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 193.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 127.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1429,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ANALYTICAL TRANSITION):** Asymmetry may strengthen integration by allowing groups to remain within a shared constitutional order without surrendering all institutional distinctiveness.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 676.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1432,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Asymmetry, language, pluralism and accommodation of diversity",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\15_asymmetry_pluralism_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 643.224
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 342.598
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1442,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Mechanism | Purpose | Risk / balance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Mechanism",
+          "Purpose",
+          "Risk / balance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 309.198
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 122.596
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1479,
+      "heading": "CLOSING RECALL FLOW - ASYMMETRY, LANGUAGE, PLURALISM AND ACCOMMODATION OF DIVERSITY",
+      "preview": "START / CONCEPT: ASYMMETRY, LANGUAGE, PLURALISM AND ACCOMMODATION OF DIVERSITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 474.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 243.891
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1490,
+      "markdown_body_line_end": 1490,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Strengths include a durable framework, peaceful political competition, judicial remedies, adaptable amendment, multilevel government and social transformation commitments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 104.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 37.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1503,
+      "markdown_body_line_end": 1503,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (TRANSFORMATION VERDICT):** The Government of India Act, 1935 contributed institutional and administrative continuity, but the Constitution changed the source and ends of authority through re",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 591.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1506,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Continuity, transformation, strengths and internal tensions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\17_tensions_tradeoffs_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 558.424
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 257.798
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1510,
+      "markdown_body_line_end": 1517,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Tension | Strength | Criticism / answer qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Tension",
+          "Strength",
+          "Criticism / answer qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 595.49
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1537,
+      "markdown_body_line_end": 1554,
+      "heading": "CLOSING RECALL FLOW - CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS",
+      "preview": "START / CONCEPT: CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1565,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional morality is fidelity to constitutional forms, values and restraint; it must discipline power through text and structure rather than become a label for personal preference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1578,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ANALYTICAL TRANSITION):** Constitutional morality is fidelity to constitutional forms, values and restraint; it must discipline power through text and structure rather than become a label fo",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 177.024
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 118.156
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1581,
+      "markdown_body_line_end": 1581,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Constitutional morality as operating ethic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\20_constitutional_morality_operating_ethic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1585,
+      "markdown_body_line_end": 1590,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Facet | Constitutional anchor | Illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Facet",
+          "Constitutional anchor",
+          "Illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 483.465
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 306.864
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1606,
+      "markdown_body_line_end": 1606,
+      "heading": "EIGHTH-EDITION INTEGRATION: CONSTITUTION, CONSTITUTIONAL LAW AND CONSTITUTIONALISM",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CORE ARGUMENT):** Constitutional morality is fidelity to constitutional forms, values and restraint; it must discipline power through text and structure rather than become a label for person",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1610,
+      "markdown_body_line_end": 1614,
+      "heading": "EIGHTH-EDITION INTEGRATION: CONSTITUTION, CONSTITUTIONAL LAW AND CONSTITUTIONALISM",
+      "preview": "Concept | Exam-safe meaning | Evidence anchor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Concept",
+          "Exam-safe meaning",
+          "Evidence anchor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 695.024
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 550.822
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1643,
+      "markdown_body_line_end": 1660,
+      "heading": "CLOSING RECALL FLOW - A. CONSTITUTIONAL MORALITY AS THE OPERATING ETHIC",
+      "preview": "START / CONCEPT: A. CONSTITUTIONAL MORALITY AS THE OPERATING ETHIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1671,
+      "markdown_body_line_end": 1671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Criticisms, Counterarguments, Cross-Topic Boundaries And Final Verdict comprises Criticisms, Counterarguments and Cross-Topic Boundaries as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1684,
+      "markdown_body_line_end": 1684,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM):** A salient constitutional feature remains qualified by related provisions, so interpretations that convert it into an absolute rule are legally unsound.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 177.024
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 132.356
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1692,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Criticism | Best counterargument | Residual caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Best counterargument",
+          "Residual caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 584.29
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1696,
+      "markdown_body_line_end": 1696,
+      "heading": "Cross-topic boundary map",
+      "preview": "Cross-topic boundaries",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets\\21_cross_topic_boundaries.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 562.29
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 261.664
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1707,
+      "markdown_body_line_end": 1707,
+      "heading": "Cross-topic boundary map",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FINAL VERDICT):** A salient constitutional feature remains qualified by related provisions, so interpretations that convert it into an absolute rule are legally unsound.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 139.264
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 94.596
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1712,
+      "markdown_body_line_end": 1729,
+      "heading": "CLOSING RECALL FLOW - CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT",
+      "preview": "START / CONCEPT: CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2415,
+      "markdown_body_line_end": 2419,
+      "heading": "Verified PYQ provenance and count",
+      "preview": "Corpus | Verified items retained | Provenance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Corpus",
+          "Verified items retained",
+          "Provenance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 633.49
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3239,
+      "markdown_body_line_end": 3251,
+      "heading": "Sources of the Constitution - full table (Table 3.4) ⭐⭐ Prelims gold",
+      "preview": "Source | Features borrowed",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Source",
+          "Features borrowed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 478.29
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3286,
+      "markdown_body_line_end": 3287,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 708.691
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3293,
+      "markdown_body_line_end": 3296,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 612.424
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 453.022
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3303,
+      "markdown_body_line_end": 3303,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 396.622
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 351.954
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3323,
+      "markdown_body_line_end": 3329,
+      "heading": "Borrowed, adapted and rejected",
+      "preview": "Source | Adapted | Rejected or altered",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source",
+          "Adapted",
+          "Rejected or altered"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 643.49
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3396,
+      "markdown_body_line_end": 3416,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Complete 17-feature control: four interacting layers",
+      "preview": "FORM AND CHANGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 300.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 95.691
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3420,
+      "markdown_body_line_end": 3433,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Written detail, supremacy and three amendment tracks",
+      "preview": "ORIGINAL CONTROL: Preamble + 395 Articles + 22 Parts + 8 Schedules",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3437,
+      "markdown_body_line_end": 3449,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Borrowed, adapted and rejected: design rather than photocopy",
+      "preview": "SOURCE        ADAPTED INPUT                     REJECTED / TRANSFORMED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3453,
+      "markdown_body_line_end": 3467,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Federal power-sharing with integrative and asymmetric devices",
+      "preview": "FEDERAL CORE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 343.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3471,
+      "markdown_body_line_end": 3484,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Parliamentary responsibility, overlap and separation-of-powers checks",
+      "preview": "PEOPLE -> LOK SABHA -> COUNCIL OF MINISTERS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 308.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 174.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3488,
+      "markdown_body_line_end": 3504,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Judiciary, rule of law and the rights-DPSP-duties triangle",
+      "preview": "CONSTITUTIONAL SUPREMACY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3508,
+      "markdown_body_line_end": 3520,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Democracy, citizenship, bodies, local government and co-operatives",
+      "preview": "CITIZEN -> adult franchise -> Lok Sabha/Assemblies -> responsible government",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 478.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3524,
+      "markdown_body_line_end": 3538,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Three Emergency modes, safeguards and return to normal balance",
+      "preview": "NORMAL FEDERAL-RESPONSIBLE MODE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 312.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3542,
+      "markdown_body_line_end": 3555,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Strength-risk pairs and live constitutional controls",
+      "preview": "FEATURE              GAIN                         RISK / CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3559,
+      "markdown_body_line_end": 3573,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Verified PYQ control panel: exact answers and traps",
+      "preview": "YEAR Q     CONTROLLED ANSWER / ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3577,
+      "markdown_body_line_end": 3594,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Executable 10/15/20-mark answer spine",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 292.091
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3598,
+      "markdown_body_line_end": 3607,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Exact Parts, Schedules, amendments and current-law controls",
+      "preview": "PART IX Panchayats | PART IX-A Municipalities | PART IX-B Co-operatives",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    }
+  ]
+}

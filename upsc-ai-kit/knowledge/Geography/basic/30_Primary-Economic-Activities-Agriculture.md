@@ -399,3 +399,38 @@ because the package requires preconditions that are themselves unevenly distribu
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** primary-activity classification; physical, tenure, labour,
+  technology, market and policy controls on agriculture; subsistence,
+  commercial, intensive, extensive, plantation, mixed, dairy,
+  Mediterranean, shifting and pastoral systems; crop seasons, agro-regions
+  and von Thünen location logic.
+- **Theory/model control:** von Thünen's isolated market, uniform plain,
+  fertility and transport assumptions are stated before applying
+  rent-distance logic. Refrigeration, multiple markets, contracts, policy,
+  unequal infrastructure and global value chains qualify exact rings.
+- **Measure control:** kharif/rabi/zaid are seasons, not crop essences; net
+  sown area differs from gross cropped area, cropping intensity from yield,
+  production from productivity, irrigation potential from created/utilised
+  delivery, and MSP announcement from procurement/farm-gate realisation.
+- **Scale/map control:** Punjab-Haryana wheat-rice, western Maharashtra
+  sugarcane, Malwa cotton/soybean, Assam tea, Kerala rubber/spices, Karnataka
+  coffee, eastern rice, dryland Deccan millets/pulses and horticultural belts
+  are explained through water-soil-labour-market-policy interaction.
+- **Primary-activity map:** fisheries follow shelf/upwelling and inland-water
+  systems; forestry/NTFP follows forest-access regimes; mining/quarrying
+  follows geology. Technology changes accessibility, not resource occurrence.
+- **Date/data control:** Agriculture Census 2015-16 is the latest fully
+  published round at this cutoff; the 2021-22 round is under process.
+  Advance crop estimates are provisional, Agricultural Statistics at a
+  Glance 2024 is a dated compilation, and FAOSTAT carries reporting lags.
+- **Policy/close-option control:** MSP, CACP recommendation, CCEA approval,
+  procurement, buffer stocks and food/nutrition security are separate;
+  scheme announcement, coverage, expenditure, output and impact are not
+  interchangeable.
+- **Verified PYQ ownership, 2018-2026:** routes include 2019 New World crops,
+  2020 crop-climate, 2022 tea states, 2023 India-China farm statistics, 2025
+  turmeric and 2025 GS-I Q5 on non-farm primary activities. Missing and
+  provisional answer letters remain unpromoted.

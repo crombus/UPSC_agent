@@ -1326,6 +1326,47 @@ than an assumed fixed list.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Society owns secularism as lived
+  coexistence through shared public space, syncretic practice and common civic
+  life. Constitutional secularism is a normative state standard, and secularism
+  as political philosophy is a separate theoretical owner; descriptive social
+  outcome cannot prove or disprove doctrinal compliance by itself.
+- **Indispensable sociology and conceptual distinctions:** secularism is not atheism; religion is not
+  communalism; secularisation is not secularism; tolerance, assimilation and
+  pluralism are not synonyms; equal respect is not unconditional
+  non-intervention; syncretism does not erase distinct identities.
+- **Indian model and comparison:** sarva-dharma-sama-bhava and principled,
+  context-sensitive engagement describe an Indian social ideal, while strict
+  church-state separation is a Western ideal type. Neither family is uniform
+  and neither guarantees equal lived outcomes, so comparison must avoid
+  civilisational caricature.
+- **Intersectionality and internal diversity:** gender, caste, class, sect,
+  tribe, region and generation shape religious experience and access to public
+  space. Neither women nor a religious community has a single voice; reform,
+  autonomy, consultation and individual rights must be analysed together.
+- **Constitutional/legal boundary:** Articles 14-16, 25-30 and 44 supply the
+  legal frame, but detailed doctrine, amendments and case law remain
+  Polity-owned. Society analyses whether institutions and shared spaces convert
+  formal rights into equal participation. Minority notification, educational
+  rights and personal-law debate are separate legal and social questions.
+- **Data/source control and current status:** the Uttarakhand UCC, 2024 and Rules, 2025 are
+  official state texts; the 27 January 2026 change is an ordinance unless an
+  enacted amendment text is officially identified. Enactment does not prove
+  awareness, access, implementation success or community trust, and Goa's
+  separate civil-code history prevents unqualified first/only claims.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for lived/doctrinal/philosophical ownership,
+  ideal-type comparison, syncretism and public-space mechanisms,
+  intersectionality, legal-status precision and social-outcome limits.
+- **Verified PYQ ownership, 2018-2026:** direct GS-I routes cover Indian versus
+  Western secularism in 2018, cultural practices challenging secularism in
+  2019 and tolerance/assimilation/pluralism in 2022. The France comparison is
+  Polity-owned with Society support. No direct 2024-2025 standalone route,
+  unavailable 2026 demand, community stereotype or personal-law statistic is
+  invented.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Separate waste streams?

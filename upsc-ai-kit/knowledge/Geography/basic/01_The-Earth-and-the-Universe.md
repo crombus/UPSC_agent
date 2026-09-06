@@ -250,3 +250,38 @@ navigation and grid vulnerability — this converts a descriptive answer into an
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** universe and Solar-System scale; Earth's geoid/oblate shape,
+  rotation, revolution, axial tilt, seasons, latitude-longitude, local and
+  standard time, International Date Line, interior evidence and magnetosphere;
+  India's absolute and relative location, extent and Indian Ocean setting.
+- **Process control:** rotation produces the diurnal cycle and the Coriolis
+  framework; revolution plus axial tilt and orbital geometry produce seasonal
+  insolation; longitude produces local-time difference while IST is a legal
+  standard fixed to 82°30′E.
+- **Scale/map control:** astronomical, global-coordinate, national and regional
+  scales are kept separate. Mainland/island extremes, coordinate extent,
+  Tropic of Cancer, standard meridian and neighbouring seas are mapped without
+  turning a line into a complete climatic or strategic explanation.
+- **Date/data control:** coordinates and administrative/boundary descriptions
+  use a dated official map; universe age and geophysical values retain
+  approximation and source discipline. A current storm or time-zone proposal
+  cannot silently update the static core.
+- **Terminology control:** geoid differs from oblate spheroid; latitude from
+  longitude; local solar time from standard time; magnetic from geographic
+  pole; solar wind, flare, CME, geomagnetic storm and aurora remain distinct.
+- **Causal control:** India's location creates constraints and opportunities
+  but does not by itself determine monsoon, trade, security or development.
+  Auroral visibility follows magnetospheric geometry, particle precipitation
+  and atmospheric excitation, not cold weather or reflected light.
+- **Boundary:** Topic 02 owns full crust-rock-plate and geological-structure
+  analysis; Topic 03 owns earthquake-wave mechanics and hazard; Topic 12 owns
+  ocean circulation. Topic 01 retains only the foundation needed for its
+  universe, coordinate, time and India-location demands.
+- **Verified PYQ ownership, 2018-2026:** direct routes include the 2019 and
+  2022 solstice questions, 2021 subcontinent Mains demand, 2024 aurora Mains
+  demand and 2024-2025 latitude/star/axis/IDL objective demands. Locally
+  unavailable or merely available keys are not converted into invented answer
+  letters.

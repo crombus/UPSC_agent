@@ -58,6 +58,20 @@ class IndianSociety08GeneratorTests(unittest.TestCase):
         self.assertIn("2022-23", text)
         self.assertIn("rather than a current headcount", text)
 
+    def test_owned_groups_are_distinct_and_legally_precise(self) -> None:
+        text = session_markdown(generator, "indian-society-08")
+        for phrase in (
+            "Articles 338, 338A and 338B",
+            "Articles 341, 342 and 342A",
+            "Article 350B",
+            "Rights of Persons with Disabilities Act, 2016",
+            "benchmark disability",
+            "Transgender Persons (Protection of Rights) Act, 2019",
+            "LGBTQIA+",
+            "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        ):
+            self.assertIn(phrase, text)
+
     def test_cross_owned_pyq_status_is_transparent_and_unfabricated(self) -> None:
         text = session_markdown(generator, "indian-society-08")
         workbook = workbook_markdown(generator, "indian-society-08")

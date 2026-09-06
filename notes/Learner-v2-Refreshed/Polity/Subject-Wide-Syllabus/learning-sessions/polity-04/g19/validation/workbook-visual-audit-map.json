@@ -1,0 +1,736 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 11,
+      "heading": "40 core diagnostic MCQs",
+      "preview": "Prelims trap grid: the wrong sentence and the correct sentence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\12_prelims_trap_grid.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 397.793
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 588,
+      "heading": "Verified PYQ provenance and count",
+      "preview": "Corpus | Items retained | Provenance / ownership status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Corpus",
+          "Items retained",
+          "Provenance / ownership status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 601.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 447.69
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 597,
+      "heading": "PYQ 1. Prelims 2020, GS Paper I, Question 16 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. The official UPSC answer key for the 2020 Prelims is not held in this repository. The solution below is reasoned from the constitutional position and is offered with **high confidence**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 378.09
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 319.222
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 634,
+      "heading": "PYQ 2. Prelims 2021, GS Paper I, Question 93 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. No official key for the 2021 Prelims is held locally. Confidence: **high**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 695.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "PYQ 3. Prelims 2020, GS Paper I, Question 8 - verbatim-verified stem; option labels reconstructed",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. The local scan renders the option codes imperfectly; the numbered statements are verbatim and the codes follow the standard UPSC four-option format. Confidence: **high** on the answer, **",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 643.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 584.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 709,
+      "heading": "PYQ 4. Prelims 2020, GS Paper I, Question 12 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. Confidence: **high**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 588.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 745,
+      "heading": "PYQ 5. Prelims 2020, GS Paper I, Question 7 - verbatim-verified",
+      "preview": "ANALYSIS: INFERRED ANSWER - NOT OFFICIALLY VERIFIED. The local scan drops the labels on the last two options; the order printed is as reproduced. Confidence: **high** on the answer. The same proposition was tested again in **Prelims 2021, Q",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 633.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 785,
+      "markdown_body_line_end": 785,
+      "heading": "PYQ 6. Mains 2024, GS Paper II, Question 15 (15 marks, 250 words) - verbatim-verified",
+      "preview": "Why this earns marks: the answer defines before it compares; it fixes the Indian model with dated textual and judicial evidence (1976 insertion, the 1974 observation, *Balram Singh* 2024, *Bommai* 1994) rather than with adjectives; it struc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 313.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 226.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 787,
+      "heading": "PYQ 6. Mains 2024, GS Paper II, Question 15 (15 marks, 250 words) - verbatim-verified",
+      "preview": "How to improve this answer: Add a compact India–US comparison table in rough work and include one present-day US neutrality qualification so “wall of separation” is not presented as an absolute rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 226.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 181.356
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 823,
+      "heading": "PYQ 7. Mains 2025, GS Paper II, Question 11 (15 marks, 250 words) - verbatim-verified",
+      "preview": "Why this earns marks: it defines the concept by **derivation** (Preamble values plus Ambedkar's trinity) rather than by assertion, which immediately answers the \"explain the concept\" limb with authority; it then converts the abstract idea i",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 625.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 825,
+      "heading": "PYQ 7. Mains 2025, GS Paper II, Question 11 (15 marks, 250 words) - verbatim-verified",
+      "preview": "How to improve this answer: Name one concrete accountability device—reasoned judgments, recusal disclosure or transparent case allocation—and explain why it preserves rather than subordinates judicial independence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 625.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 581.156
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 861,
+      "heading": "PYQ 8. Mains 2025, GS Paper IV, Question 1(b) (10 marks, 150 words) - verbatim-verified",
+      "preview": "Why this earns marks: it engages the quotation's exact claim - \"not natural but cultivated\" - and explains **why** cultivation is necessary (the gap between social morality and constitutional morality), which most answers omit; it structure",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 350.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 863,
+      "heading": "PYQ 8. Mains 2025, GS Paper IV, Question 1(b) (10 marks, 150 words) - verbatim-verified",
+      "preview": "How to improve this answer: Add one field-level administrative example, such as a reasoned welfare-benefit decision under Article 14, and separate lawful obedience from uncritical compliance with an unlawful instruction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 350.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 305.956
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 893,
+      "heading": "PYQ 9. Mains 2021, GS Paper II, Question 1 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "Why this earns marks: it reproduces the exact two-limb demand, defines the doctrine from constitutional text, identifies four facets and proves application through three named 2018 decisions rather than leaving the required judicial-decisio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 339.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 895,
+      "heading": "PYQ 9. Mains 2021, GS Paper II, Question 1 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "How to improve this answer: in the exam, add one sentence distinguishing constitutional morality from constitutional conventions, and, if space permits, identify the specific institutional value used in each case instead of merely listing c",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 339.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 280.756
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 926,
+      "heading": "PYQ 10. Mains 2019, GS Paper II, Question 5 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "Why this earns marks: it answers the one-way question actually asked, explains the French baseline briefly, then derives three specific lessons from named Indian provisions and closes with a qualified transfer rather than an irrelevant two-",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 307.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 248.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 928,
+      "heading": "PYQ 10. Mains 2019, GS Paper II, Question 5 (10 marks, 150 words) - routing-ledger sourced",
+      "preview": "How to improve this answer: add one concrete French controversy only if accurately remembered, and explicitly test the proposed accommodation against neutrality, equality and public order so the lesson does not become an unqualified defence",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 248.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 189.556
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 932,
+      "heading": "Six original solved Mains models",
+      "preview": "GS-II answer spine for any Preamble question",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets\\11_gs2_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 164.556
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 594.231
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 965,
+      "markdown_body_line_end": 965,
+      "heading": "Original Mains Model 1. The Preamble is a part of the Constitution, yet it confers no power and bars none. Examine. (10 marks, 150 words)",
+      "preview": "Why this earns marks: the answer names the analytical distinction in its first line, which is what \"examine\" demands; it evidences the membership limb with three dated cases in sequence; it states the two caveats in the examiner's own vocab",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 603.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 516.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 967,
+      "heading": "Original Mains Model 1. The Preamble is a part of the Constitution, yet it confers no power and bars none. Examine. (10 marks, 150 words)",
+      "preview": "How to improve this answer: Quote the three-case sequence in one line, then identify Articles 245–246 as the actual source of legislative competence so membership, power and enforceability remain analytically separate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 516.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 471.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1002,
+      "heading": "Original Mains Model 2. \"The Preamble was enacted last so that it might conform to the Constitution.\" Discuss the constitutional significance of this sequence. (10 marks, 150 words)",
+      "preview": "Why this earns marks: most candidates know the sequencing fact and stop there; this answer treats the fact as a premise and derives **three distinct constitutional consequences** from it, which is exactly what \"discuss the significance\" req",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 406.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 319.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "Original Mains Model 2. \"The Preamble was enacted last so that it might conform to the Constitution.\" Discuss the constitutional significance of this sequence. (10 marks, 150 words)",
+      "preview": "How to improve this answer: Use the 26 November 1949 adoption and 26 January 1950 commencement dates explicitly, and connect “conform to the Constitution” to interpretive reliability rather than merely repeating chronology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 319.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 274.956
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "Original Mains Model 3. \"Article 368 reaches the Preamble, but the basic features declared in the Preamble do not yield to Article 368.\" Critically examine. (15 marks, 250 words)",
+      "preview": "Why this earns marks: it treats the quotation as a **two-part proposition** and defends each part separately with dated authority, which is the correct response to \"critically examine\" of a compound statement; it supplies the *Kesavananda B",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1041,
+      "heading": "Original Mains Model 3. \"Article 368 reaches the Preamble, but the basic features declared in the Preamble do not yield to Article 368.\" Critically examine. (15 marks, 250 words)",
+      "preview": "How to improve this answer: Identify the exact 42nd-Amendment additions and test a hypothetical deletion of “secular” against basic structure; this converts doctrine into an applied critical answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 671.356
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1076,
+      "heading": "Original Mains Model 4. The word \"socialist\" in the Preamble fixes ends, not means. Examine this proposition in the light of judicial pronouncements and India's economic experience. (15 marks, 250 words)",
+      "preview": "Why this earns marks: it adopts the ends-means frame as the answer's own architecture, so the structure itself argues the proposition; each limb carries dated, named judicial evidence rather than assertion; the economic-experience section s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 427.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 340.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1078,
+      "heading": "Original Mains Model 4. The word \"socialist\" in the Preamble fixes ends, not means. Examine this proposition in the light of judicial pronouncements and India's economic experience. (15 marks, 250 words)",
+      "preview": "How to improve this answer: Distinguish constitutional welfare ends from policy instruments with one DPSP anchor and one post-1991 example, while avoiding the claim that every privatisation measure raises a constitutional violation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 340.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 281.756
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1111,
+      "markdown_body_line_end": 1111,
+      "heading": "Original Mains Model 5. \"The Preamble is an interpretive charter rather than an enforceable clause; yet it remains the yardstick by which the worth of the Constitution is measured.\" Critically analyse. (20 marks, 250 words)",
+      "preview": "Why this earns marks: it identifies that the quotation contains **two separable claims** and tests each on its own terms, which is the highest-value move available in a \"critically analyse\" question; the legal limb is fully evidenced and na",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 163.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 62.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1113,
+      "heading": "Original Mains Model 5. \"The Preamble is an interpretive charter rather than an enforceable clause; yet it remains the yardstick by which the worth of the Constitution is measured.\" Critically analyse. (20 marks, 250 words)",
+      "preview": "How to improve this answer: Illustrate indirect force with one ambiguity-resolution example and one basic-structure example, then state the stop rule that clear operative text cannot be rewritten by the Preamble alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1149,
+      "heading": "Original Mains Model 6. \"Indian secularism is a facet of the right to equality rather than a wall of separation.\" Critically examine with reference to constitutional provisions and judicial doctrine. (20 marks, 250 words)",
+      "preview": "Why this earns marks: it converts the quotation into a **locatable constitutional claim** and then proves the claim from text, from a dated 2024 holding and from basic-structure doctrine; the *Faruqui* proposition is deployed as the decisiv",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 338.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 237.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1151,
+      "markdown_body_line_end": 1151,
+      "heading": "Original Mains Model 6. \"Indian secularism is a facet of the right to equality rather than a wall of separation.\" Critically examine with reference to constitutional provisions and judicial doctrine. (20 marks, 250 words)",
+      "preview": "How to improve this answer: Qualify both comparators: Indian engagement must remain rights-based and non-discriminatory, while current US doctrine does not absolutely exclude neutral public benefits reaching religious recipients.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 237.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 178.556
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    }
+  ]
+}

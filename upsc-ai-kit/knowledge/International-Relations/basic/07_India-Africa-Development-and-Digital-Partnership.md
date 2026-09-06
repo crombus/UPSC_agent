@@ -396,3 +396,26 @@ project-outcome discipline.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** India-Africa relations combine political solidarity, capacity-building, concessional finance, trade, health, education, digital public infrastructure and maritime security through demand-driven partnership and African institutional agency.
+- **Indispensable distinction and prerequisite taxonomy:** Africa is not a single actor, African Union membership is not the same as state membership in every regional community, a line of credit is not a grant, project approval is not completion, and digital technology transfer is not automatic institutional adoption.
+- **Mechanism, implementation and evidence control:** Name the country, African or regional institution, instrument, financier, implementation stage and outcome evidence; test debt sustainability, procurement, maintenance, data governance, local skills, market access and comparison with alternative partners without paternalism.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: MEA's development-partnership page records ITEC and CEIT delivery while the 23 April 2026 announcement remains the verified IAFS-IV launch anchor; no completed fourth summit outcome is claimed. Line of credit, grant, project approval, completion, adoption and measured development outcome remain distinct. Sources: https://www.mea.gov.in/development-partnership; https://www.mea.gov.in/Lines-of-Credit-for-Development-Projects; https://www.mea.gov.in/speeches-statements?dtl/41074/Remarks_by_EAM_Dr_S_Jaishankar_at_the_launch_of_Theme_Logo_and_Website_for_the_Fourth_IndiaAfrica_Forum_Summit_IAFSIV_April_23_2026
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Two General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2021 General Studies Paper II question 9 on India's influence in Africa in the light of Africa's expected growth story, an Examine demand of 10 marks and 150 words, for which the ledger records that the Core route supersedes the older Advanced ownership; and 2025 General Studies Paper II question 9 on the India-Africa digital partnership, an Elaborate demand of 10 marks and 150 words routed to the owning topic. Two objective demands are also routed to this owner and are carried as coverage requirements only: 2023 Prelims General Studies Paper I question 98 on military coups in Chad, Guinea, Mali, Sudan and West Africa, for which the official 2018-2023 Prelims keys are not held locally; and 2024 Prelims General Studies Paper I question 91 on instability and military coups in the Sahel region, for which the official Set-A key is present locally and its presence is recorded without being used. No option or answer letter is recorded or inferred for either objective demand. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.

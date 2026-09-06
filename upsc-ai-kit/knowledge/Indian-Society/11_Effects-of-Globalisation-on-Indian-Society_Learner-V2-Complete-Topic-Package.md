@@ -1339,6 +1339,46 @@ claiming technology is inherently green or destructive.
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** globalisation is analysed through
+  cross-border flows of goods, services, capital, people, information and
+  culture as they alter consumption, work, migration, household authority,
+  food systems, media and digital access. Economy owns trade/investment
+  mechanics; Social Justice owns labour-code and platform-work regulation.
+- **Indispensable sociology and distinctions:** homogenisation predicts
+  convergence, glocalisation describes local adaptation, and hybridisation
+  describes recombination. Globalisation is not westernisation, liberalisation
+  is not privatisation, structural consumerism is not cultural consumerism and
+  connectivity is not inclusion.
+- **Mechanism and Indian variation:** compare Bengaluru IT and service work,
+  garment clusters, Kerala-Gulf migration, women's urban labour migration,
+  domestic and global food chains, regional-language media, artisan/farmer
+  value chains and platform mediation. Policy, firm strategy, technology,
+  household agency, caste, class, gender and region can move in different
+  directions; no outcome is automatic.
+- **Data/source control:** MoSPI's PLFS Annual Report 2025 uses a
+  January-December reference period and reports usual-status female LFPR for
+  age 15+ at 40.0 per cent. It can establish aggregate labour context, not the
+  size, age, marital status, destination or cause of a migration stream.
+  NFHS-6 (2023-24), released 29 May 2026, is sample-based; provisional
+  internet-use measures are not current connectivity counts.
+- **Intersectional and causal discipline:** gains and risks differ by skill,
+  income, gender, caste, region, generation and household bargaining power.
+  Remittances can coexist with family-authority renegotiation; freedom can
+  coexist with thinner support networks. Association between global exposure
+  and change never proves a single cause or uniform response.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for channel separation, theory distinctions,
+  Indian mechanisms, intersectionality, source periods, measurement limits and
+  cross-owner boundaries.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover globalisation and
+  cultural specificity in 2018, global/local identity in 2019, pluralism in
+  2020, technology and scarce resources in 2022, women's urban migration in
+  2024 and consumer culture in 2025. The 2025 fast-food demand remains
+  Social Change-owned in the audited ledger despite a local owner conflict. No
+  unavailable 2026 demand, market share or migration statistic is invented.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Globalisation as a set of channels?

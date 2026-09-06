@@ -1,0 +1,4900 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\polity-49_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\polity-49_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-49",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 9,
+      "heading": "Regulatory State and Quasi Judicial Institutions - Complete Uncompressed Learning Session",
+      "preview": "**Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.  **Answer-writing discipline:*",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 698.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 639.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 28,
+      "heading": "Local Owner Gateway",
+      "preview": "**Subject:** Polity · **Tier:** Core · **GS Paper:** GS-II **Official clause:** \"Statutory, regulatory and various quasi-judicial bodies.\" **Rule:** Classification, institutional design and PYQ answer engines are complete here. Specialist f",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 429.424
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 320.156
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 43,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 292.656
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 42.454
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 74,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\assets\\polity-49_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 346.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 38.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 90,
+      "markdown_body_line_end": 90,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The three words describe different things denotes the constitutional rules and institutional links organised around LEGAL SOURCE PRIMARY FUNCTION DECISIONAL CHARACTER.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 615.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 549.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 109,
+      "markdown_body_line_end": 116,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "LEGAL SOURCE                 PRIMARY FUNCTION                 DECISIONAL CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 251.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 180.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 130,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Master trap:** The body's **name** (\"Commission\", \"Authority\", \"Board\" or \"Tribunal\") does not establish its legal source or powers. Read the Constitution, parent Act or executive instrument.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 153,
+      "heading": "CLOSING RECALL FLOW - THE THREE WORDS DESCRIBE DIFFERENT THINGS",
+      "preview": "START / CONCEPT: THE THREE WORDS DESCRIBE DIFFERENT THINGS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 734.124
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 503.124
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Source-based taxonomy denotes the constitutional rules and institutional links organised around Category Source Amendment/abolition route Examples.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 382.324
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 315.656
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 189,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Category | Source | Amendment/abolition route | Examples",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Category",
+          "Source",
+          "Amendment/abolition route",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 548.99
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 210,
+      "heading": "CLOSING RECALL FLOW - SOURCE-BASED TAXONOMY",
+      "preview": "START / CONCEPT: SOURCE-BASED TAXONOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 526.99
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 305.99
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 221,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional versus statutory denotes the constitutional rules and institutional links organised around Test Constitutional Statutory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 170.99
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 104.322
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 246,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Test | Constitutional | Statutory",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Constitutional",
+          "Statutory"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 415.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 249,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Constitutional status does not guarantee strong performance, and statutory status does not necessarily mean weak independence.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 415.29
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 370.622
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 272,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL VERSUS STATUTORY",
+      "preview": "START / CONCEPT: CONSTITUTIONAL VERSUS STATUTORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 282
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 346.122
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 115.122
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 283,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Functional taxonomy denotes the constitutional rules and institutional links organised around Function What it involves Typical institutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 309,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Function | What it involves | Typical institutions",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Function",
+          "What it involves",
+          "Typical institutions"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 286.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 56.622
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 335,
+      "heading": "CLOSING RECALL FLOW - FUNCTIONAL TAXONOMY",
+      "preview": "START / CONCEPT: FUNCTIONAL TAXONOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 779.791
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 558.791
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 346,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regulatory cycle denotes the constitutional rules and institutional links organised around delegated regulations / standards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 437.991
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 371.324
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 375,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Parent statute",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 396,
+      "heading": "CLOSING RECALL FLOW - REGULATORY CYCLE",
+      "preview": "START / CONCEPT: REGULATORY CYCLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 483.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 407,
+      "markdown_body_line_end": 407,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Three kinds of action denotes the constitutional rules and institutional links organised around Action Character Safeguard.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 376.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 310.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 430,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Action | Character | Safeguard",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Action",
+          "Character",
+          "Safeguard"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 681.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 433,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** A regulator is not quasi-judicial every moment. The character depends on the particular function being exercised.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 681.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 636.822
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 456,
+      "heading": "CLOSING RECALL FLOW - THREE KINDS OF ACTION",
+      "preview": "START / CONCEPT: THREE KINDS OF ACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 612.322
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 391.322
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Quasi-judicial body: precise meaning denotes the constitutional rules and institutional links organised around A quasi-judicial authority is not a regular court, but while deciding a matter affecting rights or.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 270.522
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 203.854
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 508,
+      "heading": "CLOSING RECALL FLOW - QUASI-JUDICIAL BODY: PRECISE MEANING",
+      "preview": "START / CONCEPT: QUASI-JUDICIAL BODY: PRECISE MEANING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 594.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 343.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 519,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core features denotes the constitutional rules and institutional links organised around authority derives from Constitution/statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 223.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 156.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 566,
+      "heading": "CLOSING RECALL FLOW - CORE FEATURES",
+      "preview": "START / CONCEPT: CORE FEATURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 502.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 291.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 577,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Natural justice denotes the constitutional rules and institutional links organised around Nemo judex in causa sua: no one should judge their own cause; controls bias.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 171.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 104.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 622,
+      "heading": "CLOSING RECALL FLOW - NATURAL JUSTICE",
+      "preview": "START / CONCEPT: NATURAL JUSTICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 447.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 216.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 633,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tribunal versus regulator versus court denotes the constitutional rules and institutional links organised around Dimension Court Tribunal Regulator acting quasi-judicially.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 652,
+      "markdown_body_line_end": 658,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Court | Tribunal | Regulator acting quasi-judicially",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Court",
+          "Tribunal",
+          "Regulator acting quasi-judicially"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 422.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 275.422
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 681,
+      "heading": "CLOSING RECALL FLOW - TRIBUNAL VERSUS REGULATOR VERSUS COURT",
+      "preview": "START / CONCEPT: TRIBUNAL VERSUS REGULATOR VERSUS COURT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 692,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why the regulatory state expanded operates through regulators are created to supply, connected with continuity across political cycles.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 741,
+      "heading": "CLOSING RECALL FLOW - WHY THE REGULATORY STATE EXPANDED",
+      "preview": "START / CONCEPT: WHY THE REGULATORY STATE EXPANDED",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 660.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 429.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 752,
+      "markdown_body_line_end": 752,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Central Design Tension becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 309.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 256.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 774,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "AUTONOMY -------- EXPERTISE -------- ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 727.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 805,
+      "heading": "CLOSING RECALL FLOW - CENTRAL DESIGN TENSION",
+      "preview": "START / CONCEPT: CENTRAL DESIGN TENSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 580.591
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 369.591
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 816,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Major accountability and rights bodies denotes the constitutional rules and institutional links organised around Body Legal source Core mandate Binding/quasi-judicial character Specialist owner.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 248.791
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 182.124
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 835,
+      "markdown_body_line_end": 844,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Body | Legal source | Core mandate | Binding/quasi-judicial character | Specialist owner",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 8,
+        "headers": [
+          "Body",
+          "Legal source",
+          "Core mandate",
+          "Binding/quasi-judicial character",
+          "Specialist owner"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 631.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 264.69
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 847,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Civil-court powers during inquiry do not convert a commission into a civil court or make every recommendation binding.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 264.69
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 220.022
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 870,
+      "heading": "CLOSING RECALL FLOW - MAJOR ACCOUNTABILITY AND RIGHTS BODIES",
+      "preview": "START / CONCEPT: MAJOR ACCOUNTABILITY AND RIGHTS BODIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 881,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "National Commission Classification Trap becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 900,
+      "markdown_body_line_end": 905,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Constitutional | Statutory",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Constitutional",
+          "Statutory"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 932,
+      "heading": "CLOSING RECALL FLOW - NATIONAL COMMISSION CLASSIFICATION TRAP",
+      "preview": "START / CONCEPT: NATIONAL COMMISSION CLASSIFICATION TRAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 622.79
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 411.79
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 943,
+      "markdown_body_line_end": 943,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Finance and markets denotes the constitutional rules and institutional links organised around Regulator Principal legal basis Core field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 290.99
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 224.322
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 962,
+      "markdown_body_line_end": 969,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Regulator | Principal legal basis | Core field",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Regulator",
+          "Principal legal basis",
+          "Core field"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 713.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 516.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 973,
+      "markdown_body_line_end": 990,
+      "heading": "CLOSING RECALL FLOW - FINANCE AND MARKETS",
+      "preview": "START / CONCEPT: FINANCE AND MARKETS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 494.49
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 283.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1001,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Competition, infrastructure and utilities denotes the constitutional rules and institutional links organised around Regulator Principal legal basis Core field / appellate logic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 162.69
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 96.022
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1027,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Regulator | Principal legal basis | Core field / appellate logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Regulator",
+          "Principal legal basis",
+          "Core field / appellate logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 554.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 323.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1031,
+      "markdown_body_line_end": 1048,
+      "heading": "CLOSING RECALL FLOW - COMPETITION, INFRASTRUCTURE AND UTILITIES",
+      "preview": "START / CONCEPT: COMPETITION, INFRASTRUCTURE AND UTILITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 301.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 80.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1059,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Social, environmental and professional regulation denotes the constitutional rules and institutional links organised around Institution Principal legal basis Core field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1084,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Institution | Principal legal basis | Core field",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Institution",
+          "Principal legal basis",
+          "Core field"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 302.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 93.222
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1110,
+      "heading": "CLOSING RECALL FLOW - SOCIAL, ENVIRONMENTAL AND PROFESSIONAL REGULATION",
+      "preview": "START / CONCEPT: SOCIAL, ENVIRONMENTAL AND PROFESSIONAL REGULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1121,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consumer Commissions: Usable Adjudicatory Capsule becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1145,
+      "markdown_body_line_end": 1149,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Commission | Original pecuniary jurisdiction under the 2021 Rules | Appellate route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Commission",
+          "Original pecuniary jurisdiction under the 2021 Rules",
+          "Appellate route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 659.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1161,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CCPA ≠ Consumer Commission.** The **Central Consumer Protection Authority** is a regulator/ enforcement authority for class-wide consumer interests, misleading advertisements and unsafe goods/services. District, State and National Commiss",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 532.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 474.022
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1186,
+      "heading": "CLOSING RECALL FLOW - A. CONSUMER COMMISSIONS: USABLE ADJUDICATORY CAPSULE",
+      "preview": "START / CONCEPT: A. CONSUMER COMMISSIONS: USABLE ADJUDICATORY CAPSULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 404.422
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 183.422
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1197,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "BCI and Law Commission: source and function distinction denotes the constitutional rules and institutional links organised around Axis Bar Council of India Law Commission of India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1222,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Bar Council of India | Law Commission of India",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "Bar Council of India",
+          "Law Commission of India"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 451.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 242.222
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1248,
+      "heading": "CLOSING RECALL FLOW - B. BCI AND LAW COMMISSION: SOURCE AND FUNCTION DISTINCTION",
+      "preview": "START / CONCEPT: B. BCI AND LAW COMMISSION: SOURCE AND FUNCTION DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core mandate denotes the constitutional rules and institutional links organised around The Competition Act, 2002 seeks to.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1287,
+      "markdown_body_line_end": 1304,
+      "heading": "CLOSING RECALL FLOW - CORE MANDATE",
+      "preview": "START / CONCEPT: CORE MANDATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Abuse of dominant position denotes the constitutional rules and institutional links organised around Dominance itself is not prohibited.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1366,
+      "heading": "CLOSING RECALL FLOW - ABUSE OF DOMINANT POSITION",
+      "preview": "START / CONCEPT: ABUSE OF DOMINANT POSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 709.991
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 488.991
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1377,
+      "markdown_body_line_end": 1377,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Environmental and specialised adjudicatory bodies denotes the constitutional rules and institutional links organised around Body Source Function Key distinction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 349.191
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 282.524
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1405,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Body | Source | Function | Key distinction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Body",
+          "Source",
+          "Function",
+          "Key distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 710.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 406.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1426,
+      "heading": "CLOSING RECALL FLOW - ENVIRONMENTAL AND SPECIALISED ADJUDICATORY BODIES",
+      "preview": "START / CONCEPT: ENVIRONMENTAL AND SPECIALISED ADJUDICATORY BODIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 384.69
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 173.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1437,
+      "markdown_body_line_end": 1437,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ipab Lesson becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1480,
+      "heading": "CLOSING RECALL FLOW - IPAB LESSON",
+      "preview": "START / CONCEPT: IPAB LESSON",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 285.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 84.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1491,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tribunal-reform legal baseline denotes the constitutional rules and institutional links organised around On 19 November 2025 , the Supreme Court in Madras Bar Association v.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1527,
+      "markdown_body_line_end": 1544,
+      "heading": "CLOSING RECALL FLOW - TRIBUNAL-REFORM LEGAL BASELINE",
+      "preview": "START / CONCEPT: TRIBUNAL-REFORM LEGAL BASELINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1555,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lok Adalat and legal-services bodies denotes the constitutional rules and institutional links organised around The consolidated owner is Lok-Adalats-and-Other-Courts.md .",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 397.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 330.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1587,
+      "markdown_body_line_end": 1604,
+      "heading": "CLOSING RECALL FLOW - LOK ADALAT AND LEGAL-SERVICES BODIES",
+      "preview": "START / CONCEPT: LOK ADALAT AND LEGAL-SERVICES BODIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 421
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 624.991
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 363.991
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1615,
+      "markdown_body_line_end": 1615,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appointment And Independence Design becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 243.191
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 176.524
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1637,
+      "markdown_body_line_end": 1648,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Questions",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Axis",
+          "Questions"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 599.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 363.09
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1657,
+      "markdown_body_line_end": 1674,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT AND INDEPENDENCE DESIGN",
+      "preview": "START / CONCEPT: APPOINTMENT AND INDEPENDENCE DESIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 306.19
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 95.19
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1685,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Democratic denotes the constitutional rules and institutional links organised around parent statute enacted/amended by legislature.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1712,
+      "markdown_body_line_end": 1729,
+      "heading": "CLOSING RECALL FLOW - DEMOCRATIC",
+      "preview": "START / CONCEPT: DEMOCRATIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 310
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1740,
+      "markdown_body_line_end": 1740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legal denotes the constitutional rules and institutional links organised around action confined to statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1768,
+      "markdown_body_line_end": 1785,
+      "heading": "CLOSING RECALL FLOW - LEGAL",
+      "preview": "START / CONCEPT: LEGAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 320
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 523.091
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1796,
+      "markdown_body_line_end": 1796,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Administrative/public denotes the constitutional rules and institutional links organised around transparent regulations and consultation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1822,
+      "markdown_body_line_end": 1823,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Judicial review is not the same as a merits appeal. Courts primarily test legality, jurisdiction, procedure, reasonableness and constitutional compliance according to the case.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 734.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 689.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1829,
+      "markdown_body_line_end": 1846,
+      "heading": "CLOSING RECALL FLOW - ADMINISTRATIVE/PUBLIC",
+      "preview": "START / CONCEPT: ADMINISTRATIVE/PUBLIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 665.324
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 454.324
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1857,
+      "markdown_body_line_end": 1857,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regulatory Capture And Other Failure Modes becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 314.524
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 247.856
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1878,
+      "markdown_body_line_end": 1888,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Failure | Mechanism | Corrective",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Failure",
+          "Mechanism",
+          "Corrective"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 339.29
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1894,
+      "markdown_body_line_end": 1911,
+      "heading": "CLOSING RECALL FLOW - REGULATORY CAPTURE AND OTHER FAILURE MODES",
+      "preview": "START / CONCEPT: REGULATORY CAPTURE AND OTHER FAILURE MODES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 314.79
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 103.79
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1922,
+      "markdown_body_line_end": 1922,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "NHRC denotes the constitutional rules and institutional links organised around Civil-court powers during inquiry do not make recommendations binding.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1948,
+      "markdown_body_line_end": 1965,
+      "heading": "CLOSING RECALL FLOW - NHRC",
+      "preview": "START / CONCEPT: NHRC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1976,
+      "markdown_body_line_end": 1976,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cic becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 397.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2002,
+      "markdown_body_line_end": 2019,
+      "heading": "CLOSING RECALL FLOW - CIC",
+      "preview": "START / CONCEPT: CIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2030,
+      "markdown_body_line_end": 2030,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CVC versus CBI versus Lokpal denotes the constitutional rules and institutional links organised around CVC: statutory vigilance supervision/advice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2056,
+      "markdown_body_line_end": 2073,
+      "heading": "CLOSING RECALL FLOW - CVC VERSUS CBI VERSUS LOKPAL",
+      "preview": "START / CONCEPT: CVC VERSUS CBI VERSUS LOKPAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2084,
+      "markdown_body_line_end": 2084,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Its principal consequence is that nCBC is now constitutional, not statutory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 493.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 441.424
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2108,
+      "markdown_body_line_end": 2125,
+      "heading": "CLOSING RECALL FLOW - NCBC",
+      "preview": "START / CONCEPT: NCBC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2136,
+      "markdown_body_line_end": 2136,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bci Versus Law Commission becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2161,
+      "markdown_body_line_end": 2178,
+      "heading": "CLOSING RECALL FLOW - BCI VERSUS LAW COMMISSION",
+      "preview": "START / CONCEPT: BCI VERSUS LAW COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 138
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2189,
+      "markdown_body_line_end": 2189,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consumer Commission Versus Ccpa becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2217,
+      "markdown_body_line_end": 2234,
+      "heading": "CLOSING RECALL FLOW - CONSUMER COMMISSION VERSUS CCPA",
+      "preview": "START / CONCEPT: CONSUMER COMMISSION VERSUS CCPA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 760.591
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 549.591
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2245,
+      "markdown_body_line_end": 2245,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "17.1 2018 GS-II: tribunals and ordinary courts denotes the constitutional rules and institutional links organised around Thesis: Tribunals add expertise and speed but cannot constitutionally replace High Court judicial.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 414.591
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 347.924
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2272,
+      "markdown_body_line_end": 2289,
+      "heading": "CLOSING RECALL FLOW - GS-II: TRIBUNALS AND ORDINARY COURTS",
+      "preview": "START / CONCEPT: GS-II: TRIBUNALS AND ORDINARY COURTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 728.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 487.691
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2300,
+      "markdown_body_line_end": 2300,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ncsc And Minority Educational Institutions becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 347.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 281.224
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2329,
+      "markdown_body_line_end": 2346,
+      "heading": "CLOSING RECALL FLOW - GS-II: NCSC AND MINORITY EDUCATIONAL INSTITUTIONS",
+      "preview": "START / CONCEPT: GS-II: NCSC AND MINORITY EDUCATIONAL INSTITUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 620.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 399.091
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2357,
+      "markdown_body_line_end": 2357,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Multiple Commissions And An Umbrella Body becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 259.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 192.624
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2402,
+      "heading": "CLOSING RECALL FLOW - GS-II: MULTIPLE COMMISSIONS AND AN UMBRELLA BODY",
+      "preview": "START / CONCEPT: GS-II: MULTIPLE COMMISSIONS AND AN UMBRELLA BODY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 526.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 315.891
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2413,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cat And Independent Judicial Authority becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 195.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 128.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2440,
+      "markdown_body_line_end": 2457,
+      "heading": "CLOSING RECALL FLOW - GS-II: CAT AND INDEPENDENT JUDICIAL AUTHORITY",
+      "preview": "START / CONCEPT: GS-II: CAT AND INDEPENDENT JUDICIAL AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 506.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 295.691
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2468,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "17.5 2020 GS-II: RTI amendment and Information Commission autonomy denotes the constitutional rules and institutional links organised around Explain CIC's statutory appellate/penalty powers; identify how appointment vacancies, tenure/servic",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 127.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 46.624
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2493,
+      "markdown_body_line_end": 2510,
+      "heading": "CLOSING RECALL FLOW - GS-II: RTI AMENDMENT AND INFORMATION COMMISSION AUTONOMY",
+      "preview": "START / CONCEPT: GS-II: RTI AMENDMENT AND INFORMATION COMMISSION AUTONOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 410.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 179.691
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2521,
+      "markdown_body_line_end": 2521,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "17.6 2020 GS-II: constitutional status for NCW denotes the constitutional rules and institutional links organised around State NCW's statutory basis under the 1990 Act.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2552,
+      "markdown_body_line_end": 2569,
+      "heading": "CLOSING RECALL FLOW - GS-II: CONSTITUTIONAL STATUS FOR NCW",
+      "preview": "START / CONCEPT: GS-II: CONSTITUTIONAL STATUS FOR NCW",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 315.624
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 84.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2580,
+      "markdown_body_line_end": 2580,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "17.7 2021 GS-II: CBI jurisdiction and federalism denotes the constitutional rules and institutional links organised around Distinguish CBI's executive origin from DSPE statutory powers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2606,
+      "markdown_body_line_end": 2623,
+      "heading": "CLOSING RECALL FLOW - GS-II: CBI JURISDICTION AND FEDERALISM",
+      "preview": "START / CONCEPT: GS-II: CBI JURISDICTION AND FEDERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 270.824
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 39.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2634,
+      "markdown_body_line_end": 2634,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Human Rights Commission Limitations becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2661,
+      "markdown_body_line_end": 2678,
+      "heading": "CLOSING RECALL FLOW - GS-II: HUMAN RIGHTS COMMISSION LIMITATIONS",
+      "preview": "START / CONCEPT: GS-II: HUMAN RIGHTS COMMISSION LIMITATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2689,
+      "markdown_body_line_end": 2689,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ncbc From Statutory To Constitutional becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2715,
+      "markdown_body_line_end": 2732,
+      "heading": "CLOSING RECALL FLOW - GS-II: NCBC FROM STATUTORY TO CONSTITUTIONAL",
+      "preview": "START / CONCEPT: GS-II: NCBC FROM STATUTORY TO CONSTITUTIONAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2743,
+      "markdown_body_line_end": 2743,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "17.10 2023 GS-II: CCI and abuse of dominance denotes the constitutional rules and institutional links organised around Define relevant market - dominance is not illegal - identify abusive conduct - CCI investigation,.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 401.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 335.224
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2785,
+      "heading": "CLOSING RECALL FLOW - GS-II: CCI AND ABUSE OF DOMINANCE",
+      "preview": "START / CONCEPT: GS-II: CCI AND ABUSE OF DOMINANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 492.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2796,
+      "markdown_body_line_end": 2796,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lok Adalat Versus Arbitration Tribunal becomes exam-ready through precise classification rather than institutional labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 286.224
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2822,
+      "markdown_body_line_end": 2839,
+      "heading": "CLOSING RECALL FLOW - GS-II: LOK ADALAT VERSUS ARBITRATION TRIBUNAL",
+      "preview": "START / CONCEPT: GS-II: LOK ADALAT VERSUS ARBITRATION TRIBUNAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 634.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2850,
+      "markdown_body_line_end": 2850,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "17.12 2025 GS-II: administrative tribunals and 2021 rationalisation denotes the constitutional rules and institutional links organised around Need: expertise/speed/access - ordinary-court safeguards - bodies abolished/functions transferred ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 269.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 188.424
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2877,
+      "markdown_body_line_end": 2894,
+      "heading": "CLOSING RECALL FLOW - GS-II: ADMINISTRATIVE TRIBUNALS AND 2021 RATIONALISATION",
+      "preview": "START / CONCEPT: GS-II: ADMINISTRATIVE TRIBUNALS AND 2021 RATIONALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 542.591
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 301.591
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2905,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims route closure denotes the constitutional rules and institutional links organised around Demand Required distinction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 194.991
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 128.324
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2924,
+      "markdown_body_line_end": 2937,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand | Required distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Demand",
+          "Required distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 582.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 225.09
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2960,
+      "heading": "CLOSING RECALL FLOW - PRELIMS ROUTE CLOSURE",
+      "preview": "START / CONCEPT: PRELIMS ROUTE CLOSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2971,
+      "markdown_body_line_end": 2971,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Universal body-comparison template denotes the constitutional rules and institutional links organised around For any unfamiliar body, write.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3007,
+      "markdown_body_line_end": 3024,
+      "heading": "CLOSING RECALL FLOW - UNIVERSAL BODY-COMPARISON TEMPLATE",
+      "preview": "START / CONCEPT: UNIVERSAL BODY-COMPARISON TEMPLATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 624.991
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 403.991
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3035,
+      "markdown_body_line_end": 3035,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "High-yield traps denotes the constitutional rules and institutional links organised around \"Commission\" does not mean constitutional.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 283.191
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 216.524
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3077,
+      "markdown_body_line_end": 3078,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Core firewall:** This file and its specialist Core links contain all indispensable classification, institutional design, traps and 2018-2025 PYQ answer structures.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 300.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 255.624
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3087,
+      "markdown_body_line_end": 3087,
+      "heading": "52. 21. Answer architecture (10/15/20-mark support)",
+      "preview": "Purpose: this is a thin *answer-assembly* layer over sections 1-20. It does **not** repeat the taxonomy (§1-8), the regulator map (§9-12), the independence/accountability axes (§13-14), the capture table (§15), the PYQ answer engines (§17) ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3091,
+      "markdown_body_line_end": 3108,
+      "heading": "CLOSING RECALL FLOW - HIGH-YIELD TRAPS",
+      "preview": "START / CONCEPT: HIGH-YIELD TRAPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 679.824
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 478.824
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3119,
+      "markdown_body_line_end": 3119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.1 Demand and directive map denotes the constitutional rules and institutional links organised around Demand family Directive signals Answer spine (using this file).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 372.224
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 305.556
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3138,
+      "markdown_body_line_end": 3144,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand family | Directive signals | Answer spine (using this file)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Demand family",
+          "Directive signals",
+          "Answer spine (using this file)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 516.09
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3148,
+      "markdown_body_line_end": 3165,
+      "heading": "CLOSING RECALL FLOW - DEMAND AND DIRECTIVE MAP",
+      "preview": "START / CONCEPT: DEMAND AND DIRECTIVE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 494.09
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 263.09
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3176,
+      "markdown_body_line_end": 3176,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.2 Qualified thesis options denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 142.29
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 75.622
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3203,
+      "markdown_body_line_end": 3220,
+      "heading": "CLOSING RECALL FLOW - QUALIFIED THESIS OPTIONS",
+      "preview": "START / CONCEPT: QUALIFIED THESIS OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 414.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 173.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3231,
+      "markdown_body_line_end": 3231,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.3 Mark-scaled structures denotes the constitutional rules and institutional links organised around Marks Architecture Evidence load.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3250,
+      "markdown_body_line_end": 3254,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Marks | Architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 335.424
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 202.422
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3258,
+      "markdown_body_line_end": 3275,
+      "heading": "CLOSING RECALL FLOW - MARK-SCALED STRUCTURES",
+      "preview": "START / CONCEPT: MARK-SCALED STRUCTURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3286,
+      "markdown_body_line_end": 3286,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.4 Bank A — The consolidated appeal and judicial-review chain denotes the constitutional rules and institutional links organised around (§9-11 name the tribunals; this bank supplies the statutory appeal route and the standard of review, w",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3307,
+      "markdown_body_line_end": 3316,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "First forum / regulator | Statutory appeal forum | Onward review",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "First forum / regulator",
+          "Statutory appeal forum",
+          "Onward review"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 519.69
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3326,
+      "markdown_body_line_end": 3343,
+      "heading": "CLOSING RECALL FLOW - BANK A - THE CONSOLIDATED APPEAL AND JUDICIAL-REVIEW CHAIN",
+      "preview": "START / CONCEPT: BANK A — THE CONSOLIDATED APPEAL AND JUDICIAL-REVIEW CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 413
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3354,
+      "markdown_body_line_end": 3354,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.5 Bank B — Procedural fairness (natural-justice anchors §5 does not name) denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 366.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 299.824
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3382,
+      "markdown_body_line_end": 3399,
+      "heading": "CLOSING RECALL FLOW - BANK B - PROCEDURAL FAIRNESS (NATURAL-JUSTICE ANCHORS Section 5 DOES NOT NAME)",
+      "preview": "START / CONCEPT: BANK B — PROCEDURAL FAIRNESS (NATURAL-JUSTICE ANCHORS §5 DOES NOT NAME)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 500.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 269.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3410,
+      "markdown_body_line_end": 3410,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.6 Bank C — Independence-versus-accountability and regulatory architecture denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3435,
+      "markdown_body_line_end": 3452,
+      "heading": "CLOSING RECALL FLOW - BANK C - INDEPENDENCE-VERSUS-ACCOUNTABILITY AND REGULATORY ARCHITECTURE",
+      "preview": "START / CONCEPT: BANK C — INDEPENDENCE-VERSUS-ACCOUNTABILITY AND REGULATORY ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3463,
+      "markdown_body_line_end": 3463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.7 Institutional incentives and capture in answer-use denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3488,
+      "markdown_body_line_end": 3505,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONAL INCENTIVES AND CAPTURE IN ANSWER-USE",
+      "preview": "START / CONCEPT: INSTITUTIONAL INCENTIVES AND CAPTURE IN ANSWER-USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 704.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3516,
+      "markdown_body_line_end": 3516,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.8 Variation and implementation constraints denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 352.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 285.824
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3541,
+      "markdown_body_line_end": 3558,
+      "heading": "CLOSING RECALL FLOW - VARIATION AND IMPLEMENTATION CONSTRAINTS",
+      "preview": "START / CONCEPT: VARIATION AND IMPLEMENTATION CONSTRAINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 672.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 441.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3569,
+      "markdown_body_line_end": 3569,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.9 Verdict scaffolds denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 278.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 226.024
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3596,
+      "markdown_body_line_end": 3613,
+      "heading": "CLOSING RECALL FLOW - VERDICT SCAFFOLDS",
+      "preview": "START / CONCEPT: VERDICT SCAFFOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 589
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 519.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 208.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3624,
+      "markdown_body_line_end": 3624,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "21.10 Prelims close-option distinctions (complement to §18) operates through SEBI appeal route SAT (§15T) , then SC on a question of law (§15Z) — not the High Court in the first instance, connected with CCI appeal route NCLAT (§53B) , then ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3645,
+      "markdown_body_line_end": 3654,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Confusion pair | Correct discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Confusion pair",
+          "Correct discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 366.024
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 71.022
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3674,
+      "markdown_body_line_end": 3691,
+      "heading": "CLOSING RECALL FLOW - PRELIMS CLOSE-OPTION DISTINCTIONS (COMPLEMENT TO Section 18)",
+      "preview": "START / CONCEPT: PRELIMS CLOSE-OPTION DISTINCTIONS (COMPLEMENT TO §18)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 318
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 344.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 83.691
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3702,
+      "markdown_body_line_end": 3702,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Natural justice and regulator-power case matrix denotes the constitutional rules and institutional links organised around Decision Decision year Safe proposition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3721,
+      "markdown_body_line_end": 3729,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Decision | Decision year | Safe proposition",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Decision",
+          "Decision year",
+          "Safe proposition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 302.224
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 73.222
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3736,
+      "markdown_body_line_end": 3753,
+      "heading": "CLOSING RECALL FLOW - NATURAL JUSTICE AND REGULATOR-POWER CASE MATRIX",
+      "preview": "START / CONCEPT: NATURAL JUSTICE AND REGULATOR-POWER CASE MATRIX",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3764,
+      "markdown_body_line_end": 3764,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Digital, data and platform regulation boundary denotes the constitutional rules and institutional links organised around REGULATORY QUESTION.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3803,
+      "markdown_body_line_end": 3820,
+      "heading": "CLOSING RECALL FLOW - DIGITAL, DATA AND PLATFORM REGULATION BOUNDARY",
+      "preview": "START / CONCEPT: DIGITAL, DATA AND PLATFORM REGULATION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 618.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 397.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3831,
+      "markdown_body_line_end": 3831,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Start every regulator comparison with its verified enabling law and appellate route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 257.691
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 205.224
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3843,
+      "markdown_body_line_end": 3850,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Institution | Source and precise field | Ordinary statutory route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Institution",
+          "Source and precise field",
+          "Ordinary statutory route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 483.49
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3858,
+      "markdown_body_line_end": 3875,
+      "heading": "CLOSING RECALL FLOW - VERIFIED ENABLING-LAW AND APPELLATE-ROUTE MATRIX",
+      "preview": "START / CONCEPT: VERIFIED ENABLING-LAW AND APPELLATE-ROUTE MATRIX",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 413.89
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 232.89
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3886,
+      "markdown_body_line_end": 3886,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A quasi-judicial decision protocol turns expert power into reviewable lawful authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 112.09
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 59.622
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3899,
+      "markdown_body_line_end": 3909,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "STATUTORY POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 549.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3919,
+      "markdown_body_line_end": 3936,
+      "heading": "CLOSING RECALL FLOW - QUASI-JUDICIAL DECISION PROTOCOL",
+      "preview": "START / CONCEPT: QUASI-JUDICIAL DECISION PROTOCOL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 451.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 270.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3947,
+      "markdown_body_line_end": 3947,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Independence and accountability are complementary institutional design variables.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 130.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 78.424
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3960,
+      "markdown_body_line_end": 3968,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Design axis | Diagnostic question | Repair",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Design axis",
+          "Diagnostic question",
+          "Repair"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 443.69
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3975,
+      "markdown_body_line_end": 3992,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENCE, CAPTURE AND ACCOUNTABILITY TEST",
+      "preview": "START / CONCEPT: INDEPENDENCE, CAPTURE AND ACCOUNTABILITY TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 388.29
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 197.29
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5378,
+      "markdown_body_line_end": 5385,
+      "heading": "Legitimacy chain",
+      "preview": "Legislative mandate",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 426.591
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 355.591
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5393,
+      "markdown_body_line_end": 5400,
+      "heading": "3. Independence is multidimensional",
+      "preview": "Dimension | Design question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Design question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 309.891
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 158.09
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5463,
+      "markdown_body_line_end": 5465,
+      "heading": "6. Combining rule-making, enforcement and adjudication",
+      "preview": "make rule -> investigate breach -> prosecute/show cause -> decide -> penalise",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 745.091
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5501,
+      "markdown_body_line_end": 5505,
+      "heading": "8. Economic versus social regulation",
+      "preview": "Economic regulation | Social regulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Economic regulation",
+          "Social regulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 378.691
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 290.49
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5543,
+      "markdown_body_line_end": 5546,
+      "heading": "Tribunal proliferation cycle",
+      "preview": "court delay -> new tribunal -> weak appointments/infrastructure -> tribunal delay",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 618.691
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5575,
+      "markdown_body_line_end": 5578,
+      "heading": "12. Responsive regulation",
+      "preview": "guidance -> warning -> corrective direction -> civil penalty",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 309.091
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 278.091
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5621,
+      "markdown_body_line_end": 5632,
+      "heading": "15. Institutional evaluation dashboard",
+      "preview": "Dimension | Indicator",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Dimension",
+          "Indicator"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 617.191
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 380.59
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6049,
+      "markdown_body_line_end": 6065,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Why the regulatory state emerged",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 471.091
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6069,
+      "markdown_body_line_end": 6083,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Source, function and decisional character",
+      "preview": "BODY / AUTHORITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 132,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 132,
+          "frame_y": 305.491
+        }
+      },
+      "pdf_pages": [
+        132
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6087,
+      "markdown_body_line_end": 6104,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Regulatory cycle and separation problem",
+      "preview": "PARENT ACT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6108,
+      "markdown_body_line_end": 6124,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Natural justice and delegated-power cases",
+      "preview": "In re Delhi Laws Act (1951)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6128,
+      "markdown_body_line_end": 6146,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Regulator, tribunal, commission and court",
+      "preview": "COURT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6150,
+      "markdown_body_line_end": 6168,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Regulator power, appealability and judicial control",
+      "preview": "Competition Commission of India v. SAIL (2010)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6172,
+      "markdown_body_line_end": 6187,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Independence, accountability and capture",
+      "preview": "INDEPENDENCE AXES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6191,
+      "markdown_body_line_end": 6212,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Digital and platform regulation with legal-status firewall",
+      "preview": "DIGITAL HARMS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 190.091
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6216,
+      "markdown_body_line_end": 6227,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Enabling laws and appellate routes",
+      "preview": "SOURCE -> REGULATOR -> APPEAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6231,
+      "markdown_body_line_end": 6245,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Quasi-judicial decision protocol",
+      "preview": "STATUTORY POWER -> COMPETENT STAGE -> NOTICE + DISCLOSURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6249,
+      "markdown_body_line_end": 6264,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: PYQ execution and reform diagnosis",
+      "preview": "PRELIMS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 332.891
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 6268,
+      "markdown_body_line_end": 6286,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC synthesis: calibrated independence under law",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 310.891
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 126.491
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    }
+  ]
+}

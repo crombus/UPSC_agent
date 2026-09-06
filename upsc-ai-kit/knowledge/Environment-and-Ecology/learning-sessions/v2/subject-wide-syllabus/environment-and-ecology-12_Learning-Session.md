@@ -1327,6 +1327,43 @@ ecological outcome without the relevant verified project monitoring period.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** social change concerns alteration
+  in institutions, relations, norms, roles and identities; modernisation is one
+  structural process within it. Sanskritisation, Westernisation,
+  secularisation, democratisation, education, migration, technology, law,
+  markets and movements operate at different levels and speeds.
+- **Indispensable sociology:** M.N. Srinivas's Sanskritisation and
+  Westernisation, Yogendra Singh's modernisation of Indian tradition,
+  structural-functional and conflict explanations, Redfield's Great/Little
+  Tradition and Marriott's universalisation/parochialisation are bounded lenses,
+  not a unilinear tradition-to-modernity ladder.
+- **Conceptual distinctions:** modernisation is not westernisation;
+  Sanskritisation can change status claims without abolishing hierarchy;
+  secularisation as institutional differentiation is not constitutional
+  secularism or necessary decline of belief; mobility is not structural
+  transformation; enactment is not normative or behavioural change.
+- **Mechanism, continuity and intersectionality:** education, urban work,
+  communications, law and movements redistribute resources and expectations,
+  but kinship, ritual, language and local institutions adapt and reproduce
+  continuity. Effects differ by caste, class, gender, tribe, religion, region,
+  generation and rural-urban location; resistance and unintended effects are
+  part of change, not evidence of social stasis.
+- **Data/source control:** NEP 2020 remains an official policy context for
+  education and institutional change, but policy text proves neither equal
+  access nor social mobility. No cryptocurrency price/legal status, village
+  prevalence, adoption rate or causal outcome is asserted from a technology
+  label.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for theories, levels, chronology, continuity,
+  feedback, regional pathways, anti-teleology controls and evidence limits.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover customs and
+  obscurantism in 2020, traditional-value continuity in 2021 and fast-food
+  growth amid health concern in 2025; the 2021 cryptocurrency demand is
+  cross-owned with Economy/Science and Technology. No unavailable 2026 demand
+  or unsupported modernization indicator is invented.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Diversion approval first?

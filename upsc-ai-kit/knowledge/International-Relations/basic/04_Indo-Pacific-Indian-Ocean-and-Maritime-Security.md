@@ -493,3 +493,26 @@ China/US roles, UNCLOS institutions, blue economy, climate and non-traditional t
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** The Indo-Pacific and Indian Ocean framework links sea-lane security, maritime domain awareness, naval diplomacy, coastal resilience, blue economy, connectivity and a rules-based order while retaining ASEAN centrality and the sovereignty of littoral and island states.
+- **Indispensable distinction and prerequisite taxonomy:** UNCLOS membership is not acceptance of every maritime claim, freedom of navigation is not identical to a specific naval operation, the Quad is not a treaty alliance, SAGAR is a policy vision, and an exercise or logistics agreement does not prove automatic combat commitment.
+- **Mechanism, implementation and evidence control:** Verify grouping membership, exercise participants, institutional mandate and operational status; separate objective, platform, deployment, capacity-building and outcome while testing escalation, access, interoperability, environmental, fiscal and small-state agency risks.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: the UN confirms BBNJ entry into force on 17 January 2026; IORA confirms India's 2025-27 chairship. Signature, ratification, entry into force, chairship and operational maritime capacity are distinct, and the Quad remains a non-treaty consultation. Sources: https://www.un.org/bbnjagreement/en; https://www.iora.int/troika; https://www.iora.int/sites/default/files/2026-08/List%20of%20IORA%20Chair%20002.pdf; https://www.bimstec.org/
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Four General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2020 General Studies Paper II question 20 on Indo-United States and Indo-Russian defence deals and Indo-Pacific stability, a Discuss demand of 15 marks and 250 words; 2021 General Studies Paper II question 20 on AUKUS in the Indo-Pacific and existing regional partnerships, a Discuss the strength and impact demand of 15 marks and 250 words, for which the ledger records that the opening clause of the printed stem was truncated in the scan; 2023 General Studies Paper II question 20 on the role of the International Maritime Organization in protecting the environment and maritime safety, a Discuss demand of 15 marks and 250 words with the word limit taken from the instruction block; and 2024 General Studies Paper II question 20 on the geopolitical and geostrategic importance of Maldives for India, a Discuss demand of 15 marks and 250 words. For the 2020, 2021 and 2023 demands the ledger records that the Core route supersedes the older Advanced ownership. Two objective demands are also routed to this owner and are carried as coverage requirements only: 2022 Prelims General Studies Paper I question 85 on Convention provisions for the territorial sea, innocent passage and the exclusive economic zone, and 2022 Prelims General Studies Paper I question 86 on the Senkaku Islands maritime territorial dispute in the East China Sea. The official 2018-2023 Prelims keys are not held locally, and no option or answer letter is recorded or inferred for either objective demand. Where a printed stem is recorded as truncated or defective in the scan, that defect is reported rather than silently repaired. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.

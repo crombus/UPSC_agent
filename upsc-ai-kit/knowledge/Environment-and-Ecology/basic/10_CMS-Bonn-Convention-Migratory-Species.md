@@ -229,3 +229,44 @@ being **adopted** — only the latter changes legal status.
 
 - **10 marks:** define range state, distinguish appendices and use Amur Falcon as a mechanism case.
 - **15/20 marks:** map flyway stages, use a cooperative and a domestic mitigation example, discuss habitat/power-line/poaching risks and end with synchronised range-state plus local-community action.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** urbanisation is a change in urban
+  share plus occupational, spatial, economic and institutional transformation.
+  Urban population growth may arise through natural increase, migration,
+  reclassification or boundary expansion; statutory town, census town,
+  agglomeration, metropolitan region, slum and informal settlement are not
+  synonyms.
+- **Indispensable sociology and urban process:** agglomeration can deepen labour markets, matching, supplier
+  networks and knowledge spillovers, while land-price escalation, housing-supply
+  lag, commuting cost and environmental externalities distribute gains and costs
+  unevenly. Migration is rational for households even when it stresses the city.
+- **Governance precision:** the Seventy-fourth Constitutional Amendment inserted
+  Part IXA and the Twelfth Schedule, but functional listing, actual devolution,
+  municipal finance, parastatal control, metropolitan coordination and ward-level
+  participation are separate questions. A metropolitan region is not one
+  municipality and formal assignment is not implementation capacity.
+- **Housing and informality:** informality is a labour, housing, tenure and
+  service relation, not a cultural trait. A slum label depends on legal/Census/
+  local definitions; tenure insecurity can block formal services, while remote
+  relocation can destroy livelihood access even where housing quality improves.
+- **Remedy test:** compare in-situ upgrading, serviced land, rental and affordable
+  housing, transit-oriented planning, portable services, drainage/ecological
+  restoration, municipal finance, ward participation and metropolitan
+  coordination by distributive and procedural justice, resilience and livelihood
+  access. No remedy works merely because it is technology-labelled.
+- **Data/source control and current programme boundary:** Census 2011 remains the latest completed
+  Indian urban stock as of 5 September 2026; UN World Urbanization Prospects 2025
+  is a harmonised estimate/projection, not Census data. PMAY-U 2.0 and AMRUT 2.0
+  may establish current housing and service-policy context, but project counts,
+  coverage and benefit claims require dated dashboard evidence and detailed
+  scheme architecture remains Social Justice/Governance-owned.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for growth-component separation, city-size pull,
+  governance fragmentation, housing/informality mechanisms, ecological risk,
+  justice tests and evidence limits.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover 2022 Tier-2
+  city/middle-class consumption, 2023 segregation, cross-owned 2024 large-city
+  migrant pull and 2025 smart-city poverty/distributive justice. No unavailable
+  2026 demand or unsupported city-level statistic is invented.

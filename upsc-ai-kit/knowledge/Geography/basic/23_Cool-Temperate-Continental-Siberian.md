@@ -136,3 +136,36 @@ number unless tied to a named monitoring period.
 7. **Conclusion:** graded — a sparsely populated and economically marginal belt is nevertheless
    central to both the world timber economy and the global carbon balance, and the same warming that
    improves its accessibility threatens both its ground stability and its carbon store.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Northern-Hemisphere Siberian/subarctic distribution; severe
+  continental winters, short summers and low summer-maximum precipitation;
+  taiga conifers, softwood economy, below-ground carbon, fire-permafrost
+  feedback and Himalayan subalpine-alpine analogue.
+- **Process control:** weak maritime moderation produces extreme annual range;
+  cold limits decomposition and deep rooting, favouring conifers and long-term
+  soil/peat/permafrost carbon storage. Warming can increase fire and thaw,
+  exposing stored carbon and weakening frozen-ground bearing capacity.
+- **Scale/map control:** boreal biome, forest stand, discontinuous/continuous
+  permafrost zone, seasonal active layer, Himalayan slope, treeline and alpine
+  meadow are separate. India's subalpine and alpine belts are altitudinal
+  analogues, not fragments of continental taiga.
+- **Date/data control:** fire area, permafrost temperature, active-layer depth,
+  carbon balance, treeline shift and forest cover require a dated
+  NOAA/FSI/research series with baseline and spatial domain. One season cannot
+  establish a permanent biome shift.
+- **Terminology control:** taiga is boreal conifer forest south of tundra;
+  permafrost is ground at or below 0°C for at least two consecutive years and
+  differs from seasonal frost; treeline, snowline and timberline are not
+  synonyms; bugyals/mergs are alpine meadows, not forests.
+- **Causal control:** cold is necessary but not sufficient for vegetation
+  pattern. Moisture, active-layer depth, fire, insects, wind, aspect, snow
+  persistence, grazing and land use condition boreal and Himalayan outcomes.
+- **Boundary:** Topic 22 owns lower/middle Himalayan temperate forests; Topic
+  25 owns tundra, ice cap and polar amplification. Environment owns species
+  and protected-area policy. Topic 23 owns taiga process plus the
+  subalpine-treeline-alpine transition.
+- **Verified PYQ ownership, 2018-2026:** the audited routing ledgers contain no
+  direct Topic 23 question. Boreal, permafrost and Himalayan-belt demands are
+  bounded applications; no solved PYQ or answer key is fabricated.

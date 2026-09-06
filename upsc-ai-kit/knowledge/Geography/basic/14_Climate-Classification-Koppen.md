@@ -222,3 +222,35 @@ convenient test case. Read each zone as **code -> cause -> region -> land-use co
 > not latitude, organise India's climatic map — the premise of almost every Indian regional-climate
 > question. **Limitation:** the classification records the outcome without explaining the monsoon
 > mechanism that produces it, which is why a genetic account must be supplied alongside.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** weather-versus-climate distinction; Köppen temperature,
+  precipitation and seasonality logic; A/B/C/D/E major groups and subordinate
+  letters; Indian climatic-region mapping through latitude, altitude,
+  continentality, relief and monsoon seasonality; strengths and limits of
+  threshold classification.
+- **Process control:** long-period temperature and precipitation regimes are
+  classified through stated thresholds, then explained through circulation,
+  relief, distance from sea and altitude. Codes describe patterns; they do not
+  independently cause vegetation or agriculture.
+- **Scale/map control:** station normal, grid cell, climatic region,
+  vegetation biome, agro-climatic zone and administrative boundary are separate
+  units. Indian transition belts and mountains cannot be reduced to one
+  permanent sharp code line.
+- **Date/data control:** normals, rainfall/temperature anomalies, heat or cold
+  records and revised maps require dataset, base period, resolution and issuing
+  agency. A current season is not a climate normal and a map classification is
+  not timeless.
+- **Terminology control:** climate region differs from biome and agro-climatic
+  region; aridity threshold from rainfall total alone; Af from Am/Aw; Cs from
+  Cw/Cf; highland mosaics from a single universal Köppen H category.
+- **Causal control:** code correlation does not prove ecological or economic
+  determination. Transitional climates, altitude, soil, disturbance,
+  irrigation and land use qualify climate-vegetation and climate-crop links.
+- **Boundary:** Topic 13 owns weather observation and upper-air process; Topics
+  15-25 own individual climate types; Topic 16 owns India's monsoon mechanism.
+  Topic 14 owns classification logic and the comparative Indian regional map.
+- **Verified PYQ ownership, 2018-2026:** retain routed classification and
+  Indian-climate-region demands only; no station code, revised map boundary or
+  objective key is invented without a controlled source.

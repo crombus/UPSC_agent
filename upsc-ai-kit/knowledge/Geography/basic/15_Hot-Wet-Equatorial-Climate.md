@@ -178,3 +178,36 @@ comparative question between the two is best organised around seasonality, not t
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** hot-wet equatorial/Af location, convergence and convection;
+  temperature and rainfall rhythm; rainforest stratification, lianas,
+  epiphytes, nutrient cycling, shifting cultivation, plantations and logging;
+  India's monsoon-and-orography-controlled evergreen analogue, distribution,
+  biodiversity, jhum and official forest-evidence boundaries.
+- **Process control:** persistent heat and moisture drive convection, rapid
+  decomposition and fast root uptake; dense biomass stores much nutrient
+  capital, while clearing exposes leached soils. Evergreen structure follows
+  moisture continuity but varies with relief, disturbance and seasonality.
+- **Scale/map control:** global Af lowland, Indian evergreen belt, forest-type
+  polygon, forest-cover grid, recorded forest area and legal protected category
+  are separate. Western Ghats, North-East, eastern Himalayan foothills and
+  Andaman-Nicobar are mapped as regional belts with transitions.
+- **Date/data control:** forest-cover totals, very-dense/moderately-dense/open
+  classes, forest-type extent, change and fire observations require the exact
+  FSI report edition, reference period and mapping definition. No national
+  forest-cover figure is relabelled as evergreen-forest extent.
+- **Terminology control:** Af climate differs from India's monsoonal evergreen
+  analogue; evergreen from semi-evergreen; luxuriant biomass from fertile soil;
+  forest cover from recorded forest area, forest type and legal forest status;
+  jhum from a universally destructive practice.
+- **Causal control:** climate permits evergreen forest but does not alone
+  determine present cover. Orography, soils, fragmentation, fire, logging,
+  tenure, fallow length and conservation institutions condition outcomes.
+- **Boundary:** Topic 14 owns classification; Topic 16 owns monsoon mechanism;
+  Topic 17 owns deciduous forests and grasslands. Topic 15 owns Af process and
+  India's wet-evergreen analogue without importing those later topics.
+- **Verified PYQ ownership, 2018-2026:** direct routes are the 2021 Prelims
+  rainforest-structure demand and 2023 Prelims nutrient/decomposition demand.
+  The local ledgers withhold official answer letters, so none is invented.

@@ -348,6 +348,48 @@ TOPIC_08 = common.topic(
 )
 
 
+TOPIC_08["facts"][16] = (
+    TOPIC_08["facts"][16][0],
+    TOPIC_08["facts"][16][1]
+    + " Scheduled Castes, Scheduled Tribes and socially and educationally backward classes/OBCs are distinct constitutional categories: Articles 338, 338A and 338B establish distinct commissions, while Articles 341, 342 and 342A govern distinct notification or list fields; reservation doctrine and list procedure remain with Polity and Social Justice.",
+)
+TOPIC_08["facts"][17] = (
+    TOPIC_08["facts"][17][0],
+    TOPIC_08["facts"][17][1]
+    + " Articles 29 and 30 are not identical to the six religious communities notified under the National Commission for Minorities Act, 1992, and Article 350B separately concerns linguistic minorities. The Rights of Persons with Disabilities Act, 2016 is an equality and accessibility framework in which benchmark disability is a statutory subcategory, not a synonym for every person with disability.",
+)
+TOPIC_08["facts"][18] = (
+    TOPIC_08["facts"][18][0],
+    TOPIC_08["facts"][18][1]
+    + " The Transgender Persons (Protection of Rights) Act, 2019 applies to transgender persons and is not a complete equality code for every LGBTQIA+ identity; constitutional protection of sexual orientation and legal recognition of relationships are separate questions. The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 creates maintenance and welfare duties but does not prove universal pension, accessible care or effective family support.",
+)
+TOPIC_08["panels"][10] = panel(
+    "Distinct legal fields before intersection",
+    "comparison-table",
+    [
+        "SC/ST/OBC COMMISSIONS -> Articles 338, 338A and 338B are distinct",
+        "SC/ST/OBC LISTS -> Articles 341, 342 and 342A govern distinct fields",
+        "MINORITIES -> Articles 29-30 differ from the six NCM Act communities",
+        "LINGUISTIC MINORITIES -> Article 350B is a separate constitutional field",
+        "PwD -> RPwD Act 2016; benchmark disability is a statutory subcategory",
+        "TRANSGENDER -> 2019 Act is not a complete LGBTQIA+ equality code",
+        "ELDERLY -> 2007 maintenance law is not proof of universal care",
+    ],
+    ["Boundary cases, ownership and the answer spine"],
+)
+TOPIC_08["required_terms"].extend(
+    [
+        "338A",
+        "338B",
+        "Article 350B",
+        "Rights of Persons with Disabilities Act",
+        "Transgender Persons",
+        "Senior Citizens Act",
+        "LGBTQIA+",
+    ]
+)
+
+
 TOPIC_09 = common.topic(
     9,
     "Poverty and Developmental Issues",
@@ -564,8 +606,4 @@ TOPIC_10 = common.topic(
     ],
     extra=["basic/09_Poverty-and-Developmental-Issues.md"],
 )
-
-
-
-
 

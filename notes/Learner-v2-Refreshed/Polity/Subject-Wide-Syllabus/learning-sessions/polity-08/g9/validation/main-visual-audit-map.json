@@ -1,0 +1,2492 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Directive Principles - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-08` **Generation identity:** `polity-08:learner-v2:g8` · generated 28 August 2026 · supersedes `polity-08:learner-v2:g7`; all earlier generations remain immutable **Approval:*",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 40,
+      "markdown_body_line_end": 51,
+      "heading": "LEARNING ROADMAP",
+      "preview": "Stage | Complete coverage | Paper outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Stage",
+          "Complete coverage",
+          "Paper outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 422.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 85.29
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 55,
+      "markdown_body_line_end": 64,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 535.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 95,
+      "markdown_body_line_end": 95,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\polity-08_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 109,
+      "markdown_body_line_end": 109,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part IV directs the same public power restrained by Fundamental Rights toward a welfare and distributive constitutional order.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 318.556
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 251.888
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 122,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Part IV moves from the Article 36 definition of State through substantive directives and Article 37 duty to legislation, institutions, political accountability and limited judicial effects.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\01_part_iv_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 492.665
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 139,
+      "heading": "Welfare state versus police state",
+      "preview": "Police-state orientation | Welfare-state orientation under Part IV",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Police-state orientation",
+          "Welfare-state orientation under Part IV"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 294.665
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 174.064
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 151,
+      "markdown_body_line_end": 168,
+      "heading": "CLOSING RECALL FLOW - PART IV AS CONSTITUTIONAL ARCHITECTURE",
+      "preview": "START / CONCEPT: Part IV as constitutional architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 179,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 37 withholds a direct remedy, not constitutional force: Part IV remains fundamental in governance and binding as a State law-making duty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 191,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 37 creates a force chain from non-enforceability to State duty, political sanction, interpretation and the narrow Article 31C shield.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\03_article_37_force_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 204.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 229,
+      "heading": "Political sanction",
+      "preview": "**UPSC trap:** \"Non-justiciable\" is a rule about the remedy; it is not a verdict that the principle lacks constitutional status.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 740.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 695.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 250,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 37: NON-JUSTICIABILITY, DUTY AND POLITICAL SANCTION",
+      "preview": "START / CONCEPT: Article 37: non-justiciability, duty and political sanction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 673.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 452.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 38 to 43B convert the Constitution's welfare commitment into linked directives on distributive justice, access to justice, local self-government, labour dignity, social security and democratic economic organisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 298.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 232.156
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 290,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Exact constitutional direction | Mechanism and close-option control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 15,
+        "headers": [
+          "Article",
+          "Exact constitutional direction",
+          "Mechanism and close-option control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 191.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 301,
+      "markdown_body_line_end": 301,
+      "heading": "High-value distinctions inside Article 39",
+      "preview": "**Memory rule:** **L-R-C-P-H-C** = Livelihood -> Resources -> Concentration -> Pay -> Health -> Children.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 322,
+      "heading": "CLOSING RECALL FLOW - COMPLETE ARTICLE-BY-ARTICLE COVERAGE: ARTICLES 38 TO 43B",
+      "preview": "START / CONCEPT: Complete article-by-article coverage: Articles 38 to 43B",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 750.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 489.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 333,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 44 to 51 widen the Directive Principles beyond material welfare by constitutionalising reform, capability, ecology, heritage, judicial independence and a peace-oriented international outlook.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 335.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 269.156
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 359,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Exact constitutional direction | Mechanism and close-option control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Article",
+          "Exact constitutional direction",
+          "Mechanism and close-option control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 356.29
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 370,
+      "markdown_body_line_end": 387,
+      "heading": "CLOSING RECALL FLOW - COMPLETE ARTICLE-BY-ARTICLE COVERAGE: ARTICLES 44 TO 51",
+      "preview": "START / CONCEPT: Complete article-by-article coverage: Articles 44 to 51",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 398,
+      "markdown_body_line_end": 398,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 43 is socialistic for living wage and Gandhian for rural cottage industries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 444.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 392.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The Socialistic, Gandhian and Liberal-intellectual labels are scholarly study aids; several Articles overlap honestly.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\02_article_category_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 219.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 419,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Classification | Article set commonly used | Core idea",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Classification",
+          "Article set commonly used",
+          "Core idea"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 469.265
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 336.264
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 428,
+      "markdown_body_line_end": 428,
+      "heading": "Honest overlaps",
+      "preview": "**UPSC trap:** A category label never overrides the Article's text. If options differ, select by the directive, not by a rigid coaching taxonomy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 245.464
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 200.796
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 449,
+      "heading": "CLOSING RECALL FLOW - CLASSIFICATION: USEFUL SCHOLARSHIP, NOT CONSTITUTIONAL TEXT",
+      "preview": "START / CONCEPT: Classification: useful scholarship, not constitutional text",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part IXB invalid/inoperative for State co-operative societies; Part IXB operative for multi-State co-operative societies; Article 43B and the amendment to Article 19(1)(c) were not struck down.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 473,
+      "markdown_body_line_end": 473,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The 42nd, 44th, 86th and 97th Amendments expanded or restructured the Directive Principles.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\04_amendments_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 216.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 480,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Amendment | Change | Exam caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Amendment",
+          "Change",
+          "Exam caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 502.665
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 337.264
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 513,
+      "heading": "CLOSING RECALL FLOW - AMENDMENTS THAT CHANGED PART IV",
+      "preview": "START / CONCEPT: Amendments that changed Part IV",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 524,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian constitutional law moved from crude hierarchy to structured harmony: rights discipline the means, while Directive Principles supply distributive ends.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 537,
+      "markdown_body_line_end": 537,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The chronology moves from Champakam Dorairajan (1951)'s priority rule to Minerva Mills (1980) harmony, rights conversion through education and the 2024 Article 31C clarification.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\05_fr_dpsp_case_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 172.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 492.665
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 552,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Stage | Constitutional development | Exact significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Stage",
+          "Constitutional development",
+          "Exact significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 333.89
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 558,
+      "markdown_body_line_end": 559,
+      "heading": "Present position: use this formulation",
+      "preview": "**Do not write:** \"Fundamental Rights always prevail over DPSP.\" **Write:** \"Enforceable rights retain primacy in ordinary conflict, but constitutional harmony, permissible amendment and the narrow Article 31C shield qualify any absolute hi",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 221.69
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 162.822
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 580,
+      "heading": "CLOSING RECALL FLOW - FUNDAMENTAL RIGHTS-DPSP CHRONOLOGY: CONFLICT TO HARMONY",
+      "preview": "START / CONCEPT: Fundamental Rights-DPSP chronology: conflict to harmony",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 591,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 31C is not a general licence for nationalisation, arbitrary redistribution or immunity from every Fundamental Right.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 604,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 31C first asks whether a law genuinely implements Article 39(b) or (c), then applies a limited shield while retaining judicial review.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\06_article_31c_decision_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 201.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 656,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 31C AFTER PROPERTY OWNERS ASSOCIATION (2024)",
+      "preview": "START / CONCEPT: Article 31C after Property Owners Association (2024)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part IV does not automatically create remedies, but it can mature into enforceable entitlement through doctrine, amendment and legislation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 680,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "A DPSP may shape judicial interpretation, constitutional amendment, legislation and institutions without itself becoming directly enforceable.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\12_dpsp_to_fr_conversion_cycle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 230.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 700,
+      "markdown_body_line_end": 717,
+      "heading": "CLOSING RECALL FLOW - FROM DIRECTIVE TO ENFORCEABLE ENTITLEMENT",
+      "preview": "START / CONCEPT: From directive to enforceable entitlement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 268.665
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 47.665
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 728,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A Directive Principle is realised not by enactment alone but by the full chain from constitutional text to funded and accountable outcomes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 741,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "DPSP implementation spans redistribution, local government, legal aid, education, labour, health, environment and co-operatives.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\07_implementation_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 134.398
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 758,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Directive | Named constitutional/statutory/institutional vehicle | What it proves | Honest limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Directive",
+          "Named constitutional/statutory/institutional vehicle",
+          "What it proves",
+          "Honest limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 134.398
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 145.39
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 764,
+      "heading": "Implementation mechanism",
+      "preview": "constitutional goal -> legislative competence -> budget -> institution/front-line worker -> measurable outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 104.19
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 73.722
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - IMPLEMENTATION MAP: LAW, INSTITUTION, OUTCOME AND HONEST LIMITS",
+      "preview": "START / CONCEPT: Implementation map: law, institution, outcome and honest limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 556.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 39A was inserted by the 42nd Amendment to secure equal justice and free legal aid so justice is not denied by economic or other disabilities.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 215.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 148.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 828,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 39A operates through NALSA, State and court committees, district authorities and Taluk-level delivery.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\08_nalsa_legal_aid_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 752.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 452.065
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 845,
+      "heading": "Institutional levels",
+      "preview": "Level | Core role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Level",
+          "Core role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 316.865
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 165.064
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 862,
+      "heading": "Section 12 eligibility",
+      "preview": "**UPSC trap:** There is no single permanent national income ceiling applicable to every court and State. Quote the statutory architecture and say the appropriate government prescribes the ceiling.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 686.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 642.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 914,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 39A, FREE LEGAL AID AND NALSA",
+      "preview": "START / CONCEPT: Article 39A, free legal aid and NALSA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 925,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive distinction is adjudicatory power: an ordinary Lok Adalat cannot decide merits after failed settlement, but a Permanent Lok Adalat may do so within statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 938,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Ordinary Lok Adalats settle only by consent; Permanent Lok Adalats for public utility services may decide on merits after conciliation fails.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\09_lok_adalat_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 240.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 967,
+      "heading": "Precise comparison",
+      "preview": "Point | Ordinary Lok Adalat | Permanent Lok Adalat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Point",
+          "Ordinary Lok Adalat",
+          "Permanent Lok Adalat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 613.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "Precise comparison",
+      "preview": "**Close-option trap:** \"No appeal\" does not make the two bodies identical. The decisive distinction is **decision power after failed conciliation**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 613.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 568.422
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 973,
+      "markdown_body_line_end": 990,
+      "heading": "CLOSING RECALL FLOW - ORDINARY AND PERMANENT LOK ADALATS",
+      "preview": "START / CONCEPT: Ordinary and Permanent Lok Adalats",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 546.422
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 325.422
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1001,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 44 fixes a constitutional direction, but democratic legislation must determine a consultative, rights-compliant and workable form.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 204.622
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 137.954
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1015,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 44 requires an answer that balances equality, religious freedom, federal competence and democratic legitimacy.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\10_ucc_argument_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 718.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 417.665
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1031,
+      "heading": "The constitutional tension",
+      "preview": "Equality/reform case | Religion/pluralism case",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Equality/reform case",
+          "Religion/pluralism case"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 251.065
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 108.064
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1042,
+      "heading": "Judicial decisions: holding versus observation",
+      "preview": "Case | What the Court decided | Article 44 caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Case",
+          "What the Court decided",
+          "Article 44 caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 599.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1044,
+      "heading": "Judicial decisions: holding versus observation",
+      "preview": "**Mandatory phrasing:** Courts have **observed, urged or expressed concern** about Article 44. Do not say the Supreme Court ordered Parliament to enact a UCC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 599.49
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 554.822
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1048,
+      "heading": "Existing reform routes",
+      "preview": "India has used community-specific codification, a secular opt-in law, targeted equality correction and the common-code route.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\11_article_44_reform_routes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 532.822
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 232.196
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1098,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 44 AND THE UNIFORM CIVIL CODE",
+      "preview": "START / CONCEPT: Article 44 and the Uniform Civil Code",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 471.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 250.091
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1109,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Calling them \"directives outside Part IV\" is a study classification; do not relocate them into Articles 36-51.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 143.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 91.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1128,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Location | Direction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Article",
+          "Location",
+          "Direction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 681.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 548.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1155,
+      "heading": "CLOSING RECALL FLOW - DIRECTIVES OUTSIDE PART IV",
+      "preview": "START / CONCEPT: Directives outside Part IV",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 139
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 439.09
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 238.09
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Directive Principles are a constitutional compass rather than a delivery guarantee: binding in public purpose, flexible and uneven in implementation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 98.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1179,
+      "markdown_body_line_end": 1179,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Named critiques become analytical only when paired with constitutional mechanisms, counterarguments and implementation limits.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\13_criticism_defence_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 269.198
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1190,
+      "heading": "Named criticism supported by the local source",
+      "preview": "Critic | Supported formulation | Analytical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Critic",
+          "Supported formulation",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 247.198
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 72.996
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1200,
+      "heading": "Defenders",
+      "preview": "Defender | Supported proposition | Analytical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Defender",
+          "Supported proposition",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 634.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1211,
+      "heading": "Mechanism-based evaluation",
+      "preview": "Constraint | Institutional mechanism | Counterargument | Graded verdict",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Constraint",
+          "Institutional mechanism",
+          "Counterargument",
+          "Graded verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 612.29
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 381.388
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1236,
+      "heading": "CLOSING RECALL FLOW - CRITICISMS, DEFENDERS AND IMPLEMENTATION CONSTRAINTS",
+      "preview": "START / CONCEPT: Criticisms, defenders and implementation constraints",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 275.588
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 54.588
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1239,
+      "heading": "16. GS-II answer architecture",
+      "preview": "A high-scoring DPSP answer moves from a direct thesis and exact text through mechanism, named evidence, limitations and a graded constitutional verdict.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets\\14_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 474.665
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1257,
+      "heading": "Mark-scaled structure",
+      "preview": "Marks | Structure | Evidence density",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence density"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 284.865
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 151.864
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1312,
+      "heading": "Original hard MCQs",
+      "preview": "Answer placement follows strict A → B → C → D rotation, repeated seven times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 761.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 730.824
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1666,
+      "markdown_body_line_end": 1666,
+      "heading": "Remedial MCQs for common errors",
+      "preview": "Answer placement follows strict A → B → C → D rotation, repeated twice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 754.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2187,
+      "markdown_body_line_end": 2187,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Optional:** Core above is independently answer-complete. This section deepens unfamiliar 15/20-mark questions without holding back any paper-essential content.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 735.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2235,
+      "markdown_body_line_end": 2235,
+      "heading": "D. Ninth Schedule and welfare immunities",
+      "preview": "welfare objective -> constitutional protection may be available -> but basic-structure review remains.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 721.424
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2274,
+      "markdown_body_line_end": 2276,
+      "heading": "G. Outcome constitutionalism",
+      "preview": "Input | Output | Outcome | Constitutional test",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 1,
+        "headers": [
+          "Input",
+          "Output",
+          "Outcome",
+          "Constitutional test"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 229.624
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 174.722
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2316,
+      "markdown_body_line_end": 2325,
+      "heading": "Articles 38 and 39 rapid recall",
+      "preview": "Provision | Keyword",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Provision",
+          "Keyword"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 232.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 38.49
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2327,
+      "heading": "Articles 38 and 39 rapid recall",
+      "preview": "**Memory:** L-R-C-P-H-C = Livelihood, Resources, Concentration, Pay, Health, Children.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2356,
+      "heading": "Scholarly classification with overlap",
+      "preview": "Socialistic | Gandhian | Liberal-intellectual",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Socialistic",
+          "Gandhian",
+          "Liberal-intellectual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 406.224
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 360.422
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2364,
+      "markdown_body_line_end": 2369,
+      "heading": "Amendment ledger",
+      "preview": "Amendment | Part IV effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Amendment",
+          "Part IV effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 289.822
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 180.42
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2399,
+      "markdown_body_line_end": 2413,
+      "heading": "Implementation evidence bank",
+      "preview": "Directive | Evidence | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Directive",
+          "Evidence",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 527.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 227.29
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2434,
+      "heading": "Lok Adalat firewall",
+      "preview": "Ordinary Lok Adalat | Permanent Lok Adalat",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Ordinary Lok Adalat",
+          "Permanent Lok Adalat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 645.49
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2506,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Part IV's constitutional operating logic",
+      "preview": "PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 325.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 131.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2547,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Articles 38-43B: welfare, work and democratic economy",
+      "preview": "SOCIAL ORDER AND DISTRIBUTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2551,
+      "markdown_body_line_end": 2566,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Articles 44-51: reform, capability and constitutional civilisation",
+      "preview": "REFORM / CAPABILITY                 ECOLOGY / INSTITUTIONS / PEACE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2570,
+      "markdown_body_line_end": 2585,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Classification and amendment overlays",
+      "preview": "ANALYTICAL CLASSIFICATION: THE CONSTITUTION DOES NOT CREATE THESE LABELS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2607,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: FR-DPSP evolution and the surviving Article 31C",
+      "preview": "CHAMPAKAM DORAIRAJAN (1951) -> enforceable Fundamental Rights prevail over conflicting directives",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2611,
+      "markdown_body_line_end": 2632,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Implementation chain: directive to law, institution and outcome",
+      "preview": "DPSP TEXT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 365.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2653,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Article 44: equality, pluralism and federal legislative design",
+      "preview": "ARTICLE 44: STATE ENDEAVOUR TO SECURE A UNIFORM CIVIL CODE FOR CITIZENS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 343.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 169.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2657,
+      "markdown_body_line_end": 2673,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Criticism, institutional limits and constitutional relevance",
+      "preview": "CRITIQUE                              CONSTITUTIONAL RESPONSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2677,
+      "markdown_body_line_end": 2696,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Prelims traps, PYQ routes and the Mains answer spine",
+      "preview": "PRELIMS CONTROL BOARD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2700,
+      "markdown_body_line_end": 2715,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Current-law and evidence control",
+      "preview": "VOLATILE CLAIM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2733,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Executable 10, 15 and 20-mark answer routes",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2737,
+      "markdown_body_line_end": 2746,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current implementation control: legal aid, labour and UCC",
+      "preview": "ARTICLE 39A -> Legal Services Authorities Act 1987 -> NALSA / SLSA / DLSA / TALUK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 529.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    }
+  ]
+}

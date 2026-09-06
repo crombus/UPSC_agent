@@ -161,3 +161,41 @@ non-deterministic reasoning the folder applies elsewhere.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Aw/Sudan transition and ITCZ wet-dry rhythm; rainfall
+  unreliability; parkland grass-tree structure; drought adaptations; coupled
+  climate-fire-herbivory controls; wildlife and pastoral/cropping responses;
+  Indian moist deciduous, dry deciduous, thorn and distinct grassland mosaics;
+  restoration logic and dated official forest/landscape evidence.
+- **Process control:** seasonal ITCZ migration creates wet and dry seasons;
+  moisture duration controls growth while fire, browsing, grazing, soils and
+  land use regulate tree recruitment and maintain or degrade open mosaics.
+  Leaf shedding is a dry-season water strategy, not proof that the forest is
+  evergreen or dead.
+- **Scale/map control:** global Aw belt, regional savanna, Indian forest-type
+  polygon, forest-cover grid and site-specific grassland are separate. Terai
+  floodplain grassland, shola montane mosaic and Banni arid-saline grassland
+  cannot share one rainfall threshold or management prescription.
+- **Date/data control:** rainfall bands are textbook guides with regional
+  overlap. Forest cover, recorded forest area, ecological forest type,
+  plantation and legal status require a named FSI edition and definition;
+  project areas, restoration targets and outcomes require dated official
+  evidence.
+- **Terminology control:** moist deciduous differs from dry deciduous, thorn
+  forest, scrub and evergreen forest; savanna differs from steppe; natural open
+  ecosystem differs from degraded or deforested land; restoration differs from
+  dense tree planting.
+- **Causal control:** climate permits deciduous forest or grassland but does
+  not uniquely determine present structure. Fire timing, herbivory, grazing
+  pressure, invasives, hydrology, soil, fragmentation and tenure condition
+  outcomes; tree-density increase is not automatically ecological improvement.
+- **Boundary:** Topic 15 owns evergreen forests; Topic 16 owns complete monsoon
+  circulation; Topic 18 owns desert biome and Great Indian Bustard linkage;
+  Topic 07 owns desertification mechanics. Topic 17 owns exact deciduous,
+  thorn and Indian grassland distinctions without absorbing those topics.
+- **Verified PYQ ownership, 2018-2026:** the direct route is the 2021 Prelims
+  savanna tree-limitation demand. The local ledger withholds the official
+  answer letter, so rainfall seasonality, fire and herbivory are taught without
+  manufacturing a key.

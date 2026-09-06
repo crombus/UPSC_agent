@@ -1358,6 +1358,30 @@ autonomy–accountability–expertise trilemma appears here); verdict with rever
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Sports governance allocates policy, recognition, funding, selection, integrity, athlete welfare, dispute resolution and event organisation across government, autonomous sports bodies, national federations, international federations and organising committees.
+- **Indispensable distinction and prerequisite taxonomy:** The Ministry of Youth Affairs and Sports is an executive ministry, Sports Authority of India an autonomous body under it, Indian Olympic Association the recognised national Olympic committee, national sports federations sport-specific bodies, and BCCI a cricket governing body rather than a statutory national federation; tournament, governing body and organiser must not be conflated.
+- **Mechanism, implementation and evidence control:** Qualify the National Sports Development Code, court or committee directions, Olympic Charter recognition, federation status and tournament ownership by source and date; analyse selection transparency, tenure, athlete representation, safe sport, anti-doping, finance, conflict of interest, appeal and regulatory autonomy.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: the National Sports Governance Act, 2025 is Act No. 25 of 2025; official Ministry pages carry the Act and 2026 rules/notifications. The Ministry, SAI, IOA, national federations, BCCI, international federations and event organisers retain distinct legal roles. Sources: https://yas.gov.in/en/sports/nsga-2025; https://www.yas.gov.in/sites/default/files/National%20Sports%20Governance%20Act,%202025.pdf; https://sports.yas.gov.in/search-detail/gazette_notifications/30
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One applied objective demand is routed to this topic across the audited ledgers and no direct General Studies Mains demand in the audited 2018-2023 or 2024-2025 ledgers is routed here, so no Mains demand card is manufactured and no question is invented from the locally held OCR-searchable official papers. The audited 2026 Prelims ledger routes the objective demand on Grand Slam tennis governance, eligibility and wild-card participation rules to this Basic owner, and the owner's own generated 2026 integration block records the same routing. The 2026 Set-A key held locally is provisional, so no option, answer letter or distractor is recorded or inferred for it, and the demand card below supplies only the rule-architecture route by which each proposition in such an item is tested separately. The Indian statutory position was verified by the owners on 13 August 2026 and the tournament-rule position on 2 August 2026, and the package applies the status ladder throughout, so no unverified substantive-power section number, member count, tenure, age limit, quorum or penalty under the 2025 Act is asserted, no decision, inquiry or derecognition by the National Sports Board is asserted, no case decided by the National Sports Tribunal is asserted, no doping case, athlete name or sanction is asserted, no federation's recognition status is asserted, and no medal tally, funding figure or tournament result is asserted anywhere.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and the two ways it is examined?

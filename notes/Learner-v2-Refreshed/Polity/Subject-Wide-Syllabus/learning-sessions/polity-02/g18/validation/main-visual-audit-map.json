@@ -1,0 +1,3266 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\polity-02_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\polity-02_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Making of the Constitution - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-02` **Generation identity:** `polity-02:learner-v2:g17` · generated 27 August 2026 · supersedes `polity-02:learner-v2:g16` in metadata only **Approval:** false — explicit appr",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 639.024
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 388.822
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 46,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\polity-02_Teaching-Navigation_2026-08-27.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 753.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 445.556
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 71,
+      "heading": "Master learning roadmap",
+      "preview": "DEMAND FOR INDIAN CONSTITUENT POWER (1934-46)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 82,
+      "heading": "Metric discipline - never merge the denominators",
+      "preview": "Figure | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Figure",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 661.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 509.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 108,
+      "markdown_body_line_end": 108,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's Constitution emerged through a negotiated transition from colonial prescription to constituent self-government rather than through a single grant or isolated leader's proposal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 665.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 598.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 125,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (RECOMMENDED OPENING DEFINITION):** The demand for an elected Constituent Assembly transformed constitution-making from imperial grant into an exercise in constituent self-government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 386.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 327.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 128,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "01. Intellectual and political origins: 1934-1946",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\01_chronology_1934_1950.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 308.356
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 141,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 318.148
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 150,
+      "heading": "Evidence matrix",
+      "preview": "Stage | Institutional movement | Precision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Institutional movement",
+          "Precision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 296.148
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 141.946
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 199,
+      "heading": "CLOSING RECALL FLOW - INTELLECTUAL AND POLITICAL ORIGINS: 1934-1946",
+      "preview": "START / CONCEPT: INTELLECTUAL AND POLITICAL ORIGINS: 1934-1946",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 406.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 165.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 210,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Allocation was broadly one seat per million population.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 225,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (REPRESENTATION ARGUMENT):** The scheme tried to combine population, community assurance and territorial representation; this enhanced negotiated inclusion but entrenched categories inherited",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 463.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 404.356
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "02. Cabinet Mission design and allocation logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\02_cabinet_mission_design.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 385.156
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 88.014
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 234,
+      "markdown_body_line_end": 238,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 247,
+      "heading": "Evidence matrix",
+      "preview": "Component | Planned seats | Selection",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Component",
+          "Planned seats",
+          "Selection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 677.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 556.488
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 281,
+      "markdown_body_line_end": 298,
+      "heading": "CLOSING RECALL FLOW - CABINET MISSION DESIGN AND ALLOCATION LOGIC",
+      "preview": "START / CONCEPT: CABINET MISSION DESIGN AND ALLOCATION LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 551.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 309,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Constituent Assembly's representativeness depended on indirect selection, social range, political dominance, boycott and post-Partition change rather than any single numerical measure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 324,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (LEGITIMACY COMPENSATION):** The Constituent Assembly's representativeness depended on indirect selection, social range, political dominance, boycott and post-Partition change rather than any",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 152.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 93.756
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "03. Elections, composition change and metric discipline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\03_indirect_election_process.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 338,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 360.548
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 348,
+      "heading": "Evidence matrix",
+      "preview": "Metric | Verified figure | Meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Metric",
+          "Verified figure",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 338.548
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 185.546
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 397,
+      "heading": "CLOSING RECALL FLOW - ELECTIONS, COMPOSITION CHANGE AND METRIC DISCIPLINE",
+      "preview": "START / CONCEPT: ELECTIONS, COMPOSITION CHANGE AND METRIC DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 514.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 273.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 408,
+      "markdown_body_line_end": 408,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The first meeting was held on 9 December 1946.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 133.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 81.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 425,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "04. First sitting, presiding officers and secretariat",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\04_composition_change_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 631.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 334.15
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 436,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 297.95
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 188.548
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 447,
+      "heading": "Evidence matrix",
+      "preview": "Role | Person | Function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Role",
+          "Person",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 613.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 495,
+      "heading": "CLOSING RECALL FLOW - FIRST SITTING, PRESIDING OFFICERS AND SECRETARIAT",
+      "preview": "START / CONCEPT: FIRST SITTING, PRESIDING OFFICERS AND SECRETARIAT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 506,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Resolution worked as a normative constraint: committees could disagree about machinery, but they drafted within a publicly stated value framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 413.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 521,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (OBJECTIVES RESOLUTION):** The Resolution worked as a normative constraint: committees could disagree about machinery, but they drafted within a publicly stated value framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 221.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 162.156
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 524,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "05. Objectives Resolution to Preamble",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\07_objectives_to_preamble.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 530,
+      "markdown_body_line_end": 534,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 381.748
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 538,
+      "markdown_body_line_end": 544,
+      "heading": "Evidence matrix",
+      "preview": "Resolution idea | Constitutional destination | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Resolution idea",
+          "Constitutional destination",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 359.748
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 206.746
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 591,
+      "heading": "CLOSING RECALL FLOW - OBJECTIVES RESOLUTION TO PREAMBLE",
+      "preview": "START / CONCEPT: OBJECTIVES RESOLUTION TO PREAMBLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 566.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 335.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 602,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sovereignty criticism must be periodised: the Cabinet Mission shaped the Assembly's origin, while the 1947 Act removed the continuing British legal veto.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 195.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 128.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 617,
+      "markdown_body_line_end": 617,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SOVEREIGNTY ARGUMENT):** Sovereignty criticism must be periodised: the Cabinet Mission shaped the Assembly's origin, while the 1947 Act removed the continuing British legal veto.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 702.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 643.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 620,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Indian Independence Act sovereignty upgrade",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\18_independence_dual_roles.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 595.624
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 298.482
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 629,
+      "heading": "Role map",
+      "preview": "Capacity after independence | Presiding officer | Function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Capacity after independence",
+          "Presiding officer",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 248.082
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 181.08
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 665,
+      "heading": "CLOSING RECALL FLOW - A. INDIAN INDEPENDENCE ACT 1947: SOVEREIGNTY AND DUAL INSTITUTIONAL ROLES",
+      "preview": "START / CONCEPT: A. INDIAN INDEPENDENCE ACT 1947: SOVEREIGNTY AND DUAL INSTITUTIONAL ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 396.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 676,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian constitution-making was distributed authorship: committees settled principles, B.N. Rau prepared comparative advice, the Drafting Committee produced legal form and the Assembly amended and adopted the text.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 271.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 204.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 691,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (PROCESS ANALYSIS):** Indian constitution-making was distributed authorship: committees settled principles, B.N. Rau prepared comparative advice, the Drafting Committee produced legal form an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 764.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 706.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "06. Committee architecture and distributed authorship",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\05_committee_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 686.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 389.682
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 700,
+      "markdown_body_line_end": 704,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 353.482
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 265.28
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 718,
+      "heading": "Evidence matrix",
+      "preview": "Committee | Chair | Core scope",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Committee",
+          "Chair",
+          "Core scope"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 538.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 766,
+      "heading": "CLOSING RECALL FLOW - COMMITTEE ARCHITECTURE AND DISTRIBUTED AUTHORSHIP",
+      "preview": "START / CONCEPT: COMMITTEE ARCHITECTURE AND DISTRIBUTED AUTHORSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 777,
+      "markdown_body_line_end": 777,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rau was a Drafting Committee member Correct: He was Constitutional Adviser Wrong: The Drafting Committee's text became law without plenary amendment Correct: The Assembly debated and amended it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 794,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "07. B.N. Rau, Drafting Committee and Assembly: role flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\06_drafting_role_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 167.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 806,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 339.348
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 816,
+      "heading": "Evidence matrix",
+      "preview": "Actor | Contribution | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Actor",
+          "Contribution",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 317.348
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 153.146
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 865,
+      "heading": "CLOSING RECALL FLOW - B.N. RAU, DRAFTING COMMITTEE AND ASSEMBLY: ROLE FLOW",
+      "preview": "START / CONCEPT: B.N. RAU, DRAFTING COMMITTEE AND ASSEMBLY: ROLE FLOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 451.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 240.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 876,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Adoption, signing and commencement were distinct constitutional stages, allowing selected transitional provisions to operate before the Constitution generally commenced on 26 January 1950.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 101.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 891,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ADOPTION / COMMENCEMENT):** Adoption, signing and commencement were distinct constitutional stages, allowing selected transitional provisions to operate before the Constitution generally com",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 564.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 505.956
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 894,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "08. Drafting stages, readings, adoption, signing and commencement",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\08_constitution_making_stages.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 486.756
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 189.614
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 900,
+      "markdown_body_line_end": 906,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 916,
+      "heading": "Evidence matrix",
+      "preview": "Event | Date | Legal meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Event",
+          "Date",
+          "Legal meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 492.888
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 966,
+      "heading": "CLOSING RECALL FLOW - DRAFTING STAGES, READINGS, ADOPTION, SIGNING AND COMMENCEMENT",
+      "preview": "START / CONCEPT: DRAFTING STAGES, READINGS, ADOPTION, SIGNING AND COMMENCEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 541.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Its seal or symbol was the elephant.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 348.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Other functions, symbols and constitutional craft",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\19_other_functions_symbols.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1006,
+      "heading": "Other functions and dates",
+      "preview": "Function | Date / status | Precision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Function",
+          "Date / status",
+          "Precision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 455.75
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 291.548
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1039,
+      "heading": "CLOSING RECALL FLOW - A. OTHER FUNCTIONS, SYMBOLS, CONSTITUTIONAL CRAFT AND PROVISIONAL PARLIAMENT",
+      "preview": "START / CONCEPT: A. OTHER FUNCTIONS, SYMBOLS, CONSTITUTIONAL CRAFT AND PROVISIONAL PARLIAMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 573.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1050,
+      "markdown_body_line_end": 1050,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use one paragraph per debate and cross-link the later owner file.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 438.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 385.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1067,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "09. Major debates and owner-topic cross-links",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\09_major_debate_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 174.624
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1077,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 381.748
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1091,
+      "heading": "Evidence matrix",
+      "preview": "Debate | Constitution-making tension | Owner topic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Debate",
+          "Constitution-making tension",
+          "Owner topic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 359.748
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 99.546
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1138,
+      "heading": "CLOSING RECALL FLOW - MAJOR DEBATES AND OWNER-TOPIC CROSS-LINKS",
+      "preview": "START / CONCEPT: MAJOR DEBATES AND OWNER-TOPIC CROSS-LINKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 423.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 192.491
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1149,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Comparative study does not equal copying Adaptation must be demonstrated through changed function.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1166,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "10. Borrowed provisions as adaptation, not copying",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\10_borrowed_adaptation_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 545.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 248.482
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1176,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 212.282
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 124.08
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1186,
+      "heading": "Evidence matrix",
+      "preview": "Source family | Often associated feature | Indian adaptation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source family",
+          "Often associated feature",
+          "Indian adaptation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1232,
+      "heading": "CLOSING RECALL FLOW - BORROWED PROVISIONS AS ADAPTATION, NOT COPYING",
+      "preview": "START / CONCEPT: BORROWED PROVISIONS AS ADAPTATION, NOT COPYING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1243,
+      "markdown_body_line_end": 1243,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consensus was institutional, not merely personal Party organisation enabled coordination Plenary adoption remained indispensable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1260,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11. Consensus, party organisation and negotiation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\11_consensus_mechanism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1266,
+      "markdown_body_line_end": 1270,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 381.748
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1280,
+      "heading": "Evidence matrix",
+      "preview": "Mechanism | Contribution | Risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Mechanism",
+          "Contribution",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 359.748
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 229.146
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1309,
+      "markdown_body_line_end": 1326,
+      "heading": "CLOSING RECALL FLOW - CONSENSUS, PARTY ORGANISATION AND NEGOTIATION",
+      "preview": "START / CONCEPT: CONSENSUS, PARTY ORGANISATION AND NEGOTIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 583.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 352.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1337,
+      "markdown_body_line_end": 1337,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ambedkar's role was exceptional because he chaired drafting, defended clauses and linked political democracy to social conditions; precision requires credit without solitary-authorship mythology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 184.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 117.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1354,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "12. People and plural voices without hero-only reduction",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\16_people_plural_voices.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 665.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 368.55
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1360,
+      "markdown_body_line_end": 1364,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 332.35
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 244.148
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1378,
+      "heading": "Evidence matrix",
+      "preview": "Person/group | Verified institutional contribution | Analytical use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Person/group",
+          "Verified institutional contribution",
+          "Analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 493.49
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1408,
+      "markdown_body_line_end": 1425,
+      "heading": "CLOSING RECALL FLOW - PEOPLE AND PLURAL VOICES WITHOUT HERO-ONLY REDUCTION",
+      "preview": "START / CONCEPT: PEOPLE AND PLURAL VOICES WITHOUT HERO-ONLY REDUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1436,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Assembly was weak on direct electoral mandate but stronger on social range, reason-giving and the universal franchise it created.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1451,
+      "markdown_body_line_end": 1451,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CRITICISM / REPLY):** The Assembly was weak on direct electoral mandate but stronger on social range, reason-giving and the universal franchise it created.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 196.824
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 152.156
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1454,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "13. Criticism versus evidence-led reply",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\12_criticism_reply_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1460,
+      "markdown_body_line_end": 1464,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 381.748
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1468,
+      "markdown_body_line_end": 1476,
+      "heading": "Evidence matrix",
+      "preview": "Criticism | Evidence-led reply | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Criticism",
+          "Evidence-led reply",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 359.748
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 130.746
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1522,
+      "heading": "CLOSING RECALL FLOW - CRITICISM VERSUS EVIDENCE-LED REPLY",
+      "preview": "START / CONCEPT: CRITICISM VERSUS EVIDENCE-LED REPLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 486.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 255.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1533,
+      "markdown_body_line_end": 1533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Time and length reflect the scale of federal, rights, minority, Partition and administrative-transition problems, not automatically inefficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 134.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 67.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1550,
+      "markdown_body_line_end": 1550,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "14. Time, cost, output and transition dashboard",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\13_time_cost_output.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 612.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 315.15
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1561,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 278.95
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 169.548
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1573,
+      "heading": "Evidence matrix",
+      "preview": "Indicator | Verified value | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Indicator",
+          "Verified value",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1621,
+      "heading": "CLOSING RECALL FLOW - TIME, COST, OUTPUT AND TRANSITION DASHBOARD",
+      "preview": "START / CONCEPT: TIME, COST, OUTPUT AND TRANSITION DASHBOARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1632,
+      "markdown_body_line_end": 1632,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Popular sovereignty is the key rupture Administrative inheritance is the key continuity Social revolution linked democracy and reform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1649,
+      "markdown_body_line_end": 1649,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "15. Social revolution, continuity and rupture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\17_continuity_rupture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 167.624
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1655,
+      "markdown_body_line_end": 1659,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 469.95
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 381.748
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1663,
+      "markdown_body_line_end": 1669,
+      "heading": "Evidence matrix",
+      "preview": "Dimension | Continuity | Rupture",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Continuity",
+          "Rupture"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 359.748
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 217.946
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1698,
+      "markdown_body_line_end": 1715,
+      "heading": "CLOSING RECALL FLOW - SOCIAL REVOLUTION, CONTINUITY AND RUPTURE",
+      "preview": "START / CONCEPT: SOCIAL REVOLUTION, CONTINUITY AND RUPTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 583.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 362.491
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1726,
+      "markdown_body_line_end": 1726,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "No direct locally verified Mains PYQ found Four routed Prelims demands Current relevance is institutional design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 222.691
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 170.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1741,
+      "markdown_body_line_end": 1741,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FINAL VERDICT):** Current relevance lies in method: public reasons, committee scrutiny, opposition channels, federal negotiation, rights constraints and clear transition rules.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 677.624
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1744,
+      "markdown_body_line_end": 1744,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "16. UPSC answer spine and current institutional relevance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\15_gs2_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 658.424
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 361.282
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1750,
+      "markdown_body_line_end": 1755,
+      "heading": "Chronology",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 325.082
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 215.68
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1759,
+      "markdown_body_line_end": 1765,
+      "heading": "Evidence matrix",
+      "preview": "Demand | Answer spine | Evidence minimum",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Demand",
+          "Answer spine",
+          "Evidence minimum"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1794,
+      "markdown_body_line_end": 1811,
+      "heading": "CLOSING RECALL FLOW - UPSC ANSWER SPINE AND CURRENT INSTITUTIONAL RELEVANCE",
+      "preview": "START / CONCEPT: UPSC ANSWER SPINE AND CURRENT INSTITUTIONAL RELEVANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1822,
+      "markdown_body_line_end": 1822,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constituent Assembly Debates are persuasive external aids to purpose where text is ambiguous, but they are neither binding law nor a licence to override the enacted Constitution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1837,
+      "markdown_body_line_end": 1837,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (INTERPRETIVE STATUS):** Constituent Assembly Debates are persuasive external aids to purpose where text is ambiguous, but they are neither binding law nor a licence to override the enacted C",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 167.824
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 108.956
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1840,
+      "markdown_body_line_end": 1840,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Interpretive status of the Constituent Assembly Debates",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets\\20_interpretive_status.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1846,
+      "markdown_body_line_end": 1854,
+      "heading": "Interpretive hierarchy",
+      "preview": "ENACTED TEXT + STRUCTURE + BINDING DOCTRINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 450.75
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 369.75
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1871,
+      "markdown_body_line_end": 1888,
+      "heading": "CLOSING RECALL FLOW - CONSTITUENT ASSEMBLY DEBATES: ORIGINAL INTENT, LIVING CONSTITUTION AND TEXTUAL SUPREMACY",
+      "preview": "START / CONCEPT: CONSTITUENT ASSEMBLY DEBATES: ORIGINAL INTENT, LIVING CONSTITUTION AND TEXTUAL SUPREMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3068,
+      "markdown_body_line_end": 3077,
+      "heading": "03. Committee chair memory map and relevant subcommittees",
+      "preview": "Chair | Major responsibility cluster",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Chair",
+          "Major responsibility cluster"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 232.29
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3079,
+      "markdown_body_line_end": 3079,
+      "heading": "03. Committee chair memory map and relevant subcommittees",
+      "preview": "**Trap:** Chairmanship identifies responsibility, not sole authorship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 232.29
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 201.822
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3115,
+      "markdown_body_line_end": 3115,
+      "heading": "07. Living Constitution refinement",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (INTERPRETIVE STATUS):** Constituent Assembly Debates are persuasive external aids to purpose where text is ambiguous, but they are neither binding law nor a licence to override the enacted C",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 282.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 223.224
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3184,
+      "markdown_body_line_end": 3191,
+      "heading": "08. Criticism-reply matrix",
+      "preview": "Criticism | Concede | Evidence-led reply | Residual limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Concede",
+          "Evidence-led reply",
+          "Residual limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 392.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 182.19
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3217,
+      "markdown_body_line_end": 3226,
+      "heading": "11. Answer spines and controlled exam lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (RECOMMENDED OPENING DEFINITION):** Constituent Assembly Debates are persuasive external aids to purpose where text is ambiguous, but they are neither binding law nor a licence to override th",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 528.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 143.024
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3233,
+      "markdown_body_line_end": 3253,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: 1934-1946: the route to a constitution-making body",
+      "preview": "1934  M.N. Roy advances the Constituent Assembly idea",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 558.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3257,
+      "markdown_body_line_end": 3271,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Composition changed with Partition; authority changed with Independence",
+      "preview": "CABINET MISSION PLAN: 389",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 523.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 379.891
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3275,
+      "markdown_body_line_end": 3290,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Committee architecture: distributed authorship, not seven-person mythology",
+      "preview": "EIGHT MAJOR COMMITTEES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 344.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 191.091
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3294,
+      "markdown_body_line_end": 3309,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Drafting pipeline, debate metrics and commencement articles",
+      "preview": "13 DEC 1946 Objectives Resolution moved -> 22 JAN 1947 adopted",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3313,
+      "markdown_body_line_end": 3329,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: People, offices and constitutional symbols",
+      "preview": "TEMPORARY PRESIDENT: Sachchidananda Sinha",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3333,
+      "markdown_body_line_end": 3349,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Debate map: rights, federalism, executive and social revolution",
+      "preview": "CONSTITUTIONAL CHOICE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 261.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3353,
+      "markdown_body_line_end": 3366,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Borrowed provisions became Indian constitutional adaptations",
+      "preview": "SOURCE          INDIAN ADAPTATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3370,
+      "markdown_body_line_end": 3381,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Criticism and evidence-led reply",
+      "preview": "NO ADULT-FRANCHISE ELECTION -> real mandate deficit; restricted franchise,",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 518.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3385,
+      "markdown_body_line_end": 3398,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Four PYQ controls and recurring prelims traps",
+      "preview": "2021 GS-I Q93: on 26 Jan 1950 India became a Sovereign Democratic Republic",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 496.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 363.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3402,
+      "markdown_body_line_end": 3421,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Exact 10/15/20-mark answer architecture",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 341.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 146.891
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3425,
+      "markdown_body_line_end": 3431,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Articles 393-395: adoption is not commencement",
+      "preview": "ARTICLE 393 -> short title: Constitution of India",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3435,
+      "markdown_body_line_end": 3444,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Legitimacy test and interpretive-source hierarchy",
+      "preview": "CRITIQUE: indirect election | nomination | restricted franchise | Congress predominance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    }
+  ]
+}

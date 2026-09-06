@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-38",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 486,
+      "heading": "Visual 64 - Remedial Error Map",
+      "preview": "Recurring error | Corrective rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Recurring error",
+          "Corrective rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 624.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 653,
+      "heading": "Visual 65 - Complete Objective-Practice Rotation",
+      "preview": "Q01-04  A B C D    Q05-08  A B C D    Q09-12  A B C D",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 509.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 458.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 670,
+      "heading": "Visual 61 - Verified PYQ Coverage",
+      "preview": "Year/paper | Question | Routing status | Key treatment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Year/paper",
+          "Question",
+          "Routing status",
+          "Key treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 711.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 687,
+      "heading": "B. Verified Prelims PYQ - 2025 GS-I Set A Q98",
+      "preview": "**Consider the following statements about Lokpal:**  I. The power of Lokpal applies to public servants of India, but not to the Indian public servants posted outside India. II. The Chairperson or a Member shall not be a Member of the Parlia",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 667.69
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 537.822
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 700,
+      "heading": "Visual 62 - Statement Audit",
+      "preview": "Statement | Verdict | Named evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Statement",
+          "Verdict",
+          "Named evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 463.222
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 342.62
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 706,
+      "markdown_body_line_end": 711,
+      "heading": "Visual 63 - PYQ Elimination Route",
+      "preview": "I: \"not outside India\" -> contradicts section 1(3) -> eliminate C",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 301.42
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 250.42
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 730,
+      "heading": "Visual 66 - Demand Decoder",
+      "preview": "Term | What the answer must establish",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "What the answer must establish"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 789,
+      "markdown_body_line_end": 801,
+      "heading": "Visual 67 - PM Safeguard Funnel",
+      "preview": "Complaint against PM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 348.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 227.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 857,
+      "markdown_body_line_end": 862,
+      "heading": "Visual 68 - Federal Design Matrix",
+      "preview": "What section 63 does | What it does not do",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "What section 63 does",
+          "What it does not do"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 683.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 573.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 933,
+      "heading": "Visual 69 - Functional Relationship Map",
+      "preview": "LOKPAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 303.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 122.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 1002,
+      "heading": "Visual 70 - Independence-Accountability Balance Sheet",
+      "preview": "Independence device | Accountability/concern",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Independence device",
+          "Accountability/concern"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 468.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 295.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1070,
+      "heading": "Visual 71 - Process and Safeguard Matrix",
+      "preview": "Stage | Effectiveness tool | Due-process control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Stage",
+          "Effectiveness tool",
+          "Due-process control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 616.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 432.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1139,
+      "heading": "Visual 72 - Breadth-versus-Filter Grid",
+      "preview": "Breadth of reach | Operational filter",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Breadth of reach",
+          "Operational filter"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 731.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 537.69
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1212,
+      "heading": "Visual 73 - Reform Priority Ladder",
+      "preview": "HIGH IMPACT / LOW LEGAL DISRUPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1255,
+      "markdown_body_line_end": 1263,
+      "heading": "Visual 74 - Eight-Answer Reuse Matrix",
+      "preview": "Theme | Useful questions",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Theme",
+          "Useful questions"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 681.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 508.09
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    }
+  ]
+}

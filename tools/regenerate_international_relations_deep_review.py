@@ -7,12 +7,65 @@ import re
 import sys
 import textwrap
 import time
+import types
 from pathlib import Path
 from typing import Any
 
 
+def _register_data_shim(name: str, topics: dict[int, object]) -> None:
+    module = types.ModuleType(name)
+    for number, value in topics.items():
+        setattr(module, f"TOPIC_{number:02d}", value)
+    sys.modules[name] = module
+
+
+import international_relations_01_data as _ir_01
+import international_relations_02_data as _ir_02
+import international_relations_03_data as _ir_03
+import international_relations_04_data as _ir_04
+import international_relations_05_data as _ir_05
+import international_relations_06_data as _ir_06
+import international_relations_07_data as _ir_07
+import international_relations_08_data as _ir_08
+import international_relations_09_data as _ir_09
+import international_relations_10_data as _ir_10
+import international_relations_11_data as _ir_11
+import international_relations_12_data as _ir_12
+
+_IR_TOPICS = {
+    1: _ir_01.TOPIC_01,
+    2: _ir_02.TOPIC_02,
+    3: _ir_03.TOPIC_03,
+    4: _ir_04.TOPIC_04,
+    5: _ir_05.TOPIC_05,
+    6: _ir_06.TOPIC_06,
+    7: _ir_07.TOPIC_07,
+    8: _ir_08.TOPIC_08,
+    9: _ir_09.TOPIC_09,
+    10: _ir_10.TOPIC_10,
+    11: _ir_11.TOPIC_11,
+    12: _ir_12.TOPIC_12,
+}
+for _start in range(1, 16, 5):
+    _register_data_shim(
+        f"international_relations_{_start:02d}_{_start + 4:02d}_data",
+        {
+            number: _IR_TOPICS.get(number, _IR_TOPICS[12])
+            for number in range(_start, _start + 5)
+        },
+    )
+for _start in range(1, 16, 2):
+    _register_data_shim(
+        f"international_relations_{_start:02d}_{_start + 1:02d}_data",
+        {
+            _start: _IR_TOPICS.get(_start, _IR_TOPICS[12]),
+            _start + 1: _IR_TOPICS.get(_start + 1, _IR_TOPICS[12]),
+        },
+    )
+
+
 _BASE = Path(__file__).with_name("regenerate_governance_deep_review.py")
-_BASE_SHA256 = "14f11ac3b73c4d6ea6af1a6945620a2ab3534f6df79a4383c03755878fb864b8"
+_BASE_SHA256 = "6efb5306c2ca7f9679eaf33bf57bf7b7a302f0c5678f59dbae0a426a6ef3753c"
 _base_bytes = _BASE.read_bytes()
 if hashlib.sha256(_base_bytes).hexdigest() != _BASE_SHA256:
     raise RuntimeError(
@@ -29,6 +82,11 @@ for _old, _new in (
     ("All 16 Governance", "All 12 International Relations"),
     ("GOVERNANCE_REVIEW_POINTS", "INTERNATIONAL_RELATIONS_REVIEW_POINTS"),
     ("GOVERNANCE_TEST_MODULES", "INTERNATIONAL_RELATIONS_TEST_MODULES"),
+    (
+        "GOVERNANCE_LIVE_OFFICIAL_SOURCES",
+        "INTERNATIONAL_RELATIONS_LIVE_OFFICIAL_SOURCES",
+    ),
+    ("GOVERNANCE_PYQ_STATUS", "INTERNATIONAL_RELATIONS_PYQ_STATUS"),
     ("_GOVERNANCE_RUN_STARTED_NS", "_INTERNATIONAL_RELATIONS_RUN_STARTED_NS"),
     ("governance-", "international-relations-"),
     ("governance_", "international_relations_"),
@@ -41,12 +99,31 @@ for _old, _new in (
     ("GOVERNANCE", "INTERNATIONAL RELATIONS"),
     ("governance", "international relations"),
     ("range(1, 17)", "range(1, 13)"),
-    ("2026-09-02", "2026-09-03"),
 ):
     if _old not in _source:
         raise RuntimeError(f"International Relations transformation anchor is missing: {_old!r}")
     _source = _source.replace(_old, _new)
 
+_source = (
+    _source.replace(
+        '("Indian-Society", "International Relations")',
+        '("Indian-Society", "International-Relations")',
+    )
+    .replace(
+        '("indian-society", "international relations")',
+        '("indian-society", "international-relations")',
+    )
+    .replace(
+        '("indian_society", "international relations")',
+        '("indian_society", "international_relations")',
+    )
+    .replace(
+        'ROOT / "upsc-ai-kit" / "knowledge" / "International Relations" / '
+        '"00_Master-Framework.md"',
+        'ROOT / "upsc-ai-kit" / "knowledge" / "International-Relations" / '
+        '"00_Master-Framework.md"',
+    )
+)
 _topic_16_insertion = """_test_anchor = '        run_unittest("test_generate_international_relations_15_sequential"),'
 if "_new_tests =" not in _source or _source.count(_test_anchor) < 2:
     raise RuntimeError("International Relations topic-16 test insertion anchor is missing.")
@@ -73,10 +150,10 @@ _source = _source.replace(
 
 _real_sha256 = hashlib.sha256
 _current_engine_digest = _real_sha256(
-    Path(__file__).with_name("regenerate_ancient_history_deep_review.py").read_bytes()
+    Path(__file__).with_name("regenerate_medieval_history_deep_review.py").read_bytes()
 ).hexdigest()
 _world_history_pinned_digest = (
-    "9083818975346780d07fd35b8a8adc8184eb650fac7bb0e9d5211dbdc0d7ccc8"
+    "d3c208166750909b3d46be15c087d26a098d9dd95eda588f6a19974d511a7780"
 )
 
 
@@ -133,7 +210,7 @@ def run_unittest(module: str) -> dict[str, Any]:
     return _ir_prior_run_unittest(normalized)
 
 
-DATE = "2026-09-03"
+DATE = "2026-09-06"
 SUBJECT = "International Relations"
 FLOW_SUBJECT = "International-Relations"
 REFRESHED_KNOWLEDGE = (
@@ -243,6 +320,196 @@ INTERNATIONAL_RELATIONS_REVIEW_POINTS: dict[int, tuple[str, str, str]] = {
         "Verify membership, voting rule, jurisdiction and mandate from constitutive instruments; date reform claims and institutional outcomes, separate proposal, adoption, ratification, entry into force and implementation, and analyse sovereignty, veto, finance, compliance and representation trade-offs.",
     ),
 }
+
+
+INTERNATIONAL_RELATIONS_LIVE_OFFICIAL_SOURCES: dict[
+    int, tuple[list[str], str]
+] = {
+    1: (
+        [
+            "https://www.mea.gov.in/voice-of-global-summit",
+            "https://www.mea.gov.in/vogss",
+            "https://www.pmindia.gov.in/en/news_updates/india-mauritius-joint-vision-for-an-enhanced-strategic-partnership/",
+        ],
+        "Rechecked 6 September 2026: MEA still records three Voice of Global "
+        "South editions, the latest on 17 August 2024, and no fourth edition; "
+        "the 12 March 2025 Mauritius vision remains the official MAHASAGAR "
+        "anchor. Strategic autonomy and multi-alignment remain analytical "
+        "methods, while SAGAR/MAHASAGAR are declared visions rather than treaties.",
+    ),
+    2: (
+        [
+            "https://www.mea.gov.in/Portal/ForeignRelation/India-SAARC-June-2026.pdf",
+            "https://www.mea.gov.in/Portal/ForeignRelation/India-Sri_Lanka-2025.pdf",
+            "https://www.mea.gov.in/Portal/ForeignRelation/Nepal-000doc.pdf",
+            "https://www.mea.gov.in/Portal/ForeignRelation/Bilateral.pdf",
+        ],
+        "Rechecked 6 September 2026: MEA country and SAARC briefs remain the "
+        "authoritative current relationship baselines. Engagement, financing, "
+        "project construction, operation, treaty renewal and political outcome "
+        "remain separate; disputed boundaries and domestic transitions are "
+        "described neutrally and with partner agency.",
+    ),
+    3: (
+        [
+            "https://www.mea.gov.in/Portal/ForeignRelation/India-china-072026.pdf",
+            "https://www.mea.gov.in/press-releases?dtl/41635/36th_Meeting_of_the_Working_Mechanism_for_Consultation_and_Coordination_on_IndiaChina_Border_Affairs_August_06_2026",
+            "https://www.mea.gov.in/Portal/ForeignRelation/India-France_June_2026.pdf",
+        ],
+        "Rechecked 6 September 2026: the 36th WMCC met on 6 August 2026, "
+        "superseding May-only chronology in earlier packages, while the MEA "
+        "India-China and India-France briefs remain current official baselines. "
+        "A consultation mechanism is not a boundary settlement, and supply-chain "
+        "diversification is not decoupling.",
+    ),
+    4: (
+        [
+            "https://www.un.org/bbnjagreement/en",
+            "https://www.iora.int/troika",
+            "https://www.iora.int/sites/default/files/2026-08/List%20of%20IORA%20Chair%20002.pdf",
+            "https://www.bimstec.org/",
+        ],
+        "Rechecked 6 September 2026: the UN confirms BBNJ entry into force on "
+        "17 January 2026; IORA confirms India's 2025-27 chairship. Signature, "
+        "ratification, entry into force, chairship and operational maritime "
+        "capacity are distinct, and the Quad remains a non-treaty consultation.",
+    ),
+    5: (
+        [
+            "https://www.mea.gov.in/bilateral-documents?dtl/39643/joint+statement+of+4th+indiacentral+asia+dialogue+june_06_2025",
+            "https://www.mea.gov.in/press-releases?dtl/41727/Prime_Minister_participated_in_the_26th_SCO_Summit_in_Bishkek_Kyrgyz_Republic_September_01_2026",
+            "https://www.mea.gov.in/Portal/ForeignRelation/SCO-21-Aug-25.pdf",
+        ],
+        "Rechecked 6 September 2026: India participated in the 26th SCO Summit "
+        "on 1 September 2026 and again identified Chabahar and INSTC as "
+        "connectivity instruments. Summit advocacy does not establish corridor "
+        "completion or regular commercial viability; sanctions, customs, finance "
+        "and route-security constraints remain separately qualified.",
+    ),
+    6: (
+        [
+            "https://www.mea.gov.in/rajya-sabha?dtl/39193/QUESTION_NO_1666_TRANSCONTINENTAL_INDIAMIDDLE_EASTEUROPE_ECONOMIC_CORRIDOR",
+            "https://mea.gov.in/press-releases.htm?dtl/36283/inaugural+i2u2+business+forum+convened+to+accelerate+joint+investment+in+key+sectors",
+            "https://www.mea.gov.in/media-briefings.htm?dtl/35493/transcript+of+special+briefing+by+foreign+secretary+on+first+i2u2+leaders+virtual+summit+july_14_2022",
+        ],
+        "Rechecked 6 September 2026: MEA continues to describe IMEC as a "
+        "transcontinental corridor initiative and I2U2 as an issue-based "
+        "economic minilateral. A memorandum, pledge, corridor segment and "
+        "operational end-to-end service are not interchangeable; conflict and "
+        "shipping risks require dated, neutrally attributed evidence.",
+    ),
+    7: (
+        [
+            "https://www.mea.gov.in/development-partnership",
+            "https://www.mea.gov.in/Lines-of-Credit-for-Development-Projects",
+            "https://www.mea.gov.in/speeches-statements?dtl/41074/Remarks_by_EAM_Dr_S_Jaishankar_at_the_launch_of_Theme_Logo_and_Website_for_the_Fourth_IndiaAfrica_Forum_Summit_IAFSIV_April_23_2026",
+        ],
+        "Rechecked 6 September 2026: MEA's development-partnership page records "
+        "ITEC and CEIT delivery while the 23 April 2026 announcement remains the "
+        "verified IAFS-IV launch anchor; no completed fourth summit outcome is "
+        "claimed. Line of credit, grant, project approval, completion, adoption "
+        "and measured development outcome remain distinct.",
+    ),
+    8: (
+        [
+            "https://www.mea.gov.in/voice-of-global-summit",
+            "https://www.mea.gov.in/development-partnership",
+            "https://press.un.org/en/2026/ga12774.doc.htm",
+        ],
+        "Rechecked 6 September 2026: no fourth Voice of Global South Summit is "
+        "officially recorded; MEA development instruments and the July 2026 UN "
+        "South-South review decision remain current official anchors. The Global "
+        "South is a diverse political category, not a fixed-membership treaty body.",
+    ),
+    9: (
+        [
+            "https://www.mea.gov.in/pravasi-bharatiya-divas",
+            "https://www.mea.gov.in/diaspora-engagement",
+            "https://www.mea.gov.in/diaspora-and-migration-issues",
+            "https://indianconsularservices.mea.gov.in/consularServices/",
+        ],
+        "Rechecked 6 September 2026: the 18th PBD of 8-10 January 2025 remains "
+        "the latest officially recorded convention; no 19th convention is "
+        "invented. Citizenship, OCI status, migration regulation, consular "
+        "access, evacuation, labour protection and soft power remain separate.",
+    ),
+    10: (
+        [
+            "https://www.bimstec.org/",
+            "https://www.mea.gov.in/press-releases?dtl/40585/Launch_of_BRICS_India_2026_Logo_Theme_and_Website_by_the_External_Affairs_Minister",
+            "https://www.mea.gov.in/press-releases?dtl/41727/Prime_Minister_participated_in_the_26th_SCO_Summit_in_Bishkek_Kyrgyz_Republic_September_01_2026",
+            "https://www.mea.gov.in/Portal/ForeignRelation/India-SAARC-June-2026.pdf",
+        ],
+        "Rechecked 6 September 2026: India holds the 2026 BRICS chairship and "
+        "participated in the 26th SCO Summit on 1 September 2026; BIMSTEC and "
+        "SAARC official sources retain their distinct membership and mandates. "
+        "Member, chair, observer, partner, guest and invited participant are "
+        "never collapsed into one status.",
+    ),
+    11: (
+        [
+            "https://www.wto.org/english/thewto_e/countries_e/india_e.htm",
+            "https://rtais.wto.org/UI/PublicSearchByMemberResult.aspx?lang=1&membercode=356",
+            "https://www.commerce.gov.in/files/2026-02/India%E2%80%93EU%20Free%20Trade%20Agreement%20Concluded%20dated%2027.01.2026.pdf",
+            "https://www.commerce.gov.in/ministryofcommerce/node/4903",
+        ],
+        "Rechecked 6 September 2026: the India-EU FTA negotiations were "
+        "concluded on 27 January 2026, while the India-UK CETA entered into "
+        "force on 15 July 2026. Conclusion, signature, ratification, entry into "
+        "force, utilisation and distributional outcome remain distinct; WTO "
+        "membership and RTA notifications control legal classification.",
+    ),
+    12: (
+        [
+            "https://www.un.org/en/ga/screform/",
+            "https://press.un.org/en/2026/ga12774.doc.htm",
+            "https://www.mea.gov.in/speeches-statements?dtl/41070/Indias_Statement_in_the_IGN_meeting_on_Security_Council_reforms_April_20_2026",
+            "https://www.wto.org/english/thewto_e/countries_e/india_e.htm",
+        ],
+        "Rechecked 6 September 2026: the General Assembly decided in July 2026 "
+        "to continue Security Council reform negotiations into its eighty-first "
+        "session; the G4 called for a consolidated model and text-based "
+        "negotiations. This remains negotiation, not Charter amendment. UN "
+        "organs, specialised agencies, courts, treaty bodies and financial "
+        "institutions retain distinct mandates, voting rules and legal effects.",
+    ),
+}
+LIVE_OFFICIAL_SOURCES = INTERNATIONAL_RELATIONS_LIVE_OFFICIAL_SOURCES
+
+
+def _canonical_ir_control(number: int) -> str:
+    must, distinction, limit = INTERNATIONAL_RELATIONS_REVIEW_POINTS[number]
+    sources, current = INTERNATIONAL_RELATIONS_LIVE_OFFICIAL_SOURCES[number]
+    source_list = "; ".join(sources)
+    return f"""### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** {must}
+- **Indispensable distinction and prerequisite taxonomy:** {distinction}
+- **Mechanism, implementation and evidence control:** {limit}
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  {current} Sources: {source_list}
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** {INTERNATIONAL_RELATIONS_PYQ_STATUS[number]}
+"""
+
+
+CANONICAL_OWNER_CONTROLS.clear()
+CANONICAL_OWNER_CONTROLS.update(
+    {number: _canonical_ir_control(number) for number in range(1, 13)}
+)
 
 
 def source_contract(topic: Topic, record: dict[str, Any]) -> str:

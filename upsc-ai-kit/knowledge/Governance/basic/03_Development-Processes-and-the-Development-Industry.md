@@ -429,3 +429,27 @@ AGGREGATE OUTCOME       converged and inclusive  OR  fragmented and duplicative
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Development processes join state institutions, markets, communities, civil society, donors, consultants, contractors, knowledge actors and beneficiaries across agenda-setting, financing, implementation, monitoring and accountability.
+- **Indispensable distinction and prerequisite taxonomy:** Development industry is an analytical label for organisations, expertise, finance and incentives around development, not a single statutory sector; consultation is not co-decision, CSR is not philanthropy alone, and project completion is not capability expansion.
+- **Mechanism, implementation and evidence control:** Use SHG-bank linkage, district missions, public-private contracts and community institutions to trace power, information and benefit incidence; identify capture, dependency, fragmentation and upward-accountability risks without assuming every non-state actor is either virtuous or illegitimate.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: MCA remains the official statutory source for Companies Act section 135, Schedule VII and CSR rules; NGO Darpan is an executive information interface. Registration, financing, project completion and demonstrated development outcome are not interchangeable. Sources: https://www.mca.gov.in/content/mca/global/en/acts-rules/ebooks/acts.html; https://ngodarpan.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Three direct General Studies Paper-II Mains demands are routed to this topic across the audited ledgers and all three were confirmed word for word in the locally held OCR-searchable official question papers. The audited 2024-2025 ledger routes the 2025 demand on decision-making distant from the source of information and execution in contemporary development models to this Basic owner. The audited 2018-2023 ledger routes the 2019 demand on multi-level planning in the neo-liberal paradigm of development planning and the 2022 demand on dependence on donor agencies against community participation to the Advanced owner, and the Basic owner records that core routing supersedes the older Advanced pointer, so both are answered from the core file. One ownership conflict is recorded openly rather than resolved by assertion: the 2024 General Studies Paper-II demand on public charitable trusts and inclusive development is discussed at length in the text of this owner, but the audited 2024-2025 ledger routes that demand to the non-governmental organisations, self-help groups and civil-society owner, so it is solved there and only cross-referenced here. No official answer key or marking scheme is held locally for any routed demand, so every model solution below is an authored answer route rather than an official key, and no Preliminary demand is routed to this owner.

@@ -122,3 +122,37 @@ outbreak risk, but links to Arctic sea-ice loss remain actively debated and even
 > tectonic outcome — before reaching for a climatic explanation. **Limitation:** southern uplands at
 > comparable latitudes do carry analogous vegetation, so the absence is of the climatic **type**,
 > not of every associated feature.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Laurentian distribution in northeastern North America and
+  eastern Asia; cold dry continental winter, warm summer-rain maximum, mixed
+  forest, warm-cold current convergence, fog and shelf fisheries; Eastern
+  Himalaya cool-humid analogue.
+- **Process control:** winter Westerlies carry cold dry continental air toward
+  the eastern margin, while summer maritime inflow supplies rain. Where warm
+  moist air crosses a cold current over a broad shelf, cooling favours fog;
+  nutrient supply and mixing support productivity but do not guarantee catch.
+- **Scale/map control:** ocean-current boundary, shelf fishing ground,
+  Laurentian climate region, Eastern-Himalayan slope, Teesta basin and tea
+  estate are separate. India has no true Laurentian climate; Darjeeling,
+  Sikkim and Arunachal form an altitude-controlled comparison.
+- **Date/data control:** fish-stock status, tea output/yield, GI or project
+  status, GLOF/flood level, road closure and forest cover require a dated
+  official source. The 2023 South Lhonak event remains a dated case, not a
+  timeless description of every Teesta hazard.
+- **Terminology control:** Laurentian differs from warmer China type and drier
+  Siberian interior; fog differs from precipitation; potential fishery
+  productivity differs from sustainable catch; the Teesta joins the
+  Brahmaputra/Jamuna system, not the Ganga.
+- **Causal control:** current convergence alone does not create or sustain a
+  fishery; shelf geometry, nutrient pathways, food webs and governance matter.
+  Eastern-Himalayan loss requires relief, rain, sediment, infrastructure and
+  exposure analysis rather than climate-only attribution.
+- **Boundary:** Topic 21 owns warm eastern margins; Topic 22 the marine western
+  margin; Topic 23 the Siberian interior; Topic 06 full GLOF process.
+  Environment owns conservation policy. Topic 24 owns Laurentian mechanism and
+  the bounded Eastern-Himalaya/Teesta/Darjeeling analogue.
+- **Verified PYQ ownership, 2018-2026:** the audited routing ledgers contain no
+  direct Topic 24 question. Adjacent climate, fishery and regional-geography
+  demands retain their owners; no solved PYQ or key is fabricated.

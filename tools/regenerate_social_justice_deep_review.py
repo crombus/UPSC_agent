@@ -7,12 +7,61 @@ import re
 import sys
 import textwrap
 import time
+import types
 from pathlib import Path
 from typing import Any
 
 
+def _register_legacy_data_shim(name: str, topics: dict[int, object]) -> None:
+    module = types.ModuleType(name)
+    for number, value in topics.items():
+        setattr(module, f"TOPIC_{number:02d}", value)
+    sys.modules[name] = module
+
+
+import social_justice_01_02_data as _sj_01_02
+import social_justice_03_04_data as _sj_03_04
+import social_justice_05_06_data as _sj_05_06
+import social_justice_07_08_data as _sj_07_08
+import social_justice_09_10_data as _sj_09_10
+import social_justice_11_12_data as _sj_11_12
+import social_justice_13_14_data as _sj_13_14
+import social_justice_15_16_data as _sj_15_16
+
+_register_legacy_data_shim(
+    "social_justice_01_05_data",
+    {
+        1: _sj_01_02.TOPIC_01,
+        2: _sj_01_02.TOPIC_02,
+        3: _sj_03_04.TOPIC_03,
+        4: _sj_03_04.TOPIC_04,
+        5: _sj_05_06.TOPIC_05,
+    },
+)
+_register_legacy_data_shim(
+    "social_justice_06_10_data",
+    {
+        6: _sj_05_06.TOPIC_06,
+        7: _sj_07_08.TOPIC_07,
+        8: _sj_07_08.TOPIC_08,
+        9: _sj_09_10.TOPIC_09,
+        10: _sj_09_10.TOPIC_10,
+    },
+)
+_register_legacy_data_shim(
+    "social_justice_11_15_data",
+    {
+        11: _sj_11_12.TOPIC_11,
+        12: _sj_11_12.TOPIC_12,
+        13: _sj_13_14.TOPIC_13,
+        14: _sj_13_14.TOPIC_14,
+        15: _sj_15_16.TOPIC_15,
+    },
+)
+
+
 _BASE = Path(__file__).with_name("regenerate_governance_deep_review.py")
-_BASE_SHA256 = "14f11ac3b73c4d6ea6af1a6945620a2ab3534f6df79a4383c03755878fb864b8"
+_BASE_SHA256 = "6efb5306c2ca7f9679eaf33bf57bf7b7a302f0c5678f59dbae0a426a6ef3753c"
 _base_bytes = _BASE.read_bytes()
 if hashlib.sha256(_base_bytes).hexdigest() != _BASE_SHA256:
     raise RuntimeError(
@@ -37,6 +86,8 @@ for _old, _new in {
 for _old, _new in (
     ("GOVERNANCE_REVIEW_POINTS", "SOCIAL_JUSTICE_REVIEW_POINTS"),
     ("GOVERNANCE_TEST_MODULES", "SOCIAL_JUSTICE_TEST_MODULES"),
+    ("GOVERNANCE_LIVE_OFFICIAL_SOURCES", "SOCIAL_JUSTICE_LIVE_OFFICIAL_SOURCES"),
+    ("GOVERNANCE_PYQ_STATUS", "SOCIAL_JUSTICE_PYQ_STATUS"),
     ("_GOVERNANCE_RUN_STARTED_NS", "_SOCIAL_JUSTICE_RUN_STARTED_NS"),
     ("_governance", "_social_justice"),
     ("E-GOV", "E-SJ"),
@@ -64,6 +115,23 @@ _source = (
     .replace("__sj-key__", "social-justice")
     .replace("__sj_ident__", "social_justice")
 )
+_stale_start = _source.index('_stale_config_block = """')
+_stale_end = _source.index('"""\n_social_justice_config_block', _stale_start)
+_stale_source = _source[_stale_start:_stale_end].replace(
+    '/ "knowledge" / "Social Justice" /', '/ "knowledge" / "Social-Justice" /', 1
+)
+_source = _source[:_stale_start] + _stale_source + _source[_stale_end:]
+_source = _source.replace(
+    "import social_justice_15_16_data as social_justice_15_16_data",
+    "import social_justice_15_16_data as social_justice_15_16_data\n"
+    "import social_justice_17_data as social_justice_17_data",
+    1,
+).replace(
+    "            social_justice_15_16_data.TOPIC_16,\n",
+    "            social_justice_15_16_data.TOPIC_16,\n"
+    "            social_justice_17_data.TOPIC_17,\n",
+    1,
+)
 _test_insertion = (
     "_test_anchor + '\\n        "
     'run_unittest("test_generate_social_justice_16_sequential"),\','
@@ -77,13 +145,62 @@ _source = _source.replace(
     + 'run_unittest("test_generate_social_justice_17_sequential"),\',',
     1,
 )
+_dict_start = _source.index(
+    "SOCIAL_JUSTICE_LIVE_OFFICIAL_SOURCES: dict[int, tuple[list[str], str]] = {"
+)
+_dict_end_marker = "LIVE_OFFICIAL_SOURCES = SOCIAL_JUSTICE_LIVE_OFFICIAL_SOURCES"
+_dict_end = _source.index(_dict_end_marker, _dict_start) + len(_dict_end_marker)
+_social_justice_live_block = r'''SOCIAL_JUSTICE_LIVE_OFFICIAL_SOURCES: dict[int, tuple[list[str], str]] = {
+    1: (["https://legislative.gov.in/constitution-of-india/", "https://socialjustice.gov.in/"],
+        "Rechecked 2026-09-06: the Constitution and Department of Social Justice and Empowerment remain authoritative starting points; a constitutional value, enforceable right, Directive Principle, statute and executive welfare measure retain distinct legal force."),
+    2: (["https://nfsa.gov.in/", "https://www.niti.gov.in/whats-new/national-multidimentional-poverty-index-2023", "https://poshantracker.in/"],
+        "Rechecked 2026-09-06: NFSA, NITI Aayog and the official nutrition platform remain the relevant official owners; entitlement, administrative coverage, survey estimate and nutrition outcome require separate dates, denominators and methods."),
+    3: (["https://www.mohfw.gov.in/", "https://nha.gov.in/PM-JAY", "https://main.mohfw.gov.in/sites/default/files/9147562941489753121.pdf"],
+        "Rechecked 2026-09-06: MoHFW and the National Health Authority remain authoritative programme and policy sources; insurance eligibility, enrolment, service availability, utilisation, quality and financial protection are not interchangeable."),
+    4: (["https://www.education.gov.in/nep/about-nep", "https://dsel.education.gov.in/rte", "https://udiseplus.gov.in/"],
+        "Rechecked 2026-09-06: the Ministry of Education, RTE materials and UDISE+ remain official sources; policy announcement, statutory duty, enrolment, attendance, retention and learning outcome must be reported separately."),
+    5: (["https://wcd.gov.in/", "https://www.indiacode.nic.in/handle/123456789/2104", "https://www.mospi.gov.in/"],
+        "Rechecked 2026-09-06: MWCD, India Code and MoSPI remain authoritative for programme, legal and statistical claims; legal protection, reported incidence, labour-force participation and substantive agency are distinct."),
+    6: (["https://wcd.gov.in/acts/juvenile-justice-care-and-protection-children-act-2015", "https://www.indiacode.nic.in/handle/123456789/2079", "https://ncpcr.gov.in/"],
+        "Rechecked 2026-09-06: MWCD, India Code and NCPCR remain authoritative; age, forum and procedure are statute-specific, and rescue, adjudication, restoration and rehabilitation are separate stages."),
+    7: (["https://socialjustice.gov.in/", "https://ncsc.nic.in/", "https://www.indiacode.nic.in/handle/123456789/1920"],
+        "Rechecked 2026-09-06: the Department, NCSC and India Code remain official sources; constitutional status, reservation, offence registration, prosecution, relief, rehabilitation and outcome remain distinct."),
+    8: (["https://tribal.nic.in/", "https://ncst.nic.in/", "https://tribal.nic.in/FRA.aspx"],
+        "Rechecked 2026-09-06: the Ministry of Tribal Affairs, NCST and official FRA materials remain authoritative; ST, PVTG and forest-rights categories, territorial regimes, claim recognition and implementation outcomes must not be conflated."),
+    9: (["https://socialjustice.gov.in/", "https://www.ncbc.nic.in/", "https://legislative.gov.in/constitution-of-india/"],
+        "Rechecked 2026-09-06: the Department, NCBC and Constitution remain authoritative; OBC identification, EWS eligibility, list competence, creamy-layer doctrine and mobility evidence follow distinct legal and analytical routes."),
+    10: (["https://minorityaffairs.gov.in/", "https://ncm.nic.in/", "https://legislative.gov.in/constitution-of-india/"],
+         "Rechecked 2026-09-06: the Ministry, NCM and Constitution remain official sources; constitutional minority rights, regulatory power, notified scheme eligibility, institutional jurisdiction and measured outcomes are distinct."),
+    11: (["https://depwd.gov.in/acts/", "https://depwd.gov.in/important-documents/", "https://www.swavlambancard.gov.in/"],
+         "Rechecked 2026-09-06: DEPwD and UDID remain official sources; disability, benchmark disability, certification, registration, accessibility, reasonable accommodation and realised inclusion are separate claims."),
+    12: (["https://socialjustice.gov.in/schemes/37", "https://nsap.nic.in/", "https://mospi.gov.in/"],
+         "Rechecked 2026-09-06: the Department, NSAP and MoSPI remain official sources; statutory maintenance, programme eligibility, pension coverage, adequacy, care access and demographic estimates require exact scope and date."),
+    13: (["https://transgender.dosje.gov.in/", "https://socialjustice.gov.in/schemes/40", "https://dwbdnc.dosje.gov.in/"],
+         "Rechecked 2026-09-06: the national transgender portal, Department and DNT development board remain official sources; identity recognition, certificate access, scheme eligibility and community-specific outcomes are distinct."),
+    14: (["https://socialjustice.gov.in/schemes/37", "https://nskfdc.nic.in/en/content/home/namaste", "https://ncsk.nic.in/"],
+         "Rechecked 2026-09-06: the Department, NSKFDC/NAMASTE and NCSK remain official sources; statutory prohibition, identification, mechanisation, compensation, rehabilitation, prosecution and eradication are separate stages."),
+    15: (["https://labour.gov.in/labour-codes", "https://eshram.gov.in/", "https://www.epfindia.gov.in/", "https://www.esic.gov.in/"],
+         "Rechecked 2026-09-06: the Labour Ministry, e-Shram, EPFO and ESIC remain authoritative; enactment, commencement, registration, contribution, eligibility, claim access, portability and adequacy must be qualified separately."),
+    16: (["https://mohua.gov.in/", "https://pmay-urban.gov.in/", "https://nfsa.gov.in/portal/One_Nation_One_Ration_Card"],
+         "Rechecked 2026-09-06: MoHUA, PMAY-U and NFSA/ONORC remain official sources; urban poverty, slum residence, homelessness and migration are distinct categories, while sanction, completion, occupancy, portability and security are distinct outcomes."),
+    17: (["https://dmeo.gov.in/", "https://dbtbharat.gov.in/", "https://pfms.nic.in/SitePages/aboutus.aspx"],
+         "Rechecked 2026-09-06: DMEO, DBT Bharat and PFMS remain official sources; allocation, release, expenditure, output, outcome, impact, inclusion error, exclusion error and attribution require separate evidence."),
+}
+LIVE_OFFICIAL_SOURCES = SOCIAL_JUSTICE_LIVE_OFFICIAL_SOURCES'''
+_source = _source[:_dict_start] + _social_justice_live_block + _source[_dict_end:]
+_source = _source.replace("5 September 2026", "6 September 2026")
+_source = _source.replace(
+    "{number: _canonical_social_justice_control(number) for number in range(1, 18)}",
+    "{number: _canonical_social_justice_control(number) for number in range(1, 17)}",
+    1,
+)
 exec(compile(_source, str(Path(__file__)), "exec"), globals())
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 
-DATE = "2026-09-03"
+DATE = "2026-09-06"
 SECTION_MANIFEST = (
     ROOT
     / "upsc-ai-kit"
@@ -187,6 +304,14 @@ SOCIAL_JUSTICE_REVIEW_POINTS: dict[int, tuple[str, str, str]] = {
         "Use SECC/Census/survey data, DBT, portability, DMEO and named scheme evaluations with source, reference period, denominator and status; test universalism-targeting trade-offs, data minimisation, privacy, authentication failure, federal fragmentation and beneficiary voice.",
     ),
 }
+
+CANONICAL_OWNER_CONTROLS.clear()
+CANONICAL_OWNER_CONTROLS.update(
+    {
+        number: _canonical_social_justice_control(number)
+        for number in range(1, 18)
+    }
+)
 
 
 def source_contract(topic: Topic, record: dict[str, Any]) -> str:

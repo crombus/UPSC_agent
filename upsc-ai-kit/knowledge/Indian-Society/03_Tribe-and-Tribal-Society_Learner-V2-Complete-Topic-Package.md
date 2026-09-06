@@ -1427,6 +1427,39 @@ remedy or technique — no such attribution is verified in this folder.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** tribe and Scheduled Tribe are not
+  synonyms; cover kinship, territory, livelihood, political organisation,
+  exchange, religion, knowledge systems and state-market relations across
+  central Indian, Northeast, Himalayan, island, pastoral and urban contexts.
+- **Indispensable sociology:** Verrier Elwin's protective isolation, G.S.
+  Ghurye's contested assimilation and Nehru's integration/Panchsheel are kept
+  distinct. The tribe-caste continuum and acculturation are historical theses,
+  not tests of authenticity or substitutes for Article 342 notification.
+- **Mechanism and intersectionality:** distinguish project displacement from
+  cumulative land alienation and cash compensation from restoration of land,
+  livelihood and community. Disaggregate PVTGs, forest-dependent cultivators,
+  pastoral groups, Sixth Schedule polities and urban workers by gender, class,
+  region and market exposure; avoid primitive-modern binaries.
+- **Constitutional/legal boundary:** Article 342, the Fifth and Sixth Schedules,
+  PESA 1996 and the Forest Rights Act 2006 have distinct territorial,
+  governance and rights fields. Society owns their social consequences; Polity
+  and Social Justice own detailed doctrine, procedure and scheme implementation.
+- **Data/source control:** the Ministry of Tribal Affairs list dated 9 July 2024
+  records 75 PVTGs in 18 States and the Union Territory of Andaman and Nicobar
+  Islands. It is an administrative list, not a ranking or an outcome measure.
+- **Cross-owner boundary:** Topic 01 may borrow diversity, Topic 02 the caste
+  comparison and Topic 05 agrarian relations. Topic 06 population, Topic 07
+  women, Topic 08 empowerment and Topic 09 poverty remain separately owned.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked for category errors, theories, displacement
+  mechanisms, knowledge-system domains, regional variation and implementation
+  limits.
+- **Verified PYQ ownership, 2018-2026:** direct GS-I demands are 2021 Q10,
+  2022 Q10 and 2025 Q20; the routed 2021 objective language item remains
+  unkeyed. No official 2026 GS-I paper was available on 5 September 2026.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Scheduled Tribe as a legal category?

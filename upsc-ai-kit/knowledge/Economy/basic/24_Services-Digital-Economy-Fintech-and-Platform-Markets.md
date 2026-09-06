@@ -541,3 +541,27 @@ remains uneven — therefore [qualified, directive-matching conclusion]."
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Services and digital markets create value through networks, data, software, payments and platforms, while fintech changes intermediation, competition and inclusion under operational, cyber, privacy and conduct risks.
+- **Indispensable distinction and prerequisite taxonomy:** Digital transaction is not digital economy output, platform worker is not automatically employee, fintech is not unregulated banking, UPI volume is not value or welfare, and adoption is not productivity causation.
+- **Mechanism, implementation and evidence control:** Name regulator, legal category, period, unit and transaction denominator; distinguish infrastructure, provider, instrument and outcome, and analyse network effects, interoperability, competition, exclusion, fraud and grievance.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The RBI circular substantively confirmed the digital-lending legal perimeter. The ONDC page was a stub, so the package uses the source owner for architecture only and imports no platform share, transaction count, country coverage or adoption figure. Sources: https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12382&Mode=0; https://www.ondc.org/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route the 2021 cryptocurrency and 2023 digitalisation Mains demands, plus objective concepts on MDR, NFS, UPI authentication, e-commerce, NFTs, CBDC, metaverse, ONDC, dropshipping and crowdfunding. Provisional or unavailable objective keys are not inferred.

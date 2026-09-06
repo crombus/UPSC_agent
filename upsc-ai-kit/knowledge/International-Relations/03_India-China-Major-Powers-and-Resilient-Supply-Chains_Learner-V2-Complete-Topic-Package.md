@@ -1504,6 +1504,29 @@ strategic-autonomy choices.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** India's relations with China and other major powers combine border security, deterrence, diplomacy, technology, trade, investment, defence, energy and resilient supply chains; cooperation and competition can coexist across separate domains.
+- **Indispensable distinction and prerequisite taxonomy:** Border claim, Line of Actual Control perception, agreed boundary, ceasefire arrangement and final settlement are not synonyms; diversification is not decoupling, de-risking is not autarky, and a partnership or foundational agreement is not automatically a military alliance.
+- **Mechanism, implementation and evidence control:** Distinguish announced initiative, signed agreement, ratified treaty where applicable, operative mechanism and measured outcome; qualify causal claims about supply-chain shifts, sanctions, technology controls and trade dependence with sector, date and alternative explanations.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: the 36th WMCC met on 6 August 2026, superseding May-only chronology in earlier packages, while the MEA India-China and India-France briefs remain current official baselines. A consultation mechanism is not a boundary settlement, and supply-chain diversification is not decoupling. Sources: https://www.mea.gov.in/Portal/ForeignRelation/India-china-072026.pdf; https://www.mea.gov.in/press-releases?dtl/41635/36th_Meeting_of_the_Working_Mechanism_for_Consultation_and_Coordination_on_IndiaChina_Border_Affairs_August_06_2026; https://www.mea.gov.in/Portal/ForeignRelation/India-France_June_2026.pdf
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Four General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2019 General Studies Paper II question 9 on the India-Japan contemporary global and strategic partnership, a Comment demand of 10 marks and 150 words; 2019 General Studies Paper II question 20 on friction in India-United States ties and India's place in United States global strategy, an Explain with suitable examples demand of 15 marks and 250 words; 2021 General Studies Paper II question 10 on the United States facing an existential challenge from China, an Explain demand of 10 marks and 150 words; and 2024 General Studies Paper II question 9 on the West fostering India as an alternative to China's supply chain, an Explain demand of 10 marks and 150 words. For the three 2019 and 2021 demands the ledger records that the Core route supersedes the older Advanced ownership and that the word limits are taken from the instruction block. Two objective demands are also routed to this owner and are carried as coverage requirements only: 2019 Prelims General Studies Paper I question 89 on India's nuclear-field cooperation bilateral action plan, for which the official key is not held locally, and 2026 Prelims General Studies Paper I question 78 on India-Germany bilateral visit outcomes, cooperation and Indo-Pacific dialogue, for which only a provisional 2026 Set-A key is present locally. No option or answer letter is recorded or inferred for either objective demand, and the provisional status of the 2026 key is preserved exactly. The supplied paper text of the 2024 demand carries apparent grammatical and spelling defects, and the owners require that it be reproduced as printed rather than silently corrected, which is done in the corresponding demand card below. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, and none of them reproduces or claims an official answer.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and how its boundaries are routed?

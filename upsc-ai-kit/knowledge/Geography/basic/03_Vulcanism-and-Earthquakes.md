@@ -375,3 +375,35 @@ is concentrated and why. Institutional disaster-management doctrine belongs to t
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** magma generation, ascent, viscosity/gas controls, intrusive
+  and extrusive forms, eruption products and styles; elastic rebound, faults,
+  focus/epicentre, P-S-surface waves, magnitude/intensity, tsunami generation;
+  global belts and India's Himalayan, Kachchh, Peninsular, Andaman and Barren
+  Island settings.
+- **Process control:** tectonic/thermal setting → melt or strain accumulation →
+  ascent/rupture → eruption or wave radiation → site/water-column response →
+  hazard. A submarine earthquake creates a tsunami only where rapid water-column
+  displacement is sufficient.
+- **Scale/map control:** vent, volcanic field, plate boundary and seismic belt;
+  fault source, epicentral region, site response and national zone map are
+  separated. A zone is a design/hazard generalisation, not an event prediction.
+- **Date/status control:** eruption status, recent earthquake catalogues,
+  seismic-zone standard and monitoring statements require issuing agency,
+  observation/publication date and version. Detection count is network-dependent.
+- **Terminology control:** active/dormant/extinct are evidence-based activity
+  classes, not a compulsory life cycle; magnitude differs from intensity;
+  focus from epicentre; monitoring and early warning from prediction.
+- **Causal control:** hazard is not disaster. Exposure, vulnerability, soil,
+  depth, construction and preparedness mediate loss; no single tremor validates
+  a deterministic recurrence or zone change.
+- **Boundary:** Topic 02 owns full plate/rock foundations; Disaster Management
+  owns response doctrine and resilient-construction depth; Topic 06 owns GLOF.
+  Topic 03 owns physical mechanism, distribution and bounded India seismicity.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2018 Barren
+  Island and mantle plume, 2020 Circum-Pacific characteristics, 2021 eruption
+  impacts, 2023 seismic waves, 2024 eruption products, 2025 tsunami Mains and
+  the provisional 2026 Tungurahua route. No unavailable/provisional objective
+  key is promoted.

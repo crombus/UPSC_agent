@@ -1124,3 +1124,27 @@ Reasoned verdict + sequenced reform (§20) (3 lines)
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Animal rearing economics spans breeding, feed, health, housing, extension, credit, insurance, processing, cold chains, cooperatives and markets across livestock, dairy, poultry and fisheries with species-specific risks.
+- **Indispensable distinction and prerequisite taxonomy:** Livestock population is a stock, milk/egg/fish output is a flow, productivity is output per animal or unit, cooperative membership is not market power, and scheme coverage is not disease or income outcome.
+- **Mechanism, implementation and evidence control:** State species/product, unit, denominator, reference year and source; distinguish census from annual production series and announced, approved, operational and completed programme stages while analysing women, smallholders, biosecurity and ecology.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. NDDB substantively confirmed Operation Flood's institutional history. DAHD pages were shells and the fisheries page was blocked, so the package imports no current livestock, milk, egg, meat, fish, export, income, census-release, scheme-coverage or disease-outcome figure. Sources: https://www.nddb.coop/about/genesis/flood; https://dahd.gov.in/en/schemes-programmes; https://dahd.gov.in/en/schemes/programmes/national_livestock_mission; https://www.dof.gov.in/offerings
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route the 2019 and 2022 Integrated Farming System demands and objective concepts on livestock emissions, aquaculture biofilters, sector classification, Rashtriya Gokul Mission and FAO Blue Transformation. The Basic/practice firewall carries them without inferring objective answer letters.

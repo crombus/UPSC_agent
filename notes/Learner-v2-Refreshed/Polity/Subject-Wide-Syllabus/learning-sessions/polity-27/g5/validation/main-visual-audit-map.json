@@ -1,0 +1,6003 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-27",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 27 - Election Commission - Complete Topic Package",
+      "preview": "**Control date:** 5 September 2026, Asia/Kolkata **Tags:** `[FACT]` directly supported by a named local or official source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive control; `[LIMIT]` boundary, uncertainty or non-ownership",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 685.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 22,
+      "markdown_body_line_end": 32,
+      "heading": "Authoritative source map",
+      "preview": "Source | Named evidence used | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Source",
+          "Named evidence used",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 531.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 36,
+      "markdown_body_line_end": 45,
+      "heading": "Roadmap",
+      "preview": "Stage | Units | Outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Stage",
+          "Units",
+          "Outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 509.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 304.488
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 58,
+      "heading": "Scope ownership and cross-links",
+      "preview": "This package owns | Cross-link only | Reason for boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "This package owns",
+          "Cross-link only",
+          "Reason for boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 525.89
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 71,
+      "heading": "Scope ownership and cross-links",
+      "preview": "ECI OWNER",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 525.89
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 414.89
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 87,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 370.69
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 120.488
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 118,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\assets\\polity-27_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 401.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 93.556
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why An Independent Election Manager Is Constitutionally Necessary is best understood through the exact constitutional, statutory and institutional rules governing why an independent election manager is constitutionally necessary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 164,
+      "heading": "Visual 1 - Democratic trust chain",
+      "preview": "EQUAL CITIZENSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW - WHY AN INDEPENDENT ELECTION MANAGER IS CONSTITUTIONALLY NECESSARY",
+      "preview": "START / CONCEPT: WHY AN INDEPENDENT ELECTION MANAGER IS CONSTITUTIONALLY NECESSARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 652.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 411.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 198,
+      "markdown_body_line_end": 198,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 324: Exact Field Of Control is best understood through the exact constitutional, statutory and institutional rules governing article 324: exact field of control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 276.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 209.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 222,
+      "markdown_body_line_end": 229,
+      "heading": "Visual 2 - Article 324 inclusion-exclusion map",
+      "preview": "Included in ECI field | Excluded from ECI field",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Included in ECI field",
+          "Excluded from ECI field"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 659.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 508.09
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 252,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 324: EXACT FIELD OF CONTROL",
+      "preview": "START / CONCEPT: ARTICLE 324: EXACT FIELD OF CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 466.89
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 245.89
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part Xv Master Map: Articles 324-329 is best understood through the exact constitutional, statutory and institutional rules governing part xv master map: articles 324-329.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 110.89
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 44.222
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 286,
+      "heading": "Visual 3 - Six-article constitutional spine",
+      "preview": "Article | Core rule | Exam trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Article",
+          "Core rule",
+          "Exam trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 426.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 311,
+      "heading": "CLOSING RECALL FLOW - PART XV MASTER MAP: ARTICLES 324-329",
+      "preview": "START / CONCEPT: PART XV MASTER MAP: ARTICLES 324-329",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 351.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 120.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 322,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ECI Versus State Election Commission is best understood through the exact constitutional, statutory and institutional rules governing eci versus state election commission.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 344,
+      "heading": "Visual 4 - Two constitutional election managers",
+      "preview": "Dimension | Election Commission of India | State Election Commission",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Election Commission of India",
+          "State Election Commission"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 257.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 348,
+      "markdown_body_line_end": 348,
+      "heading": "Visual 4 - Two constitutional election managers",
+      "preview": "**Prelims trap:** \"The ECI conducts every public election in India\" is false.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 238.622
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 208.154
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 352,
+      "markdown_body_line_end": 369,
+      "heading": "CLOSING RECALL FLOW - ECI VERSUS STATE ELECTION COMMISSION",
+      "preview": "START / CONCEPT: ECI VERSUS STATE ELECTION COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 380,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional Evolution is best understood through the exact constitutional, statutory and institutional rules governing institutional evolution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 398,
+      "markdown_body_line_end": 402,
+      "heading": "Visual 5 - Composition timeline",
+      "preview": "1950                  Oct 1989       Jan 1990       Oct 1993 onward",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 408,
+      "markdown_body_line_end": 425,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONAL EVOLUTION",
+      "preview": "START / CONCEPT: INSTITUTIONAL EVOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 705.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 494.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 436,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Composition Under The Constitution And The 2023 Act is best understood through the exact constitutional, statutory and institutional rules governing composition under the constitution and the 2023 act.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 340.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 273.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 468,
+      "heading": "Visual 6 - Position versus power",
+      "preview": "CEC = CHAIR",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 742.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 651.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 489,
+      "heading": "CLOSING RECALL FLOW - COMPOSITION UNDER THE CONSTITUTION AND THE 2023 ACT",
+      "preview": "START / CONCEPT: COMPOSITION UNDER THE CONSTITUTION AND THE 2023 ACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 629.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 408.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current Collegial Composition is best understood through the exact constitutional, statutory and institutional rules governing current collegial composition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 273.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 207.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 518,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Office | Incumbent",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Office",
+          "Incumbent"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 715.09
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 541,
+      "heading": "CLOSING RECALL FLOW - CURRENT COLLEGIAL COMPOSITION",
+      "preview": "START / CONCEPT: CURRENT COLLEGIAL COMPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 673.89
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 462.89
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 552,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regional Commissioners is best understood through the exact constitutional, statutory and institutional rules governing regional commissioners.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 342.09
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 275.422
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 580,
+      "heading": "Visual 7 - Assistance architecture",
+      "preview": "President --consults ECI--> may appoint Regional Commissioner",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 601,
+      "heading": "CLOSING RECALL FLOW - REGIONAL COMMISSIONERS",
+      "preview": "START / CONCEPT: REGIONAL COMMISSIONERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 612,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appointment Before And After Anoop Baranwal (2023) is best understood through the exact constitutional, statutory and institutional rules governing appointment before and after Anoop Baranwal (2023).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 252.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 648,
+      "heading": "Visual 8 - Appointment-law sequence",
+      "preview": "Article 324(2)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 681.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 570.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 671,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT BEFORE AND AFTER ANOOP BARANWAL (2023)",
+      "preview": "START / CONCEPT: APPOINTMENT BEFORE AND AFTER ANOOP BARANWAL (2023)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 514.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 283.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 682,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 2023 Act: Official-Title And Section Map is best understood through the exact constitutional, statutory and institutional rules governing the 2023 act: official-title and section map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 148.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 82.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 712,
+      "heading": "Visual 9 - Act 49 of 2023 dashboard",
+      "preview": "Provision | Official control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Provision",
+          "Official control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 348.49
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - THE 2023 ACT: OFFICIAL-TITLE AND SECTION MAP",
+      "preview": "START / CONCEPT: THE 2023 ACT: OFFICIAL-TITLE AND SECTION MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 293.09
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 62.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eligibility Under Section 5 is best understood through the exact constitutional, statutory and institutional rules governing eligibility under section 5.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 776,
+      "heading": "Visual 10 - Eligibility filter",
+      "preview": "Secretary-equivalent rank",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 344.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 263.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 780,
+      "markdown_body_line_end": 797,
+      "heading": "CLOSING RECALL FLOW - ELIGIBILITY UNDER SECTION 5",
+      "preview": "START / CONCEPT: ELIGIBILITY UNDER SECTION 5",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 241.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 808,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Search Committee Under Section 6 is best understood through the exact constitutional, statutory and institutional rules governing search committee under section 6.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 651.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 584.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 832,
+      "heading": "Visual 11 - Search stage",
+      "preview": "Actor | Composition | Output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Actor",
+          "Composition",
+          "Output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 349.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 250.022
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 853,
+      "heading": "CLOSING RECALL FLOW - SEARCH COMMITTEE UNDER SECTION 6",
+      "preview": "START / CONCEPT: SEARCH COMMITTEE UNDER SECTION 6",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 864,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Selection Committee Under Sections 7 And 8 is best understood through the exact constitutional, statutory and institutional rules governing selection committee under sections 7 and 8.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 897,
+      "heading": "Visual 12 - Selection logic and accountability risk",
+      "preview": "SEARCH PANEL (5) ----------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 901,
+      "markdown_body_line_end": 918,
+      "heading": "CLOSING RECALL FLOW - SELECTION COMMITTEE UNDER SECTIONS 7 AND 8",
+      "preview": "START / CONCEPT: SELECTION COMMITTEE UNDER SECTIONS 7 AND 8",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 929,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appointment Debate And Current Challenge is best understood through the exact constitutional, statutory and institutional rules governing appointment debate and current challenge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 298.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 231.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 962,
+      "heading": "Visual 13 - Constitutional issue tree",
+      "preview": "PARLIAMENTARY COMPETENCE? -> Article 324(2) expressly permits a law",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 676.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 575.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 983,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT DEBATE AND CURRENT CHALLENGE",
+      "preview": "START / CONCEPT: APPOINTMENT DEBATE AND CURRENT CHALLENGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 553.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 332.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Term, Age And Reappointment is best understood through the exact constitutional, statutory and institutional rules governing term, age and reappointment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 197.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 130.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1026,
+      "heading": "Visual 14 - Tenure calculation",
+      "preview": "END DATE = earlier of:",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 636.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 545.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1030,
+      "markdown_body_line_end": 1047,
+      "heading": "CLOSING RECALL FLOW - TERM, AGE AND REAPPOINTMENT",
+      "preview": "START / CONCEPT: TERM, AGE AND REAPPOINTMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 523.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 312.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1058,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Salary And Service Conditions is best understood through the exact constitutional, statutory and institutional rules governing salary and service conditions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 177.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 111.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1087,
+      "heading": "Visual 15 - Service-condition safeguards",
+      "preview": "Question | Safe rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Safe rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 605.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 474.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1108,
+      "heading": "CLOSING RECALL FLOW - SALARY AND SERVICE CONDITIONS",
+      "preview": "START / CONCEPT: SALARY AND SERVICE CONDITIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 452.69
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 231.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Removal: Cec, Ec And Regional Commissioner is best understood through the exact constitutional, statutory and institutional rules governing removal: cec, ec and regional commissioner.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1143,
+      "markdown_body_line_end": 1147,
+      "heading": "Visual 16 - Removal matrix",
+      "preview": "Office | Removal route | Relative protection",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Office",
+          "Removal route",
+          "Relative protection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 440.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 330.022
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1149,
+      "heading": "Visual 16 - Removal matrix",
+      "preview": "**Prelims trap:** Equal decision-making power does not mean identical removal protection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 330.022
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 299.554
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1153,
+      "markdown_body_line_end": 1170,
+      "heading": "CLOSING RECALL FLOW - REMOVAL: CEC, EC AND REGIONAL COMMISSIONER",
+      "preview": "START / CONCEPT: REMOVAL: CEC, EC AND REGIONAL COMMISSIONER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 277.554
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 46.554
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1181,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transaction Of Business is best understood through the exact constitutional, statutory and institutional rules governing transaction of business.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1214,
+      "heading": "Visual 17 - Collegial decision rule",
+      "preview": "ISSUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 358.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 247.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1235,
+      "heading": "CLOSING RECALL FLOW - TRANSACTION OF BUSINESS",
+      "preview": "START / CONCEPT: TRANSACTION OF BUSINESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1246,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 16 supplies office-linked litigation protection for official conduct, but it does not displace constitutional limits, judicial review or accountability for action outside the statutory field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1269,
+      "heading": "Visual 18 - Protection boundary",
+      "preview": "Covered textual connection | Not safe to claim",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Covered textual connection",
+          "Not safe to claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1290,
+      "heading": "CLOSING RECALL FLOW - PROTECTION UNDER SECTION 16",
+      "preview": "START / CONCEPT: PROTECTION UNDER SECTION 16",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 677.09
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 436.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1301,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Election Administration: Constitutional Body, Distributed Machinery is best understood through the exact constitutional, statutory and institutional rules governing election administration: constitutional body, distributed machinery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 267.89
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 187.022
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1324,
+      "markdown_body_line_end": 1334,
+      "heading": "Visual 19 - Administrative chain",
+      "preview": "ECI",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 630.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 529.491
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1340,
+      "markdown_body_line_end": 1357,
+      "heading": "CLOSING RECALL FLOW - ELECTION ADMINISTRATION: CONSTITUTIONAL BODY, DISTRIBUTED MACHINERY",
+      "preview": "START / CONCEPT: ELECTION ADMINISTRATION: CONSTITUTIONAL BODY, DISTRIBUTED MACHINERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 475.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 234.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1368,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Schedule And Notification: Distinguish Announcement From Legal Notification is best understood through the exact constitutional, statutory and institutional rules governing schedule and notification: distinguish announcement from legal noti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1398,
+      "heading": "Visual 20 - Election timetable chain",
+      "preview": "readiness assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 458.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 377.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1402,
+      "markdown_body_line_end": 1419,
+      "heading": "CLOSING RECALL FLOW - SCHEDULE AND NOTIFICATION: DISTINGUISH ANNOUNCEMENT FROM LEGAL NOTIFICATION",
+      "preview": "START / CONCEPT: SCHEDULE AND NOTIFICATION: DISTINGUISH ANNOUNCEMENT FROM LEGAL NOTIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 342.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 101.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1430,
+      "markdown_body_line_end": 1430,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Electoral Rolls: Constitutional Equality Plus Statutory Eligibility is best understood through the exact constitutional, statutory and institutional rules governing electoral rolls: constitutional equality plus statutory eligibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1461,
+      "heading": "Visual 21 - Roll-integrity balance",
+      "preview": "UNIVERSALITY                            INTEGRITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1465,
+      "markdown_body_line_end": 1482,
+      "heading": "CLOSING RECALL FLOW - ELECTORAL ROLLS: CONSTITUTIONAL EQUALITY PLUS STATUTORY ELIGIBILITY",
+      "preview": "START / CONCEPT: ELECTORAL ROLLS: CONSTITUTIONAL EQUALITY PLUS STATUTORY ELIGIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 691.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 450.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualifying Dates And Enrolment Controls is best understood through the exact constitutional, statutory and institutional rules governing qualifying dates and enrolment controls.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 315.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 248.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1515,
+      "markdown_body_line_end": 1523,
+      "heading": "Visual 22 - Claims and objections flow",
+      "preview": "application / objection",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 714.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1527,
+      "markdown_body_line_end": 1544,
+      "heading": "CLOSING RECALL FLOW - QUALIFYING DATES AND ENROLMENT CONTROLS",
+      "preview": "START / CONCEPT: QUALIFYING DATES AND ENROLMENT CONTROLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 380.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1555,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Roll-Revision Answer Discipline is best understood through the exact constitutional, statutory and institutional rules governing roll-revision answer discipline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 245.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 178.824
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1574,
+      "markdown_body_line_end": 1582,
+      "heading": "Visual 23 - Seven-question audit",
+      "preview": "Audit question | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Audit question",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 695.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 522.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1603,
+      "heading": "CLOSING RECALL FLOW - ROLL-REVISION ANSWER DISCIPLINE",
+      "preview": "START / CONCEPT: ROLL-REVISION ANSWER DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 500.29
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 289.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1614,
+      "markdown_body_line_end": 1614,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Delimitation: ECI Assists; It Is Not The Ordinary Sole Delimiting Authority is best understood through the exact constitutional, statutory and institutional rules governing delimitation: eci assists; it is not the ordinary sole delimiting a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 121.09
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 40.222
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1637,
+      "markdown_body_line_end": 1645,
+      "heading": "Visual 24 - Delimitation responsibility map",
+      "preview": "Parliament enacts framework",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 479.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 398.891
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1649,
+      "markdown_body_line_end": 1666,
+      "heading": "CLOSING RECALL FLOW - DELIMITATION: ECI ASSISTS; IT IS NOT THE ORDINARY SOLE DELIMITING AUTHORITY",
+      "preview": "START / CONCEPT: DELIMITATION: ECI ASSISTS; IT IS NOT THE ORDINARY SOLE DELIMITING AUTHORITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 363.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 132.891
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1677,
+      "markdown_body_line_end": 1677,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 2024 Prelims Fact: Four Delimitation Commissions is best understood through the exact constitutional, statutory and institutional rules governing the 2024 prelims fact: four delimitation commissions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1693,
+      "markdown_body_line_end": 1698,
+      "heading": "Visual 25 - Delimitation chronology",
+      "preview": "Commission basis | Broad census linkage",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Commission basis",
+          "Broad census linkage"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 396.824
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 287.422
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1704,
+      "markdown_body_line_end": 1721,
+      "heading": "CLOSING RECALL FLOW - THE 2024 PRELIMS FACT: FOUR DELIMITATION COMMISSIONS",
+      "preview": "START / CONCEPT: THE 2024 PRELIMS FACT: FOUR DELIMITATION COMMISSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1732,
+      "markdown_body_line_end": 1732,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Candidate Nominations And Scrutiny is best understood through the exact constitutional, statutory and institutional rules governing candidate nominations and scrutiny.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1753,
+      "markdown_body_line_end": 1763,
+      "heading": "Visual 26 - Candidature legality chain",
+      "preview": "constitutional qualification",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1784,
+      "heading": "CLOSING RECALL FLOW - CANDIDATE NOMINATIONS AND SCRUTINY",
+      "preview": "START / CONCEPT: CANDIDATE NOMINATIONS AND SCRUTINY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1795,
+      "markdown_body_line_end": 1795,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Advising On Disqualification is best understood through the exact constitutional, statutory and institutional rules governing advising on disqualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 308.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 241.624
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1815,
+      "markdown_body_line_end": 1820,
+      "heading": "Visual 27 - Disqualification routes",
+      "preview": "Question | Decision route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Decision route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 638.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1824,
+      "markdown_body_line_end": 1841,
+      "heading": "CLOSING RECALL FLOW - ADVISING ON DISQUALIFICATION",
+      "preview": "START / CONCEPT: ADVISING ON DISQUALIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 616.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 405.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1852,
+      "markdown_body_line_end": 1852,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Observers And Field Neutrality is best understood through the exact constitutional, statutory and institutional rules governing observers and field neutrality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 270.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 203.822
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1873,
+      "markdown_body_line_end": 1878,
+      "heading": "Visual 28 - Observer dashboard",
+      "preview": "Observer type | Primary lens | Typical output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Observer type",
+          "Primary lens",
+          "Typical output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 709.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 600.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1882,
+      "markdown_body_line_end": 1899,
+      "heading": "CLOSING RECALL FLOW - OBSERVERS AND FIELD NEUTRALITY",
+      "preview": "START / CONCEPT: OBSERVERS AND FIELD NEUTRALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 578.09
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 357.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1910,
+      "markdown_body_line_end": 1910,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Election Expenditure Monitoring is best understood through the exact constitutional, statutory and institutional rules governing election expenditure monitoring.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 222.09
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 155.422
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1931,
+      "markdown_body_line_end": 1941,
+      "heading": "Visual 29 - Expenditure-monitoring loop",
+      "preview": "campaign event / advertisement / distribution allegation",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 630.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 529.491
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1945,
+      "markdown_body_line_end": 1962,
+      "heading": "CLOSING RECALL FLOW - ELECTION EXPENDITURE MONITORING",
+      "preview": "START / CONCEPT: ELECTION EXPENDITURE MONITORING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 507.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 286.491
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1973,
+      "markdown_body_line_end": 1973,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Repoll, Adjournment And Countermand: Lawful Powers Only is best understood through the exact constitutional, statutory and institutional rules governing repoll, adjournment and countermand: lawful powers only.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 132.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 65.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1996,
+      "markdown_body_line_end": 2008,
+      "heading": "Visual 30 - Integrity-response ladder",
+      "preview": "local defect",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 494.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 373.091
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2012,
+      "markdown_body_line_end": 2029,
+      "heading": "CLOSING RECALL FLOW - REPOLL, ADJOURNMENT AND COUNTERMAND: LAWFUL POWERS ONLY",
+      "preview": "START / CONCEPT: REPOLL, ADJOURNMENT AND COUNTERMAND: LAWFUL POWERS ONLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 351.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 120.091
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2040,
+      "markdown_body_line_end": 2040,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Voter Education And Inclusion is best understood through the exact constitutional, statutory and institutional rules governing voter education and inclusion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2061,
+      "markdown_body_line_end": 2065,
+      "heading": "Visual 31 - Participation architecture",
+      "preview": "INFORMATION -> REGISTRATION -> ACCESSIBILITY -> ETHICAL VOTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 346.024
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 305.024
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2069,
+      "markdown_body_line_end": 2086,
+      "heading": "CLOSING RECALL FLOW - VOTER EDUCATION AND INCLUSION",
+      "preview": "START / CONCEPT: VOTER EDUCATION AND INCLUSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 283.024
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 62.024
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2097,
+      "markdown_body_line_end": 2097,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Registration Of Political Parties Versus Recognition is best understood through the exact constitutional, statutory and institutional rules governing registration of political parties versus recognition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2118,
+      "markdown_body_line_end": 2128,
+      "heading": "Visual 32 - Party-status ladder",
+      "preview": "association",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 341.224
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 240.224
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2132,
+      "markdown_body_line_end": 2149,
+      "heading": "CLOSING RECALL FLOW - REGISTRATION OF POLITICAL PARTIES VERSUS RECOGNITION",
+      "preview": "START / CONCEPT: REGISTRATION OF POLITICAL PARTIES VERSUS RECOGNITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2160,
+      "markdown_body_line_end": 2160,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Symbols And Disputes is best understood through the exact constitutional, statutory and institutional rules governing symbols and disputes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2182,
+      "markdown_body_line_end": 2187,
+      "heading": "Visual 33 - Split-dispute decision frame",
+      "preview": "Question | Evidence considered",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Evidence considered"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2191,
+      "markdown_body_line_end": 2208,
+      "heading": "CLOSING RECALL FLOW - SYMBOLS AND DISPUTES",
+      "preview": "START / CONCEPT: SYMBOLS AND DISPUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 644.69
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 433.69
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2219,
+      "markdown_body_line_end": 2219,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Model Code Of Conduct: Origin And Evolution is best understood through the exact constitutional, statutory and institutional rules governing model code of conduct: origin and evolution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 279.69
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 213.022
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2242,
+      "markdown_body_line_end": 2253,
+      "heading": "Visual 34 - MCC evolution timeline",
+      "preview": "1960 Kerala code",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 536.691
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2257,
+      "markdown_body_line_end": 2274,
+      "heading": "CLOSING RECALL FLOW - MODEL CODE OF CONDUCT: ORIGIN AND EVOLUTION",
+      "preview": "START / CONCEPT: MODEL CODE OF CONDUCT: ORIGIN AND EVOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 514.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 283.691
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2285,
+      "markdown_body_line_end": 2285,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MCC Legal Character is best understood through the exact constitutional, statutory and institutional rules governing mcc legal character.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 162.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 96.224
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2308,
+      "markdown_body_line_end": 2312,
+      "heading": "Visual 35 - Three-layer enforcement model",
+      "preview": "Layer | Example | Consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Layer",
+          "Example",
+          "Consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 573.891
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 463.29
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2314,
+      "markdown_body_line_end": 2314,
+      "heading": "Visual 35 - Three-layer enforcement model",
+      "preview": "**Prelims trap:** Non-statutory does not mean consequence-free; it means the code itself is not a penal statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 463.29
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 432.822
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2318,
+      "markdown_body_line_end": 2335,
+      "heading": "CLOSING RECALL FLOW - MCC LEGAL CHARACTER",
+      "preview": "START / CONCEPT: MCC LEGAL CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 410.822
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 199.822
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2346,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MCC Content Map is best understood through the exact constitutional, statutory and institutional rules governing mcc content map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2361,
+      "markdown_body_line_end": 2370,
+      "heading": "Visual 36 - Eight operational fields",
+      "preview": "Field | Core expectation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Field",
+          "Core expectation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 356.622
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2374,
+      "markdown_body_line_end": 2391,
+      "heading": "CLOSING RECALL FLOW - MCC CONTENT MAP",
+      "preview": "START / CONCEPT: MCC CONTENT MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 334.622
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 123.622
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2402,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MCC Enforcement Strengths And Limits is best understood through the exact constitutional, statutory and institutional rules governing mcc enforcement strengths and limits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2422,
+      "markdown_body_line_end": 2433,
+      "heading": "Visual 37 - Speed-accountability trade-off",
+      "preview": "NON-STATUTORY MCC",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 348.024
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 237.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2456,
+      "heading": "CLOSING RECALL FLOW - MCC ENFORCEMENT STRENGTHS AND LIMITS",
+      "preview": "START / CONCEPT: MCC ENFORCEMENT STRENGTHS AND LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2467,
+      "markdown_body_line_end": 2467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "EVM-VVPAT: Functional Architecture is best understood through the exact constitutional, statutory and institutional rules governing evm-vvpat: functional architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 354.624
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2487,
+      "markdown_body_line_end": 2495,
+      "heading": "Visual 38 - Vote recording flow",
+      "preview": "voter presses candidate button",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2499,
+      "markdown_body_line_end": 2516,
+      "heading": "CLOSING RECALL FLOW - EVM-VVPAT: FUNCTIONAL ARCHITECTURE",
+      "preview": "START / CONCEPT: EVM-VVPAT: FUNCTIONAL ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2527,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "2024 Supreme Court EVM-VVPAT Control is best understood through the exact constitutional, statutory and institutional rules governing 2024 supreme court evm-vvpat control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 328.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 261.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2552,
+      "markdown_body_line_end": 2559,
+      "heading": "Visual 39 - Judicial safeguard matrix",
+      "preview": "Demand/control | Court position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Demand/control",
+          "Court position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 638.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 486.69
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2563,
+      "markdown_body_line_end": 2580,
+      "heading": "CLOSING RECALL FLOW - SUPREME COURT EVM-VVPAT CONTROL",
+      "preview": "START / CONCEPT: SUPREME COURT EVM-VVPAT CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 464.69
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 243.69
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2591,
+      "markdown_body_line_end": 2591,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "How To Discuss Technology Without Amplifying Unsupported Claims is best understood through the exact constitutional, statutory and institutional rules governing how to discuss technology without amplifying unsupported claims.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2612,
+      "markdown_body_line_end": 2624,
+      "heading": "Visual 40 - Trust framework",
+      "preview": "TECHNICAL SECURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 446.624
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2628,
+      "markdown_body_line_end": 2645,
+      "heading": "CLOSING RECALL FLOW - HOW TO DISCUSS TECHNOLOGY WITHOUT AMPLIFYING UNSUPPORTED CLAIMS",
+      "preview": "START / CONCEPT: HOW TO DISCUSS TECHNOLOGY WITHOUT AMPLIFYING UNSUPPORTED CLAIMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 290.624
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 49.624
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2656,
+      "markdown_body_line_end": 2656,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 324 Plenary Power: The Correct Doctrine is best understood through the exact constitutional, statutory and institutional rules governing article 324 plenary power: the correct doctrine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2678,
+      "markdown_body_line_end": 2690,
+      "heading": "Visual 41 - Plenary-power decision test",
+      "preview": "Is the Constitution/statute/rule explicit?",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 309.824
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 188.824
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2694,
+      "markdown_body_line_end": 2711,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 324 PLENARY POWER: THE CORRECT DOCTRINE",
+      "preview": "START / CONCEPT: ARTICLE 324 PLENARY POWER: THE CORRECT DOCTRINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2722,
+      "markdown_body_line_end": 2722,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Natural Justice In Election Administration is best understood through the exact constitutional, statutory and institutional rules governing natural justice in election administration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 354.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2747,
+      "heading": "Visual 42 - Flexible fairness",
+      "preview": "Context | Procedural expectation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Context",
+          "Procedural expectation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2751,
+      "markdown_body_line_end": 2768,
+      "heading": "CLOSING RECALL FLOW - NATURAL JUSTICE IN ELECTION ADMINISTRATION",
+      "preview": "START / CONCEPT: NATURAL JUSTICE IN ELECTION ADMINISTRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 655.89
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 424.89
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2779,
+      "markdown_body_line_end": 2779,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Landmark Case Matrix is best understood through the exact constitutional, statutory and institutional rules governing landmark case matrix.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 304.09
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 237.422
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2794,
+      "markdown_body_line_end": 2805,
+      "heading": "Visual 43 - Cases, holdings and boundaries",
+      "preview": "Case | Named holding for this topic | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Case",
+          "Named holding for this topic",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 449.89
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2809,
+      "markdown_body_line_end": 2826,
+      "heading": "CLOSING RECALL FLOW - LANDMARK CASE MATRIX",
+      "preview": "START / CONCEPT: LANDMARK CASE MATRIX",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 427.89
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 216.89
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2837,
+      "markdown_body_line_end": 2837,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "NOTA: Right Not To Choose, Not A Right To Reject The Result is best understood through the exact constitutional, statutory and institutional rules governing nota: right not to choose, not a right to reject the result.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2864,
+      "heading": "Visual 44 - NOTA legal effect",
+      "preview": "NOTA selected",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 475.024
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 414.024
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2868,
+      "markdown_body_line_end": 2885,
+      "heading": "CLOSING RECALL FLOW - NOTA: RIGHT NOT TO CHOOSE, NOT A RIGHT TO REJECT THE RESULT",
+      "preview": "START / CONCEPT: NOTA: RIGHT NOT TO CHOOSE, NOT A RIGHT TO REJECT THE RESULT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 392.024
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 151.024
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2896,
+      "markdown_body_line_end": 2896,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Candidate Disclosure And Political-Finance Transparency is best understood through the exact constitutional, statutory and institutional rules governing candidate disclosure and political-finance transparency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2919,
+      "markdown_body_line_end": 2927,
+      "heading": "Visual 45 - Information-right ladder",
+      "preview": "candidate criminal/financial/educational disclosure",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2931,
+      "markdown_body_line_end": 2948,
+      "heading": "CLOSING RECALL FLOW - CANDIDATE DISCLOSURE AND POLITICAL-FINANCE TRANSPARENCY",
+      "preview": "START / CONCEPT: CANDIDATE DISCLOSURE AND POLITICAL-FINANCE TRANSPARENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 453.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2959,
+      "markdown_body_line_end": 2959,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 329 And The Election-Dispute Boundary is best understood through the exact constitutional, statutory and institutional rules governing article 329 and the election-dispute boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 299.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 232.624
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2983,
+      "markdown_body_line_end": 2990,
+      "heading": "Visual 46 - Time-sensitive judicial route",
+      "preview": "BEFORE / DURING POLL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 590.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2994,
+      "markdown_body_line_end": 3011,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 329 AND THE ELECTION-DISPUTE BOUNDARY",
+      "preview": "START / CONCEPT: ARTICLE 329 AND THE ELECTION-DISPUTE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 568.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 347.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3022,
+      "markdown_body_line_end": 3022,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "President And Vice-President Election Boundary is best understood through the exact constitutional, statutory and institutional rules governing president and vice-president election boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 193.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 127.224
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3044,
+      "markdown_body_line_end": 3048,
+      "heading": "Visual 47 - Dispute forum comparison",
+      "preview": "Election | Administrative authority | Dispute forum",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Election",
+          "Administrative authority",
+          "Dispute forum"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 624.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 536.29
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3052,
+      "markdown_body_line_end": 3069,
+      "heading": "CLOSING RECALL FLOW - PRESIDENT AND VICE-PRESIDENT ELECTION BOUNDARY",
+      "preview": "START / CONCEPT: PRESIDENT AND VICE-PRESIDENT ELECTION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 514.29
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 283.29
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3080,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Independence Safeguards And Deficits is best understood through the exact constitutional, statutory and institutional rules governing independence safeguards and deficits.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 148.29
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 81.622
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3099,
+      "markdown_body_line_end": 3111,
+      "heading": "Visual 48 - Independence is a system",
+      "preview": "APPOINTMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 23
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 459.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3117,
+      "markdown_body_line_end": 3134,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENCE SAFEGUARDS AND DEFICITS",
+      "preview": "START / CONCEPT: INDEPENDENCE SAFEGUARDS AND DEFICITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 418.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 187.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3145,
+      "markdown_body_line_end": 3145,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Budget And Charged-Expenditure Nuance is best understood through the exact constitutional, statutory and institutional rules governing budget and charged-expenditure nuance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3171,
+      "markdown_body_line_end": 3175,
+      "heading": "Visual 49 - Current position versus reform",
+      "preview": "Dimension | Current control | Reform claim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Current control",
+          "Reform claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 406.224
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 306.822
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3179,
+      "markdown_body_line_end": 3196,
+      "heading": "CLOSING RECALL FLOW - BUDGET AND CHARGED-EXPENDITURE NUANCE",
+      "preview": "START / CONCEPT: BUDGET AND CHARGED-EXPENDITURE NUANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 284.822
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 53.822
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3207,
+      "markdown_body_line_end": 3207,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Equal Removal Protection Debate is best understood through the exact constitutional, statutory and institutional rules governing equal removal protection debate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3227,
+      "markdown_body_line_end": 3231,
+      "heading": "Visual 50 - Reform options",
+      "preview": "Option | Benefit | Risk/qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Option",
+          "Benefit",
+          "Risk/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 348.024
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 248.622
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3235,
+      "markdown_body_line_end": 3252,
+      "heading": "CLOSING RECALL FLOW - EQUAL REMOVAL PROTECTION DEBATE",
+      "preview": "START / CONCEPT: EQUAL REMOVAL PROTECTION DEBATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3263,
+      "markdown_body_line_end": 3263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appointment Reform Options is best understood through the exact constitutional, statutory and institutional rules governing appointment reform options.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3282,
+      "markdown_body_line_end": 3290,
+      "heading": "Visual 51 - Appointment-quality funnel",
+      "preview": "broad eligible pool",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3294,
+      "markdown_body_line_end": 3311,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT REFORM OPTIONS",
+      "preview": "START / CONCEPT: APPOINTMENT REFORM OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3322,
+      "markdown_body_line_end": 3322,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Enforcement-Accountability Reform is best understood through the exact constitutional, statutory and institutional rules governing enforcement-accountability reform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 271.624
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3339,
+      "markdown_body_line_end": 3346,
+      "heading": "Visual 52 - Complaint-to-outcome ledger",
+      "preview": "Stage | Minimum public control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Stage",
+          "Minimum public control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3350,
+      "markdown_body_line_end": 3367,
+      "heading": "CLOSING RECALL FLOW - ENFORCEMENT-ACCOUNTABILITY REFORM",
+      "preview": "START / CONCEPT: ENFORCEMENT-ACCOUNTABILITY REFORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 613.49
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 392.49
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3378,
+      "markdown_body_line_end": 3378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Electoral-Roll Reform Options is best understood through the exact constitutional, statutory and institutional rules governing electoral-roll reform options.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 257.49
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 190.822
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3398,
+      "markdown_body_line_end": 3408,
+      "heading": "Visual 53 - Inclusion-first data governance",
+      "preview": "data signal of possible error",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 695.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 594.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3412,
+      "markdown_body_line_end": 3429,
+      "heading": "CLOSING RECALL FLOW - ELECTORAL-ROLL REFORM OPTIONS",
+      "preview": "START / CONCEPT: ELECTORAL-ROLL REFORM OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 572.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 361.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3440,
+      "markdown_body_line_end": 3440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "MCC Reform Options is best understood through the exact constitutional, statutory and institutional rules governing mcc reform options.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 240.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 173.824
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3463,
+      "markdown_body_line_end": 3471,
+      "heading": "Visual 54 - Hybrid MCC model",
+      "preview": "FAST ECI DIRECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 642.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 561.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3475,
+      "markdown_body_line_end": 3492,
+      "heading": "CLOSING RECALL FLOW - MCC REFORM OPTIONS",
+      "preview": "START / CONCEPT: MCC REFORM OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 539.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 328.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3503,
+      "markdown_body_line_end": 3503,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Technology And Audit Reform is best understood through the exact constitutional, statutory and institutional rules governing technology and audit reform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 193.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 127.024
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3522,
+      "markdown_body_line_end": 3527,
+      "heading": "Visual 55 - Audit proportionality",
+      "preview": "Goal | Tool | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Goal",
+          "Tool",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 537.29
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3531,
+      "markdown_body_line_end": 3548,
+      "heading": "CLOSING RECALL FLOW - TECHNOLOGY AND AUDIT REFORM",
+      "preview": "START / CONCEPT: TECHNOLOGY AND AUDIT REFORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 515.29
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 304.29
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3559,
+      "markdown_body_line_end": 3559,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "What The ECI Cannot Lawfully Do is best understood through the exact constitutional, statutory and institutional rules governing what the eci cannot lawfully do.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 169.29
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 102.622
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3573,
+      "markdown_body_line_end": 3582,
+      "heading": "Visual 56 - Negative-power board",
+      "preview": "Cannot | Correct route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Cannot",
+          "Correct route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 502.09
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3586,
+      "markdown_body_line_end": 3603,
+      "heading": "CLOSING RECALL FLOW - WHAT THE ECI CANNOT LAWFULLY DO",
+      "preview": "START / CONCEPT: WHAT THE ECI CANNOT LAWFULLY DO",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 480.09
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 269.09
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3614,
+      "markdown_body_line_end": 3614,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Integrated Answer-Writing Framework is best understood through the exact constitutional, statutory and institutional rules governing integrated answer-writing framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 134.09
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 67.422
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3636,
+      "markdown_body_line_end": 3651,
+      "heading": "Visual 57 - Claim-evidence-analysis-qualification spine",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 540.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 389.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3655,
+      "markdown_body_line_end": 3672,
+      "heading": "CLOSING RECALL FLOW - INTEGRATED ANSWER-WRITING FRAMEWORK",
+      "preview": "START / CONCEPT: INTEGRATED ANSWER-WRITING FRAMEWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 367.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 146.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3683,
+      "markdown_body_line_end": 3683,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Thesis Selector is best understood through the exact constitutional, statutory and institutional rules governing thesis selector.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3695,
+      "markdown_body_line_end": 3702,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand | Qualified thesis",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Demand",
+          "Qualified thesis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 485.424
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 300.022
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3706,
+      "markdown_body_line_end": 3723,
+      "heading": "CLOSING RECALL FLOW - THESIS SELECTOR",
+      "preview": "START / CONCEPT: THESIS SELECTOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 278.022
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 67.022
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3734,
+      "markdown_body_line_end": 3734,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims Trap Board is best understood through the exact constitutional, statutory and institutional rules governing prelims trap board.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3747,
+      "markdown_body_line_end": 3762,
+      "heading": "Visual 58 - Close-option corrections",
+      "preview": "Wrong statement | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 14,
+        "headers": [
+          "Wrong statement",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 480.624
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 159.222
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3766,
+      "markdown_body_line_end": 3783,
+      "heading": "CLOSING RECALL FLOW - PRELIMS TRAP BOARD",
+      "preview": "START / CONCEPT: PRELIMS TRAP BOARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0191",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4519,
+      "markdown_body_line_end": 4525,
+      "heading": "Prelims PYQ ownership control",
+      "preview": "Routed demand | Included | Ownership note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Routed demand",
+          "Included",
+          "Ownership note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 601.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 470.89
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0192",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4897,
+      "markdown_body_line_end": 4905,
+      "heading": "Mains PYQ coverage control",
+      "preview": "Year | Demand | Status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Demand",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 663.891
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 490.89
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0193",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5286,
+      "markdown_body_line_end": 5289,
+      "heading": "Election Commission + Elections & Electoral Reforms (Articles 324-329) - ADVANCED / COMPLETE",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II **Grounded in:** Indian Polity by M. Laxmikant, Ch. 42 & 71–72 (direct check of the local Sixth Revised Edition PDF) + India Code/ECI updates. ✅ = from source book ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 741.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 668.224
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0194",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5299,
+      "markdown_body_line_end": 5306,
+      "heading": "Composition (Art 324)",
+      "preview": "Point | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Point",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 571.124
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 396.922
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0195",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5348,
+      "markdown_body_line_end": 5356,
+      "heading": "PART C - ELECTORAL REFORMS (highlights) ⭐",
+      "preview": "Reform | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Reform",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 117,
+          "frame_y": 543.091
+        },
+        "end": {
+          "page": 117,
+          "frame_y": 325.29
+        }
+      },
+      "pdf_pages": [
+        117
+      ]
+    },
+    {
+      "visual_id": "visual-0196",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5373,
+      "markdown_body_line_end": 5373,
+      "heading": "➕ Model Code of Conduct (MCC)",
+      "preview": "✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 117,
+          "frame_y": 127.79
+        },
+        "end": {
+          "page": 117,
+          "frame_y": 61.122
+        }
+      },
+      "pdf_pages": [
+        117
+      ]
+    },
+    {
+      "visual_id": "visual-0197",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5382,
+      "markdown_body_line_end": 5386,
+      "heading": "➕ Model Code of Conduct (MCC)",
+      "preview": "MCC area | Legal character",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "MCC area",
+          "Legal character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 669.691
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 581.49
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0198",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5388,
+      "markdown_body_line_end": 5388,
+      "heading": "➕ Model Code of Conduct (MCC)",
+      "preview": "🔑 Trap: MCC is not a statute, but parts of the same conduct may still be punishable under RPA/IPC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 581.49
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 551.022
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0199",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5423,
+      "markdown_body_line_end": 5424,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0200",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5430,
+      "markdown_body_line_end": 5436,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 344.122
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0201",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5446,
+      "markdown_body_line_end": 5446,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 236.122
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 191.454
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0202",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5453,
+      "markdown_body_line_end": 5459,
+      "heading": "Constitutional field and ownership",
+      "preview": "ARTICLE 324",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0203",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5470,
+      "markdown_body_line_end": 5477,
+      "heading": "Composition and evolution",
+      "preview": "Recall | Rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Recall",
+          "Rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 581.891
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 430.09
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0204",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5486,
+      "markdown_body_line_end": 5498,
+      "heading": "Appointment Act rapid recall",
+      "preview": "s.5 eligibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 336.29
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 215.29
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0205",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5508,
+      "markdown_body_line_end": 5514,
+      "heading": "Anoop Baranwal (2023) and current status",
+      "preview": "legislative vacuum",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0206",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5524,
+      "markdown_body_line_end": 5533,
+      "heading": "Tenure, salary, protection and removal",
+      "preview": "Issue | Control",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Issue",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 599.091
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 393.69
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0207",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5541,
+      "markdown_body_line_end": 5547,
+      "heading": "Election administration chain",
+      "preview": "ECI",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 317.09
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 256.09
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0208",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5557,
+      "markdown_body_line_end": 5563,
+      "heading": "Electoral-roll control",
+      "preview": "Principle | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Principle",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0209",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5571,
+      "markdown_body_line_end": 5577,
+      "heading": "Delimitation boundary",
+      "preview": "Parliamentary law",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 578.09
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 517.09
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0210",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5585,
+      "markdown_body_line_end": 5590,
+      "heading": "Parties and symbols",
+      "preview": "Stage | Legal route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Legal route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 440.49
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 331.088
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0211",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5598,
+      "markdown_body_line_end": 5604,
+      "heading": "Model Code of Conduct",
+      "preview": "1960 Kerala experiment",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 122,
+          "frame_y": 254.488
+        },
+        "end": {
+          "page": 122,
+          "frame_y": 193.488
+        }
+      },
+      "pdf_pages": [
+        122
+      ]
+    },
+    {
+      "visual_id": "visual-0212",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5616,
+      "markdown_body_line_end": 5619,
+      "heading": "EVM-VVPAT",
+      "preview": "Ballot Unit -> Control Unit record",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 754.291
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0213",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5631,
+      "markdown_body_line_end": 5642,
+      "heading": "Article 324 case-law code",
+      "preview": "Case | One-line rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Case",
+          "One-line rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 580.491
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 343.89
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0214",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5646,
+      "markdown_body_line_end": 5650,
+      "heading": "Plenary-power formula",
+      "preview": "LAW SPEAKS -> ECI follows",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 318.89
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 277.89
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0215",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5657,
+      "markdown_body_line_end": 5663,
+      "heading": "Disqualification and dispute routes",
+      "preview": "Issue | Forum",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Issue",
+          "Forum"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 218.49
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 87.888
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0216",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5670,
+      "markdown_body_line_end": 5674,
+      "heading": "Independence and accountability",
+      "preview": "appointment x removal x finance x secretariat",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 744.291
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0217",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 5702,
+      "markdown_body_line_end": 5711,
+      "heading": "Rapid Mains spines",
+      "preview": "Demand | Spine",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Demand",
+          "Spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 336.091
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 141.89
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0218",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5715,
+      "markdown_body_line_end": 5730,
+      "heading": "Final twenty-second recall",
+      "preview": "324 = ECI field",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 634.291
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0219",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5736,
+      "markdown_body_line_end": 5756,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Article 324 and the collegial Election Commission",
+      "preview": "ARTICLE 324",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 587.291
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 382.491
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0220",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5760,
+      "markdown_body_line_end": 5781,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Appointment Act, tenure, removal and independence safeguards",
+      "preview": "Anoop Baranwal (2023)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 360.491
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 145.491
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0221",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5785,
+      "markdown_body_line_end": 5803,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Election administration from schedule and rolls to repoll",
+      "preview": "ADMINISTRATIVE CHAIN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0222",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5807,
+      "markdown_body_line_end": 5827,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: RPA interface, delimitation boundary, voter registration and NOTA",
+      "preview": "RPA 1950",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0223",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5831,
+      "markdown_body_line_end": 5849,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Political parties, symbols and Model Code enforcement",
+      "preview": "PARTY REGISTRATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 126,
+          "frame_y": 354.091
+        },
+        "end": {
+          "page": 126,
+          "frame_y": 169.691
+        }
+      },
+      "pdf_pages": [
+        126
+      ]
+    },
+    {
+      "visual_id": "visual-0224",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5853,
+      "markdown_body_line_end": 5878,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Campaign finance, criminalisation, paid news and social-media limits",
+      "preview": "CAMPAIGN FINANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 24,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 531.491
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0225",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5882,
+      "markdown_body_line_end": 5904,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: EVM-VVPAT architecture and current judicial controls",
+      "preview": "POLLING CHAIN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 509.491
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 284.291
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0226",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5908,
+      "markdown_body_line_end": 5926,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Article 324 case-law code: power, law, collegiality and rights",
+      "preview": "Mohinder Singh Gill (1977)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0227",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5930,
+      "markdown_body_line_end": 5949,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: ECI-SEC boundary, reform priorities, traps and final answer spine",
+      "preview": "ECI                                  STATE ELECTION COMMISSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0228",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5953,
+      "markdown_body_line_end": 5971,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Appointment-law status and institutional-independence test",
+      "preview": "ARTICLE 324",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 364.291
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 179.891
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0229",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5975,
+      "markdown_body_line_end": 5989,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Roll, delimitation and election-dispute boundaries",
+      "preview": "RPA 1950",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 129,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        129
+      ]
+    },
+    {
+      "visual_id": "visual-0230",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5993,
+      "markdown_body_line_end": 6012,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Scheduling, repoll and countermanding legality chain",
+      "preview": "SCHEDULE ANNOUNCEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 129,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        129
+      ]
+    }
+  ]
+}

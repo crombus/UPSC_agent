@@ -1393,6 +1393,30 @@ measurement revisions from actual performance.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** National accounts measure production, income and expenditure consistently: GDP is domestic, GNP/GNI adds net primary income from abroad, NDP/NNP deduct depreciation, and GVA plus product taxes less product subsidies yields GDP.
+- **Indispensable distinction and prerequisite taxonomy:** Nominal is current-price value, real is constant-price volume, a level is not a growth rate, gross is not net, domestic is not national, and an accounting identity is not a behavioural causal claim.
+- **Mechanism, implementation and evidence control:** State factor cost/basic/market-price convention, base year, deflator, coverage, informal-sector method and revision status; reconcile output, income and expenditure approaches without adding transfer payments or financial-asset trades to production.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. Live official checks on 2026-09-06 did not yield independently extractable national-accounts text. The package therefore preserves the owner's exact 27 February 2026 release date, 2022-23 base, back-series cutoff and estimate-vintage cautions without manufacturing a fresh growth number. Sources: https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf; https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited Economy ledgers route 2020 GS-III on potential GDP and output gap and 2021 GS-III on the pre/post-2015 GDP methodology change to this Basic owner. Objective routes on ICOR, PPP, sector classification, physical capital and intangible investment are retained as concepts without inventing answer letters.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Territory-residence boundary?

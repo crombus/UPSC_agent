@@ -14,7 +14,7 @@ from typing import Any
 
 
 _BASE = Path(__file__).with_name("regenerate_indian_society_deep_review.py")
-_BASE_SHA256 = "b68803a9dbc8334c29d4eaa7584d0cd414923df189905c8c3b582299e2ee3b54"
+_BASE_SHA256 = "a3ddcc105b65a513cc45fb28caf0a030a1984bb4611beb96947ed3aa6072cd5d"
 _base_bytes = _BASE.read_bytes()
 if hashlib.sha256(_base_bytes).hexdigest() != _BASE_SHA256:
     raise RuntimeError(
@@ -43,6 +43,102 @@ for _old, _new in (
         raise RuntimeError(f"Governance transformation anchor is missing: {_old!r}")
     _source = _source.replace(_old, _new)
 
+_stale_config_block = """import governance_01_05_data as society_01_05_data
+import governance_06_10_data as society_06_10_data
+import governance_11_15_data as society_11_15_data
+
+
+DATE = "2026-09-05"
+SECTION_MANIFEST = (
+    ROOT
+    / "upsc-ai-kit"
+    / "manifests"
+    / "v2"
+    / "governance--subject-wide-syllabus.json"
+)
+COMMON_CHRONOLOGY = (
+    ROOT / "upsc-ai-kit" / "knowledge" / "Governance" / "00_Master-Framework.md"
+)
+SOCIETY_TEST_MODULES = tuple(
+    f"test_generate_governance_{number:02d}_sequential"
+    for number in range(1, 17)
+)
+CURRENT_AUTHORING_CONFIGS.update(
+    {
+        config["key"]: config
+        for config in (
+            society_01_05_data.TOPIC_01,
+            society_01_05_data.TOPIC_02,
+            society_01_05_data.TOPIC_03,
+            society_01_05_data.TOPIC_04,
+            society_01_05_data.TOPIC_05,
+            society_06_10_data.TOPIC_06,
+            society_06_10_data.TOPIC_07,
+            society_06_10_data.TOPIC_08,
+            society_06_10_data.TOPIC_09,
+            society_06_10_data.TOPIC_10,
+            society_11_15_data.TOPIC_11,
+            society_11_15_data.TOPIC_12,
+            society_11_15_data.TOPIC_13,
+            society_11_15_data.TOPIC_14,
+            society_11_15_data.TOPIC_15,
+        )
+    }
+)
+"""
+_governance_config_block = """import governance_01_02_data as governance_01_02_data
+import governance_03_04_data as governance_03_04_data
+import governance_05_06_data as governance_05_06_data
+import governance_07_08_data as governance_07_08_data
+import governance_09_10_data as governance_09_10_data
+import governance_11_12_data as governance_11_12_data
+import governance_13_14_data as governance_13_14_data
+import governance_15_16_data as governance_15_16_data
+
+
+DATE = "2026-09-05"
+SECTION_MANIFEST = (
+    ROOT
+    / "upsc-ai-kit"
+    / "manifests"
+    / "v2"
+    / "governance--subject-wide-syllabus.json"
+)
+COMMON_CHRONOLOGY = (
+    ROOT / "upsc-ai-kit" / "knowledge" / "Governance" / "00_Master-Framework.md"
+)
+SOCIETY_TEST_MODULES = tuple(
+    f"test_generate_governance_{number:02d}_sequential"
+    for number in range(1, 17)
+)
+CURRENT_AUTHORING_CONFIGS.update(
+    {
+        config["key"]: config
+        for config in (
+            governance_01_02_data.TOPIC_01,
+            governance_01_02_data.TOPIC_02,
+            governance_03_04_data.TOPIC_03,
+            governance_03_04_data.TOPIC_04,
+            governance_05_06_data.TOPIC_05,
+            governance_05_06_data.TOPIC_06,
+            governance_07_08_data.TOPIC_07,
+            governance_07_08_data.TOPIC_08,
+            governance_09_10_data.TOPIC_09,
+            governance_09_10_data.TOPIC_10,
+            governance_11_12_data.TOPIC_11,
+            governance_11_12_data.TOPIC_12,
+            governance_13_14_data.TOPIC_13,
+            governance_13_14_data.TOPIC_14,
+            governance_15_16_data.TOPIC_15,
+            governance_15_16_data.TOPIC_16,
+        )
+    }
+)
+"""
+if _stale_config_block not in _source:
+    raise RuntimeError("Current Governance authoring-config adaptation anchor is missing.")
+_source = _source.replace(_stale_config_block, _governance_config_block, 1)
+
 _test_anchor = '        run_unittest("test_generate_governance_15_sequential"),'
 if "_new_tests =" not in _source or _source.count(_test_anchor) < 2:
     raise RuntimeError("Governance topic-16 test insertion anchor is missing.")
@@ -59,7 +155,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 
-DATE = "2026-09-02"
+DATE = "2026-09-05"
 SECTION_MANIFEST = (
     ROOT / "upsc-ai-kit" / "manifests" / "v2" / "governance--subject-wide-syllabus.json"
 )
@@ -226,6 +322,223 @@ GOVERNANCE_REVIEW_POINTS: dict[int, tuple[str, str, str]] = {
         "Qualify the National Sports Development Code, court or committee directions, Olympic Charter recognition, federation status and tournament ownership by source and date; analyse selection transparency, tenure, athlete representation, safe sport, anti-doping, finance, conflict of interest, appeal and regulatory autonomy.",
     ),
 }
+
+GOVERNANCE_LIVE_OFFICIAL_SOURCES: dict[int, tuple[list[str], str]] = {
+    1: (
+        [
+            "https://www.darpg.gov.in/relatedlinks/good-governance-index",
+            "https://darpg.gov.in/relatedlinks/sevottam",
+            "https://darpg.gov.in/relatedlinks/citizen-charter",
+        ],
+        "Rechecked 2026-09-05: DARPG remains the official owner for the Good "
+        "Governance Index, Sevottam and citizen-charter material. The latest "
+        "completed national GGI edition located remains GGI 2020-21; later "
+        "district indices, events or awards are not substituted for a national edition.",
+    ),
+    2: (
+        [
+            "https://www.indiacode.nic.in/handle/123456789/20100?view_type=search&col=123456789/1362",
+            "https://www.indiacode.nic.in/show-data?abv=CEN&statehandle=123456789/1362&actid=AC_CEN_26_36_00009_A2024-01_1719556801892&sectionId=91515&sectionno=1&orderno=1&orgactid=AC_CEN_26_36_00009_A2024-01_1719556801892",
+        ],
+        "Rechecked 2026-09-05: India Code records the Public Examinations "
+        "(Prevention of Unfair Means) Act, 2024 and notification S.O. 2422(E), "
+        "bringing it into force on 21 June 2024. A law, rule, scheme, guideline "
+        "and implementation outcome remain separate policy-cycle statuses.",
+    ),
+    3: (
+        [
+            "https://www.mca.gov.in/content/mca/global/en/acts-rules/ebooks/acts.html",
+            "https://ngodarpan.gov.in/",
+        ],
+        "Rechecked 2026-09-05: MCA remains the official statutory source for "
+        "Companies Act section 135, Schedule VII and CSR rules; NGO Darpan is "
+        "an executive information interface. Registration, financing, project "
+        "completion and demonstrated development outcome are not interchangeable.",
+    ),
+    4: (
+        [
+            "https://fcraonline.nic.in/",
+            "https://fcraonline.nic.in/home/PDF_Doc/fc_amend_07102020_1.pdf",
+            "https://aajeevika.gov.in/",
+        ],
+        "Rechecked 2026-09-05: the official FCRA portal continues to carry the "
+        "2010 Act as amended in 2020, including the designated receipt account, "
+        "twenty-percent administrative-expense ceiling and renewal framework. "
+        "DAY-NRLM partnership does not erase NGO/SHG legal and accountability differences.",
+    ),
+    5: (
+        [
+            "https://darpg.gov.in/en/e-governance",
+            "https://web.umang.gov.in/",
+            "https://www.digilocker.gov.in/",
+        ],
+        "Rechecked 2026-09-05: DARPG, UMANG and DigiLocker remain authoritative "
+        "programme sources. Platform availability or transaction counts do not "
+        "by themselves prove accessibility, reasoned disposal, remedy or citizen outcome.",
+    ),
+    6: (
+        [
+            "https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa?pageTitle=Digital-Personal-Data-Protection-Rules-2025.pdf",
+            "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
+            "https://uidai.gov.in/en/legal-framework",
+            "https://www.npci.org.in/what-we-do/upi/product-overview",
+        ],
+        "Rechecked 2026-09-05: G.S.R. 843(E) notified the Digital Personal Data "
+        "Protection Rules, 2025 on 13 November 2025 with phased commencement at "
+        "publication, one year and eighteen months. Each provision must therefore "
+        "be described by its own operative date; DPI ownership and privacy duties "
+        "remain institution- and instrument-specific.",
+    ),
+    7: (
+        [
+            "https://darpg.gov.in/relatedlinks/sevottam",
+            "https://pgportal.gov.in/",
+            "https://darpg.gov.in/relatedlinks/citizen-charter",
+        ],
+        "Rechecked 2026-09-05: Sevottam, citizen-charter guidance and CPGRAMS "
+        "remain executive service-quality and grievance instruments. A charter "
+        "is not automatically a statutory guarantee, and portal disposal is not "
+        "necessarily reasoned resolution, compensation or appellate remedy.",
+    ),
+    8: (
+        [
+            "https://rti.dopt.gov.in/",
+            "https://dopt.gov.in/sites/default/files/RTI_Act_2005_Eng.pdf",
+            "https://nrega.nic.in/",
+        ],
+        "Rechecked 2026-09-05: the RTI Act's disclosure, exemption, severability, "
+        "appeal and penalty routes remain distinct; MGNREGA social audit remains "
+        "participatory verification with a required follow-up chain. Disclosure, "
+        "audit observation, grievance decision and legal guilt are not synonyms.",
+    ),
+    9: (
+        [
+            "https://cbc.gov.in/",
+            "https://cbc.gov.in/about-cbc",
+            "https://igotkarmayogi.gov.in/",
+        ],
+        "Rechecked 2026-09-05: Mission Karmayogi remains an executive National "
+        "Programme for Civil Services Capacity Building envisioned in 2020; the "
+        "Capacity Building Commission was established on 1 April 2021. Enrolment "
+        "and course completion are outputs, not proof of workplace or citizen outcomes.",
+    ),
+    10: (
+        [
+            "https://darpg.gov.in/en/arc-reports",
+            "https://darpg.gov.in/",
+        ],
+        "Rechecked 2026-09-05: DARPG continues to host the Second ARC's fifteen "
+        "reports and related government decisions. Every recommendation must be "
+        "classified separately as accepted, modified, rejected, implemented or pending.",
+    ),
+    11: (
+        [
+            "https://www.cci.gov.in/",
+            "https://www.sebi.gov.in/",
+            "https://www.trai.gov.in/",
+        ],
+        "Rechecked 2026-09-05: CCI's official page continues to state its "
+        "competition-culture, enforcement, consumer-welfare and growth mandate. "
+        "Regulators retain statute-specific appointment, finance, enforcement, "
+        "appeal and judicial-review arrangements; independence is not immunity.",
+    ),
+    12: (
+        [
+            "https://panchayat.gov.in/",
+            "https://mohua.gov.in/",
+            "https://legislative.gov.in/constitution-of-india/",
+        ],
+        "Rechecked 2026-09-05: the Ministry of Panchayati Raj describes itself "
+        "as overseeing decentralisation and local governance and records its May "
+        "2004 establishment. Parts IX/IXA create constitutional frameworks, while "
+        "actual functions, staff and revenue remain substantially state-law dependent.",
+    ),
+    13: (
+        [
+            "https://pfms.nic.in/SitePages/aboutus.aspx",
+            "https://dbtbharat.gov.in/",
+            "https://gem.gov.in/",
+            "https://cag.gov.in/en/audit-report",
+        ],
+        "Rechecked 2026-09-05: PFMS identifies CGA/Department of Expenditure "
+        "ownership and distinguishes fund tracking, accounting and DBT payment. "
+        "Allocation, release, transfer, expenditure, output, outcome and audit "
+        "conclusion remain separate evidentiary stages.",
+    ),
+    14: (
+        [
+            "https://www.mygov.in/",
+            "https://panchayat.gov.in/",
+        ],
+        "Rechecked 2026-09-05: MyGov remains an official citizen-engagement "
+        "platform and displayed the University Townships consultation dated "
+        "10 July-20 August 2026. An invitation, attendance or comment count does "
+        "not prove representativeness, consent, reasoned response or shared decision power.",
+    ),
+    15: (
+        [
+            "https://dmeo.gov.in/",
+            "https://www.niti.gov.in/aspirational-districts-programme",
+        ],
+        "Rechecked 2026-09-05: DMEO remains an attached office of NITI Aayog, "
+        "constituted in September 2015 from PEO and IEO, with a monitoring and "
+        "evaluation mandate. A dashboard, rank or correlation is not an impact "
+        "evaluation without baseline, counterfactual, denominator and attribution controls.",
+    ),
+    16: (
+        [
+            "https://yas.gov.in/en/sports/nsga-2025",
+            "https://www.yas.gov.in/sites/default/files/National%20Sports%20Governance%20Act,%202025.pdf",
+            "https://sports.yas.gov.in/search-detail/gazette_notifications/30",
+        ],
+        "Rechecked 2026-09-05: the National Sports Governance Act, 2025 is Act "
+        "No. 25 of 2025; official Ministry pages carry the Act and 2026 rules/"
+        "notifications. The Ministry, SAI, IOA, national federations, BCCI, "
+        "international federations and event organisers retain distinct legal roles.",
+    ),
+}
+LIVE_OFFICIAL_SOURCES = GOVERNANCE_LIVE_OFFICIAL_SOURCES
+
+GOVERNANCE_PYQ_STATUS = {
+    number: re.sub(r"\s+", " ", CURRENT_AUTHORING_CONFIGS[f"governance-{number:02d}"]["pyq_note"]).strip()
+    for number in range(1, 17)
+}
+
+
+def _canonical_governance_control(number: int) -> str:
+    must, distinction, limit = GOVERNANCE_REVIEW_POINTS[number]
+    sources, current = GOVERNANCE_LIVE_OFFICIAL_SOURCES[number]
+    source_list = "; ".join(sources)
+    return f"""### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** {must}
+- **Indispensable distinction and prerequisite taxonomy:** {distinction}
+- **Mechanism, implementation and evidence control:** {limit}
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  {current} Sources: {source_list}
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** {GOVERNANCE_PYQ_STATUS[number]}
+"""
+
+
+CANONICAL_OWNER_CONTROLS.clear()
+CANONICAL_OWNER_CONTROLS.update(
+    {number: _canonical_governance_control(number) for number in range(1, 17)}
+)
 
 
 def _status_hashes() -> dict[str, str | None]:

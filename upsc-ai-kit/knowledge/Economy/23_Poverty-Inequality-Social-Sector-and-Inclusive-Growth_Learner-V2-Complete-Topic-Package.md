@@ -1446,6 +1446,30 @@ not only coverage — therefore [qualified, directive-matching conclusion]."
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Poverty, inequality and inclusion require distinct incidence, depth, distribution, capability and access measures; growth affects them through jobs, wages, prices, assets, public services and fiscal redistribution.
+- **Indispensable distinction and prerequisite taxonomy:** Poverty headcount is not poverty gap, income is not consumption, Gini is not poverty, average growth is not inclusive growth, scheme enrolment is not adequacy, and correlation between growth and poverty decline is not complete causation.
+- **Mechanism, implementation and evidence control:** State survey, line/method, unit, price base, reference period and denominator; compare compatible series only and balance growth, distribution, stability, sustainability and federal delivery.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The official NITI pages were blocked to direct fetch, but official-domain search substantively exposed the national MPI method and the projected status of the 2022-23 estimate. No poverty rate, inequality value, scheme outlay or current beneficiary count was imported. Sources: https://www.niti.gov.in/sites/default/files/2024-01/MPI-22_NITI-Aayog20254.pdf; https://www.niti.gov.in/whats-new/multidimensional-poverty-india-2005-06
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on inclusive growth, inter-generational equity, financial inclusion, community health and social-service expenditure, plus the objective poverty-line variation concept. These demands are solved or retained in practice without inventing an official model answer or objective key.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Poverty and inequality boundary?

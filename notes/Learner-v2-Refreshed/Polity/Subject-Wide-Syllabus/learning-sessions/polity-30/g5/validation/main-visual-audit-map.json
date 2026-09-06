@@ -1,0 +1,3195 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-30",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 30 - GST Council - Complete Topic Package",
+      "preview": "**Control date:** 5 September 2026, Asia/Kolkata **Tags:** `[FACT]` directly supported by a named constitutional, statutory, judicial, official or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive position; `[",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 656.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 33,
+      "heading": "Authoritative evidence board",
+      "preview": "Named evidence | Claim controlled",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Named evidence",
+          "Claim controlled"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 498.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 58,
+      "heading": "Roadmap",
+      "preview": "Stage | Units | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Stage",
+          "Units",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 493.49
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 74,
+      "heading": "Visual 1 - Source and claim-control ladder",
+      "preview": "CONSTITUTION / AMENDMENT ACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 468.49
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 347.49
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 89,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 289.09
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 38.888
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 119,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\assets\\polity-30_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 363.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 56.156
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why Did India Need A Gst Compact? shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 582.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 170,
+      "heading": "Visual 2 - Pre-GST tax maze",
+      "preview": "FACTORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 181,
+      "heading": "Visual 3 - Cascading versus value-added credit",
+      "preview": "Stage | Without full credit | With GST-style credit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Without full credit",
+          "With GST-style credit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 471.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 196,
+      "heading": "Visual 4 - Origin-to-destination shift",
+      "preview": "PRODUCTION STATE ---- goods/services ----> CONSUMPTION STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 416.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 325.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 211,
+      "heading": "Visual 5 - Major pre-GST levies and post-GST location",
+      "preview": "Pre-GST levy family | Broad post-GST treatment | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Pre-GST levy family",
+          "Broad post-GST treatment",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 525.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 232,
+      "heading": "CLOSING RECALL FLOW - WHY DID INDIA NEED A GST COMPACT?",
+      "preview": "START / CONCEPT: WHY DID INDIA NEED A GST COMPACT?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 503.89
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 292.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 243,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 101St Amendment: Constitutional Surgery, Not A Single Tax Rate shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 153.09
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 86.422
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 279,
+      "heading": "Visual 6 - Before-and-after constitutional map",
+      "preview": "BEFORE 2016",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 368.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 287,
+      "heading": "Visual 7 - The three-article triangle",
+      "preview": "Article | Core question answered | One-line recall",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Article",
+          "Core question answered",
+          "One-line recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 346.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 247.29
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 301,
+      "heading": "Visual 8 - Selected legal surgery",
+      "preview": "Amendment move | Significance | Exam caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Amendment move",
+          "Significance",
+          "Exam caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 569.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 322,
+      "heading": "CLOSING RECALL FLOW - THE 101ST AMENDMENT: CONSTITUTIONAL SURGERY, NOT A SINGLE TAX RATE",
+      "preview": "START / CONCEPT: THE 101ST AMENDMENT: CONSTITUTIONAL SURGERY, NOT A SINGLE TAX RATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 534.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 303.49
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 333,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 246A: A Special Shared Taxing Power shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 182.69
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 116.022
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 358,
+      "markdown_body_line_end": 363,
+      "heading": "Visual 9 - Article 246A competence grid",
+      "preview": "Supply field | Parliament | State legislature",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Supply field",
+          "Parliament",
+          "State legislature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 514.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 393.49
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 384,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 246A: A SPECIAL SHARED TAXING POWER",
+      "preview": "START / CONCEPT: ARTICLE 246A: A SPECIAL SHARED TAXING POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 371.49
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 150.49
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 395,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 269A: Igst And The Inter-State Bridge shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 428,
+      "heading": "Visual 10 - Simplified IGST settlement flow",
+      "preview": "SUPPLIER IN STATE A",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 311.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 210.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 438,
+      "heading": "Visual 11 - Three legal layers",
+      "preview": "Layer | Example | Function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Layer",
+          "Example",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 459,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 269A: IGST AND THE INTER-STATE BRIDGE",
+      "preview": "START / CONCEPT: ARTICLE 269A: IGST AND THE INTER-STATE BRIDGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 677.09
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 456.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 470,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 279A: Exact Composition And Institutional Support shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 316.29
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 249.622
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 504,
+      "heading": "Visual 12 - Exact membership map",
+      "preview": "UNION FINANCE MINISTER ---------------- Chairperson",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 516,
+      "heading": "Visual 13 - Constitution versus administrative support",
+      "preview": "Feature | Source | Voting status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Feature",
+          "Source",
+          "Voting status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 360.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 537,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 279A: EXACT COMPOSITION AND INSTITUTIONAL SUPPORT",
+      "preview": "START / CONCEPT: ARTICLE 279A: EXACT COMPOSITION AND INSTITUTIONAL SUPPORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 338.29
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 117.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 548,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "What Exactly May The Council Recommend? shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 575,
+      "heading": "Visual 14 - Eight recommendation buckets",
+      "preview": "Bucket | Exact constitutional subject",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Bucket",
+          "Exact constitutional subject"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 395.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 201.422
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 591,
+      "heading": "Visual 15 - Petroleum is deferred, not constitutionally banished",
+      "preview": "SPECIFIED PETROLEUM PRODUCTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 614,
+      "heading": "CLOSING RECALL FLOW - WHAT EXACTLY MAY THE COUNCIL RECOMMEND?",
+      "preview": "START / CONCEPT: WHAT EXACTLY MAY THE COUNCIL RECOMMEND?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 630.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 409.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 625,
+      "markdown_body_line_end": 625,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "From Proposal To Legal Effect shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 289.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 222.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 659,
+      "heading": "Visual 16 - Recommendation workflow",
+      "preview": "ISSUE IDENTIFIED",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 700.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 559.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 670,
+      "heading": "Visual 17 - Who does what?",
+      "preview": "Actor | Constitutional/statutory role | Cannot be confused with",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Actor",
+          "Constitutional/statutory role",
+          "Cannot be confused with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 537.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 385.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 682,
+      "heading": "Visual 18 - Legal-effect ladder",
+      "preview": "COUNCIL RECOMMENDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 363.49
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 282.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 705,
+      "heading": "CLOSING RECALL FLOW - FROM PROPOSAL TO LEGAL EFFECT",
+      "preview": "START / CONCEPT: FROM PROPOSAL TO LEGAL EFFECT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 716,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Quorum, Weighted Voting And Coalition Arithmetic shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 747,
+      "heading": "Visual 19 - Formal vote formula",
+      "preview": "PASS if:",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 759,
+      "heading": "Visual 20 - Why 5/8 of State votes are needed with Union support",
+      "preview": "required total                     = 3/4 = 9/12",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 603.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 770,
+      "heading": "Visual 21 - Coalition examples with 20 States present and voting",
+      "preview": "Union | States in favour | Weighted total | Result",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Union",
+          "States in favour",
+          "Weighted total",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 441.99
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 776,
+      "markdown_body_line_end": 782,
+      "heading": "Visual 22 - Consensus practice versus formal rule",
+      "preview": "Dimension | Consensus practice | Formal constitutional vote",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Consensus practice",
+          "Formal constitutional vote"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 386.59
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 255.988
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 805,
+      "heading": "CLOSING RECALL FLOW - QUORUM, WEIGHTED VOTING AND COALITION ARITHMETIC",
+      "preview": "START / CONCEPT: QUORUM, WEIGHTED VOTING AND COALITION ARITHMETIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 816,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Procedure, Records And Institutional Accountability shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 851,
+      "heading": "Visual 23 - Accountability chain",
+      "preview": "AGENDA + EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 857,
+      "markdown_body_line_end": 874,
+      "heading": "CLOSING RECALL FLOW - PROCEDURE, RECORDS AND INSTITUTIONAL ACCOUNTABILITY",
+      "preview": "START / CONCEPT: PROCEDURE, RECORDS AND INSTITUTIONAL ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 590.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 369.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 885,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gst Mechanics The Council Influences But Does Not Itself Levy shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 230.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 163.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 905,
+      "markdown_body_line_end": 910,
+      "heading": "Visual 24 - Dual levy map",
+      "preview": "Transaction | Broad levy form | Revenue logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Transaction",
+          "Broad levy form",
+          "Revenue logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 680.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 548.49
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 920,
+      "markdown_body_line_end": 928,
+      "heading": "Visual 25 - ITC value chain",
+      "preview": "INPUT PURCHASE: tax paid = 18",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 437.69
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 356.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 948,
+      "heading": "Visual 26 - Rate decision is not one document",
+      "preview": "COUNCIL recommends category/rate/date",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 959,
+      "heading": "Visual 27 - Exempt, nil-rated and zero-rated are not synonyms",
+      "preview": "Category | Output tax | ITC consequence, broad | Example logic",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Category",
+          "Output tax",
+          "ITC consequence, broad",
+          "Example logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 513.49
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 981,
+      "heading": "Visual 28 - Inversion problem",
+      "preview": "INPUT TAX RATE HIGH",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 421.89
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 300.89
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 1004,
+      "heading": "CLOSING RECALL FLOW - GST MECHANICS THE COUNCIL INFLUENCES BUT DOES NOT ITSELF LEVY",
+      "preview": "START / CONCEPT: GST MECHANICS THE COUNCIL INFLUENCES BUT DOES NOT ITSELF LEVY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1015,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional And Statutory Boundaries: Alcohol, Petroleum And Electricity shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1036,
+      "heading": "Visual 29 - Three different exclusion logics",
+      "preview": "Item | Legal position | Correct wording",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Item",
+          "Legal position",
+          "Correct wording"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 643.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL AND STATUTORY BOUNDARIES: ALCOHOL, PETROLEUM AND ELECTRICITY",
+      "preview": "START / CONCEPT: CONSTITUTIONAL AND STATUTORY BOUNDARIES: ALCOHOL, PETROLEUM AND ELECTRICITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 541.29
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 310.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1072,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gst Compensation: The Transition Bargain shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 189.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 122.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1106,
+      "heading": "Visual 30 - Compensation calculation logic",
+      "preview": "BASE-YEAR REVENUE: FY 2015-16",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 444.491
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1110,
+      "markdown_body_line_end": 1122,
+      "heading": "Visual 31 - Compensation timeline",
+      "preview": "2017 GST launch",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 422.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 301.491
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1135,
+      "heading": "Visual 32 - Separate four often-confused concepts",
+      "preview": "Concept | What it is | What it is not",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "What it is",
+          "What it is not"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 655.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1158,
+      "heading": "CLOSING RECALL FLOW - GST COMPENSATION: THE TRANSITION BARGAIN",
+      "preview": "START / CONCEPT: GST COMPENSATION: THE TRANSITION BARGAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 585.89
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 364.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mohit Minerals (2022) preserves both sides of the GST compact: legislatures retain Article 246A authority, while Council recommendations remain central to coordinated fiscal decision-making.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 244.09
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 177.422
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1207,
+      "heading": "Visual 33 - Case pathway",
+      "preview": "CIF IMPORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 566.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 435.691
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1217,
+      "heading": "Visual 34 - Exact holding matrix",
+      "preview": "Question | Holding | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Question",
+          "Holding",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 413.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 238.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1230,
+      "heading": "Visual 35 - Primary law versus delegated action",
+      "preview": "PARLIAMENT / STATE LEGISLATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1240,
+      "heading": "Visual 36 - Federal consequence of the judgment",
+      "preview": "Reading | Federal effect | Risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Reading",
+          "Federal effect",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 640.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 541.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1263,
+      "heading": "CLOSING RECALL FLOW - MOHIT MINERALS (2022)",
+      "preview": "START / CONCEPT: MOHIT MINERALS (2022)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 486.09
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 245.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1274,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cooperative, Competitive And Confrontational Federalism shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 105.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 38.622
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1299,
+      "heading": "Visual 37 - Pooled-sovereignty model",
+      "preview": "UNION gives up unilateral control over a fully central indirect-tax design",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1309,
+      "heading": "Visual 38 - Three operating modes",
+      "preview": "Mode | GST example | Value | Risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Mode",
+          "GST example",
+          "Value",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 361.99
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1313,
+      "markdown_body_line_end": 1320,
+      "heading": "Visual 39 - Gains and autonomy costs",
+      "preview": "Claimed gain | Named mechanism | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Claimed gain",
+          "Named mechanism",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 339.99
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 188.188
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1343,
+      "heading": "CLOSING RECALL FLOW - COOPERATIVE, COMPETITIVE AND CONFRONTATIONAL FEDERALISM",
+      "preview": "START / CONCEPT: COOPERATIVE, COMPETITIVE AND CONFRONTATIONAL FEDERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1354,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Recurring Conflicts And Article 279A(11) shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1375,
+      "markdown_body_line_end": 1381,
+      "heading": "Visual 40 - What clause (11) covers",
+      "preview": "Dispute pair | Within clause (11)?",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Dispute pair",
+          "Within clause (11)?"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1397,
+      "heading": "Visual 41 - Current institutional gap",
+      "preview": "CONSTITUTIONAL DUTY: establish intergovernmental adjudicatory mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 601.29
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 500.29
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1408,
+      "heading": "Conflict matrix",
+      "preview": "Conflict | Union concern | State concern | Balanced route",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Conflict",
+          "Union concern",
+          "State concern",
+          "Balanced route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 478.29
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 289.388
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1412,
+      "markdown_body_line_end": 1429,
+      "heading": "CLOSING RECALL FLOW - RECURRING CONFLICTS AND ARTICLE 279A(11)",
+      "preview": "START / CONCEPT: RECURRING CONFLICTS AND ARTICLE 279A(11)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 267.388
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 46.388
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1440,
+      "markdown_body_line_end": 1440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional Comparison shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1463,
+      "heading": "Visual 42 - GST Council, Finance Commission, Inter-State Council and Zonal Councils",
+      "preview": "Dimension | GST Council | Finance Commission | Inter-State Council | Zonal Councils",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "GST Council",
+          "Finance Commission",
+          "Inter-State Council",
+          "Zonal Councils"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 219.522
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1467,
+      "markdown_body_line_end": 1473,
+      "heading": "Visual 43 - Which institution answers which question?",
+      "preview": "GST RATE / EXEMPTION / MODEL LAW? ---------- GST COUNCIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1479,
+      "markdown_body_line_end": 1496,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONAL COMPARISON",
+      "preview": "START / CONCEPT: INSTITUTIONAL COMPARISON",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 670.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 449.891
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1507,
+      "markdown_body_line_end": 1507,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accountability And Reform Agenda shows how pooled tax sovereignty operates through constitutional competence, negotiation and statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 329.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 262.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1527,
+      "markdown_body_line_end": 1537,
+      "heading": "Visual 44 - Reform matrix",
+      "preview": "Proposal | Problem addressed | Safeguard/qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Proposal",
+          "Problem addressed",
+          "Safeguard/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 465.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1548,
+      "heading": "Visual 45 - Safe current-affairs writing protocol",
+      "preview": "1. NAME OFFICIAL MEETING + DATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 443.29
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 372.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1569,
+      "heading": "CLOSING RECALL FLOW - ACCOUNTABILITY AND REFORM AGENDA",
+      "preview": "START / CONCEPT: ACCOUNTABILITY AND REFORM AGENDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 350.29
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 129.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1574,
+      "markdown_body_line_end": 1579,
+      "heading": "Visual 46 - Claim-evidence-analysis-qualification unit",
+      "preview": "Step | GST Council example",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Step",
+          "GST Council example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 653.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1583,
+      "markdown_body_line_end": 1587,
+      "heading": "Visual 47 - Mark-scaled structure",
+      "preview": "Marks | Architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 631.89
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 532.488
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1591,
+      "markdown_body_line_end": 1597,
+      "heading": "Visual 48 - Directive map",
+      "preview": "Directive | What examiner expects",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "What examiner expects"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 510.488
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 379.887
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1614,
+      "heading": "Visual 49 - High-risk trap board",
+      "preview": "Wrong claim | Controlled correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Wrong claim",
+          "Controlled correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 357.887
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 78.885
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1618,
+      "markdown_body_line_end": 1626,
+      "heading": "Visual 50 - Current-control board, 5 September 2026",
+      "preview": "Field | Safe statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Field",
+          "Safe statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 569.49
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2325,
+      "markdown_body_line_end": 2331,
+      "heading": "Visual 51 - PYQ route audit",
+      "preview": "Year | Stage/paper | Directness | Package treatment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Stage/paper",
+          "Directness",
+          "Package treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 658.89
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2386,
+      "markdown_body_line_end": 2390,
+      "heading": "Demand decoding",
+      "preview": "Part | Required response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Part",
+          "Required response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 470.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 382.29
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2478,
+      "markdown_body_line_end": 2482,
+      "heading": "Demand decoding",
+      "preview": "Demand | Evidence route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Demand",
+          "Evidence route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 498.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 409.89
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2951,
+      "markdown_body_line_end": 2954,
+      "heading": "GST Council (Article 279A) - ADVANCED / COMPLETE",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II / GS-III **Grounded in:** Indian Polity by M. Laxmikant, Ch. 46 (direct check of the local Sixth Revised Edition PDF) + official GST Council update. ✅ = from source",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 726.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 653.024
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2970,
+      "markdown_body_line_end": 2974,
+      "heading": "PART B - COMPOSITION ⭐",
+      "preview": "Member | Role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Member",
+          "Role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 478.624
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 390.422
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2981,
+      "markdown_body_line_end": 2986,
+      "heading": "PART C - WORKING (voting maths) ⭐⭐",
+      "preview": "Rule | Value",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Rule",
+          "Value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 344.722
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 235.32
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3040,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 306.791
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 240.124
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3046,
+      "markdown_body_line_end": 3048,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 188.524
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 91.622
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3054,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 768.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 723.424
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3069,
+      "markdown_body_line_end": 3073,
+      "heading": "Visual 52 - Three-article rapid spine",
+      "preview": "246A = POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 24
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 526.024
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 485.024
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3092,
+      "markdown_body_line_end": 3096,
+      "heading": "Visual 53 - Membership and support distinction",
+      "preview": "Constitutional voter/member | Administrative support",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Constitutional voter/member",
+          "Administrative support"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 241.024
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 152.822
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3114,
+      "markdown_body_line_end": 3119,
+      "heading": "Visual 54 - Four-number memory board",
+      "preview": "Number | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Number",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 580.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 471.09
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3130,
+      "markdown_body_line_end": 3138,
+      "heading": "Visual 55 - Legal effect recall",
+      "preview": "COUNCIL RECOMMENDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 352.29
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 271.29
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3157,
+      "heading": "Tax-mechanics distinctions",
+      "preview": "Confusion | Correct recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Confusion",
+          "Correct recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 587.89
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3172,
+      "markdown_body_line_end": 3179,
+      "heading": "Visual 56 - Case recall",
+      "preview": "Proposition | Status",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Proposition",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 395.49
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 243.688
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3195,
+      "markdown_body_line_end": 3201,
+      "heading": "Institutional comparison recall",
+      "preview": "Body | One-line function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Body",
+          "One-line function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3243,
+      "markdown_body_line_end": 3264,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Pre-GST fragmentation and the 101st Amendment compact",
+      "preview": "PRE-GST PROBLEM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 612.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 397.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3289,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Articles 246A, 269A and the dual-GST architecture",
+      "preview": "INTRA-STATE SUPPLY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 375.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 160.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3293,
+      "markdown_body_line_end": 3312,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: IGST, place of supply and destination settlement",
+      "preview": "INTER-STATE SUPPLY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3316,
+      "markdown_body_line_end": 3322,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Article 279A composition and institutional support",
+      "preview": "COMPOSITION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3326,
+      "markdown_body_line_end": 3341,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Quorum, voting weights and coalition arithmetic",
+      "preview": "QUORUM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 332.891
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3345,
+      "markdown_body_line_end": 3368,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Council functions and recommendation-to-law chain",
+      "preview": "INSTITUTIONAL SUPPORT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 310.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 75.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3372,
+      "markdown_body_line_end": 3395,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Alcohol, petroleum, electricity and tax-base boundaries",
+      "preview": "ALCOHOLIC LIQUOR FOR HUMAN CONSUMPTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3399,
+      "markdown_body_line_end": 3419,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Compensation bargain, pandemic loans and June 2022 boundary",
+      "preview": "COMPENSATION ACT, 2017",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 529.891
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3423,
+      "markdown_body_line_end": 3444,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Mohit Minerals (2022): persuasion and statute-bound delegated action",
+      "preview": "Mohit Minerals (2022)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 88.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3448,
+      "markdown_body_line_end": 3462,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Article 279A(11), accountability and dispute design",
+      "preview": "ARTICLE 279A(11)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3466,
+      "markdown_body_line_end": 3490,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Federal gains, autonomy costs and institutional comparisons",
+      "preview": "GST COUNCIL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 23,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3494,
+      "markdown_body_line_end": 3517,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current controls, PYQ routes and answer spine",
+      "preview": "DATED ANCHORS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 354.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 118.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    }
+  ]
+}

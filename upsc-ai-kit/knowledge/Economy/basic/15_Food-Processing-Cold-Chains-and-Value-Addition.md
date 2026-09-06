@@ -311,3 +311,27 @@ therefore [qualified, directive-matching conclusion]."
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Food processing adds value through sorting, grading, storage, transformation, packaging, cold-chain logistics, standards and market linkage, connecting farm supply with industry, exports and nutrition.
+- **Indispensable distinction and prerequisite taxonomy:** Processing is not only manufacturing, cold storage is not an end-to-end cold chain, installed capacity is not utilisation, reduced loss is not automatically farmer income, and approval is not operational plant.
+- **Mechanism, implementation and evidence control:** Use commodity-specific chain, temperature/quality requirement, capacity unit and date; map farmer/FPO, processor, logistics, regulator and consumer while testing finance, scale, standards, waste and distribution of value.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The live MoFPI pages were thin shells in the fetcher. Scheme identities are retained, but all capacity, project, outlay, sanction, disbursal and employment quantities remain omitted unless tied to a dated repository-owner source. Sources: https://www.mofpi.gov.in/Schemes/pradhan-mantri-kisan-sampada-yojana; https://www.mofpi.gov.in/en/Schemes/cold-chain
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on government policy, food-processing challenges and opportunities, farmer income, sector scope and employment generation. The objective palm-oil demand is cross-routed and answer-key neutral; no origin, use or biodiesel option is inferred.

@@ -1,0 +1,4396 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\polity-07_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\polity-07_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Fundamental Rights - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-07` **Generation identity:** `polity-07:learner-v2:g16` · generated 28 August 2026 · supersedes `polity-07:learner-v2:g15`; all earlier generations remain immutable **Approval",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 639.024
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 388.822
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\polity-07_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 673.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 365.556
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "Official live-status decision - checked through 28 August 2026",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CURRENT CASES):** Current Part III analysis must be date-bounded: Electoral Bonds protects political-funding information, Davinder Singh (2024) permits evidence-based Scheduled Caste sub-cla",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 614.024
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 145,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Paper outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Paper outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 481.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 142.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 157,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part III is a constitutional operating system, not a bare catalogue: Articles 12-13 identify bound power and invalid law, Articles 14-30 secure six present rights, Article 32 supplies the remedy, and Articles 31A-35 plus 358-359 control exc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARCHITECTURE):** Part III is a constitutional operating system, not a bare catalogue: Articles 12-13 identify bound power and invalid law, Articles 14-30 secure six present rights, Article 3",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 347.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 172,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 347.756
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 174,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Part III is a connected design: Articles 12-13 open the gate, rights occupy Articles 14-30, Article 32 enforces them, and special clauses discipline immunity or suspension.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\01_part_iii_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 317.288
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 492.665
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 185,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "identify the right → identify its beneficiary and respondent → locate the exact permitted restriction → apply the judicial test → choose the remedy → state any saving or Emergency caveat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 357.065
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 312.398
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 196,
+      "heading": "Six rights and their Article spans",
+      "preview": "Right | Articles | Core exam question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Right",
+          "Articles",
+          "Core exam question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 290.398
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 82.596
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 198,
+      "markdown_body_line_end": 198,
+      "heading": "Six rights and their Article spans",
+      "preview": "**UPSC trap:** Articles 12-13 and 31A-35 are in Part III, but they are not separately counted among the six present Fundamental Rights.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 82.596
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 37.928
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 219,
+      "heading": "CLOSING RECALL FLOW - PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND SPECIAL CONTROLS",
+      "preview": "START / CONCEPT: Part III as an architecture: rights, limits, remedies and special controls",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 304
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fundamental-right analysis must separate beneficiary from respondent: some guarantees belong only to citizens, many protect every person, and Articles 15(2), 17, 23 and 24 directly reach specified private conduct while positive duties may r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 243,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (BENEFICIARIES / HORIZONTALITY):** Fundamental-right analysis must separate beneficiary from respondent: some guarantees belong only to citizens, many protect every person, and Articles 15(2)",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 178.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 105.156
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 245,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 105.156
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 74.688
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 247,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Beneficiary language and the respondent axis are separate. A right may protect all persons yet remain mainly vertical, or may be citizen-specific yet reach private discrimination.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\02_beneficiary_horizontality_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 492.665
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 261,
+      "heading": "Citizen-only and person-protective guarantees",
+      "preview": "Provision | Textual beneficiary | Exam-safe formulation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Provision",
+          "Textual beneficiary",
+          "Exam-safe formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 470.665
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 176.864
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 278,
+      "markdown_body_line_end": 295,
+      "heading": "CLOSING RECALL FLOW - BENEFICIARIES, VERTICAL AND HORIZONTAL REACH, POSITIVE AND NEGATIVE DUTIES",
+      "preview": "START / CONCEPT: Beneficiaries, vertical and horizontal reach, positive and negative duties",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 293
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 637.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 396.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 306,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian Fundamental Rights are qualified but not defeasible at executive will: every restriction must rest on valid law, fit the exact constitutional ground, pursue a legitimate aim and remain rational, necessary, balanced and procedurally s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 271.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 190.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 319,
+      "markdown_body_line_end": 319,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (QUALIFIED RIGHTS / PROPORTIONALITY):** Indian Fundamental Rights are qualified but not defeasible at executive will: every restriction must rest on valid law, fit the exact constitutional gr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 682.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 321,
+      "markdown_body_line_end": 321,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 682.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 652.156
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 361,
+      "heading": "CLOSING RECALL FLOW - QUALIFIED RIGHTS, REASONABLE RESTRICTIONS AND PROPORTIONALITY",
+      "preview": "START / CONCEPT: Qualified rights, reasonable restrictions and proportionality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 355.156
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 124.156
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 372,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 12 looks beyond legal form to governmental domination: an entity may be State when its financial, functional and administrative relationship reveals pervasive governmental control, while Article 226 may separately reach a non-State ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 385,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 12):** Article 12 looks beyond legal form to governmental domination: an entity may be State when its financial, functional and administrative relationship reveals pervasive governme",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 347.756
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 347.756
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 389,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 12 begins with express bodies and then asks whether an 'other authority' is functionally an instrumentality or agency of government.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\03_article_12_state_test.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 317.288
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "Article 12 versus Article 226",
+      "preview": "**UPSC trap:** registration as a society or company neither automatically includes nor excludes a body from Article 12.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 137.865
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 107.398
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 423,
+      "markdown_body_line_end": 440,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 12 - THE STATE AND THE INSTRUMENTALITY INQUIRY",
+      "preview": "START / CONCEPT: Article 12 - the State and the instrumentality inquiry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 299
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 13 converts rights into judicially enforceable limits by defining law broadly and using severability, eclipse and non-waiver, while constitutional amendments are reviewed through Article 368 and the basic-structure boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 464,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 13):** Article 13 converts rights into judicially enforceable limits by defining law broadly and using severability, eclipse and non-waiver, while constitutional amendments are revie",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 157.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 98.156
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 466,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 98.156
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 67.688
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 468,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 13 defines law broadly, invalidates inconsistency to its extent, and operates through severability, eclipse, non-waiver and carefully used prospective overruling.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\04_article_13_doctrine_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 492.665
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 511,
+      "heading": "Constitutional amendments and basic structure",
+      "preview": "Stage | Proposition",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Proposition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 623.09
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 534,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 13 - LAW, JUDICIAL REVIEW AND THE VOIDNESS DOCTRINES",
+      "preview": "START / CONCEPT: Article 13 - law, judicial review and the voidness doctrines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 567.69
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 326.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 545,
+      "markdown_body_line_end": 545,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 300A is a constitutional right, though not a Fundamental Right.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 215.29
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 162.822
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 558,
+      "markdown_body_line_end": 558,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (PROPERTY / EMERGENCY CORE):** The Forty-fourth Amendment moved property from Part III to the constitutional guarantee in Article 300A and made Articles 20 and 21 non-derogable from an Articl",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 560,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 696.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 666.356
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 569,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Former Fundamental Right | Present Article 300A position",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Former Fundamental Right",
+          "Present Article 300A position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 632.956
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 501.154
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 575,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Rapid recall:** property moved out of Part III; criminal safeguards and life/personal liberty became non-derogable under Article 359.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 434.354
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 389.687
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 596,
+      "heading": "CLOSING RECALL FLOW - RIGHT TO PROPERTY TRANSITION AND THE NON-DEROGABLE EMERGENCY CORE",
+      "preview": "START / CONCEPT: Right to property transition and the non-derogable Emergency core",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 354.687
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 143.687
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "classification tests the structure of differentiation; arbitrariness tests irrational, capricious or disproportionate State power even where a neat class is difficult to identify.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 620,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 14):** Article 14 combines equality before law with equal protection: it permits reasonable classification only through intelligible differentia and rational nexus, and independently",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 390.356
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 622,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 390.356
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 359.888
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 624,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Articles 14-18 form a code against privilege, exclusion, caste hierarchy and artificial rank, while permitting carefully designed substantive equality.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\05_equality_code.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 359.888
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 59.262
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 628,
+      "markdown_body_line_end": 631,
+      "heading": "Twin concepts",
+      "preview": "Concept | Source | Nature | Meaning",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Concept",
+          "Source",
+          "Nature",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 701.39
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 651,
+      "markdown_body_line_end": 651,
+      "heading": "From classification to arbitrariness",
+      "preview": "classification tests the structure of differentiation; arbitrariness tests irrational, capricious or disproportionate State power even where a neat class is difficult to identify.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 506.59
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 461.922
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 679,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 14 - TWIN EQUALITY, CLASSIFICATION AND ANTI-ARBITRARINESS",
+      "preview": "START / CONCEPT: Article 14 - twin equality, classification and anti-arbitrariness",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 349.122
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 128.122
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 690,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 15(4) and 16(4) are not grudging exceptions to equality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 703,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLES 15-16):** Articles 15 and 16 move equality from non-discrimination to substantive opportunity by prohibiting exact grounds yet authorising carefully targeted special provisions and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 477.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 418.756
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 705,
+      "markdown_body_line_end": 705,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 418.756
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 388.288
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 725,
+      "heading": "Enabling clauses under Article 15",
+      "preview": "Clause | Constitutional purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Clause",
+          "Constitutional purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 228.888
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 108.287
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 740,
+      "heading": "Article 16",
+      "preview": "Clause | Function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Clause",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 753.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 602.09
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 763,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 15 AND 16 - NON-DISCRIMINATION AND PROTECTIVE DISCRIMINATION",
+      "preview": "START / CONCEPT: Articles 15 and 16 - non-discrimination and protective discrimination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 519.49
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 308.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 774,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reservation is a technique of substantive equality, but its design remains evidence-based, reviewable and attentive to creamy-layer exclusion, representation, promotion conditions, backlog treatment, EWS text and administrative efficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 168.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 87.822
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 787,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (RESERVATION CONTROL):** Reservation is a technique of substantive equality, but its design remains evidence-based, reviewable and attentive to creamy-layer exclusion, representation, promoti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 625.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 789,
+      "markdown_body_line_end": 789,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 625.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 594.556
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 791,
+      "markdown_body_line_end": 791,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Reservation doctrine is a timeline of constitutional amendments and judicial controls, culminating in the 2024 permission for evidence-based SC sub-classification.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\06_reservation_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 594.556
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 283.93
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 868,
+      "heading": "CLOSING RECALL FLOW - RESERVATION DOCTRINE: CREAMY LAYER, CEILING, PROMOTION, EFFICIENCY, EWS AND SC SUB-CLASSIFICATION",
+      "preview": "START / CONCEPT: Reservation doctrine: creamy layer, ceiling, promotion, efficiency, EWS and SC sub-classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 17 and 18 attack inherited civic hierarchy horizontally and symbolically: untouchability is abolished and punishable, while titles are prohibited without invalidating military, academic or properly used national distinctions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 332.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 892,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLES 17-18):** Articles 17 and 18 attack inherited civic hierarchy horizontally and symbolically: untouchability is abolished and punishable, while titles are prohibited without invalida",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 159.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 100.956
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 894,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 100.956
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 70.488
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 914,
+      "heading": "Article 18",
+      "preview": "Clause | Rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Clause",
+          "Rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 606.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 496.89
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 918,
+      "heading": "Article 18",
+      "preview": "**UPSC trap:** Article 17 belongs to the Right to Equality, not the Right against Exploitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 463.49
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 433.022
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 922,
+      "markdown_body_line_end": 939,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES",
+      "preview": "START / CONCEPT: Articles 17 and 18 - anti-untouchability and anti-title guarantees",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 411.022
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 180.022
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 950,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 19 protects six citizen freedoms through clause-specific discipline: the State must identify the exact restriction clause and closed ground, after which reasonableness and proportionality test the means.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 963,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 19):** Article 19 protects six citizen freedoms through clause-specific discipline: the State must identify the exact restriction clause and closed ground, after which reasonableness",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 510.956
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 965,
+      "markdown_body_line_end": 965,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 510.956
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 480.488
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 967,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Each Article 19 freedom has a matching restriction clause. The grounds are not interchangeable.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\07_article_19_restriction_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 480.488
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 179.862
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 986,
+      "heading": "Exact grounds",
+      "preview": "Freedom | Restriction clause | Exact constitutional grounds",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Freedom",
+          "Restriction clause",
+          "Exact constitutional grounds"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1010,
+      "markdown_body_line_end": 1027,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 19 - SIX FREEDOMS AND EXACT RESTRICTION GROUNDS",
+      "preview": "START / CONCEPT: Article 19 - six freedoms and exact restriction grounds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 318.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 97.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1038,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State of Madras (1950): circulation is part of speech; the ban failed under the original narrow Article 19(2).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1051,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Free-speech doctrine moved from the 1950 press cases to reasonableness, incitement, digital safeguards and a differently drafted successor criminal provision.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\08_speech_doctrine_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 477.624
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 166.998
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1081,
+      "heading": "Right to know",
+      "preview": "information → informed voting → political equality and accountable government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 546.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 516.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1085,
+      "markdown_body_line_end": 1102,
+      "heading": "CLOSING RECALL FLOW - SPEECH, PRESS, RIGHT TO KNOW AND THE FIRST AMENDMENT SETTLEMENT",
+      "preview": "START / CONCEPT: Speech, press, right to know and the First Amendment settlement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 481.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 270.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1113,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "\"sedition was simply renamed\" is inaccurate; and \"all sedition-type criminalisation disappeared\" is also inaccurate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 130.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 77.956
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1173,
+      "heading": "CLOSING RECALL FLOW - SEDITION LINEAGE, BNS SECTION 152 AND SPEECH-INCITEMENT DISCIPLINE",
+      "preview": "START / CONCEPT: Sedition lineage, BNS section 152 and speech-incitement discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1184,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "[CURRENT] The current criminal provision is BNS section 356, not the repealed IPC sections 499-500.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1206,
+      "markdown_body_line_end": 1206,
+      "heading": "Shreya Singhal (2015)",
+      "preview": "**Trap:** *Shreya Singhal (2015)* did not strike down all blocking powers and did not declare the internet itself a Fundamental Right.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1247,
+      "heading": "CLOSING RECALL FLOW - DIGITAL SPEECH: SHREYA SINGHAL (2015), INTERNET SHUTDOWNS AND CRIMINAL DEFAMATION",
+      "preview": "START / CONCEPT: Digital speech: Shreya Singhal (2015), internet shutdowns and criminal defamation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 345
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 445.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 204.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1258,
+      "markdown_body_line_end": 1258,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 20 creates three person-protective criminal shields against retrospective penal liability, repeated prosecution-and-punishment for the same offence, and compelled testimonial self-incrimination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1271,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 20):** Article 20 creates three person-protective criminal shields against retrospective penal liability, repeated prosecution-and-punishment for the same offence, and compelled test",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 510.956
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1273,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 510.956
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 480.488
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1275,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 20 contains three criminal-law safeguards and, with Article 21, remains enforceable during an Article 359 order.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\09_article_20_safeguards.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 480.488
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 179.862
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1322,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 20 - EX POST FACTO LAW, DOUBLE JEOPARDY AND SELF-INCRIMINATION",
+      "preview": "START / CONCEPT: Article 20 - ex post facto law, double jeopardy and self-incrimination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 577.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1333,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 21 became a dignity charter when Maneka Gandhi (1978) required fair, just and reasonable procedure and linked liberty with Articles 14 and 19, enabling named protections without turning every policy aspiration into an unlimited enti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 226.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 145.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1346,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 21):** Article 21 became a dignity charter when Maneka Gandhi (1978) required fair, just and reasonable procedure and linked liberty with Articles 14 and 19, enabling named protectio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 679.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1348,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 679.624
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 649.156
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1350,
+      "markdown_body_line_end": 1350,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 21 expanded from a narrow procedural guarantee into a dignity charter through Maneka Gandhi (1978) and named substantive holdings.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\10_article_21_expansion_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 649.156
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 348.53
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1382,
+      "heading": "Life means dignified life",
+      "preview": "Right/dimension | Authority | Exact proposition and limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Right/dimension",
+          "Authority",
+          "Exact proposition and limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 301.49
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1388,
+      "markdown_body_line_end": 1405,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 21 - A.K. GOPALAN (1950) TO MANEKA GANDHI (1978): FAIR PROCEDURE AND THE DIGNITY CHARTER",
+      "preview": "START / CONCEPT: Article 21 - A.K. Gopalan (1950) to Maneka Gandhi (1978): fair procedure and the dignity charter",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1416,
+      "markdown_body_line_end": 1416,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "843(E), as of 21 August 2026 the definition and Data Protection Board/institutional provisions specified in the notification are operative.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 383.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 316.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1489,
+      "heading": "CLOSING RECALL FLOW - PRIVACY, PROPORTIONALITY, DNA TESTING AND DATA PROTECTION",
+      "preview": "START / CONCEPT: Privacy, proportionality, DNA testing and data protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 292.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 81.091
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1500,
+      "markdown_body_line_end": 1500,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 21A demonstrates a shift from judge-developed Article 21 content to an express, age-bounded Fundamental Right implemented by statute.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1513,
+      "markdown_body_line_end": 1513,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 21A):** Article 21A constitutionalises free and compulsory education for children aged six to fourteen, implemented by the RTE Act while preserving the distinct Article 30 position o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 376.156
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1515,
+      "markdown_body_line_end": 1515,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 376.156
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 345.688
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1536,
+      "markdown_body_line_end": 1553,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 21A - EDUCATION AS A FUNDAMENTAL RIGHT",
+      "preview": "START / CONCEPT: Article 21A - education as a Fundamental Right",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1564,
+      "markdown_body_line_end": 1564,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 22 separates ordinary arrest from preventive detention: the first carries grounds, counsel and twenty-four-hour production safeguards, while the second follows a distinct regime whose current no-Advisory-Board ceiling remains three ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 307.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1577,
+      "markdown_body_line_end": 1577,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 22):** Article 22 separates ordinary arrest from preventive detention: the first carries grounds, counsel and twenty-four-hour production safeguards, while the second follows a disti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 134.424
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 75.556
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1579,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 75.556
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 45.088
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1581,
+      "markdown_body_line_end": 1581,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 22 separates ordinary arrest from preventive detention; importing one branch's safeguards into the other creates predictable errors.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\11_arrest_preventive_detention_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1620,
+      "markdown_body_line_end": 1637,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 22 - ORDINARY ARREST, PREVENTIVE DETENTION AND THE UNENFORCED 44TH AMENDMENT CLAUSE",
+      "preview": "START / CONCEPT: Article 22 - ordinary arrest, preventive detention and the unenforced 44th Amendment clause",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 276
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1648,
+      "markdown_body_line_end": 1648,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 24's text is narrower than a complete ban on every kind of child work, while the amended statute creates broader prohibitions and defined exceptions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 413.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1661,
+      "markdown_body_line_end": 1661,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLES 23-24):** Articles 23-24 constitutionalise labour dignity against State and private exploitation: trafficking, begar (forced unpaid labour), economically compelled forced labour and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 174.024
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 115.156
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1663,
+      "markdown_body_line_end": 1663,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 115.156
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 84.688
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1694,
+      "markdown_body_line_end": 1711,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 23-24 - EXPLOITATION, FORCED LABOUR AND CHILD LABOUR",
+      "preview": "START / CONCEPT: Articles 23-24 - exploitation, forced labour and child labour",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 471.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 250.891
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1722,
+      "markdown_body_line_end": 1722,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian religious freedom protects conscience and denominational autonomy while permitting public-order, health, morality, secular-regulation and social-reform controls; the governing model is principled distance, not either theocracy or an ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1735,
+      "markdown_body_line_end": 1735,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLES 25-28):** Indian religious freedom protects conscience and denominational autonomy while permitting public-order, health, morality, secular-regulation and social-reform controls; th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 555.624
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 496.756
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1737,
+      "markdown_body_line_end": 1737,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 496.756
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 466.288
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1739,
+      "markdown_body_line_end": 1739,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Religious freedom requires four separate questions: individual conscience, denominational autonomy, taxation and institutional religious instruction.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\12_religion_erp_principled_distance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 466.288
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 155.662
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1786,
+      "markdown_body_line_end": 1786,
+      "heading": "Article 27",
+      "preview": "**Trap:** Article 27 distinguishes a tax for religious promotion from a regulatory fee or a general tax whose expenditure may incidentally benefit religious institutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 290.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 246.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1790,
+      "markdown_body_line_end": 1795,
+      "heading": "Article 28",
+      "preview": "Institution | Religious instruction position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Religious instruction position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 224.224
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 103.622
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1810,
+      "markdown_body_line_end": 1827,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 25-28 - CONSCIENCE, DENOMINATION, SECULAR REGULATION AND PRINCIPLED DISTANCE",
+      "preview": "START / CONCEPT: Articles 25-28 - conscience, denomination, secular regulation and principled distance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 283
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 683.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1838,
+      "markdown_body_line_end": 1838,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 29-30 protect cultural conservation, non-discriminatory admission and minority educational autonomy, but Article 29 is not minority-exclusive and Article 30 protects administration rather than maladministration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 292.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 225.824
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1851,
+      "markdown_body_line_end": 1851,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLES 29-30):** Articles 29-30 protect cultural conservation, non-discriminatory admission and minority educational autonomy, but Article 29 is not minority-exclusive and Article 30 prote",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1853,
+      "markdown_body_line_end": 1853,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 713.956
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1855,
+      "markdown_body_line_end": 1855,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 29 protects sections of citizens and non-discriminatory admission; Article 30 specifically protects religious and linguistic minority institutions.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\13_minority_rights_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 713.956
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 413.33
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1880,
+      "markdown_body_line_end": 1880,
+      "heading": "Governing cases",
+      "preview": "**Qualified rule:** Article 30 protects administration, not maladministration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 74.93
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 44.462
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1888,
+      "markdown_body_line_end": 1905,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 29-30 - CULTURAL CONSERVATION AND MINORITY EDUCATIONAL AUTONOMY",
+      "preview": "START / CONCEPT: Articles 29-30 - cultural conservation and minority educational autonomy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 718.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 487.891
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1916,
+      "markdown_body_line_end": 1916,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 32 makes the Supreme Court a guaranteed Fundamental-Rights forum, while Article 226 is wider in subject matter and public-duty reach; the correct writ follows the defect—detention, unperformed duty, threatened excess, defective orde",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 272.024
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1929,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARTICLE 32 / WRITS):** Article 32 makes the Supreme Court a guaranteed Fundamental-Rights forum, while Article 226 is wider in subject matter and public-duty reach; the correct writ follows ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 113.424
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 40.356
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1931,
+      "markdown_body_line_end": 1931,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1933,
+      "markdown_body_line_end": 1933,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Choose a writ from the defect: detention, unperformed public duty, threatened jurisdictional excess, an illegal order or unlawful occupation of public office.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\14_writ_selection_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 772.824
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 462.198
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1941,
+      "markdown_body_line_end": 1947,
+      "heading": "Five writs",
+      "preview": "Writ | Defect cured | Key limits",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Writ",
+          "Defect cured",
+          "Key limits"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 378.398
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 169.396
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1951,
+      "markdown_body_line_end": 1956,
+      "heading": "Article 32 versus Article 226",
+      "preview": "Dimension | Supreme Court, Article 32 | High Court, Article 226",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Supreme Court, Article 32",
+          "High Court, Article 226"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1966,
+      "markdown_body_line_end": 1983,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 32 AND THE FIVE WRITS",
+      "preview": "START / CONCEPT: Article 32 and the five writs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 297
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 546.69
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 305.69
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1994,
+      "markdown_body_line_end": 1994,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 31A-31C, 33-35 create defined constitutional controls rather than rights-free zones: their field, purpose and legislative competence remain text-bound and subject to basic-structure review where applicable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 151.69
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 85.022
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2007,
+      "markdown_body_line_end": 2007,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (SAVING / CONTROL PROVISIONS):** Articles 31A-31C, 33-35 create defined constitutional controls rather than rights-free zones: their field, purpose and legislative competence remain text-boun",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 669.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 610.824
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2009,
+      "markdown_body_line_end": 2009,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 610.824
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 580.356
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2011,
+      "markdown_body_line_end": 2011,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Saving clauses protect defined fields, while Emergency clauses separately govern temporary enforceability. Neither creates a general rights-free zone.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\15_saving_clauses_emergency_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 580.356
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 269.73
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2025,
+      "markdown_body_line_end": 2025,
+      "heading": "Article 31B and the Ninth Schedule",
+      "preview": "**Trap:** Ninth Schedule placement is not absolute immunity after *I.R. Coelho (2007)*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 97.13
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 66.662
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2042,
+      "markdown_body_line_end": 2059,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 31A, 31B AND 31C - SAVING PROVISIONS WITHOUT BLANKET IMMUNITY",
+      "preview": "START / CONCEPT: Articles 31A, 31B and 31C - saving provisions without blanket immunity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 583.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 372.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2070,
+      "markdown_body_line_end": 2070,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Martial law does not automatically erase habeas corpus or create unlimited military power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 265.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 213.224
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2110,
+      "markdown_body_line_end": 2116,
+      "heading": "Martial law versus National Emergency",
+      "preview": "Dimension | Martial law | National Emergency",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Martial law",
+          "National Emergency"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 503.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 361.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2122,
+      "markdown_body_line_end": 2139,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 33-35 AND MARTIAL LAW",
+      "preview": "START / CONCEPT: Articles 33-35 and martial law",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 320.69
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 99.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2150,
+      "markdown_body_line_end": 2150,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 358 automatically displaces Article 19 constraints only during war or external-aggression Emergency within its conditions, whereas Article 359 requires a Presidential order suspending court enforcement of specified rights and can ne",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2163,
+      "markdown_body_line_end": 2163,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (EMERGENCY):** Article 358 automatically displaces Article 19 constraints only during war or external-aggression Emergency within its conditions, whereas Article 359 requires a Presidential o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 347.756
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2165,
+      "markdown_body_line_end": 2165,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CONTENT CLASSIFICATION:** CORE PRELIMS + CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 347.756
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 317.288
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2190,
+      "markdown_body_line_end": 2195,
+      "heading": "358 versus 359",
+      "preview": "Point | Article 358 | Article 359",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Point",
+          "Article 358",
+          "Article 359"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 677.89
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2197,
+      "markdown_body_line_end": 2197,
+      "heading": "358 versus 359",
+      "preview": "**UPSC trap:** \"All Fundamental Rights are automatically suspended in Emergency\" is wrong.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 677.89
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 647.422
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2201,
+      "markdown_body_line_end": 2218,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 358 AND 359 - TWO DIFFERENT EMERGENCY MECHANISMS",
+      "preview": "START / CONCEPT: Articles 358 and 359 - two different Emergency mechanisms",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 299
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 625.422
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 374.422
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2221,
+      "markdown_body_line_end": 2221,
+      "heading": "27. Current-law dashboard - securely verified positions only",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CURRENT CASES):** Current Part III analysis must be date-bounded: Electoral Bonds protects political-funding information, Davinder Singh (2024) permits evidence-based Scheduled Caste sub-cla",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 349.422
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 262.154
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2223,
+      "markdown_body_line_end": 2223,
+      "heading": "27. Current-law dashboard - securely verified positions only",
+      "preview": "**CONTENT CLASSIFICATION:** CURRENT-LAW CONTROL",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 262.154
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 231.687
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2225,
+      "markdown_body_line_end": 2233,
+      "heading": "27. Current-law dashboard - securely verified positions only",
+      "preview": "Development | Settled proposition used | What this package does not claim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Development",
+          "Settled proposition used",
+          "What this package does not claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 495.89
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2237,
+      "markdown_body_line_end": 2253,
+      "heading": "28. Prelims close-option laboratory",
+      "preview": "Confusion pair | Correct elimination rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "Confusion pair",
+          "Correct elimination rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 470.89
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 38.688
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2257,
+      "markdown_body_line_end": 2257,
+      "heading": "29. GS-II answer architecture and qualified conclusions",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FINAL VERDICT):** Fundamental Rights are neither absolute liberties nor revocable State gifts: they are transformative, judicially enforceable guarantees whose legitimacy lies in exact text,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 726.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2259,
+      "markdown_body_line_end": 2259,
+      "heading": "29. GS-II answer architecture and qualified conclusions",
+      "preview": "**CONTENT CLASSIFICATION:** CORE MAINS",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 726.424
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 695.956
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2261,
+      "markdown_body_line_end": 2261,
+      "heading": "29. GS-II answer architecture and qualified conclusions",
+      "preview": "A high-scoring Fundamental Rights answer moves from thesis and exact text to doctrine, named evidence, competing interests, dated status and a graded verdict.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets\\16_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 695.956
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 385.33
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2275,
+      "markdown_body_line_end": 2279,
+      "heading": "Mark-scaled evidence load",
+      "preview": "Marks | Structure | Evidence density",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence density"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 209.73
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 99.128
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2294,
+      "markdown_body_line_end": 2299,
+      "heading": "Article 13 doctrines in the wider interpretation map",
+      "preview": "Doctrine | Trigger | Effect | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Doctrine",
+          "Trigger",
+          "Effect",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 603.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 434.39
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2315,
+      "markdown_body_line_end": 2323,
+      "heading": "Part XVI: identity of a class versus entitlement to a benefit",
+      "preview": "IDENTIFICATION OF CLASS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 288.79
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 207.79
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2385,
+      "heading": "Forty core diagnostic MCQs",
+      "preview": "Answer placement follows strict A → B → C → D rotation, repeated ten times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 761.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 730.824
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2859,
+      "heading": "Eight remedial MCQs",
+      "preview": "This separate eight-question remedial set rotates A → B → C → D twice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 335.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 304.624
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3574,
+      "markdown_body_line_end": 3574,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Optional:** The Core above is independently paper-complete. This section is for deeper 15/20-mark reasoning and unfamiliar hypotheticals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 295.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 250.424
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3656,
+      "markdown_body_line_end": 3667,
+      "heading": "Part III master map",
+      "preview": "Block | Function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Block",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 651.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 414.49
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3772,
+      "markdown_body_line_end": 3778,
+      "heading": "Article 19 exact matrix",
+      "preview": "Freedom | Limit",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Freedom",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 442.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 300.89
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3997,
+      "markdown_body_line_end": 3997,
+      "heading": "Mains answer spines",
+      "preview": "Article 14 twin concepts → classification + arbitrariness → enabling Articles 15/16 → named limit (*Indra Sawhney (1992)*, data, Article 335) → EWS/*Davinder* current layer → evidence-based substantive-equality verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 768.091
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 723.424
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4001,
+      "markdown_body_line_end": 4001,
+      "heading": "Mains answer spines",
+      "preview": "19(1)(a) + exact 19(2) grounds → 1950 cases/First Amendment → *Kedar Nath Singh (1962)* or *Shreya* → *Anuradha Bhasin (2020)* process → competing reputation/privacy → dated BNS/electoral-bond control → precise verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 704.224
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 659.556
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4005,
+      "markdown_body_line_end": 4005,
+      "heading": "Mains answer spines",
+      "preview": "*A.K. Gopalan (1950)* → *Cooper* → *Maneka Gandhi (1978)* → 4-6 named dignity rights with limits → *K.S. Puttaswamy (2017)* proportionality → institutional-floor qualification → living-Constitution verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 640.356
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 595.688
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4009,
+      "markdown_body_line_end": 4009,
+      "heading": "Mains answer spines",
+      "preview": "Articles 25-28 separate → individual/denomination → religious/secular → ERP + criticism → reform/equality limits → principled-distance verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 576.488
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 531.82
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4013,
+      "markdown_body_line_end": 4013,
+      "heading": "Mains answer spines",
+      "preview": "Article 32 as right → select writ by defect → Article 226 wider public-duty reach → standing/PIL only as needed → basic-structure and alternate-remedy qualification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 512.62
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 467.953
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4017,
+      "markdown_body_line_end": 4017,
+      "heading": "Mains answer spines",
+      "preview": "31A/31B/31C distinct → *I.R. Coelho (2007)* + *Property Owners Association (2024)* → 33-35 competence/discipline → martial law vs Emergency → 358 vs 359 → non-derogable 20/21 → narrow-exception verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 448.753
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 404.085
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4023,
+      "markdown_body_line_end": 4043,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Part III as an operating architecture, not a list",
+      "preview": "PART III",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 357.085
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 152.285
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4047,
+      "markdown_body_line_end": 4064,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 12 and 13: who is bound and what becomes void",
+      "preview": "ARTICLE 12 INQUIRY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4068,
+      "markdown_body_line_end": 4084,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Equality code and reservation doctrine",
+      "preview": "ARTICLE 14",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4088,
+      "markdown_body_line_end": 4104,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Article 19: six freedoms and restriction-ground discipline",
+      "preview": "ARTICLE 19(1), CITIZENS ONLY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 241.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4108,
+      "markdown_body_line_end": 4124,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Articles 20-22: criminal process, dignity and detention",
+      "preview": "ARTICLE 20: ALL PERSONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4128,
+      "markdown_body_line_end": 4148,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Exploitation, religion and minority autonomy",
+      "preview": "ARTICLES 23-24",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 396.491
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4152,
+      "markdown_body_line_end": 4166,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Article 32: writ remedies and the enforcement ladder",
+      "preview": "RIGHT VIOLATED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 374.491
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4170,
+      "markdown_body_line_end": 4187,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Saving clauses, property and amendment doctrine",
+      "preview": "ARTICLE 31A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4191,
+      "markdown_body_line_end": 4207,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Article 358 and 359: emergency effects are not the same",
+      "preview": "ARTICLE 358                         ARTICLE 359",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4211,
+      "markdown_body_line_end": 4227,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Current-law and verified PYQ control rail",
+      "preview": "CURRENT LAW — STATUS AT 28 AUGUST 2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 241.091
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4231,
+      "markdown_body_line_end": 4251,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Exact 10/15/20-mark architecture: liberty, limitation and remedy",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4255,
+      "markdown_body_line_end": 4264,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current Part III control: privacy, dignity and contested speech",
+      "preview": "DPDP G.S.R. 843(E)/846(E), 13 NOV 2025 -> phased commencement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 467.891
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1690 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Fundamental Duties - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-09` **Generation identity:** `polity-09:learner-v2:g4` · generated 28 August 2026 · supersedes `polity-09:learner-v2:g3`; g2 remains immutable **Approval:** false — explicit a",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 39,
+      "markdown_body_line_end": 52,
+      "heading": "LEARNING ROADMAP",
+      "preview": "Stage | Complete coverage | Paper outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Stage",
+          "Complete coverage",
+          "Paper outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 351.49
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 56,
+      "markdown_body_line_end": 65,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 326.49
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 76.288
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 93,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\polity-09_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 118.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 107,
+      "markdown_body_line_end": 107,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part IVA constitutionalised a citizen-side ethic, but its Emergency-era origin makes rights-compatible interpretation essential.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 120,
+      "markdown_body_line_end": 120,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Part IVA is the citizen-side constitutional ethic alongside enforceable Fundamental Rights and State-directed Directive Principles.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\01_constitutional_placement.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 463.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 162.798
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "Emergency-era insertion",
+      "preview": "The timeline separates the 1950 omission, Emergency context, 1976 insertion, 1999 operationalisation project and 2002 education duty.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\02_origin_amendment_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 582.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 282.265
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 162,
+      "markdown_body_line_end": 162,
+      "heading": "The 86th Amendment",
+      "preview": "**Close-option trap:** Swaran Singh recommended **8** -> 42nd Amendment enacted **10** -> 86th Amendment made the count **11**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 658.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 614.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 183,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL PLACEMENT, ORIGIN AND HISTORICAL CONTEXT",
+      "preview": "START / CONCEPT: Constitutional placement, origin and historical context",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 592.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 371.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 194,
+      "markdown_body_line_end": 194,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Marks depend on exact clause language and limits, not a one-word mnemonic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 231.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 178.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 207,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "All eleven clauses are mapped without reducing Article 51A to a one-word mnemonic.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\03_eleven_duty_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 469.265
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 223,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Clause | Constitutional duty | Exam-ready meaning and limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 11,
+        "headers": [
+          "Clause",
+          "Constitutional duty",
+          "Exam-ready meaning and limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 243.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 252,
+      "heading": "CLOSING RECALL FLOW - EXACT TEXT AND EXAM-READY MEANING OF ALL ELEVEN DUTIES",
+      "preview": "START / CONCEPT: Exact text and exam-ready meaning of all eleven duties",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 51A supplies constitutional purpose, not an automatic writ, offence or punishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 276,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Legal effect rises from constitutional ethic to interpretation, policy, valid legislation and only then a defined statutory offence.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\05_enforceability_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 215.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 308,
+      "heading": "Criminal-liability firewall",
+      "preview": "**Safe formulation:** Fundamental Duties are constitutionally authoritative but directly non-enforceable; they acquire concrete effect through valid laws, institutions and interpretation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 329,
+      "heading": "CLOSING RECALL FLOW - LEGAL CHARACTER: WHAT ARTICLE 51A CAN AND CANNOT DO",
+      "preview": "START / CONCEPT: Legal character: what Article 51A can and cannot do",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 719.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 508.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 340,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The rights-duties-DPSP relationship is balanced constitutionalism: rights protect agency, duties orient citizens and directives guide State purpose.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 387.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 320.956
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 354,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The triangle shows enforceable rights, State goals and citizen duties as complementary but non-substitutable constitutional limbs.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\04_rights_duties_dpsp_triangle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - RIGHTS-DUTIES-DPSP RELATIONSHIP",
+      "preview": "START / CONCEPT: Rights-Duties-DPSP relationship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 698.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 487.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional patriotism protects republican symbols and the freedom that gives them democratic meaning.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 347.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 295.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 432,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The case flow moves from respectful non-singing to expressive Flag display and the 2018 reversal of mandatory cinema-hall Anthem playing.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\07_national_symbols_case_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 464,
+      "heading": "Shyam Narayan Chouksey (2018) v. Union of India",
+      "preview": "**Qualified verdict:** Constitutional patriotism protects the symbols of the Republic while refusing to reduce patriotism to one compulsory performance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 661.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 617.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 485,
+      "heading": "CLOSING RECALL FLOW - NATIONAL SYMBOLS: RESPECT WITHOUT COMPELLED CONFORMITY",
+      "preview": "START / CONCEPT: National symbols: respect without compelled conformity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 595.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 496,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fraternity is constitutional only when it protects difference and equal dignity rather than silencing disagreement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 234.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 181.756
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 549,
+      "heading": "CLOSING RECALL FLOW - HARMONY, COMMON BROTHERHOOD AND DIGNITY OF WOMEN",
+      "preview": "START / CONCEPT: Harmony, common brotherhood and dignity of women",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 358.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 137.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 560,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Culture, inquiry and excellence are democratic capacities when joined to pluralism, correction and fair opportunity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 616,
+      "heading": "CLOSING RECALL FLOW - COMPOSITE CULTURE, SCIENTIFIC TEMPER AND EXCELLENCE",
+      "preview": "START / CONCEPT: Composite culture, scientific temper and excellence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 528.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 627,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Environment and compassion for living creatures form a shared constitutional ethic implemented through Article 48A, Article 21, statutes and citizen conduct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 389.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 322.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 640,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 51A(g) operates through Article 48A, environmental statutes, public education and evolving animal-welfare jurisprudence.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\08_environment_jurisprudence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 163.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "2023 Jallikattu constitutional development",
+      "preview": "**Current-law trap:** Cite *A. Nagaraja* for the strong 2014 welfare reading, but add the 2023 Constitution Bench control before stating the present Jallikattu position.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 661.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 617.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 695,
+      "heading": "CLOSING RECALL FLOW - ENVIRONMENT AND COMPASSION FOR LIVING CREATURES",
+      "preview": "START / CONCEPT: Environment and compassion for living creatures",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 595.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 706,
+      "markdown_body_line_end": 706,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Protecting public property strengthens democratic protest when law distinguishes dissent from violence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 248.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 195.956
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 737,
+      "markdown_body_line_end": 754,
+      "heading": "CLOSING RECALL FLOW - PUBLIC PROPERTY, NON-VIOLENCE AND DEMOCRATIC PROTEST",
+      "preview": "START / CONCEPT: Public property, non-violence and democratic protest",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 521.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 300.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 765,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Education under Articles 21A, 45 and 51A(k) distributes responsibility among the State, early-childhood policy and parents or guardians.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 160.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 94.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 778,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The 86th Amendment triad distributes education responsibility across the State, early-childhood policy and parents/guardians.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\09_education_triad.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 400.465
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 782,
+      "markdown_body_line_end": 786,
+      "heading": "The three provisions",
+      "preview": "Provision | Addressee | Age/field | Legal character",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Provision",
+          "Addressee",
+          "Age/field",
+          "Legal character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 378.465
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 282.564
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 821,
+      "heading": "CLOSING RECALL FLOW - EDUCATION: ARTICLE 21A, ARTICLE 45 AND ARTICLE 51A(K)",
+      "preview": "START / CONCEPT: Education: Article 21A, Article 45 and Article 51A(k)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 538.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 832,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Duty-by-duty operationalisation follows a chain from constitutional value to civic learning, institutional practice, valid law and accountable enforcement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 418.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 351.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 845,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The matrix distinguishes constitutional duties from illustrative laws and institutions that overlap with them.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\06_duty_statute_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 192.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 859,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Duty | Main operational route | Named examples | Essential caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Duty",
+          "Main operational route",
+          "Named examples",
+          "Essential caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 502.665
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 95.764
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 882,
+      "heading": "CLOSING RECALL FLOW - DUTY-BY-DUTY OPERATIONALISATION",
+      "preview": "START / CONCEPT: Duty-by-duty operationalisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 893,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Verma model makes citizenship learned and practised before it is penalised.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 906,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The Verma Committee model centres citizenship values and connects curriculum, teacher training, media, awareness, NGOs and existing-law compliance.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\10_verma_operationalisation_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 244.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 492.665
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 967,
+      "heading": "CLOSING RECALL FLOW - J.S. VERMA COMMITTEE, 1999",
+      "preview": "START / CONCEPT: J.S. Verma Committee, 1999",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 564.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 353.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 978,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Criticism, counterarguments and graded reform reject both decorative duties and blanket punishment in favour of rights-compatible operationalisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 214.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 147.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 991,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The argument tree rejects a false choice between total non-enforcement and blanket justiciability.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\11_justiciability_argument_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 437.865
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1054,
+      "heading": "CLOSING RECALL FLOW - CRITICISM, COUNTERARGUMENTS AND GRADED REFORM",
+      "preview": "START / CONCEPT: Criticism, counterarguments and graded reform",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 477.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 256.891
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1057,
+      "heading": "14. GS-II answer architecture and source discipline",
+      "preview": "A seven-step answer spine moves from definition and chronology to mechanism, rights balance, evidence, evaluation and a qualified verdict.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets\\12_mains_answer_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 231.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1075,
+      "heading": "Mark-scaled evidence",
+      "preview": "Marks | Structure | Evidence expectation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence expectation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 341.265
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 230.664
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1136,
+      "heading": "Original hard MCQs",
+      "preview": "Answer placement follows strict A → B → C → D rotation, repeated six times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 761.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 730.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1411,
+      "markdown_body_line_end": 1411,
+      "heading": "Remedial MCQs for common errors",
+      "preview": "Answer placement follows strict A → B → C → D rotation, repeated twice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 300.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 270.024
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1530,
+      "markdown_body_line_end": 1534,
+      "heading": "Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part",
+      "preview": "Provision in the Constitution of India | Stated under",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Provision in the Constitution of India",
+          "Stated under"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 413.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 291.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1840,
+      "markdown_body_line_end": 1840,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Optionality rule:** Core above is independently sufficient for Prelims and GS-II. This section adds reasoning depth, not missing facts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 171.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 127.024
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2053,
+      "markdown_body_line_end": 2074,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: From absent list to Part IVA and eleven citizen duties",
+      "preview": "ORIGINAL CONSTITUTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 195.491
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2078,
+      "markdown_body_line_end": 2097,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The eleven duties grouped for exact recall",
+      "preview": "CONSTITUTIONAL LOYALTY AND NATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2101,
+      "markdown_body_line_end": 2118,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Legal character: constitutional duty mediated by enforceable law",
+      "preview": "ARTICLE 51A APPLIES TO EVERY CITIZEN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 396.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2122,
+      "markdown_body_line_end": 2139,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Rights, duties and DPSP: three constitutional directions",
+      "preview": "PART III: RIGHTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 374.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 200.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2143,
+      "markdown_body_line_end": 2159,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Patriotism and symbols: respect without compelled conformity",
+      "preview": "ARTICLE 51A(a): RESPECT CONSTITUTION, INSTITUTIONS, FLAG AND ANTHEM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2163,
+      "markdown_body_line_end": 2182,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Citizenship domains and the education triad",
+      "preview": "CLAUSE   DOMAIN                  OPERATIVE DISTINCTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2186,
+      "markdown_body_line_end": 2201,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Verma Committee and the existing-law implementation web",
+      "preview": "J.S. VERMA COMMITTEE, 1999",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2205,
+      "markdown_body_line_end": 2222,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Criticism, enforceability debate and proportionate reform",
+      "preview": "CRITICISM                         RESPONSE / REFORM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2226,
+      "markdown_body_line_end": 2240,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Current legal status and evidence control",
+      "preview": "CURRENT STATUS — CHECK BEFORE THE EXAM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2244,
+      "markdown_body_line_end": 2259,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Prelims traps and verified PYQ routes",
+      "preview": "PRELIMS CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2263,
+      "markdown_body_line_end": 2281,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Executable 10, 15 and 20-mark answer routes",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2285,
+      "markdown_body_line_end": 2294,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current legal-status firewall: duty is not automatic liability",
+      "preview": "ARTICLE 51A -> constitutional duty, citizens only, non-justiciable",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    }
+  ]
+}

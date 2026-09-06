@@ -413,3 +413,35 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** compositional and rheological Earth layers; seismic evidence;
+  minerals and complete rock cycle; igneous, sedimentary and metamorphic
+  processes; continental drift, seafloor spreading, plate boundaries, isostasy,
+  orogeny and Wilson-cycle logic; India's cratons, mobile belts, basins, Deccan
+  volcanics, Himalaya and Indo-Gangetic foredeep.
+- **Process control:** source material → melting/weathering/deposition or
+  pressure-temperature change → texture/mineral assemblage → uplift/exposure →
+  renewed cycling. Plate motion is explained through boundary kinematics and
+  mantle/lithosphere interaction rather than one memorised driver.
+- **Scale/map control:** mineral, hand specimen, outcrop, terrane, plate and
+  physiographic-region scales are distinct. Rock age, tectonic event, present
+  relief and mineral occurrence are not assumed to share one boundary.
+- **Chronology control:** Precambrian craton assembly, Proterozoic basins,
+  Gondwana rifting/sedimentation, Deccan flood basalt, India-Eurasia collision
+  and continuing Himalayan deformation remain separate stages.
+- **Terminology control:** crust differs from lithosphere; shield from craton
+  and platform; plate from continent; fold from fault-block mountain; magma
+  from lava; texture, structure, composition and origin are not synonyms.
+- **Causal control:** geological association supports a probability, not
+  deterministic mineral or hazard prediction. Ages, thicknesses and rates are
+  approximate unless attached to a named official map/publication and scale.
+- **Boundary:** Topic 03 owns eruption style, active seismicity and seismic
+  zones; Topic 04 owns weathering products, slope transfer and aquifers; Topic
+  06 owns glacial landforms. Topic 02 owns the lithological-tectonic substrate.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2018 magnetic
+  reversal, 2022 primary rocks, 2023 Indian hill ranges, 2024 mountain types,
+  2025 continental-drift evidence and crustal tectonics, and the provisional
+  2026 Peninsular Block demand. Provisional or unavailable keys remain
+  explicitly unpromoted.

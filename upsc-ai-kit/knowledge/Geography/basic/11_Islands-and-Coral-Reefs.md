@@ -201,3 +201,41 @@ Geography → Coral Reefs → Bleaching / Climate (applied CA)
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** continental, volcanic, coral and depositional island origins;
+  coral-polyp symbiosis and growth controls; fringing, barrier and atoll
+  morphology; Darwin and Daly models; bleaching, recovery and reef services;
+  Andaman-Nicobar tectonic-arc and Lakshadweep coral-system geography; Great
+  Nicobar's biosphere, hazard, rights and project-appraisal setting.
+- **Process control:** crustal separation, volcanism or sediment/reef
+  accumulation produces different island foundations. Reef growth follows
+  polyp calcification, symbiosis and suitable light-water conditions; stress
+  can cause bleaching, while prolonged stress can produce mortality and
+  framework erosion.
+- **Scale/map control:** reef colony, reef tract, reef island, island group,
+  tectonic arc and project landscape are separate scales. Ten Degree Channel
+  separates Andaman from Nicobar; Nine Degree Channel separates Minicoy from
+  the main Lakshadweep group.
+- **Date/data control:** project capacity, cost, forest diversion, tree
+  estimates, tribal-reserve area, clearance stage and litigation status require
+  an exact official source and date. Static island origin is never updated by a
+  project factsheet, and a clearance condition is not a measured outcome.
+- **Terminology control:** coral animal differs from reef framework and reef
+  island; fringing from barrier reef and atoll; bleaching from death; biosphere
+  reserve zoning from a whole-island no-use rule; environmental clearance from
+  Stage-I and Stage-II forest approval.
+- **Causal control:** Darwinian subsidence is not a universal reef history, and
+  reef presence alone does not remove tsunami or surge risk. Great Nicobar
+  appraisal must combine strategic rationale with cumulative ecology, seismic-
+  tsunami exposure, freshwater, indigenous rights, alternatives, safeguards
+  and monitored compliance.
+- **Boundary:** Topic 03 owns full earthquake mechanics; Topic 10 owns coastal
+  sediment cells and CRZ; Topic 12 owns ocean circulation; Environment owns
+  wider marine-biodiversity law. Topic 11 owns island/reef formation, Indian
+  island comparison and the bounded Great Nicobar appraisal.
+- **Verified PYQ ownership, 2018-2026:** direct routes are the 2018 Prelims
+  coral-distribution/biodiversity demand and 2019 GS-I global-warming impact on
+  coral life. Barren Island, biorock and island-state sea-level questions retain
+  their routed owners; no unavailable official key is invented.

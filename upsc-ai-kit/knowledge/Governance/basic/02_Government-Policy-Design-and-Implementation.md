@@ -465,3 +465,27 @@ about — that single move converts a generic answer into a diagnosed one.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Policy design proceeds through problem definition, evidence and consultation, objective and instrument choice, fiscal and legal appraisal, implementation architecture, monitoring, evaluation and feedback; implementation is a multi-level chain rather than a post-design afterthought.
+- **Indispensable distinction and prerequisite taxonomy:** Policy, statute, rule, scheme, guideline, budget and administrative order carry different authority; output differs from outcome and impact, universal design from uniform delivery, and pilot success from scalable state capacity.
+- **Mechanism, implementation and evidence control:** Map Union, state, district, local body, frontline worker, contractor and beneficiary roles with funds-functions-functionaries, data flows, grievance and audit; recommendations or Cabinet approval must not be described as enacted or operational law.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: India Code records the Public Examinations (Prevention of Unfair Means) Act, 2024 and notification S.O. 2422(E), bringing it into force on 21 June 2024. A law, rule, scheme, guideline and implementation outcome remain separate policy-cycle statuses. Sources: https://www.indiacode.nic.in/handle/123456789/20100?view_type=search&col=123456789/1362; https://www.indiacode.nic.in/show-data?abv=CEN&statehandle=123456789/1362&actid=AC_CEN_26_36_00009_A2024-01_1719556801892&sectionId=91515&sectionno=1&orderno=1&orgactid=AC_CEN_26_36_00009_A2024-01_1719556801892
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Four direct General Studies Mains demands are routed to this topic across the audited ledgers and every one of them was confirmed word for word in the locally held OCR-searchable official question papers. The audited 2024-2025 ledger routes the 2024 General Studies Paper-II demand on the Public Examinations (Prevention of Unfair Means) Act, 2024 to the Basic owner. The audited 2018-2023 ledger routes three further demands to the Advanced owner - the 2018 General Studies Paper-I demand on the transformation of aspirational districts, the 2018 General Studies Paper-II demand on policy contradictions and environmental degradation, and the 2022 General Studies Paper-II demand on Gati-Shakti coordination between the government and the private sector - and the 2018 Paper-I entry itself carries the ledger's own note that the printed stem is partly word-scrambled in the scan. The Basic owner records that core routing supersedes the older Advanced pointer, so all four are answered from the core file rather than from the optional advanced block. No official answer key or marking scheme is held locally for any of them, so each model solution below is an authored answer route and not an official key, and the objective ledgers route no Preliminary demand to this owner.

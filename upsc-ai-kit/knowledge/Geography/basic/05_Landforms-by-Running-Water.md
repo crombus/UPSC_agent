@@ -353,3 +353,38 @@ behave in opposite ways. That contrast is the whole answer.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** drainage basin and network organisation; runoff, erosion,
+  transport, deposition and graded-profile adjustment; upper/middle/lower
+  course landforms; drainage patterns, antecedence, superimposition and capture;
+  Himalayan/Peninsular systems, major India drainage logic and interlinking.
+- **Process control:** rainfall/snowmelt and basin controls → discharge and
+  sediment calibre → erosion/transport/deposition → channel/floodplain/delta
+  adjustment. Interlinking is traced from identified donor/recipient basins
+  through storage, canal/tunnel and seasonal transfer to ecological/social
+  effects.
+- **Scale/map control:** channel reach, drainage basin, river system and
+  inter-basin project are separate. River direction, tributary junction,
+  gorge/waterfall, delta/estuary and proposed link are located rather than
+  inferred from a state name.
+- **Chronology/status control:** antecedent drainage predates uplift; capture
+  differs from planned diversion. Project proposal, statutory clearance, work
+  award, construction, completion and delivered benefit remain separate dated
+  statuses.
+- **Terminology control:** drainage pattern differs from basin; delta from
+  estuary; levee from embankment; meander cutoff from river capture; donor
+  'surplus' is a modelling/seasonal claim, not timeless unused water.
+- **Causal control:** one dam or climate trend does not alone explain a delta,
+  flood or drought. Sediment, discharge seasonality, subsidence, tides/waves,
+  embankments, environmental flows, displacement, federal consent and climate
+  uncertainty must qualify conclusions.
+- **Boundary:** glaciers/GLOF remain Topic 06; deserts Topic 07; caves/karst
+  Topic 08; lakes/wetlands Topic 09; coastal forms Topic 10. Topic 05 owns
+  running-water landforms, India drainage and interlinking only.
+- **Verified PYQ ownership, 2018-2026:** direct routes include the 2020
+  interlinking Mains demand, 2021 Indus tributaries and Eastern-Ghats rivers,
+  2022 Gandikota, 2024 waterfall matching and provisional 2026 drainage-shift
+  and antecedent-river demands. Objective keys absent or provisional remain
+  unpromoted.

@@ -1272,6 +1272,30 @@ liquidity promise and underlying exposure before comparing return.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Bonds, equity, derivatives, mutual funds, ETFs, AIFs and pension products allocate ownership, cash-flow, maturity, leverage, liquidity and fiduciary risks differently; derivatives derive value and can hedge or speculate.
+- **Indispensable distinction and prerequisite taxonomy:** Bondholder is not owner, dividend is not contractual interest, futures are not options, mutual fund NAV is not guaranteed return, ETF is not every index fund, and pooled investment is not deposit insurance.
+- **Mechanism, implementation and evidence control:** Identify legal claim, payoff, counterparty/clearing, leverage and regulator; use total-return and expense/denominator precision and separate suitability, disclosure, market risk, liquidity risk and mis-selling.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The attempted SEBI circular page returned only a circular identifier. Stable instrument definitions, legal-claim distinctions and PYQ concepts therefore remain bounded to the repository owners and audited routing ledgers. Sources: https://www.sebi.gov.in/legal/circulars/nov-2025/reclassification-of-real-estate-investment-trusts-reits-as-equity-related-instruments-for-facilitating-enhanced-participation-by-mutual-funds-and-specialized-investment-funds-sifs-_98031.html
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route objective demands on Participatory Notes, Inflation-Indexed Bonds, convertible bonds, InvITs, beta, AIF classification, bondholder priority, equity derivatives and real-world-asset tokenisation here. No answer letter is inferred.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Bond claim?

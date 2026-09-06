@@ -248,3 +248,34 @@ INDEX ~ 1  or ubiquitous inputs -> location decided by LABOUR, POWER,
 
 > ⚠️ **Factual caution:** do **not** name individual plants with founding dates, output figures,
 > employment numbers or investment values from memory.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** industrial classification; raw-material, energy, labour,
+  capital, market, transport, agglomeration, policy and environmental
+  controls; Weber, Lösch, growth-pole, product-cycle and network approaches;
+  old and new industrial regions of India and the world.
+- **Location-theory control:** Weber's material-index, transport, labour and
+  agglomeration logic and Lösch's market-area reasoning retain assumptions
+  and limits. Neither predicts one timeless optimum under multiple markets,
+  global value chains, policy incentives, sunk costs or digital inputs.
+- **Terminology control:** industry is broader than manufacturing; factory,
+  firm, plant, cluster, estate, SEZ and corridor are not synonyms.
+  Localisation differs from urbanisation economies, footloose from
+  location-free, and relative deindustrialisation from disappearance.
+- **Scale/map control:** Chotanagpur, Mumbai-Pune, Gujarat, Hugli,
+  Bengaluru-Tamil Nadu, NCR and Visakhapatnam-Guntur are compared with Ruhr,
+  Great Lakes, Japan's Pacific Belt and China's coast through input,
+  market, port, labour, technology, network and inertia logic.
+- **Process/status control:** notification, approval, land acquisition,
+  trunk infrastructure, allotment, construction, commissioning, production
+  and measured outcome are separate stages. A freight line or planned node
+  does not itself prove an operational industrial corridor.
+- **Date/data control:** IIP is a monthly volume index, ASI an annual
+  registered-factory survey, national accounts a value-added framework, and
+  PLI/corridor releases administrative records. Base year, reference period,
+  release date, revisions and coverage accompany changing claims.
+- **Boundary and PYQ control:** Economy owns industrial policy and scheme
+  design; Environment owns compliance and impact assessment. Geography owns
+  location theory, industrial-region morphology, corridor networks and
+  spatial restructuring. No direct PYQ or unavailable key is invented.

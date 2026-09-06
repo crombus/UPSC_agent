@@ -172,3 +172,40 @@
 > **Limitation:** climate still governs the rate — solution is faster where water is abundant and
 > vegetation supplies additional carbon dioxide to the soil water.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** carbonate dissolution and precipitation; soluble-rock,
+  structural, recharge, gradient, outlet and time controls; epikarst, vadose
+  and phreatic zones; karren, dolines, uvalas, poljes, swallow holes, caves and
+  speleothems; Indian natural-cave mapping; proxy interpretation; geological-
+  time hierarchy, GSSP method, Mawmluh Cave and the Meghalayan Age.
+- **Process control:** soil CO2 + water → weak carbonic acid → carbonate
+  dissolution along joints/bedding → conduit and closed-depression development;
+  degassing or evaporation → calcite deposition. A palaeoclimate inference
+  requires climate → recharge → drip chemistry → speleothem proxy → independent
+  chronology, with uncertainty at every link.
+- **Scale/map control:** mineral reaction, fracture, passage, cave system,
+  catchment, proxy site and global chronostratigraphic boundary are separate.
+  Meghalaya, Borra and Belum are natural caves; Ajanta and Ellora are human
+  rock-cut architecture and cannot be used as karst-genesis evidence.
+- **Chronology/data control:** host-rock age, cave excavation age, speleothem
+  growth age, occupation age and formal time-unit boundary are not
+  interchangeable. The Meghalayan GSSP is at 7.45 mm depth in KM-A and dated
+  4.200 ± 0.030 ka before 1950, equivalent to 4.250 ± 0.030 ka b2k; this does
+  not date Mawmluh Cave as a whole.
+- **Terminology control:** cave differs from karst landscape and human-cut
+  monument; dissolution from speleothem deposition; stalactite from stalagmite;
+  Age/Stage from Epoch/Series; GSSP point from correlation event and interval;
+  formal unit from informal Anthropocene usage.
+- **Causal control:** the 4.2 ka event is a correlation guide with spatially
+  variable hydroclimatic expressions. It cannot by itself prove a uniform
+  global drought or single-cause collapse of Indus, Mesopotamian or other
+  societies; social resilience and multiple stresses require evidence.
+- **Boundary:** Topic 04 owns groundwater foundations; Indian Art and Culture
+  owns rock-cut architecture; History owns occupation and civilisation change;
+  Environment owns cave biodiversity policy. Topic 08 owns karst process,
+  natural caves, proxy method and the formal Meghalayan boundary.
+- **Verified PYQ ownership, 2018-2026:** no direct Geography Topic 08 route is
+  present in the checked central ledgers. Ajanta and adjacent cave-shrine
+  questions remain with their routed cultural owners; no direct PYQ, cave
+  ranking or official key is invented.

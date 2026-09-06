@@ -1331,6 +1331,39 @@ Geography → Human Geography → Demographic Transition & Population Pyramids
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** population distribution, density, growth and composition;
+  fertility, mortality, age-sex structure and dependency; population
+  pyramids; demographic transition, momentum, dividend, ageing, optimum
+  population and the Malthus-Boserup debate.
+- **Theory/model control:** demographic transition is a descriptive
+  generalisation, not a universal timetable or deterministic forecast.
+  Malthus, Boserup and optimum-population reasoning retain assumptions,
+  counter-evidence, entitlement/distribution and ecological qualifications.
+- **Indicator control:** CBR, CDR, TFR, IMR, life expectancy, sex ratio and
+  dependency ratio answer different questions. Replacement fertility does
+  not mean immediate zero growth; momentum and age structure intervene.
+- **Scale/map control:** world transition regions are separated from India's
+  staggered state transitions. Kerala and Tamil Nadu ageing/low fertility,
+  EAG-state youth and higher fertility, and urban-rural/gender contrasts are
+  mapped without treating national averages as uniform state conditions.
+- **Date/data control:** Census 2011 is the latest completed Indian
+  enumeration at this review cutoff. SRS and NFHS are sample-based, and UN
+  World Population Prospects 2024 is an estimate/projection series; none is
+  relabelled as a post-2011 census count.
+- **Close-option control:** population growth differs from birth rate;
+  youthful structure from demographic dividend; ageing from population
+  decline; child sex ratio from all-ages sex ratio; stock from flow.
+- **Boundary:** Indian Society owns population-policy, gender and social
+  consequences in full; Economy owns labour absorption and dividend policy.
+  Geography owns spatial distribution, demographic mechanisms and regional
+  differentiation, with bounded bridges to those owners.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2024 Prelims
+  TFR definition and low-birth-rate/ageing country questions plus 2024 GS-I
+  Q7 on demographic winter. Official answer letters absent from routing
+  ledgers are not invented.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly explains Population geography baseline?

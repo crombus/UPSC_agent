@@ -1,0 +1,84 @@
+ASCII MASTER FLOW — PANEL 1/12: Vicious cycle
+POVERTY -> income and asset deprivation restricts the household food basket
+-> FOOD INSECURITY: calorie deficit plus protein and micronutrient deficit
+-> IMPAIRED DEVELOPMENT: cognitive, physical and immune capacity fall
+-> LOW HUMAN CAPITAL: schooling attainment and productivity fall
+-> LOW EARNINGS: the deprivation is transmitted to the next generation
+MUST REMEMBER: Poverty, hunger, food insecurity, undernutrition and malnutrition overlap...
+
+ASCII MASTER FLOW — PANEL 2/12: Security types
+FOOD SECURITY -> reliable access to sufficient, safe and nutritious food
+CARRIED BY -> statutory foodgrain entitlement; a calorie and grain-access instrument
+NUTRITION SECURITY -> dietary diversity, micronutrients, care practices, sanitation
+CONSEQUENCE -> the distribution system can work while nutrition outcomes stagnate
+
+ASCII MASTER FLOW — PANEL 3/12: Indicator card
+STUNTING -> low height-for-age under five; chronic cumulative deprivation
+WASTING -> low weight-for-height under five; recent or acute shortage or illness
+ANAEMIA -> haemoglobin deficiency from iron, folate or vitamin B12 shortfall
+SAM -> weight-for-height below minus three standard deviations; therapeutic care
+MAM -> minus two to minus three standard deviations; community supplementary feeding
+
+ASCII MASTER FLOW — PANEL 4/12: Statutory entitlement card
+ENACTED -> 5 July 2013; a shift from a welfare to a rights-based approach
+QUANTUM -> 5 kg per person per month priority; 35 kg per household per month Antyodaya
+COVERAGE RULE -> up to 75 per cent rural and 50 per cent urban population
+OFFICIAL COUNT -> maximum coverage 81.34 crore persons; about 80 crore covered at present
+HEAD OF HOUSEHOLD -> eldest woman aged 18 or above for issue of the ration card
+
+ASCII MASTER FLOW — PANEL 5/12: Price discipline card
+STATUTORY CEILING -> rice 3 rupees, wheat 2 rupees, coarse grains 1 rupee per kilogram
+CURRENT POLICY -> free of cost to Antyodaya and priority households since 1 January 2023
+AUTHORITY -> the welfare grain scheme was merged into the Act on that date
+EXTENSION -> the Union Cabinet extended free distribution for five years to December 2028
+RULE -> never state the ceiling as the price a beneficiary currently pays
+
+ASCII MASTER FLOW — PANEL 6/12: Life-cycle provisions
+PREGNANT AND LACTATING WOMEN -> nutritious meal free of cost; maternity benefit
+MATERNITY BENEFIT -> not less than 6000 rupees to partly compensate wage loss
+CHILDREN 6 MONTHS TO 14 YEARS -> meal through anganwadi centres and through schools
+MALNOURISHED UNDER SIX -> higher nutritional norms are prescribed
+CLOSE DISTINCTION: Poverty incidence is not depth, food availability is not household...
+
+ASCII MASTER FLOW — PANEL 7/12: Remedy and responsibility
+NON-SUPPLY -> the entitled person may claim a food security allowance from the State
+GOVERNED BY -> the Food Security Allowance Rules, 2015
+CENTRE -> allocation, transport to depots and assistance to the fair-price shop doorstep
+STATES -> identification, ration cards and distribution of the entitlement
+USE -> attribute a delivery failure to a named tier, never to government in general
+
+ASCII MASTER FLOW — PANEL 8/12: Service layers by age
+POSHAN 2.0 -> Ministry of Women and Child Development; anganwadi centres
+ITS SERVICES -> supplementary nutrition, growth monitoring, pre-school, referral
+PM POSHAN -> Ministry of Education; cooked meal in Classes I to VIII
+ITS OBJECTIVES -> attendance, retention and improved nutritional status
+TRAP -> the ministry pairing is reversed in close-option questions
+
+ASCII MASTER FLOW — PANEL 9/12: Ration format trade-off
+TAKE-HOME RATION -> dry ration cooked at home; pregnant and lactating women
+ALSO FOR -> children between six months and three years
+HOT COOKED MEAL -> served at the anganwadi centre or the school
+GAIN -> the hot meal guarantees consumption at the point of delivery
+COST -> it needs kitchen and staffing infrastructure; dry ration may be redistributed
+
+ASCII MASTER FLOW — PANEL 10/12: Portability mechanism
+PROBLEM -> a migrant is listed on a State-specific roll and loses access on moving
+-> MECHANISM: Aadhaar-seeded ration card read at an electronic point-of-sale machine
+-> EFFECT: the existing entitlement is drawn at any enabled fair-price shop
+LIMIT -> it is not a separate card and not a separate entitlement
+CLAIM LIMIT -> the cumulative transaction count rises continuously and is not fixed here
+
+ASCII MASTER FLOW — PANEL 11/12: Convergence bank
+NUTRITION-SPECIFIC -> feeding, micronutrients, growth monitoring, breastfeeding support
+NUTRITION-SENSITIVE -> water and sanitation, agriculture, social protection, girls schooling
+ANAEMIA -> the national anaemia strategy uses a six-by-six-by-six intervention design
+FORTIFICATION -> reaches selected micronutrient gaps at scale
+LIMIT -> it cannot replace dietary diversity, infection control, safe water or treatment
+
+ASCII MASTER FLOW — PANEL 12/12: Dated outcome and answer spine
+ROUND FIVE 2019-21 -> stunting 35.5, wasting 19.3, child anaemia 67.1 per cent
+ROUND SIX 2023-24 -> under-five stunting 29.3 per cent; released 29 May 2026
+SCOPE -> round six covered 715 districts and about 6.79 lakh households
+RULE -> name the round beside every value and never merge two rounds
+CLOSE -> availability, access, absorption and utilisation, then a graded verdict
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use NFSA, PDS/ONORC, ICDS/Saksham Anganwadi,...

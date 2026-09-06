@@ -265,3 +265,41 @@ Never state that a species "has been downlisted/uplisted" without naming the ass
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** rural society is a relation among
+  caste, class, land, labour, credit, kinship, panchayat, market and state;
+  agrarian change includes tenure, technology, commercialisation,
+  mechanisation, feminisation, migration, depeasantisation, non-farm work and
+  ecological stress. Rural is not identical to agricultural.
+- **Indispensable sociology:** M.N. Srinivas's dominant caste explains the
+  convergence of numbers, land and office; André Béteille keeps caste, class and
+  power analytically distinct; A.R. Desai's agrarian-structure lens locates
+  village relations within markets and the state. Jajmani is a regionally
+  variable hereditary patron-client relation, not a timeless village essence.
+- **Mechanism and regional variation:** compare Punjab-Haryana irrigated
+  agriculture, eastern tenancy and labour, dryland Deccan, plantation, tribal,
+  coastal and peri-urban settings. Green Revolution effects depend on land,
+  irrigation, credit, crop, price support and market access; Panchayat
+  representation is not automatically substantive power.
+- **Intersectional control:** landownership, tenancy, caste, gender, migration,
+  age and non-farm income create differentiation within every rural category.
+  Feminisation may mean greater work burdens without title, wages or
+  decision-power and must not be treated as automatic empowerment.
+- **Data/source control:** PLFS Annual Report 2025 uses a January-December
+  reference period and can describe labour status, not prove jajmani decline or
+  village power. Agriculture Census holdings and Situation Assessment income
+  concepts require their own reference periods and coverage labels.
+- **Cross-owner boundary:** Economy owns land-reform mechanics, farm output and
+  poverty aggregates; Governance owns detailed Panchayati Raj design. Population
+  Topic 06, women Topic 07, empowerment Topic 08 and poverty Topic 09 remain
+  outside this owner's detailed treatment.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were tested for institutions, class categories, thinkers,
+  agrarian-change mechanisms, regional variation, intersectionality and
+  measurement limits.
+- **Verified PYQ ownership, 2018-2026:** no direct GS-I question in the verified
+  2018-2025 corpus is routed to Topic 05. The official 2026 GS-I paper was not
+  available on 5 September 2026; zero-direct-PYQ status is recorded rather than
+  filled by invention.

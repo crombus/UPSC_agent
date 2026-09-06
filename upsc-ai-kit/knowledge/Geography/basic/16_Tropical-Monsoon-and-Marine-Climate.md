@@ -277,3 +277,47 @@ WITHDRAWAL / RETREAT (roughly Oct-Nov)
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** tropical monsoon versus tropical marine identity; seasonal
+  land-sea pressure reversal; northward ITCZ/monsoon-trough migration;
+  cross-equatorial flow and Coriolis turning; Mascarene High, Somali jet,
+  Tibetan-Himalayan heating/barrier effects, subtropical-westerly and tropical-
+  easterly jet reorganisation; onset/burst, advance, Arabian Sea and Bay
+  branches, depressions, active-break spells, withdrawal and northeast monsoon;
+  ENSO, IOD and MJO modulation.
+- **Process control:** differential heating establishes a seasonal pressure
+  gradient, but the realised monsoon requires coupled ocean-atmosphere flow,
+  cross-equatorial moisture transport, convergence, upper-air reorganisation,
+  relief and rain-bearing systems. No single thermal, jet or teleconnection
+  switch explains onset, spatial distribution or seasonal outcome.
+- **Scale/map control:** sea breeze, cross-equatorial current, branch,
+  depression, monsoon trough, active/break spell, meteorological subdivision
+  and all-India season are separate scales. Arabian Sea and Bay routes,
+  Western-Ghat windward/leeward contrast, north-east entry, Ganga-plain path
+  and Coromandel retreat rain are mapped without treating one branch as the
+  whole monsoon.
+- **Date/data control:** onset normal, declared onset, advance line, daily or
+  cumulative rainfall, monthly/seasonal outlook, LPA/base period and end-season
+  verification are different IMD products. The 2026 season remains incomplete
+  on 5 September; forecasts and observations are not promoted as final
+  seasonal outcomes.
+- **Terminology control:** monsoon is a seasonal circulation reversal/system,
+  not merely heavy rain or a giant sea breeze; onset/burst differs from active
+  spell, break and withdrawal; northeast monsoon differs from western
+  disturbance; ENSO and IOD are interannual probability modifiers while MJO is
+  intraseasonal.
+- **Causal control:** land-sea contrast is necessary but insufficient.
+  Tibetan heating, snow/soil state, Mascarene High, Somali jet, trough position,
+  Bay systems, orography, ENSO, IOD and MJO interact, so a national total cannot
+  explain every regional agricultural or flood/drought outcome.
+- **Boundary:** Topic 12 owns ocean currents and IOD mechanics; Topic 13 owns
+  weather elements, jets and western disturbances; Topic 14 owns climate
+  classification; Topic 15 owns Af/evergreen systems; Topic 17 owns Aw,
+  deciduous forest and grassland. Topic 16 alone owns the complete Indian
+  monsoon mechanism and tropical-marine comparison.
+- **Verified PYQ ownership, 2018-2026:** direct ownership includes the 2023
+  GS-I Purvaiya/Bhojpur demand and the 2026 Andaman-Nicobar climate and
+  seasonal-precipitation objective route. The 2026 Set-A key remains
+  provisional, so no answer letter is promoted.

@@ -1,0 +1,4568 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-37",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 7,
+      "heading": "Polity 37 - Central Vigilance Commission (CVC) and Central Bureau of Investigation (CBI)",
+      "preview": "**Tag key:** `[FACT]` = directly supported by a named legal/official source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for this package's control date; `[LIMIT]` = a boundary, qualification, unresolved issue, or deliberatel",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 712.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 654.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 15,
+      "markdown_body_line_end": 40,
+      "heading": "Visual 01 - Learning Roadmap",
+      "preview": "FOUNDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 573.624
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 322.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 47,
+      "markdown_body_line_end": 56,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 88,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\assets\\polity-37_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 102,
+      "markdown_body_line_end": 102,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CVC and CBI occupy different points in the anti-corruption chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 285.356
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 232.888
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 124,
+      "markdown_body_line_end": 130,
+      "heading": "Visual 02 - Legal Identity in One Frame",
+      "preview": "Institution/establishment | Creation or legal basis | Primary character | Key exam correction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Institution/establishment",
+          "Creation or legal basis",
+          "Primary character",
+          "Key exam correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 610.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 410.19
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 149,
+      "heading": "Visual 03 - Five Questions Before Naming an Agency",
+      "preview": "1. WHAT IS THE ALLEGED OFFENCE?",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 368.99
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 237.99
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 172,
+      "heading": "CLOSING RECALL FLOW - CORE IDEA: ONE ANTI-CORRUPTION SYSTEM, DIFFERENT LEGAL ROLES",
+      "preview": "START / CONCEPT: CORE IDEA: ONE ANTI-CORRUPTION SYSTEM, DIFFERENT LEGAL ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 307
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 183,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The CVC originated in a 1964 executive resolution and became statutory under the Central Vigilance Commission Act, 2003.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 211,
+      "heading": "Visual 04 - Evolution Timeline",
+      "preview": "Year | Institutional development | Legal significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Institutional development",
+          "Legal significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 472.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 232,
+      "heading": "Visual 05 - Executive Creation vs Statutory Power",
+      "preview": "EXECUTIVE RESOLUTION                         PARLIAMENTARY STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 316.69
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 225.69
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 238,
+      "markdown_body_line_end": 255,
+      "heading": "CLOSING RECALL FLOW - EVOLUTION: FROM WARTIME POLICE UNIT TO A LAYERED VIGILANCE SYSTEM",
+      "preview": "START / CONCEPT: EVOLUTION: FROM WARTIME POLICE UNIT TO A LAYERED VIGILANCE SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 326
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 266,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional architecture matters because no single anti-corruption body owns the entire accountability chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 422.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 370.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 299,
+      "heading": "Visual 06 - Anti-Corruption and Investigation Architecture",
+      "preview": "PARLIAMENT / STATUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 311,
+      "heading": "Visual 07 - Power-Type Matrix",
+      "preview": "Power type | CVC | CBI/DSPE | Lokpal | Court",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 5,
+        "headers": [
+          "Power type",
+          "CVC",
+          "CBI/DSPE",
+          "Lokpal",
+          "Court"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 364.19
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 334,
+      "heading": "CLOSING RECALL FLOW - THE INSTITUTIONAL ARCHITECTURE",
+      "preview": "START / CONCEPT: THE INSTITUTIONAL ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 308.79
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 107.79
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 345,
+      "markdown_body_line_end": 345,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The CVC consists of the Central Vigilance Commissioner and not more than two Vigilance Commissioners.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 383,
+      "heading": "Visual 08 - Composition",
+      "preview": "CENTRAL VIGILANCE COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 400,
+      "heading": "Visual 09 - Appointment Chain",
+      "preview": "SELECTION COMMITTEE RECOMMENDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 620.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 413,
+      "heading": "Visual 10 - Eligibility Logic",
+      "preview": "Category A | Category B | Diversity guardrail",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Category A",
+          "Category B",
+          "Diversity guardrail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 401.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 301.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 436,
+      "heading": "CLOSING RECALL FLOW - CVC: STATUS, COMPOSITION AND APPOINTMENT",
+      "preview": "START / CONCEPT: CVC: STATUS, COMPOSITION AND APPOINTMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 447,
+      "markdown_body_line_end": 447,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The CVC Act fixes tenure, regulates reappointment, imposes specified post-tenure restrictions and provides a safeguarded removal process.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 475,
+      "heading": "Visual 11 - Tenure Clock",
+      "preview": "ENTRY INTO OFFICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 490,
+      "heading": "Visual 12 - Post-Tenure Restriction",
+      "preview": "After office | Legal position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "After office",
+          "Legal position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 425.29
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 508,
+      "heading": "Visual 13 - Two Removal Routes",
+      "preview": "ROUTE 1: PROVED MISBEHAVIOUR OR INCAPACITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 384.09
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 263.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 526,
+      "heading": "Visual 14 - Independence Safeguards and Limits",
+      "preview": "Design safeguard | Independence value | Continuing limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Design safeguard",
+          "Independence value",
+          "Continuing limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 549,
+      "heading": "CLOSING RECALL FLOW - CVC TENURE, REAPPOINTMENT, POST-TENURE BARS AND REMOVAL",
+      "preview": "START / CONCEPT: CVC TENURE, REAPPOINTMENT, POST-TENURE BARS AND REMOVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 275
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 545.29
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 324.29
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 560,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Section 8 assigns vigilance review, advice and limited superintendence over DSPE corruption investigations to the CVC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 189.29
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 122.622
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 586,
+      "heading": "Visual 15 - Section 8 Function Map",
+      "preview": "Section 8 function | What CVC may do | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Section 8 function",
+          "What CVC may do",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 331.29
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 600,
+      "heading": "Visual 16 - Superintendence Without Case Dictation",
+      "preview": "PERMITTED LEVEL                         PROHIBITED LEVEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 619,
+      "heading": "Visual 17 - Person-Coverage Gate",
+      "preview": "COMPLAINT RECEIVED",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 617.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 506.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 632,
+      "markdown_body_line_end": 644,
+      "heading": "Visual 18 - Advice Is Not a Command",
+      "preview": "INQUIRY REPORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 349.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 228.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 652,
+      "markdown_body_line_end": 659,
+      "heading": "Visual 19 - CVC's Inquiry-Related Civil-Court Powers",
+      "preview": "CVC may, for specified inquiries | CVC still is not",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "CVC may, for specified inquiries",
+          "CVC still is not"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 677,
+      "heading": "Visual 20 - Annual Accountability Loop",
+      "preview": "CVC WORK DURING YEAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 594.29
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 473.29
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 700,
+      "heading": "CLOSING RECALL FLOW - CVC FUNCTIONS UNDER SECTION 8",
+      "preview": "START / CONCEPT: CVC FUNCTIONS UNDER SECTION 8",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 432.09
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 211.09
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 711,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chief Vigilance Officers connect departments and covered public bodies to the central vigilance system through preventive vigilance, complaint examination and coordination of departmental action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 741,
+      "heading": "Visual 21 - CVC-CVO Operating Chain",
+      "preview": "CVC",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 481.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 370.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 753,
+      "heading": "Visual 22 - Preventive vs Punitive Vigilance",
+      "preview": "Preventive vigilance | Punitive/disciplinary response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Preventive vigilance",
+          "Punitive/disciplinary response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 314.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 184.022
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 776,
+      "heading": "CLOSING RECALL FLOW - CVOS AND DEPARTMENTAL VIGILANCE",
+      "preview": "START / CONCEPT: CVOS AND DEPARTMENTAL VIGILANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 787,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The CBI is an executive-created organisation whose investigative police powers derive from the DSPE Act.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 817,
+      "heading": "Visual 23 - CBI/DSPE Legal Stack",
+      "preview": "CBI ORGANISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 838,
+      "heading": "Visual 24 - DSPE Act Jurisdiction Ladder",
+      "preview": "SECTION 2",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 610.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 459.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 853,
+      "heading": "Visual 25 - Officially Supported CBI Domains",
+      "preview": "Domain | Typical legal character | Essential qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Domain",
+          "Typical legal character",
+          "Essential qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 337.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 194.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 868,
+      "heading": "Visual 26 - Police Power Is Not Organisational Reputation",
+      "preview": "HIGH PUBLIC IMPORTANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 891,
+      "heading": "CLOSING RECALL FLOW - CBI AND DSPE: ORGANISATION, POLICE POWER AND JURISDICTION",
+      "preview": "START / CONCEPT: CBI AND DSPE: ORGANISATION, POLICE POWER AND JURISDICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 655.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 434.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 902,
+      "markdown_body_line_end": 902,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Lokpal Act creates a special superintendence-and-direction rule for matters referred by the Lokpal to DSPE, while repeating the prohibition on requiring investigation or disposal in a particular manner.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 294.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 227.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 921,
+      "heading": "Visual 27 - Statutory Superintendence Split",
+      "preview": "DSPE matter | Superintendence under section 4 | Administration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "DSPE matter",
+          "Superintendence under section 4",
+          "Administration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 654.29
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 937,
+      "heading": "Visual 28 - Administration vs Case Investigation",
+      "preview": "Administrative control may concern | Investigative judgment concerns",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Administrative control may concern",
+          "Investigative judgment concerns"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 517.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 387.288
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 945,
+      "markdown_body_line_end": 957,
+      "heading": "Visual 29 - Four-Layer Control Model",
+      "preview": "LAYER 1: LAW",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 980,
+      "heading": "CLOSING RECALL FLOW - SUPERINTENDENCE, ADMINISTRATION AND INVESTIGATIVE JUDGMENT",
+      "preview": "START / CONCEPT: SUPERINTENDENCE, ADMINISTRATION AND INVESTIGATIVE JUDGMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 394.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 991,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CBI autonomy depends less on a slogan of independence than on a rule-bound Director architecture that separates high-level selection, secure minimum tenure, lawful extension and day-to-day administration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 254.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 187.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1025,
+      "heading": "Visual 30 - Director Appointment Pipeline",
+      "preview": "ELIGIBLE IPS OFFICERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1051,
+      "heading": "Visual 31 - Director Tenure and Extension",
+      "preview": "APPOINTMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 389.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 248.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1069,
+      "heading": "Visual 32 - Appointment, Transfer and Extension Controls",
+      "preview": "Decision | Statutory control | Independence purpose",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Decision",
+          "Statutory control",
+          "Independence purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 634.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1075,
+      "markdown_body_line_end": 1084,
+      "heading": "Visual 33 - Alok Verma Procedure Principle",
+      "preview": "FORMAL TRANSFER?",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 593.09
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 502.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1097,
+      "heading": "Visual 34 - Senior Appointment Architecture",
+      "preview": "Post/level | Core statutory relationship",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Post/level",
+          "Core statutory relationship"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 413.29
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 259.088
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - CBI DIRECTOR: APPOINTMENT, TENURE, TRANSFER AND SENIOR POSTS",
+      "preview": "START / CONCEPT: CBI DIRECTOR: APPOINTMENT, TENURE, TRANSFER AND SENIOR POSTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The DSPE Act therefore uses a territorial-consent architecture when the Union police establishment exercises powers in a State.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 429.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 363.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1150,
+      "markdown_body_line_end": 1159,
+      "heading": "Visual 35 - Sections 5 and 6 as a Federal Sequence",
+      "preview": "CENTRAL GOVERNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1170,
+      "heading": "Visual 36 - General Consent vs Case-Specific Consent",
+      "preview": "General consent | Case-specific consent",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "General consent",
+          "Case-specific consent"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 640.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 531.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1190,
+      "heading": "Visual 37 - Withdrawal of General Consent",
+      "preview": "GENERAL CONSENT EXISTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 442.69
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 321.69
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1204,
+      "heading": "Visual 38 - Union Territory Baseline",
+      "preview": "Territory | DSPE baseline",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Territory",
+          "DSPE baseline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 687.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1218,
+      "heading": "Visual 39 - Three Routes to a CBI/DSPE Investigation in a State",
+      "preview": "ROUTE A                         ROUTE B                         ROUTE C",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 646.69
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 565.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1241,
+      "heading": "CLOSING RECALL FLOW - STATE CONSENT AND INDIAN FEDERALISM",
+      "preview": "START / CONCEPT: STATE CONSENT AND INDIAN FEDERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 524.49
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 283.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Supreme Court and High Courts may direct a CBI investigation without State consent under Articles 32 and 226.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 129.49
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 77.022
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1284,
+      "heading": "Visual 40 - STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010) Federal Balance",
+      "preview": "STATE POLICE AUTONOMY                   CONSTITUTIONAL RIGHTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 416.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1295,
+      "heading": "Visual 41 - What \"Consent Is Not Absolute\" Means",
+      "preview": "Correct meaning | Incorrect overstatement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Correct meaning",
+          "Incorrect overstatement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 360.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 251.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1318,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL COURTS AND THE CONSENT RULE",
+      "preview": "START / CONCEPT: CONSTITUTIONAL COURTS AND THE CONSENT RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 296
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1329,
+      "markdown_body_line_end": 1329,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The safe UPSC formulation is: consent defects require close attention to statutory text, timing, parties, prejudice and precedent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1349,
+      "heading": "Visual 42 - Consent Precedent Matrix",
+      "preview": "Case | Holding useful for Topic 37 | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Case",
+          "Holding useful for Topic 37",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 565.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1367,
+      "heading": "Visual 43 - Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) Qualification Funnel",
+      "preview": "Was there general consent with a rider?",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 524.69
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 403.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1377,
+      "markdown_body_line_end": 1386,
+      "heading": "Visual 44 - 2024 West Bengal Original-Suit Control",
+      "preview": "PRELIMINARY OBJECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1411,
+      "heading": "CLOSING RECALL FLOW - CONSENT CASE LAW: EXACT HOLDINGS, NARROW INFERENCES",
+      "preview": "START / CONCEPT: CONSENT CASE LAW: EXACT HOLDINGS, NARROW INFERENCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 380.691
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1422,
+      "markdown_body_line_end": 1422,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vineet Narain v. Union of India (1997) established institutional safeguards against extraneous control, including vigilance supervision and protection for the CBI Director.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 226.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 160.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1440,
+      "markdown_body_line_end": 1455,
+      "heading": "Visual 45 - Vineet Narain v. Union of India (1997) Safeguard Chain",
+      "preview": "RISK: political/executive interference",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 697.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1469,
+      "heading": "Visual 46 - Judgment-to-Statute Trajectory",
+      "preview": "Judicial concern/direction | Later statutory expression",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Judicial concern/direction",
+          "Later statutory expression"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 341.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1475,
+      "markdown_body_line_end": 1492,
+      "heading": "CLOSING RECALL FLOW - THE VINEET NARAIN V. UNION OF INDIA (1997) SAFEGUARD ARCHITECTURE",
+      "preview": "START / CONCEPT: THE VINEET NARAIN V. UNION OF INDIA (1997) SAFEGUARD ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 333
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 299.89
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 58.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1503,
+      "markdown_body_line_end": 1503,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The CBI Director is selected through the statutory high-level committee and has a minimum two-year tenure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1519,
+      "markdown_body_line_end": 1524,
+      "heading": "Visual 47 - Director Cases and Principles",
+      "preview": "Case | Principle",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Case",
+          "Principle"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 429.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 274.822
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1530,
+      "markdown_body_line_end": 1537,
+      "heading": "Visual 48 - Tenure Is a Floor, Extension Is Conditional",
+      "preview": "MINIMUM TENURE                         EXTENDED TENURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1545,
+      "markdown_body_line_end": 1562,
+      "heading": "CLOSING RECALL FLOW - JUDICIAL CONTROLS ON DIRECTOR INDEPENDENCE",
+      "preview": "START / CONCEPT: JUDICIAL CONTROLS ON DIRECTOR INDEPENDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 330
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 655.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 424.891
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1573,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Supreme Court’s “caged parrot” description expressed concern about external influence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 289.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 237.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1592,
+      "markdown_body_line_end": 1594,
+      "heading": "Visual 49 - Safe Use of the Metaphor",
+      "preview": "Weak answer | Strong answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Weak answer",
+          "Strong answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 668.49
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1600,
+      "markdown_body_line_end": 1617,
+      "heading": "CLOSING RECALL FLOW - \"CAGED PARROT\": USE AS CONTEXT, NOT RATIO",
+      "preview": "START / CONCEPT: “CAGED PARROT”: USE AS CONTEXT, NOT RATIO",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 627.29
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 406.29
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1628,
+      "markdown_body_line_end": 1628,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lokpal, CVC, CBI and CVO are complementary institutions, not hierarchical duplicates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 266.49
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 214.022
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1651,
+      "markdown_body_line_end": 1667,
+      "heading": "Visual 50 - Lokpal Complaint Route",
+      "preview": "COMPLAINT TO LOKPAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 458.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1673,
+      "markdown_body_line_end": 1678,
+      "heading": "Visual 51 - Four-Institution Relationship",
+      "preview": "Institution | Primary role | Typical output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Primary role",
+          "Typical output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 417.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 262.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1684,
+      "markdown_body_line_end": 1698,
+      "heading": "Visual 52 - Lokpal Prosecution Wing",
+      "preview": "INVESTIGATION REPORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1704,
+      "markdown_body_line_end": 1721,
+      "heading": "CLOSING RECALL FLOW - LOKPAL, CVC, CBI AND CVO: COMPLEMENTARY, NOT HIERARCHICAL DUPLICATES",
+      "preview": "START / CONCEPT: LOKPAL, CVC, CBI AND CVO: COMPLEMENTARY, NOT HIERARCHICAL DUPLICATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 577.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 366.891
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1732,
+      "markdown_body_line_end": 1732,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In CBI v CBI v. Thommandru Hannah Vijayalakshmi (2021), the Supreme Court held that a Preliminary Enquiry is not mandatory before every corruption FIR.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 246.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 179.424
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1747,
+      "markdown_body_line_end": 1773,
+      "heading": "Visual 53 - Investigation Lifecycle",
+      "preview": "COMPLAINT / SOURCE INFORMATION / REFERENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 472.691
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1785,
+      "markdown_body_line_end": 1791,
+      "heading": "Visual 54 - PE vs FIR",
+      "preview": "Preliminary Enquiry (PE) | FIR/Regular Case",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Preliminary Enquiry (PE)",
+          "FIR/Regular Case"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1797,
+      "markdown_body_line_end": 1815,
+      "heading": "Visual 55 - Safeguard Gates",
+      "preview": "JURISDICTION GATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 615.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 434.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1825,
+      "markdown_body_line_end": 1830,
+      "heading": "Visual 56 - Presumption of Innocence",
+      "preview": "ALLEGATION != FIR != ARREST != CHARGE SHEET != CONVICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 312.29
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 261.29
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1836,
+      "markdown_body_line_end": 1853,
+      "heading": "CLOSING RECALL FLOW - INVESTIGATION LIFECYCLE AND SAFEGUARDS",
+      "preview": "START / CONCEPT: INVESTIGATION LIFECYCLE AND SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1864,
+      "markdown_body_line_end": 1864,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Comparison must begin with each institution’s legal source rather than its acronym or political visibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1880,
+      "markdown_body_line_end": 1888,
+      "heading": "Visual 57 - Full Comparison Matrix",
+      "preview": "Body | Legal basis | Core domain",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Body",
+          "Legal basis",
+          "Core domain"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1890,
+      "markdown_body_line_end": 1898,
+      "heading": "Visual 57 - Full Comparison Matrix",
+      "preview": "Body | Power and jurisdiction | Typical output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Body",
+          "Power and jurisdiction",
+          "Typical output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 591.89
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 306.888
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1904,
+      "markdown_body_line_end": 1919,
+      "heading": "Visual 58 - Offence-to-Agency Map",
+      "preview": "BRIBERY BY COVERED CENTRAL PUBLIC SERVANT",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1925,
+      "markdown_body_line_end": 1931,
+      "heading": "Visual 59 - Frequent Conflations",
+      "preview": "Trap | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Trap",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 595.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 430.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1937,
+      "markdown_body_line_end": 1954,
+      "heading": "CLOSING RECALL FLOW - COMPARISON: CVC, CBI, LOKPAL, ED, NIA AND STATE AGENCIES",
+      "preview": "START / CONCEPT: COMPARISON: CVC, CBI, LOKPAL, ED, NIA AND STATE AGENCIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 389.69
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 178.69
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1965,
+      "markdown_body_line_end": 1965,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional independence and accountability are complementary safeguards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1980,
+      "markdown_body_line_end": 1991,
+      "heading": "Visual 60 - Independence-Accountability Balance",
+      "preview": "INDEPENDENCE                              ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 330.424
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1997,
+      "markdown_body_line_end": 2005,
+      "heading": "Visual 61 - Structural Challenge Matrix",
+      "preview": "Challenge | Why it matters | Safe evidence-led formulation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Challenge",
+          "Why it matters",
+          "Safe evidence-led formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 502.29
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2013,
+      "markdown_body_line_end": 2028,
+      "heading": "Visual 62 - Reform Ladder",
+      "preview": "LEVEL 1: PROCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 413.49
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 262.49
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2034,
+      "markdown_body_line_end": 2041,
+      "heading": "Visual 63 - Proposal-Test Matrix",
+      "preview": "Proposal | Potential gain | Design safeguard needed",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Proposal",
+          "Potential gain",
+          "Design safeguard needed"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 601.89
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2047,
+      "markdown_body_line_end": 2064,
+      "heading": "CLOSING RECALL FLOW - INDEPENDENCE, ACCOUNTABILITY AND PERFORMANCE",
+      "preview": "START / CONCEPT: INDEPENDENCE, ACCOUNTABILITY AND PERFORMANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 560.69
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 349.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2075,
+      "markdown_body_line_end": 2075,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A strong answer separates CVC supervision, CBI investigation, departmental discipline, prosecution sanction, prosecution and judicial determination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 200.49
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 133.822
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2090,
+      "markdown_body_line_end": 2096,
+      "heading": "Visual 64 - What Is Frozen and What Is Not",
+      "preview": "Included as stable legal control | Deliberately not frozen",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Included as stable legal control",
+          "Deliberately not frozen"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 582.89
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2106,
+      "markdown_body_line_end": 2123,
+      "heading": "CLOSING RECALL FLOW - CURRENT AND LEGAL CONTROL SHEET",
+      "preview": "START / CONCEPT: CURRENT AND LEGAL CONTROL SHEET",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 361
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 474.89
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 243.89
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2134,
+      "markdown_body_line_end": 2134,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CVC-CBI answers score through exact legal routes, not generic anti-corruption commentary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 137.29
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 84.822
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2150,
+      "markdown_body_line_end": 2162,
+      "heading": "Visual 65 - Claim-Evidence-Analysis-Qualification",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 644.691
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 523.691
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2168,
+      "markdown_body_line_end": 2180,
+      "heading": "Visual 66 - 15-Mark Answer Spine",
+      "preview": "INTRO: define institution + identify legal tension",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 482.491
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 361.491
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2186,
+      "markdown_body_line_end": 2192,
+      "heading": "Visual 67 - Directive Decoder",
+      "preview": "Directive | Required response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Directive",
+          "Required response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 320.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 189.69
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2198,
+      "markdown_body_line_end": 2215,
+      "heading": "CLOSING RECALL FLOW - ANSWER-WRITING FRAMEWORKS",
+      "preview": "START / CONCEPT: ANSWER-WRITING FRAMEWORKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2226,
+      "markdown_body_line_end": 2226,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "High-yield traps and recap rules prevent errors about CVC-CBI source, consent and powers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 413.024
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2241,
+      "markdown_body_line_end": 2262,
+      "heading": "Visual 68 - Twenty Prelims Traps",
+      "preview": "Trap statement | Correct position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 20,
+        "headers": [
+          "Trap statement",
+          "Correct position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 282.69
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2268,
+      "markdown_body_line_end": 2277,
+      "heading": "Visual 69 - One-Minute Recall",
+      "preview": "CVC = VIGILANCE + ADVICE + PC-ACT SUPERINTENDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2283,
+      "markdown_body_line_end": 2300,
+      "heading": "CLOSING RECALL FLOW - HIGH-YIELD TRAPS AND MINI-RECAP",
+      "preview": "START / CONCEPT: HIGH-YIELD TRAPS AND MINI-RECAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 655.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 454.091
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2311,
+      "markdown_body_line_end": 2311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Source discipline prevents executive practice, statutory power and judicial exception from being confused.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 333.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 280.824
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2326,
+      "markdown_body_line_end": 2332,
+      "heading": "Visual 70 - Authority Hierarchy Used",
+      "preview": "Priority | Source class | Use in this package",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Priority",
+          "Source class",
+          "Use in this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2355,
+      "markdown_body_line_end": 2372,
+      "heading": "CLOSING RECALL FLOW - VERIFIED SOURCE AND AUTHORITY MAP",
+      "preview": "START / CONCEPT: VERIFIED SOURCE AND AUTHORITY MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 270.29
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 49.29
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3058,
+      "markdown_body_line_end": 3068,
+      "heading": "Visual 74 - MCQ Rotation Audit",
+      "preview": "Original MCQs 1-36:",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 335.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 234.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3086,
+      "heading": "Visual 71 - Verified PYQ Coverage",
+      "preview": "Year/paper | Question | Routing status | Treatment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Year/paper",
+          "Question",
+          "Routing status",
+          "Treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 699.39
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3094,
+      "markdown_body_line_end": 3095,
+      "heading": "B. Verified Mains PYQ - 2021 GS-II Q11",
+      "preview": "**Question:** “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the ",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 646.79
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 551.722
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3099,
+      "markdown_body_line_end": 3111,
+      "heading": "Visual 72 - PYQ Demand Map",
+      "preview": "PART 1: Why State consent exists",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 526.722
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 405.722
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3162,
+      "markdown_body_line_end": 3162,
+      "heading": "C. Verified Prelims PYQ - 2026 GS-I Q63 (Controlled Unsolved)",
+      "preview": "**63. With reference to the organisations under the Government of India, consider the following details:**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3164,
+      "markdown_body_line_end": 3168,
+      "heading": "C. Verified Prelims PYQ - 2026 GS-I Q63 (Controlled Unsolved)",
+      "preview": "Sl. No. | Organisation | Function | Controlling Union Ministry",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Sl. No.",
+          "Organisation",
+          "Function",
+          "Controlling Union Ministry"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 689.024
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 561.622
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3174,
+      "heading": "C. Verified Prelims PYQ - 2026 GS-I Q63 (Controlled Unsolved)",
+      "preview": "**In how many of the above rows are the given details correctly matched?** (a) 1 (b) 2 (c) 3 (d) None",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 561.622
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 531.154
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3178,
+      "markdown_body_line_end": 3190,
+      "heading": "Visual 73 - How to Audit a Matching Question Without Guessing",
+      "preview": "FOR EACH ROW, VERIFY THREE INDEPENDENT ELEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 506.154
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 385.154
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3200,
+      "markdown_body_line_end": 3200,
+      "heading": "Solved Mains 1 - 10 Marks / 150 Words",
+      "preview": "**“The CBI’s organisational birth and its investigative powers arise from different legal instruments.” Explain.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 276.354
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 245.887
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3204,
+      "markdown_body_line_end": 3211,
+      "heading": "Visual 75 - Two-Layer Thesis",
+      "preview": "ORGANISATION                         POLICE POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 220.887
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 149.887
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3271,
+      "markdown_body_line_end": 3271,
+      "heading": "Solved Mains 2 - 15 Marks / 250 Words",
+      "preview": "**Examine whether the CVC is an effective “apex vigilance institution” despite being primarily advisory and supervisory.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 385.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 340.624
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3275,
+      "markdown_body_line_end": 3284,
+      "heading": "Visual 76 - CVC Effectiveness Test",
+      "preview": "LEGAL STATUS + INDEPENDENCE SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 315.624
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 224.624
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3346,
+      "markdown_body_line_end": 3346,
+      "heading": "Solved Mains 3 - 15 Marks / 250 Words",
+      "preview": "**Analyse the constitutional and statutory limits on State power to deny CBI jurisdiction.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 251.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 221.024
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3350,
+      "markdown_body_line_end": 3357,
+      "heading": "Visual 77 - Qualified State Veto",
+      "preview": "ORDINARY ROUTE                    QUALIFICATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 196.024
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 125.024
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3423,
+      "markdown_body_line_end": 3423,
+      "heading": "Solved Mains 4 - 20 Marks / 300 Words",
+      "preview": "**“The central challenge is not to make CBI unaccountable to government, but to make investigation independent of improper control while keeping the agency answerable to law.” Critically analyse.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3427,
+      "markdown_body_line_end": 3436,
+      "heading": "Visual 78 - Insulation with Answerability",
+      "preview": "IMPROPER CONTROL                     LAWFUL ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 715.624
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 624.624
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3517,
+      "markdown_body_line_end": 3517,
+      "heading": "Solved Mains 5 - 10 Marks / 150 Words",
+      "preview": "**Differentiate the roles of Lokpal, CVC, CBI and departmental CVOs in processing corruption allegations.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 313.491
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 283.024
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3521,
+      "markdown_body_line_end": 3527,
+      "heading": "Visual 79 - Role-to-Output Chain",
+      "preview": "LOKPAL        -> complaint route and statutory directions",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 258.024
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 197.024
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3593,
+      "markdown_body_line_end": 3593,
+      "heading": "Solved Mains 6 - 15 Marks / 250 Words",
+      "preview": "**Discuss how the appointment and tenure architecture of the CBI Director attempts to reconcile continuity with democratic accountability.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 394.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3597,
+      "markdown_body_line_end": 3605,
+      "heading": "Visual 80 - Director Safeguard Triangle",
+      "preview": "SELECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 324.824
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 243.824
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3673,
+      "markdown_body_line_end": 3673,
+      "heading": "Solved Mains 7 - 15 Marks / 250 Words",
+      "preview": "**Compare CBI with ED, NIA and State anti-corruption agencies. Why is legal-domain separation essential?**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 203.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 173.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3677,
+      "markdown_body_line_end": 3685,
+      "heading": "Visual 81 - Domain Separation",
+      "preview": "CBI/DSPE -> notified corruption/economic/special crimes",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3771,
+      "markdown_body_line_end": 3771,
+      "heading": "Solved Mains 8 - 20 Marks / 300 Words",
+      "preview": "**Propose a reform framework for CVC-CBI that strengthens anti-corruption effectiveness without weakening federalism, due process or parliamentary accountability.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 582.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3775,
+      "markdown_body_line_end": 3788,
+      "heading": "Visual 82 - Reform Architecture",
+      "preview": "CLEAR LAW",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 513.224
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 382.224
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3854,
+      "markdown_body_line_end": 3854,
+      "heading": "1. Topic Thesis",
+      "preview": "**CVC supervises vigilance; CBI is the organisation; DSPE supplies police power; States control the ordinary State-area route; constitutional courts retain exceptional corrective power.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 325.891
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 281.224
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3858,
+      "markdown_body_line_end": 3870,
+      "heading": "Visual 83 - Register-Page Master Map",
+      "preview": "CVC ACT 2003                    DSPE ACT 1946",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 256.224
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 135.224
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3885,
+      "markdown_body_line_end": 3894,
+      "heading": "Visual 84 - Evolution Mnemonic",
+      "preview": "S - Special Police Establishment",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 537.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3900,
+      "markdown_body_line_end": 3911,
+      "heading": "3. CVC Snapshot",
+      "preview": "Head | Register note",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Head",
+          "Register note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 493.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 256.89
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3933,
+      "markdown_body_line_end": 3940,
+      "heading": "Visual 85 - \"S-D-I-R-A-V\" Recall",
+      "preview": "S = Superintend DSPE PC Act investigations",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 689.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3963,
+      "markdown_body_line_end": 3974,
+      "heading": "7. CBI/DSPE Snapshot",
+      "preview": "Head | Register note",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Head",
+          "Register note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 411.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 175.09
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3978,
+      "markdown_body_line_end": 3984,
+      "heading": "Visual 86 - DSPE \"2-3-4-5-6\" Ladder",
+      "preview": "2 = Union Territory powers",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4026,
+      "markdown_body_line_end": 4039,
+      "heading": "Visual 87 - Consent Decision Tree",
+      "preview": "WHERE?",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4064,
+      "markdown_body_line_end": 4069,
+      "heading": "11. Consent Cases",
+      "preview": "Case | One-line holding | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Case",
+          "One-line holding",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 402.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 248.29
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4087,
+      "markdown_body_line_end": 4101,
+      "heading": "Visual 88 - Lokpal-CVC-CBI-Court Flow",
+      "preview": "LOKPAL COMPLAINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 760.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 619.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4130,
+      "markdown_body_line_end": 4130,
+      "heading": "14. Investigation Lifecycle",
+      "preview": "**Threshold mnemonic:** `PE tests disclosure; FIR starts investigation; charge sheet states agency case; trial determines guilt.`",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 233.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 188.424
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4142,
+      "markdown_body_line_end": 4151,
+      "heading": "16. Comparison Capsule",
+      "preview": "Body | Memory phrase",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Body",
+          "Memory phrase"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 591.09
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4177,
+      "markdown_body_line_end": 4190,
+      "heading": "Visual 89 - Balance Formula",
+      "preview": "INDEPENDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 261.89
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 130.89
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4244,
+      "markdown_body_line_end": 4255,
+      "heading": "Visual 90 - Final 30-Second Revision Box",
+      "preview": "CVC: 2003 Act | 1 + <=2 | PM-HM-LoP | 4 yrs/65",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 664.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4270,
+      "markdown_body_line_end": 4270,
+      "heading": "21. Current-Control Limits to Write in the Margin",
+      "preview": "**Final conclusion:** CVC-CBI reform should protect evidence-based investigation from improper power while preserving federal consent, constitutional judicial review, due process, reasoned supervision and parliamentary system accountability",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 468.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 409.424
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4276,
+      "markdown_body_line_end": 4295,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Santhanam trajectory and the CVC-CBI-DSPE legal identity map",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 362.424
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 167.824
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4299,
+      "markdown_body_line_end": 4316,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: CVC composition, appointment and tenure",
+      "preview": "COMPOSITION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4320,
+      "markdown_body_line_end": 4331,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: CVC removal, service safeguards and legal limits",
+      "preview": "TERM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 478.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4335,
+      "markdown_body_line_end": 4347,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: CVC section 8 vigilance and CBI supervision",
+      "preview": "CVC FUNCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 332.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4351,
+      "markdown_body_line_end": 4358,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: CVO network, advice and prosecution-sanction monitoring",
+      "preview": "PROSECUTION SANCTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 310.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 238.691
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4362,
+      "markdown_body_line_end": 4382,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: CBI organisation, DSPE powers and mandate",
+      "preview": "CBI ORGANISATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4386,
+      "markdown_body_line_end": 4398,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: CBI superintendence and investigative judgment",
+      "preview": "SUPERINTENDENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4402,
+      "markdown_body_line_end": 4417,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: CBI Director appointment, tenure and transfer safeguards",
+      "preview": "TENURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 261.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4421,
+      "markdown_body_line_end": 4441,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: State consent and constitutional-court directions",
+      "preview": "ORDINARY STATE-AREA ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4445,
+      "markdown_body_line_end": 4466,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Lokpal interface, investigation lifecycle and procedural safeguards",
+      "preview": "LOKPAL ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 345.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4470,
+      "markdown_body_line_end": 4494,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: CVC, CBI, Lokpal, NIA and State Police: power-type comparison",
+      "preview": "CVC",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 23,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 323.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 77.891
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4498,
+      "markdown_body_line_end": 4524,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Cases, caged-parrot criticism and reform synthesis",
+      "preview": "Vineet Narain v. Union of India (1997)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 25,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 521.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    }
+  ]
+}

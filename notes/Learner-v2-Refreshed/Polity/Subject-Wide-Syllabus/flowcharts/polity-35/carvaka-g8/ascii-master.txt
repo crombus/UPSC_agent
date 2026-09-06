@@ -1,0 +1,222 @@
+ASCII MASTER FLOW — PANEL 1/12: Statutory origin and the section 2 human-rights field
+PROTECTION OF HUMAN RIGHTS ACT, 1993
+deemed commencement 28 September 1993 | presidential assent 8 January 1994.
+Amendments in 2006 and 2019 reshape design; commissions remain statutory.
+
+SECTION 2(d)
+rights relating to life, liberty, equality and dignity
+-> guaranteed by Constitution or embodied in defined International Covenants
+-> enforceable by courts in India.
+
+SECTION 2(f)
+ICCPR + ICESCR + notified UN General Assembly covenant or convention.
+
+INSTITUTIONAL MAP
+NHRC at Union level | SHRCs at State level | Human Rights Courts as trial route.
+
+LIMIT
+human-rights importance does not convert NHRC or SHRC into a constitutional court.
+MUST REMEMBER: Use the Protection of Human Rights Act, 1993 as amended in 2019; keep NHRC and
+  SHRC statutory rather than constitutional.
+
+ASCII MASTER FLOW — PANEL 2/12: NHRC composition and deemed-member boundary
+NHRC: Chairperson + five ordinary members under section 3(2).
+Chair: person who has been CJI or Supreme Court Judge.
+Judicial routes: Supreme Court Judge + High Court Chief Justice.
+Three experts; at least one woman.
+
+SEVEN DEEMED MEMBERS
+NCBC | NCM | NCPCR | NCSC | NCST | NCW | Chief Commissioner PwD.
+They participate for section 12(b)-(j), not section 12(a) complaint inquiry.
+
+TRAP
+'deemed member' is not a merger of specialised commissions.
+
+CURRENT PUBLIC ROSTER: 5 SEPTEMBER 2026
+Chair: Justice V. Ramasubramanian.
+Members: Justice (Dr) Bidyut Ranjan Sarangi | Vijaya Bharathi Sayani
+| Priyank Kanoongo. Do not infer occupants for undisplayed statutory seats.
+
+ASCII MASTER FLOW — PANEL 3/12: NHRC appointment, tenure and removal
+APPOINTMENT
+Six-member committee recommends -> President appoints by warrant.
+Sitting judicial appointee requires consultation with CJI.
+
+TENURE
+three years; age ceiling 70; reappointment permitted; post-office government employment barred.
+
+REMOVAL
+proved misbehaviour/incapacity: President reference -> Supreme Court inquiry/report -> removal.
+Separate direct statutory grounds remain distinct.
+
+LIMIT
+committee vacancy does not by itself invalidate appointment, but judicial review remains.
+
+ASCII MASTER FLOW — PANEL 4/12: SHRC design and the federal jurisdiction line
+SHRC MAY be constituted by State Government.
+Chair: person who has been High Court Chief Justice or Judge.
+One judicial member + one human-rights expert.
+Governor appoints after State committee recommendation; President removes under the Act.
+
+JURISDICTION
+State List + Concurrent List matters.
+No duplicate inquiry where NHRC or another commission is seized.
+Section 29 adapts section 12 and omits treaty-study clause 12(f).
+
+TRAP
+appointment by Governor does not mean removal by Governor.
+
+ASCII MASTER FLOW — PANEL 5/12: Section 12 functions and section 13 evidence powers
+SECTION 12 FUNCTIONS
+suo motu or petition inquiry | court intervention with approval
+| institution visits | review constitutional/legal safeguards
+| review factors inhibiting rights | study treaties
+| research | literacy | NGO encouragement | other necessary functions.
+
+SECTION 13 INQUIRY POWERS
+summon and examine on oath | documents | affidavits
+| public records | commissions | specified additional powers.
+
+SECTION 14 INVESTIGATION
+Commission may use Central or State government agency or officers with consent.
+
+PROCEDURAL FAIRNESS
+notice and hearing where reputation or conduct may be prejudicially affected.
+
+LIMIT
+civil-court evidence powers support inquiry;
+they do not create ordinary civil or criminal jurisdiction.
+
+ASCII MASTER FLOW — PANEL 6/12: Investigation support and procedural fairness
+SECTIONS 11 AND 14
+Central Government makes specified staff available to NHRC.
+Commission may use Central/State agency or officers with government consent.
+Agency works under Commission direction for the assigned investigation and reports back.
+
+SECTION 16
+Give a reasonable opportunity of hearing where conduct or reputation may be prejudicially affected.
+
+LIMIT
+government-linked staff can support capacity,
+but does not equal an independent permanent investigation cadre.
+CLOSE DISTINCTION: Sections 12-14 inquiry powers and section 18 recommendations do not create
+  criminal jurisdiction or self-executing compensation awards.
+
+ASCII MASTER FLOW — PANEL 7/12: Inquiry outputs, reporting and the one-year bar
+ENTRY
+complaint or suo motu material -> jurisdiction screen -> inquiry or investigation.
+
+SECTION 36
+no parallel inquiry where another named commission is seized.
+Section 36(2): no inquiry after one year from the alleged violative act.
+
+SECTION 18 OUTPUTS
+recommend compensation or damages
+| recommend prosecution or other action
+| approach Supreme Court or High Court
+| recommend immediate interim relief.
+
+FOLLOW-UP
+government comments/action report ordinarily within one month
+-> Commission publishes report, recommendation and response.
+
+LEGAL EFFECT
+recommendation carries public and institutional weight but is not a self-executing decree.
+
+TRAP
+action-taken reporting != mandatory acceptance and grave facts alone do not erase section 36(2).
+
+ASCII MASTER FLOW — PANEL 8/12: Section 19 armed-forces procedure
+NHRC own motion/petition -> seek Central Government report
+-> either stop or recommend -> Central Government reports action within three months
+-> Commission publishes report, recommendation and response.
+
+Armed forces = naval, military, air and other armed forces of Union.
+State police are not automatically within this definition.
+
+LIMIT
+section 19 replaces ordinary direct inquiry with a report-based route.
+It does not create a rights-free zone.
+
+ASCII MASTER FLOW — PANEL 9/12: Human Rights Courts and prosecution bridge
+SECTIONS 30-31
+State MAY, with High Court Chief Justice concurrence, specify a Court of Session for each district.
+Purpose: speedy trial of offences arising from human-rights violations.
+Special Public Prosecutor: Public Prosecutor or advocate with at least seven years' practice.
+
+BOUNDARY
+Commission inquires/recommends -> police investigate offences
+-> prosecutor presents case -> Sessions Court adjudicates.
+Notification is enabling; do not assume automatic nationwide operation.
+
+ASCII MASTER FLOW — PANEL 10/12: Overlap, referral and specialised commissions
+NHRC
+national statutory mandate subject to PHRA exclusions and transfer rules.
+
+SHRC
+inquires into matters relatable to State List and Concurrent List;
+section 29 adapts functions and omits treaty study.
+
+TRANSFER
+NHRC may transfer a complaint to a competent SHRC under statutory conditions.
+
+OVERLAP
+NCSC, NCST and NCBC have constitutional safeguard mandates.
+Women, child, minority and disability bodies have specialised statutory fields.
+
+COORDINATION
+common intake metadata -> reasoned referral -> no duplicate inquiry
+-> joint thematic work -> preserve specialist voice.
+
+LIMIT
+an umbrella merger cannot absorb constitutional commissions through ordinary PHRA amendment.
+
+ASCII MASTER FLOW — PANEL 11/12: Paris Principles, accreditation and case-law controls
+PARIS PRINCIPLES, 1993
+broad mandate | pluralism | open appointment | adequate resources
+| stable tenure | independent methods | accessibility.
+
+DOMESTIC TEST
+PHRA mandate and inquiry powers versus police/deputation dependence,
+short terms, selection opacity and weak follow-up.
+
+GANHRI CONTROL
+March 2025 SCA recommended B downgrade; India challenged.
+Alteration of India's accreditation is listed for a November 2026 session.
+SAFE LANGUAGE: unresolved official scrutiny, not a completed downgrade.
+
+CASE CONTROLS
+Paramjit Kaur v. State of Punjab (1999): Court-assigned Article 32 expert role
+does not erase ordinary PHRA limits.
+N.C. Dhoundial v. Union of India (2003): section 36(2) is jurisdictional;
+non-reparation does not make a completed act a daily continuing wrong.
+EEVFAM (2016): unlawful-force allegations require lawful inquiry;
+NHRC is valuable but neither exclusive nor generally binding.
+
+SYNTHESIS
+Court-assigned expertise may exceed the ordinary route,
+but autonomous statutory action remains bounded by the PHRA.
+
+ASCII MASTER FLOW — PANEL 12/12: Limits, reforms, PYQs and qualified verdict
+STRUCTURAL LIMITS
+recommendatory outputs | one-year bar | armed-forces report route
+| government-linked investigation support | federal and overlap boundaries.
+
+PRACTICAL LIMITS
+vacancies | staff/resources | delayed reports | uneven SHRC capacity
+| weak Human Rights Court routing | limited civil-society trust.
+
+REFORM
+independent multidisciplinary investigation cadre
+-> open plural appointments -> time-bound reasoned response
+-> grave/concealed-violation limitation reform
+-> safeguarded armed-forces fact-finding -> interoperable referrals.
+
+PYQ ROUTES
+2018 umbrella-commission debate | 2021 limitations and remedies
+| 2023 body-classification support.
+
+MAINS VERDICT
+strengthen fact-finding, independence and follow-through without misdescribing NHRC as a court.
+LEGAL/SOURCE LIMIT: The official roster identifies Justice V. Ramasubramanian and three
+  full-time members; GANHRI alteration proceedings remain unresolved.

@@ -502,3 +502,27 @@ nothing follows. Any "strengthen accountability" answer that does not address th
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Accountability requires an actor, forum, information, questioning, judgment, consequence and correction; RTI, audit, grievance redress, ombuds institutions and social audit provide different routes across transparency, answerability, enforcement and remedy.
+- **Indispensable distinction and prerequisite taxonomy:** RTI disclosure is not grievance adjudication, CAG audit is not conviction, vigilance inquiry is not judicial guilt, departmental appeal differs from judicial review, and social audit is participatory verification rather than a substitute for statutory audit.
+- **Mechanism, implementation and evidence control:** Apply RTI Act sections 4, 8, 10, 19 and 20 precisely, distinguish CPGRAMS from statutory tribunals, and trace MGNREGA social audit to action-taken and recovery; protect privacy, whistleblowers, due process, records and offline access.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: the RTI Act's disclosure, exemption, severability, appeal and penalty routes remain distinct; MGNREGA social audit remains participatory verification with a required follow-up chain. Disclosure, audit observation, grievance decision and legal guilt are not synonyms. Sources: https://rti.dopt.gov.in/; https://dopt.gov.in/sites/default/files/RTI_Act_2005_Eng.pdf; https://nrega.nic.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One direct General Studies Paper-II Mains demand and two applied objective demands are routed to this topic across the audited ledgers, and every routed Mains stem used below was confirmed word for word in the locally held OCR-searchable official question papers. The audited 2018-2023 Mains ledger routes the 2020 demand on recent amendments to the Right to Information Act and their impact on the autonomy and independence of the Information Commission to this owner as a cross-cutting demand shared with the Polity commission owner and the consolidated statutory-body owner, so the Governance half of that demand is answered here and the composition and amendment detail is cross-linked rather than restated. The audited 2024-2025 Mains ledger routes the 2024 demand on the Citizens' Charter as a landmark initiative that is yet to reach its full potential to this owner, while the charter architecture itself is held by the citizen-centric-administration file, so the solved card below answers the routed demand using this owner's accountability-ecosystem context and the other owner's charter structure. The audited 2026 Prelims ledger routes two applied accountability-routing demands here, on public-service accountability where vaccine distribution quality is compromised and on transparency and integrity in public procurement where adverse information is confidential; the 2026 Set-A key held locally is provisional, and no option, answer letter or distractor is recorded or inferred for either. No official answer key or marking scheme is held locally for any routed Mains demand, so every model solution below is an authored answer route rather than an official key.

@@ -207,3 +207,40 @@ Reinforced by:
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** tundra ET and ice-cap EF thresholds; polar radiation and
+  cold-desert precipitation; permafrost, vegetation and Indigenous livelihood;
+  Arctic-Antarctic asymmetry; sea ice, ice shelves and grounded ice; albedo,
+  carbon, circulation and access pathways; Ladakh cold-desert comparison and
+  India's polar research.
+- **Process control:** low sun angle, polar night and high albedo constrain the
+  energy budget; snow/ice retreat lowers albedo and reinforces warming.
+  Permafrost thaw changes hydrology, ground strength and carbon release, while
+  only loss of grounded land ice directly adds ocean mass.
+- **Scale/map control:** Arctic Ocean basin, Greenland ice sheet, Antarctic ice
+  sheet, floating sea ice and ice-shelf field, tundra landscape, Ladakh valley and
+  Himalayan glacier are separate. Ladakh is a high-altitude rain-shadow cold
+  desert and process analogue, not a polar climate or administrative proxy for
+  the whole trans-Himalaya.
+- **Date/data control:** sea-ice extent, glacier/ice-sheet mass balance,
+  permafrost state, route season, expedition count and Maitri-II status require
+  a dated NOAA/NSIDC/NCPOR/MoES release and stated baseline. A proposal or
+  design competition is not an operational station.
+- **Terminology control:** tundra ET has a warmest month above 0°C but below
+  10°C; ice-cap EF remains below 0°C year-round. Floating sea ice differs from
+  grounded ice and ice shelf; polar desert means low precipitation; Arctic
+  amplification is not identical to global mean warming.
+- **Causal control:** sea-ice loss does not directly raise sea level, and
+  Arctic-mid-latitude weather links remain confidence-graded rather than
+  settled. Ladakh aridity follows rain shadow, altitude and continentality,
+  not heat, and winter western disturbances provide limited snow.
+- **Boundary:** Topic 06 owns Himalayan glacier/GLOF detail; Topic 07 and Topic
+  18 own Thar/desertification and hot-desert climate; Topic 23 owns taiga and
+  subalpine transition. Environment owns species/conservation policy. Topic 25
+  owns polar processes, scale rules and the Indian cold-desert/polar bridge.
+- **Verified PYQ ownership, 2018-2026:** the direct route is 2021 GS-I Q15 on
+  melting Arctic ice, Antarctic glaciers and weather patterns. The answer must
+  open with ocean-versus-continent and floating-versus-grounded distinctions,
+  then grade sea-level, circulation, carbon and weather-link confidence.

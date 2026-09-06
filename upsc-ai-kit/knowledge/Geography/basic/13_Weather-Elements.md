@@ -532,3 +532,35 @@ LOW-AMPLITUDE (zonal) FLOW          HIGH-AMPLITUDE (meridional) FLOW
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** radiation-temperature-pressure-humidity-stability-cloud-
+  precipitation relations; pressure-gradient, Coriolis and friction controls;
+  upper-air Rossby waves and jet streams; subtropical westerly jet, polar-front
+  jet and tropical easterly jet distinctions; western-disturbance genesis,
+  tracks, moisture, precipitation and Indian seasonal effects.
+- **Process control:** thermal and pressure gradients organise winds; upper-air
+  wave troughs and embedded extratropical disturbances travel eastward in the
+  westerlies, acquire moisture and interact with Himalayan relief to produce
+  winter rain or snow.
+- **Scale/map control:** station observation, synoptic system, upper-air wave,
+  seasonal jet position and climatological regime are separate scales. A
+  western disturbance is mapped from West Asia/Mediterranean-linked westerlies
+  toward north-west India, not as a western branch of the monsoon.
+- **Date/data control:** observed rain/snow, system count, track, intensity,
+  seasonal anomaly and forecast require a dated IMD bulletin or observation.
+  One event cannot prove a permanent jet shift or long-term climate trend.
+- **Terminology control:** weather differs from climate; humidity from relative
+  humidity and dew point; jet stream from surface wind; trough from cyclone;
+  western disturbance from monsoon depression; observation from nowcast,
+  forecast and seasonal outlook.
+- **Causal control:** jet position steers and supports systems but is not a
+  single deterministic switch. Blocking, trough amplitude, moisture supply,
+  orography and synoptic evolution condition precipitation and impacts.
+- **Boundary:** Topic 12 owns IOD/ocean circulation; Topic 14 owns climate
+  classification; Topic 16 owns monsoon mechanism. Topic 13 owns weather
+  elements, upper-air circulation and western-disturbance process.
+- **Verified PYQ ownership, 2018-2026:** retain only routed questions on weather
+  elements, jet-stream/upper-air controls or western disturbances; reconstructed
+  wording and unavailable keys remain labelled rather than promoted.

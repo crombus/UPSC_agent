@@ -1,0 +1,2111 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\polity-15_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\polity-15_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 6,
+      "markdown_body_line_end": 6,
+      "heading": "Polity 15 - President and Vice-President - Complete Learning Package",
+      "preview": "Reviewed successor source. Approval remains false. Current/legal control checked 28 August 2026.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 800.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 710.824
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 685.824
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 435.622
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 48,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\polity-15_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 738.891
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 431.356
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 78,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 506.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 92,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two offices, two constitutional purposes: national continuity for the President and federal-chamber procedure for the Vice-President.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 360.49
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 293.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 105,
+      "markdown_body_line_end": 105,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The President is the constitutional Head of State; the Vice-President's regular work is chairing the Rajya Sabha.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\01_two_offices.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 107,
+      "markdown_body_line_end": 114,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | President | Vice-President",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "President",
+          "Vice-President"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 586.634
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 390.032
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 139,
+      "heading": "CLOSING RECALL FLOW - TWO OFFICES, TWO CONSTITUTIONAL PURPOSES",
+      "preview": "START / CONCEPT: Two offices, two constitutional purposes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 288.032
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 77.032
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 150,
+      "markdown_body_line_end": 150,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Election of the President begins by identifying exactly who votes and who is excluded.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 163,
+      "markdown_body_line_end": 163,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The presidential college combines elected Union and State representatives but excludes nominated and upper-State-house members.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\02_president_electoral_college.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 482.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 265.766
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 203,
+      "heading": "CLOSING RECALL FLOW - ELECTION OF THE PRESIDENT: WHO VOTES",
+      "preview": "START / CONCEPT: Election of the President: who votes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 671.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 460.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 214,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vote value, parity and PR-STV combine federal weighting with ranked-majority choice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 339.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 286.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Weighted vote values seek parity; ranked preferences then produce a majority-supported winner.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\03_vote_value_and_stv.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 270,
+      "heading": "CLOSING RECALL FLOW - VOTE VALUE, PARITY AND PR-STV",
+      "preview": "START / CONCEPT: Vote value, parity and PR-STV",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 254.634
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 43.634
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 281,
+      "markdown_body_line_end": 281,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Presidential election administration and disputes require both constitutional design and statutory machinery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 326,
+      "heading": "CLOSING RECALL FLOW - PRESIDENTIAL ELECTION ADMINISTRATION AND DISPUTES",
+      "preview": "START / CONCEPT: Presidential election administration and disputes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 337,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualifications, oath and conditions of office protect the dignity and independence of the presidency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 357,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Test | President",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Test",
+          "President"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 234.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 82.622
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 382,
+      "heading": "CLOSING RECALL FLOW - QUALIFICATIONS, OATH AND CONDITIONS OF OFFICE",
+      "preview": "START / CONCEPT: Qualifications, oath and conditions of office",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 507.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 393,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Term, re-election, vacancy and succession rules prevent an interregnum in the Head of State.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 386.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 334.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 406,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The Constitution separates normal expiry, continuation until a successor and a six-month casual-vacancy election.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\04_presidential_lifecycle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 175.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 435,
+      "heading": "CLOSING RECALL FLOW - TERM, RE-ELECTION, VACANCY AND SUCCESSION",
+      "preview": "START / CONCEPT: Term, re-election, vacancy and succession",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 401.634
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 190.634
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Impeachment under Article 61 deliberately separates election legitimacy from exceptional constitutional removal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 459,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Impeachment is a two-House quasi-judicial process requiring two-thirds of total membership at both decisive stages.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\05_impeachment.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 598.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 381.566
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 489,
+      "heading": "CLOSING RECALL FLOW - IMPEACHMENT UNDER ARTICLE 61",
+      "preview": "START / CONCEPT: Impeachment under Article 61",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 500,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Presidential immunities under Article 361 protect office continuity, not substantive impunity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 538,
+      "heading": "CLOSING RECALL FLOW - PRESIDENTIAL IMMUNITIES UNDER ARTICLE 361",
+      "preview": "START / CONCEPT: Presidential immunities under Article 361",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 549,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional position means dignity without a rival mandate: formal power and democratic responsibility are deliberately separated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 562,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Ministerial advice binds after reconsideration, but fractured mandates can create narrow situational choices.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\10_advice_and_discretion.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 201.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 602,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL POSITION: DIGNITY WITHOUT A RIVAL MANDATE",
+      "preview": "START / CONCEPT: Constitutional position: dignity without a rival mandate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 249.034
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 38.034
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 613,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Executive powers must be explained through both formal presidential authority and the real advice route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 626,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Presidential powers are constitutionally broad in form and ordinarily ministerially controlled in exercise.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\06_presidential_powers.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 482.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 265.766
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 655,
+      "heading": "CLOSING RECALL FLOW - EXECUTIVE POWERS",
+      "preview": "START / CONCEPT: Executive powers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 666,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legislative powers and Parliament place the President inside lawmaking without making the office a third legislative chamber.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 707,
+      "heading": "CLOSING RECALL FLOW - LEGISLATIVE POWERS AND PARLIAMENT",
+      "preview": "START / CONCEPT: Legislative powers and Parliament",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 718,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Veto under Article 111 and reserved State Bills must be separated bill type by bill type.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 730,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Ordinary, Money, Amendment and reserved State bills produce different presidential options.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\07_veto_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 232.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 738,
+      "heading": "Parliamentary bills",
+      "preview": "Bill | Options",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Bill",
+          "Options"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 564.634
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 476.432
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 772,
+      "heading": "CLOSING RECALL FLOW - VETO UNDER ARTICLE 111 AND RESERVED STATE BILLS",
+      "preview": "START / CONCEPT: Veto under Article 111 and reserved State bills",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 783,
+      "markdown_body_line_end": 783,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ordinance-making under Article 123 bridges time but cannot become a substitute for Parliament.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 796,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "An ordinance is temporary legislation, not an alternative permanent lawmaking channel.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\08_ordinance_cycle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 244.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - ORDINANCE-MAKING POWER UNDER ARTICLE 123",
+      "preview": "START / CONCEPT: Ordinance-making power under Article 123",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 438.09
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 217.09
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "These power clusters are constitutionally broad in form but institutionally divided in exercise.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 895,
+      "heading": "CLOSING RECALL FLOW - FINANCIAL, JUDICIAL, DIPLOMATIC, MILITARY AND EMERGENCY POWERS",
+      "preview": "START / CONCEPT: Financial, judicial, diplomatic, military and emergency powers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 278.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 67.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 906,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pardoning power under Article 72 is public constitutional power, not personal mercy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 72 contains five distinct forms of clemency and remains controlled by advice and limited review.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\09_clemency.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 482.424
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 265.766
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 935,
+      "heading": "Five forms",
+      "preview": "Form | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Form",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 173.166
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 42.565
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 946,
+      "markdown_body_line_end": 951,
+      "heading": "President versus Governor",
+      "preview": "Point | President, Article 72 | Governor, Article 161",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Point",
+          "President, Article 72",
+          "Governor, Article 161"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 656.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 547.49
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 972,
+      "heading": "CLOSING RECALL FLOW - PARDONING POWER UNDER ARTICLE 72",
+      "preview": "START / CONCEPT: Pardoning power under Article 72",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 525.49
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 304.49
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vice-President election and qualifications reflect the office’s principal parliamentary role.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 183.69
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 131.222
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 996,
+      "markdown_body_line_end": 996,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The Vice-President has a Parliament-only electoral college and a distinct casual-vacancy rule.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\11_vp_election_and_vacancy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 518.834
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1025,
+      "heading": "CLOSING RECALL FLOW - VICE-PRESIDENT: ELECTION AND QUALIFICATIONS",
+      "preview": "START / CONCEPT: Vice-President: election and qualifications",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 376.434
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 155.434
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1036,
+      "markdown_body_line_end": 1036,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vice-presidential term, removal and vacancy rules differ deliberately from presidential safeguards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1077,
+      "heading": "CLOSING RECALL FLOW - VICE-PRESIDENTIAL TERM, RESIGNATION, REMOVAL AND VACANCY",
+      "preview": "START / CONCEPT: Vice-Presidential term, resignation, removal and vacancy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 261.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 50.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1088,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Vice-President as Rajya Sabha Chairman is tested by procedural authority and perceived impartiality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1101,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The Chair combines procedural authority, a casting vote and a reviewable anti-defection role.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\12_rs_chairman.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 482.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 265.766
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1130,
+      "heading": "CLOSING RECALL FLOW - THE VICE-PRESIDENT AS RAJYA SABHA CHAIRMAN",
+      "preview": "START / CONCEPT: The Vice-President as Rajya Sabha Chairman",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Acting as President preserves continuity while keeping the two constitutional offices legally distinct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1178,
+      "heading": "CLOSING RECALL FLOW - ACTING AS PRESIDENT",
+      "preview": "START / CONCEPT: Acting as President",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1189,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current constitutional-office control must remain dated evidence rather than timeless doctrine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1201,
+      "markdown_body_line_end": 1201,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The 2025 transition demonstrates the Vice-President's resignation and fresh-term vacancy rules.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\13_vp_transition_2025.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 247.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1230,
+      "heading": "CLOSING RECALL FLOW - CURRENT CONSTITUTIONAL-OFFICE CONTROL",
+      "preview": "START / CONCEPT: Current constitutional-office control",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 630.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 409.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1241,
+      "markdown_body_line_end": 1241,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Master comparison and trap firewall convert similar-looking presidential and vice-presidential rules into exam-safe distinctions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 288.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 221.622
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1263,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Test | President | Vice-President",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Test",
+          "President",
+          "Vice-President"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 576.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1282,
+      "markdown_body_line_end": 1299,
+      "heading": "CLOSING RECALL FLOW - MASTER COMPARISON AND TRAP FIREWALL",
+      "preview": "START / CONCEPT: Master comparison and trap firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 326.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 115.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2466,
+      "markdown_body_line_end": 2466,
+      "heading": "PART II - Optional Advanced enrichment",
+      "preview": "Skipping this Part does not reduce answer completeness. Use it for deeper evaluation, comparison and interview-level refinement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 404.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 360.224
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2477,
+      "markdown_body_line_end": 2485,
+      "heading": "A2. Election method follows office design: India and France",
+      "preview": "Dimension | India | France",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "India",
+          "France"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 607.89
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2493,
+      "markdown_body_line_end": 2501,
+      "heading": "A3. India and USA: pardon power",
+      "preview": "Dimension | India | United States",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "India",
+          "United States"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 502.89
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 318.688
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2535,
+      "markdown_body_line_end": 2542,
+      "heading": "A8. Reform matrix",
+      "preview": "Issue | Reform-compatible response | Constitutional caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Issue",
+          "Reform-compatible response",
+          "Constitutional caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 393.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 219.09
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2546,
+      "heading": "A9. Mains answer architecture",
+      "preview": "A high-scoring answer connects provision, mechanism, distinction, evidence and a bounded verdict.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets\\14_mains_spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 194.09
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 586.634
+        }
+      },
+      "pdf_pages": [
+        62,
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2705,
+      "markdown_body_line_end": 2723,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Two Offices, Parliamentary Design And Current Control",
+      "preview": "PRESIDENT: Articles 52-62, 72 and 74; constitutional Head of State",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 635.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 451.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2727,
+      "markdown_body_line_end": 2741,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Election Colleges And Statutory Timeline",
+      "preview": "ARTICLE 54: elected MPs plus elected State, Delhi and Puducherry MLAs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 429.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 285.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2745,
+      "markdown_body_line_end": 2760,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Vote Value, Pr-Stv, Count And Article 71",
+      "preview": "MLA VALUE: 1971 population / elected MLAs / 1000 with constitutional rounding",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2764,
+      "markdown_body_line_end": 2780,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Qualifications, Oath, Term, Vacancy, Removal And Immunity",
+      "preview": "PRESIDENT: citizen, 35, Lok Sabha qualification, no disqualifying office of profit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 447.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2784,
+      "markdown_body_line_end": 2800,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Aid, Advice And Bounded Situational Discretion",
+      "preview": "ARTICLE 74: Council of Ministers with Prime Minister aids and advises",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 261.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2823,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Presidential Power Clusters And Accountability",
+      "preview": "EXECUTIVE: appointments, Rules of Business and Article 78 information",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2827,
+      "markdown_body_line_end": 2843,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Article 111 Veto And Article 201 Reserved Bills",
+      "preview": "ORDINARY UNION BILL: assent, withhold or return once; repassage requires assent",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2847,
+      "markdown_body_line_end": 2863,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Article 123 Ordinance Lifecycle And Case Control",
+      "preview": "TRIGGER: both Houses not simultaneously in session and immediate action necessary",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2867,
+      "markdown_body_line_end": 2882,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Article 72 Clemency, Review And Governor Contrast",
+      "preview": "FIVE FORMS: pardon, reprieve, respite, remission and commutation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2886,
+      "markdown_body_line_end": 2901,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Vice-President: Election, Term, Removal And Vacancy",
+      "preview": "ARTICLE 66: all elected and nominated MPs; equal votes; PR-STV secret ballot",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 457.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2920,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Rajya Sabha Chairman And Acting-President Role",
+      "preview": "ARTICLE 64: ex-officio Chairman and not a Rajya Sabha member",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 435.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 281.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2924,
+      "markdown_body_line_end": 2943,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Pyq Firewall, Answer Spines And Qualified Verdict",
+      "preview": "EIGHT VERIFIED PYQS: 2018, 2022, 2023 and 2025 routes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    }
+  ]
+}

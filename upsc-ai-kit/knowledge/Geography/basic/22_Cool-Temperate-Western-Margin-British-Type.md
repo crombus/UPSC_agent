@@ -174,3 +174,38 @@ WESTERN MARGIN (British type)              EASTERN MARGIN (Laurentian type)
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** cool-temperate western-margin distribution; permanent
+  Westerlies, maritime moderation, frontal/cyclonic and relief rain; mild
+  winters, cool summers, small annual range, deciduous forest and dairying;
+  Himalayan moist, wet and dry temperate forest analogues.
+- **Process control:** onshore Westerlies plus warm-current influence and
+  frontal systems moderate temperature and distribute rain through the year.
+  In the Himalaya altitude, aspect, monsoon exposure and rain shadow replace
+  latitude as the primary zonation controls.
+- **Scale/map control:** NW European region, narrow British Columbia strip,
+  southern Chile/Tasmania/New Zealand margins, Himalayan slope, forest belt
+  and stand are distinct. A 1,500-3,300 metre textbook belt is approximate and
+  cannot be treated as one fixed contour across the Himalaya.
+- **Date/data control:** forest cover, fire detections, burned area, snow or
+  moisture anomaly and restoration outcome require a dated FSI/state/IMD
+  source. ISFR 2023 is an assessment edition, not a 2026 forest-condition
+  measurement, and forest cover is not temperate-forest extent.
+- **Terminology control:** British type equals marine west coast, not every
+  temperate coast; deciduous differs from coniferous and mixed forest; deodar
+  is a conifer, chir pine is mainly subtropical montane, and dry temperate
+  forest differs from the humid middle-slope belt.
+- **Causal control:** resinous litter, dry weather and ignition can accelerate
+  fire, but chir pine alone does not prove cause. Forest-floor storage can
+  support springs, yet geology, soil depth, rainfall, extraction and land use
+  also govern catchment response.
+- **Boundary:** Topic 19 owns Mediterranean climate; Topics 23-24 own
+  subalpine/alpine and Eastern-Himalaya/Laurentian comparisons. Environment
+  owns forest-conservation policy. Topic 22 owns British-type mechanism and the
+  Himalayan temperate-forest zonation/water-security analogy.
+- **Verified PYQ ownership, 2018-2026:** the routed 2024 Prelims Marine West
+  Coast demand tests low annual/daily range and year-round precipitation. Its
+  official answer letter is not invented; other forest questions retain their
+  routed owners.

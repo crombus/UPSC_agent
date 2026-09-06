@@ -1404,6 +1404,38 @@ mobilisation, `15_Secularism.md` for coexistence — with each borrowing labelle
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** salient features of Indian society,
+  diversity and unity-in-diversity; define diversity, plurality, disparity,
+  marginality, integration, assimilation, syncretism and composite culture before
+  evaluating language, religion, caste, tribe, class, region and rural-urban
+  location as intersecting axes.
+- **Indispensable sociology:** cross-cutting and reinforcing cleavages explain when
+  difference dampens or compounds conflict; Nancy Fraser's recognition-
+  redistribution distinction is optional analytical depth, not constitutional
+  doctrine. Integration never means homogenisation and coexistence never proves
+  equal power.
+- **India-specific and intersectional control:** use linguistic reorganisation,
+  Sufi-Bhakti/shared-shrine practices, metropolitan linguistic minorities and
+  PVTG-linked remoteness as bounded cases. Compare region, class, gender and
+  rural-urban location inside every identity instead of stereotyping a community.
+- **Data/source control:** Census 2011 language, SC and ST stocks remain the latest
+  completed full-Census baseline. Census 2027 is prospective; its reference dates
+  and caste-enumeration decision may be cited, but no result may be invented.
+  The Ministry of Tribal Affairs PVTG list is dated 9 July 2024.
+- **Cross-owner boundary:** Topic 02 owns caste structure, Topic 03 tribal society,
+  Topic 04 family/kinship and Topic 05 rural society. Population belongs to Topic
+  06, women to Topic 07, empowerment to Topic 08 and poverty to Topic 09.
+  Constitutional detail remains Polity-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  textbook taxonomy and PYQ demands were checked for absent concepts, mechanisms,
+  counter-cases, regional variation, intersectionality and evidence limitations.
+- **Verified PYQ ownership, 2018-2026:** direct GS-I demands are 2019 Q8 and
+  2024 Q20. The official 2026 GS-I paper was not available on the UPSC previous-
+  papers portal when rechecked on 5 September 2026; no 2026 demand or key is
+  fabricated.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Five diversity axes?

@@ -308,3 +308,42 @@ verdict.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** poverty may be monetary,
+  multidimensional, absolute, relative, chronic, transient or vulnerable-to-
+  poverty. Incidence, depth, severity, inequality, social exclusion and
+  development are different concepts and must not be collapsed into one rate.
+- **Development distinction:** economic growth concerns aggregate expansion;
+  human development concerns health, education and living standards; capability
+  development concerns real freedoms; inclusive and sustainable development add
+  distribution, participation, resilience and ecological constraints. Poverty
+  reduction is one development outcome, not a synonym for development.
+- **Indispensable sociology and intersectionality:** assets, land and housing tenure, labour-
+  market security, discrimination, health shocks, care burdens, indebtedness,
+  service quality and state capacity explain entry, persistence and exit.
+  Rural/urban location, caste, tribe, gender, religion, disability and region
+  alter both exposure and conversion of assistance into durable capability.
+- **Measurement control:** a consumption poverty line and the National
+  Multidimensional Poverty Index answer different questions. Headcount does not
+  show depth or severity; MPI incidence does not equal consumption poverty; a
+  survey estimate does not prove programme causation or current household status.
+- **Data/source control:** NITI Aayog's January 2024 discussion paper estimated
+  11.28 per cent multidimensional poverty in 2022-23 and about 24.82 crore exits
+  between 2013-14 and 2022-23 using an extrapolative method beyond NFHS-5 actuals.
+  MoSPI's HCES 2023-24 covers August 2023-July 2024 and reports consumption, not
+  an official poverty headcount unless a specified methodology is applied.
+- **Ownership boundary:** Economy owns Tendulkar/Rangarajan and poverty-line
+  methodology; Social Justice owns detailed entitlement and scheme architecture;
+  Governance owns partnership design. This owner explains deprivation,
+  exclusion, capability conversion, class-differentiated shocks and development
+  trade-offs without importing those inventories.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were tested for poverty-development distinctions, causal
+  direction, persistence mechanisms, measurement limits, collaboration and
+  environment-livelihood trade-offs.
+- **Verified PYQ ownership, 2018-2026:** direct routes cover 2018 persistent
+  poverty, 2020 pandemic/class inequality, the cross-owned 2024 collaboration
+  demand and the 2025 sustainable-growth/poor-needs conflict. No unavailable
+  2026 demand or current poverty rate is invented.

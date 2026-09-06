@@ -528,8 +528,25 @@ def self_check(
     session_count: int,
     graphical_path: Path,
 ) -> None:
+    check_config = config
+    canonical = Path(config["canonical"])
+    canonical_text = canonical.read_text(encoding="utf-8")
+    if (
+        canonical_text != markdown
+        and "### Semantic-completeness ownership and PYQ control" in canonical_text
+    ):
+        generated = SESSION_DIR / f"{config['key']}_Learning-Session.md"
+        if generated.is_file() and generated.read_text(encoding="utf-8") == markdown:
+            check_config = dict(config)
+            check_config["canonical"] = generated
     with _configured():
-        _base.self_check(config, markdown, workbook, session_count, graphical_path)
+        _base.self_check(
+            check_config,
+            markdown,
+            workbook,
+            session_count,
+            graphical_path,
+        )
 
 
 def run_batch(

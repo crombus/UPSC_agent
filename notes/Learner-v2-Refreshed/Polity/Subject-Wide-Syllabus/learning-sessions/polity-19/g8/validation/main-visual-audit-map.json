@@ -1,0 +1,3769 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g8\\polity-19_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g8\\polity-19_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-19",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Polity 19 - Governor CM State Council - Complete Topic Package",
+      "preview": "**Subject:** Indian Polity | **Topic:** 19 | **GS-II + Prelims** | **Export date:** 2026-08-28  **Approval:** false - awaiting explicit user approval.  **Evidence key:** [FACT] constitutional, judicial or officially verified proposition; [A",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 692.424
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 26,
+      "markdown_body_line_end": 37,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 477.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 63,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 92,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g8\\assets\\polity-19_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 106,
+      "markdown_body_line_end": 106,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State executive design separates legal form from democratic command: the Governor constitutes office while the confidence-holding ministry governs.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 299.556
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 232.888
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 138,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "People elect Legislative Assembly",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 151,
+      "markdown_body_line_end": 167,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Subject | One-line recall",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 15,
+        "headers": [
+          "Article",
+          "Subject",
+          "One-line recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 389.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 46.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 169,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Memory line:** 153-162 build the Governor; 163-167 build responsible State government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 173,
+      "markdown_body_line_end": 190,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL DESIGN: ONE STATE EXECUTIVE, TWO POLITICAL IDENTITIES",
+      "preview": "START / CONCEPT: Constitutional design: one State executive, two political identities",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 737.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 526.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 201,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Appointment, eligibility and conditions are separate legal questions; Sarkaria conventions are not constitutional qualifications.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 387.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 320.356
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 233,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 155 appointment by President",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 251,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Layer | What controls | Legal status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Layer",
+          "What controls",
+          "Legal status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 384.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 274.89
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**UPSC trap:** There is no constitutional election, electoral college, State-legislature confirmation or minimum educational qualification for Governor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 274.89
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 230.222
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 257,
+      "markdown_body_line_end": 274,
+      "heading": "CLOSING RECALL FLOW - APPOINTMENT, QUALIFICATIONS, OATH AND CONDITIONS",
+      "preview": "START / CONCEPT: Appointment, qualifications, oath and conditions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 285,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The five-year term is an outer period subject to pleasure, not a guaranteed lease in one State.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 308,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "One individual",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 223.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 132.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 325,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Appointment",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 345,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Proposition | Correct? | Why",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Proposition",
+          "Correct?",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 490.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 348.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 366,
+      "heading": "CLOSING RECALL FLOW - COMMON GOVERNOR, TERM, PLEASURE, RESIGNATION, TRANSFER AND CONTINUITY",
+      "preview": "START / CONCEPT: Common Governor, term, pleasure, resignation, transfer and continuity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 313.89
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 102.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 377,
+      "markdown_body_line_end": 377,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional immunity protects office performance, not a pocket of unreviewable State power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 402,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PERSONAL IMMUNITY DURING TERM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 480.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 369.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 417,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand | Correct doctrinal distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Demand",
+          "Correct doctrinal distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 190.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 90.822
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 438,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 361 IMMUNITY AND ACCOUNTABILITY",
+      "preview": "START / CONCEPT: Article 361 immunity and accountability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 449,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A high-scoring answer classifies gubernatorial powers before asking whether advice or discretion controls each one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 471,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "GOVERNOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 161.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 493,
+      "heading": "A. Executive powers",
+      "preview": "Office/body | Governor's role | Trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Office/body",
+          "Governor's role",
+          "Trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 704.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 508.69
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 518,
+      "heading": "B. Legislative powers",
+      "preview": "State legislature",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 287.29
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 186.29
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 551,
+      "heading": "E. University Chancellor and other statutory roles",
+      "preview": "Function | Source | Can State law redesign it?",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Function",
+          "Source",
+          "Can State law redesign it?"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 551.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 442.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 555,
+      "markdown_body_line_end": 572,
+      "heading": "CLOSING RECALL FLOW - GOVERNOR'S POWERS: COMPLETE CLASSIFICATION",
+      "preview": "START / CONCEPT: Governor's powers: complete classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 420.29
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 209.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 583,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 163 creates limited exception, not a parallel political executive in Raj Bhavan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 610,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "DEFAULT",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 596.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 465.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 624,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Category | Illustrations | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Category",
+          "Illustrations",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 317.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 128.422
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 626,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Core rule:** Discretion fills a constitutional gap; it does not create a rival elected executive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 128.422
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 97.954
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 653,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 163: AID, ADVICE AND THE NARROW FIELD OF DISCRETION",
+      "preview": "START / CONCEPT: Article 163: aid, advice and the narrow field of discretion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 664,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cases earn marks only when each name is attached to its exact Governor proposition and factual limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 701,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Shamsher Singh (1974)",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 754,
+      "heading": "Subhash Desai (2023) v. Principal Secretary, Governor of Maharashtra (2023)",
+      "preview": "Question signal | Primary case | What to write | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Question signal",
+          "Primary case",
+          "What to write",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 587.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 419.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 775,
+      "heading": "CLOSING RECALL FLOW - CASE-LAW CONTROL: PROPOSITION, SIGNIFICANCE AND LIMITATION",
+      "preview": "START / CONCEPT: Case-law control: proposition, significance and limitation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 397.49
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 176.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 786,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Government formation is a temporary selection judgment whose democratic validation occurs on the Assembly floor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 820,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Election result",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 461.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 260.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 835,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Stage | Actor | Constitutional meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Stage",
+          "Actor",
+          "Constitutional meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 863,
+      "heading": "CLOSING RECALL FLOW - CHIEF MINISTER APPOINTMENT AND GOVERNMENT FORMATION",
+      "preview": "START / CONCEPT: Chief Minister appointment and government formation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 538.49
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 327.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 874,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The floor test is the constitutional cure for demonstrated doubt, not a device for manufacturing instability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 206.69
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 154.222
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 904,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Political noise alone",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 575.491
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 920,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Requirement | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Requirement",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 444.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 293.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 941,
+      "heading": "CLOSING RECALL FLOW - FLOOR TEST: TRIGGER, PROCESS AND LIMITS",
+      "preview": "START / CONCEPT: Floor test: trigger, process and limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 271.09
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 50.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 952,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dismissal and dissolution are distinct constitutional consequences and neither should precede a proper confidence inquiry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 973,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Situation | Constitutionally proper response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Situation",
+          "Constitutionally proper response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 447.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 295.422
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 994,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Outgoing ministry continues",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1015,
+      "heading": "CLOSING RECALL FLOW - DISMISSAL, DISSOLUTION AND CARETAKER GOVERNMENT",
+      "preview": "START / CONCEPT: Dismissal, dissolution and caretaker government",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1026,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Raj Bhavan reports trigger scrutiny, not an unreviewable power to dismiss State government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 333.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 281.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1056,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Governor's report OR other material",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1085,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 356 RECOMMENDATION AND THE FEDERAL FIREWALL",
+      "preview": "START / CONCEPT: Article 356 recommendation and the federal firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 475.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 254.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1096,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Governor participates constitutionally in lawmaking while remaining outside legislative membership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 114.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 62.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1110,
+      "markdown_body_line_end": 1116,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Governor's relation | Key caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Article",
+          "Governor's relation",
+          "Key caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 518.09
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1132,
+      "markdown_body_line_end": 1149,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 168, 171 AND 174-176: GOVERNOR INSIDE THE LEGISLATIVE PROCESS",
+      "preview": "START / CONCEPT: Articles 168, 171 and 174-176: Governor inside the legislative process",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 296.29
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 85.29
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1160,
+      "markdown_body_line_end": 1160,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 200 is a decision gateway, not authority to invent a permanent pocket veto.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1191,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bill presented to Governor",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 461.424
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 290.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1206,
+      "markdown_body_line_end": 1212,
+      "heading": "Mandatory reservation for High Court protection",
+      "preview": "Choice | Constitutional function | Abuse risk | Control",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Choice",
+          "Constitutional function",
+          "Abuse risk",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 666.39
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1233,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 200: ASSENT, WITHHOLDING, RETURN AND RESERVATION",
+      "preview": "START / CONCEPT: Article 200: assent, withholding, return and reservation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 644.39
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 433.39
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1244,
+      "markdown_body_line_end": 1244,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reservation transfers the decision to the President and changes the repassage consequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 307.79
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 255.322
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1274,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Governor reserves Bill",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1284,
+      "markdown_body_line_end": 1301,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 201 AND THE PRESIDENT ON RESERVED STATE BILLS",
+      "preview": "START / CONCEPT: Article 201 and the President on reserved State Bills",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 514.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 303.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1312,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The two decisions must be reconciled narrowly rather than described as a simple overruling sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 149.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 96.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1344,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "8 April 2025",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 684.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1360,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Unsafe claim | Exam-safe formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Unsafe claim",
+          "Exam-safe formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 341.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 177.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1364,
+      "markdown_body_line_end": 1381,
+      "heading": "CLOSING RECALL FLOW - ASSENT DOCTRINE AFTER THE TWO 2025 DECISIONS",
+      "preview": "START / CONCEPT: Assent doctrine after the two 2025 decisions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1392,
+      "markdown_body_line_end": 1392,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The ordinance is a temporary constitutional bridge whose legitimacy depends on returning lawmaking to the legislature.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1424,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Immediate action considered necessary",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1450,
+      "heading": "Re-promulgation",
+      "preview": "Question | If answer is weak, constitutional risk rises",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Question",
+          "If answer is weak, constitutional risk rises"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 271.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 119.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1471,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 213 ORDINANCES: EMERGENCY BRIDGE, NOT PARALLEL LEGISLATURE",
+      "preview": "START / CONCEPT: Article 213 ordinances: emergency bridge, not parallel legislature",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Clemency comparison must separate offence field, court martial and the precise treatment of a death sentence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 432.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 380.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1496,
+      "markdown_body_line_end": 1502,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | President - Article 72 | Governor - Article 161",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "President - Article 72",
+          "Governor - Article 161"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 219.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 88.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1512,
+      "markdown_body_line_end": 1529,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 161 COMPARED WITH ARTICLE 72",
+      "preview": "START / CONCEPT: Article 161 compared with Article 72",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 687.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 476.091
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1540,
+      "markdown_body_line_end": 1540,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Chief Minister is the real State executive because political authority flows through confidence and collective responsibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 336.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 269.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1554,
+      "markdown_body_line_end": 1562,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CHIEF MINISTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1574,
+      "markdown_body_line_end": 1591,
+      "heading": "CLOSING RECALL FLOW - CHIEF MINISTER: CONSTITUTIONAL POSITION AND POWERS",
+      "preview": "START / CONCEPT: Chief Minister: constitutional position and powers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 498.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 287.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1602,
+      "markdown_body_line_end": 1602,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 167 creates an information bridge, not a parallel gubernatorial administration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 162.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 109.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1616,
+      "markdown_body_line_end": 1626,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "COMMUNICATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 615.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1633,
+      "markdown_body_line_end": 1633,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Memory line:** Article 167 = **Communicate - Furnish - Collectivise**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 503.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 473.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1637,
+      "markdown_body_line_end": 1654,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 167: COMMUNICATE, FURNISH, COLLECTIVISE",
+      "preview": "START / CONCEPT: Article 167: communicate, furnish, collectivise",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 451.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 240.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1665,
+      "markdown_body_line_end": 1665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Council converts electoral confidence into coordinated executive action under a Chief Minister.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 100.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 48.156
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1679,
+      "markdown_body_line_end": 1692,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Governor",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 517.691
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1717,
+      "markdown_body_line_end": 1721,
+      "heading": "Individual responsibility",
+      "preview": "Type | Constitutional/practical base | Consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Constitutional/practical base",
+          "Consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 175.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 87.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1725,
+      "markdown_body_line_end": 1742,
+      "heading": "CLOSING RECALL FLOW - STATE COUNCIL OF MINISTERS UNDER ARTICLES 163-164",
+      "preview": "START / CONCEPT: State Council of Ministers under Articles 163-164",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1753,
+      "markdown_body_line_end": 1753,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 91st Amendment disciplines ministry size and rewards, while the Tribal Welfare proviso is a separate constitutional obligation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1779,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Maximum State ministry",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1789,
+      "markdown_body_line_end": 1794,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rank | Typical role | Constitutional caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Rank",
+          "Typical role",
+          "Constitutional caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 538.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 406.69
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1804,
+      "markdown_body_line_end": 1810,
+      "heading": "Tribal Welfare Minister",
+      "preview": "Tribal Welfare Minister rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 285.49
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 224.49
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1814,
+      "markdown_body_line_end": 1831,
+      "heading": "CLOSING RECALL FLOW - MINISTRY SIZE, DEFECTOR BAR, RANKS AND TRIBAL WELFARE MINISTER",
+      "preview": "START / CONCEPT: Ministry size, defector bar, ranks and Tribal Welfare Minister",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1842,
+      "markdown_body_line_end": 1842,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 165 Advocate General advice and Article 166 State business rules supply the legal and administrative form of responsible government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1856,
+      "markdown_body_line_end": 1861,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Institution/rule | Function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Article",
+          "Institution/rule",
+          "Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 209.224
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 99.822
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1872,
+      "markdown_body_line_end": 1889,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 165 ADVOCATE GENERAL AND ARTICLE 166 STATE BUSINESS",
+      "preview": "START / CONCEPT: Article 165 Advocate General and Article 166 State business",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 458.891
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1900,
+      "markdown_body_line_end": 1900,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Comparison should use identical parameters rather than treating the Governor as a miniature President.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 319.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 266.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1914,
+      "markdown_body_line_end": 1925,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Point | President | Governor",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Point",
+          "President",
+          "Governor"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 566.69
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1932,
+      "markdown_body_line_end": 1949,
+      "heading": "CLOSING RECALL FLOW - PRESIDENT AND GOVERNOR: SIMILARITIES THAT MUST NOT ERASE DIFFERENCES",
+      "preview": "START / CONCEPT: President and Governor: similarities that must not erase differences",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 468.89
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 257.89
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1960,
+      "markdown_body_line_end": 1960,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The office can bridge constitutional communication, yet its incentive structure can create partisan perception.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 118.09
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 65.622
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1974,
+      "markdown_body_line_end": 1991,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Union appointment: Article 155",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 477.691
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2014,
+      "markdown_body_line_end": 2020,
+      "heading": "Criticisms",
+      "preview": "Critique | Institutional reply | Residual problem",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Critique",
+          "Institutional reply",
+          "Residual problem"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 661.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2024,
+      "markdown_body_line_end": 2041,
+      "heading": "CLOSING RECALL FLOW - DUAL ROLE, FEDERAL FRICTION AND INSTITUTIONAL INCENTIVES",
+      "preview": "START / CONCEPT: Dual role, federal friction and institutional incentives",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 639.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 418.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2052,
+      "markdown_body_line_end": 2052,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The reform consensus seeks accountable neutrality without abolishing constitutional flexibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 278.69
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 226.222
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2066,
+      "markdown_body_line_end": 2070,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Body | Main Governor-related proposal in sourced Core | Status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Body",
+          "Main Governor-related proposal in sourced Core",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 659.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2078,
+      "markdown_body_line_end": 2085,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Partisan appointment risk -> consultative/plural selection",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 574.09
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 503.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2089,
+      "markdown_body_line_end": 2106,
+      "heading": "CLOSING RECALL FLOW - SARKARIA, PUNCHHI AND NCRWC REFORM AGENDA",
+      "preview": "START / CONCEPT: Sarkaria, Punchhi and NCRWC reform agenda",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 481.09
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 270.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2117,
+      "markdown_body_line_end": 2117,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Governor answer writing should move from a claim through constitutional evidence and analysis to a qualification and reasoned verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 130.29
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 63.622
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2131,
+      "markdown_body_line_end": 2146,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 497.691
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2150,
+      "markdown_body_line_end": 2158,
+      "heading": "Directive fidelity",
+      "preview": "Directive | Required operation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Directive",
+          "Required operation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 475.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 302.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2162,
+      "markdown_body_line_end": 2166,
+      "heading": "Directive fidelity",
+      "preview": "Marks | Structure | Normal named evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Normal named evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 283.49
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 172.888
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2179,
+      "markdown_body_line_end": 2196,
+      "heading": "CLOSING RECALL FLOW - ANSWER WRITING: CLAIM, EVIDENCE, ANALYSIS, QUALIFICATION, VERDICT",
+      "preview": "START / CONCEPT: Answer writing: claim, evidence, analysis, qualification, verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 687.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 486.091
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3530,
+      "markdown_body_line_end": 3534,
+      "heading": "A1. Formal vesting, real authority and constitutional trusteeship",
+      "preview": "Level | Nature | Example | Standard",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Level",
+          "Nature",
+          "Example",
+          "Standard"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 315.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 198.79
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3543,
+      "markdown_body_line_end": 3558,
+      "heading": "A2. The political-information problem",
+      "preview": "Private political claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 615.091
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3572,
+      "markdown_body_line_end": 3577,
+      "heading": "A3. Assent as a separation-of-powers problem",
+      "preview": "Value | What it supports | What restrains it",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Value",
+          "What it supports",
+          "What restrains it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 382.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 273.09
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3588,
+      "markdown_body_line_end": 3595,
+      "heading": "A4. Anti-defection and formation crises",
+      "preview": "Governor -> Does ministry retain Assembly confidence?",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3605,
+      "markdown_body_line_end": 3612,
+      "heading": "A5. Federal reform: legal rules versus conventions",
+      "preview": "Defect | Best primary instrument | Reason",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Defect",
+          "Best primary instrument",
+          "Reason"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 612.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 437.89
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3629,
+      "markdown_body_line_end": 3637,
+      "heading": "Constitutional operating chain",
+      "preview": "Assembly confidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 177.69
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 96.69
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3646,
+      "markdown_body_line_end": 3662,
+      "heading": "Articles 153-167 rapid map",
+      "preview": "Article | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "Article",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 424.49
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3689,
+      "markdown_body_line_end": 3695,
+      "heading": "Article 361 immunity",
+      "preview": "Protection | Exact point",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Protection",
+          "Exact point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3745,
+      "markdown_body_line_end": 3750,
+      "heading": "Article 163 discretion",
+      "preview": "Advice is default",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 695.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3760,
+      "markdown_body_line_end": 3769,
+      "heading": "Case-law proposition bank",
+      "preview": "Case | Proposition | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Case",
+          "Proposition",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 576.691
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 315.29
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3773,
+      "markdown_body_line_end": 3778,
+      "heading": "Hung Assembly and CM appointment",
+      "preview": "Clear majority -> appoint leader",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 293.29
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 242.29
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3819,
+      "markdown_body_line_end": 3824,
+      "heading": "Article 200 exact card",
+      "preview": "Option | Rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Option",
+          "Rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 453.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 344.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3841,
+      "markdown_body_line_end": 3844,
+      "heading": "2025 assent doctrine control",
+      "preview": "Date | Authority | Safe proposition",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Date",
+          "Authority",
+          "Safe proposition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 151.69
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 62.288
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3854,
+      "markdown_body_line_end": 3861,
+      "heading": "Article 213 ordinance card",
+      "preview": "Session condition + immediate necessity",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 712.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 641.491
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3902,
+      "markdown_body_line_end": 3908,
+      "heading": "91st Amendment and Tribal Welfare Minister",
+      "preview": "Rule | Exact fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Rule",
+          "Exact fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3976,
+      "markdown_body_line_end": 3979,
+      "heading": "Mains answer spines",
+      "preview": "Article 163 -> Shamsher default -> express/situational fields",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 527.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3983,
+      "markdown_body_line_end": 3986,
+      "heading": "Mains answer spines",
+      "preview": "Article 200 options -> HC mandatory reservation -> Article 201",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 507.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 476.891
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3990,
+      "markdown_body_line_end": 3993,
+      "heading": "Mains answer spines",
+      "preview": "Article 164 -> objective support -> floor test",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 457.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 426.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3997,
+      "markdown_body_line_end": 4000,
+      "heading": "Mains answer spines",
+      "preview": "Articles 155-156 -> structural Union tilt",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 407.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 376.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4004,
+      "markdown_body_line_end": 4007,
+      "heading": "Mains answer spines",
+      "preview": "Article 213 urgency -> laying/six weeks",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 357.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 326.291
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4011,
+      "markdown_body_line_end": 4014,
+      "heading": "Mains answer spines",
+      "preview": "Articles 163-164 -> Assembly responsibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 307.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 276.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4059,
+      "markdown_body_line_end": 4073,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Responsible State executive: legal form and democratic command",
+      "preview": "ARTICLES 153-167",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 329.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 185.691
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4077,
+      "markdown_body_line_end": 4088,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Appointment, conditions, immunity and pleasure tenure",
+      "preview": "ENTRY: President appoints by warrant -> citizen + 35 -> Article 159 oath",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4092,
+      "markdown_body_line_end": 4101,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Complete power classification and source control",
+      "preview": "EXECUTIVE: appoint CM; ministers on CM advice; AG, SEC, SPSC and district-judge roles.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4105,
+      "markdown_body_line_end": 4117,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Aid and advice, discretion and special responsibilities",
+      "preview": "DEFAULT -> Shamsher Singh (1974): CM-led Council advice controls.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 537.691
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 414.491
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4121,
+      "markdown_body_line_end": 4130,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Case-law ladder: from advice to objective material",
+      "preview": "Shamsher Singh (1974) -> constitutional head; advice is norm",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 392.491
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 299.891
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4134,
+      "markdown_body_line_end": 4149,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Government formation, floor test, dismissal and dissolution",
+      "preview": "CLEAR MAJORITY -> appoint recognised leader -> ordinary responsible government.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4153,
+      "markdown_body_line_end": 4166,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Article 356 report and the federal firewall",
+      "preview": "GOVERNOR'S REASONED REPORT OR OTHER MATERIAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 478.091
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4170,
+      "markdown_body_line_end": 4184,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Articles 200-201 and the 2025 assent control",
+      "preview": "ARTICLE 200",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 312.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4188,
+      "markdown_body_line_end": 4199,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Ordinance power and clemency comparison",
+      "preview": "ARTICLE 213",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4203,
+      "markdown_body_line_end": 4214,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Chief Minister, Article 167 and State Council",
+      "preview": "GOVERNOR APPOINTS CM -> CM PROVES ASSEMBLY CONFIDENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4218,
+      "markdown_body_line_end": 4230,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Tribal minister, Advocate General, business and comparison",
+      "preview": "TRIBAL WELFARE MINISTER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 394.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4234,
+      "markdown_body_line_end": 4256,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Federal neutrality, reforms, PYQs and answer synthesis",
+      "preview": "FAULT LINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 372.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 146.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    }
+  ]
+}

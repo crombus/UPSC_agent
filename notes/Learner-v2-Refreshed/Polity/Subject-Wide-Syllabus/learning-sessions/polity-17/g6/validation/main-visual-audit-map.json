@@ -1,0 +1,3338 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-17",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Polity 17 - Parliament - Complete Topic Package",
+      "preview": "**Subject:** Indian Polity | **Topic:** 17 | **GS-II + Prelims** | **Export date:** 2026-08-28  **Approval:** false - awaiting explicit user approval.  **Evidence key:** [FACT] constitutional, judicial or officially verified proposition; [A",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 713.424
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 38,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 447.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 61,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 92,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\assets\\polity-17_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 105,
+      "markdown_body_line_end": 105,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 79 begins the answer by defining Parliament as a tripartite constitutional institution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 327.956
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 275.488
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 130,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PARLIAMENT: ARTICLE 79",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Core thesis:** Indian Parliament is politically central but legally constituted and limited.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 540.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 158,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 79 ARCHITECTURE: WHAT PARLIAMENT CONSTITUTIONALLY IS",
+      "preview": "START / CONCEPT: Article 79 architecture: what Parliament constitutionally is",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 518.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 317.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 169,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Composition explains why the two Houses carry different democratic mandates and powers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 224.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 172.356
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 191,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Rajya Sabha | Lok Sabha",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "Rajya Sabha",
+          "Lok Sabha"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 485.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 203,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "RAJYA SABHA",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 465.89
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 384.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 219,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rajya Sabha:  [1/3 retires]----2 years----[1/3 retires]----2 years----[1/3]",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 235.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 174.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 240,
+      "heading": "CLOSING RECALL FLOW - COMPOSITION, ELECTION, TERM AND SEAT CEILINGS",
+      "preview": "START / CONCEPT: Composition, election, term and seat ceilings",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 251,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Delimitation turns population equality into a federal bargain over representation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 454.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 402.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 274,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "1952          1962          1972          1976          2001          2003          after 2026",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 241.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 130.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 298,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Population proportionality",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 541.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 319,
+      "heading": "CLOSING RECALL FLOW - REPRESENTATION, DELIMITATION AND THE SEAT-FREEZE BARGAIN",
+      "preview": "START / CONCEPT: Representation, delimitation and the seat-freeze bargain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 519.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 308.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 330,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Membership law separates entry qualifications, continuing disqualifications and vacancy decisions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 168.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 116.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 356,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "QUALIFY (Article 84)                  REMAIN QUALIFIED (Article 102)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 595.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 388,
+      "heading": "Office of profit",
+      "preview": "Does the person hold an \"office\"?",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 340.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 149.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 403,
+      "markdown_body_line_end": 420,
+      "heading": "CLOSING RECALL FLOW - QUALIFICATIONS, DISQUALIFICATIONS AND VACANCIES",
+      "preview": "START / CONCEPT: Qualifications, disqualifications and vacancies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 671.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 460.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 431,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Opposition analysis must separate the statutory LoP office from recognition conventions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 334.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 282.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 450,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Institution | Legal/procedural character | Exam caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Institution",
+          "Legal/procedural character",
+          "Exam caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 637.89
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 477,
+      "heading": "CLOSING RECALL FLOW - LEADER OF OPPOSITION AND OPPOSITION ARCHITECTURE",
+      "preview": "START / CONCEPT: Leader of Opposition and opposition architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 502.49
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 281.49
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 488,
+      "markdown_body_line_end": 488,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 85 guarantees parliamentary recurrence, but not adequate scrutiny time.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 170.09
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 117.622
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 513,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "HOUSE TERM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 605.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 531,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Total House strength -> quorum = one-tenth under Article 100(3)",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 443.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 362.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 538,
+      "markdown_body_line_end": 555,
+      "heading": "CLOSING RECALL FLOW - SESSIONS, SITTINGS, ADJOURNMENT, PROROGATION AND DISSOLUTION",
+      "preview": "START / CONCEPT: Sessions, sittings, adjournment, prorogation and dissolution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 305.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 94.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 566,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Questions and motions form an accountability ladder from information to government survival.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 585,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Device | Reply | Supplementaries | Core use",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Device",
+          "Reply",
+          "Supplementaries",
+          "Core use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 447.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 341.322
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 604,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "INFORMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 273.522
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 152.522
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 614,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Device | Purpose | Key distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Device",
+          "Purpose",
+          "Key distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 585.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 621,
+      "markdown_body_line_end": 638,
+      "heading": "CLOSING RECALL FLOW - QUESTIONS, ZERO HOUR, DISCUSSIONS AND MOTIONS",
+      "preview": "START / CONCEPT: Questions, Zero Hour, discussions and motions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 500.69
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 279.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 649,
+      "markdown_body_line_end": 649,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Powerful presiding offices require neutrality safeguards proportionate to their consequences.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 168.29
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 115.822
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 675,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "HOUSE ELECTS UNDER ARTICLE 93",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 702.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 581.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 713,
+      "heading": "Rajya Sabha Chairman and Deputy Chairman",
+      "preview": "High decisional powers",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - PRESIDING OFFICERS: AUTHORITY, CONTINUITY AND NEUTRALITY",
+      "preview": "START / CONCEPT: Presiding officers: authority, continuity and neutrality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 621.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 400.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legislative privilege is justified by function and ends where bribery begins.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 289.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 236.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 771,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CORE PROTECTED ZONE                          OUTSIDE THE SHIELD",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 791,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Was the act a speech/vote forming part of legislative functioning?",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 525.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 424.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 812,
+      "heading": "CLOSING RECALL FLOW - PARLIAMENTARY PRIVILEGES AND THE SITA SOREN (2024) BOUNDARY",
+      "preview": "START / CONCEPT: Parliamentary privileges and the Sita Soren (2024) boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 402.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 181.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ordinary lawmaking converts policy into agreed bicameral text before presidential assent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 89.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 854,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "FIRST READING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 640.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 881,
+      "heading": "CLOSING RECALL FLOW - LEGISLATIVE PROCEDURE FOR AN ORDINARY BILL",
+      "preview": "START / CONCEPT: Legislative procedure for an ordinary Bill",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 347.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 136.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 892,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Every legislative-procedure answer should classify the Bill before narrating its route.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 926,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Does the Bill contain ONLY Article 110(1)(a)-(g) matters and incidental matters?",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 475.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 274.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 930,
+      "markdown_body_line_end": 938,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Ordinary Bill | Money Bill | Financial Bill-I | Financial Bill-II | Constitution Amendment Bill",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 7,
+        "headers": [
+          "Feature",
+          "Ordinary Bill",
+          "Money Bill",
+          "Financial Bill-I",
+          "Financial Bill-II",
+          "Constitution Amendment Bill"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 572.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 973,
+      "heading": "CLOSING RECALL FLOW - ORDINARY, MONEY, FINANCIAL AND CONSTITUTION AMENDMENT BILLS",
+      "preview": "START / CONCEPT: Ordinary, Money, Financial and Constitution Amendment Bills",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 301.29
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 100.29
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 984,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 108 resolves only eligible deadlocks, while dissolution selectively ends pending business.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 702.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1010,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Ordinary/eligible Financial Bill",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 489.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1031,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Where is the Bill?",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 286.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 145.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1055,
+      "heading": "CLOSING RECALL FLOW - JOINT SITTING, LEGISLATIVE DEADLOCK AND BILL LAPSE",
+      "preview": "START / CONCEPT: Joint sitting, legislative deadlock and Bill lapse",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1066,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Parliamentary financial control is a chain from disclosure and authorisation to audit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 464.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 412.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1096,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Annual Financial Statement: Article 112",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1114,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Device | Time and purpose | Trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Device",
+          "Time and purpose",
+          "Trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 481.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 307.09
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1130,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CONSOLIDATED FUND: Article 266(1)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 287.89
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 166.89
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1155,
+      "heading": "CLOSING RECALL FLOW - BUDGET, GRANTS AND THE CONSTITUTIONAL FUNDS",
+      "preview": "START / CONCEPT: Budget, grants and the constitutional funds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Executive accountability depends on converting formal parliamentary devices into actual scrutiny.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1188,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "BEFORE POLICY          DURING ADMINISTRATION        AFTER EXPENDITURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 161.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1197,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Control family | Instruments | What it can prove | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Control family",
+          "Instruments",
+          "What it can prove",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 614.39
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1222,
+      "heading": "CLOSING RECALL FLOW - PARLIAMENTARY CONTROL OF THE EXECUTIVE",
+      "preview": "START / CONCEPT: Parliamentary control of the executive",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 512.39
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 301.39
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1233,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Committees are Parliaments detailed working rooms, not substitutes for plenary authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 175.79
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 123.322
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1264,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PARLIAMENTARY COMMITTEES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 702.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 531.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1270,
+      "markdown_body_line_end": 1274,
+      "heading": "Financial committees",
+      "preview": "Committee | Exact composition | Chair/control | Function | Membership caution",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 3,
+        "headers": [
+          "Committee",
+          "Exact composition",
+          "Chair/control",
+          "Function",
+          "Membership caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 489.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 330.99
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1303,
+      "heading": "Department-related Standing Committees",
+      "preview": "MINISTRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1307,
+      "markdown_body_line_end": 1316,
+      "heading": "Other high-yield committees",
+      "preview": "Committee | Core function | Exact control/caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Committee",
+          "Core function",
+          "Exact control/caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 634.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 384.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1340,
+      "heading": "CLOSING RECALL FLOW - PARLIAMENTARY COMMITTEES: ARCHITECTURE AND EXACT CONTROLS",
+      "preview": "START / CONCEPT: Parliamentary committees: architecture and exact controls",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 299.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 78.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1351,
+      "markdown_body_line_end": 1351,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rajya Sabha is secondary on money and confidence, but co-equal or distinctive elsewhere.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1374,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Field | Rajya Sabha position relative to Lok Sabha",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Field",
+          "Rajya Sabha position relative to Lok Sabha"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 475.624
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 281.422
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1394,
+      "heading": "Article 312",
+      "preview": "SECONDARY ON: money + supply + confidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1418,
+      "heading": "CLOSING RECALL FLOW - RAJYA SABHA: EQUAL, UNEQUAL AND EXCLUSIVE POWERS",
+      "preview": "START / CONCEPT: Rajya Sabha: equal, unequal and exclusive powers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 651.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 450.491
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1429,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anti-defection law stabilises government by narrowing the voting autonomy of legislators.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 324.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 272.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1455,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Tenth Schedule threat",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1466,
+      "markdown_body_line_end": 1483,
+      "heading": "CLOSING RECALL FLOW - ANTI-DEFECTION, WHIP AND THE INDIVIDUAL PARLIAMENTARIAN",
+      "preview": "START / CONCEPT: Anti-defection, whip and the individual parliamentarian",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 475.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 264.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1494,
+      "markdown_body_line_end": 1494,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "IPG extends parliamentary dialogue through global and Commonwealth-specific networks.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 158.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 105.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1519,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "INDIAN PARLIAMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 684.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 573.891
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1527,
+      "markdown_body_line_end": 1544,
+      "heading": "CLOSING RECALL FLOW - INDIAN PARLIAMENTARY GROUP, IPU AND CPA",
+      "preview": "START / CONCEPT: Indian Parliamentary Group, IPU and CPA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 471.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 260.891
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1555,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Parliamentary decline is a gap between constitutional capacity and political use.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 121.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 68.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1569,
+      "markdown_body_line_end": 1580,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Executive controls most business and legislative drafting",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 634.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 523.491
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1598,
+      "markdown_body_line_end": 1606,
+      "heading": "Counter-evidence",
+      "preview": "Problem | Reform direction | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Problem",
+          "Reform direction",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 551.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1608,
+      "heading": "Counter-evidence",
+      "preview": "**Qualified verdict:** [ANALYSIS] Parliament's problem is not absence of power but uneven conversion of power into scrutiny. Reform should change time, incentives and information, not merely add more devices.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 551.89
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 507.222
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1612,
+      "markdown_body_line_end": 1629,
+      "heading": "CLOSING RECALL FLOW - PARLIAMENTARY DECLINE: DIAGNOSIS, COUNTER-EVIDENCE AND REFORM",
+      "preview": "START / CONCEPT: Parliamentary decline: diagnosis, counter-evidence and reform",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 485.222
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 264.222
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1640,
+      "markdown_body_line_end": 1640,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Women reservation remains non-operational until the Article 334A census-publication-delimitation chain completes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 124.422
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 71.954
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1656,
+      "markdown_body_line_end": 1669,
+      "heading": "A. Three registers that must never be merged",
+      "preview": "REGISTER 1: ENACTED / INCORPORATED",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 631.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 500.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1682,
+      "markdown_body_line_end": 1698,
+      "heading": "B. Census 2027 controls",
+      "preview": "16 Apr 2026: 106th Amendment commences",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 302.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 141.491
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1700,
+      "markdown_body_line_end": 1707,
+      "heading": "B. Census 2027 controls",
+      "preview": "Census control | Official position | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Census control",
+          "Official position",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 606.69
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1730,
+      "heading": "C. The defeated 2026 delimitation package",
+      "preview": "16 APRIL 2026: introduced in Lok Sabha",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 505.69
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 364.69
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1741,
+      "markdown_body_line_end": 1758,
+      "heading": "CLOSING RECALL FLOW - LIVE UNIT: 106TH AMENDMENT, CENSUS 2027 AND DELIMITATION",
+      "preview": "START / CONCEPT: Live unit: 106th Amendment, Census 2027 and delimitation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2349,
+      "markdown_body_line_end": 2364,
+      "heading": "Answer-writing architecture",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 414.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 263.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2375,
+      "heading": "Directive fidelity",
+      "preview": "Directive | Required operation | Common failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Directive",
+          "Required operation",
+          "Common failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 238.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 75.29
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2379,
+      "markdown_body_line_end": 2383,
+      "heading": "Mark-scaled evidence load",
+      "preview": "Marks/words | Structure | Named evidence target",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks/words",
+          "Structure",
+          "Named evidence target"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 674.69
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2396,
+      "heading": "Solved directly routed Mains PYQs",
+      "preview": "**Provenance rule:** The seven 2018-2023 demands are routed by the audited Core owner. The 2024 GS-II Q3 wording is verified in the cross-owned Polity 11/16 packages. Neutral wording is used where exact UPSC wording has not been independent",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 436.29
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 377.422
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2761,
+      "markdown_body_line_end": 2761,
+      "heading": "Routed Parliament Prelims demand laboratory",
+      "preview": "**Answer-key provenance:** For 2018-2023, official keys are not held locally. For 2024-2025, official Set-A keys are held locally but no option letter is reproduced or inferred here. For 2026, the locally held Set-A keys are provisional and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2765,
+      "markdown_body_line_end": 2777,
+      "heading": "2018-2023 routed demands: 11",
+      "preview": "Year/Q | Demand | Doctrinal resolution | Provenance/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Year/Q",
+          "Demand",
+          "Doctrinal resolution",
+          "Provenance/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 133.89
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2781,
+      "markdown_body_line_end": 2789,
+      "heading": "2024-2025 routed demands: 7",
+      "preview": "Year/Q | Demand | Doctrinal resolution | Provenance/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Year/Q",
+          "Demand",
+          "Doctrinal resolution",
+          "Provenance/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 407.89
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2793,
+      "markdown_body_line_end": 2796,
+      "heading": "2026 routed demands: 2",
+      "preview": "Year/Q | Demand | Doctrinal resolution | Provenance/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Year/Q",
+          "Demand",
+          "Doctrinal resolution",
+          "Provenance/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 382.89
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 244.488
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3120,
+      "heading": "A1. Constitutional supremacy versus parliamentary supremacy",
+      "preview": "CONSTITUTIONAL SUPREMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3135,
+      "markdown_body_line_end": 3145,
+      "heading": "A2. Money Bill certification and the unresolved larger-Bench issue",
+      "preview": "Speaker's Article 110 certificate: textually final",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 438.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 337.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3177,
+      "markdown_body_line_end": 3181,
+      "heading": "Article 79 identity card",
+      "preview": "Parliament = President + Rajya Sabha + Lok Sabha",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 368.091
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 327.091
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3189,
+      "markdown_body_line_end": 3197,
+      "heading": "Two Houses: composition, election and term",
+      "preview": "Recall | Rajya Sabha | Lok Sabha",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Recall",
+          "Rajya Sabha",
+          "Lok Sabha"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 236.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 63.29
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3205,
+      "markdown_body_line_end": 3211,
+      "heading": "Delimitation and freeze chronology",
+      "preview": "42nd Amdt, 1976 -> freeze on 1971 basis",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 743.891
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 682.891
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3238,
+      "markdown_body_line_end": 3244,
+      "heading": "Session and sitting vocabulary",
+      "preview": "Term | Controller | Effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Controller",
+          "Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 304.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 173.69
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3253,
+      "markdown_body_line_end": 3260,
+      "heading": "Questions and motions memory grid",
+      "preview": "Starred = oral + supplementaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 714.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3290,
+      "markdown_body_line_end": 3293,
+      "heading": "Bill procedure compact spine",
+      "preview": "Introduction -> general discussion -> committee/consideration ->",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 298.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 267.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3301,
+      "markdown_body_line_end": 3307,
+      "heading": "Bill-class firewall",
+      "preview": "Class | Origin | Rajya Sabha | Joint sitting",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Class",
+          "Origin",
+          "Rajya Sabha",
+          "Joint sitting"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 190.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 64.29
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3328,
+      "markdown_body_line_end": 3332,
+      "heading": "Joint sitting and lapse rules",
+      "preview": "LAPSES: pending LS | passed LS, pending RS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 535.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 494.691
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3336,
+      "markdown_body_line_end": 3341,
+      "heading": "Budget and grant chain",
+      "preview": "Art 112 AFS -> general discussion -> DRSC ->",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 418.691
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3359,
+      "markdown_body_line_end": 3362,
+      "heading": "Executive accountability stack",
+      "preview": "Questions -> debates/motions -> legislation -> budget ->",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 196.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 165.691
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3370,
+      "markdown_body_line_end": 3376,
+      "heading": "Committee numbers that must not be swapped",
+      "preview": "Committee | Composition | Key function",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Committee",
+          "Composition",
+          "Key function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3407,
+      "markdown_body_line_end": 3413,
+      "heading": "IPG-IPU-CPA recall",
+      "preview": "IPG: Indian parliamentary association, 1949",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 235.69
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 174.69
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3450,
+      "markdown_body_line_end": 3454,
+      "heading": "Women's reservation three-register card",
+      "preview": "Register | Status on 28 Aug 2026",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Register",
+          "Status on 28 Aug 2026"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 393.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 304.89
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3456,
+      "markdown_body_line_end": 3460,
+      "heading": "Women's reservation three-register card",
+      "preview": "commencement -> first post-commencement census ->",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 304.89
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 263.89
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3478,
+      "markdown_body_line_end": 3489,
+      "heading": "Defeated 2026 Bills card",
+      "preview": "Introduced 16 Apr:",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3507,
+      "markdown_body_line_end": 3514,
+      "heading": "Universal Mains answer checklist",
+      "preview": "1. Decode directive and every limb",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 395.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 324.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3558,
+      "markdown_body_line_end": 3574,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Article 79 architecture, composition and representation",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 429.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 265.491
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3578,
+      "markdown_body_line_end": 3593,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Membership, disqualification, vacancies and opposition",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3597,
+      "markdown_body_line_end": 3611,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Sessions, sittings, quorum and accountability devices",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 467.891
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3615,
+      "markdown_body_line_end": 3631,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Presiding officers, neutrality and privilege",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 445.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 281.891
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3635,
+      "markdown_body_line_end": 3649,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Ordinary legislation and the Bill-class firewall",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3653,
+      "markdown_body_line_end": 3672,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Joint sitting, lapse and ordinance return",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3676,
+      "markdown_body_line_end": 3689,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Budget, grants, funds and power of the purse",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3693,
+      "markdown_body_line_end": 3708,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Committee architecture and detailed scrutiny",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3712,
+      "markdown_body_line_end": 3725,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Rajya Sabha, anti-defection and bicameral balance",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 478.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3729,
+      "markdown_body_line_end": 3743,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: 106th Amendment, Census 2027 and delimitation",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 312.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3747,
+      "markdown_body_line_end": 3762,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Parliamentary decline, reform and diplomacy",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3766,
+      "markdown_body_line_end": 3784,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ routes, traps and answer execution",
+      "preview": "CORE RULE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: The five-stage performance cycle
+STAGE 1 TARGETING -> who is eligible: deprivation database, identity, State and group lists
+-> STAGE 2 DELIVERY: transfer rails, fund-flow systems and frontline cadres
+-> STAGE 3 CONVERGENCE: several ministries meeting at one household
+-> STAGE 4 OUTCOME: surveys and composite indices measuring what actually changed
+-> STAGE 5 CORRECTION: evaluation and grievance feeding evidence back into redesign
+MUST REMEMBER: Scheme performance requires a theory of change from need and entitlement...
+
+ASCII MASTER FLOW — PANEL 2/12: Social-assistance umbrella
+OLD AGE -> Indira Gandhi National Old Age Pension Scheme
+WIDOW -> Indira Gandhi National Widow Pension Scheme
+DISABILITY -> Indira Gandhi National Disability Pension Scheme
+BEREAVEMENT -> National Family Benefit Scheme, a lump sum on a breadwinner's death
+FOOD -> Annapurna, for elderly persons not covered by a pension; States may top up
+
+ASCII MASTER FLOW — PANEL 3/12: Database against census
+TARGETING DATABASE 2011 -> deprivation and occupation criteria: housing, land, assets
+USE -> core eligibility route of the health-assurance scheme
+NOT USED FOR -> the separate age-based route covering all persons aged seventy and above
+DECENNIAL CENSUS -> universal population enumeration with a different purpose and method
+CASTE DATA -> collected in 2011; not released or validated for general policy use
+
+ASCII MASTER FLOW — PANEL 4/12: Targeting-error matrix
+INCLUSION ERROR -> an ineligible person is included; resources leak to the non-poor
+EXCLUSION ERROR -> an eligible person is left out; the needy miss the benefit
+TIGHTER VERIFICATION -> lowers inclusion error and raises exclusion error
+SELF-DECLARATION -> lowers exclusion error and raises inclusion error
+RULE -> a design chooses which error to bear; it does not remove both
+
+ASCII MASTER FLOW — PANEL 5/12: Delivery machinery
+TRANSFER RAIL -> direct benefit transfer on the identity, account and mobile trinity
+FUND FLOW -> the public financial management system and single nodal agency arrangement
+LAST MILE -> auxiliary nurse midwife, health activist, anganwadi worker, panchayat secretary
+TIER -> urban local bodies and panchayati raj institutions implement
+LIMIT -> faster transfers do not give a frontline worker a household-wide view
+
+ASCII MASTER FLOW — PANEL 6/12: One household, six ministries
+FOREST RIGHTS -> tribal affairs ministry with the State forest department
+HABITAT -> tribal development mission: housing, road and water
+CHILD NUTRITION -> school meal programme and the integrated nutrition programme
+HEALTH -> health assurance administered through the national health authority
+OLD AGE -> social-assistance pension from the rural development ministry
+CLOSE DISTINCTION: Allocation is not release, expenditure is not output, output is not...
+
+ASCII MASTER FLOW — PANEL 7/12: Convergence failure chain
+STEP 1 -> each ministry keeps its own eligibility database; no interoperable record exists
+STEP 2 -> different cadres serve different schemes; no worker sees the whole household
+STEP 3 -> the district collector lacks real-time data and authority over central agencies
+STEP 4 -> disbursement cycles differ, so one benefit arrives and another is missed
+RESULT -> convergence is architectural, so exhortation cannot produce it
+
+ASCII MASTER FLOW — PANEL 8/12: Data type and result level
+ADMINISTRATIVE -> high frequency, programme-specific, excludes the non-enrolled
+SURVEY -> comparable indicators, sampled, carries a reporting lag
+CENSUS -> universal coverage, infrequent and slow
+OUTPUT VERSUS OUTCOME -> meals served against nutritional status
+IMPACT -> long-term capability such as cognitive development, estimated by evaluation
+
+ASCII MASTER FLOW — PANEL 9/12: Outcome instruments card
+HEALTH AND NUTRITION -> the National Family Health Survey of the health ministry
+EMPLOYMENT -> the Periodic Labour Force Survey of the statistics ministry
+DISCRIMINATION AND CRIME -> National Crime Records Bureau data
+COMPOSITE -> the Sustainable Development Goal India Index and the poverty index
+ROUND RULE -> sixth round 2023-24, released 29 May 2026; stunting 29.3% against 35.5%
+
+ASCII MASTER FLOW — PANEL 10/12: Targeting-error chain
+VINTAGE -> a 2011 list misses movement, income change and newly arising deprivation
+-> DOCUMENTS: identity number, ration card or certificate proxies for identity, not need
+-> VERIFICATION CHOICE: self-declaration leaks; certification excludes the undocumented
+-> PROXY LIMITS: housing, land and assets imperfectly track income or consumption poverty
+SAFEGUARD -> assisted and non-digital alternatives with a correction route
+
+ASCII MASTER FLOW — PANEL 11/12: Correction failure and its instruments
+DIVERGENCE -> dashboards show coverage; surveys show a remaining outcome deficit
+UNINVESTIGATED -> the divergence itself is not treated as a finding
+EVALUATION -> the think tank's evaluation office coordinates third-party evaluation
+BUDGET -> the output-outcome monitoring framework of the finance ministry
+BREAK -> findings stay in reports because allocation does not depend on them
+
+ASCII MASTER FLOW — PANEL 12/12: Pending data and bounded findings
+30 APRIL 2025 -> caste enumeration for the 2027 Census is approved
+1 APRIL TO 30 SEPTEMBER 2026 -> first-phase houselisting is notified
+STATUS -> operations begun; no results; not a database or a targeting list
+SURVEY FINDING -> transfers improve short-term consumption and food security
+BOUNDARY -> without complementary services, nutrition, education and exits do not follow
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use SECC/Census/survey data, DBT,...

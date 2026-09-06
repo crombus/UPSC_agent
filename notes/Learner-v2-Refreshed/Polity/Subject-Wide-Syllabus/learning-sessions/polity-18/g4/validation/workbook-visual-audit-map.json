@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g4\\polity-18_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g4\\polity-18_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-18",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 558,
+      "heading": "27. Answer-writing architecture",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 337.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 186.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 569,
+      "heading": "Directive fidelity",
+      "preview": "Directive | Required operation | Common failure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Directive",
+          "Required operation",
+          "Common failure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 577,
+      "heading": "Mark-scaled evidence load",
+      "preview": "Marks/words | Architecture | Named evidence target",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks/words",
+          "Architecture",
+          "Named evidence target"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 613.49
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 514.088
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 588,
+      "markdown_body_line_end": 588,
+      "heading": "Reusable answer spines",
+      "preview": "**Workbook boundary:** This section contains solved PYQ demands, routed Prelims doctrine, original MCQs, remedial MCQs and solved Mains practice. The separate final register notes begin at the later H2 and are not part of the workbook.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 317.888
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 259.02
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "Solved routed Mains PYQ demands",
+      "preview": "**Wording rule:** Neutral demand wording is used because the authoritative Core provides routes rather than verified verbatim stems. No unverified quotation is presented as exact UPSC wording.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 234.02
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 189.353
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 954,
+      "heading": "Routed Prelims demand laboratory",
+      "preview": "**Provenance:** The six 2019-2022 demands come from the audited local 2018-2023 routing ledger; official keys were unavailable locally. The 2024 Q83 official Set-A key exists locally, but its answer was not recorded in the Core. No option l",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 726.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 964,
+      "heading": "Routed Prelims demand laboratory",
+      "preview": "Year/Q | Routed demand | Doctrinal resolution | Provenance/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Year/Q",
+          "Routed demand",
+          "Doctrinal resolution",
+          "Provenance/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 726.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 170.522
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    }
+  ]
+}

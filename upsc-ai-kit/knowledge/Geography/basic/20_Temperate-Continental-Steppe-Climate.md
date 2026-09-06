@@ -166,3 +166,42 @@ and subsistence versus mechanised commercial grain**. See `17_Savanna-Sudan-Clim
 > counter to environmental determinism in the entire climate sequence, and it transfers directly to
 > resource and industrial location questions. **Limitation:** the physical base was still necessary
 > — the same transport investment in a desert or a taiga interior did not produce a granary.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** temperate continental steppe location and local names;
+  continentality, low-to-moderate summer precipitation and hemisphere
+  contrast; grass-height gradient, fire/grazing and chernozem formation;
+  mechanised grain/ranching economy, transport conversion and ecological
+  costs; India's alluvial Rabi wheat-granary analogy, Green Revolution,
+  procurement geography and sustainability.
+- **Process control:** weak maritime moderation produces large annual thermal
+  range; moisture deficit limits trees while grass-root turnover and low
+  leaching build humus-rich soils. Fertility and level relief became a granary
+  only through rail, mechanisation, market access and institutions.
+- **Scale/map control:** steppe biome, named regional grassland, national wheat
+  output, state production, procurement state, Indo-Gangetic alluvial belt and
+  farm groundwater unit are separate. Punjab-Haryana-western Uttar Pradesh is
+  a functional granary core, not India's only wheat area or a true chernozem
+  steppe.
+- **Date/data control:** wheat area, output, yield, procurement, MSP, stocks and
+  state shares require crop year or Rabi Marketing Season, estimate stage and
+  issuing agency. Third Advance Estimate is not final output; procurement is
+  not production, and MSP is not the open-market price.
+- **Terminology control:** steppe differs from savanna and prairie is a
+  regional name rather than a universal climate code; chernozem differs from
+  black cotton soil and Indo-Gangetic alluvium; Rabi crop differs from winter
+  rainfall crop; production, marketed surplus and government procurement are
+  distinct.
+- **Causal control:** climate and soil enable wheat but do not determine the
+  granary. HYV seed, irrigation, fertiliser, mechanisation, procurement and
+  market access explain concentration; groundwater depletion, residue burning,
+  nutrient imbalance, heat and terminal-weather risk qualify its durability.
+- **Boundary:** Topic 17 owns tropical savanna/deciduous systems; Topic 19 owns
+  Mediterranean orchard agriculture. Topic 20 owns the steppe mechanism and
+  India wheat-granary analogy; broader MSP, food-stock and crop-diversification
+  policy remains bounded cross-owner context.
+- **Verified PYQ ownership, 2018-2026:** the audited routing ledgers contain no
+  direct Topic 20 question. Adjacent climate, soil, cropping and food-security
+  demands remain with their routed owners, so no solved PYQ or key is
+  fabricated.

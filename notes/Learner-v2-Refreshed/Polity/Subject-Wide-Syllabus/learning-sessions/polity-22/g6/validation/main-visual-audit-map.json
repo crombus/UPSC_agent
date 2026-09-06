@@ -1,0 +1,3454 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\polity-22_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\polity-22_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-22",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Polity 22 - Special Provisions - Complete Topic Package",
+      "preview": "**Subject:** Indian Polity | **Topic:** 22 | **GS-II + Prelims** | **Export date:** 2026-08-28  **Approval:** false - awaiting explicit user approval.  **Evidence key:** [FACT] constitutional, judicial or officially verified proposition; [A",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 713.424
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 36,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 289.624
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 41.822
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 58,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 642.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 392.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 87,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\assets\\polity-22_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 753.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 445.556
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 101,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part Xxi: Constitutional Asymmetry By Design shows that tailored safeguards can support integration while remaining reviewable constitutional law.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 291.356
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 224.688
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 128,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ONE UNION",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 143,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Mechanism | Constitutional location | Core technique",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Mechanism",
+          "Constitutional location",
+          "Core technique"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 554.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 466.69
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**UPSC trap:** Similar protective purposes do not make these legally interchangeable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 466.69
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 436.222
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 166,
+      "heading": "CLOSING RECALL FLOW - PART XXI: CONSTITUTIONAL ASYMMETRY BY DESIGN",
+      "preview": "START / CONCEPT: Part XXI: constitutional asymmetry by design",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 414.222
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 213.222
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 177,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why Asymmetric Federalism Exists shows that negotiated protection can lower conflict and deepen legitimate integration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 201,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "historical difference",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 599.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 488.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 226,
+      "heading": "CLOSING RECALL FLOW - WHY ASYMMETRIC FEDERALISM EXISTS",
+      "preview": "START / CONCEPT: Why asymmetric federalism exists",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 386.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 205.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 237,
+      "markdown_body_line_end": 237,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 370 Before 2019 shows that the arrangement expanded constitutional integration while retaining a special application mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 261,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Instrument of Accession fields",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 582.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 481.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 288,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 370 BEFORE 2019",
+      "preview": "START / CONCEPT: Article 370 before 2019",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 358.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 157.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 299,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 35A shows that it created differentiated entitlements within single Indian citizenship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 313,
+      "markdown_body_line_end": 321,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "1954 Constitution Application Order",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 385.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 347,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 35A",
+      "preview": "START / CONCEPT: Article 35A",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 294.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 93.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 358,
+      "markdown_body_line_end": 358,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 370(3) And The Constituent Assembly Problem shows that the holding removed the claimed permanence created by Constituent Assembly dissolution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 382,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 370(3)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 433.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 332.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 406,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 370(3) AND THE CONSTITUENT ASSEMBLY PROBLEM",
+      "preview": "START / CONCEPT: Article 370(3) and the Constituent Assembly problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 247.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 417,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 2019 Constitutional Instruments shows that the sequence changed constitutional application and territorial status through different legal acts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 441,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "President's Rule in J&K",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 365.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 458,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Instrument | Legal type | What it did",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Instrument",
+          "Legal type",
+          "What it did"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 197.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 76.622
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**UPSC trap:** Do not describe all four steps as a single constitutional amendment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 76.622
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 46.154
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 481,
+      "heading": "CLOSING RECALL FLOW - THE 2019 CONSTITUTIONAL INSTRUMENTS",
+      "preview": "START / CONCEPT: The 2019 constitutional instruments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 492,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rendered Inoperative, Not Deleted shows that precise language prevents a basic constitutional-status error.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 475.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 423.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 512,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "INCORRECT: Article 370 was deleted from Constitution",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 279.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 208.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 536,
+      "heading": "CLOSING RECALL FLOW - RENDERED INOPERATIVE, NOT DELETED",
+      "preview": "START / CONCEPT: Rendered inoperative, not deleted",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 547,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In Re Article 370 (11 December 2023): Core Holdings shows that the judgment settles operability while leaving the federal-status issue qualified.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 466.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 399.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 570,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Question | Court's position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Question",
+          "Court's position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 609.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 597,
+      "heading": "CLOSING RECALL FLOW - IN RE ARTICLE 370 (11 DECEMBER 2023): CORE HOLDINGS",
+      "preview": "START / CONCEPT: In re Article 370 (11 December 2023): core holdings",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 472.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 261.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 608,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Elections And Statehood After The Judgment shows that representative government returned without restoring full State status.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 140.89
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 74.222
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 632,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "11 Dec 2023 judgment",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 667.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 566.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - ELECTIONS AND STATEHOOD AFTER THE JUDGMENT",
+      "preview": "START / CONCEPT: Elections and Statehood after the judgment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 493.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 282.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "J&K Union Territory Legislature shows that electoral representation exists within a Union Territory’s narrower federal position.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 161.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 94.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 691,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Parliament",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 716.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 615.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 702,
+      "markdown_body_line_end": 719,
+      "heading": "CLOSING RECALL FLOW - J&K UNION TERRITORY LEGISLATURE",
+      "preview": "START / CONCEPT: J&K Union Territory Legislature",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 461.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 260.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 730,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ladakh'S Current Position shows that the debate links representation, tribal protection, ecology and strategic administration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 139.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 73.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 756,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Union Territory without legislature",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 634.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 513.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 781,
+      "heading": "CLOSING RECALL FLOW - LADAKH'S CURRENT POSITION",
+      "preview": "START / CONCEPT: Ladakh's current position",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 439.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 228.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 792,
+      "markdown_body_line_end": 792,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371 Family: Master Map shows that a spectrum model explains why no single definition captures every special provision.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 108.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 41.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 816,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | State(s) | Core protection",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Article",
+          "State(s)",
+          "Core protection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 665.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 429.29
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 818,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Mnemonic groups:** Development - 371 and 371J; Custom/land - 371A and 371G; Committees - 371B and 371C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 429.29
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 398.822
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 822,
+      "markdown_body_line_end": 833,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Provision | Origin | Decision-maker students must name",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Provision",
+          "Origin",
+          "Decision-maker students must name"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 379.622
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 87.02
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 854,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371 FAMILY: MASTER MAP",
+      "preview": "START / CONCEPT: Article 371 family: master map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 865,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371: Maharashtra And Gujarat shows that the mechanism constitutionalises intra-State regional equity rather than cultural autonomy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 888,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Governor's special responsibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 255.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 154.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 914,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371: MAHARASHTRA AND GUJARAT",
+      "preview": "START / CONCEPT: Article 371: Maharashtra and Gujarat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 925,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371A: Nagaland shows that assembly consent turns cultural and resource protection into enforceable constitutional asymmetry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 948,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Act of Parliament concerns:",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 214.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 123.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 957,
+      "markdown_body_line_end": 974,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371A: NAGALAND",
+      "preview": "START / CONCEPT: Article 371A: Nagaland",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 985,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371B: Assam shows that the mechanism embeds tribal-area voice within the State legislature.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 1007,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "President's order",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 195.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 114.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1031,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371B: ASSAM",
+      "preview": "START / CONCEPT: Article 371B: Assam",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1042,
+      "markdown_body_line_end": 1042,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371C: Manipur shows that the design inserts hill representation and Union-supervised accountability into State government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1064,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Hill Areas Committee in Assembly",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 238.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 157.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1089,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371C: MANIPUR",
+      "preview": "START / CONCEPT: Article 371C: Manipur",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1100,
+      "markdown_body_line_end": 1100,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 371D And 371E: Andhra Pradesh And Telangana shows that the clauses address regional access without creating a general domicile power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1123,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "regional imbalance",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 202.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 121.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1151,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 371D AND 371E: ANDHRA PRADESH AND TELANGANA",
+      "preview": "START / CONCEPT: Articles 371D and 371E: Andhra Pradesh and Telangana",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 729.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 518.691
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1162,
+      "markdown_body_line_end": 1162,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371F: Sikkim shows that transitional continuity allowed integration without an abrupt legal vacuum.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 397.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 345.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1176,
+      "markdown_body_line_end": 1182,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Feature | Constitutional purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Constitutional purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 170.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 40.022
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1207,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371F: SIKKIM",
+      "preview": "START / CONCEPT: Article 371F: Sikkim",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 715.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 504.491
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371G: Mizoram shows that the Assembly becomes the constitutional gateway for protected cultural and land laws.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 383.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 317.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1240,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Parliamentary law on:",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1248,
+      "markdown_body_line_end": 1265,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371G: MIZORAM",
+      "preview": "START / CONCEPT: Article 371G: Mizoram",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 652.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 451.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1276,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 371H And 371I shows that adjacent lettered Articles can serve completely different constitutional purposes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 278.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1293,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | State | Core rule",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Article",
+          "State",
+          "Core rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 117.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 50.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1300,
+      "markdown_body_line_end": 1317,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 371H AND 371I",
+      "preview": "START / CONCEPT: Articles 371H and 371I",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 531.691
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1328,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371J: Karnataka shows that the clause combines development spending with enforceable local-access measures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 410.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 344.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1342,
+      "markdown_body_line_end": 1350,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "separate development board",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 183.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 102.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1359,
+      "markdown_body_line_end": 1376,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371J: KARNATAKA",
+      "preview": "START / CONCEPT: Article 371J: Karnataka",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 704.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1387,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Strongest Article 371 Protections shows that consent shields offer deeper identity protection than advisory committees or development boards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 372.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 305.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1413,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "DEVELOPMENTAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1420,
+      "markdown_body_line_end": 1437,
+      "heading": "CLOSING RECALL FLOW - STRONGEST ARTICLE 371 PROTECTIONS",
+      "preview": "START / CONCEPT: Strongest Article 371 protections",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 615.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 404.691
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1448,
+      "markdown_body_line_end": 1448,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371 Versus Fifth Schedule shows that the Fifth Schedule uses supervised protection rather than a uniform Article 371 model.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 283.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 217.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1461,
+      "markdown_body_line_end": 1467,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Article 371 family | Fifth Schedule",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "Article 371 family",
+          "Fifth Schedule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 661.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1475,
+      "markdown_body_line_end": 1492,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371 VERSUS FIFTH SCHEDULE",
+      "preview": "START / CONCEPT: Article 371 versus Fifth Schedule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 559.49
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 368.49
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1503,
+      "markdown_body_line_end": 1503,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 371 Versus Sixth Schedule shows that the Sixth Schedule decentralises self-government more deeply than many Article 371 clauses.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 247.69
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 181.022
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1516,
+      "markdown_body_line_end": 1522,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Articles 371A/G etc. | Sixth Schedule",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "Articles 371A/G etc.",
+          "Sixth Schedule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1546,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 371 VERSUS SIXTH SCHEDULE",
+      "preview": "START / CONCEPT: Article 371 versus Sixth Schedule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 616.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 415.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1557,
+      "markdown_body_line_end": 1557,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fifth And Sixth Schedule Rapid Comparison shows that correct classification prevents transferring powers between unlike tribal regimes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 294.49
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 227.822
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1570,
+      "markdown_body_line_end": 1576,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Fifth Schedule | Sixth Schedule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Fifth Schedule",
+          "Sixth Schedule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1578,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Mnemonic:** Sixth Schedule = Assam, Meghalaya, Tripura, Mizoram.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 672.69
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 642.222
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1582,
+      "markdown_body_line_end": 1599,
+      "heading": "CLOSING RECALL FLOW - FIFTH AND SIXTH SCHEDULE RAPID COMPARISON",
+      "preview": "START / CONCEPT: Fifth and Sixth Schedule rapid comparison",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 620.222
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 409.222
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1610,
+      "markdown_body_line_end": 1610,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "North Eastern Council shows that regional coordination complements but does not replace constitutional State safeguards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 288.422
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 221.754
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1624,
+      "markdown_body_line_end": 1635,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "North Eastern Council Act, 1971",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1643,
+      "markdown_body_line_end": 1660,
+      "heading": "CLOSING RECALL FLOW - NORTH EASTERN COUNCIL",
+      "preview": "START / CONCEPT: North Eastern Council",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 622.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 411.691
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1671,
+      "markdown_body_line_end": 1671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Asymmetry And Equality shows that purpose-bound differentiation can advance equality rather than violate it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 290.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 238.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1693,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "formal equality",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1701,
+      "markdown_body_line_end": 1718,
+      "heading": "CLOSING RECALL FLOW - ASYMMETRY AND EQUALITY",
+      "preview": "START / CONCEPT: Asymmetry and equality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 638.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 437.491
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1729,
+      "markdown_body_line_end": 1729,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Asymmetry And National Integration shows that legitimate accommodation may integrate more effectively than imposed uniformity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1743,
+      "markdown_body_line_end": 1748,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Integration reading | Erosion reading",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Integration reading",
+          "Erosion reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1754,
+      "markdown_body_line_end": 1771,
+      "heading": "CLOSING RECALL FLOW - ASYMMETRY AND NATIONAL INTEGRATION",
+      "preview": "START / CONCEPT: Asymmetry and national integration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 626.29
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 405.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1782,
+      "markdown_body_line_end": 1782,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consent And Consultation shows that actor precision reveals the actual depth of regional autonomy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 284.49
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 232.022
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1796,
+      "markdown_body_line_end": 1804,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ordinary consultation",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1812,
+      "markdown_body_line_end": 1829,
+      "heading": "CLOSING RECALL FLOW - CONSENT AND CONSULTATION",
+      "preview": "START / CONCEPT: Consent and consultation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 652.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 461.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1840,
+      "markdown_body_line_end": 1840,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Land, Resources And Indigenous Protection shows that protected land regimes can sustain identity and bargaining power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 274.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1858,
+      "markdown_body_line_end": 1875,
+      "heading": "CLOSING RECALL FLOW - LAND, RESOURCES AND INDIGENOUS PROTECTION",
+      "preview": "START / CONCEPT: Land, resources and indigenous protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1886,
+      "markdown_body_line_end": 1886,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current Ladakh Debate shows that a negotiated design must reconcile local autonomy with ecology and border security.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 475.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 408.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1900,
+      "markdown_body_line_end": 1906,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand | What it would require | Status 18 Aug 2026",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Demand",
+          "What it would require",
+          "Status 18 Aug 2026"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 248.224
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 117.622
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1913,
+      "markdown_body_line_end": 1930,
+      "heading": "CLOSING RECALL FLOW - CURRENT LADAKH DEBATE",
+      "preview": "START / CONCEPT: Current Ladakh debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1941,
+      "markdown_body_line_end": 1941,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current J&K Federal Question shows that federal normalisation requires clarity beyond merely holding elections.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1955,
+      "markdown_body_line_end": 1964,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 370 result settled by 2023 judgment",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 228.224
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 137.224
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1971,
+      "markdown_body_line_end": 1988,
+      "heading": "CLOSING RECALL FLOW - CURRENT J&K FEDERAL QUESTION",
+      "preview": "START / CONCEPT: Current J&K federal question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 140
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1999,
+      "markdown_body_line_end": 1999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform Principles For Special Provisions shows that effective implementation converts constitutional symbolism into substantive protection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 475.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 408.824
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2013,
+      "markdown_body_line_end": 2020,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Principle | Operational question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Principle",
+          "Operational question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 248.224
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 96.422
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2024,
+      "markdown_body_line_end": 2041,
+      "heading": "CLOSING RECALL FLOW - REFORM PRINCIPLES FOR SPECIAL PROVISIONS",
+      "preview": "START / CONCEPT: Reform principles for special provisions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2052,
+      "markdown_body_line_end": 2052,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part Xxi And Basic Structure shows that reviewable asymmetry reconciles flexibility with constitutional discipline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 413.024
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2070,
+      "markdown_body_line_end": 2087,
+      "heading": "CLOSING RECALL FLOW - PART XXI AND BASIC STRUCTURE",
+      "preview": "START / CONCEPT: Part XXI and Basic Structure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2098,
+      "markdown_body_line_end": 2098,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article-State amendment and actor synthesis turns a long clause list into a functional constitutional map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 466.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 414.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2112,
+      "markdown_body_line_end": 2125,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "370   J&K former special operation",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 239.224
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 108.224
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2129,
+      "markdown_body_line_end": 2146,
+      "heading": "CLOSING RECALL FLOW - ARTICLE-STATE AMENDMENT AND ACTOR SYNTHESIS",
+      "preview": "START / CONCEPT: Article-State amendment and actor synthesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3317,
+      "markdown_body_line_end": 3325,
+      "heading": "37. President's Rule and federal consent",
+      "preview": "State institutions suspended under President's Rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 685.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3342,
+      "markdown_body_line_end": 3349,
+      "heading": "39. Answer-writing evidence discipline",
+      "preview": "CONSTITUTION TEXT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 438.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 367.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3366,
+      "markdown_body_line_end": 3370,
+      "heading": "Part XXI master idea",
+      "preview": "Part XXI",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 187.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 146.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3378,
+      "markdown_body_line_end": 3386,
+      "heading": "Article 370 timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 612.29
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3400,
+      "markdown_body_line_end": 3412,
+      "heading": "Article 371 family",
+      "preview": "Article | State(s) | Recall",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 11,
+        "headers": [
+          "Article",
+          "State(s)",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 441.89
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 184.088
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3422,
+      "markdown_body_line_end": 3428,
+      "heading": "Fifth/Sixth Schedule distinction",
+      "preview": "Fifth | Sixth",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Fifth",
+          "Sixth"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 654.69
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3441,
+      "markdown_body_line_end": 3448,
+      "heading": "Answer-writing evidence bank",
+      "preview": "Claim | Named evidence | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 501.49
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 349.688
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3479,
+      "markdown_body_line_end": 3494,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Part XXI scope and asymmetry architecture",
+      "preview": "PART XXI: TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 687.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 533.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3498,
+      "markdown_body_line_end": 3508,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 370 and Article 35A legal timeline",
+      "preview": "1947 accession -> Article 370 temporary application mechanism -> 1954 Order inserts Article 35A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 511.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 408.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3512,
+      "markdown_body_line_end": 3523,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: In re Article 370 and current federal status",
+      "preview": "IN RE: ARTICLE 370 OF THE CONSTITUTION (2023)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 386.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 273.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3527,
+      "markdown_body_line_end": 3535,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Article 371 amendment and actor ladder",
+      "preview": "371: Maharashtra/Gujarat -> President may assign Governor regional-development responsibility.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3539,
+      "markdown_body_line_end": 3548,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Development models: Articles 371 and 371J",
+      "preview": "ARTICLE 371 — MAHARASHTRA/GUJARAT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3552,
+      "markdown_body_line_end": 3566,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Consent shields: Nagaland and Mizoram",
+      "preview": "ARTICLE 371A — NAGALAND",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 424.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3570,
+      "markdown_body_line_end": 3580,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Committee models: Assam and Manipur",
+      "preview": "ARTICLE 371B — ASSAM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 299.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3584,
+      "markdown_body_line_end": 3592,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Local opportunity: Articles 371D and 371E",
+      "preview": "ARTICLE 371D — ANDHRA PRADESH AND TELANGANA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3596,
+      "markdown_body_line_end": 3606,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Integration and law-order models: 371F, 371H, 371I",
+      "preview": "ARTICLE 371F — SIKKIM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3610,
+      "markdown_body_line_end": 3618,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Article 371 versus Fifth and Sixth Schedules",
+      "preview": "ARTICLE 371 FAMILY — Part XXI, State-specific constitutional clauses.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3622,
+      "markdown_body_line_end": 3631,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: PYQ and current-institution traps",
+      "preview": "NORTH EASTERN COUNCIL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3635,
+      "markdown_body_line_end": 3651,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Mains synthesis and qualified conclusion",
+      "preview": "MAINS SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 175.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    }
+  ]
+}

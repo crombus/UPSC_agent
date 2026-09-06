@@ -151,3 +151,39 @@ LOCATION: western margins of continents at roughly 30-45 degrees, i.e. the
 > **Limitation:** the convergence is in crop *type*, not in scale, ownership or market orientation —
 > those depend on capital, land tenure and market access, which is why the influence is a
 > constraint rather than a determinant.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Cs western-margin location; summer subtropical-high
+  subsidence and winter westerly/frontal rain; local winds; sclerophyll
+  adaptations; orchard, vine, winter-cereal and wildfire-water systems; India's
+  Himalayan temperate-fruit analogue, chilling, frost/hail, slope and valley
+  siting, perishability, cold chain and market access.
+- **Process control:** poleward summer pressure-belt migration produces
+  subsidence and drought; equatorward winter westerlies bring cyclonic rain.
+  Orchard suitability follows cultivar-specific chilling, dormancy and
+  bud-break plus spring-frost, hail, heat, moisture and harvest-weather risks.
+- **Scale/map control:** Mediterranean basin, global Cs region, Himalayan
+  state, valley, elevation belt, orchard and market corridor are distinct.
+  Kashmir/Himachal/Uttarakhand horticulture is a functional analogue, not a
+  mapped Mediterranean climate or proof of uniform upslope migration.
+- **Date/data control:** crop area, production, productivity, price, import
+  duty, crop loss and altitude/chilling trends require year, estimate stage,
+  crop/cultivar, state and official source. Advance estimates remain
+  provisional; all-India fruit totals are not apple or Himalayan-state totals.
+- **Terminology control:** Mediterranean climate differs from Mediterranean
+  agriculture; sclerophyll from deciduous forest; chilling requirement from a
+  simple cold temperature; frost from hail; climatic suitability from realised
+  production; production from productivity and marketed arrivals.
+- **Causal control:** warmer winters can reduce chilling at some sites, but
+  cultivar, altitude, aspect, frost, hail, rainfall, irrigation, pests,
+  pollination, transport, storage and prices jointly determine output and
+  farmer returns. No single bad season proves a permanent belt shift.
+- **Boundary:** Topic 19 owns global Mediterranean mechanism and India's
+  Himalayan fruit-belt analogy. Agricultural-statistics and climate-impact
+  claims remain dated; viticulture and saffron are bounded comparisons rather
+  than substitutes for the apple-belt core.
+- **Verified PYQ ownership, 2018-2026:** the audited routing ledgers contain no
+  direct Topic 19 question. Orchard, climate-change and agricultural-value-
+  chain questions may supply cross-owner applications, but no solved PYQ or
+  objective key is invented.

@@ -1455,6 +1455,30 @@ conclusion]."
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting, instruments, mandates and conditionality while influencing macro stability, development finance and global economic governance.
+- **Indispensable distinction and prerequisite taxonomy:** IMF quota is not World Bank capital, SDR is not a currency, project loan is not balance-of-payments support, board approval is not disbursement, and institutional recommendation is not binding domestic law.
+- **Mechanism, implementation and evidence control:** Verify institution, window, borrower eligibility, approval and disbursement status; distinguish subscribed capital, lending capacity and annual flow, and analyse representation, safeguards, debt, conditionality and policy space.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. Official institutional pages or official-domain search results supported qualitative mandates and lending-window distinctions. Direct IMF access was blocked and the World Bank landing page was only partially retrievable, so current quota, voting, membership, capital and finance figures were not used. Sources: https://www.imf.org/en/about/faq/quotas; https://www.worldbank.org/en/about/articles-of-agreement; https://www.adb.org/what-we-do; https://www.aiib.org/en/about-aiib/index.html; https://www.ndb.int/about-ndb/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited Prelims ledgers route objective concepts on AIIB, the reserve or gold tranche, the Rapid Financing Instrument, the G20 Common Framework, ADB's Nature Solutions Finance Hub and IBRD. No direct Economy Mains demand is claimed and no objective answer letter is inferred.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Institution-comparison frame?

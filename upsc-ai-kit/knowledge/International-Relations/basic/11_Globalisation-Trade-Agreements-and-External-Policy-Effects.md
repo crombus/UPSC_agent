@@ -368,3 +368,26 @@ Global South equity.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Globalisation and trade agreements transmit tariffs, services rules, investment, standards, data, technology, labour, climate measures and supply-chain shocks into domestic distribution and external-policy choices.
+- **Indispensable distinction and prerequisite taxonomy:** Negotiation launch, concluded text, signature, ratification, entry into force, utilisation and economic outcome are different stages; FTA, CEPA, ECTA, customs union and multilateral WTO commitments are not interchangeable, and gross trade change does not by itself prove agreement impact.
+- **Mechanism, implementation and evidence control:** Identify parties, legal coverage, rules of origin, safeguards, dispute route, sensitive sectors and operative date; qualify employment, export, investment and geopolitical causation while weighing competitiveness, adjustment support, autonomy, standards and alternative arrangements.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 6 September 2026: the India-EU FTA negotiations were concluded on 27 January 2026, while the India-UK CETA entered into force on 15 July 2026. Conclusion, signature, ratification, entry into force, utilisation and distributional outcome remain distinct; WTO membership and RTA notifications control legal classification. Sources: https://www.wto.org/english/thewto_e/countries_e/india_e.htm; https://rtais.wto.org/UI/PublicSearchByMemberResult.aspx?lang=1&membercode=356; https://www.commerce.gov.in/files/2026-02/India%E2%80%93EU%20Free%20Trade%20Agreement%20Concluded%20dated%2027.01.2026.pdf; https://www.commerce.gov.in/ministryofcommerce/node/4903
+- **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
+  project announcement or diplomatic statement supports a causal claim only
+  after legal character, implementation, partner response, counterfactual,
+  alternatives and residual risk are tested.
+- **Canonical and cross-owner boundary:** this International Relations owner
+  teaches external-policy concepts, actors, instruments, institutions and
+  India-centric application. Detailed constitutional doctrine stays with
+  Polity; trade and macroeconomic mechanics stay with Economy; historical
+  chronology stays with History; security operations stay with Internal Security.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard International Relations taxonomy and complete verified PYQ demands
+  were checked for absent doctrines, actors, instruments, memberships,
+  mandates, status chains, mechanisms, comparisons, current facts, answer
+  architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Three General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word-limit provenance exactly as observed: 2025 question 10 asking the answer to elucidate the statement that with the waning of globalization the post-Cold War world is becoming a site of sovereign nationalism, a 10-mark demand whose 150-word limit is printed in the question itself and which the Basic owner names as the anchor demand for this topic; 2018 question 19 on the key areas of World Trade Organization reform in the context of a trade war, a 15-mark demand of 250 words recorded on a Core route that supersedes the older Advanced ownership; and 2022 question 20 asking the answer to describe briefly India's changing policy towards climate change in various international fora in the context of geopolitics, a 15-mark demand whose 250-word limit is printed in the question. Two provenance facts are reported rather than repaired. First, the 2018 General Studies Paper II is not among the locally held official papers, so only the audited ledger's own neutral rendering of that demand is carried and its printed stem is deliberately not reconstructed, quoted or paraphrased, while the 2022 and 2025 stems were confirmed word for word against the locally held official papers for those years. Second, the 2022 demand is expressly cross-cutting: the audited ledger records that both the climate regime and multilateral fora are named in the stem, this owner holds the trade, negotiating and external-policy half, and topic 12 holds the institutional half, so the shared ownership is declared rather than silently duplicated or silently dropped. No objective demand from any audited Prelims routing ledger is routed to this owner, so none is listed, invented or answered. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording and word-limit provenance of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.

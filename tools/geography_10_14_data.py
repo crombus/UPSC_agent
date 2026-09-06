@@ -42,7 +42,7 @@ TOPIC_10 = common.topic(
         ("India east-west contrast", "India's east coast is generally broader and more deltaic, while much of the west coast is narrower with estuaries and submergent features; local exceptions prevent a rigid binary."),
         ("Delta-estuary-port relation", "Large sediment-rich east-flowing rivers build deltas, whereas Narmada and Tapi enter estuarine mouths; port suitability depends on depth, shelter, sedimentation and engineering, not coast label alone."),
         ("NCCR shoreline classes", "The official NCCR assessment for 1990-2018 classified about 33.6 percent of the analysed mainland coast as eroding, 26.9 percent accreting and 39.6 percent stable; these are period classes, not annual rates."),
-        ("CRZ 2019 architecture", "The CRZ Notification 2019 uses category-specific regulation implemented through approved Coastal Zone Management Plans; a national notification does not produce one uniform permission line for every site."),
+        ("CRZ 2019 architecture", "CRZ Notification 2019, S.O. 37(E) dated 18 January 2019, uses category-specific regulation implemented through approved Coastal Zone Management Plans; the official portal lists later amendments and circulars, so no single undated rule or permission line applies everywhere."),
         ("HTL-LTL-hazard distinction", "High Tide Line, Low Tide Line and hazard-related mapping inputs serve different regulatory or risk purposes; technical demarcation supports a plan but does not itself grant project clearance."),
         ("Institutional decision chain", "MoEFCC, NCZMA, coastal zone authorities, authorised mapping agencies and appraisal bodies perform distinct recommendation, mapping, approval and compliance roles; recommendation is not final approval."),
         ("Verified coastline PYQ route", "The direct routed 2023 GS-I demand asks for India's coastline resource potential and hazard preparedness, requiring physical geography, economic uses and warning-to-evacuation capacity in one qualified answer."),
@@ -108,10 +108,12 @@ TOPIC_10 = common.topic(
     ],
     [
         "https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/CRZ_Notification_2019/0.pdf",
-        "https://pib.gov.in/PressReleasePage.aspx?PRID=1811914",
+        "https://environmentclearance.nic.in/report/CRZ_Notifications.aspx",
+        "https://environmentclearance.nic.in/report/CRZ_circulars.aspx",
+        "https://pib.gov.in/PressReleasePage.aspx?PRID=1982315",
         "https://ncscm.res.in/",
     ],
-    "The official CRZ Notification 2019 is used only for category-, map- and plan-dependent architecture. PIB's official NCCR release supplies the 1990-2018 shoreline classes; they are not restated as a current annual rate or forecast. No weakly verified 2026 rule change is used.",
+    "Rechecked 2026-09-05: the official portal retains S.O. 37(E) dated 18 January 2019, lists amendments including S.O. 4886(E) of 26 November 2021 and S.O. 4648(E), 4649(E) and 4650(E) of 30 September 2022, and lists a 13 October 2023 mapping-agency SOP. No later 2025-26 textual amendment was located. NCCR's 1990-2018 shoreline classes are not restated as annual rates.",
     extra=["basic/05_Landforms-by-Running-Water.md", "basic/11_Islands-and-Coral-Reefs.md", "basic/12_The-Oceans-Currents-Tides-Salinity.md"],
 )
 
@@ -306,7 +308,7 @@ TOPIC_12 = common.topic(
         "https://iioe-2.incois.gov.in/site/services/osf.jsp",
         "https://mausam.imd.gov.in/ClimateInformation/imdweb/CLIMATE_FCST/Bulletin/ENSO_IOD_Update_Bulletin.pdf",
     ],
-    "INCOIS's official OMNI/RAMA page is used for observing variables and purpose, and its ocean-state service page for service architecture. The IMD ENSO-IOD bulletin is retained only as the official place for dated monitoring; no September 2026 phase, forecast probability or monsoon outcome is copied.",
+    "Rechecked 5 September 2026: INCOIS's official OMNI/RAMA page establishes the observed upper-ocean and meteorological variables and the data-management roles. IMD's live ENSO-IOD bulletin states that neutral IOD conditions presently prevail; its latest MMCFS forecast keeps neutral conditions through the forecast period, while international centres give positive IOD the second-highest probability later in the season. This is a dated observation-plus-forecast, not a permanent basin label or a deterministic monsoon outcome.",
     extra=["basic/10_Coastal-Landforms.md", "basic/11_Islands-and-Coral-Reefs.md", "basic/13_Weather-Elements.md", "advanced/16_India-Monsoon-Mechanism.md"],
 )
 
@@ -404,8 +406,9 @@ TOPIC_13 = common.topic(
         "https://mausam.imd.gov.in/responsive/servicesMetUpperAir.php",
         "https://mausam.imd.gov.in/responsive/radar.php",
         "https://mausam.imd.gov.in/imd_latest/contents/satmet.php",
+        "https://mausam.imd.gov.in/Forecast/marquee_data/Press%20Release%2004-09-2026.pdf",
     ],
-    "IMD's official upper-air, radar and satellite service pages are used only to establish observation and forecasting architecture. The live search found no sufficiently stable, topic-specific official September 2026 western-disturbance item, so no current event, jet trend, forecast or realised impact is claimed.",
+    "Rechecked 5 September 2026: IMD's 4 September 2026 press release observed a fresh Western Disturbance as a middle- and upper-tropospheric trough roughly along 64°E north of 32°N. The same bulletin's rainfall outlook was issued under several simultaneous synoptic systems, so the package does not attribute all forecast or realised rain to that disturbance alone. IMD upper-air, radar and satellite pages establish the observation architecture; no long-term jet trend is inferred from one bulletin.",
     extra=["advanced/06_Himalayan-Glaciers-GLOF.md", "advanced/16_India-Monsoon-Mechanism.md", "basic/12_The-Oceans-Currents-Tides-Salinity.md"],
 )
 
@@ -497,8 +500,9 @@ TOPIC_14 = common.topic(
     [
         "https://mausam.imd.gov.in/imd_latest/contents/pdf/pubbrochures/Climate%20Services.pdf",
         "https://mausam.imd.gov.in/",
+        "https://mausam.imd.gov.in/Forecast/marquee_data/Outlook_September_2026.pdf",
     ],
-    "IMD official climate-service material is used only to identify normals and climate-data products. No sufficiently clear official live item was found that establishes a new national Koppen map or revised region boundary, so no current code, boundary, forecast or measurement is claimed.",
+    "Rechecked 5 September 2026: IMD climate services remain the official route to station/gridded observations and climatological products. Its monthly outlook for September 2026, issued on 31 August 2026, is retained only as a dated forecast product and not as a climatic normal or Köppen boundary. No official new national Köppen map or revised climatic-region line was located, so the package asserts no current code or boundary change.",
     extra=["basic/13_Weather-Elements.md", "advanced/16_India-Monsoon-Mechanism.md", "basic/15_Hot-Wet-Equatorial-Climate.md"],
 )
 

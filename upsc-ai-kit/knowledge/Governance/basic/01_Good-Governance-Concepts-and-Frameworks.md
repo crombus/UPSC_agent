@@ -423,3 +423,27 @@ enforcement or a wrongly designed entitlement.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Good governance converts legitimate public authority into rights-respecting, effective, equitable and accountable outcomes through participation, rule of law, transparency, responsiveness, efficiency and answerability; the principles are mutually reinforcing but can create real trade-offs.
+- **Indispensable distinction and prerequisite taxonomy:** Government is the formal authority structure, governance is the wider process and actor network, and good governance is a normative quality test; efficiency is not effectiveness, transparency is not accountability, participation is not consent, and legality alone does not prove fairness.
+- **Mechanism, implementation and evidence control:** Use constitutional values, citizen charters, social audit, Sevottam and outcome evidence with named duty-holders and remedies; an index, award, portal or scheme launch is evidence of an instrument, not automatic proof of improved governance.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: DARPG remains the official owner for the Good Governance Index, Sevottam and citizen-charter material. The latest completed national GGI edition located remains GGI 2020-21; later district indices, events or awards are not substituted for a national edition. Sources: https://www.darpg.gov.in/relatedlinks/good-governance-index; https://darpg.gov.in/relatedlinks/sevottam; https://darpg.gov.in/relatedlinks/citizen-charter
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** No direct General Studies Mains demand is routed to this owner in the audited 2018-2023 or 2024-2025 Mains ledgers. The audited 2018-2023 Preliminary ledger routes one objective demand to this owner, namely the organisation that releases the Rule of Law Index annually, and that ledger itself records the official key as unavailable locally. The printed wording of that objective question could not be confirmed in the locally held OCR-searchable 2018 Preliminary paper, whose scan does not yield searchable text for the item, so no option set, no official key and no verbatim stem is reproduced or inferred. The owner therefore carries the examinable distinction - the Rule of Law Index is published by the World Justice Project and not by the World Bank - without converting an unkeyed objective question into a solved answer. The six original Mains answers below are authored practice, not previous-year questions, and the Basic owner records that this topic functions mainly as the conceptual opening for evaluative demands owned by Topics 02 to 15 rather than as a standalone Mains topic.

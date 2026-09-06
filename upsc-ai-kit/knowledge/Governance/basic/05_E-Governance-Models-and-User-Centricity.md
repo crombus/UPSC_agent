@@ -431,3 +431,27 @@ redesign, whereas publishing information does not. Higher ambition, higher desig
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** E-governance redesigns information, transactions and accountability across G2C, G2B, G2G and G2E relations; value arises from process simplification, interoperability, assisted access, service standards, feedback and remedy rather than digitising a defective paper workflow.
+- **Indispensable distinction and prerequisite taxonomy:** Digitisation converts form, digitalisation changes a process, and digital transformation redesigns the service; portal availability is not usability, disposal is not resolution, and digital-by-default must not become digital-only exclusion.
+- **Mechanism, implementation and evidence control:** Use UMANG, DigiLocker, Government e-Marketplace, CPGRAMS and service centres with ministry, date and status controls; test language, disability, connectivity, authentication failure, cyber security, privacy, offline fallback and human escalation.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: DARPG, UMANG and DigiLocker remain authoritative programme sources. Platform availability or transaction counts do not by themselves prove accessibility, reasoned disposal, remedy or citizen outcome. Sources: https://darpg.gov.in/en/e-governance; https://web.umang.gov.in/; https://www.digilocker.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Six direct General Studies Paper-II Mains demands are routed to this topic across the audited ledgers and every routed stem used below was confirmed word for word in the locally held OCR-searchable official question papers. The audited 2024-2025 ledger routes two demands to this Basic owner: the 2024 demand evaluating the Interactive Service Model of e-governance in the context of transparency and accountability, and the 2025 demand on the built-in bias in e-governance projects towards technology and back-end integration rather than user-centric designs. The audited 2018-2023 ledger routes four demands to the Advanced owner - the 2018 demand on the use value of information, the 2019 demand on vital factors in implementing information and communication technology projects and programmes, the 2020 demand on the Fourth Industrial Revolution and e-governance as an integral part of government, and the 2023 demand on the inadequacies hampering effectiveness, transparency and accountability - and the Basic owner records that core routing supersedes the older Advanced pointer, so all four are answered from the core file. The audited Prelims ledger additionally routes the 2018 objective demand on Digital India Plan government aims and objectives to this owner; the official key for that year is not held locally, so no option, answer or distractor is recorded or inferred for it. No official answer key or marking scheme is held locally for any routed Mains demand either, so every model solution below is an authored answer route rather than an official key.

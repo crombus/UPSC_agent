@@ -143,7 +143,7 @@ TOPIC_06 = common.topic(
         ("South Lhonak boundary", "South Lhonak was a moraine-dammed lake involved in the October 2023 Teesta disaster; event-specific work examines slope movement, impulse, overtopping and breach without reducing attribution to warming alone."),
         ("Risk-reduction stack", "Inventory and remote sensing must lead to field assessment, thresholds and warning, communication and drills, land-use controls, evacuation routes and GLOF-informed infrastructure design."),
         ("Verified PYQ routes", "Direct routed demands include 2020 GS-I on glacier melting and Indian water resources, 2023 GS-I on fjords and 2019 Prelims glacier-river matching."),
-        ("Current evidence boundary", "ISRO SAC's Himalayan Glacier Inventory Atlas verifies an official mapping platform; it does not by itself prove a current retreat rate, loss percentage, lake ranking or forecast."),
+        ("Current evidence boundary", "SAC's official Himalayan Glacier Inventory Atlas remains the mapping portal. ISRO's 22 April 2024 assessment compared 2,431 lakes larger than 10 hectares in the 2016-17 inventory with observations since 1984 and identified 676 expanding lakes, including 130 within India; the dated inventory does not itself establish present GLOF probability."),
     ],
     [
         "Do not call every persistent snow patch a glacier.",
@@ -207,9 +207,12 @@ TOPIC_06 = common.topic(
     ],
     [
         "https://vedas.sac.gov.in/en/Himalayan_Glacier_Inventory_Atlas.html",
+        "https://www.isro.gov.in/Satellite_Insights_Expanding_Glacial_Lakes_Indian_Himalayas.html",
         "https://cwc.gov.in/glacial-lake-outburst-floods-glof",
+        "https://cwc.gov.in/glacial-lakeswater-bodies-himalayan-region",
+        "https://mitigation.ndma.gov.in/ndmahr-admin/public/uploads/advertisement_document/file63791735554350.pdf",
     ],
-    "The ISRO SAC Himalayan Glacier Inventory Atlas was directly fetched on 2026-09-01 as an official mapping portal. The CWC GLOF page timed out during the fresh check, so the package retains only the already verified process boundary and states no current rate, count, ranking or forecast.",
+    "Rechecked 2026-09-05: SAC's atlas remains the official glacier inventory portal; ISRO's 22 April 2024 assessment supplies inventory-period lake counts, CWC's live GLOF pages supply the monitoring rationale and reports, and NDMA supplies the management guideline. No inventory count is presented as a current risk ranking or event forecast.",
     extra=["basic/05_Landforms-by-Running-Water.md", "basic/09_Lakes.md"],
 )
 
@@ -240,7 +243,7 @@ TOPIC_07 = common.topic(
         ("Process-matched restoration", "Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process."),
         ("Monitoring discipline", "Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact."),
         ("Verified PYQ boundary", "The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only."),
-        ("Current evidence boundary", "SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome."),
+        ("Current evidence boundary", "SAC's 2021 atlas reports 97.85 million hectares, or 29.77 percent of India's geographical area, under land degradation/desertification in 2018-19. This is a dated national mapping baseline, not a September 2026 condition report or a Thar-only percentage."),
     ],
     [
         "Do not equate a desert with desertification.",
@@ -299,10 +302,13 @@ TOPIC_07 = common.topic(
     "TRANSPARENT ZERO-DIRECT-PYQ AUDIT: the central Mains ledger routes the 2020 desertification demand to Environment and Ecology, and no direct Topic 07 objective route appears in the checked central ledgers. Cross-owned questions remain conceptual context, not claimed Geography PYQs.",
     [],
     [
-        "https://vedas.sac.gov.in/en/Desertification_Status_Mapping_(DSM)_Atlas.html",
-        "https://www.unccd.int/sites/default/files/2026-06/EN_DDD_FINAL_PR_2026.pdf",
+        "https://vedas.sac.gov.in/vedas/dsm_atlas.html",
+        "https://www.sac.gov.in/data/Publication/128/Desertification_and_Land_Degradation_Atlas_of_India_2021.pdf",
+        "https://pib.gov.in/PressReleseDetailm.aspx?PRID=1727987",
+        "https://moef.gov.in/uploads/2023/07/NAP%20final-2023.pdf",
+        "https://www.unccd.int/land-and-life/land-degradation-neutrality/overview",
     ],
-    "The SAC atlas page and UNCCD's June 2026 restoration communication were directly fetched. The atlas remains a dated mapping baseline, not a September 2026 condition report; no Thar percentage, target achievement or COP17 outcome is asserted.",
+    "Rechecked 2026-09-05: SAC's 2021 atlas supplies the 2018-19 national baseline of 97.85 million hectares or 29.77 percent. MoEFCC's 2023 NAP records the 26-million-hectare restoration ambition for 2030, and UNCCD supplies the avoid-reduce-reverse LDN framework. No baseline value is presented as a current Thar percentage or achieved target.",
     extra=["basic/18_Hot-and-MidLatitude-Desert-Climate.md", "advanced/18_Thar-Desert-and-GIB.md"],
 )
 
@@ -333,7 +339,7 @@ TOPIC_08 = common.topic(
         ("Cave values", "Karst stores and transmits groundwater, supports specialised biodiversity, preserves palaeoclimate and archaeological archives and sustains cultural and tourism values."),
         ("Threat-response chain", "Quarrying, pollution, altered recharge, waste, infrastructure and unmanaged visitation can damage a connected catchment-aquifer-cave system; conservation must extend beyond the entrance."),
         ("Verified PYQ boundary", "The checked central ledgers route Ajanta to Indian Art and Culture and contain no direct Geography Topic 08 demand; cave-shrine and limestone questions in the legacy package are retained only as cross-owner context."),
-        ("Current official anchor", "The ICS 2026/06 chart and official Quaternary divisions page retain the Meghalayan and identify Mawmluh's KM-A speleothem; no cave-length record or mining outcome is inferred."),
+        ("Current official anchor", "The ICS June 2026 chart retains the Meghalayan. The official Quaternary page places its GSSP at 7.45 mm depth in Mawmluh Cave's KM-A speleothem, ratified 14 June 2018 and modelled at 4.200 ± 0.030 ka before 1950 (= 4.250 ± 0.030 ka b2k)."),
     ],
     [
         "Do not call every cave a limestone solution cave.",
@@ -394,8 +400,10 @@ TOPIC_08 = common.topic(
     [
         "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
         "https://quaternary.stratigraphy.org/major-divisions",
+        "https://www.iugs.org/the-anthropocene-iugs-ics-statement/",
+        "https://www.iugs.org/wp-content/uploads/2024/03/Anthropocene_short_IUGS-ICS_Statement-1.pdf",
     ],
-    "The ICS 2026/06 chart metadata and official Quaternary divisions page were directly fetched on 2026-09-01. They retain the Holocene-Meghalayan hierarchy and identify the KM-A speleothem at Mawmluh; no cave record, mining status or new geological date is inferred.",
+    "Rechecked 2026-09-05: the ICS June 2026 chart and official Quaternary page retain the Holocene-Meghalayan hierarchy, KM-A GSSP, 14 June 2018 ratification and 4.200 ± 0.030 ka before-1950 age. IUGS-ICS still treats Anthropocene as informal after the March 2024 decision. No cave-length record, cave-wide age or civilisation-collapse claim is inferred.",
     extra=["basic/04_Weathering-MassMovement-Groundwater.md"],
 )
 
@@ -426,7 +434,7 @@ TOPIC_09 = common.topic(
         ("Montreux and criteria", "A site can qualify by meeting at least one Ramsar criterion; the Montreux Record highlights listed sites where ecological character has changed, is changing or is likely to change."),
         ("Indian governance", "Wetlands Rules 2017 establish State or Union Territory Wetland Authorities and a notification-regulation framework; NPCA and other programmes are separate implementation instruments."),
         ("Verified PYQ routes", "Direct Geography routes cover human-caused lake shrinkage, artificial lakes, reservoir names, saline Rajasthan lakes, river-lake matching and the provisional Lake Turkana demand; wetland-governance Mains questions are cross-owned."),
-        ("Current evidence boundary", "The MoEFCC-linked Wetlands of India portal is a dynamic official knowledge repository; a fresh Ramsar country-profile fetch returned access restriction, so no new September 2026 count is asserted."),
+        ("Current evidence boundary", "Ramsar Convention and PIB announcements record Glaw Lake, Arunachal Pradesh, as India's 101st Ramsar site on 3 August 2026. MoEFCC's list dated 21 April 2026 records 99, so designation counts must always retain their as-of date."),
     ],
     [
         "Do not treat all wetlands as lakes.",
@@ -492,9 +500,14 @@ TOPIC_09 = common.topic(
     ],
     [
         "https://indianwetlands.in/",
-        "https://www.ramsar.org/country-profile/india",
+        "https://www.ramsar.org/news/india-designates-glaw-lake-wetland-international-importance",
+        "https://pib.gov.in/PressReleasePage.aspx?PRID=2294036&reg=48&lang=1",
+        "https://www.ramsar.org/news/thats-century-india-names-its-100th-wetland-international-importance",
+        "https://moef.gov.in/ramsar-convention",
+        "https://moef.gov.in/uploads/pdf-uploads/pdf_698ae4f8f28953.18411376.pdf",
+        "https://moef.gov.in/regulatory-framework-wetlands-rules",
     ],
-    "The MoEFCC-linked Wetlands of India portal was directly fetched and describes itself as a dynamic national knowledge repository. The Ramsar country profile returned 403 during the fresh check, so this package does not upgrade or restate a latest count or site-status claim.",
+    "Rechecked 2026-09-05: Ramsar and PIB identify Glaw Lake as India's 101st Ramsar site from 3 August 2026; the MoEFCC list dated 21 April 2026 records the earlier tally of 99. The package separates international designation, Wetlands Rules 2017 regulation, site management and measured ecological condition.",
     extra=["basic/05_Landforms-by-Running-Water.md", "basic/08_Limestone-and-Karst-Landforms.md", "basic/10_Coastal-Landforms.md"],
 )
 

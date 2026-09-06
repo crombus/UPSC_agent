@@ -1491,6 +1491,30 @@ attributable to a public authority.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Digital public infrastructure supplies reusable population-scale rails for identity, payments, credentials or data exchange, while data governance allocates lawful purpose, access, quality, security, accountability and remedy across the data lifecycle.
+- **Indispensable distinction and prerequisite taxonomy:** DPI is not every government portal, a digital identity is not citizenship, consent is not always a sufficient legal basis, anonymisation is not a guarantee against re-identification, and interoperability does not justify unrestricted data sharing.
+- **Mechanism, implementation and evidence control:** Use Aadhaar, UPI, DigiLocker, Account Aggregator and consent-based exchanges with exact regulator, statute, scheme and current-status qualification; apply purpose limitation, data minimisation, inclusion, privacy, security audit, contestability and offline alternatives.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 2026-09-05: G.S.R. 843(E) notified the Digital Personal Data Protection Rules, 2025 on 13 November 2025 with phased commencement at publication, one year and eighteen months. Each provision must therefore be described by its own operative date; DPI ownership and privacy duties remain institution- and instrument-specific. Sources: https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa?pageTitle=Digital-Personal-Data-Protection-Rules-2025.pdf; https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf; https://uidai.gov.in/en/legal-framework; https://www.npci.org.in/what-we-do/upi/product-overview
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Governance owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/governance taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** One direct General Studies Paper-II Mains demand is routed to this topic across the audited ledgers, and its printed stem was confirmed word for word in the locally held OCR-searchable official question paper. The audited 2018-2023 ledger routes the 2021 demand on digital illiteracy in rural areas coupled with a lack of information and communication technology accessibility to the Advanced owner, and the Basic owner records that core routing supersedes the older Advanced pointer, so it is answered from the core file. The audited Prelims ledgers additionally route five objective demands to this owner: the 2018 demand on Aadhaar and citizenship proof with deactivation rules, the 2020 demand on Aadhaar data storage and mandatory linkage rules, the 2022 demand on Ayushman Bharat Digital Mission provisions, the 2022 demand on government digital services built on open-source platforms, and the 2024 demand on the Digital India Land Records Modernisation Programme. For the 2018, 2020 and 2022 objective demands the official key is not held locally; for the 2024 objective demand an official Set-A answer key is present in the repository. In every case no option, answer letter or distractor is recorded or inferred here, and each objective demand is treated only as a statement-level coverage requirement. Because only one Mains demand is directly routed to this owner, the remaining solved cards below are the routed demands from immediately adjacent owners that this file supplies the necessary infrastructure and data-governance material for; each card states its own ledger routing rather than claiming verbatim ownership. No official answer key or marking scheme is held locally for any routed Mains demand, so every model solution below is an authored answer route rather than an official key.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Digital public infrastructure defined against a service?

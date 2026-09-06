@@ -1,0 +1,1820 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-43",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 9,
+      "heading": "Political Parties - Complete Uncompressed Learning Session",
+      "preview": "**Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.  **Answer-writing discipline:*",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 698.691
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 639.824
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 25,
+      "heading": "Local Owner Gateway",
+      "preview": "**Subject:** Polity · **Tier:** Basic (foundation) · **GS-II** [FACT] = from book · [CURRENT] = current link · [KEY] = mnemonic. *Advanced: optional deeper detail in `advanced/43_Political-Parties.md` — not required for any mark.*",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 415.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 334.356
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 309.356
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 59.154
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\polity-43_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 104.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The snapshot maps democratic functions before separating registration, recognition, finance and accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 100,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Snapshot.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\01_snapshot.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 343.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 63.206
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 101,
+      "markdown_body_line_end": 107,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Item | Fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Item",
+          "Fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 661.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 128,
+      "heading": "CLOSING RECALL FLOW - SNAPSHOT",
+      "preview": "START / CONCEPT: SNAPSHOT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 140
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 639.49
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 418.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Political parties exercise public democratic power through a private associational form.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 297.69
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 245.222
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 158,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Parties are private associations with public democratic power; regulation must secure transparency and fair competition without State control of lawful ideology or leadership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 677.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 160,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Core idea.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\02_core_idea.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 677.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 397.206
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 197,
+      "heading": "CLOSING RECALL FLOW - POLITICAL-PARTY CORE IDEA",
+      "preview": "START / CONCEPT: POLITICAL-PARTY CORE IDEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 208,
+      "markdown_body_line_end": 208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The must-know facts pair every legal source with its exact consequence and limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "04. Current link",
+      "preview": "Topic-specific visual map: Current link.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\03_current_link.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 640.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 359.874
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "05. 5. Answer architecture (10/15/20-mark support)",
+      "preview": "Topic-specific visual map: 5. Answer architecture (10/15/20-mark support).",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\04_5_answer_architecture_10_15_20_mark_support.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 170.674
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 254,
+      "markdown_body_line_end": 254,
+      "heading": "05. 5. Answer architecture (10/15/20-mark support)",
+      "preview": "Purpose: make this Core file independently able to answer directive-sensitive GS-II questions on the constitutional and statutory basis of parties, party finance and the electoral-bonds verdict, criminalisation and internal democracy, and t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 522.874
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 449.806
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 258,
+      "markdown_body_line_end": 275,
+      "heading": "CLOSING RECALL FLOW - MUST-KNOW FACTS",
+      "preview": "START / CONCEPT: MUST-KNOW FACTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 427.806
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 216.806
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 286,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The demand and directive map is the first control against generic political-party answers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 96.006
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 43.539
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 314,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand family | Typical directive signals | Answer spine to use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Demand family",
+          "Typical directive signals",
+          "Answer spine to use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 210.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 335,
+      "heading": "CLOSING RECALL FLOW - DEMAND AND DIRECTIVE MAP",
+      "preview": "START / CONCEPT: DEMAND AND DIRECTIVE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 346,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "5.2 Qualified thesis options denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 427.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 360.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: 5.2 Qualified thesis options.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\05_5_2_qualified_thesis_options.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 374,
+      "markdown_body_line_end": 391,
+      "heading": "CLOSING RECALL FLOW - QUALIFIED THESIS OPTIONS",
+      "preview": "START / CONCEPT: QUALIFIED THESIS OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 272.874
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 51.874
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 402,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mark-scaled structures prevent the same generic template from being repeated across unlike political-party questions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 426,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Marks | Architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 360.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 216.622
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 447,
+      "heading": "CLOSING RECALL FLOW - MARK-SCALED STRUCTURES",
+      "preview": "START / CONCEPT: MARK-SCALED STRUCTURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 458,
+      "markdown_body_line_end": 458,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "5.4 Bank A — Constitutional & statutory basis (Claim → provision → mechanism → limitation) denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 446.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 477,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: 5.4 Bank A — Constitutional & statutory basis (Claim → provision → mechanism → limitation).",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\06_5_4_bank_a_constitutional_statutory_basis_claim_prov.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 486,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "[KEY] **Three legal layers:** **Constitution** (Tenth Schedule — defection) · **Statute** (Sec 29A — registration) · **ECI Order** (1968 — recognition & symbol). Distinguish them in every \"how are parties regulated\" answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 686.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 642.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 507,
+      "heading": "CLOSING RECALL FLOW - BANK A - CONSTITUTIONAL & STATUTORY BASIS (CLAIM -> PROVISION -> MECHANISM -> LIMITATION)",
+      "preview": "START / CONCEPT: BANK A — CONSTITUTIONAL & STATUTORY BASIS (CLAIM → PROVISION → MECHANISM → LIMITATION)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 607.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 366.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 518,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "5.5 Bank B — Party finance and the electoral-bonds verdict (routed to the 2024 proposition) denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 193.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 126.356
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 563,
+      "heading": "CLOSING RECALL FLOW - BANK B - PARTY FINANCE AND THE ELECTORAL-BONDS VERDICT (ROUTED TO THE 2024 PROPOSITION)",
+      "preview": "START / CONCEPT: BANK B — PARTY FINANCE AND THE ELECTORAL-BONDS VERDICT (ROUTED TO THE 2024 PROPOSITION)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 482
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 574,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "5.6 Bank C — Criminalisation and internal democracy (mechanism, incentives and consequences) denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 349.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 282.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 593,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: 5.6 Bank C — Criminalisation and internal democracy (mechanism, incentives and consequences).",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\07_5_6_bank_c_criminalisation_and_internal_democracy_me.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 503.674
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 617,
+      "heading": "CLOSING RECALL FLOW - BANK C - CRIMINALISATION AND INTERNAL DEMOCRACY (MECHANISM, INCENTIVES AND CONSEQUENCES)",
+      "preview": "START / CONCEPT: BANK C — CRIMINALISATION AND INTERNAL DEMOCRACY (MECHANISM, INCENTIVES AND CONSEQUENCES)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 628,
+      "markdown_body_line_end": 628,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use chronology to explain changing incentives, federal bargaining and representation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 321.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 649,
+      "markdown_body_line_end": 654,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Phase | Character | What changed and why (analysis)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phase",
+          "Character",
+          "What changed and why (analysis)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 514.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 677,
+      "heading": "CLOSING RECALL FLOW - BANK D - EVOLUTION OF THE PARTY SYSTEM (ANALYTICAL, NOT JUST CHRONOLOGICAL)",
+      "preview": "START / CONCEPT: BANK D — EVOLUTION OF THE PARTY SYSTEM (ANALYTICAL, NOT JUST CHRONOLOGICAL)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 448.49
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 247.49
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 688,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "5.8 Criticism, counter-argument and regional variation denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 707,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: 5.8 Criticism, counter-argument and regional variation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\08_5_8_criticism_counter_argument_and_regional_variatio.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 493.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 213.406
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 734,
+      "heading": "CLOSING RECALL FLOW - CRITICISM, COUNTER-ARGUMENT AND REGIONAL VARIATION",
+      "preview": "START / CONCEPT: CRITICISM, COUNTER-ARGUMENT AND REGIONAL VARIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 675.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 745,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "5.9 Verdict scaffolds denotes the constitutional rules and institutional links organised around Constitutional rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 200.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 148.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 789,
+      "heading": "CLOSING RECALL FLOW - VERDICT SCAFFOLDS",
+      "preview": "START / CONCEPT: VERDICT SCAFFOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 483.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 162.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 800,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims accuracy depends on refusing attractive but legally conflated options.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 821,
+      "markdown_body_line_end": 821,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: 5.10 Prelims close-option distinctions.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\09_5_10_prelims_close_option_distinctions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 286.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 822,
+      "markdown_body_line_end": 838,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Confusion pair | Correct discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 15,
+        "headers": [
+          "Confusion pair",
+          "Correct discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 270.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 847,
+      "heading": "16. 5.11 Factual-risk and current-status controls",
+      "preview": "Topic-specific visual map: 5.11 Factual-risk and current-status controls.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\10_5_11_factual_risk_and_current_status_controls.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 878,
+      "heading": "CLOSING RECALL FLOW - PRELIMS CLOSE-OPTION DISTINCTIONS",
+      "preview": "START / CONCEPT: PRELIMS CLOSE-OPTION DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 889,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Democratic functions make party accountability a public concern, while associational freedom limits State control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 910,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Democratic functions and the missing comprehensive party code.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\11_democratic_functions_and_the_missing_comprehensive_p.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 945,
+      "heading": "CLOSING RECALL FLOW - DEMOCRATIC FUNCTIONS AND THE MISSING COMPREHENSIVE PARTY CODE",
+      "preview": "START / CONCEPT: DEMOCRATIC FUNCTIONS AND THE MISSING COMPREHENSIVE PARTY CODE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 353.074
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 132.074
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 956,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Membership, candidate selection and internal federalism denotes the constitutional rules and institutional links organised around Internal field Democratic benchmark Common risk Reform direction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 975,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Membership, candidate selection and internal federalism.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets\\12_membership_candidate_selection_and_internal_federali.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 259.624
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 982,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Internal field | Democratic benchmark | Common risk | Reform direction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Internal field",
+          "Democratic benchmark",
+          "Common risk",
+          "Reform direction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 522.874
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 396.472
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 989,
+      "markdown_body_line_end": 1006,
+      "heading": "CLOSING RECALL FLOW - MEMBERSHIP, CANDIDATE SELECTION AND INTERNAL FEDERALISM",
+      "preview": "START / CONCEPT: MEMBERSHIP, CANDIDATE SELECTION AND INTERNAL FEDERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 341.072
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 100.072
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2097,
+      "markdown_body_line_end": 2100,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II **Grounded in:** Indian Polity by M. Laxmikant, Ch. 69 and electoral-reforms section (direct check of the local Sixth Revised Edition PDF) + ECI update. ✅ = from so",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 675.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 602.024
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2157,
+      "markdown_body_line_end": 2158,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 537.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 470.824
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2164,
+      "markdown_body_line_end": 2166,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 419.224
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 322.322
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2172,
+      "markdown_body_line_end": 2172,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 283.122
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 238.454
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2292,
+      "markdown_body_line_end": 2310,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Party as democratic intermediary, not constitutional sovereign",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 450.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2314,
+      "markdown_body_line_end": 2329,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Section 29A registration and ECI's bounded cancellation power",
+      "preview": "SECTION 29A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 428.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 274.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2333,
+      "markdown_body_line_end": 2350,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Recognition and symbol architecture without freezing party lists",
+      "preview": "SYMBOLS ORDER 1968",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2372,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Party system evolution, regionalisation and coalition federalism",
+      "preview": "EVOLUTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2376,
+      "markdown_body_line_end": 2393,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Internal democracy, membership, candidates and dynastic control",
+      "preview": "MEMBERSHIP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 210.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2397,
+      "markdown_body_line_end": 2416,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Finance and the electoral-bonds constitutional reset",
+      "preview": "STATUTORY SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2420,
+      "markdown_body_line_end": 2439,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Whips, anti-defection and party-symbol identity",
+      "preview": "PARTY ORGANISATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2443,
+      "markdown_body_line_end": 2462,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Criminalisation, disclosure and NOTA limits",
+      "preview": "Union of India v. Association for Democratic Reforms (2002) + PUCL (2003)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 354.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 159.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2466,
+      "markdown_body_line_end": 2482,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Donations, disclosure and foreign-source controls",
+      "preview": "RECEIPT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2486,
+      "markdown_body_line_end": 2502,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Judgment chain and bounded institutional powers",
+      "preview": "Sadiq Ali v. Election Commission of India (1972) -> symbol identity uses organisational and",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2506,
+      "markdown_body_line_end": 2521,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: PYQ demand decoding and executable answer spine",
+      "preview": "2022 GS-II Q13",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 261.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2545,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC answer synthesis and reform balance",
+      "preview": "PRELIMS FIREWALL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    }
+  ]
+}

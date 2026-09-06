@@ -392,3 +392,27 @@ means credible decarbonisation requires more than instrument creation — theref
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Climate economics addresses externalities, carbon pricing, regulation, adaptation, transition risk and distribution; green finance and circularity direct capital and material flows toward credible environmental outcomes.
+- **Indispensable distinction and prerequisite taxonomy:** Carbon tax is not emissions trading, green label is not verified additionality, climate finance is not every development loan, recycling is not full circularity, and avoided emissions are not observed absolute reductions.
+- **Mechanism, implementation and evidence control:** State taxonomy/method, boundary, baseline, unit, time horizon and verification; separate announcement, mobilisation, commitment, disbursement and impact while balancing growth, equity, energy security and federal transition.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The BEE carbon-market URL returned a generic shell. The package therefore preserves the owner-recorded phased-status boundary and imports no current carbon price, sector target, taxonomy status, recycling rate, climate-finance amount or market-operational claim. Sources: https://beeindia.gov.in/en/programmes/carbon-market
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route objective concepts on the Social Cost of Carbon, greenwashing, BRSR, circular-economy emission channels and sustainability bonds. Their concepts are taught in Basic and practice, while unavailable or provisional answer letters are not inferred.

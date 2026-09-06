@@ -1309,6 +1309,30 @@ stalled project or recapitalise a weak borrower.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** RBI monetary policy works through the policy rate, liquidity framework, money-market rates, bank funding and lending conditions, asset prices, expectations, exchange rate, demand and inflation with variable lags.
+- **Indispensable distinction and prerequisite taxonomy:** Repo policy rate is not every liquidity operation, liquidity surplus is not solvency, CRR is not SLR, stance is not a mechanical promise, and announcement is not complete transmission.
+- **Mechanism, implementation and evidence control:** Preserve RBI Act, MPC, operating target and instrument mandates; state decision date, policy window and status, then qualify pass-through by deposit structure, credit risk, fiscal conditions, supply shocks and external finance.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The RBI Monetary Policy page was reachable only as raw HTML in this run. No current repo rate, stance, reserve ratio, liquidity amount or meeting outcome was extracted; the package relies on the audited owners for stable instrument mechanics and preserves every counterparty and legal distinction. Sources: https://www.rbi.org.in/Scripts/Annualpolicy.aspx
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This Basic owner carries audited objective routes on legal tender, rupee management, payment-data storage, the money multiplier, expansionary instruments, RBI status, lender of last resort, interest-rate hikes, sterilisation, RBI income and reform committees. No routed Mains demand is manufactured and no unavailable or provisional objective answer is inferred.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies Repo-rate signal?

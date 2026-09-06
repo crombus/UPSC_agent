@@ -1,0 +1,2659 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Union and Territory - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Polity · Subject-wide Syllabus · `polity-05` **Generation identity:** `polity-05:learner-v2:g17` · generated 28 August 2026 · supersedes `polity-05:learner-v2:g16`; all earlier generations remain immutable **Approval",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 10,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 639.024
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 388.822
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\polity-05_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 721.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 414.156
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The framers wanted the Constitution to show that India is federal in structure, but not the product of a treaty among pre-existing sovereign units.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 133,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (OPENING):** The framers wanted the Constitution to show that India is federal in structure, but not the product of a treaty among pre-existing sovereign units. **CONTENT CLASSIFICATION:** CO",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 390.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 135,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Articles 1-4 in one architecture: name, territory, new States, reorganisation and legal effect.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\02_articles_1_to_4.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 390.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 93.214
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPSC trap: \"Union of States\" means a unitary State. Correct approach: it means a federation with a centralising, anti-secession design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 630.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 166,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL CONCEPTION: WHY ARTICLE 1 SAYS 'UNION OF STATES'",
+      "preview": "START / CONCEPT: CONSTITUTIONAL CONCEPTION: WHY ARTICLE 1 SAYS 'UNION OF STATES'",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 608.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 377.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 177,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Articles 1 to 4 place States, Union Territories and acquired territory within India, but assign them different constitutional positions within the federation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 237.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 170.556
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 191,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (ARCHITECTURE):** Articles 1 to 4 place States, Union Territories and acquired territory within India, but assign them different constitutional positions within the federation. **CONTENT CLAS",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 193,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Territory of India is wider than Union of India: States are federal members; Union Territories and acquired territories are not.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\01_territorial_architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 696.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 399.682
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 203,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Provision | Exact constitutional move | High-yield implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Provision",
+          "Exact constitutional move",
+          "High-yield implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 399.682
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 103.48
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 232,
+      "heading": "CLOSING RECALL FLOW - ARTICLES 1 TO 4 CLAUSE-BY-CLAUSE: THE CONSTITUTIONAL ARCHITECTURE OF TERRITORY",
+      "preview": "START / CONCEPT: ARTICLES 1 TO 4 CLAUSE-BY-CLAUSE: THE CONSTITUTIONAL ARCHITECTURE OF TERRITORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 687.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 243,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 2 is conceptually about entry from outside the existing Union: Parliament may admit or establish new States on terms it thinks fit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 330.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 264.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 258,
+      "markdown_body_line_end": 264,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 3 limb | Exact operation | Typical exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Article 3 limb",
+          "Exact operation",
+          "Typical exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 650.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 272,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPSC trap: Articles 2 and 3 both create new States, so the distinction is trivial. Correct approach: the distinction controls whether the Constitution is dealing with an outsider's entry or an insider's reorganisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 521.69
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 477.022
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 293,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 2 AND ARTICLE 3 ARE NOT THE SAME POWER",
+      "preview": "START / CONCEPT: ARTICLE 2 AND ARTICLE 3 ARE NOT THE SAME POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 455.022
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 224.022
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 304,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 3 requires presidential recommendation and State consultation, but Parliament is not bound by the State's view and Union Territories lack an equivalent proviso right.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 318,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (PROCEDURE):** Article 3 requires presidential recommendation and State consultation, but Parliament is not bound by the State's view and Union Territories lack an equivalent proviso right. *",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 510.956
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 320,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 3 procedure in sequence: recommendation, reference, views, parliamentary decision and Article 4 follow-through.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\03_article_3_procedure.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 510.956
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 213.814
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPSC trap: State consent is mandatory. Correct approach: President's recommendation and legislature-reference for views are mandatory; State consent is not.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 708.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 663.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 357,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 3 PROCEDURE: CONSULTATION WITHOUT CONSENT",
+      "preview": "START / CONCEPT: ARTICLE 3 PROCEDURE: CONSULTATION WITHOUT CONSENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 641.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 420.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 368,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It may amend the First Schedule and the Fourth Schedule and include supplemental, incidental and consequential provisions, including adjustments of representation in Parliament and in the legislature or legislatures of the affected States.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 261.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 180.756
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 390,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Issue | Article 3 + Article 4 law | Article 368 amendment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Issue",
+          "Article 3 + Article 4 law",
+          "Article 368 amendment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 531.69
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPSC trap: every territorial change is a constitutional amendment. Correct approach: internal reorganisation ordinarily travels through Article 3 read with Article 4; cession does not.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 464.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 420.222
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 417,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 4: SUPPLEMENTAL, INCIDENTAL AND CONSEQUENTIAL PROVISIONS - AND WHY THIS IS NOT ARTICLE 368",
+      "preview": "START / CONCEPT: ARTICLE 4: SUPPLEMENTAL, INCIDENTAL AND CONSEQUENTIAL PROVISIONS - AND WHY THIS IS NOT ARTICLE 368",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 385.222
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 154.222
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 428,
+      "markdown_body_line_end": 428,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The First Schedule is the Constitution's territorial ledger.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 468,
+      "heading": "CLOSING RECALL FLOW - THE FIRST SCHEDULE AS A LIVING TERRITORIAL LEDGER",
+      "preview": "START / CONCEPT: THE FIRST SCHEDULE AS A LIVING TERRITORIAL LEDGER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 279.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 58.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 479,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The sovereignty test separates cession from boundary settlement: surrender of accepted Indian territory requires Article 368, while genuine ascertainment or implementation of a disputed boundary may proceed without constitutional amendment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 546.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 493,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CESSION):** The sovereignty test separates cession from boundary settlement: surrender of accepted Indian territory requires Article 368, while genuine ascertainment or implementation of a d",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 373.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 300.356
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 495,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Three legal routes compared: internal reorganisation, cession, and boundary ascertainment.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\09_cession_boundary_decision_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 300.356
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 511,
+      "markdown_body_line_end": 511,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The constitutional route from Berubari Union (1960) to the India-Bangladesh Land Boundary Agreement.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\10_lba_exchange_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 187.15
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 519,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPSC trap: any reduction of a State's area equals cession. Correct approach: internal diminution under Article 3 is not the same as cession to a foreign sovereign.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 420.15
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 375.482
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 540,
+      "heading": "CLOSING RECALL FLOW - ACQUISITION, CESSION AND BOUNDARY SETTLEMENT: BERUBARI UNION (1960), THE 1969 DISTINCTION AND THE 100TH AMENDMENT",
+      "preview": "START / CONCEPT: ACQUISITION, CESSION AND BOUNDARY SETTLEMENT: BERUBARI UNION (1960), THE 1969 DISTINCTION AND THE 100TH AMENDMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 290
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 340.482
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 79.482
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 551,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Use the case for the strong-Centre thesis, especially when you need to explain why the Union can constitutionally outweigh States in questions about property, territorial flexibility or structural supremacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 591,
+      "heading": "CLOSING RECALL FLOW - STATE OF WEST BENGAL V UNION OF INDIA: WHY THE CASE MATTERS EVEN THOUGH IT IS NOT AN ARTICLE 3 CASE",
+      "preview": "START / CONCEPT: STATE OF WEST BENGAL V UNION OF INDIA: WHY THE CASE MATTERS EVEN THOUGH IT IS NOT AN ARTICLE 3 CASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 266.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 602,
+      "markdown_body_line_end": 602,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The textbook total of 552 princely States and the shorthand 549 joined / three difficult cases are retained as the repository owner's conventional count.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 615,
+      "markdown_body_line_end": 615,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "From accession to one Union: integration preceded territorial rationalisation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\05_princely_integration_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 137.882
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 623,
+      "markdown_body_line_end": 623,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The four-fold constitutional classification in 1950.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\06_1950_classification.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 458.55
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 625,
+      "markdown_body_line_end": 630,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Category | Number | Units",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Category",
+          "Number",
+          "Units"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 458.55
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 337.948
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 634,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPSC traps: Manipur and Tripura were Part C; Hyderabad was Part B; Bombay was Part A; Andaman and Nicobar Islands alone formed Part D.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 290.348
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 245.68
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 662,
+      "heading": "CLOSING RECALL FLOW - INTEGRATION OF PRINCELY STATES AND THE TRANSITIONAL 1950 MAP",
+      "preview": "START / CONCEPT: INTEGRATION OF PRINCELY STATES AND THE TRANSITIONAL 1950 MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 673,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Linguistic reorganisation accommodated regional identity within a strong Union, showing that territorial flexibility can promote integration without treating language as the sole criterion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 687,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (LINGUISTIC):** Linguistic reorganisation accommodated regional identity within a strong Union, showing that territorial flexibility can promote integration without treating language as the s",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 191.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 132.356
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 689,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "From initial caution to qualified linguistic reorganisation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\07_linguistic_reorganisation_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 717,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPSC trap: Fazl Ali endorsed a pure language test. Correct approach: language mattered, but not as an exclusive or mechanical rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 738,
+      "heading": "CLOSING RECALL FLOW - LINGUISTIC REORGANISATION: DHAR, JVP, ANDHRA AND THE FAZL ALI / SRC SETTLEMENT",
+      "preview": "START / CONCEPT: LINGUISTIC REORGANISATION: DHAR, JVP, ANDHRA AND THE FAZL ALI / SRC SETTLEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 723.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 502.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 749,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Several renamings are also exam-worthy: United Provinces to Uttar Pradesh (1950), Madras to Tamil Nadu (1969), Mysore to Karnataka (1973), Laccadive-Minicoy-Amindivi Islands to Lakshadweep (1973), Uttaranchal to Uttarakhand (2006), Pondiche",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 362.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 281.956
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 762,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "High-yield chronology from 1956 to the present position.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\08_state_creation_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 777,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Year | Change | High-yield note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Change",
+          "High-yield note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 182.348
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 783,
+      "markdown_body_line_end": 787,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Territorial incorporation | Constitutional step",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Territorial incorporation",
+          "Constitutional step"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 715.09
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 805,
+      "heading": "Statehood-number sequence after 1956",
+      "preview": "Statehood order | State and year | Source-safe route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Statehood order",
+          "State and year",
+          "Source-safe route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 617.09
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 345.688
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 843,
+      "heading": "CLOSING RECALL FLOW - AFTER 1956: STATE CREATION, RENAMING AND THE ROUTE TO 28 STATES AND 8 UNION TERRITORIES",
+      "preview": "START / CONCEPT: AFTER 1956: STATE CREATION, RENAMING AND THE ROUTE TO 28 STATES AND 8 UNION TERRITORIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 323
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 854,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The presence of a UT legislature does not convert that territory into a \"State\" for the purposes of the Article 3 proviso.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 406.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 340.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 3 treats Union Territories differently in the operative clauses and the consultation proviso.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\04_state_ut_consultation_nuance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 167.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 877,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Situation | Constitutional result",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Situation",
+          "Constitutional result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 439.35
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 351.148
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 3'S STATE-UT CONSULTATION NUANCE",
+      "preview": "START / CONCEPT: ARTICLE 3'S STATE-UT CONSULTATION NUANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 262.348
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 41.348
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In In Re Article 370 (11 December 2023), the Supreme Court held that the State legislature's views under the first proviso to Article 3 are recommendatory; carving out Ladakh as a UT was valid under Article 3(a) read with Explanation I; bec",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 522.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 926,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Current-law control on Jammu and Kashmir and Ladakh.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\12_current_status_control.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 349.824
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 52.682
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 957,
+      "markdown_body_line_end": 974,
+      "heading": "CLOSING RECALL FLOW - J&K REORGANISATION AS AN ARTICLE 3 ILLUSTRATION",
+      "preview": "START / CONCEPT: J&K REORGANISATION AS AN ARTICLE 3 ILLUSTRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 560
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 60.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 985,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualified verdict: smaller is not automatically better.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1003,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Demand type | Illustrative claims | Governance question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Demand type",
+          "Illustrative claims",
+          "Governance question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 280.822
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1038,
+      "heading": "CLOSING RECALL FLOW - CURRENT DEMANDS FOR NEW OR SMALLER STATES",
+      "preview": "START / CONCEPT: CURRENT DEMANDS FOR NEW OR SMALLER STATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 432
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1049,
+      "markdown_body_line_end": 1049,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affected States possess no constitutional veto.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1063,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FEDERAL):** Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affe",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 142.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 83.956
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1065,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article 3's democratic dilemma: necessary flexibility or centralising overreach?",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets\\11_federal_balance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1083,
+      "heading": "CURRENT-STATUS DASHBOARD THROUGH 28 AUGUST 2026",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (CURRENT):** Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affe",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 229.75
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 134.682
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1085,
+      "markdown_body_line_end": 1091,
+      "heading": "CURRENT-STATUS DASHBOARD THROUGH 28 AUGUST 2026",
+      "preview": "Current issue | Officially safe statement | Verification control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Current issue",
+          "Officially safe statement",
+          "Verification control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 549.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1099,
+      "heading": "GS-II ANSWER ARCHITECTURE: THE FASTEST RELIABLE ROUTE FROM PROVISION TO VERDICT",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (FINAL):** Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affect",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 501.89
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 421.022
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1108,
+      "heading": "GS-II ANSWER ARCHITECTURE: THE FASTEST RELIABLE ROUTE FROM PROVISION TO VERDICT",
+      "preview": "Demand family | Best opening thesis | Evidence core",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Demand family",
+          "Best opening thesis",
+          "Evidence core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 421.022
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 179.62
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1114,
+      "heading": "GS-II ANSWER ARCHITECTURE: THE FASTEST RELIABLE ROUTE FROM PROVISION TO VERDICT",
+      "preview": "Prelims traps to recite before any objective question: Article 2 is not Article 3; State consent is not mandatory; a UT has no proviso consultation right; Article 4 keeps internal reorganisation outside Article 368; cession requires Article",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 98.62
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 39.753
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1135,
+      "heading": "CLOSING RECALL FLOW - FEDERALISM, DEMOCRATIC CONSENT, REGIONALISM AND TERRITORIAL INTEGRITY",
+      "preview": "START / CONCEPT: FEDERALISM, DEMOCRATIC CONSENT, REGIONALISM AND TERRITORIAL INTEGRITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 311
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1741,
+      "markdown_body_line_end": 1745,
+      "heading": "PYQ provenance audit",
+      "preview": "PYQ | Verification status | Treatment in this package",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "PYQ",
+          "Verification status",
+          "Treatment in this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 611.09
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1755,
+      "markdown_body_line_end": 1759,
+      "heading": "PYQ 1. Prelims 2025, GS Paper I, Question 52 - verbatim official-paper verification",
+      "preview": "State | Description",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "State",
+          "Description"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 519.29
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 419.888
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1776,
+      "markdown_body_line_end": 1776,
+      "heading": "PYQ 1. Prelims 2025, GS Paper I, Question 52 - verbatim official-paper verification",
+      "preview": "Why this earns marks: it follows the official key, tests every pair independently, and explains why",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 272.288
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 241.82
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1779,
+      "markdown_body_line_end": 1779,
+      "heading": "PYQ 1. Prelims 2025, GS Paper I, Question 52 - verbatim official-paper verification",
+      "preview": "an ordinary Statehood Act and an accompanying constitutional amendment are not mutually exclusive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 208.42
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 177.953
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1830,
+      "markdown_body_line_end": 1830,
+      "heading": "PYQ 2. Mains 2018, GS Paper I, Question 12 - owner-verified exact text",
+      "preview": "Why this earns marks: the answer follows the economic directive, uses four named State examples,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1833,
+      "markdown_body_line_end": 1833,
+      "heading": "PYQ 2. Mains 2018, GS Paper I, Question 12 - owner-verified exact text",
+      "preview": "links each example to a mechanism, presents transition costs and ends with a conditional verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 739.424
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 708.956
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1886,
+      "markdown_body_line_end": 1886,
+      "heading": "PYQ 3. Mains 2022, GS Paper I, Question 11 - owner-verified exact text",
+      "preview": "Why this earns marks: it respects the mid-nineteenth-century time span, uses chronology as analysis,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 433.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1889,
+      "markdown_body_line_end": 1889,
+      "heading": "PYQ 3. Mains 2022, GS Paper I, Question 11 - owner-verified exact text",
+      "preview": "names examples across every phase and closes by identifying the continuing constitutional mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 400.424
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 369.956
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2092,
+      "markdown_body_line_end": 2097,
+      "heading": "Articles 1-4: complete constitutional spine",
+      "preview": "Article | Recall line | Main trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Article",
+          "Recall line",
+          "Main trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 526.89
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2111,
+      "markdown_body_line_end": 2114,
+      "heading": "Article 2 versus Article 3",
+      "preview": "ARTICLE 2 = NEW ENTRY / ESTABLISHMENT FROM OUTSIDE THE EXISTING UNION",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 337.29
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 306.29
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2150,
+      "markdown_body_line_end": 2155,
+      "heading": "The 1950 map",
+      "preview": "Category | Number | Anchors",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Category",
+          "Number",
+          "Anchors"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 331.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2180,
+      "markdown_body_line_end": 2186,
+      "heading": "State-creation chronology",
+      "preview": "Cluster | Sequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Cluster",
+          "Sequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 622.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 492.09
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2203,
+      "markdown_body_line_end": 2207,
+      "heading": "Cession and boundary settlement",
+      "preview": "ACKNOWLEDGED INDIAN TERRITORY SURRENDERED?",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 250.89
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 209.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2239,
+      "markdown_body_line_end": 2246,
+      "heading": "Smaller-State evaluation",
+      "preview": "Test | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Test",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 217.49
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2251,
+      "markdown_body_line_end": 2256,
+      "heading": "Federal debate",
+      "preview": "Critique | Reply | Qualified conclusion",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Critique",
+          "Reply",
+          "Qualified conclusion"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 173.29
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 41.488
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2273,
+      "markdown_body_line_end": 2277,
+      "heading": "Four answer spines",
+      "preview": "Union not compact -> President recommendation -> State views, no veto",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 554.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 513.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2280,
+      "markdown_body_line_end": 2283,
+      "heading": "Four answer spines",
+      "preview": "Dhar -> JVP -> Andhra 1953 -> Fazl Ali qualified acceptance",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 494.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 463.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2286,
+      "markdown_body_line_end": 2290,
+      "heading": "Four answer spines",
+      "preview": "Internal Article 3 change -> Berubari Union (1960) excludes cession",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 444.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 403.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2293,
+      "markdown_body_line_end": 2297,
+      "heading": "Four answer spines",
+      "preview": "Identity/development trigger -> Article 3 mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 384.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 343.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2303,
+      "markdown_body_line_end": 2323,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Articles 1-4: the territorial power hierarchy",
+      "preview": "ARTICLE 1",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2342,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Article 3 procedure: consultation without a State veto",
+      "preview": "PRESIDENT'S RECOMMENDATION REQUIRED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 406.691
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2362,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Article 2, Article 3 and foreign-territory transfer are distinct",
+      "preview": "QUESTION                         CONSTITUTIONAL ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 384.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2366,
+      "markdown_body_line_end": 2380,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: First Schedule as a constitutional change ledger",
+      "preview": "TERRITORIAL LAW UNDER ARTICLE 2 OR 3",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2384,
+      "markdown_body_line_end": 2398,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Integration and linguistic reorganisation, 1947-1956",
+      "preview": "1947-49  accession and integration of princely states",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 478.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2420,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Post-1956 map-making: reorganisation, creation and renaming",
+      "preview": "1956 SETTLEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2424,
+      "markdown_body_line_end": 2437,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Jammu and Kashmir reorganisation as an Article 3 stress test",
+      "preview": "2019 REORGANISATION -> J&K UT WITH LEGISLATURE + LADAKH UT WITHOUT LEGISLATURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2441,
+      "markdown_body_line_end": 2457,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: New-State demand: democratic claim versus viable federal unit",
+      "preview": "CLAIM FOR NEW STATE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 467.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2474,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Exact verified PYQ controls: wording, demand and answer ownership",
+      "preview": "2025 PRELIMS GS-I Q52",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 445.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 312.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2478,
+      "markdown_body_line_end": 2491,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Exact 10/15/20-mark architecture: flexible territory within an indestructible Union",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 640.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2512,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Qualified final synthesis: flexible map, protected sovereignty, negotiated legitimacy",
+      "preview": "INTERNAL FLEXIBILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 605.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 431.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current territorial status and authoritative-source gate",
+      "preview": "CURRENT MAP, RECHECKED 5 SEP 2026 -> 28 STATES + 8 UNION TERRITORIES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 317.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2014 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\polity-11_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\polity-11_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 6,
+      "markdown_body_line_end": 10,
+      "heading": "Polity 11 - Parliamentary System - Complete Topic Package",
+      "preview": "**Subject:** Indian Polity | **Topic:** 11 | **GS-II + Prelims** | **Content control:** 2026-08-28  **Approval:** false - awaiting explicit user approval.  **Evidence key:** [FACT] constitutional, judicial, parliamentary or source-verified ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 800.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 703.424
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 23,
+      "markdown_body_line_end": 37,
+      "heading": "LEARNING ROADMAP",
+      "preview": "Stage | Complete coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Stage",
+          "Complete coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 319.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 61,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 535.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 89,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\polity-11_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 472.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 104,
+      "markdown_body_line_end": 104,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A parliamentary government is one in which the real executive is drawn from, sits in and is politically responsible to the legislature, especially the popularly elected lower House.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 299.556
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 232.888
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 117,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The electorate chooses the Lok Sabha, the ministry remains answerable to it, and loss of confidence triggers political consequence.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\01_responsible_government_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 132,
+      "heading": "Four related names, carefully distinguished",
+      "preview": "Label | Proper meaning | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Label",
+          "Proper meaning",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 367.465
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 213.264
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "Four related names, carefully distinguished",
+      "preview": "**Core thesis:** India combines a formally vested executive power with a politically responsible ministry; legal form lies with the head of State, while democratic responsibility lies with ministers who must retain lower-House confidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 119.064
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 74.396
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 159,
+      "heading": "CLOSING RECALL FLOW - DEFINITION: CLASSIFY GOVERNMENT BY THE EXECUTIVE-LEGISLATURE RELATIONSHIP",
+      "preview": "START / CONCEPT: Definition: classify government by the executive-legislature relationship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 74(2) protects the content and existence of advice from inquiry; it does not automatically immunise the resulting executive action or its underlying material from constitutional review.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 306.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 183,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Union and State provisions mirror one another, subject to the Governor's constitutionally recognised discretionary field.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\02_union_state_article_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 209,
+      "heading": "Article 75: appointment, pleasure and responsibility",
+      "preview": "Clause / rule | Exact proposition | Parliamentary significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Clause / rule",
+          "Exact proposition",
+          "Parliamentary significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 558.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 238,
+      "heading": "State parallels: Articles 163, 164, 166 and 167",
+      "preview": "Union architecture | State parallel | Exact State qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Union architecture",
+          "State parallel",
+          "Exact State qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 545.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 261,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL ARCHITECTURE AT UNION AND STATE LEVELS",
+      "preview": "START / CONCEPT: Constitutional architecture at Union and State levels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 492.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 261.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 272,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The President is the nominal, de jure or formal executive; the PM and Council are the real, de facto political executive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 121.69
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 55.022
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 285,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The head of State supplies constitutional form; the ministry supplies political choice and bears responsibility.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\03_nominal_vs_real_executive.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 350.065
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 306,
+      "heading": "Advice, action and responsibility",
+      "preview": "**Close-option trap:** “Executive power is vested in the President” and “the President ordinarily acts on binding advice” are both true. The first describes constitutional form; the second describes responsible exercise.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 327,
+      "heading": "CLOSING RECALL FLOW - NOMINAL AND REAL EXECUTIVE: FORM, ADVICE AND ACCOUNTABILITY",
+      "preview": "START / CONCEPT: Nominal and real executive: form, advice and accountability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 719.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 508.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 338,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Caveat: nominal does not mean irrelevant; discretion and information rights are constitutionally bounded.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 368.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 316.156
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 351,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The eight features radiate from the central confidence principle and should be learned with their qualifications.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\05_parliamentary_features_wheel.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 400,
+      "heading": "8. Secrecy",
+      "preview": "**Memory line:** **Head - majority - team - common programme - dual role - PM leadership - dissolution - secrecy.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 554.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 524.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 421,
+      "heading": "CLOSING RECALL FLOW - THE EIGHT CLASSIC FEATURES: MECHANISM PLUS CAVEAT",
+      "preview": "START / CONCEPT: The eight classic features: mechanism plus caveat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 502.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 281.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 432,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Responsibility follows the advice-giving ministry, reinforcing the parliamentary allocation of political accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 160.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 108.156
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 445,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Collective responsibility moves from internal cabinet decision through House accountability to a confidence consequence.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\04_collective_responsibility_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 718.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 417.665
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 453,
+      "heading": "Three dimensions",
+      "preview": "Dimension | Rule | Practical consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Dimension",
+          "Rule",
+          "Practical consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 395.665
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 285.064
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 522,
+      "heading": "CLOSING RECALL FLOW - COLLECTIVE RESPONSIBILITY AS THE BEDROCK",
+      "preview": "START / CONCEPT: Collective responsibility as the bedrock",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The United States has constitutionally/statutorily established executive departments led by secretaries appointed through the presidential system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 546,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The comparison turns on selection, tenure, responsibility, membership, dissolution and institutional structure.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\06_parliamentary_vs_presidential_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 120.198
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 558,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Parliamentary system | Presidential system",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Axis",
+          "Parliamentary system",
+          "Presidential system"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 520.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 590,
+      "heading": "CLOSING RECALL FLOW - PARLIAMENTARY VERSUS PRESIDENTIAL GOVERNMENT: EXACT AXES",
+      "preview": "START / CONCEPT: Parliamentary versus presidential government: exact axes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 286.49
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 55.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualified verdict: India selected a responsible executive under legislative confidence because accountability, coordination and plural accommodation were considered more valuable than an independently fixed executive tenure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 614,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "India's choice combined inherited familiarity, daily responsibility, institutional coordination and plural representation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\07_why_india_chose_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 439.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 139.198
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 643,
+      "heading": "Swaran Singh Committee retention",
+      "preview": "**Qualified verdict:** India selected a responsible executive under legislative confidence because accountability, coordination and plural accommodation were considered more valuable than an independently fixed executive tenure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 461.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 664,
+      "heading": "CLOSING RECALL FLOW - WHY INDIA ADOPTED THE PARLIAMENTARY SYSTEM",
+      "preview": "START / CONCEPT: Why India adopted the parliamentary system",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 381.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 150.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The accurate verdict is conditional: party fragmentation, coalition agreements, anti-defection rules, leadership and electoral mandates influence stability more than the parliamentary label alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 696,
+      "heading": "Merits",
+      "preview": "Merit | Mechanism | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Merit",
+          "Mechanism",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 451.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 275.822
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 700,
+      "markdown_body_line_end": 706,
+      "heading": "Demerits",
+      "preview": "Demerit | Mechanism | Qualified assessment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Demerit",
+          "Mechanism",
+          "Qualified assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 253.822
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 78.42
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 734,
+      "heading": "CLOSING RECALL FLOW - MERITS, DEMERITS AND THE INDIAN EXPERIENCE",
+      "preview": "START / CONCEPT: Merits, demerits and the Indian experience",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 653.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 422.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 745,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "“Marginalisation of parliamentary supremacy” in the 2024 PYQ means erosion of Parliament's effective control and deliberation, not transfer of unlimited legal sovereignty to the cabinet.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 297.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 230.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 758,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Majority, party discipline, agenda control and executive law-making tools can convert scrutiny into ratification.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\09_cabinet_dominance_mechanism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 785,
+      "markdown_body_line_end": 802,
+      "heading": "CLOSING RECALL FLOW - CABINET AND PM DOMINANCE: HOW PARLIAMENT MAY BE MARGINALISED",
+      "preview": "START / CONCEPT: Cabinet and PM dominance: how Parliament may be marginalised",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 813,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The remedy for deliberative decline is institutional renewal, not automatic abandonment of parliamentary government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 826,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Removal, daily scrutiny, committee depth, audit, courts and elections form a layered accountability system.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\10_accountability_correctives.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 152.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 838,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Corrective | What it does | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Corrective",
+          "What it does",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 502.665
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 197.664
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 868,
+      "heading": "CLOSING RECALL FLOW - ACCOUNTABILITY CORRECTIVES: PARLIAMENT IS NOT POWERLESS",
+      "preview": "START / CONCEPT: Accountability correctives: Parliament is not powerless",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "“Unwritten British Constitution” is shorthand; Britain has many written constitutional statutes and documents but no single codified supreme constitutional text equivalent to India's.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 892,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "India adapted British responsible government but rejected hereditary monarchy and parliamentary sovereignty.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\08_india_uk_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 201.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 905,
+      "heading": "India versus Britain",
+      "preview": "Axis | India | Britain",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Axis",
+          "India",
+          "Britain"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 480.665
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 241.664
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 921,
+      "heading": "India versus the United States: support for the 2018 PYQ",
+      "preview": "Tenet | India | United States",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Tenet",
+          "India",
+          "United States"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 944,
+      "heading": "CLOSING RECALL FLOW - INDIA, BRITAIN AND THE UNITED STATES: COMPARATIVE PRECISION",
+      "preview": "START / CONCEPT: India, Britain and the United States: comparative precision",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 538.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 317.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chaudhary. [CURRENT] The Committee's term was extended on 30 July 2026 to report by the Winter Session 2026; the Bills remained under committee consideration at the 28 August control date.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 163.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 96.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 968,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "The pending simultaneous-elections proposal raises a stability-accountability trade-off without changing current constitutional law.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets\\11_onoe_tradeoff.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 686.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 386.265
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 985,
+      "heading": "Use only as a parliamentary-system debate",
+      "preview": "Claimed stability gain | Accountability/federal concern",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Claimed stability gain",
+          "Accountability/federal concern"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 188.265
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 67.664
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 1008,
+      "heading": "CLOSING RECALL FLOW - CURRENT CONTROL: SIMULTANEOUS ELECTIONS AS A SYSTEM-DESIGN DEBATE",
+      "preview": "START / CONCEPT: Current control: simultaneous elections as a system-design debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 751.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 520.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1019,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cabinet dominance: The cabinet and PM can marginalise legislative scrutiny through majority, whip and agenda control, but they do not acquire British-style legal sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 380.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1044,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Trap | Correct distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Trap",
+          "Correct distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 500.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1072,
+      "heading": "CLOSING RECALL FLOW - PRELIMS CLOSE-OPTION TRAPS AND QUALIFIED VERDICTS",
+      "preview": "START / CONCEPT: Prelims close-option traps and qualified verdicts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 331.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 100.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1672,
+      "markdown_body_line_end": 1672,
+      "heading": "PYQ 4 - UPSC GS-II 2018, Q13 - supporting/cross-owned",
+      "preview": "**Ownership label:** Cross-owned by comparative constitutional design; included here because parliamentary-presidential structure is central to the demand.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 485.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 440.824
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1737,
+      "markdown_body_line_end": 1737,
+      "heading": "PYQ 5 - UPSC GS-II 2023, Q4 - supporting/cross-owned",
+      "preview": "**Ownership label:** Cross-owned by comparative constitutional design; included here to prevent confusion between parliamentary government and parliamentary sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 753.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 709.224
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1936,
+      "heading": "M3. 15 marks | 250 words",
+      "preview": "Axis | Parliamentary | Presidential",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Parliamentary",
+          "Presidential"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 561.691
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 409.89
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2202,
+      "markdown_body_line_end": 2202,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Advanced boundary:** The following labels interpret political practice. They are not constitutional provisions or judicial doctrines, and skipping them must not reduce the score of a Core answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 356.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 312.224
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2255,
+      "markdown_body_line_end": 2268,
+      "heading": "Union constitutional chain",
+      "preview": "Provision | Rapid recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Provision",
+          "Rapid recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 508.29
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2290,
+      "markdown_body_line_end": 2290,
+      "heading": "Eight-feature recall grid",
+      "preview": "**Mnemonic:** **Head - majority - team - programme - dual role - leader - dissolution - secrecy.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 226.49
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 196.022
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2294,
+      "markdown_body_line_end": 2300,
+      "heading": "Collective responsibility case strip",
+      "preview": "Case | Holding to deploy | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Case",
+          "Holding to deploy",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2309,
+      "markdown_body_line_end": 2319,
+      "heading": "Parliamentary-presidential comparison spine",
+      "preview": "Axis | Parliamentary | Presidential",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Axis",
+          "Parliamentary",
+          "Presidential"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 512.89
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 297.488
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2430,
+      "markdown_body_line_end": 2449,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Responsible government: identity and constitutional architecture",
+      "preview": "CENTRAL QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2453,
+      "markdown_body_line_end": 2468,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Nominal and real executive: advice, office and bounded discretion",
+      "preview": "FORMAL VESTING -> RESPONSIBLE EXERCISE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2472,
+      "markdown_body_line_end": 2488,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Eight features and three forms of ministerial responsibility",
+      "preview": "EIGHT FEATURES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2492,
+      "markdown_body_line_end": 2509,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Confidence, supply, dissolution and judicial floor-test controls",
+      "preview": "CONTINUING CONFIDENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 613.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2513,
+      "markdown_body_line_end": 2528,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Cabinet, Council and Prime Ministerial leadership",
+      "preview": "COUNCIL OF MINISTERS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2532,
+      "markdown_body_line_end": 2555,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: How cabinet and PM dominance can marginalise Parliament",
+      "preview": "CONSTITUTIONAL FUSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 179.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2559,
+      "markdown_body_line_end": 2578,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Accountability correctives: Parliament is not powerless",
+      "preview": "SURVIVAL CONTROL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2582,
+      "markdown_body_line_end": 2595,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Parliamentary and presidential systems compared precisely",
+      "preview": "AXIS                    PARLIAMENTARY              PRESIDENTIAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2599,
+      "markdown_body_line_end": 2617,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Why India chose it and how the system has performed",
+      "preview": "INDIAN CHOICE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 415.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 230.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2621,
+      "markdown_body_line_end": 2636,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Current control, close-option traps and verified PYQ routes",
+      "preview": "CURRENT CONTROL — 28 AUGUST 2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 633.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2640,
+      "markdown_body_line_end": 2658,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Marks-scaled answer routes and qualified conclusion",
+      "preview": "10 MARKS / 150 WORDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 611.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2662,
+      "markdown_body_line_end": 2671,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Current parliamentary-design control: simultaneous elections remain a Bill",
+      "preview": "129TH AMENDMENT BILL, 17 DEC 2024 -> proposed Article 82A",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 392.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 299.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

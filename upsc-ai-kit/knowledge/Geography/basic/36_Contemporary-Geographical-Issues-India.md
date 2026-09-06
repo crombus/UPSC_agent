@@ -257,3 +257,39 @@ through land-use action; extreme events remain. Evidence base:
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** contemporary Indian issues are synthesised as spatial
+  systems through process, pattern, scale, exposure, vulnerability, spatial
+  spillover, trade-off, instrument and graded verdict. Groundwater stress,
+  river-basin conflict, urban flooding, air-shed stress, land degradation,
+  coastal/island pressure, Himalayan instability, displacement and regional
+  inequality are map-based applications rather than a news catalogue.
+- **Causal control:** hazard differs from disaster, scarcity from access
+  failure, drought from aridity, degradation from desertification, climate
+  trend from one event, and natural variability from human amplification.
+  Rainfall may trigger flooding while land use and drainage govern loss.
+- **Scale mismatch control:** aquifer, basin, catchment, air-shed, sediment cell,
+  metropolitan labour market and mountain corridor frequently cross the
+  administrative unit expected to act. The governing scale must be named
+  before prescribing an institution or instrument.
+- **Status/data control:** observation, forecast, projection, survey,
+  census, announcement, approval, construction, operation, target and
+  achievement are distinct. IMD, CGWB, CWC, ISRO/SAC and ministry releases
+  retain their reference period, publication date, method and status.
+- **Named India anchors:** Punjab groundwater, Gangetic aquifers, Delhi's
+  air basin, Bengaluru/Chennai water stress, Marathwada and Bundelkhand,
+  Joshimath and Himalayan towns, the Sundarbans, Western Ghats, mining
+  belts, Great Nicobar, north-east corridors and inter-state river basins
+  are used only where the named spatial mechanism is established.
+- **Ownership boundary:** Environment owns ecosystem science, conservation
+  law and pollution control in full; Disaster Management owns preparedness,
+  response and recovery systems; Economy owns prices, employment, finance
+  and sector policy. Geography owns location, distribution, regional
+  differentiation, network/basin/catchment scale and spatial consequence,
+  with only the bridge needed to complete that explanation.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2019 Indian
+  water-stress variation, 2023 freshwater availability/access and 2024
+  Gangetic-groundwater food-security demands. Adjacent questions remain
+  cross-owned and unavailable objective answer letters are not invented.

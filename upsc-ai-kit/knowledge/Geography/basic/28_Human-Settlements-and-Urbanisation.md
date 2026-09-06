@@ -291,3 +291,36 @@ consequences:
   today is **explaining hierarchy collapse**: when transport improves faster than the threshold
   falls, small centres lose their function to larger ones, which is a major driver of small-town
   stagnation and of migration toward larger cities (`27`).
+
+### Semantic-completeness ownership and PYQ control
+
+- **Owned core:** settlement site and situation; rural forms; settlement
+  hierarchy; central-place, rank-size and primate-city ideas; urbanisation,
+  morphology, suburbanisation, peri-urbanisation, conurbations, metropolitan
+  regions and India's statutory-town/census-town/urban-agglomeration system.
+- **Theory/model control:** Christaller, Burgess, Hoyt and Harris-Ullman state
+  assumptions, mechanisms, predicted forms and limits. Their idealised
+  geometry does not erase planning, transport corridors, informality,
+  polycentricity, topography or Global-South land institutions.
+- **Definition control:** urbanisation differs from urban population growth;
+  statutory town from census town; urban agglomeration from municipality;
+  conurbation from megalopolis; slum from every informal settlement.
+- **Scale/map control:** Delhi-NCR, Mumbai Metropolitan Region, Bengaluru,
+  Surat, Chandigarh, Jaipur and Kerala's dispersed settlement are compared
+  through site, situation, corridor, density, governance boundary and
+  morphology rather than city-size lists.
+- **Date/data control:** Census 2011 remains India's completed enumeration and
+  classification baseline; UN World Urbanization Prospects 2025 is a modelled
+  international series using national definitions. Projected urban shares
+  are not census counts.
+- **Plan/status control:** Smart Cities Mission, AMRUT 2.0 and PMAY-U 2.0
+  have distinct mandates. Sanction, funding, project completion, service
+  output and measured outcome are separate status claims and must be dated.
+- **Boundary:** Governance/Polity own municipal powers and finance; Indian
+  Society owns social exclusion and slum livelihoods. Geography owns
+  settlement classification, urban spatial process, morphology and regional
+  urban systems with bounded policy bridges.
+- **Verified PYQ ownership, 2018-2026:** audited ledgers contain no direct
+  Topic 28 route. Large-city migrant attraction remains Topic 27-owned and
+  urban-local-body questions remain Governance/Polity-owned; no direct PYQ is
+  invented.

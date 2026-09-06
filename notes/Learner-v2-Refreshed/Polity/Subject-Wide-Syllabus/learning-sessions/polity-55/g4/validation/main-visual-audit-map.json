@@ -1,0 +1,2134 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-55",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Constitutional Interpretation Doctrines - Complete Deep-Reviewed Learning Session",
+      "preview": "**Source discipline:** A case name without its governing Article, operative test, legal effect, limitation and decision year is not treated as doctrine. Pending review or reference proceedings do not alter a larger-bench holding.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 732.091
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 687.424
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 662.424
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 412.222
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\assets\\polity-55_Teaching-Navigation_2026-08-29.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 753.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 445.556
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 53,
+      "markdown_body_line_end": 64,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Subject:** Polity · **Tier:** Core · **GS Paper:** GS-II **Official clause:** \"Indian Constitution—historical underpinnings, evolution, features, amendments, significant provisions and basic structure\" and \"Functions and responsibilities ",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 412.156
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 282.288
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ A doctrine is a structured judicial test, not a free-standing constitutional Article.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 158.988
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 106.52
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 99,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "VALIDITY OF THE LAW        LEGISLATIVE COMPETENCE       MEANING / REMEDY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 681.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 108,
+      "markdown_body_line_end": 125,
+      "heading": "CLOSING RECALL FLOW - WHY DOCTRINES MATTER",
+      "preview": "START / CONCEPT: Why doctrines matter",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 563.991
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 352.991
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 136,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Examiner opening: Constitutional interpretation moves from text to structure, purpose, history and binding precedent; it is not a choice between literalism and judicial preference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 213.191
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 146.524
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 155,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Method | Central question | Legitimate use | Limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Method",
+          "Central question",
+          "Legitimate use",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 549.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 158,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Examiner opening:** Constitutional interpretation moves from text to structure, purpose, history and binding precedent; it is not a choice between literalism and judicial preference.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 549.09
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 504.422
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 181,
+      "heading": "CLOSING RECALL FLOW - INTERPRETIVE METHODS BEFORE APPLYING DOCTRINE",
+      "preview": "START / CONCEPT: Interpretive methods before applying doctrine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 479.922
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 248.922
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 192,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚖️ Rule: A pre-Constitution law inconsistent with Fundamental Rights is generally not erased from the statute book; it becomes unenforceable to the extent of inconsistency and may revive if the constitutional impediment is removed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 113.922
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 47.254
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 216,
+      "heading": "2.1 Severability",
+      "preview": "Test | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Test",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 586.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 476.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 221,
+      "heading": "2.1 Severability",
+      "preview": "**Trap:** Severability preserves a workable valid remainder; courts do not rewrite the legislative scheme.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 457.49
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 427.022
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 234,
+      "heading": "2.2 Eclipse",
+      "preview": "**Trap:** Eclipse is not the same as repeal, and its classical operation should not be casually extended to every post-Constitution invalid law.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 320.022
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 275.354
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 245,
+      "heading": "2.3 Waiver of Fundamental Rights",
+      "preview": "**Trap:** This is not a rule that every private legal right or procedural protection is non-waivable.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 200.754
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 170.287
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 268,
+      "heading": "CLOSING RECALL FLOW - FUNDAMENTAL-RIGHTS VALIDITY DOCTRINES",
+      "preview": "START / CONCEPT: Fundamental-rights validity doctrines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 279,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The doctrine supports incidental provisions but cannot create competence over an independent, forbidden field.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 373.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 317,
+      "heading": "3.3 Colourable legislation",
+      "preview": "**Trap:** A bad motive does not by itself make a competent law colourable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 734.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 704.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 341,
+      "heading": "3.5 Repugnancy",
+      "preview": "Same Concurrent field?",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 579.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 488.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 345,
+      "markdown_body_line_end": 347,
+      "heading": "3.5 Repugnancy",
+      "preview": "**Traps:** Art 254 is not the default answer for Union-List versus State-List overlap; use pith-and-substance/harmonious construction first. Presidential assent is neither permanent immunity nor a cure for lack of State legislative competen",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 469.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 410.156
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 358,
+      "markdown_body_line_end": 375,
+      "heading": "CLOSING RECALL FLOW - LEGISLATIVE-COMPETENCE DOCTRINES",
+      "preview": "START / CONCEPT: Legislative-competence doctrines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 339.056
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 128.056
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 386,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚖️ Rule: Read apparently conflicting provisions so each has meaningful operation and neither is rendered redundant where a reasonable reconciliation is possible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 420,
+      "heading": "4.2 Federal supremacy",
+      "preview": "**Sequence trap:** Federal supremacy is a last-stage constitutional resolution, not a reason to skip the attempt to assign each entry a meaningful field.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 263.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 218.556
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 438,
+      "heading": "4.4 Implied powers",
+      "preview": "**Distinction:** Incidental/ancillary powers are commonly used in legislative-entry analysis; implied powers is the broader institutional proposition.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 461,
+      "heading": "CLOSING RECALL FLOW - MEANING AND RECONCILIATION DOCTRINES",
+      "preview": "START / CONCEPT: Meaning and reconciliation doctrines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 734.124
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 523.124
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 472,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trap: It is not automatic whenever precedent changes; the court must deliberately shape the temporal effect.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 402.324
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 349.856
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 494,
+      "heading": "5.1 Prospective overruling",
+      "preview": "**Trap:** It is not automatic whenever precedent changes; the court must deliberately shape the temporal effect.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 107.456
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 76.988
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 507,
+      "heading": "5.2 Precedent and Article 141",
+      "preview": "Concept | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 533,
+      "heading": "CLOSING RECALL FLOW - TIME AND AUTHORITY DOCTRINES",
+      "preview": "START / CONCEPT: Time and authority doctrines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 594.59
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 383.59
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚖️ Reading down chooses a constitutionally valid meaning that the statutory text can reasonably bear.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 243.79
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 191.322
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 571,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Tool | Legal effect | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Tool",
+          "Legal effect",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 552.09
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 594,
+      "heading": "CLOSING RECALL FLOW - READING DOWN, READING INTO AND JUDICIAL-LEGISLATION LIMITS",
+      "preview": "START / CONCEPT: Reading down, reading into and judicial-legislation limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 527.59
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 296.59
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 605,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State of Kerala (1973) holds that Parliament's Art 368 power is wide but cannot damage the Constitution's basic structure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 170.99
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 104.322
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 624,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Trigger | Provision | Effect | Limit/trap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 1,
+        "headers": [
+          "Trigger",
+          "Provision",
+          "Effect",
+          "Limit/trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 570.19
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 650,
+      "heading": "CLOSING RECALL FLOW - BASIC STRUCTURE AS AN INTERPRETIVE LIMIT ON AMENDMENT",
+      "preview": "START / CONCEPT: Basic structure as an interpretive limit on amendment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 513.29
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 292.29
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 661,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Distinction: Administrative arbitrariness, unreasonable classification and manifest arbitrariness of legislation overlap under Art 14 but are not interchangeable labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 152.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 85.822
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 681,
+      "heading": "Presumption of constitutionality",
+      "preview": "**Trap:** The presumption is rebuttable and cannot cure lack of competence, explicit discrimination or a disproportionate rights restriction.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 574.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 691,
+      "heading": "Arbitrariness and manifest arbitrariness",
+      "preview": "**Distinction:** Administrative arbitrariness, unreasonable classification and manifest arbitrariness of legislation overlap under Art 14 but are not interchangeable labels.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 505.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 460.356
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 701,
+      "heading": "Proportionality",
+      "preview": "**Trap:** Proportionality is structured review, not judicial substitution of a preferred policy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 371.556
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 341.088
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 724,
+      "heading": "CLOSING RECALL FLOW - PRESUMPTION, ARBITRARINESS AND PROPORTIONALITY",
+      "preview": "START / CONCEPT: Presumption, arbitrariness and proportionality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 316.588
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 95.588
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 735,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional morality requires fidelity to the Constitution's text, procedures, equal citizenship and institutional role morality rather than social or personal morality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 758,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Neither doctrine authorises free-standing moral review or permits a court to ignore democratic competence and precedent.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 334.824
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 290.156
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 781,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL MORALITY AND TRANSFORMATIVE CONSTITUTIONALISM",
+      "preview": "START / CONCEPT: Constitutional morality and transformative constitutionalism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 265.656
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 44.656
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 792,
+      "markdown_body_line_end": 792,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚖️ Shirur Mutt (1954) (1954) is the classic source of the essential-religious-practices inquiry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 835,
+      "heading": "CLOSING RECALL FLOW - ESSENTIAL RELIGIOUS PRACTICES AND CURRENT DOCTRINAL CAUTION",
+      "preview": "START / CONCEPT: Essential religious practices and current doctrinal caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 316.324
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 85.324
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 846,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "They should not be substituted for the primary competence, rights or invalidity doctrine merely because they also invoke rule-of-law values.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 869,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Doctrine | Constitutional relevance | Leading anchor | Distinction/limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Doctrine",
+          "Constitutional relevance",
+          "Leading anchor",
+          "Distinction/limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 387.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 187.522
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 872,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Firewall:** Pleasure concerns tenure; legitimate expectation concerns fair administrative treatment; promissory estoppel concerns reliance; casus omissus concerns an omitted textual case.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 187.522
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 142.854
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 895,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONALLY RELEVANT NEIGHBOURING DOCTRINES",
+      "preview": "START / CONCEPT: Constitutionally relevant neighbouring doctrines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 906,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Courts may protect the legal structure within which conventions operate, but should not constitutionalise every political expectation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 929,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "express text and prohibitions",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 191.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 90.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 961,
+      "heading": "CLOSING RECALL FLOW - CONSTITUTIONAL SILENCE, CONVENTIONS AND RESTRAINT",
+      "preview": "START / CONCEPT: Constitutional silence, conventions and restraint",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 717.991
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 506.991
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 972,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The following trees prevent a remedy doctrine from being applied before the underlying constitutional violation is identified.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 352.991
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 286.324
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 1003,
+      "heading": "Legislative competence",
+      "preview": "enacting legislature + entry",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1019,
+      "heading": "Rights review",
+      "preview": "State action + affected right",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1033,
+      "heading": "Remedy and precedent",
+      "preview": "controlling Article + larger-bench ratio",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 501.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 400.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1056,
+      "heading": "CLOSING RECALL FLOW - DECISION TREES FOR COMPETENCE, RIGHTS AND REMEDIES",
+      "preview": "START / CONCEPT: Decision trees for competence, rights and remedies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 375.791
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 144.791
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1067,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Doctrine-selection matrix comprises One provision of a law violates a right, Art 13 and Severability as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1102,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Problem in question | Start with | Then test",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 17,
+        "headers": [
+          "Problem in question",
+          "Start with",
+          "Then test"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 317.49
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1125,
+      "heading": "CLOSING RECALL FLOW - DOCTRINE-SELECTION MATRIX",
+      "preview": "START / CONCEPT: Doctrine-selection matrix",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 292.99
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 71.99
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1128,
+      "markdown_body_line_end": 1137,
+      "heading": "7. Cross-topic routing map",
+      "preview": "FUNDAMENTAL RIGHTS                    FEDERALISM / LEGISLATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 694.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1150,
+      "markdown_body_line_end": 1156,
+      "heading": "8.1 Demand map",
+      "preview": "Demand | Answer spine",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Demand",
+          "Answer spine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 580.991
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 439.19
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1173,
+      "heading": "8.3 Mark-scaled structures",
+      "preview": "Marks | Structure | Evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 290.99
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 191.588
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1199,
+      "markdown_body_line_end": 1199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Judicial legislation begins where a court abandons available text/structure and creates a policy code.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 614.391
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 561.924
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1215,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Interpretation–amendment firewall:** Interpretation resolves meaning and remedy within the enacted Constitution. Amendment changes constitutional text through Art 368. Judicial legislation begins where a court abandons available text/stru",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 358.724
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 299.856
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1238,
+      "heading": "CLOSING RECALL FLOW - COMPREHENSIVE DOCTRINE ATLAS - COMPACT USE",
+      "preview": "START / CONCEPT: Comprehensive doctrine atlas — compact use",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 275.356
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 64.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1249,
+      "markdown_body_line_end": 1249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "✅ Art 13 anchors invalid-law doctrine; Arts 245–246 and 254 anchor federal competence/conflict; Art 141 anchors binding Supreme Court law. ⚖️ Severability removes the separable invalid portion. ⚖️ Eclipse classically makes an inconsistent p",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 494.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 328.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1280,
+      "markdown_body_line_end": 1297,
+      "heading": "CLOSING RECALL FLOW - MUST-KNOW FACTS",
+      "preview": "START / CONCEPT: Must-Know Facts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 989
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.591
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 373.591
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2346,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "Companion to `basic/Constitutional-Interpretation-Doctrines.md`. The Core doctrine atlas is independently sufficient. This file adds synthesis and criticism.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 703.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 658.824
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2352,
+      "markdown_body_line_end": 2359,
+      "heading": "Doctrine stacking",
+      "preview": "jurisdiction/competence",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 614.624
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 543.624
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2422,
+      "markdown_body_line_end": 2429,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Method before doctrine",
+      "preview": "TEXT -> STRUCTURE -> HISTORY -> PURPOSE -> BINDING PRECEDENT.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 315.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 243.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2433,
+      "markdown_body_line_end": 2438,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Severability, eclipse and waiver",
+      "preview": "R.M.D. Chamarbaugwala v. Union of India (1957) -> separable workable remainder.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2442,
+      "markdown_body_line_end": 2448,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Pith, ancillary power and colourability",
+      "preview": "Prafulla Kumar Mukherjee (1947) -> true nature and character.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2452,
+      "markdown_body_line_end": 2458,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Territorial nexus",
+      "preview": "ART 245 -> territorial competence.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2467,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Article 254 repugnancy and occupied field",
+      "preview": "Deep Chand v. State of Uttar Pradesh (1959) + M. Karunanidhi v. Union of India (1979).",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2471,
+      "markdown_body_line_end": 2478,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Harmony, reading and invalidity",
+      "preview": "In re Kerala Education Bill (1958) -> meaningful reconciliation.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2482,
+      "markdown_body_line_end": 2488,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Time, amendment and basic structure",
+      "preview": "I.C. Golaknath (1967) -> reasoned prospective overruling.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2492,
+      "markdown_body_line_end": 2498,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Equality standards and proportionality",
+      "preview": "Ram Krishna Dalmia (1958) -> rebuttable validity presumption.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2502,
+      "markdown_body_line_end": 2508,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Morality, transformation and religion",
+      "preview": "Navtej Singh Johar v. Union of India (2018) -> constitutional morality + transformation.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2512,
+      "markdown_body_line_end": 2517,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Administration and textual restraint",
+      "preview": "Shamsher Singh (1974) -> pleasure/responsible government.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2521,
+      "markdown_body_line_end": 2526,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Precedent, bench strength and Article 142",
+      "preview": "ARTICLE 141 -> binding ratio; distinguish or refer.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2530,
+      "markdown_body_line_end": 2545,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: UPSC integrated decision tree",
+      "preview": "1 COMPETENCE -> pith / colour / nexus / Art 254.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    }
+  ]
+}

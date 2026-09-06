@@ -1,0 +1,4284 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\polity-23_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\polity-23_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "polity-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "Panchayati Raj - Complete Uncompressed Learning Session",
+      "preview": "**Subject:** Indian Polity | **Topic:** 23 | **GS-II + Prelims** | **Export date:** 2026-08-24  **Approval:** false - awaiting explicit user approval.  **Evidence key:** [FACT] constitutional, judicial or officially verified proposition; [A",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 713.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 38,
+      "heading": "Roadmap",
+      "preview": "Stage | Coverage | Exam outcome",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Stage",
+          "Coverage",
+          "Exam outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 550.69
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 59,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.49
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 153.288
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 88,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\polity-23_Teaching-Navigation_2026-08-28.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 142.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 102,
+      "markdown_body_line_end": 102,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Democratic Decentralisation is best understood as constitutional protection of elected rural self-government under Part IX.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 114,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Democratic decentralisation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\01_democratic_decentralisation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 485.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 205.006
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 125,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UNION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 25
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 185.806
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 104.806
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 153,
+      "heading": "CLOSING RECALL FLOW - DEMOCRATIC DECENTRALISATION",
+      "preview": "START / CONCEPT: DEMOCRATIC DECENTRALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 521.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Committee Lineage is best understood as the committee sequence that shaped India’s Panchayati Raj design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 400.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 176,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Committee lineage.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\02_committee_lineage.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 207.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 190,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "1957 Balwant Rai Mehta",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 392.674
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 205,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Committee | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Committee",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 287.474
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 178.072
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 226,
+      "heading": "CLOSING RECALL FLOW - COMMITTEE LINEAGE",
+      "preview": "START / CONCEPT: COMMITTEE LINEAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 237,
+      "markdown_body_line_end": 237,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Part Ix Master Map is best understood as the complete Articles 243 to 243O constitutional architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Part IX master map.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\03_part_ix_master_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 275.824
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 269,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Article | Subject",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 16,
+        "headers": [
+          "Article",
+          "Subject"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 139.872
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 271,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Mnemonic:** A Sabha, B tiers, C composition, D reservation, E duration, G functions, H finance, I SFC, K SEC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 139.872
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 109.405
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 278,
+      "markdown_body_line_end": 295,
+      "heading": "CLOSING RECALL FLOW - PART IX MASTER MAP",
+      "preview": "START / CONCEPT: PART IX MASTER MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 306,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gram Sabha: Direct-Democracy Foundation is best understood as the registered-voter assembly and its State-law participatory powers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 318,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Gram Sabha: direct-democracy foundation.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\04_gram_sabha_direct_democracy_foundation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 247.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 321,
+      "markdown_body_line_end": 326,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Gram Sabha | Gram Panchayat",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Gram Sabha",
+          "Gram Panchayat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 394.272
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 346,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "citizens identify needs",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 29
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 295.072
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 174.072
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 367,
+      "heading": "CLOSING RECALL FLOW - GRAM SABHA: DIRECT-DEMOCRACY FOUNDATION",
+      "preview": "START / CONCEPT: GRAM SABHA: DIRECT-DEMOCRACY FOUNDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Three-Tier Structure is best understood as village intermediate and district institutions with the population exception.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 401,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "DISTRICT LEVEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 151.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 426,
+      "heading": "CLOSING RECALL FLOW - THREE-TIER STRUCTURE",
+      "preview": "START / CONCEPT: THREE-TIER STRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 437,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Composition And Election is best understood as direct territorial elections and State-law chairperson arrangements.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 457,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Position | Method",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Position",
+          "Method"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 111.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 482,
+      "heading": "CLOSING RECALL FLOW - COMPOSITION AND ELECTION",
+      "preview": "START / CONCEPT: COMPOSITION AND ELECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reservation And Inclusion is best understood as population-linked social reservation and the constitutional women’s floor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 505,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Reservation and inclusion.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\05_reservation_and_inclusion.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 247.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 519,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SC/ST seats",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 392.674
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 528,
+      "markdown_body_line_end": 545,
+      "heading": "CLOSING RECALL FLOW - RESERVATION AND INCLUSION",
+      "preview": "START / CONCEPT: RESERVATION AND INCLUSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 287.674
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 76.674
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 556,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Women'S Representation: Empowerment And Proxy Rule is best understood as the difference between descriptive representation and independent female authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 570,
+      "markdown_body_line_end": 576,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Empowerment gains | Patriarchal constraints",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Empowerment gains",
+          "Patriarchal constraints"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 433.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 302.422
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 601,
+      "heading": "CLOSING RECALL FLOW - WOMEN'S REPRESENTATION: EMPOWERMENT AND PROXY RULE",
+      "preview": "START / CONCEPT: WOMEN'S REPRESENTATION: EMPOWERMENT AND PROXY RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 612,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Duration And Continuity is best understood as five-year continuity and the exact dissolution election provisos.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 636,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "normal term: 5 years",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 141.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 645,
+      "markdown_body_line_end": 662,
+      "heading": "CLOSING RECALL FLOW - DURATION AND CONTINUITY",
+      "preview": "START / CONCEPT: DURATION AND CONTINUITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 673,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Qualifications And Disqualification is best understood as State-law disqualification rules and the protected age of twenty-one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 688,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**UPSC trap:** Panchayat candidate minimum age is 21, not 25.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 213.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 182.556
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 709,
+      "heading": "CLOSING RECALL FLOW - QUALIFICATIONS AND DISQUALIFICATION",
+      "preview": "START / CONCEPT: QUALIFICATIONS AND DISQUALIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 720,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 243G: Powers And Eleventh Schedule is best understood as enabling State devolution for plans schemes and self-government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 731,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 243G: powers and Eleventh Schedule.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\06_article_243g_powers_and_eleventh_schedule.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 264.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 744,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "State legislature MAY by law endow Panchayats",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 402.674
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 768,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 243G: POWERS AND ELEVENTH SCHEDULE",
+      "preview": "START / CONCEPT: ARTICLE 243G: POWERS AND ELEVENTH SCHEDULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 346.274
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 135.274
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 779,
+      "markdown_body_line_end": 779,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eleventh Schedule: 29 Subjects is best understood as the twenty-nine rural development matters and their non-automatic transfer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 800,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Cluster | Illustrative Eleventh Schedule subjects",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Cluster",
+          "Illustrative Eleventh Schedule subjects"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 452.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 277.822
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 818,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ACTIVITY MAPPING",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 224.222
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 113.222
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 822,
+      "markdown_body_line_end": 839,
+      "heading": "CLOSING RECALL FLOW - ELEVENTH SCHEDULE: 29 SUBJECTS",
+      "preview": "START / CONCEPT: ELEVENTH SCHEDULE: 29 SUBJECTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 850,
+      "markdown_body_line_end": 850,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Three Fs is best understood as the joint transfer of functions functionaries and funds into capability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 862,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: The three Fs.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\07_the_three_fs.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 251.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 869,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "F | Meaning | Typical gap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "F",
+          "Meaning",
+          "Typical gap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 415.472
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 893,
+      "heading": "CLOSING RECALL FLOW - THE THREE FS",
+      "preview": "START / CONCEPT: THE THREE FS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 344.872
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 133.872
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 904,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Article 243H: Panchayat Finance is best understood as the four State-authorised channels of Panchayat finance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 916,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Article 243H: Panchayat finance.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\08_article_243h_panchayat_finance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 499.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 219.206
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 925,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "State legislature may:",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 200.006
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 139.006
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 949,
+      "heading": "CLOSING RECALL FLOW - ARTICLE 243H: PANCHAYAT FINANCE",
+      "preview": "START / CONCEPT: ARTICLE 243H: PANCHAYAT FINANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 960,
+      "markdown_body_line_end": 960,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Own-Source And Non-Grant Revenue is best understood as taxes fees charges assets and assigned revenues outside grants.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 982,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Source | Examples",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Source",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 228.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 55.222
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 1007,
+      "heading": "CLOSING RECALL FLOW - OWN-SOURCE AND NON-GRANT REVENUE",
+      "preview": "START / CONCEPT: OWN-SOURCE AND NON-GRANT REVENUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 525.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1018,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why Own Revenue Remains Weak is best understood as institutional and political causes of persistent local fiscal dependence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 338.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1044,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "weak tax base/assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1069,
+      "heading": "CLOSING RECALL FLOW - WHY OWN REVENUE REMAINS WEAK",
+      "preview": "START / CONCEPT: WHY OWN REVENUE REMAINS WEAK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 598.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 387.491
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1080,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State Finance Commission is best understood as five-year constitutional review of State-local fiscal relations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 266.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 214.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: State Finance Commission.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\09_state_finance_commission.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1102,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Governor constitutes SFC every 5 years",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 422.674
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1111,
+      "markdown_body_line_end": 1128,
+      "heading": "CLOSING RECALL FLOW - STATE FINANCE COMMISSION",
+      "preview": "START / CONCEPT: STATE FINANCE COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 303.474
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 92.474
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Union Finance Commission And Local Grants is best understood as Union supplementation of State funds based on State Finance Commissions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1160,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Union Finance Commission",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 483.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 402.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1186,
+      "heading": "CLOSING RECALL FLOW - UNION FINANCE COMMISSION AND LOCAL GRANTS",
+      "preview": "START / CONCEPT: UNION FINANCE COMMISSION AND LOCAL GRANTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 297.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 86.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1197,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accounts, Audit And Transparency is best understood as State-law accounts and audit joined with transparent public records.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1217,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Tool | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Tool",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 466.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 335.622
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1241,
+      "heading": "CLOSING RECALL FLOW - ACCOUNTS, AUDIT AND TRANSPARENCY",
+      "preview": "START / CONCEPT: ACCOUNTS, AUDIT AND TRANSPARENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 265.022
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 54.022
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Social Audit is best understood as community verification of expenditure outputs and beneficiary records.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1266,
+      "markdown_body_line_end": 1275,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "records disclosed",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 480.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 389.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1283,
+      "markdown_body_line_end": 1300,
+      "heading": "CLOSING RECALL FLOW - SOCIAL AUDIT",
+      "preview": "START / CONCEPT: SOCIAL AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 315.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 104.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State Election Commission is best understood as constitutionally protected control over Panchayat rolls and elections.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1322,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: State Election Commission.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\10_state_election_commission.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 502.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 222.206
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1333,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "superintendence, direction and control",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 203.006
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 122.006
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1342,
+      "markdown_body_line_end": 1359,
+      "heading": "CLOSING RECALL FLOW - STATE ELECTION COMMISSION",
+      "preview": "START / CONCEPT: STATE ELECTION COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 538.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1370,
+      "markdown_body_line_end": 1370,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Electoral Disputes And Article 243O is best understood as the delimitation bar and election-petition route after polling.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 418.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 351.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1406,
+      "heading": "CLOSING RECALL FLOW - ELECTORAL DISPUTES AND ARTICLE 243O",
+      "preview": "START / CONCEPT: ELECTORAL DISPUTES AND ARTICLE 243O",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1417,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Exclusions Under Article 243M is best understood as the exact territorial exclusions and parliamentary extension procedures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1438,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Nagaland",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 228.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 157.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1448,
+      "markdown_body_line_end": 1465,
+      "heading": "CLOSING RECALL FLOW - EXCLUSIONS UNDER ARTICLE 243M",
+      "preview": "START / CONCEPT: EXCLUSIONS UNDER ARTICLE 243M",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 553.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1476,
+      "markdown_body_line_end": 1476,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pesa, 1996 is best understood as Fifth Schedule self-government adapted to custom and community resources.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 432.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 379.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1488,
+      "markdown_body_line_end": 1488,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: PESA, 1996.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\11_pesa_1996.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 238.424
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1503,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Part IX principles",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 382.674
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1531,
+      "heading": "CLOSING RECALL FLOW - PESA, 1996",
+      "preview": "START / CONCEPT: PESA, 1996",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1542,
+      "markdown_body_line_end": 1542,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pesa And The Forest Rights Act is best understood as the distinct but complementary tribal governance and forest-right regimes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1560,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PESA | Forest Rights Act",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "PESA",
+          "Forest Rights Act"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 228.224
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 140.022
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1567,
+      "markdown_body_line_end": 1584,
+      "heading": "CLOSING RECALL FLOW - PESA AND THE FOREST RIGHTS ACT",
+      "preview": "START / CONCEPT: PESA AND THE FOREST RIGHTS ACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1595,
+      "markdown_body_line_end": 1595,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "District Planning Committee Link is best understood as integration of rural and urban plans through Article 243ZD.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1607,
+      "markdown_body_line_end": 1607,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: District Planning Committee link.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\12_district_planning_committee_link.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 247.424
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1614,
+      "markdown_body_line_end": 1631,
+      "heading": "CLOSING RECALL FLOW - DISTRICT PLANNING COMMITTEE LINK",
+      "preview": "START / CONCEPT: DISTRICT PLANNING COMMITTEE LINK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 420.874
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 199.874
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1642,
+      "markdown_body_line_end": 1642,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gram Panchayat Development Plan is best understood as participatory conversion of village needs and resources into an implementable plan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1656,
+      "markdown_body_line_end": 1668,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "situation analysis",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 582.024
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 461.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1693,
+      "heading": "CLOSING RECALL FLOW - GRAM PANCHAYAT DEVELOPMENT PLAN",
+      "preview": "START / CONCEPT: GRAM PANCHAYAT DEVELOPMENT PLAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 387.424
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 176.424
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1704,
+      "markdown_body_line_end": 1704,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Localisation Of Sustainable Development Goals is best understood as translation of global development goals into measurable local service priorities.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1718,
+      "markdown_body_line_end": 1728,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SDG goals",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 447.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 346.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1735,
+      "markdown_body_line_end": 1752,
+      "heading": "CLOSING RECALL FLOW - LOCALISATION OF SUSTAINABLE DEVELOPMENT GOALS",
+      "preview": "START / CONCEPT: LOCALISATION OF SUSTAINABLE DEVELOPMENT GOALS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 289.824
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 78.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1763,
+      "markdown_body_line_end": 1763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Egramswaraj And Auditonline is best understood as digital planning accounting monitoring and audit workflows.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1775,
+      "markdown_body_line_end": 1775,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: eGramSwaraj and AuditOnline.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\13_egramswaraj_and_auditonline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 499.624
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 219.206
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1778,
+      "markdown_body_line_end": 1785,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "planning",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 200.006
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 129.006
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1794,
+      "markdown_body_line_end": 1811,
+      "heading": "CLOSING RECALL FLOW - EGRAMSWARAJ AND AUDITONLINE",
+      "preview": "START / CONCEPT: EGRAMSWARAJ AND AUDITONLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1822,
+      "markdown_body_line_end": 1822,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Svamitva is best understood as drone-based rural inhabited-area surveys and State-law property records.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1836,
+      "markdown_body_line_end": 1846,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "drone survey of abadi area",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 141.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1855,
+      "markdown_body_line_end": 1872,
+      "heading": "CLOSING RECALL FLOW - SVAMITVA",
+      "preview": "START / CONCEPT: SVAMITVA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1883,
+      "markdown_body_line_end": 1883,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rashtriya Gram Swaraj Abhiyan is best understood as capacity building for elected representatives and local functionaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1901,
+      "markdown_body_line_end": 1918,
+      "heading": "CLOSING RECALL FLOW - RASHTRIYA GRAM SWARAJ ABHIYAN",
+      "preview": "START / CONCEPT: RASHTRIYA GRAM SWARAJ ABHIYAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1929,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Devolution Index is best understood as comparative measurement of devolution conditions and outcomes across States.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1943,
+      "markdown_body_line_end": 1950,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Core question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Core question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 228.224
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 76.422
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1957,
+      "markdown_body_line_end": 1974,
+      "heading": "CLOSING RECALL FLOW - DEVOLUTION INDEX",
+      "preview": "START / CONCEPT: DEVOLUTION INDEX",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 538.891
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1985,
+      "markdown_body_line_end": 1985,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Political Versus Administrative Decentralisation is best understood as the gap between regular elections and control over administration and money.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 332.424
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1998,
+      "markdown_body_line_end": 2013,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "POLITICAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2020,
+      "markdown_body_line_end": 2037,
+      "heading": "CLOSING RECALL FLOW - POLITICAL VERSUS ADMINISTRATIVE DECENTRALISATION",
+      "preview": "START / CONCEPT: POLITICAL VERSUS ADMINISTRATIVE DECENTRALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 599.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 378.891
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2048,
+      "markdown_body_line_end": 2048,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Parallel Bodies And Bureaucratic Control is best understood as overlapping line departments and agencies that weaken local accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 258.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 191.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2066,
+      "markdown_body_line_end": 2083,
+      "heading": "CLOSING RECALL FLOW - PARALLEL BODIES AND BUREAUCRATIC CONTROL",
+      "preview": "START / CONCEPT: PARALLEL BODIES AND BUREAUCRATIC CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 480.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2094,
+      "markdown_body_line_end": 2094,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State Variation And Good Practice is best understood as State-specific institutional choices that explain unequal local performance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 359.491
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 292.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2107,
+      "markdown_body_line_end": 2114,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Enabling factor | Effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Enabling factor",
+          "Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2121,
+      "markdown_body_line_end": 2138,
+      "heading": "CLOSING RECALL FLOW - STATE VARIATION AND GOOD PRACTICE",
+      "preview": "START / CONCEPT: STATE VARIATION AND GOOD PRACTICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 595.09
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 384.09
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2149,
+      "markdown_body_line_end": 2149,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform Agenda is best understood as a sequenced path from legal status to citizen-visible service functionality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 263.29
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 210.822
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2161,
+      "markdown_body_line_end": 2161,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Reform agenda.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\14_reform_agenda.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2164,
+      "markdown_body_line_end": 2173,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Problem | Reform",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Problem",
+          "Reform"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 503.674
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 309.472
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2177,
+      "markdown_body_line_end": 2194,
+      "heading": "CLOSING RECALL FLOW - REFORM AGENDA",
+      "preview": "START / CONCEPT: REFORM AGENDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 287.472
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 76.472
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2205,
+      "markdown_body_line_end": 2205,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Compulsory Versus Enabling Provisions is best understood as the distinction between guaranteed democratic form and State-discretionary power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2218,
+      "markdown_body_line_end": 2225,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Relatively mandatory | State-discretion/enabling",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Relatively mandatory",
+          "State-discretion/enabling"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 483.424
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 331.622
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2231,
+      "markdown_body_line_end": 2248,
+      "heading": "CLOSING RECALL FLOW - COMPULSORY VERSUS ENABLING PROVISIONS",
+      "preview": "START / CONCEPT: COMPULSORY VERSUS ENABLING PROVISIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 292.422
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 81.422
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2259,
+      "markdown_body_line_end": 2259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Panchayati Raj And Cooperative Federalism is best understood as Union State and local interactions without treating Panchayats as sovereign units.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2293,
+      "heading": "CLOSING RECALL FLOW - PANCHAYATI RAJ AND COOPERATIVE FEDERALISM",
+      "preview": "START / CONCEPT: PANCHAYATI RAJ AND COOPERATIVE FEDERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 372.224
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 161.224
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2304,
+      "markdown_body_line_end": 2304,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Answer-Writing Evidence Discipline is best understood as a disciplined claim-article-mechanism-evidence-qualification answer method.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2321,
+      "markdown_body_line_end": 2329,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CLAIM",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 400.424
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 319.424
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2342,
+      "markdown_body_line_end": 2359,
+      "heading": "CLOSING RECALL FLOW - ANSWER-WRITING EVIDENCE DISCIPLINE",
+      "preview": "START / CONCEPT: ANSWER-WRITING EVIDENCE DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2370,
+      "markdown_body_line_end": 2370,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Panchayats And Municipalities Compared is best understood as the rural-urban constitutional comparison across Parts IX and IXA.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2382,
+      "markdown_body_line_end": 2382,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Panchayats and Municipalities compared.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\15_panchayats_and_municipalities_compared.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 237.424
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 522.874
+        }
+      },
+      "pdf_pages": [
+        57,
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2383,
+      "markdown_body_line_end": 2392,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Panchayats | Municipalities",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Dimension",
+          "Panchayats",
+          "Municipalities"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 522.874
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 328.672
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2399,
+      "markdown_body_line_end": 2416,
+      "heading": "CLOSING RECALL FLOW - PANCHAYATS AND MUNICIPALITIES COMPARED",
+      "preview": "START / CONCEPT: PANCHAYATS AND MUNICIPALITIES COMPARED",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 156
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 273.272
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 62.272
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2427,
+      "markdown_body_line_end": 2427,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Local-Body Case Law And Gram Nyayalaya Boundary is best understood as Supreme Court controls on elections reservation and SEC independence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2439,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Topic-specific visual map: Local-body case law and Gram Nyayalaya boundary.",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets\\16_local_body_case_law_and_gram_nyayalaya_boundary.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 452.224
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 171.806
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2440,
+      "markdown_body_line_end": 2445,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Decision | Exam-safe holding",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Decision",
+          "Exam-safe holding"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 171.806
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 62.405
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2478,
+      "heading": "CLOSING RECALL FLOW - LOCAL-BODY CASE LAW AND GRAM NYAYALAYA BOUNDARY",
+      "preview": "START / CONCEPT: LOCAL-BODY CASE LAW AND GRAM NYAYALAYA BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 543.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 322.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3710,
+      "markdown_body_line_end": 3713,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II **Grounded in:** Indian Polity by M. Laxmikant, Ch. 38 (direct check of the local Sixth Revised Edition PDF). ✅ = from source book · ⚠️ = inference / case law · 📰 =",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 238.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 179.424
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3732,
+      "markdown_body_line_end": 3741,
+      "heading": "Salient features (compulsory)",
+      "preview": "Feature | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Feature",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 632.391
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 370.99
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3763,
+      "markdown_body_line_end": 3763,
+      "heading": "➕ Social Audit (high-yield gap)",
+      "preview": "✅ Grounded in M. Laxmikant *Indian Polity* + ⚠️ standard + 📰 verified. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 189.59
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 122.922
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3770,
+      "markdown_body_line_end": 3774,
+      "heading": "➕ Social Audit (high-yield gap)",
+      "preview": "Feature | Social audit significance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Social audit significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 683.69
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3776,
+      "markdown_body_line_end": 3776,
+      "heading": "➕ Social Audit (high-yield gap)",
+      "preview": "🔑 Trap: Social audit is participatory accountability by beneficiaries/citizens; it is not the CAG audit of accounts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 683.69
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 639.022
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3807,
+      "markdown_body_line_end": 3808,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 199.622
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 132.954
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3814,
+      "markdown_body_line_end": 3818,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 581.39
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3826,
+      "markdown_body_line_end": 3826,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 507.79
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 463.122
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3833,
+      "markdown_body_line_end": 3839,
+      "heading": "Constitutional skeleton",
+      "preview": "Article 40 -> village Panchayat DPSP",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 405.122
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 344.122
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3843,
+      "markdown_body_line_end": 3857,
+      "heading": "Core article map",
+      "preview": "Article | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 13,
+        "headers": [
+          "Article",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 503.09
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3878,
+      "markdown_body_line_end": 3880,
+      "heading": "Three Fs",
+      "preview": "Function | Functionary | Fund",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Function",
+          "Functionary",
+          "Fund"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 238.89
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 193.088
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3915,
+      "markdown_body_line_end": 3923,
+      "heading": "Answer-writing evidence bank",
+      "preview": "Claim | Named evidence | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Claim",
+          "Named evidence",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 383.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 210.49
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3955,
+      "markdown_body_line_end": 3973,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: From democratic decentralisation to constitutional local government",
+      "preview": "ROOT QUESTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 497.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 313.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3977,
+      "markdown_body_line_end": 3993,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Part IX: Gram Sabha, tiers and exceptions",
+      "preview": "PART IX: ARTICLES 243-243O",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3997,
+      "markdown_body_line_end": 4015,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Representation, election, continuity and reservation controls",
+      "preview": "DEMOCRATIC CYCLE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 416.891
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4019,
+      "markdown_body_line_end": 4036,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Article 243G, Eleventh Schedule and the three-F functionality test",
+      "preview": "ARTICLE 243G IS ENABLING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 220.691
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4040,
+      "markdown_body_line_end": 4058,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Fiscal constitution: own revenue, SFC, Union grants and audit",
+      "preview": "ARTICLE 243H",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 602.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4062,
+      "markdown_body_line_end": 4084,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: PESA, Scheduled Areas and community-centred decision verbs",
+      "preview": "FIFTH SCHEDULE AREA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 580.891
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 355.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4088,
+      "markdown_body_line_end": 4105,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Planning, accountability, digital tools and judicial boundary",
+      "preview": "PLANNING CHAIN",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 333.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 159.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4109,
+      "markdown_body_line_end": 4125,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Panchayat-municipality comparison and controlling local-body cases",
+      "preview": "PANCHAYATS                           MUNICIPALITIES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4129,
+      "markdown_body_line_end": 4143,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Exact continuity, transition and Union Territory controls",
+      "preview": "ARTICLE 243E",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 457.691
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4147,
+      "markdown_body_line_end": 4160,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: SFC, SEC and Supreme Court accountability controls",
+      "preview": "STATE FINANCE COMMISSION — ARTICLE 243I",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 435.691
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 302.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4164,
+      "markdown_body_line_end": 4178,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Dated evidence, answer compression and reform ownership",
+      "preview": "DATED PRIMARY CONTROLS — CHECKED 28 AUGUST 2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4182,
+      "markdown_body_line_end": 4205,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Implementation gaps, reforms, PYQs and synthesis",
+      "preview": "DIAGNOSIS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    }
+  ]
+}

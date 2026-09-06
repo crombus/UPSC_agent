@@ -290,3 +290,55 @@ rights-plus-capability verdict.
 
 > **Routing correction:** Core is now the answer-ready social-analysis owner. Legal and
 > historical owners remain named evidence routes, not prerequisites.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** social empowerment expands
+  capability, agency, resources, recognition, representation, accessibility and
+  institutional voice. Welfare input, legal entitlement, capability-conversion
+  factor and lived outcome are separate stages; formal mobility is not
+  substantive equality.
+- **Indispensable sociology and owned group map:** Scheduled Castes, Scheduled Tribes, socially and
+  educationally backward classes/OBCs, notified religious and linguistic
+  minorities, persons with disabilities, transgender persons and wider
+  LGBTQIA+ communities, and elderly persons are analysed separately before
+  intersectional overlap. None is a homogeneous or legally interchangeable
+  category.
+- **SC/ST/OBC precision:** Articles 338, 338A and 338B establish distinct national
+  commissions; Articles 341, 342 and 342A govern distinct notified/list fields.
+  Article 17 and the Protection of Civil Rights Act 1955 concern untouchability;
+  the SC/ST (Prevention of Atrocities) Act 1989 has a separate protective field.
+  Detailed reservation doctrine and benefit administration remain Polity/Social
+  Justice-owned.
+- **Minority precision:** Articles 29-30 protect cultural and educational
+  interests through constitutional categories that are not identical to the six
+  centrally notified religious communities administered under the National
+  Commission for Minorities Act 1992. Article 350B separately concerns linguistic
+  minorities.
+- **Disability, gender-identity and ageing precision:** the Rights of Persons with
+  Disabilities Act 2016 is an equality, accessibility and specified-disability
+  framework; benchmark disability is a statutory subcategory, not a synonym for
+  every person with disability. The Transgender Persons (Protection of Rights)
+  Act 2019 applies to transgender persons and is not a complete LGBTQIA+ equality
+  code; constitutional sexual-orientation equality and marriage recognition are
+  separate legal questions. The Maintenance and Welfare of Parents and Senior
+  Citizens Act 2007 creates maintenance/welfare duties but not proof of universal
+  pension, care access or family support.
+- **Intersectional mechanism:** caste/tribe, class, gender, disability, sexuality,
+  religion, age, region and rural-urban location change conversion factors such
+  as schooling, documentation, mobility, accessibility, language, stigma and
+  digital access. A group-level entitlement cannot establish equal uptake or
+  outcome within that group.
+- **Data/source control:** use dated commission, ministry and
+  statutory sources to establish mandate or legal status; use social evidence to
+  analyse conversion and outcome. Detailed scheme inventories, reservation
+  quantum, litigation and departmental implementation remain Social Justice or
+  Polity-owned.
+- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
+  taxonomy and PYQs were checked separately for every owned group, constitutional
+  and statutory category, capability-conversion mechanism, intersectional
+  overlap, implementation boundary and data limitation.
+- **Verified PYQ ownership, 2018-2026:** the owner's direct answer routes cover
+  the 2024 affirmative-action outcome gap and the 2025 Phule demand, with
+  cross-owner routing disclosed. No official 2026 demand, group prevalence or
+  scheme success rate is invented.

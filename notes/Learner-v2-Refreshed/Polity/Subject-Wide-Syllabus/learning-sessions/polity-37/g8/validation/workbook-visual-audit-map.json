@@ -1,0 +1,621 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "polity-37",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 645,
+      "heading": "Visual 74 - MCQ Rotation Audit",
+      "preview": "Original MCQs 1-36:",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 219.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 118.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 663,
+      "heading": "Visual 71 - Verified PYQ Coverage",
+      "preview": "Year/paper | Question | Routing status | Treatment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Year/paper",
+          "Question",
+          "Routing status",
+          "Treatment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 686.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 600.99
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 672,
+      "heading": "B. Verified Mains PYQ - 2021 GS-II Q11",
+      "preview": "**Question:** “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the ",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 548.39
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 453.322
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 688,
+      "heading": "Visual 72 - PYQ Demand Map",
+      "preview": "PART 1: Why State consent exists",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 428.322
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 307.322
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 739,
+      "heading": "C. Verified Prelims PYQ - 2026 GS-I Q63 (Controlled Unsolved)",
+      "preview": "**63. With reference to the organisations under the Government of India, consider the following details:**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 643.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 590.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 745,
+      "heading": "C. Verified Prelims PYQ - 2026 GS-I Q63 (Controlled Unsolved)",
+      "preview": "Sl. No. | Organisation | Function | Controlling Union Ministry",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Sl. No.",
+          "Organisation",
+          "Function",
+          "Controlling Union Ministry"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 590.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 463.422
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 751,
+      "heading": "C. Verified Prelims PYQ - 2026 GS-I Q63 (Controlled Unsolved)",
+      "preview": "**In how many of the above rows are the given details correctly matched?** (a) 1 (b) 2 (c) 3 (d) None",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 463.422
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 432.954
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 767,
+      "heading": "Visual 73 - How to Audit a Matching Question Without Guessing",
+      "preview": "FOR EACH ROW, VERIFY THREE INDEPENDENT ELEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 407.954
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 286.954
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 777,
+      "markdown_body_line_end": 777,
+      "heading": "Solved Mains 1 - 10 Marks / 150 Words",
+      "preview": "**“The CBI’s organisational birth and its investigative powers arise from different legal instruments.” Explain.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 178.154
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 147.687
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 788,
+      "heading": "Visual 75 - Two-Layer Thesis",
+      "preview": "ORGANISATION                         POLICE POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 714.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 848,
+      "heading": "Solved Mains 2 - 15 Marks / 250 Words",
+      "preview": "**Examine whether the CVC is an effective “apex vigilance institution” despite being primarily advisory and supervisory.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 188.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 144.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 861,
+      "heading": "Visual 76 - CVC Effectiveness Test",
+      "preview": "LEGAL STATUS + INDEPENDENCE SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 694.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "Solved Mains 3 - 15 Marks / 250 Words",
+      "preview": "**Analyse the constitutional and statutory limits on State power to deny CBI jurisdiction.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 686.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 934,
+      "heading": "Visual 77 - Qualified State Veto",
+      "preview": "ORDINARY ROUTE                    QUALIFICATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 661.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 590.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "Solved Mains 4 - 20 Marks / 300 Words",
+      "preview": "**“The central challenge is not to make CBI unaccountable to government, but to make investigation independent of improper control while keeping the agency answerable to law.” Critically analyse.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 497.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 453.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1013,
+      "heading": "Visual 78 - Insulation with Answerability",
+      "preview": "IMPROPER CONTROL                     LAWFUL ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 428.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 337.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1094,
+      "heading": "Solved Mains 5 - 10 Marks / 150 Words",
+      "preview": "**Differentiate the roles of Lokpal, CVC, CBI and departmental CVOs in processing corruption allegations.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 754.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1104,
+      "heading": "Visual 79 - Role-to-Output Chain",
+      "preview": "LOKPAL        -> complaint route and statutory directions",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 729.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 668.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "Solved Mains 6 - 15 Marks / 250 Words",
+      "preview": "**Discuss how the appointment and tenure architecture of the CBI Director attempts to reconcile continuity with democratic accountability.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1182,
+      "heading": "Visual 80 - Director Safeguard Triangle",
+      "preview": "SELECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 715.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 634.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1250,
+      "heading": "Solved Mains 7 - 15 Marks / 250 Words",
+      "preview": "**Compare CBI with ED, NIA and State anti-corruption agencies. Why is legal-domain separation essential?**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 573.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 543.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1262,
+      "heading": "Visual 81 - Domain Separation",
+      "preview": "CBI/DSPE -> notified corruption/economic/special crimes",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 518.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 437.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1348,
+      "heading": "Solved Mains 8 - 20 Marks / 300 Words",
+      "preview": "**Propose a reform framework for CVC-CBI that strengthens anti-corruption effectiveness without weakening federalism, due process or parliamentary accountability.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 294.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 249.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1365,
+      "heading": "Visual 82 - Reform Architecture",
+      "preview": "CLEAR LAW",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 224.624
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 93.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    }
+  ]
+}

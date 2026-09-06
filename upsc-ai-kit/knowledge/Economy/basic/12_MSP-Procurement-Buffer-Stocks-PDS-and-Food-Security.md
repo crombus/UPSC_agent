@@ -247,3 +247,27 @@ household distribution before evaluating food policy.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** MSP is an announced price policy, procurement is an actual purchase operation, buffer stock is held inventory, PDS distributes eligible entitlements, and food security includes availability, access, utilisation and stability.
+- **Indispensable distinction and prerequisite taxonomy:** MSP coverage is not procurement coverage, recommendation is not Cabinet decision, procurement is not legal entitlement for every crop/farmer, stock norm is not actual stock, and allocation is not offtake.
+- **Mechanism, implementation and evidence control:** State crop, season, agency, unit, date and source; separate CACP recommendation, government announcement, procurement, storage, allocation and delivery while analysing fiscal cost, leakage, nutrition, diversification and WTO qualification.
+- **✅ Verified current fact (official sources rechecked 5 September 2026):**
+  Rechecked 6 September 2026 against the listed official publisher or regulator source. The live DFPD pages were stubs and the CACP host did not resolve. All rates, quantities, stocks, procurement volumes and continuation periods are therefore deliberately omitted from the authored anchors unless the repository owner states a stable legal distinction. Sources: https://dfpd.gov.in/procurement-policy/en; https://dfpd.gov.in/allocation-of-food-grains/en; https://cacp.dacnet.nic.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Economy owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/economy taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on MSP and low farm income, food-distribution reform, NFSA, PDS transparency, buffer-stock stabilisation and millets. Objective demands test the CCEA announcement role, FCI economic cost, rice-price drivers, limits of oilseed procurement and niger seed; no answer letter is inferred.
